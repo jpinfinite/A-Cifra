@@ -113,7 +113,7 @@ export default function RootLayout({
         
         {/* Melhorias de SEO e segurança */}
         <meta name="referrer" content="origin" />
-        <meta name="google-site-verification" content="" />
+        <meta name="google-site-verification" content="EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE" />
         <meta name="yandex-verification" content="" />
         
         {/* Google AdSense */}
