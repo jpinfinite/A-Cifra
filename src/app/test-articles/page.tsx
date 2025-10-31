@@ -20,11 +20,7 @@ export default async function TestArticlesPage() {
             <h2 className="text-2xl font-semibold mb-4">📊 Estatísticas</h2>
             <ul className="space-y-2">
               <li><strong>Total de artigos:</strong> {allArticles.length}</li>
-<<<<<<< HEAD
               <li><strong>Artigo em destaque:</strong> {featuredArticle?.title || 'Nenhum'}</li>
-=======
-              <li><strong>Artigo em destaque:</strong> {featuredArticle.title}</li>
->>>>>>> 78a3942252fe9bcb8e1a6991350f31a58ee7254c
               <li><strong>Artigos recentes:</strong> {recentArticles.length}</li>
             </ul>
           </div>
