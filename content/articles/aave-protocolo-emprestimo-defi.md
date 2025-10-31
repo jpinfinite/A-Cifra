@@ -4,7 +4,7 @@ title: 'Aave: O Protocolo de Empréstimos DeFi Mais Popular'
 slug: 'aave-protocolo-emprestimo-defi'
 excerpt: 'Conheça o Aave, protocolo líder em empréstimos DeFi: como funciona, como emprestar e pegar emprestado, taxas e rendimentos.'
 coverImage:
-  src: '/images/defi-revolution.jpg'
+  src: '/images/AaveV3.jpg'
   alt: 'Aave - Protocolo DeFi'
   width: 1200
   height: 630

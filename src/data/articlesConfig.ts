@@ -213,7 +213,7 @@ export const articlesConfig: Array<{
     excerpt: 'A DeFi está revolucionando a finança tradicional. Descubra como investir com segurança neste ecossistema em crescimento e quais são as principais oportunidades.',
     contentPath: 'defi-futuro-financa-descentralizada-investir-seguranca.md',
     coverImage: {
-      src: '/images/defi-revolution.jpg',
+      src: '/images/defi1.jpg',
       alt: 'Tablet mostrando interface DeFi com gráficos e criptomoedas',
       width: 1200,
       height: 630
@@ -282,7 +282,7 @@ export const articlesConfig: Array<{
     excerpt: 'A blockchain é uma tecnologia revolucionária que está transformando indústrias inteiras. Descubra como funciona, suas aplicações e o impacto no futuro.',
     contentPath: 'blockchain-tecnologia-revolucionaria-mudando-mundo.md',
     coverImage: {
-      src: '/images/blockchain-technology.jpg',
+      src: '/images/dblok.jpg',
       alt: 'Representação visual da tecnologia blockchain com blocos conectados',
       width: 1200,
       height: 630
@@ -1037,7 +1037,7 @@ export const articlesConfig: Array<{
     slug: 'aave-protocolo-emprestimo-defi',
     excerpt: 'Conheça o Aave, protocolo líder em empréstimos DeFi: como funciona, como emprestar e pegar emprestado, taxas e rendimentos.',
     contentPath: 'aave-protocolo-emprestimo-defi.md',
-    coverImage: { src: '/images/defi-revolution.jpg', alt: 'Aave - Protocolo DeFi', width: 1200, height: 630 },
+    coverImage: { src: '/images/AaveV3.jpg', alt: 'Aave - Protocolo DeFi', width: 1200, height: 630 },
     author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
     publishedAt: '2025-10-31',
     updatedAt: '2025-10-31',
