@@ -54,7 +54,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const articles = await getAllArticles()
     articlePages = articles.map((article) => ({
       url: `${baseUrl}/artigo/${article.slug}`,
-      lastModified: article.updatedAt && article.updatedAt instanceof Date ? article.updatedAt : article.publishedAt,
+      lastModified:
+        article.updatedAt && article.updatedAt instanceof Date
+          ? article.updatedAt
+          : article.publishedAt,
       changeFrequency: 'weekly' as const,
       priority: 0.8,
     }))

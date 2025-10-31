@@ -92,5 +92,3 @@ export const categories = [
     color: '#FF6B35',
   },
 ]
-
-export type SiteConfigExport = typeof siteConfig
