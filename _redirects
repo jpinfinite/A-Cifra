@@ -1,0 +1,8 @@
+# Redirects for SPA routing
+/*    /index.html   200
+
+# API routes
+/api/*  /api/:splat  200
+
+# Static assets
+/_next/*  /_next/:splat  200

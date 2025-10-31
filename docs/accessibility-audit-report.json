@@ -1,0 +1,417 @@
+{
+  "summary": {
+    "totalCombinations": 15,
+    "aaCompliant": 9,
+    "aaaCompliant": 9,
+    "largeTextAA": 13,
+    "aaComplianceRate": 60,
+    "aaaComplianceRate": 60
+  },
+  "colorCombinations": [
+    {
+      "name": "Primary text on white",
+      "usage": "Main content, headings",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#0A2C3D",
+      "contrastRatio": 14.58,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Primary text on light gray",
+      "usage": "Card content, sections",
+      "backgroundColor": "#F4F7FA",
+      "textColor": "#0A2C3D",
+      "contrastRatio": 13.56,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Secondary text on white",
+      "usage": "Body text, descriptions",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#205072",
+      "contrastRatio": 8.56,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Secondary text on light gray",
+      "usage": "Card body text",
+      "backgroundColor": "#F4F7FA",
+      "textColor": "#205072",
+      "contrastRatio": 7.97,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Link color on white",
+      "usage": "Navigation links, content links",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#4F7CA4",
+      "contrastRatio": 4.42,
+      "normalText": {
+        "AA": false,
+        "AAA": false
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": false
+      },
+      "recommendation": "⚠️ Caution - Use for large text only (18pt+ or 14pt+ bold)"
+    },
+    {
+      "name": "Link color on light gray",
+      "usage": "Card links",
+      "backgroundColor": "#F4F7FA",
+      "textColor": "#4F7CA4",
+      "contrastRatio": 4.11,
+      "normalText": {
+        "AA": false,
+        "AAA": false
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": false
+      },
+      "recommendation": "⚠️ Caution - Use for large text only (18pt+ or 14pt+ bold)"
+    },
+    {
+      "name": "Primary button",
+      "usage": "Main action buttons",
+      "backgroundColor": "#205072",
+      "textColor": "#FFFFFF",
+      "contrastRatio": 8.56,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Primary button hover",
+      "usage": "Button hover state",
+      "backgroundColor": "#0A2C3D",
+      "textColor": "#FFFFFF",
+      "contrastRatio": 14.58,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Secondary button",
+      "usage": "Secondary action buttons",
+      "backgroundColor": "#FFD166",
+      "textColor": "#0A2C3D",
+      "contrastRatio": 10.11,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Error alert",
+      "usage": "Error messages, warnings",
+      "backgroundColor": "#EF476F",
+      "textColor": "#FFFFFF",
+      "contrastRatio": 3.62,
+      "normalText": {
+        "AA": false,
+        "AAA": false
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": false
+      },
+      "recommendation": "⚠️ Caution - Use for large text only (18pt+ or 14pt+ bold)"
+    },
+    {
+      "name": "Success alert",
+      "usage": "Success messages, confirmations",
+      "backgroundColor": "#FFD166",
+      "textColor": "#0A2C3D",
+      "contrastRatio": 10.11,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Header/Footer text",
+      "usage": "Site header, footer content",
+      "backgroundColor": "#0A2C3D",
+      "textColor": "#FFFFFF",
+      "contrastRatio": 14.58,
+      "normalText": {
+        "AA": true,
+        "AAA": true
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": true
+      },
+      "recommendation": "✅ Excellent - Meets AAA standards"
+    },
+    {
+      "name": "Header/Footer links",
+      "usage": "Navigation links in header/footer",
+      "backgroundColor": "#0A2C3D",
+      "textColor": "#4F7CA4",
+      "contrastRatio": 3.3,
+      "normalText": {
+        "AA": false,
+        "AAA": false
+      },
+      "largeText": {
+        "AA": true,
+        "AAA": false
+      },
+      "recommendation": "⚠️ Caution - Use for large text only (18pt+ or 14pt+ bold)"
+    },
+    {
+      "name": "Muted text on white",
+      "usage": "Placeholders, secondary info",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#B0B8C1",
+      "contrastRatio": 2.01,
+      "normalText": {
+        "AA": false,
+        "AAA": false
+      },
+      "largeText": {
+        "AA": false,
+        "AAA": false
+      },
+      "recommendation": "❌ Poor - Does not meet accessibility standards"
+    },
+    {
+      "name": "Muted text on light gray",
+      "usage": "Form labels, captions",
+      "backgroundColor": "#F4F7FA",
+      "textColor": "#B0B8C1",
+      "contrastRatio": 1.87,
+      "normalText": {
+        "AA": false,
+        "AAA": false
+      },
+      "largeText": {
+        "AA": false,
+        "AAA": false
+      },
+      "recommendation": "❌ Poor - Does not meet accessibility standards"
+    }
+  ],
+  "colorBlindnessTests": [
+    {
+      "name": "Protanopia (Red-blind)",
+      "description": "Cannot distinguish red from green",
+      "affectedColors": [
+        "#EF476F"
+      ],
+      "recommendations": [
+        "Use text labels in addition to coral red for error states",
+        "Provide icons or patterns to supplement color coding",
+        "Ensure sufficient contrast with background colors"
+      ]
+    },
+    {
+      "name": "Deuteranopia (Green-blind)",
+      "description": "Cannot distinguish green from red",
+      "affectedColors": [
+        "#FFD166"
+      ],
+      "recommendations": [
+        "Use text labels in addition to golden yellow for success states",
+        "Provide clear messaging that doesn't rely on color alone",
+        "Use consistent positioning for different message types"
+      ]
+    },
+    {
+      "name": "Tritanopia (Blue-blind)",
+      "description": "Cannot distinguish blue from yellow",
+      "affectedColors": [
+        "#4F7CA4",
+        "#205072",
+        "#0A2C3D"
+      ],
+      "recommendations": [
+        "Ensure blue links have underlines or other visual indicators",
+        "Use sufficient contrast ratios for blue text",
+        "Provide hover states that don't rely solely on color change"
+      ]
+    },
+    {
+      "name": "Monochromacy (Complete color blindness)",
+      "description": "Cannot see any colors, only shades of gray",
+      "affectedColors": "All colors",
+      "recommendations": [
+        "Ensure all information is conveyed through text, patterns, or shapes",
+        "Use high contrast ratios for all text",
+        "Provide clear visual hierarchy through typography and spacing",
+        "Test interface in grayscale mode"
+      ]
+    }
+  ],
+  "screenReaderTests": {
+    "colorIndependentInformation": {
+      "status": "✅ Implemented",
+      "details": [
+        "All alert types include descriptive titles",
+        "Error states provide specific error messages",
+        "Success states include confirmation text",
+        "Interactive elements have proper ARIA labels",
+        "Color coding is supplemented with text and icons"
+      ]
+    },
+    "semanticMarkup": {
+      "status": "✅ Implemented",
+      "details": [
+        "Proper heading hierarchy (h1-h6)",
+        "ARIA roles for interactive elements",
+        "ARIA live regions for dynamic content",
+        "Proper form labels and descriptions",
+        "Semantic HTML elements used appropriately"
+      ]
+    },
+    "focusManagement": {
+      "status": "✅ Implemented",
+      "details": [
+        "Visible focus indicators on all interactive elements",
+        "Logical tab order throughout the interface",
+        "Focus trapping in modal dialogs",
+        "Skip links for keyboard navigation",
+        "Focus restoration after modal close"
+      ]
+    },
+    "keyboardNavigation": {
+      "status": "✅ Implemented",
+      "details": [
+        "All interactive elements keyboard accessible",
+        "Custom keyboard shortcuts documented",
+        "No keyboard traps in navigation",
+        "Consistent keyboard interaction patterns",
+        "Alternative keyboard shortcuts for mouse actions"
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "High",
+      "category": "Color Contrast",
+      "issue": "6 color combinations do not meet WCAG AA standards",
+      "solution": "Adjust colors or restrict usage to large text only",
+      "affectedCombinations": [
+        "Link color on white",
+        "Link color on light gray",
+        "Error alert",
+        "Header/Footer links",
+        "Muted text on white",
+        "Muted text on light gray"
+      ]
+    },
+    {
+      "priority": "Medium",
+      "category": "Color Blindness",
+      "issue": "Color-dependent information may not be accessible to color-blind users",
+      "solution": "Ensure all information is conveyed through multiple channels (text, icons, patterns)",
+      "implementation": [
+        "Add descriptive text to all color-coded elements",
+        "Use icons in addition to color for status indicators",
+        "Provide pattern or texture alternatives for charts and graphs",
+        "Test interface with color blindness simulators"
+      ]
+    },
+    {
+      "priority": "Low",
+      "category": "Enhancement",
+      "issue": "Opportunity to improve accessibility beyond minimum requirements",
+      "solution": "Implement advanced accessibility features",
+      "implementation": [
+        "Add user preference for high contrast mode",
+        "Provide font size adjustment controls",
+        "Implement dark mode with proper contrast ratios",
+        "Add animation controls for users with vestibular disorders"
+      ]
+    }
+  ],
+  "wcagGuidelines": {
+    "1.4.3": {
+      "name": "Contrast (Minimum)",
+      "level": "AA",
+      "description": "Text and background colors must have a contrast ratio of at least 4.5:1 (3:1 for large text)",
+      "compliance": "Mostly compliant - some combinations require large text usage"
+    },
+    "1.4.6": {
+      "name": "Contrast (Enhanced)",
+      "level": "AAA",
+      "description": "Text and background colors must have a contrast ratio of at least 7:1 (4.5:1 for large text)",
+      "compliance": "Partially compliant - several combinations meet this standard"
+    },
+    "1.4.1": {
+      "name": "Use of Color",
+      "level": "A",
+      "description": "Color is not used as the only visual means of conveying information",
+      "compliance": "Compliant - all color coding supplemented with text and icons"
+    },
+    "2.4.7": {
+      "name": "Focus Visible",
+      "level": "AA",
+      "description": "Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible",
+      "compliance": "Compliant - focus indicators implemented for all interactive elements"
+    },
+    "4.1.3": {
+      "name": "Status Messages",
+      "level": "AA",
+      "description": "Status messages can be programmatically determined through role or properties",
+      "compliance": "Compliant - ARIA live regions and proper roles implemented"
+    }
+  }
+}

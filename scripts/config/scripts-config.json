@@ -1,0 +1,46 @@
+{
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "outputPath": "./logs/operations.log",
+    "maxFileSize": "10MB",
+    "retentionDays": 30
+  },
+  "backup": {
+    "enabled": true,
+    "retentionDays": 30,
+    "compressionEnabled": true,
+    "backupPath": "./logs/backups"
+  },
+  "validation": {
+    "checksumAlgorithm": "sha256",
+    "verifyBeforeOperation": true,
+    "verifyAfterOperation": true
+  },
+  "dryRun": {
+    "defaultMode": false,
+    "confirmationRequired": true
+  },
+  "notifications": {
+    "enabled": false,
+    "email": {
+      "enabled": false,
+      "recipients": []
+    },
+    "slack": {
+      "enabled": false,
+      "webhook": ""
+    }
+  },
+  "projectStructure": {
+    "assetsPath": "./public",
+    "imagesPath": "./public/images",
+    "scriptsPath": "./scripts",
+    "docsPath": "./docs"
+  },
+  "namingConventions": {
+    "imagePattern": "[tema]-[palavra-chave]-[ano].[ext]",
+    "altTextPattern": "{tema} - {descrição}",
+    "enforceConventions": true
+  }
+}

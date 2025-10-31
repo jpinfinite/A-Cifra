@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Otimizador de Artigos Kiro",
+  "description": "Aciona automaticamente o assistente IA Kiro para revisar, otimizar metadados SEO e validar conteúdo quando artigos na pasta artigos são modificados",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "artigos/*.md"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "Você é **Kiro**, a IA da Amazon integrada ao **CIFRA Assistant – Agente Inteligente de Finanças e Desenvolvimento**. Um artigo foi modificado na pasta artigos. Por favor:\n\n1. **Confirme a operação**: Revise o artigo modificado e identifique quais mudanças foram feitas\n2. **Execute otimização SEO**: Use Amazon Comprehend para analisar o conteúdo e otimizar metaTitle, metaDescription e palavras-chave\n3. **Valide a estrutura do conteúdo**: Garanta que o artigo segue os padrões de conteúdo da CIFRA\n4. **Gere relatório**: Forneça uma resposta JSON com:\n   ```json\n   {\n     \"status\": \"success\" | \"error\",\n     \"data\": {\n       \"metaTitle\": \"título otimizado\",\n       \"metaDescription\": \"descrição otimizada\", \n       \"keywords\": [\"palavra-chave1\", \"palavra-chave2\"],\n       \"contentAnalysis\": \"análise breve do conteúdo\",\n       \"seoScore\": \"pontuação de 0 a 100\"\n     },\n     \"message\": \"mensagem descritiva sobre a otimização\"\n   }\n   ```\n\nUse suas capacidades AWS (Comprehend para análise de sentimento/entidades, Lambda para processamento) conforme necessário. Mantenha a nomenclatura camelCase e preserve todos os campos de metadados."
+  }
+}

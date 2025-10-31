@@ -1,0 +1,165 @@
+import Link from 'next/link'
+import { Facebook, Twitter, Instagram, MessageCircle } from 'lucide-react'
+import { Text, Logo } from '@/components/ui'
+
+const footerLinks = {
+  categorias: [
+    { label: 'Bitcoin', href: '/categoria/bitcoin' },
+    { label: 'Altcoins', href: '/categoria/altcoins' },
+    { label: 'DeFi', href: '/categoria/defi' },
+    { label: 'NFTs', href: '/categoria/nfts' },
+  ],
+  recursos: [
+    { label: 'Análises', href: '/categoria/analises' },
+    { label: 'Educação', href: '/categoria/educacao' },
+    { label: 'Glossário', href: '/glossario' },
+    { label: 'Calculadoras', href: '/ferramentas' },
+  ],
+  empresa: [
+    { label: 'Sobre Nós', href: '/sobre' },
+    { label: 'Contato', href: '/contatos' },
+    { label: 'Política de Privacidade', href: '/privacidade' },
+    { label: 'Termos de Uso', href: '/termos' },
+  ]
+}
+
+const socialLinks = [
+  {
+    name: 'Twitter',
+    href: '#',
+    icon: Twitter,
+    ariaLabel: 'Seguir no Twitter'
+  },
+  {
+    name: 'Facebook',
+    href: '#',
+    icon: Facebook,
+    ariaLabel: 'Seguir no Facebook'
+  },
+  {
+    name: 'Instagram',
+    href: '#',
+    icon: Instagram,
+    ariaLabel: 'Seguir no Instagram'
+  },
+  {
+    name: 'WhatsApp',
+    href: '#',
+    icon: MessageCircle,
+    ariaLabel: 'Contato via WhatsApp'
+  }
+]
+
+export function Footer() {
+  const currentYear = new Date().getFullYear()
+
+  return (
+    <footer className="bg-brand-dark-blue text-white">
+      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+        {/* Main Footer Content */}
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+          {/* Brand Section */}
+          <div className="lg:col-span-1">
+            <Logo 
+              size="md" 
+              variant="footer"
+              className="focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue"
+            />
+            <Text className="mt-4 text-gray-300 max-w-xs">
+              Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. 
+              Análises, notícias e educação financeira.
+            </Text>
+            
+            {/* Social Links */}
+            <div className="mt-6 flex space-x-4">
+              {socialLinks.map((social) => {
+                const Icon = social.icon
+                return (
+                  <Link
+                    key={social.name}
+                    href={social.href}
+                    className="text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center"
+                    aria-label={social.ariaLabel}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <Icon className="h-5 w-5" />
+                  </Link>
+                )
+              })}
+            </div>
+          </div>
+
+          {/* Categories */}
+          <div>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-brand-gold">
+              Categorias
+            </h3>
+            <ul className="mt-4 space-y-3">
+              {footerLinks.categorias.map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href}
+                    className="text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Resources */}
+          <div>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-brand-gold">
+              Recursos
+            </h3>
+            <ul className="mt-4 space-y-3">
+              {footerLinks.recursos.map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href}
+                    className="text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Company */}
+          <div>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-brand-gold">
+              Empresa
+            </h3>
+            <ul className="mt-4 space-y-3">
+              {footerLinks.empresa.map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href}
+                    className="text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
+        {/* Bottom Section */}
+        <div className="mt-12 border-t border-brand-medium-blue pt-8">
+          <div className="flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0">
+            <Text className="text-gray-400 text-sm">
+              © {currentYear} A Cifra. Todos os direitos reservados.
+            </Text>
+            <Text className="text-gray-400 text-sm flex items-center gap-1">
+              Cifra a comunidade crypto brasileira
+            </Text>
+          </div>
+        </div>
+      </div>
+    </footer>
+  )
+}
