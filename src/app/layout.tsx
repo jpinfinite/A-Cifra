@@ -115,6 +115,9 @@ export default function RootLayout({
         <meta name="referrer" content="origin" />
         <meta name="google-site-verification" content="" />
         <meta name="yandex-verification" content="" />
+        
+        {/* Google AdSense */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
         {/* Skip link para acessibilidade */}
