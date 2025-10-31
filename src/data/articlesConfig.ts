@@ -666,6 +666,388 @@ export const articlesConfig: Array<{
       metaDescription: 'Guia completo de staking: como funciona, melhores moedas, plataformas, riscos e estratégias para ganhar renda passiva com criptomoedas.',
       keywords: ['staking criptomoedas', 'proof of stake', 'renda passiva crypto', 'staking ethereum', 'staking solana', 'recompensas staking']
     }
+  },
+  // Novos Artigos - Educacional (5)
+  {
+    id: 'blockchain-iniciantes',
+    title: 'O Que é Blockchain? Guia Completo para Iniciantes',
+    slug: 'o-que-e-blockchain-guia-iniciantes',
+    excerpt: 'Entenda de forma simples e clara o que é blockchain, como funciona essa tecnologia revolucionária e por que ela está mudando o mundo.',
+    contentPath: 'o-que-e-blockchain-guia-iniciantes.md',
+    coverImage: { src: '/images/block.webp', alt: 'Representação visual da tecnologia blockchain', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'educacao',
+    tags: ['blockchain', 'tecnologia', 'iniciantes', 'criptografia', 'descentralização'],
+    seo: {
+      metaTitle: 'O Que é Blockchain? Guia Completo para Iniciantes | A Cifra',
+      metaDescription: 'Guia completo sobre blockchain para iniciantes: o que é, como funciona, aplicações práticas e por que essa tecnologia está revolucionando diversos setores.',
+      keywords: ['o que é blockchain', 'blockchain para iniciantes', 'como funciona blockchain', 'tecnologia blockchain', 'criptografia']
+    }
+  },
+  {
+    id: 'cripto-vs-fiat',
+    title: 'Criptomoedas vs Moedas Tradicionais: Entenda as Diferenças',
+    slug: 'criptomoedas-vs-moedas-tradicionais',
+    excerpt: 'Descubra as principais diferenças entre criptomoedas e moedas tradicionais, vantagens, desvantagens e o futuro do dinheiro digital.',
+    contentPath: 'criptomoedas-vs-moedas-tradicionais.md',
+    coverImage: { src: '/images/criptomoedas-geral.jpg', alt: 'Comparação entre criptomoedas e moedas tradicionais', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'educacao',
+    tags: ['criptomoedas', 'moedas fiat', 'comparação', 'educação financeira', 'dinheiro digital'],
+    seo: {
+      metaTitle: 'Criptomoedas vs Moedas Tradicionais: Diferenças e Vantagens | A Cifra',
+      metaDescription: 'Entenda as principais diferenças entre criptomoedas e moedas tradicionais (fiat), suas vantagens, desvantagens e o impacto no futuro financeiro.',
+      keywords: ['criptomoedas vs moedas tradicionais', 'cripto vs fiat', 'diferenças criptomoedas', 'vantagens bitcoin', 'dinheiro digital']
+    }
+  },
+  {
+    id: 'tokenomics-guia',
+    title: 'Tokenomics: Entendendo a Economia dos Tokens',
+    slug: 'tokenomics-economia-dos-tokens',
+    excerpt: 'Aprenda o que é tokenomics, como analisar a economia de um token e identificar projetos com fundamentos sólidos no mercado cripto.',
+    contentPath: 'tokenomics-economia-dos-tokens.md',
+    coverImage: { src: '/images/criptoativos.jpg', alt: 'Gráficos e análise de tokenomics', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'educacao',
+    tags: ['tokenomics', 'análise', 'tokens', 'economia cripto', 'investimento'],
+    seo: {
+      metaTitle: 'Tokenomics: Guia Completo da Economia dos Tokens | A Cifra',
+      metaDescription: 'Entenda tokenomics: oferta, distribuição, utilidade e como analisar a economia de tokens para tomar decisões de investimento informadas.',
+      keywords: ['tokenomics', 'economia de tokens', 'análise cripto', 'oferta circulante', 'distribuição tokens']
+    }
+  },
+  {
+    id: 'carteiras-digitais',
+    title: 'Carteiras Digitais: Tipos, Diferenças e Como Escolher',
+    slug: 'carteiras-digitais-tipos-e-seguranca',
+    excerpt: 'Guia completo sobre carteiras de criptomoedas: hot wallets, cold wallets, hardware wallets e como escolher a melhor opção para suas necessidades.',
+    contentPath: 'carteiras-digitais-tipos-e-seguranca.md',
+    coverImage: { src: '/images/carteira.jpg', alt: 'Diferentes tipos de carteiras digitais de criptomoedas', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'educacao',
+    tags: ['carteiras', 'segurança', 'hot wallet', 'cold wallet', 'hardware wallet'],
+    seo: {
+      metaTitle: 'Carteiras Digitais de Criptomoedas: Guia Completo | A Cifra',
+      metaDescription: 'Entenda os diferentes tipos de carteiras de criptomoedas, suas vantagens, desvantagens e como escolher a melhor para proteger seus ativos digitais.',
+      keywords: ['carteiras de criptomoedas', 'hot wallet', 'cold wallet', 'hardware wallet', 'segurança cripto']
+    }
+  },
+  {
+    id: 'mineracao-cripto',
+    title: 'Como Funciona a Mineração de Criptomoedas?',
+    slug: 'como-funciona-mineracao-criptomoedas',
+    excerpt: 'Entenda o processo de mineração de criptomoedas, como os mineradores validam transações e ganham recompensas na rede blockchain.',
+    contentPath: 'como-funciona-mineracao-criptomoedas.md',
+    coverImage: { src: '/images/minero.jpg', alt: 'Equipamento de mineração de criptomoedas', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'educacao',
+    tags: ['mineração', 'bitcoin', 'proof of work', 'blockchain', 'validação'],
+    seo: {
+      metaTitle: 'Como Funciona a Mineração de Criptomoedas? Guia Completo | A Cifra',
+      metaDescription: 'Guia completo sobre mineração de criptomoedas: o que é, como funciona, equipamentos necessários, custos e se ainda vale a pena minerar.',
+      keywords: ['mineração de criptomoedas', 'como minerar bitcoin', 'proof of work', 'mineração cripto', 'equipamento mineração']
+    }
+  },
+  // Memecoins (5)
+  {
+    id: 'shiba-inu-coin',
+    title: 'Shiba Inu (SHIB): O "Dogecoin Killer" e Seu Ecossistema',
+    slug: 'shiba-inu-dogecoin-killer',
+    excerpt: 'Conheça o Shiba Inu, a memecoin que se autodenomina "Dogecoin Killer", seu ecossistema DeFi e o potencial de valorização do SHIB.',
+    contentPath: 'shiba-inu-dogecoin-killer.md',
+    coverImage: { src: '/images/shiba.jpg', alt: 'Shiba Inu - O Dogecoin Killer', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'memecoin',
+    tags: ['shiba inu', 'shib', 'memecoins', 'defi', 'shibarium'],
+    seo: {
+      metaTitle: 'Shiba Inu (SHIB): Guia Completo do Dogecoin Killer | A Cifra',
+      metaDescription: 'Tudo sobre Shiba Inu: história, ecossistema, Shibarium, ShibaSwap e se vale a pena investir no SHIB em 2025.',
+      keywords: ['shiba inu', 'shib', 'dogecoin killer', 'shibarium', 'shibaswap']
+    }
+  },
+  {
+    id: 'dogecoin-historia',
+    title: 'Dogecoin: A História da Memecoin Que Virou Fenômeno Global',
+    slug: 'dogecoin-historia-e-futuro',
+    excerpt: 'Conheça a história do Dogecoin, desde sua criação como piada até se tornar uma das criptomoedas mais populares do mundo, apoiada por Elon Musk.',
+    contentPath: 'dogecoin-historia-e-futuro.md',
+    coverImage: { src: '/images/doge.jpg', alt: 'Dogecoin - A primeira memecoin', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'memecoin',
+    tags: ['dogecoin', 'doge', 'elon musk', 'memecoins', 'história cripto'],
+    seo: {
+      metaTitle: 'Dogecoin: História e Futuro da Memecoin Original | A Cifra',
+      metaDescription: 'A história completa do Dogecoin: como uma piada se tornou uma das maiores criptomoedas, o papel de Elon Musk e o futuro do DOGE.',
+      keywords: ['dogecoin', 'história dogecoin', 'doge', 'elon musk dogecoin', 'memecoin original']
+    }
+  },
+  {
+    id: 'identificar-memecoins',
+    title: 'Como Identificar Memecoins Promissoras Antes da Explosão',
+    slug: 'como-identificar-memecoins-promissoras',
+    excerpt: 'Aprenda a identificar memecoins com potencial antes que explodam, analisando comunidade, liquidez, holders e outros indicadores-chave.',
+    contentPath: 'como-identificar-memecoins-promissoras.md',
+    coverImage: { src: '/images/memecoins.jpg', alt: 'Análise de memecoins promissoras', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'memecoin',
+    tags: ['memecoins', 'análise', 'investimento', 'estratégia', 'identificação'],
+    seo: {
+      metaTitle: 'Como Identificar Memecoins Promissoras: Guia Completo | A Cifra',
+      metaDescription: 'Guia completo para identificar memecoins com potencial: análise de comunidade, liquidez, holders, contratos e sinais de alerta.',
+      keywords: ['identificar memecoins', 'memecoins promissoras', 'análise memecoins', 'investir memecoins', 'como escolher memecoin']
+    }
+  },
+  {
+    id: 'floki-inu',
+    title: 'Floki Inu: A Memecoin Com Utilidade Real',
+    slug: 'floki-inu-memecoin-utilidade',
+    excerpt: 'Conheça o Floki Inu, a memecoin inspirada no cachorro de Elon Musk que está construindo um ecossistema com utilidade real: metaverso, DeFi e NFTs.',
+    contentPath: 'floki-inu-memecoin-utilidade.md',
+    coverImage: { src: '/images/floki.jpg', alt: 'Floki Inu - Memecoin com utilidade', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'memecoin',
+    tags: ['floki inu', 'floki', 'memecoins', 'metaverso', 'defi'],
+    seo: {
+      metaTitle: 'Floki Inu: Memecoin com Utilidade Real e Ecossistema | A Cifra',
+      metaDescription: 'Guia completo sobre Floki Inu: ecossistema, Valhalla (metaverso), FlokiFi, utilidade real e se vale a pena investir em FLOKI.',
+      keywords: ['floki inu', 'floki', 'valhalla', 'flokifi', 'memecoin utilidade']
+    }
+  },
+  {
+    id: 'pepe-coin',
+    title: 'PEPE Coin: O Fenômeno Memecoin de 2023',
+    slug: 'pepe-coin-fenomeno-meme',
+    excerpt: 'Descubra a história do PEPE, a memecoin baseada no meme Pepe the Frog que explodiu em 2023 e gerou retornos astronômicos para investidores iniciais.',
+    contentPath: 'pepe-coin-fenomeno-meme.md',
+    coverImage: { src: '/images/pepe.jpg', alt: 'PEPE Coin - Memecoin de 2023', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'memecoin',
+    tags: ['pepe', 'memecoins', 'pepe the frog', '2023', 'viral'],
+    seo: {
+      metaTitle: 'PEPE Coin: A Memecoin Que Explodiu em 2023 | A Cifra',
+      metaDescription: 'Tudo sobre PEPE Coin: como surgiu, por que explodiu, retornos históricos e se ainda vale a pena investir na memecoin do Pepe the Frog.',
+      keywords: ['pepe coin', 'pepe memecoin', 'pepe the frog', 'memecoins 2023', 'investir pepe']
+    }
+  },
+  // Tutoriais (4)
+  {
+    id: 'comprar-primeira-cripto',
+    title: 'Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo',
+    slug: 'como-comprar-primeira-criptomoeda',
+    excerpt: 'Tutorial completo para iniciantes: aprenda a comprar sua primeira criptomoeda de forma segura, desde a escolha da exchange até o armazenamento.',
+    contentPath: 'como-comprar-primeira-criptomoeda.md',
+    coverImage: { src: '/images/bit.jpg', alt: 'Como comprar criptomoedas - Tutorial passo a passo', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'tutoriais',
+    tags: ['tutorial', 'iniciantes', 'comprar cripto', 'exchange', 'passo a passo'],
+    seo: {
+      metaTitle: 'Como Comprar Sua Primeira Criptomoeda: Tutorial Completo | A Cifra',
+      metaDescription: 'Guia passo a passo para comprar sua primeira criptomoeda: escolha de exchange, cadastro, verificação, depósito e compra segura.',
+      keywords: ['como comprar criptomoeda', 'comprar bitcoin', 'primeira cripto', 'tutorial cripto', 'exchange brasil']
+    }
+  },
+  {
+    id: 'uniswap-tutorial',
+    title: 'Como Usar o Uniswap: Tutorial Completo de Swap de Tokens',
+    slug: 'como-usar-uniswap-tutorial',
+    excerpt: 'Aprenda a usar o Uniswap passo a passo: conectar carteira, fazer swap de tokens, adicionar liquidez e evitar erros comuns na DEX mais popular.',
+    contentPath: 'como-usar-uniswap-tutorial.md',
+    coverImage: { src: '/images/uniswap.jpg', alt: 'Tutorial Uniswap - Como fazer swap', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'tutoriais',
+    tags: ['uniswap', 'dex', 'swap', 'defi', 'tutorial'],
+    seo: {
+      metaTitle: 'Como Usar o Uniswap: Tutorial Completo Passo a Passo | A Cifra',
+      metaDescription: 'Guia completo para usar o Uniswap: conectar MetaMask, fazer swap de tokens, entender slippage e evitar erros comuns.',
+      keywords: ['como usar uniswap', 'uniswap tutorial', 'swap tokens', 'dex tutorial', 'uniswap metamask']
+    }
+  },
+  {
+    id: 'staking-eth-tutorial',
+    title: 'Como Fazer Staking de Ethereum: Tutorial Passo a Passo',
+    slug: 'como-fazer-staking-ethereum',
+    excerpt: 'Guia completo para fazer staking de ETH: opções disponíveis, plataformas recomendadas, riscos e como começar a ganhar recompensas passivas.',
+    contentPath: 'como-fazer-staking-ethereum.md',
+    coverImage: { src: '/images/staking-recompensas.jpg', alt: 'Tutorial de staking de Ethereum', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'tutoriais',
+    tags: ['staking', 'ethereum', 'eth', 'tutorial', 'renda passiva'],
+    seo: {
+      metaTitle: 'Como Fazer Staking de Ethereum: Tutorial Completo | A Cifra',
+      metaDescription: 'Aprenda a fazer staking de ETH: opções de staking, plataformas, rendimentos esperados e tutorial passo a passo.',
+      keywords: ['staking ethereum', 'como fazer staking eth', 'staking eth tutorial', 'renda passiva ethereum', 'validador ethereum']
+    }
+  },
+  {
+    id: 'criar-nft-tutorial',
+    title: 'Como Criar e Vender Seu Primeiro NFT: Guia Completo',
+    slug: 'como-criar-nft-tutorial',
+    excerpt: 'Tutorial passo a passo para criar, mintar e vender seu primeiro NFT no OpenSea: da criação da arte até a primeira venda.',
+    contentPath: 'como-criar-nft-tutorial.md',
+    coverImage: { src: '/images/nft.jpg', alt: 'Como criar NFT - Tutorial completo', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'tutoriais',
+    tags: ['nft', 'opensea', 'criar nft', 'tutorial', 'arte digital'],
+    seo: {
+      metaTitle: 'Como Criar e Vender NFT: Tutorial Completo OpenSea | A Cifra',
+      metaDescription: 'Guia passo a passo para criar seu primeiro NFT: preparar arte, mintar no OpenSea, definir preço e vender sua arte digital.',
+      keywords: ['como criar nft', 'criar nft opensea', 'vender nft', 'mintar nft', 'tutorial nft']
+    }
+  },
+  {
+    id: 'pancakeswap-tutorial',
+    title: 'Como Usar o PancakeSwap: Tutorial Completo na BSC',
+    slug: 'como-usar-pancakeswap-tutorial',
+    excerpt: 'Guia passo a passo para usar o PancakeSwap: conectar carteira, fazer swap, adicionar liquidez e fazer farming na maior DEX da Binance Smart Chain.',
+    contentPath: 'como-usar-pancakeswap-tutorial.md',
+    coverImage: { src: '/images/PancakeSwap.jpg', alt: 'Tutorial PancakeSwap - DEX BSC', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'tutoriais',
+    tags: ['pancakeswap', 'bsc', 'dex', 'farming', 'tutorial'],
+    seo: {
+      metaTitle: 'Como Usar PancakeSwap: Tutorial Completo BSC | A Cifra',
+      metaDescription: 'Aprenda a usar PancakeSwap: swap de tokens, farming, pools de liquidez e como ganhar CAKE na Binance Smart Chain.',
+      keywords: ['pancakeswap tutorial', 'como usar pancakeswap', 'farming pancakeswap', 'bsc dex', 'swap bsc']
+    }
+  },
+  // DeFi (5)
+  {
+    id: 'yield-farming-guia',
+    title: 'Yield Farming: Guia Completo para Maximizar Rendimentos em DeFi',
+    slug: 'yield-farming-guia-completo',
+    excerpt: 'Aprenda tudo sobre yield farming: o que é, como funciona, melhores estratégias, riscos e como começar a ganhar rendimentos passivos em DeFi.',
+    contentPath: 'yield-farming-guia-completo.md',
+    coverImage: { src: '/images/yield.jpg', alt: 'Yield Farming - Guia completo', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['yield farming', 'defi', 'farming', 'apy', 'liquidez'],
+    seo: {
+      metaTitle: 'Yield Farming: Guia Completo para Maximizar Rendimentos | A Cifra',
+      metaDescription: 'Guia completo de yield farming: estratégias, melhores plataformas, cálculo de APY, riscos e como começar a fazer farming em DeFi.',
+      keywords: ['yield farming', 'farming defi', 'apy cripto', 'liquidez defi', 'farming estratégias']
+    }
+  },
+  {
+    id: 'impermanent-loss',
+    title: 'Perda Impermanente (Impermanent Loss): O Que É e Como Evitar',
+    slug: 'impermanent-loss-explicado',
+    excerpt: 'Entenda a perda impermanente em DeFi: o que é, como calcular, exemplos práticos e estratégias para minimizar esse risco ao fornecer liquidez.',
+    contentPath: 'impermanent-loss-explicado.md',
+    coverImage: { src: '/images/perda.jpg', alt: 'Perda Impermanente - Guia completo', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['impermanent loss', 'defi', 'liquidez', 'amm', 'pools'],
+    seo: {
+      metaTitle: 'Perda Impermanente: O Que É e Como Evitar | A Cifra',
+      metaDescription: 'Guia completo sobre impermanent loss: conceito, cálculo, exemplos práticos e estratégias para minimizar perdas ao fornecer liquidez.',
+      keywords: ['impermanent loss', 'perda impermanente', 'liquidez defi', 'amm', 'pools liquidez']
+    }
+  },
+  {
+    id: 'curve-finance',
+    title: 'Curve Finance: A DEX Especializada em Stablecoins',
+    slug: 'curve-finance-stablecoins',
+    excerpt: 'Entenda o Curve Finance, a DEX otimizada para stablecoins com baixo slippage, altos rendimentos e o token CRV.',
+    contentPath: 'curve-finance-stablecoins.md',
+    coverImage: { src: '/images/curve.jpg', alt: 'Curve Finance - DEX Stablecoins', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['curve', 'defi', 'stablecoins', 'dex', 'crv'],
+    seo: {
+      metaTitle: 'Curve Finance: Guia da DEX de Stablecoins | A Cifra',
+      metaDescription: 'Guia completo do Curve Finance: como funciona, pools de stablecoins, farming de CRV e como maximizar rendimentos.',
+      keywords: ['curve finance', 'curve dex', 'crv token', 'stablecoins dex', 'curve pools']
+    }
+  },
+  {
+    id: 'compound-finance',
+    title: 'Compound Finance: Protocolo de Empréstimos Autônomos',
+    slug: 'compound-finance-lending',
+    excerpt: 'Conheça o Compound, um dos primeiros protocolos DeFi de empréstimos: como funciona, taxas, o token COMP e como ganhar rendimentos.',
+    contentPath: 'compound-finance-lending.md',
+    coverImage: { src: '/images/comp.jpg', alt: 'Compound Finance - Lending DeFi', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['compound', 'defi', 'lending', 'comp', 'empréstimos'],
+    seo: {
+      metaTitle: 'Compound Finance: Guia do Protocolo de Empréstimos | A Cifra',
+      metaDescription: 'Guia completo do Compound Finance: como emprestar, pegar emprestado, ganhar COMP e maximizar rendimentos no protocolo.',
+      keywords: ['compound finance', 'compound protocol', 'comp token', 'lending defi', 'empréstimos compound']
+    }
+  },
+  {
+    id: 'makerdao-dai',
+    title: 'MakerDAO e DAI: A Stablecoin Descentralizada',
+    slug: 'makerdao-dai-stablecoin',
+    excerpt: 'Entenda o MakerDAO, o protocolo por trás do DAI, a stablecoin descentralizada mais importante do DeFi e como ela mantém paridade com o dólar.',
+    contentPath: 'makerdao-dai-stablecoin.md',
+    coverImage: { src: '/images/dao.jpg', alt: 'MakerDAO e DAI - Stablecoin descentralizada', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['makerdao', 'dai', 'stablecoin', 'defi', 'cdp'],
+    seo: {
+      metaTitle: 'MakerDAO e DAI: Guia da Stablecoin Descentralizada | A Cifra',
+      metaDescription: 'Guia completo sobre MakerDAO e DAI: como funciona, como gerar DAI, vaults, governança e por que é a stablecoin mais descentralizada.',
+      keywords: ['makerdao', 'dai stablecoin', 'dai cripto', 'stablecoin descentralizada', 'maker protocol']
+    }
+  },
+  {
+    id: 'aave-protocolo',
+    title: 'Aave: O Protocolo de Empréstimos DeFi Mais Popular',
+    slug: 'aave-protocolo-emprestimo-defi',
+    excerpt: 'Conheça o Aave, protocolo líder em empréstimos DeFi: como funciona, como emprestar e pegar emprestado, taxas e rendimentos.',
+    contentPath: 'aave-protocolo-emprestimo-defi.md',
+    coverImage: { src: '/images/defi-revolution.jpg', alt: 'Aave - Protocolo DeFi', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['aave', 'defi', 'empréstimos', 'lending', 'borrowing'],
+    seo: {
+      metaTitle: 'Aave: Guia Completo do Protocolo de Empréstimos DeFi | A Cifra',
+      metaDescription: 'Tudo sobre Aave: como funciona, como emprestar cripto, pegar emprestado, flash loans e ganhar rendimentos passivos.',
+      keywords: ['aave', 'aave protocol', 'empréstimos defi', 'lending cripto', 'flash loans']
+    }
   }
 ]
 

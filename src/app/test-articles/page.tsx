@@ -9,7 +9,7 @@ export default async function TestArticlesPage() {
     return (
       <div className="container mx-auto p-8">
         <h1 className="text-3xl font-bold mb-8">Teste de Artigos</h1>
-        
+
         <div className="space-y-8">
           <div className="bg-green-100 p-6 rounded-lg">
             <h2 className="text-2xl font-semibold mb-4">✅ Status</h2>
