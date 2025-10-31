@@ -4,7 +4,7 @@ title: 'Carteiras Digitais: Tipos, Diferenças e Como Escolher'
 slug: 'carteiras-digitais-tipos-e-seguranca'
 excerpt: 'Guia completo sobre carteiras de criptomoedas: hot wallets, cold wallets, hardware wallets e como escolher a melhor opção para suas necessidades.'
 coverImage:
-  src: '/images/digital-wallet-security.jpg'
+  src: '/images/carteira.jpg'
   alt: 'Diferentes tipos de carteiras digitais de criptomoedas'
   width: 1200
   height: 630

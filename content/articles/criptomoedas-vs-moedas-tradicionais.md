@@ -4,7 +4,7 @@ title: 'Criptomoedas vs Moedas Tradicionais: Entenda as Diferenças'
 slug: 'criptomoedas-vs-moedas-tradicionais'
 excerpt: 'Descubra as principais diferenças entre criptomoedas e moedas tradicionais, vantagens, desvantagens e o futuro do dinheiro digital.'
 coverImage:
-  src: '/images/crypto-vs-fiat.jpg'
+  src: '/images/criptomoedas-geral.jpg'
   alt: 'Comparação entre criptomoedas e moedas tradicionais'
   width: 1200
   height: 630

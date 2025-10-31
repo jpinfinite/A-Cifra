@@ -4,7 +4,7 @@ title: 'Como Funciona a Mineração de Criptomoedas?'
 slug: 'como-funciona-mineracao-criptomoedas'
 excerpt: 'Entenda o processo de mineração de criptomoedas, como os mineradores validam transações e ganham recompensas na rede blockchain.'
 coverImage:
-  src: '/images/crypto-mining.jpg'
+  src: '/images/minero.jpg'
   alt: 'Equipamento de mineração de criptomoedas'
   width: 1200
   height: 630

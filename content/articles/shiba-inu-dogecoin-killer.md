@@ -4,7 +4,7 @@ title: 'Shiba Inu (SHIB): O "Dogecoin Killer" e Seu Ecossistema'
 slug: 'shiba-inu-dogecoin-killer'
 excerpt: 'Conheça o Shiba Inu, a memecoin que se autodenomina "Dogecoin Killer", seu ecossistema DeFi e o potencial de valorização do SHIB.'
 coverImage:
-  src: '/images/memecoins-phenomenon.jpg'
+  src: '/images/shiba.jpg'
   alt: 'Shiba Inu - O Dogecoin Killer'
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: 'Compound Finance: Protocolo de Empréstimos Autônomos'
 slug: 'compound-finance-lending'
 excerpt: 'Conheça o Compound, um dos primeiros protocolos DeFi de empréstimos: como funciona, taxas, o token COMP e como ganhar rendimentos.'
 coverImage:
-  src: '/images/defi-revolution.jpg'
+  src: '/images/comp.jpg'
   alt: 'Compound Finance - Lending DeFi'
   width: 1200
   height: 630

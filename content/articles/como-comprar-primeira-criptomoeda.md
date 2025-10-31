@@ -4,7 +4,7 @@ title: 'Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo'
 slug: 'como-comprar-primeira-criptomoeda'
 excerpt: 'Tutorial completo para iniciantes: aprenda a comprar sua primeira criptomoeda de forma segura, desde a escolha da exchange até o armazenamento.'
 coverImage:
-  src: '/images/crypto-exchange.jpg'
+  src: '/images/bit.jpg'
   alt: 'Como comprar criptomoedas - Tutorial passo a passo'
   width: 1200
   height: 630

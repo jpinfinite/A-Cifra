@@ -4,7 +4,7 @@ title: 'Dogecoin: A História da Memecoin Que Virou Fenômeno Global'
 slug: 'dogecoin-historia-e-futuro'
 excerpt: 'Conheça a história do Dogecoin, desde sua criação como piada até se tornar uma das criptomoedas mais populares do mundo, apoiada por Elon Musk.'
 coverImage:
-  src: '/images/memecoins-phenomenon.jpg'
+  src: '/images/doge.jpg'
   alt: 'Dogecoin - A primeira memecoin'
   width: 1200
   height: 630
