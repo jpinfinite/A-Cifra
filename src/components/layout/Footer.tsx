@@ -25,28 +25,16 @@ const footerLinks = {
 
 const socialLinks = [
   {
-    name: 'Twitter',
-    href: '#',
+    name: 'X (Twitter)',
+    href: 'https://x.com/acifra_btc',
     icon: Twitter,
-    ariaLabel: 'Seguir no Twitter'
-  },
-  {
-    name: 'Facebook',
-    href: '#',
-    icon: Facebook,
-    ariaLabel: 'Seguir no Facebook'
+    ariaLabel: 'Seguir no X (Twitter)'
   },
   {
     name: 'Instagram',
-    href: '#',
+    href: 'https://www.instagram.com/cifras_coins',
     icon: Instagram,
     ariaLabel: 'Seguir no Instagram'
-  },
-  {
-    name: 'WhatsApp',
-    href: '#',
-    icon: MessageCircle,
-    ariaLabel: 'Contato via WhatsApp'
   }
 ]
 

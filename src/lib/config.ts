@@ -10,10 +10,8 @@ export const siteConfig: SiteConfig = {
     alt: 'A Cifra - Blog sobre Criptomoedas',
   },
   social: {
-    twitter: 'https://twitter.com/acifra',
-    facebook: 'https://facebook.com/acifra',
-    instagram: 'https://instagram.com/acifra',
-    whatsapp: 'https://wa.me/5511999999999',
+    twitter: 'https://x.com/acifra_btc',
+    instagram: 'https://www.instagram.com/cifras_coins',
   },
   analytics: {
     googleAnalyticsId: process.env.NEXT_PUBLIC_GA_ID,
