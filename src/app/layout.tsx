@@ -118,6 +118,23 @@ export default function RootLayout({
         
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
+        
+        {/* Google News - Subscribe with Google */}
+        <script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+                basicSubscriptions.init({
+                  type: "NewsArticle",
+                  isPartOfType: ["Product"],
+                  isPartOfProductId: "CAowi9_dCw:openaccess",
+                  clientOptions: { theme: "light", lang: "pt-BR" },
+                });
+              });
+            `
+          }}
+        />
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
         {/* Skip link para acessibilidade */}
