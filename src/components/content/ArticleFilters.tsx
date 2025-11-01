@@ -75,12 +75,18 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
         <div className="relative">
           <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400 h-5 w-5" />
           <input
-            type="text"
+            type="search"
             placeholder="Buscar por título, conteúdo ou tags..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
             className="w-full pl-12 pr-12 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-primary-blue focus:border-transparent outline-none"
+            aria-label="Buscar artigos por título, conteúdo ou tags"
+            role="searchbox"
+            aria-describedby="search-description"
           />
+          <span id="search-description" className="sr-only">
+            Digite para buscar artigos em tempo real
+          </span>
           {searchTerm && (
             <button
               onClick={() => setSearchTerm('')}
@@ -98,6 +104,9 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
         <button
           onClick={() => setShowFilters(!showFilters)}
           className="flex items-center gap-2 px-4 py-2 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors lg:hidden"
+          aria-label={showFilters ? 'Ocultar filtros' : 'Mostrar filtros'}
+          aria-expanded={showFilters}
+          aria-controls="filters-panel"
         >
           <Filter className="h-4 w-4" />
           <span>Filtros</span>
@@ -116,7 +125,12 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
       </div>
 
       {/* Filters */}
-      <div className={`${showFilters ? 'block' : 'hidden'} lg:block`}>
+      <div 
+        id="filters-panel"
+        className={`${showFilters ? 'block' : 'hidden'} lg:block`}
+        role="region"
+        aria-label="Painel de filtros de artigos"
+      >
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4 bg-gray-50 rounded-lg">
           {/* Category Filter */}
           <div>
@@ -128,6 +142,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
               value={selectedCategory}
               onChange={(e) => setSelectedCategory(e.target.value)}
               className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-primary-blue focus:border-transparent outline-none"
+              aria-label="Filtrar artigos por categoria"
             >
               <option value="all">Todas as categorias</option>
               {categories.map(category => (
@@ -148,6 +163,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
               value={selectedYear}
               onChange={(e) => setSelectedYear(e.target.value)}
               className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-primary-blue focus:border-transparent outline-none"
+              aria-label="Filtrar artigos por ano de publicação"
             >
               <option value="all">Todos os anos</option>
               {availableYears.map(year => (
@@ -164,6 +180,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
               onClick={handleClearFilters}
               disabled={!hasActiveFilters}
               className="w-full px-4 py-2 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+              aria-label="Limpar todos os filtros ativos"
             >
               <X className="h-4 w-4" />
               <span>Limpar filtros</span>
@@ -174,13 +191,19 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
 
       {/* Active Filters Tags */}
       {hasActiveFilters && (
-        <div className="flex flex-wrap gap-2 mt-4">
+        <div 
+          className="flex flex-wrap gap-2 mt-4"
+          role="status"
+          aria-live="polite"
+          aria-label="Filtros ativos"
+        >
           {searchTerm && (
             <span className="inline-flex items-center gap-1 px-3 py-1 bg-brand-primary-blue text-white text-sm rounded-full">
               Busca: "{searchTerm}"
               <button
                 onClick={() => setSearchTerm('')}
                 className="hover:bg-brand-medium-blue rounded-full p-0.5"
+                aria-label={`Remover filtro de busca: ${searchTerm}`}
               >
                 <X className="h-3 w-3" />
               </button>
@@ -192,6 +215,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
               <button
                 onClick={() => setSelectedCategory('all')}
                 className="hover:bg-brand-medium-blue rounded-full p-0.5"
+                aria-label={`Remover filtro de categoria: ${categories.find(c => c.slug === selectedCategory)?.name}`}
               >
                 <X className="h-3 w-3" />
               </button>
@@ -203,6 +227,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
               <button
                 onClick={() => setSelectedYear('all')}
                 className="hover:bg-brand-medium-blue rounded-full p-0.5"
+                aria-label={`Remover filtro de ano: ${selectedYear}`}
               >
                 <X className="h-3 w-3" />
               </button>

@@ -82,6 +82,31 @@
       "description": "Aprenda sobre blockchain e criptomoedas",
       "url": "/categoria/educacao",
       "icons": [{ "src": "/images/Favicon.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "DeFi",
+      "short_name": "DeFi",
+      "description": "Finanças descentralizadas",
+      "url": "/categoria/defi",
+      "icons": [{ "src": "/images/Favicon.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Tutoriais",
+      "short_name": "Tutoriais",
+      "description": "Guias práticos passo a passo",
+      "url": "/categoria/tutoriais",
+      "icons": [{ "src": "/images/Favicon.png", "sizes": "96x96" }]
     }
-  ]
+  ],
+  "screenshots": [
+    {
+      "src": "/images/cifra-principal.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Página inicial do A Cifra"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
 }
