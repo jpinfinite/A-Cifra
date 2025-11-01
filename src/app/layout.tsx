@@ -116,6 +116,19 @@ export default function RootLayout({
         <meta name="google-site-verification" content="EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE" />
         <meta name="yandex-verification" content="" />
         
+        {/* Google Analytics (gtag.js) */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-TFBC1HD2BR');
+            `
+          }}
+        />
+        
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
         
