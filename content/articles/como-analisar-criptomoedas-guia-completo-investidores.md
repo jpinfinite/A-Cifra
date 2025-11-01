@@ -36,83 +36,98 @@ seo:
     - 'investir criptomoedas'
 ---
 
-<p>Saber <strong>como analisar criptomoedas</strong> é fundamental para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Com milhares de projetos disponíveis, a capacidade de avaliar adequadamente uma criptomoeda pode ser a diferença entre o sucesso e o fracasso nos investimentos.</p>
-      
-      <p>Este guia completo apresenta as principais metodologias de análise, ferramentas essenciais e estratégias práticas para avaliar o potencial de investimento em criptomoedas.</p>
-      
-      <h2>Análise Fundamentalista de Criptomoedas</h2>
-      
-      <p>A <strong>análise fundamentalista</strong> avalia o valor intrínseco de uma criptomoeda baseado em fatores como tecnologia, equipe, casos de uso e adoção.</p>
-      
-      <h3>Fatores Tecnológicos</h3>
-      <ul>
-        <li><strong>Blockchain:</strong> Segurança, escalabilidade e descentralização</li>
-        <li><strong>Consenso:</strong> Proof of Work, Proof of Stake, outros</li>
-        <li><strong>Smart Contracts:</strong> Funcionalidades e limitações</li>
-        <li><strong>Interoperabilidade:</strong> Capacidade de conectar com outras redes</li>
-      </ul>
-      
-      <h3>Análise da Equipe e Governança</h3>
-      <ul>
-        <li><strong>Fundadores:</strong> Experiência e histórico</li>
-        <li><strong>Desenvolvedores:</strong> Atividade no GitHub</li>
-        <li><strong>Comunidade:</strong> Engajamento e crescimento</li>
-        <li><strong>Parcerias:</strong> Colaborações estratégicas</li>
-      </ul>
-      
-      <h2>Análise Técnica para Criptomoedas</h2>
-      
-      <p>A <strong>análise técnica</strong> utiliza gráficos de preços e indicadores para prever movimentos futuros baseados em padrões históricos.</p>
-      
-      <h3>Indicadores Essenciais</h3>
-      <ul>
-        <li><strong>Médias Móveis:</strong> SMA, EMA para tendências</li>
-        <li><strong>RSI:</strong> Identificar sobrecompra/sobrevenda</li>
-        <li><strong>MACD:</strong> Momentum e divergências</li>
-        <li><strong>Bollinger Bands:</strong> Volatilidade e suporte/resistência</li>
-      </ul>
-      
-      <h2>Análise On-Chain</h2>
-      
-      <p>A <strong>análise on-chain</strong> examina dados da blockchain para entender o comportamento dos usuários e a saúde da rede.</p>
-      
-      <h3>Métricas Importantes</h3>
-      <ul>
-        <li><strong>Endereços Ativos:</strong> Crescimento da base de usuários</li>
-        <li><strong>Volume de Transações:</strong> Atividade da rede</li>
-        <li><strong>Hash Rate:</strong> Segurança da rede (PoW)</li>
-        <li><strong>Staking Ratio:</strong> Tokens em staking (PoS)</li>
-      </ul>
-      
-      <h2>Ferramentas de Análise</h2>
-      
-      <h3>Plataformas Gratuitas</h3>
-      <ul>
-        <li><strong>CoinGecko:</strong> Dados de mercado e métricas</li>
-        <li><strong>CoinMarketCap:</strong> Rankings e informações básicas</li>
-        <li><strong>TradingView:</strong> Gráficos e análise técnica</li>
-        <li><strong>Glassnode:</strong> Análise on-chain</li>
-      </ul>
-      
-      <h3>Ferramentas Premium</h3>
-      <ul>
-        <li><strong>Messari:</strong> Pesquisa e análise profunda</li>
-        <li><strong>IntoTheBlock:</strong> Analytics avançados</li>
-        <li><strong>Santiment:</strong> Análise de sentimento</li>
-        <li><strong>Dune Analytics:</strong> Dashboards customizados</li>
-      </ul>
-      
-      <h2>Estratégias de Análise</h2>
-      
-      <h3>Abordagem Sistemática</h3>
-      <ol>
-        <li><strong>Screening Inicial:</strong> Filtrar por market cap, volume</li>
-        <li><strong>Análise Fundamentalista:</strong> Avaliar tecnologia e equipe</li>
-        <li><strong>Análise Técnica:</strong> Identificar pontos de entrada</li>
-        <li><strong>Análise On-Chain:</strong> Confirmar tendências</li>
-        <li><strong>Gestão de Risco:</strong> Definir stop-loss e take-profit</li>
-      </ol>
-      
-      <h2>Conclusão</h2>
-      
-      <p>A análise de criptomoedas requer uma abordagem multidisciplinar que combine análise fundamentalista, técnica e on-chain. O sucesso vem da prática consistente e do uso de múltiplas fontes de informação para tomar decisões informadas.</p>
+Saber **como analisar criptomoedas** é fundamental para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Com milhares de projetos disponíveis, a capacidade de avaliar adequadamente uma criptomoeda pode ser a diferença entre o sucesso e o fracasso nos investimentos.
+
+Este guia completo apresenta as principais metodologias de análise, ferramentas essenciais e estratégias práticas para avaliar o potencial de investimento em criptomoedas.
+
+## Análise Fundamentalista de Criptomoedas
+
+A **análise fundamentalista** avalia o valor intrínseco de uma criptomoeda baseado em fatores como tecnologia, equipe, casos de uso e adoção.
+
+### Fatores Tecnológicos
+
+- **Blockchain:** Segurança, escalabilidade e descentralização
+
+- **Consenso:** Proof of Work, Proof of Stake, outros
+
+- **Smart Contracts:** Funcionalidades e limitações
+
+- **Interoperabilidade:** Capacidade de conectar com outras redes
+
+### Análise da Equipe e Governança
+
+- **Fundadores:** Experiência e histórico
+
+- **Desenvolvedores:** Atividade no GitHub
+
+- **Comunidade:** Engajamento e crescimento
+
+- **Parcerias:** Colaborações estratégicas
+
+## Análise Técnica para Criptomoedas
+
+A **análise técnica** utiliza gráficos de preços e indicadores para prever movimentos futuros baseados em padrões históricos.
+
+### Indicadores Essenciais
+
+- **Médias Móveis:** SMA, EMA para tendências
+
+- **RSI:** Identificar sobrecompra/sobrevenda
+
+- **MACD:** Momentum e divergências
+
+- **Bollinger Bands:** Volatilidade e suporte/resistência
+
+## Análise On-Chain
+
+A **análise on-chain** examina dados da blockchain para entender o comportamento dos usuários e a saúde da rede.
+
+### Métricas Importantes
+
+- **Endereços Ativos:** Crescimento da base de usuários
+
+- **Volume de Transações:** Atividade da rede
+
+- **Hash Rate:** Segurança da rede (PoW)
+
+- **Staking Ratio:** Tokens em staking (PoS)
+
+## Ferramentas de Análise
+
+### Plataformas Gratuitas
+
+- **CoinGecko:** Dados de mercado e métricas
+
+- **CoinMarketCap:** Rankings e informações básicas
+
+- **TradingView:** Gráficos e análise técnica
+
+- **Glassnode:** Análise on-chain
+
+### Ferramentas Premium
+
+- **Messari:** Pesquisa e análise profunda
+
+- **IntoTheBlock:** Analytics avançados
+
+- **Santiment:** Análise de sentimento
+
+- **Dune Analytics:** Dashboards customizados
+
+## Estratégias de Análise
+
+### Abordagem Sistemática
+
+1. **Screening Inicial:** Filtrar por market cap, volume
+
+2. **Análise Fundamentalista:** Avaliar tecnologia e equipe
+
+3. **Análise Técnica:** Identificar pontos de entrada
+
+4. **Análise On-Chain:** Confirmar tendências
+
+5. **Gestão de Risco:** Definir stop-loss e take-profit
+
+## Conclusão
+
+A análise de criptomoedas requer uma abordagem multidisciplinar que combine análise fundamentalista, técnica e on-chain. O sucesso vem da prática consistente e do uso de múltiplas fontes de informação para tomar decisões informadas.
