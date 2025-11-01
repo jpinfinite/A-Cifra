@@ -4,7 +4,7 @@ title: 'The Graph (GRT): Indexação Descentralizada de Dados Blockchain'
 slug: 'the-graph-indexacao-dados-blockchain'
 excerpt: 'Entenda como The Graph está revolucionando o acesso a dados blockchain através de indexação descentralizada.'
 coverImage:
-  src: '/images/223_rxrolwnoywlulwjyb3du.jpg'
+  src: '/images/grt.jpg'
   alt: 'The Graph (GRT): Indexação Descentralizada de Dados Blockchain'
   width: 1200
   height: 630

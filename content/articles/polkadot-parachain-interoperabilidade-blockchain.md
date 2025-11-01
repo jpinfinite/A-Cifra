@@ -4,7 +4,7 @@ title: 'Polkadot e Parachains: A Revolução da Interoperabilidade Blockchain'
 slug: 'polkadot-parachain-interoperabilidade-blockchain'
 excerpt: 'Descubra como Polkadot está revolucionando a interoperabilidade entre blockchains através das parachains e seu ecossistema inovador.'
 coverImage:
-  src: '/images/poly.jpg'
+  src: '/images/pol.jpg'
   alt: 'Polkadot - Interoperabilidade Blockchain'
   width: 1200
   height: 630

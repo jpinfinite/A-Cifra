@@ -4,7 +4,7 @@ title: 'Polygon zkEVM: Zero-Knowledge Proofs para Escalabilidade Ethereum'
 slug: 'polygon-zkevm-ethereum-escalabilidade'
 excerpt: 'Descubra como Polygon zkEVM usa provas de conhecimento zero para escalar Ethereum mantendo segurança máxima.'
 coverImage:
-  src: '/images/20190107_030.jpg'
+  src: '/images/matic.jpg'
   alt: 'Polygon zkEVM: Zero-Knowledge Proofs para Escalabilidade Ethereum'
   width: 1200
   height: 630
