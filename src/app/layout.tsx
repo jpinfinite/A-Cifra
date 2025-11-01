@@ -128,7 +128,7 @@ export default function RootLayout({
                 basicSubscriptions.init({
                   type: "NewsArticle",
                   isPartOfType: ["Product"],
-                  isPartOfProductId: "CAowi9_dCw:openaccess",
+                  isPartOfProductId: "CAow5_bdCw:openaccess",
                   clientOptions: { theme: "light", lang: "pt-BR" },
                 });
               });
