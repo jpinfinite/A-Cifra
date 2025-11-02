@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 }
 
 export default function PrivacidadePage() {
-  const lastUpdated = new Date('2025-10-27').toLocaleDateString('pt-BR')
+  const lastUpdated = new Date('2025-11-02').toLocaleDateString('pt-BR')
 
   return (
     <MainLayout>
@@ -195,18 +195,77 @@ export default function PrivacidadePage() {
                 Serviços de Terceiros
               </Heading>
             </div>
-            <div className="space-y-4 text-gray-700">
+            <div className="space-y-6 text-gray-700">
               <p>
-                Nosso site pode utilizar serviços de terceiros que coletam informações independentemente:
+                Nosso site utiliza os seguintes serviços de terceiros que coletam informações independentemente:
               </p>
-              <ul className="list-disc list-inside space-y-2">
-                <li><strong>Google Analytics:</strong> Para análise de tráfego e comportamento do usuário</li>
-                <li><strong>Plataformas de e-mail:</strong> Para envio de newsletters e comunicações</li>
-                <li><strong>Redes sociais:</strong> Para compartilhamento e integração social</li>
-              </ul>
-              <p>
-                Esses serviços têm suas próprias políticas de privacidade e não estão sob nosso controle direto.
-              </p>
+              
+              <div>
+                <h3 className="font-semibold text-brand-primary-blue mb-3">Google Analytics</h3>
+                <p className="text-sm mb-2">
+                  Utilizamos o Google Analytics para análise de tráfego e comportamento do usuário. 
+                  Este serviço coleta informações anônimas sobre como você usa nosso site, incluindo:
+                </p>
+                <ul className="list-disc list-inside space-y-1 text-sm ml-4">
+                  <li>Páginas visitadas e tempo de permanência</li>
+                  <li>Origem do tráfego</li>
+                  <li>Dispositivo e navegador utilizado</li>
+                  <li>Localização geográfica aproximada</li>
+                </ul>
+                <p className="text-sm mt-2">
+                  Política de Privacidade: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-primary-blue hover:underline">Google Privacy Policy</a>
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-brand-primary-blue mb-3">Newsletter (Brevo/Sendinblue)</h3>
+                <p className="text-sm mb-2">
+                  Utilizamos o Brevo (anteriormente Sendinblue) para gerenciar nossa newsletter e comunicações por email. 
+                  Quando você se inscreve, coletamos:
+                </p>
+                <ul className="list-disc list-inside space-y-1 text-sm ml-4">
+                  <li>Endereço de email</li>
+                  <li>Nome (se fornecido)</li>
+                  <li>Data de inscrição</li>
+                  <li>Histórico de emails abertos e cliques</li>
+                </ul>
+                <p className="text-sm mt-2">
+                  Você pode cancelar sua inscrição a qualquer momento clicando no link presente em todos os emails.
+                  Política de Privacidade: <a href="https://www.brevo.com/legal/privacypolicy/" target="_blank" rel="noopener noreferrer" className="text-brand-primary-blue hover:underline">Brevo Privacy Policy</a>
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-brand-primary-blue mb-3">Google AdSense (Publicidade)</h3>
+                <p className="text-sm mb-2">
+                  Utilizamos o Google AdSense para exibir anúncios relevantes em nosso site. 
+                  O Google pode usar cookies e outras tecnologias para:
+                </p>
+                <ul className="list-disc list-inside space-y-1 text-sm ml-4">
+                  <li>Exibir anúncios personalizados baseados em seus interesses</li>
+                  <li>Medir a eficácia dos anúncios</li>
+                  <li>Evitar a exibição repetida dos mesmos anúncios</li>
+                </ul>
+                <p className="text-sm mt-2">
+                  Você pode gerenciar suas preferências de anúncios em: <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="text-brand-primary-blue hover:underline">Google Ads Settings</a>
+                </p>
+              </div>
+
+              <div>
+                <h3 className="font-semibold text-brand-primary-blue mb-3">Redes Sociais</h3>
+                <p className="text-sm">
+                  Nosso site inclui botões de compartilhamento para redes sociais (Twitter, Instagram). 
+                  Essas plataformas podem coletar informações sobre sua visita através de seus próprios cookies.
+                </p>
+              </div>
+
+              <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mt-4">
+                <p className="text-sm">
+                  <strong>Importante:</strong> Esses serviços têm suas próprias políticas de privacidade 
+                  e não estão sob nosso controle direto. Recomendamos que você revise as políticas de 
+                  privacidade de cada serviço.
+                </p>
+              </div>
             </div>
           </section>
 
@@ -251,8 +310,8 @@ export default function PrivacidadePage() {
                 entre em contato conosco:
               </p>
               <div className="space-y-2">
-                <p><strong>E-mail:</strong> privacidade@acifra.com.br</p>
-                <p><strong>Site:</strong> www.acifra.com.br</p>
+                <p><strong>E-mail:</strong> cifraaessenciacoin@gmail.com</p>
+                <p><strong>Site:</strong> https://a-cifra.pages.dev</p>
                 <p><strong>Resposta:</strong> Até 15 dias úteis</p>
               </div>
               <div className="mt-6">

@@ -120,6 +120,72 @@ export function ContactCifra() {
         />
       </section>
 
+      {/* Formulário de Contato Rápido */}
+      <section className="bg-gradient-to-br from-brand-primary-blue to-brand-medium-blue rounded-[14px] p-[28px_24px] mb-[32px] shadow-lg">
+        <h3 className="text-[23px] text-white font-bold mb-4 flex items-center gap-2">
+          <Email size="24" />
+          Envie uma Mensagem
+        </h3>
+        <p className="text-brand-off-white mb-6">
+          Preencha o formulário abaixo ou envie diretamente para: <strong className="text-brand-gold">cifraaessenciacoin@gmail.com</strong>
+        </p>
+        <form className="space-y-4" action="mailto:cifraaessenciacoin@gmail.com" method="post" encType="text/plain">
+          <div>
+            <label htmlFor="name" className="block text-white font-semibold mb-2">Nome</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              required
+              className="w-full px-4 py-3 rounded-lg border-2 border-white/20 bg-white/10 text-white placeholder-white/60 focus:outline-none focus:border-brand-gold focus:bg-white/20 transition-all"
+              placeholder="Seu nome"
+            />
+          </div>
+          <div>
+            <label htmlFor="email" className="block text-white font-semibold mb-2">Email</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              className="w-full px-4 py-3 rounded-lg border-2 border-white/20 bg-white/10 text-white placeholder-white/60 focus:outline-none focus:border-brand-gold focus:bg-white/20 transition-all"
+              placeholder="seu@email.com"
+            />
+          </div>
+          <div>
+            <label htmlFor="subject" className="block text-white font-semibold mb-2">Assunto</label>
+            <input
+              type="text"
+              id="subject"
+              name="subject"
+              required
+              className="w-full px-4 py-3 rounded-lg border-2 border-white/20 bg-white/10 text-white placeholder-white/60 focus:outline-none focus:border-brand-gold focus:bg-white/20 transition-all"
+              placeholder="Sobre o que você quer falar?"
+            />
+          </div>
+          <div>
+            <label htmlFor="message" className="block text-white font-semibold mb-2">Mensagem</label>
+            <textarea
+              id="message"
+              name="message"
+              required
+              rows={5}
+              className="w-full px-4 py-3 rounded-lg border-2 border-white/20 bg-white/10 text-white placeholder-white/60 focus:outline-none focus:border-brand-gold focus:bg-white/20 transition-all resize-none"
+              placeholder="Escreva sua mensagem aqui..."
+            />
+          </div>
+          <button
+            type="submit"
+            className="w-full bg-brand-gold hover:bg-yellow-500 text-brand-dark-blue font-bold py-4 px-6 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-105"
+          >
+            Enviar Mensagem
+          </button>
+        </form>
+        <p className="text-white/80 text-sm mt-4 text-center">
+          Responderemos em até 24-48 horas úteis
+        </p>
+      </section>
+
       {/* Tempos de Resposta */}
       <section className="bg-white rounded-[12px] p-[22px_18px] mb-[32px] shadow-[0_1.5px_7px_rgba(4,25,36,.045)] border-l-[5px] border-brand-gold">
         <h3 className="text-[19px] text-brand-dark-blue font-bold mb-2 flex items-center gap-2">
