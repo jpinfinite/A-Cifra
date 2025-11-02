@@ -30,7 +30,7 @@ export default function NewsletterForm() {
                 setStatus('error');
                 setMessage(data.error || 'Erro ao inscrever. Tente novamente.');
             }
-        } catch (error) {
+        } catch {
             setStatus('error');
             setMessage('Erro ao processar inscrição. Tente novamente.');
         }
