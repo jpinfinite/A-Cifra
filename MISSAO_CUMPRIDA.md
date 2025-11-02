@@ -135,7 +135,7 @@ API: ✅ Respondendo (200 OK)
 
 ### PASSO 2: Testar em Produção (5 min)
 **Ações:**
-- [ ] Acessar https://acifra.com
+- [ ] Acessar https://a-cifra.pages.dev
 - [ ] Testar formulário de newsletter
 - [ ] Verificar mensagem de sucesso
 - [ ] Confirmar email no Brevo
@@ -220,8 +220,8 @@ Automation → [Sua automação] → Statistics
 ## 🔗 LINKS IMPORTANTES
 
 ### Produção:
-- **Site:** https://acifra.com
-- **API:** https://acifra.com/api/newsletter/subscribe
+- **Site:** https://a-cifra.pages.dev
+- **API:** https://a-cifra.pages.dev/api/newsletter/subscribe
 
 ### Desenvolvimento:
 - **Local:** http://localhost:3002

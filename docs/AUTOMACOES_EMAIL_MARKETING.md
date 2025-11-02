@@ -76,7 +76,7 @@
     <!-- Artigo 1 -->
     <div style="margin: 20px 0;">
       <h4 style="color: #0A1628; margin: 0 0 8px 0;">
-        <a href="https://acifra.com/artigo/bitcoin-guia-completo-iniciantes-2025" 
+        <a href="https://a-cifra.pages.dev/artigo/bitcoin-guia-completo-iniciantes-2025" 
            style="color: #0A1628; text-decoration: none;">
           📚 Bitcoin: Guia Completo para Iniciantes
         </a>
@@ -89,7 +89,7 @@
     <!-- Artigo 2 -->
     <div style="margin: 20px 0;">
       <h4 style="color: #0A1628; margin: 0 0 8px 0;">
-        <a href="https://acifra.com/artigo/como-proteger-criptomoedas-guia-completo-seguranca" 
+        <a href="https://a-cifra.pages.dev/artigo/como-proteger-criptomoedas-guia-completo-seguranca" 
            style="color: #0A1628; text-decoration: none;">
           🔒 Como Proteger suas Criptomoedas
         </a>
@@ -102,7 +102,7 @@
     <!-- Artigo 3 -->
     <div style="margin: 20px 0;">
       <h4 style="color: #0A1628; margin: 0 0 8px 0;">
-        <a href="https://acifra.com/artigo/o-que-e-blockchain-guia-iniciantes" 
+        <a href="https://a-cifra.pages.dev/artigo/o-que-e-blockchain-guia-iniciantes" 
            style="color: #0A1628; text-decoration: none;">
           💡 O que é Blockchain?
         </a>
@@ -114,7 +114,7 @@
     
     <!-- CTA -->
     <div style="text-align: center; margin: 40px 0;">
-      <a href="https://acifra.com/artigos" 
+      <a href="https://a-cifra.pages.dev/artigos" 
          style="display: inline-block; background: #D4AF37; color: #0A1628; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px;">
         Explorar Todos os Artigos
       </a>
@@ -147,7 +147,7 @@
   <!-- Footer -->
   <div style="background: #f8f9fa; padding: 30px; text-align: center;">
     <p style="color: #999; font-size: 13px; margin: 0;">
-      <a href="https://acifra.com" style="color: #D4AF37; text-decoration: none;">
+      <a href="https://a-cifra.pages.dev" style="color: #D4AF37; text-decoration: none;">
         Visitar site
       </a>
       |
@@ -193,7 +193,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0;">
       A tecnologia fundamental por trás de todas as criptomoedas.
     </p>
-    <a href="https://acifra.com/artigo/o-que-e-blockchain-guia-iniciantes" 
+    <a href="https://a-cifra.pages.dev/artigo/o-que-e-blockchain-guia-iniciantes" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
       Entender Blockchain →
     </a>
@@ -207,7 +207,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0;">
       Como armazenar suas criptomoedas com segurança.
     </p>
-    <a href="https://acifra.com/artigo/carteiras-digitais-tipos-e-seguranca" 
+    <a href="https://a-cifra.pages.dev/artigo/carteiras-digitais-tipos-e-seguranca" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
       Aprender sobre Wallets →
     </a>
@@ -221,7 +221,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0;">
       O futuro das finanças sem intermediários.
     </p>
-    <a href="https://acifra.com/artigo/defi-revolucionando-financas-tradicionais" 
+    <a href="https://a-cifra.pages.dev/artigo/defi-revolucionando-financas-tradicionais" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
       Descobrir DeFi →
     </a>
@@ -235,7 +235,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0;">
       Como avaliar projetos antes de investir.
     </p>
-    <a href="https://acifra.com/artigo/analise-fundamentalista-avaliar-projetos-cripto" 
+    <a href="https://a-cifra.pages.dev/artigo/analise-fundamentalista-avaliar-projetos-cripto" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
       Aprender a Analisar →
     </a>
@@ -249,7 +249,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0;">
       Proteja seus investimentos contra ameaças.
     </p>
-    <a href="https://acifra.com/artigo/como-proteger-criptomoedas-guia-completo-seguranca" 
+    <a href="https://a-cifra.pages.dev/artigo/como-proteger-criptomoedas-guia-completo-seguranca" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
       Garantir Segurança →
     </a>
@@ -259,7 +259,7 @@
     <p style="color: #666; margin: 0 0 20px 0;">
       💡 <strong>Dica:</strong> Salve este email para consultar sempre que precisar!
     </p>
-    <a href="https://acifra.com/categoria/educacao" 
+    <a href="https://a-cifra.pages.dev/categoria/educacao" 
        style="display: inline-block; background: #D4AF37; color: #0A1628; padding: 12px 30px; text-decoration: none; border-radius: 6px; font-weight: bold;">
       Ver Mais Conteúdo Educacional
     </a>
@@ -305,7 +305,7 @@
       <p style="color: #666; margin: 0 0 15px 0;">
         Construir patrimônio ao longo dos anos
       </p>
-      <a href="https://acifra.com/categoria/analises" 
+      <a href="https://a-cifra.pages.dev/categoria/analises" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold;">
         Ver Análises de Investimento →
       </a>
@@ -318,7 +318,7 @@
       <p style="color: #666; margin: 0 0 15px 0;">
         Aproveitar movimentos de curto prazo
       </p>
-      <a href="https://acifra.com/artigo/analise-tecnica-indicadores-essenciais-cripto" 
+      <a href="https://a-cifra.pages.dev/artigo/analise-tecnica-indicadores-essenciais-cripto" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold;">
         Aprender Análise Técnica →
       </a>
@@ -331,7 +331,7 @@
       <p style="color: #666; margin: 0 0 15px 0;">
         Entender a tecnologia e o mercado
       </p>
-      <a href="https://acifra.com/categoria/educacao" 
+      <a href="https://a-cifra.pages.dev/categoria/educacao" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold;">
         Explorar Conteúdo Educacional →
       </a>
@@ -344,7 +344,7 @@
       <p style="color: #666; margin: 0 0 15px 0;">
         Proteger meus investimentos
       </p>
-      <a href="https://acifra.com/categoria/seguranca" 
+      <a href="https://a-cifra.pages.dev/categoria/seguranca" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold;">
         Ver Guias de Segurança →
       </a>
@@ -406,7 +406,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0 0 15px 0;">
       Análise completa do movimento e o que esperar
     </p>
-    <a href="https://acifra.com/artigos" 
+    <a href="https://a-cifra.pages.dev/artigos" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold;">
       Ler agora →
     </a>
@@ -419,7 +419,7 @@
     <p style="color: #666; line-height: 1.6; margin: 0 0 15px 0;">
       Tudo que você precisa saber sobre finanças descentralizadas
     </p>
-    <a href="https://acifra.com/artigos" 
+    <a href="https://a-cifra.pages.dev/artigos" 
        style="color: #D4AF37; text-decoration: none; font-weight: bold;">
       Ler agora →
     </a>
@@ -434,7 +434,7 @@
       Se sim, clique no botão abaixo para continuar recebendo conteúdo exclusivo.<br>
       Se não, sem problemas! Você pode cancelar sua inscrição a qualquer momento.
     </p>
-    <a href="https://acifra.com" 
+    <a href="https://a-cifra.pages.dev" 
        style="display: inline-block; background: #D4AF37; color: #0A1628; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; margin: 0 10px 10px 0;">
       Sim, quero continuar!
     </a>
@@ -502,7 +502,7 @@
     <p style="color: #666; line-height: 1.8; margin: 0 0 20px 0;">
       Como agradecimento, preparamos um guia exclusivo para você:
     </p>
-    <a href="https://acifra.com/artigos" 
+    <a href="https://a-cifra.pages.dev/artigos" 
        style="display: inline-block; background: #D4AF37; color: #0A1628; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold;">
       Baixar Guia Exclusivo
     </a>

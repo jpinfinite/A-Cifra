@@ -140,7 +140,7 @@ Production, Preview, Development
 
 1. **Acesse seu site:**
    ```
-   https://acifra.com
+   https://a-cifra.pages.dev
    ```
    (ou o domínio do Vercel: https://seu-projeto.vercel.app)
 
@@ -210,7 +210,7 @@ Após confirmar que funciona em produção:
 
 ## 💡 Dica
 
-Se você tem domínio personalizado (acifra.com), teste nele.
+Se você tem domínio personalizado (a-cifra.pages.dev), teste nele.
 Se não, use o domínio do Vercel (seu-projeto.vercel.app).
 
 Ambos devem funcionar após o redeploy!

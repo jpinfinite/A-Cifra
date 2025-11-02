@@ -153,7 +153,7 @@ Use este template no Brevo ou no script:
         perfeito para você. Entenda o que é Bitcoin, como funciona, como 
         comprar com segurança e por que ele revolucionou o sistema financeiro.
       </p>
-      <a href="https://acifra.com/artigo/bitcoin-guia-completo-iniciantes-2025" 
+      <a href="https://a-cifra.pages.dev/artigo/bitcoin-guia-completo-iniciantes-2025" 
          style="background: #D4AF37; color: #0A1628; padding: 12px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">
         Ler Artigo Completo →
       </a>
@@ -172,7 +172,7 @@ Use este template no Brevo ou no script:
       <p style="color: #666; line-height: 1.6; margin: 0;">
         Entenda a tecnologia por trás das criptomoedas de forma simples e didática.
       </p>
-      <a href="https://acifra.com/artigo/o-que-e-blockchain-guia-iniciantes" 
+      <a href="https://a-cifra.pages.dev/artigo/o-que-e-blockchain-guia-iniciantes" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
         Ler mais →
       </a>
@@ -186,7 +186,7 @@ Use este template no Brevo ou no script:
       <p style="color: #666; line-height: 1.6; margin: 0;">
         Aprenda as melhores práticas de segurança para manter seus investimentos seguros.
       </p>
-      <a href="https://acifra.com/artigo/como-proteger-criptomoedas-guia-completo-seguranca" 
+      <a href="https://a-cifra.pages.dev/artigo/como-proteger-criptomoedas-guia-completo-seguranca" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
         Ler mais →
       </a>
@@ -200,7 +200,7 @@ Use este template no Brevo ou no script:
       <p style="color: #666; line-height: 1.6; margin: 0;">
         Descubra como analisar criptomoedas antes de investir.
       </p>
-      <a href="https://acifra.com/artigo/analise-fundamentalista-avaliar-projetos-cripto" 
+      <a href="https://a-cifra.pages.dev/artigo/analise-fundamentalista-avaliar-projetos-cripto" 
          style="color: #D4AF37; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px;">
         Ler mais →
       </a>
@@ -215,7 +215,7 @@ Use este template no Brevo ou no script:
         Temos dezenas de artigos sobre Bitcoin, Ethereum, DeFi, NFTs, 
         segurança e muito mais.
       </p>
-      <a href="https://acifra.com/artigos" 
+      <a href="https://a-cifra.pages.dev/artigos" 
          style="background: #0A1628; color: #D4AF37; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block;">
         Ver Todos os Artigos
       </a>
@@ -265,7 +265,7 @@ Use este template no Brevo ou no script:
         Cancelar inscrição
       </a>
       |
-      <a href="https://acifra.com" style="color: #D4AF37; text-decoration: none;">
+      <a href="https://a-cifra.pages.dev" style="color: #D4AF37; text-decoration: none;">
         Visitar site
       </a>
     </p>

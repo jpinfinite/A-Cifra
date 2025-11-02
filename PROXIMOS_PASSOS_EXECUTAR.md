@@ -89,7 +89,7 @@
 
 1. **Abra seu site:**
    ```
-   https://acifra.com
+   https://a-cifra.pages.dev
    ```
    (ou o domínio do Vercel)
 
@@ -188,7 +188,7 @@
 1. **Use um email novo** (que nunca foi inscrito)
 
 2. **Inscreva-se no site:**
-   - Acesse https://acifra.com
+   - Acesse https://a-cifra.pages.dev
    - Preencha o formulário
    - Clique em "Inscrever-se"
 

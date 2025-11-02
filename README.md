@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=for-the-badge&logo=cloudflare)](https://pages.cloudflare.com/)
 
-[🌐 Site Oficial](https://acifra.com) • [📖 Documentação](docs/) • [🐛 Reportar Bug](issues) • [💡 Sugerir Feature](issues)
+[🌐 Site Oficial](https://a-cifra.pages.dev) • [📖 Documentação](docs/) • [🐛 Reportar Bug](issues) • [💡 Sugerir Feature](issues)
 
 </div>
 
@@ -100,7 +100,7 @@ npm run dev
 
 ```env
 # Site Configuration
-NEXT_PUBLIC_SITE_URL=https://acifra.com
+NEXT_PUBLIC_SITE_URL=https://a-cifra.pages.dev
 NEXT_PUBLIC_SITE_NAME="A Cifra"
 
 # Analytics
@@ -301,13 +301,13 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ### 🌐 Links Oficiais
 
-[![Website](https://img.shields.io/badge/Website-acifra.com-blue?style=for-the-badge&logo=google-chrome)](https://acifra.com)
+[![Website](https://img.shields.io/badge/Website-a-cifra.pages.dev-blue?style=for-the-badge&logo=google-chrome)](https://a-cifra.pages.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@acifra-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/acifra)
 [![Instagram](https://img.shields.io/badge/Instagram-@acifra-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/acifra)
 
 ### 📧 Contato Direto
 
-**Email**: contato@acifra.com  
+**Email**: contato@a-cifra.pages.dev  
 **WhatsApp**: [+55 11 99999-9999](https://wa.me/5511999999999)
 
 </div>

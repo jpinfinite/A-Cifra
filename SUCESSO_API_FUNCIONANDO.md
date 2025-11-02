@@ -110,7 +110,7 @@ Environments: ✅ Production ✅ Preview ✅ Development
 
 ### 4. Testar em Produção (5 min)
 
-1. **Acesse:** https://acifra.com (ou seu domínio Vercel)
+1. **Acesse:** https://a-cifra.pages.dev (ou seu domínio Vercel)
 2. **Role até:** Newsletter
 3. **Teste com:** Outro email
 4. **Verifique:** Mensagem de sucesso
@@ -169,7 +169,7 @@ Environments: ✅ Production ✅ Preview ✅ Development
 ### 6. Teste End-to-End Completo (10 min)
 
 1. **Use email novo** (nunca inscrito antes)
-2. **Acesse:** https://acifra.com
+2. **Acesse:** https://a-cifra.pages.dev
 3. **Inscreva-se** no formulário
 4. **Aguarde:** 1-2 minutos
 5. **Verifique email:** Boas-vindas chegou?

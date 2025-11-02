@@ -15,11 +15,11 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'acifra.com',
+        hostname: 'a-cifra.pages.dev',
       },
       {
         protocol: 'https',
-        hostname: '*.acifra.com',
+        hostname: '*.a-cifra.pages.dev',
       },
       // Adicione outros domínios confiáveis conforme necessário
     ],

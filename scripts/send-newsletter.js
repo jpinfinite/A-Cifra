@@ -61,14 +61,14 @@ emailCampaign.htmlContent = `
                   DESTAQUE DA SEMANA
                 </div>
                 <h3 style="color: #0A1628; margin: 0 0 15px 0; font-size: 22px; line-height: 1.4;">
-                  <a href="https://acifra.com/artigos" style="color: #0A1628; text-decoration: none;">
+                  <a href="https://a-cifra.pages.dev/artigos" style="color: #0A1628; text-decoration: none;">
                     📈 Bitcoin Atinge Novo Patamar: Análise Completa
                   </a>
                 </h3>
                 <p style="color: #666; line-height: 1.6; margin: 0 0 20px 0; font-size: 15px;">
                   Entenda os fatores que levaram o Bitcoin a atingir novos recordes e o que esperar para as próximas semanas. Análise técnica e fundamentalista completa.
                 </p>
-                <a href="https://acifra.com/artigos" 
+                <a href="https://a-cifra.pages.dev/artigos" 
                    style="display: inline-block; background-color: #D4AF37; color: #0A1628; padding: 12px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px;">
                   Ler Artigo Completo →
                 </a>
@@ -82,14 +82,14 @@ emailCampaign.htmlContent = `
               <!-- Artigo 1 -->
               <div style="border-left: 4px solid #D4AF37; padding-left: 20px; margin: 0 0 25px 0;">
                 <h4 style="color: #0A1628; margin: 0 0 10px 0; font-size: 18px;">
-                  <a href="https://acifra.com/artigos" style="color: #0A1628; text-decoration: none;">
+                  <a href="https://a-cifra.pages.dev/artigos" style="color: #0A1628; text-decoration: none;">
                     💡 DeFi: Guia Completo para Iniciantes
                   </a>
                 </h4>
                 <p style="color: #666; line-height: 1.6; margin: 0; font-size: 14px;">
                   Aprenda os conceitos fundamentais de finanças descentralizadas e como começar com segurança.
                 </p>
-                <a href="https://acifra.com/artigos" 
+                <a href="https://a-cifra.pages.dev/artigos" 
                    style="display: inline-block; margin-top: 10px; color: #D4AF37; text-decoration: none; font-weight: bold; font-size: 14px;">
                   Ler mais →
                 </a>
@@ -98,14 +98,14 @@ emailCampaign.htmlContent = `
               <!-- Artigo 2 -->
               <div style="border-left: 4px solid #D4AF37; padding-left: 20px; margin: 0 0 25px 0;">
                 <h4 style="color: #0A1628; margin: 0 0 10px 0; font-size: 18px;">
-                  <a href="https://acifra.com/artigos" style="color: #0A1628; text-decoration: none;">
+                  <a href="https://a-cifra.pages.dev/artigos" style="color: #0A1628; text-decoration: none;">
                     🔒 5 Dicas Essenciais de Segurança Crypto
                   </a>
                 </h4>
                 <p style="color: #666; line-height: 1.6; margin: 0; font-size: 14px;">
                   Proteja seus investimentos com estas práticas fundamentais de segurança.
                 </p>
-                <a href="https://acifra.com/artigos" 
+                <a href="https://a-cifra.pages.dev/artigos" 
                    style="display: inline-block; margin-top: 10px; color: #D4AF37; text-decoration: none; font-weight: bold; font-size: 14px;">
                   Ler mais →
                 </a>
@@ -114,14 +114,14 @@ emailCampaign.htmlContent = `
               <!-- Artigo 3 -->
               <div style="border-left: 4px solid #D4AF37; padding-left: 20px; margin: 0 0 35px 0;">
                 <h4 style="color: #0A1628; margin: 0 0 10px 0; font-size: 18px;">
-                  <a href="https://acifra.com/artigos" style="color: #0A1628; text-decoration: none;">
+                  <a href="https://a-cifra.pages.dev/artigos" style="color: #0A1628; text-decoration: none;">
                     📊 Análise Técnica: Indicadores Essenciais
                   </a>
                 </h4>
                 <p style="color: #666; line-height: 1.6; margin: 0; font-size: 14px;">
                   Domine os principais indicadores para tomar decisões de trading mais informadas.
                 </p>
-                <a href="https://acifra.com/artigos" 
+                <a href="https://a-cifra.pages.dev/artigos" 
                    style="display: inline-block; margin-top: 10px; color: #D4AF37; text-decoration: none; font-weight: bold; font-size: 14px;">
                   Ler mais →
                 </a>
@@ -135,7 +135,7 @@ emailCampaign.htmlContent = `
                 <p style="color: #666; margin: 0 0 25px 0; font-size: 15px;">
                   Acesse nossa biblioteca completa de artigos sobre criptomoedas
                 </p>
-                <a href="https://acifra.com/artigos" 
+                <a href="https://a-cifra.pages.dev/artigos" 
                    style="display: inline-block; background-color: #0A1628; color: #D4AF37; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px;">
                   Ver Todos os Artigos
                 </a>
@@ -155,7 +155,7 @@ emailCampaign.htmlContent = `
                   Cancelar inscrição
                 </a>
                 &nbsp;|&nbsp;
-                <a href="https://acifra.com" style="color: #D4AF37; text-decoration: none;">
+                <a href="https://a-cifra.pages.dev" style="color: #D4AF37; text-decoration: none;">
                   Visitar site
                 </a>
               </p>

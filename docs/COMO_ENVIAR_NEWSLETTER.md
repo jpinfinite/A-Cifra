@@ -100,14 +100,14 @@ emailCampaign.htmlContent = `
               <!-- Artigo 1 -->
               <div style="border-left: 4px solid #D4AF37; padding-left: 20px; margin: 30px 0;">
                 <h3 style="color: #0A1628; margin: 0 0 10px 0;">
-                  <a href="https://acifra.com/artigo/seu-artigo" style="color: #0A1628; text-decoration: none;">
+                  <a href="https://a-cifra.pages.dev/artigo/seu-artigo" style="color: #0A1628; text-decoration: none;">
                     📈 Título do Artigo Principal
                   </a>
                 </h3>
                 <p style="color: #666; line-height: 1.6; margin: 0;">
                   Breve resumo do artigo que desperta curiosidade...
                 </p>
-                <a href="https://acifra.com/artigo/seu-artigo" 
+                <a href="https://a-cifra.pages.dev/artigo/seu-artigo" 
                    style="display: inline-block; margin-top: 15px; color: #D4AF37; text-decoration: none; font-weight: bold;">
                   Ler mais →
                 </a>
@@ -116,14 +116,14 @@ emailCampaign.htmlContent = `
               <!-- Artigo 2 -->
               <div style="border-left: 4px solid #D4AF37; padding-left: 20px; margin: 30px 0;">
                 <h3 style="color: #0A1628; margin: 0 0 10px 0;">
-                  <a href="https://acifra.com/artigo/outro-artigo" style="color: #0A1628; text-decoration: none;">
+                  <a href="https://a-cifra.pages.dev/artigo/outro-artigo" style="color: #0A1628; text-decoration: none;">
                     💡 Outro Artigo Interessante
                   </a>
                 </h3>
                 <p style="color: #666; line-height: 1.6; margin: 0;">
                   Mais um resumo interessante...
                 </p>
-                <a href="https://acifra.com/artigo/outro-artigo" 
+                <a href="https://a-cifra.pages.dev/artigo/outro-artigo" 
                    style="display: inline-block; margin-top: 15px; color: #D4AF37; text-decoration: none; font-weight: bold;">
                   Ler mais →
                 </a>
@@ -131,7 +131,7 @@ emailCampaign.htmlContent = `
               
               <!-- CTA -->
               <div style="text-align: center; margin: 40px 0;">
-                <a href="https://acifra.com/artigos" 
+                <a href="https://a-cifra.pages.dev/artigos" 
                    style="display: inline-block; background-color: #D4AF37; color: #0A1628; padding: 15px 40px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px;">
                   Ver Todos os Artigos
                 </a>
