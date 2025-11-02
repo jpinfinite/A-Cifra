@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Facebook, Twitter, Instagram, MessageCircle } from 'lucide-react'
+import { Twitter, Instagram } from 'lucide-react'
 import { Text, Logo } from '@/components/ui'
 
 const footerLinks = {

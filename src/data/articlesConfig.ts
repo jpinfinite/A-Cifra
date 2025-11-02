@@ -1048,6 +1048,226 @@ export const articlesConfig: Array<{
       metaDescription: 'Tudo sobre Aave: como funciona, como emprestar cripto, pegar emprestado, flash loans e ganhar rendimentos passivos.',
       keywords: ['aave', 'aave protocol', 'empréstimos defi', 'lending cripto', 'flash loans']
     }
+  },
+  // Novos Artigos - Altcoins Adicionais
+  {
+    id: 'polygon-zkevm',
+    title: 'Polygon: zkEVM e Escalabilidade para Ethereum',
+    slug: 'polygon-zkevm-ethereum-escalabilidade',
+    excerpt: 'Descubra como o Polygon está revolucionando a escalabilidade do Ethereum com zkEVM, sidechains e o token MATIC.',
+    contentPath: 'polygon-zkevm-ethereum-escalabilidade.md',
+    coverImage: { src: '/images/matic.jpg', alt: 'Polygon - zkEVM e Escalabilidade', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'altcoins',
+    tags: ['polygon', 'matic', 'zkevm', 'layer 2', 'escalabilidade'],
+    seo: {
+      metaTitle: 'Polygon: zkEVM e Escalabilidade para Ethereum | A Cifra',
+      metaDescription: 'Guia completo sobre Polygon: zkEVM, sidechains, staking de MATIC e como está revolucionando a escalabilidade do Ethereum.',
+      keywords: ['polygon', 'matic', 'zkevm', 'layer 2', 'escalabilidade ethereum']
+    }
+  },
+  {
+    id: 'avalanche-subnets',
+    title: 'Avalanche: Subnets e Escalabilidade Blockchain',
+    slug: 'avalanche-subnets-escalabilidade-blockchain',
+    excerpt: 'Conheça o Avalanche, a blockchain de alta performance com subnets customizáveis e consenso inovador que processa milhares de transações por segundo.',
+    contentPath: 'avalanche-subnets-escalabilidade-blockchain.md',
+    coverImage: { src: '/images/ethereum-blockchain.jpg', alt: 'Avalanche - Subnets e Escalabilidade', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'altcoins',
+    tags: ['avalanche', 'avax', 'subnets', 'escalabilidade', 'defi'],
+    seo: {
+      metaTitle: 'Avalanche: Subnets e Escalabilidade Blockchain | A Cifra',
+      metaDescription: 'Guia completo sobre Avalanche: subnets, consenso inovador, staking de AVAX e como está revolucionando a escalabilidade blockchain.',
+      keywords: ['avalanche', 'avax', 'subnets', 'escalabilidade', 'blockchain']
+    }
+  },
+  {
+    id: 'cosmos-atom',
+    title: 'Cosmos (ATOM): A Internet das Blockchains',
+    slug: 'cosmos-atom-internet-blockchains',
+    excerpt: 'Descubra como o Cosmos está criando um ecossistema interconectado de blockchains independentes através do protocolo IBC e o Cosmos Hub.',
+    contentPath: 'cosmos-atom-internet-blockchains.md',
+    coverImage: { src: '/images/blockchain-network-global.png', alt: 'Cosmos - Internet das Blockchains', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'altcoins',
+    tags: ['cosmos', 'atom', 'ibc', 'interoperabilidade', 'tendermint'],
+    seo: {
+      metaTitle: 'Cosmos (ATOM): A Internet das Blockchains | A Cifra',
+      metaDescription: 'Guia completo sobre Cosmos: IBC, Tendermint, staking de ATOM e como está criando a internet das blockchains.',
+      keywords: ['cosmos', 'atom', 'ibc', 'interoperabilidade', 'blockchain']
+    }
+  },
+  {
+    id: 'the-graph-grt',
+    title: 'The Graph (GRT): Indexação de Dados Blockchain',
+    slug: 'the-graph-indexacao-dados-blockchain',
+    excerpt: 'Conheça o The Graph, o protocolo de indexação que permite consultas rápidas e eficientes de dados blockchain, essencial para dApps e DeFi.',
+    contentPath: 'the-graph-indexacao-dados-blockchain.md',
+    coverImage: { src: '/images/grt.jpg', alt: 'The Graph - Indexação de Dados', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'altcoins',
+    tags: ['the graph', 'grt', 'indexação', 'dados', 'web3'],
+    seo: {
+      metaTitle: 'The Graph (GRT): Indexação de Dados Blockchain | A Cifra',
+      metaDescription: 'Guia completo sobre The Graph: subgraphs, indexadores, staking de GRT e como está revolucionando o acesso a dados blockchain.',
+      keywords: ['the graph', 'grt', 'indexação', 'dados blockchain', 'web3']
+    }
+  },
+  // Novos Artigos - Análise
+  {
+    id: 'analise-fundamentalista',
+    title: 'Análise Fundamentalista: Como Avaliar Projetos Cripto',
+    slug: 'analise-fundamentalista-avaliar-projetos-cripto',
+    excerpt: 'Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe, tecnologia, tokenomics e potencial de adoção para tomar decisões de investimento informadas.',
+    contentPath: 'analise-fundamentalista-avaliar-projetos-cripto.md',
+    coverImage: { src: '/images/pensamento-estrategico.jpg', alt: 'Análise Fundamentalista de Criptomoedas', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'analises',
+    tags: ['análise fundamentalista', 'investimento', 'avaliação', 'due diligence', 'pesquisa'],
+    seo: {
+      metaTitle: 'Análise Fundamentalista: Como Avaliar Projetos Cripto | A Cifra',
+      metaDescription: 'Guia completo de análise fundamentalista: avaliar equipe, tecnologia, tokenomics e potencial de adoção para investir em criptomoedas.',
+      keywords: ['análise fundamentalista', 'avaliar criptomoedas', 'investimento cripto', 'due diligence']
+    }
+  },
+  {
+    id: 'analise-tecnica-indicadores',
+    title: 'Análise Técnica: Indicadores Essenciais para Cripto',
+    slug: 'analise-tecnica-indicadores-essenciais-cripto',
+    excerpt: 'Domine os principais indicadores técnicos para trading de criptomoedas: RSI, MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas.',
+    contentPath: 'analise-tecnica-indicadores-essenciais-cripto.md',
+    coverImage: { src: '/images/trading-criptomoedas.jpg', alt: 'Análise Técnica de Criptomoedas', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'analises',
+    tags: ['análise técnica', 'trading', 'indicadores', 'rsi', 'macd', 'gráficos'],
+    seo: {
+      metaTitle: 'Análise Técnica: Indicadores Essenciais para Cripto | A Cifra',
+      metaDescription: 'Guia completo de análise técnica: RSI, MACD, Médias Móveis, Volume, padrões gráficos e estratégias para trading de criptomoedas.',
+      keywords: ['análise técnica', 'trading cripto', 'indicadores técnicos', 'rsi', 'macd']
+    }
+  },
+  // Novos Artigos - Altcoins e Web3
+  {
+    id: 'xrp-ripple',
+    title: 'XRP e Ripple: Revolucionando Pagamentos Globais',
+    slug: 'xrp-pagamentos-globais',
+    excerpt: 'Descubra como o XRP e a Ripple estão transformando pagamentos internacionais com transações rápidas, baratas e eficientes para bancos e instituições financeiras.',
+    contentPath: 'xrp-pagamentos-globais.md',
+    coverImage: { src: '/images/xrp-pagamentos-globais.jpg', alt: 'XRP - Pagamentos Globais', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'altcoins',
+    tags: ['xrp', 'ripple', 'pagamentos', 'remessas', 'bancos'],
+    seo: {
+      metaTitle: 'XRP e Ripple: Revolucionando Pagamentos Globais | A Cifra',
+      metaDescription: 'Guia completo sobre XRP e Ripple: pagamentos internacionais, adoção bancária, caso SEC e o futuro das remessas globais.',
+      keywords: ['xrp', 'ripple', 'pagamentos internacionais', 'remessas', 'ripplenet']
+    }
+  },
+  {
+    id: 'web3-internet-descentralizada',
+    title: 'Web3: A Internet Descentralizada do Futuro',
+    slug: 'web3-internet-descentralizada-futuro',
+    excerpt: 'Entenda o que é Web3, como ela difere da Web2, e por que representa o futuro da internet com descentralização, propriedade de dados e novas oportunidades.',
+    contentPath: 'web3-internet-descentralizada-futuro.md',
+    coverImage: { src: '/images/transformacao-digital.jpg', alt: 'Web3 - Internet Descentralizada', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'educacao',
+    tags: ['web3', 'descentralização', 'blockchain', 'futuro', 'internet'],
+    seo: {
+      metaTitle: 'Web3: A Internet Descentralizada do Futuro | A Cifra',
+      metaDescription: 'Guia completo sobre Web3: o que é, como funciona, diferenças da Web2, dApps, NFTs e por que representa o futuro da internet.',
+      keywords: ['web3', 'internet descentralizada', 'blockchain', 'dapps', 'futuro internet']
+    }
+  },
+  {
+    id: 'dao-organizacoes',
+    title: 'DAOs: Organizações Autônomas Descentralizadas',
+    slug: 'dao-organizacoes-autonomas-descentralizadas',
+    excerpt: 'Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma nova forma de organização e governança descentralizada.',
+    contentPath: 'dao-organizacoes-autonomas-descentralizadas.md',
+    coverImage: { src: '/images/dao.jpg', alt: 'DAOs - Organizações Descentralizadas', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-10-31',
+    updatedAt: '2025-10-31',
+    categorySlug: 'defi',
+    tags: ['dao', 'governança', 'descentralização', 'web3', 'organizações'],
+    seo: {
+      metaTitle: 'DAOs: Organizações Autônomas Descentralizadas | A Cifra',
+      metaDescription: 'Guia completo sobre DAOs: o que são, como funcionam, tipos, governança, casos de uso e o futuro das organizações descentralizadas.',
+      keywords: ['dao', 'organizações descentralizadas', 'governança blockchain', 'web3', 'smart contracts']
+    }
+  },
+  // Notícias e Análises Recentes
+  {
+    id: 'polymarket-retorno-eua',
+    title: 'Polymarket Faz as Malas para Voltar aos EUA: Aposta Bilionária Pode Mudar o Jogo dos Mercados de Previsão',
+    slug: 'polymarket-retorno-eua-mercados-previsao',
+    excerpt: 'Após três anos banida do principal palco financeiro do mundo, a Polymarket está pronta para reabrir suas portas nos Estados Unidos com aval regulatório e investimentos colossais.',
+    contentPath: 'polymarket-retorno-eua-mercados-previsao.md',
+    coverImage: { src: '/images/poly.jpg', alt: 'Polymarket - Retorno aos EUA', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-11-02',
+    updatedAt: '2025-11-02',
+    categorySlug: 'defi',
+    tags: ['polymarket', 'mercados de previsão', 'defi', 'regulação', 'cftc', 'token poly'],
+    seo: {
+      metaTitle: 'Polymarket Retorna aos EUA: Revolução nos Mercados de Previsão | A Cifra',
+      metaDescription: 'Polymarket volta aos EUA após 3 anos com aval da CFTC, avaliação de US$ 10 bi e investimento de US$ 2 bi da ICE. Entenda o impacto nos mercados de previsão.',
+      keywords: ['polymarket', 'mercados de previsão', 'defi', 'cftc', 'regulação cripto', 'token poly', 'apostas descentralizadas']
+    }
+  },
+  {
+    id: 'total3-altcoins-ciclo-alta',
+    title: 'TOTAL3: Altcoins Confirmam Força Estrutural e Preparam Terreno para Novo Ciclo de Alta',
+    slug: 'total3-altcoins-ciclo-alta-analise',
+    excerpt: 'Análise macro do índice TOTAL3 e das principais altcoins que sinalizam renovada confiança e potencial de valorização no mercado cripto.',
+    contentPath: 'total3-altcoins-ciclo-alta-analise.md',
+    coverImage: { src: '/images/total3.jpg', alt: 'TOTAL3 - Índice de Altcoins em Alta', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-11-02',
+    updatedAt: '2025-11-02',
+    categorySlug: 'analises',
+    tags: ['total3', 'altcoins', 'análise técnica', 'ena', 'crv', 'inj', 'vet', 'op', 'xtz'],
+    seo: {
+      metaTitle: 'TOTAL3 Confirma Ciclo de Alta: Altcoins Mostram Força Estrutural | A Cifra',
+      metaDescription: 'Análise completa do índice TOTAL3 e das principais altcoins (ENA, CRV, INJ, VET, OP, XTZ) que sinalizam novo ciclo de alta no mercado cripto.',
+      keywords: ['total3', 'altcoins', 'análise técnica', 'ciclo de alta', 'ena', 'crv', 'injective', 'vechain', 'optimism', 'tezos']
+    }
+  },
+  {
+    id: 'xrp-rompimento-historico-etf',
+    title: 'XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mira Alvos Históricos',
+    slug: 'xrp-rompimento-historico-etf-analise',
+    excerpt: 'Análise técnica e macro do rompimento estrutural da XRP após 7 anos, projeções de preço e impacto do possível ETF no mercado.',
+    contentPath: 'xrp-rompimento-historico-etf-analise.md',
+    coverImage: { src: '/images/xrpbom.jpg', alt: 'XRP - Rompimento Histórico', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-11-02',
+    updatedAt: '2025-11-02',
+    categorySlug: 'altcoins',
+    tags: ['xrp', 'ripple', 'análise técnica', 'etf', 'rompimento', 'altcoins'],
+    seo: {
+      metaTitle: 'XRP Rompe Padrão de 7 Anos: Análise do Rompimento e ETF | A Cifra',
+      metaDescription: 'Análise completa do rompimento histórico da XRP após 7 anos, nova base de acumulação, projeções de preço e impacto do possível ETF spot.',
+      keywords: ['xrp', 'ripple', 'rompimento', 'análise técnica', 'etf xrp', 'projeções xrp', 'altcoins']
+    }
   }
 ]
 

@@ -3,6 +3,7 @@
 import { useEffect } from 'react'
 import { ArticleGrid, FeaturedArticleCard } from '@/components/content'
 import { Container, Heading, Text, CategoryIcon } from '@/components/ui'
+import NewsletterForm from '@/components/content/NewsletterForm'
 import type { Article } from '@/types'
 
 interface HomePageClientProps {
@@ -173,52 +174,10 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
       </section>
 
       {/* Newsletter Section Premium */}
-      <section className="py-20 bg-gradient-to-br from-brand-dark-blue to-brand-medium-blue text-white relative overflow-hidden">
+      <section className="py-20 bg-gradient-to-br from-brand-dark-blue to-brand-medium-blue relative overflow-hidden">
         <Container>
-          <div className="text-center max-w-3xl mx-auto relative z-10">
-            <div className="inline-flex items-center px-4 py-2 bg-brand-gold/20 backdrop-blur-sm rounded-full text-sm font-medium text-brand-gold mb-6 border border-brand-gold/30">
-              <span className="w-2 h-2 bg-brand-gold rounded-full mr-2 animate-pulse"></span>
-              Newsletter Exclusiva
-            </div>
-            
-            <Heading level={2} className="mb-6 text-white text-3xl md:text-4xl">
-              Não perca <span className="text-gradient-gold">nenhuma novidade</span>
-            </Heading>
-            <Text className="mb-8 text-gray-300 text-lg leading-relaxed">
-              Receba as principais notícias e análises do mercado crypto diretamente no seu email. 
-              Conteúdo exclusivo para assinantes.
-            </Text>
-            
-            <form className="flex flex-col sm:flex-row gap-4 max-w-lg mx-auto mb-6" onSubmit={(e) => e.preventDefault()}>
-              <input
-                type="email"
-                placeholder="Seu melhor email"
-                className="flex-1 px-6 py-4 rounded-lg text-gray-900 bg-white/95 backdrop-blur-sm border border-white/20 focus:outline-none focus:ring-2 focus:ring-brand-gold focus:border-transparent transition-all duration-200 placeholder-gray-500"
-                required
-                aria-label="Email para newsletter"
-              />
-              <button
-                type="submit"
-                className="btn-gold text-lg px-8 py-4 min-h-touch font-semibold"
-              >
-                Inscrever-se
-              </button>
-            </form>
-            
-            <div className="flex items-center justify-center space-x-6 text-sm text-gray-400">
-              <div className="flex items-center space-x-2">
-                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                </svg>
-                <span>Sem spam</span>
-              </div>
-              <div className="flex items-center space-x-2">
-                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
-                </svg>
-                <span>Cancelamento a qualquer momento</span>
-              </div>
-            </div>
+          <div className="relative z-10">
+            <NewsletterForm />
           </div>
           
           {/* Elementos decorativos */}
