@@ -1,7 +1,6 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { TrendingUp } from '@/components/icons/SocialIcons'
 
 interface CryptoPrice {
   id: string
