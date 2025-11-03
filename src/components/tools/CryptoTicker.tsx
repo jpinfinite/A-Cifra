@@ -18,9 +18,8 @@ export function CryptoTicker() {
   useEffect(() => {
     const fetchPrices = async () => {
       try {
-        const response = await fetch(
-          'https://api.coingecko.com/api/v3/coins/markets?vs_currency=brl&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=pt'
-        )
+        // Usando a API HG Finance via nossa rota interna
+        const response = await fetch('/api/crypto-prices')
         
         if (!response.ok) throw new Error('Failed to fetch')
         
