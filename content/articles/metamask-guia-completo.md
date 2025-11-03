@@ -13,14 +13,7 @@ author:
   avatar: '/Jonatha-Pereira-SEO.png'
 publishedAt: '2025-10-30'
 updatedAt: '2025-10-30'
-<<<<<<< HEAD
-categorySlug: 'tutoriais'
-=======
-category:
-  name: 'Educação'
-  slug: 'educacao'
-  description: 'Aprenda sobre criptomoedas e blockchain'
->>>>>>> 78a3942252fe9bcb8e1a6991350f31a58ee7254c
+category: 'tutoriais'
 tags:
   - 'metamask'
   - 'carteira cripto'
