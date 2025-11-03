@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import { MainLayout } from '@/components/layout'
 import { Container, Heading, Text } from '@/components/ui'
 import { BookOpen, Target, Clock, Alert, TrendingUp, Lightbulb, Search } from '@/components/icons/SocialIcons'
+import { DCACalculator, ProfitLossCalculator, StakingCalculator } from '@/components/tools'
 
 export const metadata: Metadata = {
   title: 'Calculadoras e Ferramentas Cripto | A Cifra',
@@ -32,106 +33,13 @@ export default function FerramentasPage() {
         {/* Tools Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           {/* DCA Calculator */}
-          <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="text-brand-gold">
-                <Target size="24" />
-              </div>
-              <h3 className="text-lg font-semibold">Calculadora DCA</h3>
-            </div>
-            <p className="text-gray-600 mb-4">
-              Calcule o resultado de investimentos periódicos (Dollar Cost Averaging) 
-              em diferentes criptomoedas.
-            </p>
-            <div className="space-y-3">
-              <input
-                type="number"
-                placeholder="Valor mensal (R$)"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <input
-                type="number"
-                placeholder="Período (meses)"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <select className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold">
-                <option>Bitcoin (BTC)</option>
-                <option>Ethereum (ETH)</option>
-                <option>Outras</option>
-              </select>
-              <button className="w-full py-2 bg-brand-primary-blue text-white rounded-lg hover:bg-brand-medium-blue transition-colors">
-                Calcular
-              </button>
-            </div>
-          </div>
+          <DCACalculator />
 
           {/* Profit/Loss Calculator */}
-          <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="text-brand-gold">
-                <TrendingUp size="24" />
-              </div>
-              <h3 className="text-lg font-semibold">Lucro/Prejuízo</h3>
-            </div>
-            <p className="text-gray-600 mb-4">
-              Calcule seu lucro ou prejuízo em operações de criptomoedas, 
-              incluindo taxas e impostos.
-            </p>
-            <div className="space-y-3">
-              <input
-                type="number"
-                placeholder="Preço de compra (R$)"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <input
-                type="number"
-                placeholder="Preço de venda (R$)"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <input
-                type="number"
-                placeholder="Quantidade"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <button className="w-full py-2 bg-brand-primary-blue text-white rounded-lg hover:bg-brand-medium-blue transition-colors">
-                Calcular
-              </button>
-            </div>
-          </div>
+          <ProfitLossCalculator />
 
           {/* Staking Calculator */}
-          <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="text-brand-gold">
-                <Lightbulb size="24" />
-              </div>
-              <h3 className="text-lg font-semibold">Calculadora Staking</h3>
-            </div>
-            <p className="text-gray-600 mb-4">
-              Simule rendimentos de staking em diferentes criptomoedas 
-              proof-of-stake.
-            </p>
-            <div className="space-y-3">
-              <input
-                type="number"
-                placeholder="Valor em staking (R$)"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <input
-                type="number"
-                placeholder="APY anual (%)"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <select className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold">
-                <option>Ethereum (ETH)</option>
-                <option>Cardano (ADA)</option>
-                <option>Solana (SOL)</option>
-              </select>
-              <button className="w-full py-2 bg-brand-primary-blue text-white rounded-lg hover:bg-brand-medium-blue transition-colors">
-                Calcular
-              </button>
-            </div>
-          </div>
+          <StakingCalculator />
 
           {/* Mining Calculator */}
           <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow">
