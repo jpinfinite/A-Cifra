@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { MainLayout } from '@/components/layout'
 import { Container, Heading, Text } from '@/components/ui'
 import { BookOpen, Target, Clock, Alert, TrendingUp, Lightbulb, Search } from '@/components/icons/SocialIcons'
-import { DCACalculator, ProfitLossCalculator, StakingCalculator } from '@/components/tools'
+import { DCACalculator, ProfitLossCalculator, StakingCalculator, CryptoTicker } from '@/components/tools'
 
 export const metadata: Metadata = {
   title: 'Calculadoras e Ferramentas Cripto | A Cifra',
@@ -13,6 +13,9 @@ export const metadata: Metadata = {
 export default function FerramentasPage() {
   return (
     <MainLayout>
+      {/* Crypto Ticker - Cotações em Tempo Real */}
+      <CryptoTicker />
+      
       <Container className="py-8">
         {/* Header */}
         <div className="text-center mb-12">
