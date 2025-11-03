@@ -4,7 +4,7 @@ export const siteConfig: SiteConfig = {
   name: 'A Cifra',
   description:
     'Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.',
-  url: 'https://acifra.com',
+  url: 'https://a-cifra.com.br',
   logo: {
     src: '/images/logos/cifra-principal.png',
     alt: 'A Cifra - Blog sobre Criptomoedas',
