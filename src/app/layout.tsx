@@ -114,6 +114,7 @@ export default function RootLayout({
         {/* Melhorias de SEO e segurança */}
         <meta name="referrer" content="origin" />
         <meta name="google-site-verification" content="EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE" />
+        <meta name="msvalidate.01" content="22305352092034B05EEE259DED78FD7D" />
         <meta name="yandex-verification" content="" />
         
         {/* Google Analytics (gtag.js) */}
