@@ -132,6 +132,9 @@ export default function RootLayout({
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
         
+        {/* Ezoic Integration */}
+        <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+        
         {/* Google News - Subscribe with Google */}
         <script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
         <script
