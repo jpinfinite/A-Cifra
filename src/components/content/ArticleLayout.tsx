@@ -4,6 +4,7 @@ import { Breadcrumb } from '@/components/layout'
 import { Article, BreadcrumbItem } from '@/types'
 import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
+import { InfiniteBanner } from '@/components/ads'
 
 interface ArticleLayoutProps {
   article: Article
@@ -196,6 +197,11 @@ export function ArticleLayout({ article, breadcrumbs = [], className }: ArticleL
 
       {/* Article Content */}
       <ArticleContent content={article.content} />
+
+      {/* Banner Infinite */}
+      <div className="my-12">
+        <InfiniteBanner />
+      </div>
 
       {/* Article Footer */}
       <footer className="mt-12 pt-8 border-t border-gray-200">

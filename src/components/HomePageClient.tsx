@@ -4,6 +4,7 @@ import { useEffect } from 'react'
 import { ArticleGrid, FeaturedArticleCard } from '@/components/content'
 import { Container, Heading, Text, CategoryIcon } from '@/components/ui'
 import NewsletterForm from '@/components/content/NewsletterForm'
+import { InfiniteBanner } from '@/components/ads'
 import type { Article } from '@/types'
 
 interface HomePageClientProps {
@@ -157,7 +158,10 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
             </div>
           )}
           
-
+          {/* Banner Infinite */}
+          <div className="scroll-reveal">
+            <InfiniteBanner />
+          </div>
           
           <div className="text-center mt-16 scroll-reveal">
             <a
