@@ -1,0 +1,72 @@
+{
+  "common": {
+    "readMore": "Read more",
+    "readTime": "min read",
+    "by": "By",
+    "share": "Share",
+    "shareOn": "Share:",
+    "likedShare": "Liked it? Share:",
+    "lastUpdate": "Last update:",
+    "loading": "Loading...",
+    "error": "Error loading"
+  },
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "categories": "Categories",
+    "tools": "Tools",
+    "glossary": "Glossary",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "home": {
+    "badge": "Your Trusted Crypto Portal",
+    "title": "Your complete guide to cryptocurrencies",
+    "subtitle": "Discover in-depth analysis, updated news and quality education about Bitcoin, Ethereum, DeFi, NFTs and the future of digital finance.",
+    "exploreArticles": "Explore Articles",
+    "startLearning": "Start Learning",
+    "categoriesTitle": "Explore by Category",
+    "categoriesSubtitle": "Find specialized content on the topics that interest you most",
+    "recentArticlesTitle": "Recent Articles",
+    "recentArticlesSubtitle": "Stay up to date with the latest news and analysis from the cryptocurrency market",
+    "viewAllArticles": "View All Articles",
+    "viewArticles": "View articles"
+  },
+  "categories": {
+    "bitcoin": "Bitcoin",
+    "ethereum": "Ethereum",
+    "altcoins": "Altcoins",
+    "defi": "DeFi",
+    "nfts": "NFTs",
+    "security": "Security",
+    "analysis": "Analysis",
+    "education": "Education"
+  },
+  "newsletter": {
+    "title": "Stay up to date",
+    "subtitle": "Receive exclusive analysis and the latest news from the crypto world directly in your email",
+    "emailPlaceholder": "Your best email",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing...",
+    "success": "Successfully subscribed!",
+    "error": "Error subscribing. Please try again."
+  },
+  "tools": {
+    "title": "Calculators and Tools",
+    "subtitle": "Essential tools to plan and analyze your cryptocurrency investments. Calculate DCA, profits, staking and much more.",
+    "dcaCalculator": "DCA Calculator",
+    "profitLossCalculator": "Profit/Loss Calculator",
+    "stakingCalculator": "Staking Calculator",
+    "cryptoTicker": "Real-Time Quotes"
+  },
+  "footer": {
+    "description": "Your complete guide to cryptocurrencies, blockchain and the future of digital finance.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "legal": "Legal",
+    "followUs": "Follow us",
+    "rights": "All rights reserved."
+  }
+}

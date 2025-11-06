@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { Menu, X, Search, ChevronDown } from 'lucide-react'
-import { Button, Logo } from '@/components/ui'
+import { Button, Logo, LanguageSwitcher } from '@/components/ui'
 import { cn } from '@/utils/cn'
 import { NavigationItem } from '@/types'
 
@@ -238,8 +238,13 @@ export function Header() {
               </div>
             </div>
 
-            {/* Search and Mobile menu button */}
+            {/* Search, Language Switcher and Mobile menu button */}
             <div className="flex items-center space-x-2">
+              {/* Language Switcher */}
+              <div className="hidden md:block">
+                <LanguageSwitcher />
+              </div>
+
               {/* Search Button */}
               <Button
                 variant="ghost"
@@ -389,8 +394,12 @@ export function Header() {
               </div>
             ))}
             
-            {/* Mobile Search */}
-            <div className="pt-4 border-t border-gray-100">
+            {/* Mobile Language Switcher and Search */}
+            <div className="pt-4 border-t border-gray-100 space-y-2">
+              <div className="md:hidden">
+                <LanguageSwitcher />
+              </div>
+              
               <Button
                 variant="outline"
                 size="sm"
