@@ -603,3 +603,69 @@
     @apply bg-gray-900 text-white;
   }
 }
+
+/* Boxes personalizados A Cifra */
+.cifra-info {
+  @apply bg-gradient-to-r from-blue-50 to-blue-100 border-l-4 border-blue-500 p-6 my-8 rounded-r-xl shadow-md;
+  background: linear-gradient(90deg, rgba(219, 234, 254, 0.9) 0%, rgba(191, 219, 254, 0.6) 100%);
+}
+
+.cifra-info strong {
+  @apply text-blue-700 font-bold block mb-2;
+  font-size: 1.05em;
+}
+
+.cifra-info p {
+  @apply text-blue-900 mb-0 leading-relaxed;
+}
+
+.cifra-alerta {
+  @apply bg-gradient-to-r from-yellow-50 to-yellow-100 border-l-4 border-yellow-500 p-6 my-8 rounded-r-xl shadow-md;
+  background: linear-gradient(90deg, rgba(254, 249, 195, 0.9) 0%, rgba(254, 240, 138, 0.6) 100%);
+}
+
+.cifra-alerta strong {
+  @apply text-yellow-800 font-bold block mb-2;
+  font-size: 1.05em;
+}
+
+.cifra-alerta p {
+  @apply text-yellow-900 mb-0 leading-relaxed;
+}
+
+.cifra-destaque {
+  @apply bg-gradient-to-r from-green-50 to-green-100 border-l-4 border-green-500 p-6 my-8 rounded-r-xl shadow-md;
+  background: linear-gradient(90deg, rgba(220, 252, 231, 0.9) 0%, rgba(187, 247, 208, 0.6) 100%);
+}
+
+.cifra-destaque strong {
+  @apply text-green-700 font-bold block mb-2;
+  font-size: 1.05em;
+}
+
+.cifra-destaque p {
+  @apply text-green-900 mb-0 leading-relaxed;
+}
+
+/* Estilo para boxes dentro do conteúdo do artigo */
+.article-content .cifra-info,
+.article-content .cifra-alerta,
+.article-content .cifra-destaque {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Responsividade dos boxes */
+@media (max-width: 640px) {
+  .cifra-info,
+  .cifra-alerta,
+  .cifra-destaque {
+    @apply p-4 my-6;
+  }
+  
+  .cifra-info strong,
+  .cifra-alerta strong,
+  .cifra-destaque strong {
+    font-size: 1em;
+  }
+}
