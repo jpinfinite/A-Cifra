@@ -1,15 +1,25 @@
 ---
+id: '22'
 title: "O Comeback das Moedas Secretas: Zcash e Dash Disparam no Mercado"
+slug: "zcash-dash-moedas-privacidade-disparam"
 excerpt: "Capitalização de mercado das moedas de privacidade dispara 80% em novembro de 2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022. Entenda os fatores por trás desse movimento."
 coverImage:
-  src: "/images/articles/zcash-dash-privacy-coins.jpg"
-  alt: "Zcash e Dash - Moedas de Privacidade em Alta"
-date: "2024-11-06"
+  src: '/images/articles/zcash.png'
+  alt: 'Zcash e Dash - Moedas de Privacidade em Alta'
+  width: 1200
+  height: 630
 author:
-  name: "Equipe A Cifra"
-  avatar: "/images/authors/cifra-team.jpg"
-category: "altcoins"
-tags: ["Zcash", "Dash", "Privacidade", "Altcoins", "Análise de Mercado"]
+  name: 'Jonatha Pereira'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-06'
+updatedAt: '2025-11-06'
+category: 'altcoins'
+tags:
+  - 'Zcash'
+  - 'Dash'
+  - 'Privacidade'
+  - 'Altcoins'
+  - 'Análise de Mercado'
 featured: true
 ---
 
