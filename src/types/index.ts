@@ -18,7 +18,7 @@ export interface Article {
   updatedAt?: Date
   category: Category
   tags: string[]
-  seo: SEOData
+  seo?: SEOData
 }
 
 export interface Category {

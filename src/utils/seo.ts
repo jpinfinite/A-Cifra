@@ -101,9 +101,9 @@ export function generateMetadata({
 
 export function generateArticleMetadata(article: Article): Metadata {
   return generateMetadata({
-    title: article.seo.metaTitle || article.title,
-    description: article.seo.metaDescription || article.excerpt,
-    keywords: article.seo.keywords,
+    title: article.seo?.metaTitle || article.title,
+    description: article.seo?.metaDescription || article.excerpt,
+    keywords: article.seo?.keywords,
     image: article.coverImage.src,
     url: `/artigo/${article.slug}`,
     type: 'article',
@@ -112,7 +112,7 @@ export function generateArticleMetadata(article: Article): Metadata {
     author: article.author.name,
     section: article.category.name,
     tags: article.tags,
-    noIndex: article.seo.noIndex
+    noIndex: article.seo?.noIndex
   })
 }
 

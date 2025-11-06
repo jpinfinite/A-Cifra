@@ -21,6 +21,10 @@ tags:
   - 'Altcoins'
   - 'Market Analysis'
 featured: true
+seo:
+  metaTitle: 'Zcash and Dash Surge 80% - Privacy Coins Boom Analysis'
+  metaDescription: 'Privacy coin market cap surges 80% in November 2025. Zcash reaches highest value in 7 years and Dash hits 2022 highs. Understand the factors behind this movement.'
+  keywords: 'Zcash, Dash, privacy coins, cryptocurrency, ZEC, DASH, zk-SNARKs, CoinJoin, crypto privacy'
 ---
 
 ## Context: The Privacy Coin Boom

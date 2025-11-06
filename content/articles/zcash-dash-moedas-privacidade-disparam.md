@@ -21,6 +21,10 @@ tags:
   - 'Altcoins'
   - 'Análise de Mercado'
 featured: true
+seo:
+  metaTitle: 'Zcash e Dash Disparam 80% - Análise do Boom das Moedas de Privacidade'
+  metaDescription: 'Capitalização de mercado das moedas de privacidade dispara 80% em novembro de 2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022. Entenda os fatores por trás desse movimento.'
+  keywords: 'Zcash, Dash, moedas de privacidade, criptomoedas, ZEC, DASH, zk-SNARKs, CoinJoin, privacidade cripto'
 ---
 
 ## Contexto: O Boom das Moedas de Privacidade
