@@ -101,3 +101,81 @@ export function loadArticleBySlug(slug: string): Article | null {
     return null
   }
 }
+
+/**
+ * Carrega um artigo com suporte a idiomas
+ * Tenta carregar primeiro a versão no idioma especificado (ex: article.en.md)
+ * Se não encontrar, carrega a versão padrão (article.md)
+ */
+export function loadArticleBySlugWithLocale(slug: string, locale: string = 'pt'): Article | null {
+  try {
+    if (!fs.existsSync(articlesDirectory)) {
+      return null
+    }
+
+    const filenames = fs.readdirSync(articlesDirectory)
+    
+    // Primeiro tenta carregar a versão localizada
+    if (locale !== 'pt') {
+      const localizedFilename = filenames.find(filename => {
+        if (!filename.endsWith('.md')) return false
+        const article = loadArticleFromFile(filename)
+        return article && article.slug === slug && filename.includes(`.${locale}.md`)
+      })
+      
+      if (localizedFilename) {
+        return loadArticleFromFile(localizedFilename)
+      }
+    }
+    
+    // Fallback para versão padrão (português)
+    for (const filename of filenames) {
+      if (!filename.endsWith('.md') || filename.includes('.en.md')) continue
+      
+      const article = loadArticleFromFile(filename)
+      if (article && article.slug === slug) {
+        return article
+      }
+    }
+
+    return null
+  } catch (error) {
+    console.error(`Error loading article by slug ${slug} with locale ${locale}:`, error)
+    return null
+  }
+}
+
+/**
+ * Carrega todos os artigos com suporte a idiomas
+ * Filtra apenas artigos do idioma especificado
+ */
+export function loadAllArticlesFromFilesWithLocale(locale: string = 'pt'): Article[] {
+  try {
+    if (!fs.existsSync(articlesDirectory)) {
+      return []
+    }
+
+    const filenames = fs.readdirSync(articlesDirectory)
+    const articles = filenames
+      .filter(filename => {
+        if (!filename.endsWith('.md') || filename === 'README.md' || filename === '_template.md') {
+          return false
+        }
+        
+        // Se for inglês, só pega arquivos .en.md
+        if (locale === 'en') {
+          return filename.includes('.en.md')
+        }
+        
+        // Se for português, só pega arquivos sem .en.md
+        return !filename.includes('.en.md')
+      })
+      .map(filename => loadArticleFromFile(filename))
+      .filter((article): article is Article => article !== null)
+
+    return articles.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
+  } catch (error) {
+    console.error('Error loading articles from files with locale:', error)
+    return []
+  }
+}
