@@ -4,7 +4,7 @@ import { useEffect } from 'react'
 
 interface AdSenseProps {
   adSlot: string
-  adFormat?: 'auto' | 'fluid' | 'rectangle' | 'vertical' | 'horizontal'
+  adFormat?: 'auto' | 'fluid' | 'rectangle' | 'vertical' | 'horizontal' | 'autorelaxed'
   adLayout?: string
   adLayoutKey?: string
   fullWidthResponsive?: boolean
