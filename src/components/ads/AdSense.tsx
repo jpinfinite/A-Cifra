@@ -21,9 +21,9 @@ export function AdSense({
 }: AdSenseProps) {
   useEffect(() => {
     try {
-      // @ts-ignore
+      // @ts-expect-error - adsbygoogle is loaded by external script
       if (typeof window !== 'undefined' && window.adsbygoogle) {
-        // @ts-ignore
+        // @ts-expect-error - adsbygoogle is loaded by external script
         (window.adsbygoogle = window.adsbygoogle || []).push({})
       }
     } catch (error) {
