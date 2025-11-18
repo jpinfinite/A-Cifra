@@ -4,7 +4,8 @@ import { useEffect } from 'react'
 import { ArticleGrid, FeaturedArticleCard } from '@/components/content'
 import { Container, Heading, Text, CategoryIcon } from '@/components/ui'
 import NewsletterForm from '@/components/content/NewsletterForm'
-import { InfiniteBanner } from '@/components/ads'
+import { InfiniteBanner, AdSenseDisplay } from '@/components/ads'
+import { getAdSlot } from '@/config/adsense'
 import type { Article } from '@/types'
 
 interface HomePageClientProps {
@@ -161,6 +162,11 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
           {/* Banner Infinite */}
           <div className="scroll-reveal">
             <InfiniteBanner />
+          </div>
+
+          {/* Google AdSense - Display */}
+          <div className="scroll-reveal">
+            <AdSenseDisplay adSlot={getAdSlot('display')} />
           </div>
           
           <div className="text-center mt-16 scroll-reveal">

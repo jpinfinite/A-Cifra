@@ -4,7 +4,8 @@ import { Breadcrumb } from '@/components/layout'
 import { Article, BreadcrumbItem } from '@/types'
 import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
-import { InfiniteBanner } from '@/components/ads'
+import { InfiniteBanner, AdSenseInArticle, AdSenseMultiplex } from '@/components/ads'
+import { getAdSlot } from '@/config/adsense'
 
 interface ArticleLayoutProps {
   article: Article
@@ -198,10 +199,16 @@ export function ArticleLayout({ article, breadcrumbs = [], className }: ArticleL
       {/* Article Content */}
       <ArticleContent content={article.content} />
 
+      {/* Google AdSense - In-Article */}
+      <AdSenseInArticle adSlot={getAdSlot('inArticle')} />
+
       {/* Banner Infinite */}
       <div className="my-12">
         <InfiniteBanner />
       </div>
+
+      {/* Google AdSense - Multiplex (Conteúdo Relacionado) */}
+      <AdSenseMultiplex adSlot={getAdSlot('multiplex')} />
 
       {/* Article Footer */}
       <footer className="mt-12 pt-8 border-t border-gray-200">
