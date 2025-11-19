@@ -2,6 +2,7 @@
 
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import rehypeRaw from 'rehype-raw'
 
 interface ArticleContentProps {
   content: string
@@ -12,6 +13,7 @@ export default function ArticleContent({ content }: ArticleContentProps) {
     <div className="prose prose-lg max-w-none">
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]}
         components={{
           // Custom components for better styling
           h1: ({ children }) => (
