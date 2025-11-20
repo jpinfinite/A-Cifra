@@ -118,14 +118,14 @@ export default function RootLayout({
         <meta name="yandex-verification" content="" />
         
         {/* Google Analytics (gtag.js) */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JDX167JXHF"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-TFBC1HD2BR');
+              gtag('config', 'G-JDX167JXHF');
             `
           }}
         />
