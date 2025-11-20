@@ -1,3 +1,30 @@
+---
+id: 'readme-articles'
+title: 'Documentação - Como Adicionar Artigos'
+slug: 'documentacao-artigos'
+excerpt: 'Guia completo sobre como adicionar e formatar novos artigos no blog A Cifra'
+coverImage:
+  src: '/images/cifra-principal.png'
+  alt: 'Documentação A Cifra'
+  width: 1200
+  height: 630
+author:
+  name: 'Jonatha Pereira'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-20'
+updatedAt: '2025-11-20'
+category: 'documentacao'
+tags:
+  - 'documentação'
+  - 'guia'
+  - 'tutorial'
+featured: false
+seo:
+  metaTitle: 'Como Adicionar Artigos - Documentação | A Cifra'
+  metaDescription: 'Guia completo sobre como adicionar e formatar novos artigos no blog A Cifra'
+  keywords: 'documentação, artigos, markdown, frontmatter'
+---
+
 # Como Adicionar Novos Artigos
 
 Este diretório contém artigos em formato Markdown que são automaticamente carregados pelo sistema.

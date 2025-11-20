@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import { Inter, Poppins } from 'next/font/google'
 import { StructuredData } from '@/components/ui/StructuredData'
 import { generateWebsiteStructuredData } from '@/utils/seo'
@@ -117,18 +118,7 @@ export default function RootLayout({
         <meta name="msvalidate.01" content="22305352092034B05EEE259DED78FD7D" />
         <meta name="yandex-verification" content="" />
         
-        {/* Google Analytics (gtag.js) */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JDX167JXHF"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-JDX167JXHF');
-            `
-          }}
-        />
+
         
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
@@ -154,6 +144,20 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-JDX167JXHF"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-JDX167JXHF');
+          `}
+        </Script>
+
         {/* Skip link para acessibilidade */}
         <a 
           href="#main-content" 

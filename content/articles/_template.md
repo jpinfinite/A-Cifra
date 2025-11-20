@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Jonatha Pereira'
   avatar: '/Jonatha-Pereira-SEO.png'
-publishedAt: '2025-10-30'
-updatedAt: '2025-10-30'
+publishedAt: '2025-11-20'
+updatedAt: '2025-11-20'
 category:
   name: 'Educação'
   slug: 'educacao'
