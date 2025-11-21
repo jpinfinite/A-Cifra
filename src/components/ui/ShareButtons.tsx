@@ -7,10 +7,9 @@ import { useState } from 'react'
 interface ShareButtonsProps {
   url: string
   title: string
-  description?: string
 }
 
-export function ShareButtons({ url, title, description }: ShareButtonsProps) {
+export function ShareButtons({ url, title }: ShareButtonsProps) {
   const [copied, setCopied] = useState(false)
 
   const shareLinks = {
