@@ -127,14 +127,6 @@ export default function RootLayout({
         
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
-        
-        {/* Ezoic Integration */}
-        <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
-        
-        {/* Adcash */}
-        <script type="text/javascript" dangerouslySetInnerHTML={{
-          __html: `aclib.runAutoTag({zoneId: 'qeltq6cos'});`
-        }}></script>
 
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
@@ -152,29 +144,19 @@ export default function RootLayout({
           `}
         </Script>
 
-        {/* Google News - Subscribe with Google */}
-        <Script
-          src="https://news.google.com/swg/js/v1/swg-basic.js"
-          strategy="afterInteractive"
-          type="application/javascript"
-        />
-        <Script id="google-news-swg" strategy="afterInteractive">
+        {/* Adcash */}
+        <Script id="adcash-init" strategy="afterInteractive">
           {`
-            (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
-              basicSubscriptions.init({
-                type: "NewsArticle",
-                isPartOfType: ["Product"],
-                isPartOfProductId: "CAowy_XdCw:openaccess",
-                clientOptions: { theme: "light", lang: "pt-BR" },
-              });
-            });
+            if (typeof aclib !== 'undefined') {
+              aclib.runAutoTag({zoneId: 'qeltq6cos'});
+            }
           `}
         </Script>
 
         {/* JS SYNC (NO ADBLOCK BYPASS) */}
         <Script
           src="//pl28107407.effectivegatecpm.com/28/6d/de/286ddef73315f3a4a13957c78edb9ce1.js"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
 
         {/* Skip link para acessibilidade */}
