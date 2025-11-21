@@ -4,6 +4,7 @@ import { ArticleLayout } from '@/components/content'
 import { Container } from '@/components/ui'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata, generateArticleStructuredData } from '@/utils/seo'
+import { getRelatedArticles } from '@/utils/relatedArticles'
 import { BreadcrumbItem } from '@/types'
 
 interface ArticlePageProps {
@@ -38,6 +39,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   if (!article) {
     notFound()
   }
+
+  // Busca artigos relacionados para aumentar engajamento e monetização
+  const allArticles = await getAllArticles()
+  const relatedArticles = getRelatedArticles(article, allArticles, 5)
   
   const breadcrumbs: BreadcrumbItem[] = [
     { label: 'Categorias', href: '/categorias' },
@@ -59,6 +64,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <ArticleLayout 
           article={article} 
           breadcrumbs={breadcrumbs}
+          relatedArticles={relatedArticles}
         />
       </Container>
     </MainLayout>

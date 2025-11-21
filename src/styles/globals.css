@@ -669,3 +669,33 @@
     font-size: 1em;
   }
 }
+
+/* Box de artigos relacionados inline */
+.cifra-related-box {
+  @apply my-8 p-6 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl border-l-4 border-brand-primary-blue shadow-sm;
+}
+
+.cifra-related-box strong {
+  @apply text-xl font-bold text-brand-dark-blue mb-4 block;
+}
+
+.cifra-related-box ul {
+  @apply space-y-3 mt-4;
+}
+
+.cifra-related-box li {
+  @apply flex items-start gap-2;
+}
+
+.cifra-related-box li::before {
+  content: "→";
+  @apply text-brand-primary-blue font-bold mt-1;
+}
+
+.cifra-related-box a {
+  @apply text-brand-dark-blue hover:text-brand-primary-blue font-semibold transition-colors duration-200 no-underline;
+}
+
+.cifra-related-box a:hover {
+  @apply underline;
+}

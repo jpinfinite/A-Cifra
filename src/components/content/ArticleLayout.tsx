@@ -4,16 +4,18 @@ import { Breadcrumb } from '@/components/layout'
 import { Article, BreadcrumbItem } from '@/types'
 import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
+import RelatedArticlesInline from './RelatedArticlesInline'
 import { InfiniteBanner, AdSenseInArticle, AdSenseMultiplex } from '@/components/ads'
 import { getAdSlot } from '@/config/adsense'
 
 interface ArticleLayoutProps {
   article: Article
   breadcrumbs?: BreadcrumbItem[]
+  relatedArticles?: Article[]
   className?: string
 }
 
-export function ArticleLayout({ article, breadcrumbs = [], className }: ArticleLayoutProps) {
+export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [], className }: ArticleLayoutProps) {
   const formatDate = (date: Date) => {
     return new Intl.DateTimeFormat('pt-BR', {
       day: 'numeric',
@@ -196,8 +198,16 @@ export function ArticleLayout({ article, breadcrumbs = [], className }: ArticleL
         />
       </div>
 
-      {/* Article Content */}
-      <ArticleContent content={article.content} />
+      {/* Article Content with Related Links */}
+      <ArticleContent content={article.content} relatedArticles={relatedArticles} />
+
+      {/* Related Articles Inline - Aumenta pageviews e monetização */}
+      {relatedArticles.length > 0 && (
+        <RelatedArticlesInline 
+          articles={relatedArticles.slice(0, 3)} 
+          title="📚 Continue Aprendendo"
+        />
+      )}
 
       {/* Google AdSense - In-Article */}
       <AdSenseInArticle adSlot={getAdSlot('inArticle')} />

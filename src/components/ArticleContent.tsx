@@ -3,12 +3,24 @@
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
+import { Article } from '@/types'
+import { useMemo } from 'react'
+import { addInlineLinks } from '@/utils/relatedArticles'
 
 interface ArticleContentProps {
   content: string
+  relatedArticles?: Article[]
 }
 
-export default function ArticleContent({ content }: ArticleContentProps) {
+export default function ArticleContent({ content, relatedArticles = [] }: ArticleContentProps) {
+  // Adiciona links inline automaticamente
+  const enhancedContent = useMemo(() => {
+    if (relatedArticles.length > 0) {
+      return addInlineLinks(content, relatedArticles)
+    }
+    return content
+  }, [content, relatedArticles])
+
   return (
     <div className="prose prose-lg max-w-none">
       <ReactMarkdown
@@ -72,7 +84,7 @@ export default function ArticleContent({ content }: ArticleContentProps) {
           ),
         }}
       >
-        {content}
+        {enhancedContent}
       </ReactMarkdown>
     </div>
   )
