@@ -4,8 +4,8 @@
 /_next/*  /_next/:splat  200
 /images/*  /images/:splat  200
 
-# API routes
+# API routes (if any)
 /api/*  /api/:splat  200
 
-# SPA fallback
-/*    /index.html   200
+# 404 fallback
+/*    /404.html   404
