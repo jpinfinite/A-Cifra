@@ -738,6 +738,18 @@
   @apply text-brand-primary-blue hover:underline transition-colors;
 }
 
+.article-content pre {
+  @apply bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto my-6;
+}
+
+.article-content code {
+  @apply bg-gray-900 text-gray-100 px-2 py-1 rounded text-sm font-mono;
+}
+
+.article-content pre code {
+  @apply bg-transparent p-0;
+}
+
 .article-content .article-image {
   @apply my-8 rounded-xl overflow-hidden shadow-lg;
 }
