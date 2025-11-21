@@ -4,6 +4,7 @@ import { Inter, Poppins } from 'next/font/google'
 import { StructuredData } from '@/components/ui/StructuredData'
 import { generateWebsiteStructuredData } from '@/utils/seo'
 import '@/styles/globals.css'
+import { siteConfig } from '@/lib/config'
 
 // Otimização de fontes com estratégia de preload e display swap
 const inter = Inter({
@@ -122,7 +123,6 @@ export default function RootLayout({
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        <link rel="canonical" href={siteConfig.url} />
         
 
         
