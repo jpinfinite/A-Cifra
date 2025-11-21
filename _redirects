@@ -5,14 +5,8 @@
 # API routes
 /api/*  /api/:splat  200
 
-# Specific pages - prevent redirect loops
-/artigos  /artigos/  301
-/sobre  /sobre/  301
-/contatos  /contatos/  301
-/ferramentas  /ferramentas/  301
-/glossario  /glossario/  301
-/privacidade  /privacidade/  301
-/termos  /termos/  301
+# Remove trailing slashes (normalize URLs)
+/*/  /:splat  301!
 
 # SPA fallback - lowest priority
 /*    /index.html   200

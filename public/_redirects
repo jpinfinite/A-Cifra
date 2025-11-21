@@ -1,0 +1,13 @@
+# Cloudflare Pages redirects
+# Remove trailing slashes
+/*/  /:splat  301!
+
+# Static assets
+/_next/*  /_next/:splat  200
+/images/*  /images/:splat  200
+
+# API routes
+/api/*  /api/:splat  200
+
+# SPA fallback
+/*    /index.html   200
