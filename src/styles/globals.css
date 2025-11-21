@@ -784,18 +784,52 @@
   @apply bg-green-50 border-green-500;
 }
 
+.article-content .tip-box p,
+.article-content .tip-box strong {
+  @apply text-green-900;
+}
+
 .article-content .alert-box {
   @apply bg-red-50 border-red-500;
+}
+
+.article-content .alert-box p,
+.article-content .alert-box strong {
+  @apply text-red-900;
 }
 
 .article-content .warning-box {
   @apply bg-yellow-50 border-yellow-500;
 }
 
+.article-content .warning-box p,
+.article-content .warning-box strong {
+  @apply text-yellow-900;
+}
+
 .article-content .info-box {
   @apply bg-blue-50 border-blue-500;
 }
 
+.article-content .info-box p,
+.article-content .info-box strong {
+  @apply text-blue-900;
+}
+
 .article-content .comparison-box {
   @apply bg-purple-50 border-purple-500;
+}
+
+.article-content .comparison-box h3,
+.article-content .comparison-box h4 {
+  @apply text-purple-900;
+}
+
+.article-content .comparison-box p,
+.article-content .comparison-box li {
+  @apply text-purple-900;
+}
+
+.article-content .comparison-box ul {
+  @apply list-disc ml-6 space-y-2;
 }
