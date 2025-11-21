@@ -5,8 +5,5 @@
 # API routes
 /api/*  /api/:splat  200
 
-# Remove trailing slashes (normalize URLs)
-/*/  /:splat  301!
-
-# SPA fallback - lowest priority
+# SPA fallback - serve all routes from index.html
 /*    /index.html   200

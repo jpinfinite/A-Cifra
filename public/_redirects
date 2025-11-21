@@ -1,6 +1,4 @@
 # Cloudflare Pages redirects
-# Remove trailing slashes
-/*/  /:splat  301!
 
 # Static assets
 /_next/*  /_next/:splat  200
