@@ -135,6 +135,9 @@ export default function RootLayout({
         <script type="text/javascript" dangerouslySetInnerHTML={{
           __html: `aclib.runAutoTag({zoneId: 'qeltq6cos'});`
         }}></script>
+        
+        {/* JS SYNC (NO ADBLOCK BYPASS) */}
+        <script type="text/javascript" src="//pl28107407.effectivegatecpm.com/28/6d/de/286ddef73315f3a4a13957c78edb9ce1.js"></script>
 
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
