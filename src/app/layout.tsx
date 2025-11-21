@@ -125,17 +125,14 @@ export default function RootLayout({
         
 
         
-        {/* Google AdSense */}
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841" crossOrigin="anonymous"></script>
-
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-JDX167JXHF"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -143,21 +140,6 @@ export default function RootLayout({
             gtag('config', 'G-JDX167JXHF');
           `}
         </Script>
-
-        {/* Adcash */}
-        <Script id="adcash-init" strategy="afterInteractive">
-          {`
-            if (typeof aclib !== 'undefined') {
-              aclib.runAutoTag({zoneId: 'qeltq6cos'});
-            }
-          `}
-        </Script>
-
-        {/* JS SYNC (NO ADBLOCK BYPASS) */}
-        <Script
-          src="//pl28107407.effectivegatecpm.com/28/6d/de/286ddef73315f3a4a13957c78edb9ce1.js"
-          strategy="lazyOnload"
-        />
 
         {/* Skip link para acessibilidade */}
         <a 
