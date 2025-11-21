@@ -109,25 +109,49 @@ export function addInlineLinks(
     
     // Tenta encontrar a primeira ocorrência de cada palavra-chave
     for (const keyword of keywords) {
-      // Regex para encontrar a palavra-chave (case insensitive, não dentro de links)
+      // Regex simples para encontrar a palavra-chave (case insensitive)
+      // Evita palavras já dentro de links markdown [texto](url)
       const regex = new RegExp(
-        `(?<!\\[)\\b(${keyword})\\b(?![^\\[]*\\])(?![^<]*>)`,
+        `\\b(${escapeRegex(keyword)})\\b`,
         'i'
       )
       
-      const match = modifiedContent.match(regex)
-      if (match) {
-        // Substitui apenas a primeira ocorrência
-        modifiedContent = modifiedContent.replace(
-          regex,
-          `[$1](/artigo/${article.slug} "${article.title}")`
-        )
+      // Verifica se a palavra existe e não está dentro de um link
+      const lines = modifiedContent.split('\n')
+      let replaced = false
+      
+      for (let i = 0; i < lines.length && !replaced; i++) {
+        const line = lines[i]
+        
+        // Pula linhas que já têm links ou são títulos
+        if (line.includes('](') || line.startsWith('#')) continue
+        
+        const match = line.match(regex)
+        if (match) {
+          // Substitui apenas a primeira ocorrência nesta linha
+          lines[i] = line.replace(
+            regex,
+            `[$1](/artigo/${article.slug} "${article.title}")`
+          )
+          replaced = true
+        }
+      }
+      
+      if (replaced) {
+        modifiedContent = lines.join('\n')
         break // Apenas um link por artigo
       }
     }
   })
 
   return modifiedContent
+}
+
+/**
+ * Escapa caracteres especiais de regex
+ */
+function escapeRegex(str: string): string {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 }
 
 /**
