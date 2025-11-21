@@ -148,6 +148,27 @@ export default function RootLayout({
           `}
         </Script>
 
+        {/* Google News - Reader Revenue Manager */}
+        <Script
+          src="https://news.google.com/swg/js/v1/swg-basic.js"
+          strategy="lazyOnload"
+        />
+        <Script id="google-news-reader-revenue" strategy="lazyOnload">
+          {`
+            (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+              basicSubscriptions.init({
+                type: "NewsArticle",
+                isPartOfType: ["Product"],
+                isPartOfProductId: "CAowy_XdCw:openaccess",
+                clientOptions: { 
+                  theme: "light", 
+                  lang: "pt-BR" 
+                },
+              });
+            });
+          `}
+        </Script>
+
         {/* Skip link para acessibilidade */}
         <a 
           href="#main-content" 
