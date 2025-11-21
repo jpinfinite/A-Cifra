@@ -4,7 +4,7 @@ title: 'Cardano (ADA): A Oportunidade Enquanto Bitcoin Está em Baixa'
 slug: 'cardano-ada-oportunidade-baixa-bitcoin-2025'
 excerpt: 'Com Bitcoin em território negativo, Cardano emerge como alternativa promissora. Descubra por que ADA pode ser a melhor escolha para investidores em 2025.'
 coverImage:
-  src: '/images/cardano.jpg'
+  src: '/images/Cardano.jpg'
   alt: 'Cardano ADA - Blockchain de terceira geração com abordagem científica'
   width: 1200
   height: 630
@@ -37,7 +37,7 @@ Enquanto o [Bitcoin](/artigo/bitcoin-valorizacao-negativa-analise-mercado-baixis
 Com o mercado cripto em correção, muitos investidores estão buscando **alternativas mais sustentáveis** ao Bitcoin. Cardano não é apenas mais uma altcoin - é um projeto fundamentado em **pesquisa acadêmica revisada por pares** que promete revolucionar a forma como pensamos sobre blockchain.
 
 <div class="article-image">
-  <img src="/images/cardano.jpg" alt="Cardano - Blockchain de terceira geração" />
+  <img src="/images/Cardano.jpg" alt="Cardano - Blockchain de terceira geração" />
   <p class="image-caption">Cardano: A blockchain construída com rigor científico</p>
 </div>
 
