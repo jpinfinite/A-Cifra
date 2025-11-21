@@ -743,11 +743,21 @@
 }
 
 .article-content code {
-  @apply bg-gray-900 text-gray-100 px-2 py-1 rounded text-sm font-mono;
+  @apply bg-gray-800 text-gray-100 px-2 py-1 rounded text-sm font-mono;
 }
 
 .article-content pre code {
-  @apply bg-transparent p-0;
+  @apply bg-transparent text-gray-100 p-0;
+}
+
+/* Garante que listas dentro de pre/code não tenham fundo */
+.article-content pre ol,
+.article-content pre ul {
+  @apply bg-transparent list-none ml-0 pl-0;
+}
+
+.article-content pre li {
+  @apply bg-transparent text-gray-100;
 }
 
 .article-content .article-image {
