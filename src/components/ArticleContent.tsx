@@ -70,6 +70,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               alt={alt || ''}
               className="rounded-lg my-6 w-full"
               loading="lazy"
+              decoding="async"
             />
           ),
           a: ({ href, children }) => (

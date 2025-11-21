@@ -11,12 +11,37 @@ interface BreadcrumbProps {
 export function Breadcrumb({ items, className }: BreadcrumbProps) {
   if (!items.length) return null
 
+  // Generate breadcrumb schema for SEO
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Início',
+        item: 'https://a-cifra.com.br'
+      },
+      ...items.map((item, index) => ({
+        '@type': 'ListItem',
+        position: index + 2,
+        name: item.label,
+        item: `https://a-cifra.com.br${item.href}`
+      }))
+    ]
+  }
+
   return (
-    <nav
-      aria-label="Breadcrumb"
-      className={cn('flex items-center space-x-1 text-sm', className)}
-    >
-      <ol className="flex items-center space-x-1">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <nav
+        aria-label="Breadcrumb"
+        className={cn('flex items-center space-x-1 text-sm', className)}
+      >
+        <ol className="flex items-center space-x-1">
         {/* Home link */}
         <li>
           <Link
@@ -55,6 +80,7 @@ export function Breadcrumb({ items, className }: BreadcrumbProps) {
         })}
       </ol>
     </nav>
+    </>
   )
 }
 

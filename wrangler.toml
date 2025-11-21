@@ -6,7 +6,7 @@ command = "npm ci && npm run build"
 cwd = "."
 
 [build.environment_variables]
-NODE_VERSION = "18"
+NODE_VERSION = "20"
 NPM_FLAGS = "--production=false"
 
 pages_build_output_dir = "out"
