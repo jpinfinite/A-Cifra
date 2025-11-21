@@ -131,6 +131,10 @@ export default function RootLayout({
         {/* Ezoic Integration */}
         <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
         
+        {/* Adcash */}
+        <script type="text/javascript" dangerouslySetInnerHTML={{
+          __html: `aclib.runAutoTag({zoneId: 'qeltq6cos'});`
+        }}></script>
 
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
