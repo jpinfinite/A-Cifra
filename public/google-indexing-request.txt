@@ -1,0 +1,9 @@
+# URLs para solicitar indexação no Google Search Console
+# Copie e cole estas URLs na ferramenta "Inspeção de URL"
+
+https://a-cifra.com.br/artigo/avalanche-subnets-escalabilidade-blockchain
+https://a-cifra.com.br/artigo/goldman-sachs-shutdown-eua-corte-juros-fed
+https://a-cifra.com.br/artigo/hardware-wallets-comparacao-ledger-trezor
+https://a-cifra.com.br/artigo/phishing-scams-criptomoedas-protecao
+https://a-cifra.com.br/artigo/the-graph-indexacao-dados-blockchain
+https://a-cifra.com.br/artigo/web3-internet-descentralizada-futuro

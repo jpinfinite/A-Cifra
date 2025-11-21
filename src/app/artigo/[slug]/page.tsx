@@ -22,7 +22,22 @@ export async function generateMetadata({ params }: ArticlePageProps) {
     }
   }
   
-  return generateArticleMetadata(article)
+  const metadata = generateArticleMetadata(article)
+  
+  // Adiciona robots e canonical para melhor indexação
+  return {
+    ...metadata,
+    robots: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+      'max-video-preview': -1,
+    },
+    alternates: {
+      canonical: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${params.slug}`,
+    },
+  }
 }
 
 export async function generateStaticParams() {

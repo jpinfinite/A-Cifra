@@ -118,6 +118,12 @@ export default function RootLayout({
         <meta name="msvalidate.01" content="22305352092034B05EEE259DED78FD7D" />
         <meta name="yandex-verification" content="" />
         
+        {/* Meta tags para melhorar indexação */}
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        <link rel="canonical" href={siteConfig.url} />
+        
 
         
         {/* Google AdSense */}
