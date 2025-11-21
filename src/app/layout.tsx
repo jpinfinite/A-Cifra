@@ -127,6 +127,13 @@ export default function RootLayout({
         
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
+        {/* Google AdSense - Anúncios Automáticos */}
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+        />
+
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-JDX167JXHF"
