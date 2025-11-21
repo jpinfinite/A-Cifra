@@ -22,7 +22,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
   }, [content, relatedArticles])
 
   return (
-    <div className="prose prose-lg max-w-none">
+    <div className="prose prose-lg prose-headings:font-bold prose-a:text-brand-primary-blue prose-a:no-underline hover:prose-a:underline prose-img:rounded-lg max-w-none article-content">
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}
