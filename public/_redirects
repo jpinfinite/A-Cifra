@@ -1,11 +1,5 @@
-# Cloudflare Pages redirects
+# Cloudflare Pages redirects for Next.js static export
 
-# Static assets
+# Static assets - serve directly
 /_next/*  /_next/:splat  200
 /images/*  /images/:splat  200
-
-# API routes (if any)
-/api/*  /api/:splat  200
-
-# 404 fallback
-/*    /404.html   404
