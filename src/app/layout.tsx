@@ -126,22 +126,7 @@ export default function RootLayout({
         {/* Ezoic Integration */}
         <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
         
-        {/* Google News - Subscribe with Google */}
-        <script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
-                basicSubscriptions.init({
-                  type: "NewsArticle",
-                  isPartOfType: ["Product"],
-                  isPartOfProductId: "CAowlPfdCw:openaccess",
-                  clientOptions: { theme: "light", lang: "pt-BR" },
-                });
-              });
-            `
-          }}
-        />
+
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
         {/* Google Analytics */}
@@ -155,6 +140,25 @@ export default function RootLayout({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'G-JDX167JXHF');
+          `}
+        </Script>
+
+        {/* Google News - Subscribe with Google */}
+        <Script
+          src="https://news.google.com/swg/js/v1/swg-basic.js"
+          strategy="afterInteractive"
+          type="application/javascript"
+        />
+        <Script id="google-news-swg" strategy="afterInteractive">
+          {`
+            (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+              basicSubscriptions.init({
+                type: "NewsArticle",
+                isPartOfType: ["Product"],
+                isPartOfProductId: "CAowy_XdCw:openaccess",
+                clientOptions: { theme: "light", lang: "pt-BR" },
+              });
+            });
           `}
         </Script>
 
