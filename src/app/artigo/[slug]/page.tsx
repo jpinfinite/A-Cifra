@@ -1,12 +1,15 @@
 import { notFound } from 'next/navigation'
 import { MainLayout } from '@/components/layout'
 import { ArticleLayout } from '@/components/content'
-import { Container } from '@/components/ui'
+import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
+import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
+import { NewsletterCTA } from '@/components/newsletter'
+import { InArticleAd, SidebarAd } from '@/components/ads'
+import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
-import { generateArticleMetadata, generateArticleStructuredData } from '@/utils/seo'
+import { generateArticleMetadata } from '@/utils/seo'
 import { getRelatedArticles } from '@/utils/relatedArticles'
-import { BreadcrumbItem } from '@/types'
-
+import { calculateReadingTime } from '@/utils/readingTime'
 interface ArticlePageProps {
   params: {
     slug: string
@@ -35,7 +38,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
       'max-video-preview': -1,
     },
     alternates: {
-      canonical: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${params.slug}`,
+      canonical: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'}/artigo/${params.slug}`,
     },
   }
 }
@@ -57,30 +60,89 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   // Busca artigos relacionados para aumentar engajamento e monetização
   const allArticles = await getAllArticles()
-  const relatedArticles = getRelatedArticles(article, allArticles, 5)
+  const relatedArticles = getRelatedArticles(article, allArticles, 6)
   
-  const breadcrumbs: BreadcrumbItem[] = [
-    { label: 'Categorias', href: '/categorias' },
-    { label: article.category.name, href: `/categoria/${article.category.slug}` },
-    { label: article.title, href: `/artigo/${article.slug}`, current: true }
+  const breadcrumbItems = [
+    { name: 'Categorias', url: '/categorias' },
+    { name: article.category.name, url: `/categoria/${article.category.slug}` },
+    { name: article.title, url: `/artigo/${article.slug}` }
   ]
 
   const currentUrl = `${process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'}/artigo/${article.slug}`
-  const structuredData = generateArticleStructuredData(article, currentUrl)
+  const readingTime = calculateReadingTime(article.content || '')
 
   return (
     <MainLayout>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
-      />
+      {/* SEO Schema */}
+      <ArticleSchema article={article} url={currentUrl} />
+      <BreadcrumbSchema items={breadcrumbItems} />
       
-      <Container size="md" className="py-8">
-        <ArticleLayout 
-          article={article} 
-          breadcrumbs={breadcrumbs}
-          relatedArticles={relatedArticles}
-        />
+      <Container size="xl" className="py-8">
+        {/* Breadcrumbs */}
+        <Breadcrumbs items={breadcrumbItems} className="mb-6" />
+        
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+          {/* Main Content */}
+          <article className="lg:col-span-8">
+            {/* Article Header */}
+            <header className="mb-8">
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4">
+                {article.title}
+              </h1>
+              
+              <div className="flex items-center space-x-4 text-sm text-gray-600 dark:text-gray-400 mb-6">
+                <ReadingTime minutes={readingTime} />
+                {article.publishedAt && (
+                  <span>
+                    {new Date(article.publishedAt).toLocaleDateString('pt-BR', {
+                      day: '2-digit',
+                      month: 'long',
+                      year: 'numeric'
+                    })}
+                  </span>
+                )}
+              </div>
+
+              <ShareButtons url={currentUrl} title={article.title} className="mb-6" />
+            </header>
+
+            {/* Ad antes do conteúdo */}
+            <InArticleAd slot="1234567890" />
+
+            {/* Table of Contents */}
+            {article.content && (
+              <TableOfContents content={article.content} className="mb-8" />
+            )}
+
+            {/* Article Content */}
+            <ArticleLayout 
+              article={article} 
+              breadcrumbs={[]}
+              relatedArticles={[]}
+            />
+
+            {/* Ad no meio do artigo */}
+            <InArticleAd slot="0987654321" />
+
+            {/* Newsletter CTA */}
+            <NewsletterCTA variant="inline" className="my-12" />
+
+            {/* Ad antes dos artigos relacionados */}
+            <InArticleAd slot="1122334455" />
+
+            {/* Related Articles */}
+            <RelatedArticles articles={relatedArticles} className="mt-12" />
+          </article>
+
+          {/* Sidebar */}
+          <aside className="lg:col-span-4 space-y-6">
+            {/* Sticky Sidebar Ad */}
+            <SidebarAd slot="5544332211" sticky={true} />
+            
+            {/* Newsletter Sidebar */}
+            <NewsletterCTA variant="sidebar" />
+          </aside>
+        </div>
       </Container>
     </MainLayout>
   )

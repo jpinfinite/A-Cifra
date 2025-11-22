@@ -1,43 +1,31 @@
 import { MetadataRoute } from 'next'
-import { siteConfig } from '@/lib/config'
 
 export default function robots(): MetadataRoute.Robots {
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'
+
   return {
     rules: [
       {
         userAgent: '*',
         allow: '/',
         disallow: [
-          '/admin/',
           '/api/',
+          '/admin/',
           '/_next/',
           '/private/',
-          '*.json',
-          '/search?*'
         ],
       },
       {
-        userAgent: 'GPTBot',
-        disallow: '/',
+        userAgent: 'Googlebot',
+        allow: '/',
+        disallow: ['/api/', '/admin/'],
       },
       {
-        userAgent: 'ChatGPT-User',
-        disallow: '/',
+        userAgent: 'Googlebot-Image',
+        allow: '/',
       },
-      {
-        userAgent: 'CCBot',
-        disallow: '/',
-      },
-      {
-        userAgent: 'anthropic-ai',
-        disallow: '/',
-      },
-      {
-        userAgent: 'Claude-Web',
-        disallow: '/',
-      }
     ],
-    sitemap: `${siteConfig.url}/sitemap.xml`,
-    host: siteConfig.url
+    sitemap: `${baseUrl}/sitemap.xml`,
+    host: baseUrl,
   }
 }

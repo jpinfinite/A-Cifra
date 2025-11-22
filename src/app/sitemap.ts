@@ -1,23 +1,16 @@
 import { MetadataRoute } from 'next'
-import { siteConfig, categories } from '@/lib/config'
 import { getAllArticles } from '@/data/articles'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = siteConfig.url
-
-  // Static pages
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'
+  
+  // Páginas estáticas
   const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
-    },
-    {
-      url: `${baseUrl}/artigos`,
-      lastModified: new Date(),
-      changeFrequency: 'daily',
-      priority: 0.9,
     },
     {
       url: `${baseUrl}/sobre`,
@@ -31,59 +24,37 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: 'monthly',
       priority: 0.7,
     },
-    {
-      url: `${baseUrl}/ferramentas`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/glossario`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.6,
-    },
-    {
-      url: `${baseUrl}/privacidade`,
-      lastModified: new Date(),
-      changeFrequency: 'yearly',
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/termos`,
-      lastModified: new Date(),
-      changeFrequency: 'yearly',
-      priority: 0.3,
-    },
   ]
 
-  // Category pages
+  // Páginas de categorias
+  const categories = [
+    'bitcoin',
+    'ethereum',
+    'altcoins',
+    'defi',
+    'nfts',
+    'memecoin',
+    'tutoriais',
+    'seguranca',
+    'analises',
+    'educacao',
+  ]
+
   const categoryPages: MetadataRoute.Sitemap = categories.map((category) => ({
-    url: `${baseUrl}/categoria/${category.slug}`,
+    url: `${baseUrl}/categoria/${category}`,
     lastModified: new Date(),
-    changeFrequency: 'daily' as const,
+    changeFrequency: 'daily',
     priority: 0.9,
   }))
 
-  // Article pages
-  let articlePages: MetadataRoute.Sitemap = []
-  
-  try {
-    const articles = await getAllArticles()
-    articlePages = articles.map((article) => ({
-      url: `${baseUrl}/artigo/${article.slug}`,
-      lastModified:
-        article.updatedAt && article.updatedAt instanceof Date
-          ? article.updatedAt
-          : article.publishedAt,
-      changeFrequency: 'weekly' as const,
-      priority: 0.8,
-    }))
-  } catch (error) {
-    if (process.env.NODE_ENV === 'development') {
-      console.error('Error generating article sitemap:', error)
-    }
-  }
+  // Páginas de artigos
+  const articles = await getAllArticles()
+  const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
+    url: `${baseUrl}/artigo/${article.slug}`,
+    lastModified: article.updatedAt || article.publishedAt,
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }))
 
   return [...staticPages, ...categoryPages, ...articlePages]
 }
