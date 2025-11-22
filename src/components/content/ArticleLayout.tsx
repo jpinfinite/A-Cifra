@@ -5,8 +5,7 @@ import { Article, BreadcrumbItem } from '@/types'
 import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
 import RelatedArticlesInline from './RelatedArticlesInline'
-import { InfiniteBanner, AdSenseInArticle, AdSenseMultiplex } from '@/components/ads'
-import { getAdSlot } from '@/config/adsense'
+import { InArticleAd } from '@/components/ads'
 
 interface ArticleLayoutProps {
   article: Article
@@ -210,15 +209,9 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
       )}
 
       {/* Google AdSense - In-Article */}
-      <AdSenseInArticle adSlot={getAdSlot('inArticle')} />
-
-      {/* Banner Infinite */}
       <div className="my-12">
-        <InfiniteBanner />
+        <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_1 || '1234567890'} />
       </div>
-
-      {/* Google AdSense - Multiplex (Conteúdo Relacionado) */}
-      <AdSenseMultiplex adSlot={getAdSlot('multiplex')} />
 
       {/* Article Footer */}
       <footer className="mt-12 pt-8 border-t border-gray-200">
