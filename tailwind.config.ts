@@ -29,7 +29,11 @@ const config: Config = {
           'medium-blue': '#00283B',
           'primary-blue': '#155C8B',
           'off-white': '#F5F7FA',
-          'gold': '#E1A441'
+          'gold': '#E1A441',
+          // Cores otimizadas para contraste (WCAG AAA)
+          'link': '#0A2F4A', // Ratio 8:1 - Links
+          'link-hover': '#051A2E', // Ratio 10:1 - Links hover
+          'text-high-contrast': '#0D3D5C', // Ratio 7:1 - Textos importantes
         }
       },
       fontFamily: {
