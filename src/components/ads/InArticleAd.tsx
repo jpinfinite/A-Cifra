@@ -1,20 +1,25 @@
 'use client'
 
-import { AdUnit } from './AdUnit'
+import { useEffect } from 'react'
 
-interface InArticleAdProps {
-  slot: string
-  className?: string
-}
+export function InArticleAd() {
+  useEffect(() => {
+    try {
+      // @ts-ignore
+      (window.adsbygoogle = window.adsbygoogle || []).push({})
+    } catch (err) {
+      console.error('AdSense error:', err)
+    }
+  }, [])
 
-export function InArticleAd({ slot, className = '' }: InArticleAdProps) {
   return (
-    <div className={`my-8 flex justify-center ${className}`}>
-      <AdUnit 
-        slot={slot}
-        format="fluid"
-        responsive={true}
-        className="w-full max-w-[728px]"
+    <div className="my-8 flex justify-center">
+      <ins
+        className="adsbygoogle"
+        style={{ display: 'block', textAlign: 'center' }}
+        data-ad-client="ca-pub-1151448515464841"
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
       />
     </div>
   )

@@ -130,10 +130,20 @@ export default function RootLayout({
         {/* Google AdSense - Anúncios Automáticos */}
         <Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841"
-          strategy="lazyOnload"
+          strategy="afterInteractive"
           crossOrigin="anonymous"
-          async
         />
+        
+        {/* AdSense Auto Ads Initialization */}
+        <Script id="adsense-init" strategy="afterInteractive">
+          {`
+            (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-1151448515464841",
+              enable_page_level_ads: true,
+              overlays: {bottom: true}
+            });
+          `}
+        </Script>
 
         {/* Google Analytics */}
         <Script

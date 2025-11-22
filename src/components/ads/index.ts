@@ -1,4 +1,3 @@
-export { AdUnit } from './AdUnit'
-export { LazyAdUnit } from './LazyAdUnit'
+export { AmpAd } from './AmpAd'
 export { InArticleAd } from './InArticleAd'
-export { SidebarAd } from './SidebarAd'
+export { DisplayAd } from './DisplayAd'
