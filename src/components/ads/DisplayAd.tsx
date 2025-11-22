@@ -8,6 +8,12 @@ interface DisplayAdProps {
   className?: string
 }
 
+declare global {
+  interface Window {
+    adsbygoogle: unknown[]
+  }
+}
+
 export function DisplayAd({ 
   slot,
   format = 'auto',
@@ -15,7 +21,6 @@ export function DisplayAd({
 }: DisplayAdProps) {
   useEffect(() => {
     try {
-      // @ts-ignore
       (window.adsbygoogle = window.adsbygoogle || []).push({})
     } catch (err) {
       console.error('AdSense error:', err)

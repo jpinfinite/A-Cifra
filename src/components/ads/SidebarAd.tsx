@@ -8,6 +8,12 @@ interface SidebarAdProps {
   className?: string
 }
 
+declare global {
+  interface Window {
+    adsbygoogle: unknown[]
+  }
+}
+
 export function SidebarAd({ 
   slot,
   sticky = false,
@@ -15,7 +21,6 @@ export function SidebarAd({
 }: SidebarAdProps) {
   useEffect(() => {
     try {
-      // @ts-ignore
       (window.adsbygoogle = window.adsbygoogle || []).push({})
     } catch (err) {
       console.error('AdSense error:', err)

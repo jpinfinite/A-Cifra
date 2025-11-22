@@ -7,10 +7,15 @@ interface InArticleAdProps {
   className?: string
 }
 
+declare global {
+  interface Window {
+    adsbygoogle: unknown[]
+  }
+}
+
 export function InArticleAd({ slot, className = '' }: InArticleAdProps) {
   useEffect(() => {
     try {
-      // @ts-ignore
       (window.adsbygoogle = window.adsbygoogle || []).push({})
     } catch (err) {
       console.error('AdSense error:', err)

@@ -9,6 +9,12 @@ interface AmpAdProps {
   className?: string
 }
 
+declare global {
+  interface Window {
+    adsbygoogle: unknown[]
+  }
+}
+
 export function AmpAd({ 
   slot, 
   format = 'auto', 
@@ -17,7 +23,6 @@ export function AmpAd({
 }: AmpAdProps) {
   useEffect(() => {
     try {
-      // @ts-ignore
       (window.adsbygoogle = window.adsbygoogle || []).push({})
     } catch (err) {
       console.error('AdSense error:', err)
