@@ -21,10 +21,10 @@ export function AdSense({
 }: AdSenseProps) {
   useEffect(() => {
     try {
-      // @ts-expect-error - adsbygoogle is loaded by external script
-      if (typeof window !== 'undefined' && window.adsbygoogle) {
-        // @ts-expect-error - adsbygoogle is loaded by external script
-        (window.adsbygoogle = window.adsbygoogle || []).push({})
+      if (typeof window !== 'undefined') {
+        (window as Window & { adsbygoogle?: unknown[] }).adsbygoogle = 
+          (window as Window & { adsbygoogle?: unknown[] }).adsbygoogle || [];
+        ((window as Window & { adsbygoogle?: unknown[] }).adsbygoogle as unknown[]).push({})
       }
     } catch (error) {
       console.error('AdSense error:', error)
