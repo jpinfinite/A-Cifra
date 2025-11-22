@@ -1,3 +1,8 @@
+---
+title: "Staking de Ethereum em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano"
+publishedAt: "2025-11-21"
+---
+
 # Staking de Ethereum em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano
 
 Se você possui Ethereum (ETH) parado na carteira, está perdendo dinheiro. Em 2025, o staking de Ethereum se consolidou como uma das formas mais seguras e rentáveis de gerar renda passiva no mundo cripto, oferecendo retornos anuais entre **5% a 8%** - muito superior à poupança tradicional.
