@@ -32,7 +32,7 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
       } else {
         throw new Error('Erro ao inscrever')
       }
-    } catch (error) {
+    } catch {
       setStatus('error')
       setMessage('Erro ao inscrever. Tente novamente.')
     }

@@ -21,14 +21,18 @@ export function useTranslation() {
 
   const t = (key: string): string => {
     const keys = key.split('.')
-    let value: any = translations
+    let value: unknown = translations
     
     for (const k of keys) {
-      value = value?.[k]
-      if (value === undefined) break
+      if (value && typeof value === 'object' && k in value) {
+        value = (value as Record<string, unknown>)[k]
+      } else {
+        value = undefined
+        break
+      }
     }
     
-    return value || key
+    return typeof value === 'string' ? value : key
   }
 
   return { t, locale }

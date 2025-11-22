@@ -15,13 +15,17 @@ export function translate(locale: Locale, key: string): string {
   const t = getTranslations(locale)
   const keys = key.split('.')
   
-  let value: any = t
+  let value: unknown = t
   for (const k of keys) {
-    value = value?.[k]
-    if (value === undefined) break
+    if (value && typeof value === 'object' && k in value) {
+      value = (value as Record<string, unknown>)[k]
+    } else {
+      value = undefined
+      break
+    }
   }
   
-  return value || key
+  return typeof value === 'string' ? value : key
 }
 
 export * from './config'

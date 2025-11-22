@@ -5,7 +5,7 @@
 /**
  * Debounce function - atrasa a execução até que pare de ser chamada
  */
-export function debounce<T extends (...args: any[]) => any>(
+export function debounce<T extends (...args: never[]) => unknown>(
   func: T,
   wait: number
 ): (...args: Parameters<T>) => void {
@@ -27,7 +27,7 @@ export function debounce<T extends (...args: any[]) => any>(
 /**
  * Throttle function - limita a frequência de execução
  */
-export function throttle<T extends (...args: any[]) => any>(
+export function throttle<T extends (...args: never[]) => unknown>(
   func: T,
   limit: number
 ): (...args: Parameters<T>) => void {
@@ -107,7 +107,7 @@ export function isSlowConnection(): boolean {
     return false
   }
 
-  const connection = (navigator as any).connection
+  const connection = (navigator as { connection?: { saveData?: boolean; effectiveType?: string } }).connection
   return (
     connection?.saveData ||
     connection?.effectiveType === 'slow-2g' ||
@@ -115,10 +115,16 @@ export function isSlowConnection(): boolean {
   )
 }
 
+interface WebVitalsMetric {
+  name: string
+  value: number
+  id: string
+}
+
 /**
  * Obtém métricas de Web Vitals
  */
-export function reportWebVitals(metric: any) {
+export function reportWebVitals(metric: WebVitalsMetric) {
   // Envia para Google Analytics
   if (window.gtag) {
     window.gtag('event', metric.name, {
@@ -137,6 +143,6 @@ export function reportWebVitals(metric: any) {
 
 declare global {
   interface Window {
-    gtag: (...args: any[]) => void
+    gtag: (...args: unknown[]) => void
   }
 }
