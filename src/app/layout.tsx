@@ -90,6 +90,11 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         
+        {/* DNS Prefetch para recursos externos */}
+        <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        
         {/* Favicon e icons */}
         <link rel="icon" href="/images/logos/favcoin.png" sizes="any" />
         <link rel="icon" href="/images/logos/favcoin.png" type="image/png" sizes="32x32" />
@@ -159,30 +164,7 @@ export default function RootLayout({
           `}
         </Script>
 
-        {/* Google News - Reader Revenue Manager */}
-        <Script
-          src="https://news.google.com/swg/js/v1/swg-basic.js"
-          strategy="lazyOnload"
-        />
-        <Script id="google-news-reader-revenue" strategy="lazyOnload">
-          {`
-            try {
-              (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
-                basicSubscriptions.init({
-                  type: "NewsArticle",
-                  isPartOfType: ["Product"],
-                  isPartOfProductId: "CAowy_XdCw:openaccess",
-                  clientOptions: { 
-                    theme: "light", 
-                    lang: "pt-BR" 
-                  },
-                });
-              });
-            } catch (error) {
-              console.warn('Google News initialization failed');
-            }
-          `}
-        </Script>
+        {/* Google News - Removido temporariamente devido a erro CORS */}
 
         {/* Skip link para acessibilidade */}
         <a 
