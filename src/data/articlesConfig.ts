@@ -1285,6 +1285,23 @@ export const articlesConfig: Array<{
       metaDescription: 'Análise profunda do Bitcoin em novembro de 2025: indicadores on-chain, impacto dos ETFs, ciclo pós-halving e projeções realistas para dezembro.',
       keywords: ['bitcoin 2025', 'btc 150k', 'previsão bitcoin', 'análise bitcoin', 'bitcoin fim de ano', 'ciclo bitcoin']
     }
+  },
+  {
+    id: 'staking-ethereum-2025-guia-completo-renda-passiva',
+    title: 'Staking de Ethereum em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano',
+    slug: 'staking-ethereum-2025-guia-completo-renda-passiva',
+    excerpt: 'Tutorial completo sobre staking de Ethereum: como funciona, quanto você pode ganhar, melhores plataformas, riscos e estratégias para maximizar retornos em 2025.',
+    contentPath: 'staking-ethereum-2025-guia-completo-renda-passiva.md',
+    coverImage: { src: '/images/ether.jpg', alt: 'Staking de Ethereum - Guia Completo 2025', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-11-21',
+    categorySlug: 'ethereum',
+    tags: ['ethereum', 'staking', 'renda passiva', 'eth', 'defi', 'investimento'],
+    seo: {
+      metaTitle: 'Staking de Ethereum 2025: Guia Completo para Renda Passiva até 8%',
+      metaDescription: 'Aprenda tudo sobre staking de Ethereum: passo a passo, melhores plataformas, cálculo de retornos, riscos e como ganhar até 8% ao ano com ETH.',
+      keywords: ['staking ethereum', 'renda passiva cripto', 'como fazer staking eth', 'ethereum 2025', 'ganhar com ethereum', 'staking eth']
+    }
   }
 ]
 
