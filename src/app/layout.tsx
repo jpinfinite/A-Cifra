@@ -153,7 +153,7 @@ export default function RootLayout({
         <Script
           src="https://news.google.com/swg/js/v1/swg-basic.js"
           strategy="lazyOnload"
-          onError={(e) => {
+          onError={() => {
             console.warn('Google News script failed to load');
           }}
         />

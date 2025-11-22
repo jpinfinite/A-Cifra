@@ -1,4 +1,4 @@
-# 🚀 Comandos para Atualizar o GitHub
+🚀 Comandos para Atualizar o GitHub
 
 ## 📋 Passo a Passo
 
