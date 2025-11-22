@@ -1268,6 +1268,23 @@ export const articlesConfig: Array<{
       metaDescription: 'Análise completa do rompimento histórico da XRP após 7 anos, nova base de acumulação, projeções de preço e impacto do possível ETF spot.',
       keywords: ['xrp', 'ripple', 'rompimento', 'análise técnica', 'etf xrp', 'projeções xrp', 'altcoins']
     }
+  },
+  {
+    id: 'bitcoin-fim-2025-analise-completa',
+    title: 'Bitcoin Pode Chegar a $150.000 Até o Fim de 2025? Análise Completa do Momento Atual',
+    slug: 'bitcoin-150k-fim-2025-analise-completa',
+    excerpt: 'Análise técnica e fundamentalista do Bitcoin em novembro de 2025: indicadores on-chain, ETFs, halving e projeções realistas para o fim do ano.',
+    contentPath: 'bitcoin-150k-fim-2025-analise-completa.md',
+    coverImage: { src: '/images/bbcoin.jpg', alt: 'Bitcoin - Análise Fim de 2025', width: 1200, height: 630 },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-11-21',
+    categorySlug: 'bitcoin',
+    tags: ['bitcoin', 'análise técnica', 'previsão', 'btc', 'fim de ano', '2025'],
+    seo: {
+      metaTitle: 'Bitcoin Pode Chegar a $150k Até o Fim de 2025? Análise Completa',
+      metaDescription: 'Análise profunda do Bitcoin em novembro de 2025: indicadores on-chain, impacto dos ETFs, ciclo pós-halving e projeções realistas para dezembro.',
+      keywords: ['bitcoin 2025', 'btc 150k', 'previsão bitcoin', 'análise bitcoin', 'bitcoin fim de ano', 'ciclo bitcoin']
+    }
   }
 ]
 
