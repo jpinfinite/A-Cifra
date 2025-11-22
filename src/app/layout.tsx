@@ -130,8 +130,9 @@ export default function RootLayout({
         {/* Google AdSense - Anúncios Automáticos */}
         <Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
           crossOrigin="anonymous"
+          async
         />
 
         {/* Google Analytics */}
@@ -152,20 +153,27 @@ export default function RootLayout({
         <Script
           src="https://news.google.com/swg/js/v1/swg-basic.js"
           strategy="lazyOnload"
+          onError={(e) => {
+            console.warn('Google News script failed to load');
+          }}
         />
         <Script id="google-news-reader-revenue" strategy="lazyOnload">
           {`
-            (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
-              basicSubscriptions.init({
-                type: "NewsArticle",
-                isPartOfType: ["Product"],
-                isPartOfProductId: "CAowy_XdCw:openaccess",
-                clientOptions: { 
-                  theme: "light", 
-                  lang: "pt-BR" 
-                },
+            try {
+              (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+                basicSubscriptions.init({
+                  type: "NewsArticle",
+                  isPartOfType: ["Product"],
+                  isPartOfProductId: "CAowy_XdCw:openaccess",
+                  clientOptions: { 
+                    theme: "light", 
+                    lang: "pt-BR" 
+                  },
+                });
               });
-            });
+            } catch (error) {
+              console.warn('Google News initialization failed');
+            }
           `}
         </Script>
 

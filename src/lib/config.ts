@@ -1,4 +1,4 @@
-import { SiteConfig } from '@/types'
+import { SiteConfig, Category } from '@/types'
 
 export const siteConfig: SiteConfig = {
   name: 'A Cifra',
@@ -18,13 +18,14 @@ export const siteConfig: SiteConfig = {
   },
 }
 
-export const categories = [
+export const categories: Category[] = [
   {
     id: 'bitcoin',
     name: 'Bitcoin',
     slug: 'bitcoin',
     description: 'Tudo sobre Bitcoin, a primeira e maior criptomoeda do mundo',
     color: '#F7931A',
+    icon: '₿',
   },
   {
     id: 'altcoins',
@@ -32,6 +33,7 @@ export const categories = [
     slug: 'altcoins',
     description: 'Análises e notícias sobre criptomoedas alternativas',
     color: '#155C8B',
+    icon: '🪙',
   },
   {
     id: 'defi',
@@ -39,6 +41,7 @@ export const categories = [
     slug: 'defi',
     description: 'Finanças descentralizadas e protocolos DeFi',
     color: '#E1A441',
+    icon: '🏦',
   },
   {
     id: 'nfts',
@@ -46,6 +49,7 @@ export const categories = [
     slug: 'nfts',
     description: 'Tokens não fungíveis e arte digital',
     color: '#00283B',
+    icon: '🎨',
   },
   {
     id: 'analises',
@@ -53,6 +57,7 @@ export const categories = [
     slug: 'analises',
     description: 'Análises técnicas e fundamentais do mercado crypto',
     color: '#041924',
+    icon: '📊',
   },
   {
     id: 'ethereum',
@@ -60,6 +65,7 @@ export const categories = [
     slug: 'ethereum',
     description: 'Tudo sobre Ethereum, smart contracts e ecossistema DeFi',
     color: '#627EEA',
+    icon: '◆',
   },
   {
     id: 'seguranca',
@@ -67,6 +73,7 @@ export const categories = [
     slug: 'seguranca',
     description: 'Guias de segurança e proteção de ativos digitais',
     color: '#DC2626',
+    icon: '🔒',
   },
   {
     id: 'educacao',
@@ -74,6 +81,7 @@ export const categories = [
     slug: 'educacao',
     description: 'Aprenda sobre blockchain e criptomoedas',
     color: '#155C8B',
+    icon: '📚',
   },
   {
     id: 'tutoriais',
@@ -81,6 +89,7 @@ export const categories = [
     slug: 'tutoriais',
     description: 'Guias práticos e tutoriais passo a passo',
     color: '#10B981',
+    icon: '🎓',
   },
   {
     id: 'memecoin',
@@ -88,5 +97,6 @@ export const categories = [
     slug: 'memecoin',
     description: 'Análises e notícias sobre memecoins e tokens virais',
     color: '#FF6B35',
+    icon: '🐕',
   },
 ]
