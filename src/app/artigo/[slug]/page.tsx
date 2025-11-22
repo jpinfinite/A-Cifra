@@ -4,7 +4,7 @@ import { ArticleLayout } from '@/components/content'
 import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
 import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
 import { NewsletterCTA } from '@/components/newsletter'
-import { InArticleAd, SidebarAd } from '@/components/ads'
+// import { InArticleAd, SidebarAd } from '@/components/ads' // Removido - usando apenas anúncios automáticos
 import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata } from '@/utils/seo'
@@ -106,9 +106,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <ShareButtons url={currentUrl} title={article.title} className="mb-6" />
             </header>
 
-            {/* Ad antes do conteúdo */}
-            <InArticleAd slot="1234567890" />
-
             {/* Table of Contents */}
             {article.content && (
               <TableOfContents content={article.content} className="mb-8" />
@@ -121,14 +118,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               relatedArticles={[]}
             />
 
-            {/* Ad no meio do artigo */}
-            <InArticleAd slot="0987654321" />
-
             {/* Newsletter CTA */}
             <NewsletterCTA variant="inline" className="my-12" />
-
-            {/* Ad antes dos artigos relacionados */}
-            <InArticleAd slot="1122334455" />
 
             {/* Related Articles */}
             <RelatedArticles articles={relatedArticles} className="mt-12" />
@@ -136,9 +127,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* Sidebar */}
           <aside className="lg:col-span-4 space-y-6">
-            {/* Sticky Sidebar Ad */}
-            <SidebarAd slot="5544332211" sticky={true} />
-            
             {/* Newsletter Sidebar */}
             <NewsletterCTA variant="sidebar" />
           </aside>
