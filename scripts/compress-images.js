@@ -11,6 +11,18 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
+// Carregar variáveis de ambiente do .env.local
+const envPath = path.join(__dirname, '../.env.local');
+if (fs.existsSync(envPath)) {
+  const envContent = fs.readFileSync(envPath, 'utf8');
+  envContent.split('\n').forEach(line => {
+    const [key, value] = line.split('=');
+    if (key && value) {
+      process.env[key.trim()] = value.trim();
+    }
+  });
+}
+
 // Configuração
 const API_KEY = process.env.TINIFY_API_KEY || 'YOUR_API_KEY_HERE';
 const IMAGES_DIR = path.join(__dirname, '../public/images');
