@@ -101,6 +101,8 @@ Antes de apresentar as altcoins, é importante entender os critérios usados par
 Ethereum é uma posição core em qualquer portfolio de altcoins. Alocação recomendada: 30-40% do portfolio de altcoins.
 :::
 
+<ExchangeAffiliateLinks />
+
 ---
 
 ### 2. Solana (SOL) - O Ethereum Killer?
@@ -777,6 +779,8 @@ Quer se aprofundar mais? Confira nossos outros artigos:
 - [Bitcoin em 2026: Previsão de Preço e Análise Completa](/artigo/bitcoin-2026-previsao-preco-analise-completa)
 - [Como Declarar Criptomoedas no Imposto de Renda 2026](/artigo/como-declarar-criptomoedas-ir-2026)
 - [Melhores Exchanges de Criptomoedas Brasil 2026](/artigo/melhores-exchanges-brasil-2026)
+
+<ExchangeAffiliateLinks />
 
 ---
 
