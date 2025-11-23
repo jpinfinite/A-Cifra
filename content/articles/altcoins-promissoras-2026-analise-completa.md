@@ -787,3 +787,46 @@ Quer se aprofundar mais? Confira nossos outros artigos:
 **Última atualização:** 23 de novembro de 2025
 
 *Acompanhe nossas análises e fique por dentro das melhores oportunidades em criptomoedas!*
+
+
+## ❓ Perguntas Frequentes (FAQ)
+
+### O que são altcoins?
+
+Altcoins são todas as criptomoedas além do Bitcoin. O termo vem de "alternative coins" (moedas alternativas). Incluem Ethereum, Solana, Cardano e milhares de outras. Cada uma tem propósitos e tecnologias diferentes.
+
+### Altcoins são mais arriscadas que Bitcoin?
+
+Sim, geralmente são. Altcoins têm maior volatilidade, menor liquidez e maior risco de falha do projeto. Porém, também oferecem maior potencial de retorno. Uma carteira balanceada deve ter mais Bitcoin (50-60%) e menos altcoins (20-30%).
+
+### Qual a melhor altcoin para investir em 2026?
+
+Não existe "a melhor". Ethereum (ETH) é a mais segura entre as altcoins. Solana (SOL) tem alto potencial de crescimento. Chainlink (LINK) é essencial para DeFi. O ideal é diversificar entre 3-5 altcoins de qualidade.
+
+### Como identificar uma altcoin promissora?
+
+Analise: 1) Problema real que resolve, 2) Equipe experiente e transparente, 3) Tecnologia inovadora, 4) Comunidade ativa, 5) Parcerias relevantes, 6) Tokenomics saudável, 7) Roadmap claro. Evite projetos sem produto funcional ou com promessas irrealistas.
+
+### Devo investir em altcoins novas ou estabelecidas?
+
+Para iniciantes, foque em altcoins estabelecidas (top 50). São menos arriscadas e mais líquidas. Investidores experientes podem alocar 5-10% em projetos novos promissores, mas com consciência do alto risco.
+
+### Quando é a melhor época para comprar altcoins?
+
+Historicamente, altcoins performam melhor após o Bitcoin fazer novos topos e consolidar. Isso geralmente ocorre 3-6 meses após o halving do Bitcoin. Em 2026, o período de abril a outubro pode ser favorável para altcoins.
+
+### O que é "altseason" e quando acontece?
+
+Altseason é o período onde altcoins sobem mais que Bitcoin. Acontece quando o Bitcoin consolida após uma alta forte e investidores buscam maiores retornos em altcoins. Pode durar semanas ou meses.
+
+### Posso ficar rico investindo em altcoins?
+
+É possível, mas improvável. Algumas altcoins fazem 10x-100x, mas a maioria falha ou tem performance medíocre. Não invista esperando ficar rico rápido. Foque em projetos sólidos, diversifique e pense em longo prazo.
+
+### Quantas altcoins devo ter na carteira?
+
+Para iniciantes: 2-3 altcoins (ETH + 1-2 outras). Para intermediários: 5-7 altcoins. Para avançados: 10-15 altcoins. Mais que isso dificulta o acompanhamento e diluí demais o capital.
+
+### Como saber quando vender minhas altcoins?
+
+Defina metas antes de comprar: venda 25% ao dobrar, 25% ao triplicar, 25% ao fazer 5x, mantenha 25% para longo prazo. Ou use stop loss de 20-30% para limitar perdas. Nunca venda tudo de uma vez, realize lucros parcialmente.

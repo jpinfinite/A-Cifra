@@ -420,3 +420,46 @@ DeFi em 2026 oferece oportunidades incríveis de yield, mas requer conhecimento 
 ---
 
 *Aviso: DeFi envolve riscos significativos. Este artigo é apenas educacional. Invista apenas o que pode perder.*
+
+
+## ❓ Perguntas Frequentes (FAQ)
+
+### O que é DeFi e como funciona?
+
+DeFi (Finanças Descentralizadas) são serviços financeiros construídos em blockchain, sem intermediários como bancos. Você pode emprestar, tomar emprestado, trocar ativos e ganhar juros usando contratos inteligentes automatizados.
+
+### DeFi é seguro?
+
+DeFi tem riscos: bugs em contratos inteligentes, hacks, impermanent loss e volatilidade. Protocolos estabelecidos como Aave, Uniswap e Curve são mais seguros (auditados múltiplas vezes), mas o risco nunca é zero. Comece com valores pequenos.
+
+### Quanto posso ganhar com DeFi?
+
+Depende da estratégia e risco. Stablecoins em protocolos seguros: 5-15% ao ano. Liquidity pools: 15-50%. Yield farming agressivo: 50-200%+. Quanto maior o retorno, maior o risco.
+
+### O que é impermanent loss?
+
+É a perda temporária que ocorre quando você fornece liquidez em pools com dois ativos voláteis. Se o preço dos ativos mudar muito, você pode ter menos valor do que se tivesse apenas segurado os ativos. A perda só se torna permanente se você retirar a liquidez.
+
+### Preciso de muito dinheiro para começar em DeFi?
+
+Não! Você pode começar com $50-100 em blockchains baratas como Arbitrum, Optimism ou Polygon. Ethereum mainnet requer mais capital devido às taxas de gas mais altas ($500+ recomendado).
+
+### Qual a diferença entre Aave, Compound e MakerDAO?
+
+Todos são protocolos de lending, mas com diferenças: Aave tem mais ativos e recursos (flash loans, rate switching). Compound é mais simples e focado. MakerDAO é especializado em criar a stablecoin DAI através de colateral.
+
+### DeFi é legal no Brasil?
+
+Sim! DeFi não é ilegal no Brasil. Você deve declarar seus ativos cripto no Imposto de Renda e pagar impostos sobre ganhos de capital (15-22.5% dependendo do valor). Consulte um contador especializado em cripto.
+
+### O que são flash loans e como funcionam?
+
+Flash loans são empréstimos instantâneos sem colateral que devem ser pagos na mesma transação. São usados para arbitragem, refinanciamento de dívidas e outras estratégias avançadas. Se o empréstimo não for pago, a transação é revertida.
+
+### Qual protocolo DeFi é melhor para iniciantes?
+
+Aave é o mais recomendado: interface simples, múltiplas chains, bem auditado e com boa documentação. Comece depositando stablecoins (USDC, USDT) para ganhar juros de 5-10% com baixo risco.
+
+### DeFi vai substituir os bancos tradicionais?
+
+Improvável no curto prazo. DeFi e bancos tradicionais devem coexistir. DeFi oferece mais controle, transparência e retornos, mas bancos oferecem seguro de depósito, facilidade de uso e suporte ao cliente. O futuro provavelmente será híbrido.

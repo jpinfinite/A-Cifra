@@ -4,7 +4,7 @@
 
 export const seoConfig = {
   siteName: 'A Cifra',
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br',
   defaultTitle: 'A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto',
   defaultDescription: 'Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.',
   defaultKeywords: [

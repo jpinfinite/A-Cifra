@@ -371,3 +371,46 @@ Solana está posicionada como a blockchain de alta performance para adoção mai
 ---
 
 *Aviso: Este artigo é apenas informativo. Criptomoedas são investimentos de alto risco. Faça sua própria pesquisa.*
+
+
+## ❓ Perguntas Frequentes (FAQ)
+
+### Solana é melhor que Ethereum?
+
+Solana e Ethereum têm propósitos diferentes. Solana é mais rápida (65.000 TPS vs 15 TPS) e mais barata, ideal para aplicações de alta frequência. Ethereum tem maior descentralização e ecossistema mais maduro. Muitos investidores mantêm ambas.
+
+### Vale a pena fazer staking de SOL?
+
+Sim! O staking de SOL oferece 7-8% de APY, é simples de fazer e ajuda a proteger a rede. Você pode fazer staking diretamente em carteiras como Phantom ou através de exchanges como Binance e Bitget.
+
+### Solana pode chegar a $1.000 em 2026?
+
+É improvável. Nossa previsão otimista é $300-$600. Para chegar a $1.000, Solana precisaria de uma capitalização de mercado de $500+ bilhões, o que exigiria adoção mainstream massiva e condições de mercado extremamente favoráveis.
+
+### Solana é segura após os problemas de 2022?
+
+Sim. Solana superou os problemas técnicos de 2022-2023. A rede está estável há mais de 18 meses sem downtime significativo. O upgrade Firedancer em 2026 vai aumentar ainda mais a confiabilidade.
+
+### Qual a diferença entre Solana e outras blockchains rápidas?
+
+Solana usa Proof of History (PoH) combinado com Proof of Stake, permitindo maior throughput sem sacrificar descentralização. Outras blockchains rápidas geralmente sacrificam descentralização ou segurança.
+
+### Devo investir em SOL ou em projetos do ecossistema Solana?
+
+Depende do seu perfil de risco. SOL é mais seguro e líquido. Projetos do ecossistema (Jupiter, Jito, Marinade) têm maior potencial de retorno, mas também maior risco. Uma estratégia balanceada é 70% SOL e 30% em projetos selecionados.
+
+### O que é o Saga Phone e por que é importante?
+
+Saga é o smartphone Web3 da Solana, com carteira integrada e dApps nativas. É importante porque traz cripto para o mobile, onde está o futuro da adoção mainstream. Saga 2 já tem 100.000+ pré-vendas.
+
+### Solana vai ter ETF como Bitcoin?
+
+Possivelmente em 2026. A VanEck e outras gestoras já manifestaram interesse. Um ETF de Solana traria bilhões em capital institucional e legitimaria SOL como ativo de investimento.
+
+### Quanto devo alocar em Solana?
+
+Para um portfólio cripto balanceado: 40-50% Bitcoin, 25-30% Ethereum, 10-15% Solana, 10-15% outras altcoins. Ajuste conforme seu perfil de risco e convicção no projeto.
+
+### Solana pode falhar novamente como em 2022?
+
+O risco existe, mas é menor. A rede está mais madura, o ecossistema é mais diversificado e não há dependência de um único player (como era com FTX). O upgrade Firedancer reduzirá ainda mais os riscos técnicos.

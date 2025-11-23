@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllArticles } from '@/data/articles'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'
   
   // Páginas estáticas
   const staticPages: MetadataRoute.Sitemap = [

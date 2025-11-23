@@ -481,31 +481,47 @@ Staking é o processo de "travar" suas criptomoedas para ajudar a validar transa
 - [ ] Mantenho registros para IR
 - [ ] Fico atento a mudanças
 
-## Perguntas Frequentes
+## ❓ Perguntas Frequentes (FAQ)
+
+### O que é staking de criptomoedas?
+
+Staking é o processo de bloquear suas criptomoedas para ajudar a validar transações em blockchains Proof of Stake (PoS). Em troca, você recebe recompensas, similar a juros de uma poupança, mas com retornos muito maiores (3-20% ao ano).
 
 ### É seguro fazer staking?
 
-Sim, se feito corretamente. Use plataformas confiáveis e diversifique.
+Sim, se feito corretamente. Use plataformas confiáveis (Binance, Bitget, Coinbase) ou carteiras oficiais. O maior risco é a volatilidade do preço da criptomoeda, não o staking em si. Diversifique entre várias moedas para reduzir riscos.
 
-### Posso perder dinheiro?
+### Posso perder dinheiro fazendo staking?
 
-Sim, se o preço da moeda cair. As recompensas não garantem lucro.
+Sim, mas não pelas recompensas. Você pode perder se o preço da criptomoeda cair. Exemplo: você faz staking de SOL a $100 e ganha 7% ao ano, mas se SOL cair para $70, você terá prejuízo mesmo com as recompensas. As recompensas compensam pequenas quedas, mas não crashes.
 
-### Qual o melhor para iniciantes?
+### Qual a diferença entre staking e lending?
 
-Staking em exchanges como Bitget ou Coinbase. Fácil e seguro.
+Staking é bloquear moedas para validar transações na blockchain (você ajuda a rede). Lending é emprestar suas moedas para outros usuários (eles usam para trading). Staking geralmente é mais seguro e tem retornos mais previsíveis.
 
-### Preciso declarar no IR?
+### Preciso de muito dinheiro para começar?
 
-Sim, recompensas são tributáveis no Brasil.
+Não! Você pode começar com $10-50 em exchanges. Ethereum exige 32 ETH (~$100.000) para staking solo, mas você pode fazer staking fracionado com qualquer valor em exchanges ou pools como Lido e Rocket Pool.
 
-### Quanto posso ganhar?
+### Quanto tempo leva para receber as recompensas?
 
-Depende da moeda. De 3% (ADA) a 20% (ATOM) ao ano.
+Depende da blockchain: Ethereum paga diariamente, Cardano a cada 5 dias (época), Solana diariamente, Polkadot a cada 24 horas. A maioria paga diariamente ou semanalmente.
 
 ### Posso fazer unstake a qualquer momento?
 
-Depende. Algumas moedas têm período de lock, outras não.
+Depende da moeda e plataforma. Ethereum tem período de espera de 1-7 dias. Solana é instantâneo. Cardano não tem lock. Exchanges geralmente permitem unstake flexível, mas podem ter taxas. Verifique antes de fazer staking.
+
+### Staking é melhor que deixar parado na carteira?
+
+Sim! Se você vai segurar a criptomoeda por meses/anos, fazer staking gera renda passiva extra sem esforço. É literalmente "dinheiro trabalhando por você". Não fazer staking é deixar dinheiro na mesa.
+
+### Preciso declarar recompensas de staking no IR?
+
+Sim, no Brasil as recompensas de staking são consideradas rendimento e devem ser declaradas. Declare na ficha "Rendimentos Sujeitos à Tributação Exclusiva" quando receber. Consulte um contador especializado em cripto.
+
+### Qual a melhor criptomoeda para staking em 2026?
+
+Para iniciantes: Ethereum (ETH) - 4-5% APY, mais seguro. Para retorno médio: Solana (SOL) - 7-8% APY, bom equilíbrio. Para retorno alto: Cosmos (ATOM) - 15-20% APY, mais risco. Diversifique entre 2-3 para balancear risco e retorno.
 
 ## Conclusão
 

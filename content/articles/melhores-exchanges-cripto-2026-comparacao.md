@@ -358,3 +358,46 @@ Escolher a exchange certa é fundamental para sua jornada no mundo cripto. Neste
 ---
 
 *Aviso: Este artigo é apenas informativo. Sempre faça sua própria pesquisa antes de escolher uma exchange.*
+
+
+## ❓ Perguntas Frequentes (FAQ)
+
+### Qual a melhor exchange de criptomoedas para iniciantes?
+
+Coinbase é a melhor para iniciantes absolutos devido à interface simples e educação integrada. Porém, tem taxas mais altas. Bitget é uma excelente alternativa com interface amigável e taxas menores.
+
+### É seguro deixar criptomoedas na exchange?
+
+Para valores pequenos (até R$ 5.000), sim. Exchanges grandes como Binance, Coinbase e Bitget têm boa segurança. Para valores maiores, considere transferir para uma carteira própria (hardware wallet) onde você controla as chaves.
+
+### Qual exchange tem as menores taxas?
+
+Bitget e Binance têm as menores taxas (0,1% maker/taker). OKX também é competitiva. Coinbase tem as maiores taxas (até 2%), mas oferece mais segurança e facilidade para iniciantes.
+
+### Preciso fazer KYC (verificação de identidade)?
+
+Sim, praticamente todas as exchanges regulamentadas exigem KYC. É obrigatório por lei para prevenir lavagem de dinheiro. O processo leva 5-30 minutos e requer documento com foto e selfie.
+
+### Posso usar mais de uma exchange?
+
+Sim, e é recomendado! Use uma exchange principal para trading e outras para aproveitar bônus, staking ou produtos específicos. Isso também reduz o risco de ficar sem acesso se uma exchange tiver problemas.
+
+### Qual a diferença entre exchange centralizada e descentralizada?
+
+Exchanges centralizadas (CEX) como Binance e Coinbase custodiam seus fundos, têm suporte ao cliente e são mais fáceis de usar. Exchanges descentralizadas (DEX) como Uniswap não custodiam fundos, você controla tudo, mas são mais complexas.
+
+### Como escolher entre Binance e Bitget?
+
+Binance: maior liquidez, mais moedas, mais recursos, melhor para profissionais. Bitget: interface mais simples, excelente para copy trading, bônus generosos, melhor para iniciantes/intermediários. Ambas são seguras e confiáveis.
+
+### Exchanges brasileiras são melhores que internacionais?
+
+Exchanges brasileiras (Mercado Bitcoin, Foxbit) facilitam depósitos em reais via PIX, mas têm menos moedas e liquidez. Exchanges internacionais têm mais opções e taxas menores. O ideal é usar ambas: brasileira para entrada/saída de reais, internacional para trading.
+
+### O que acontece se a exchange quebrar?
+
+Você pode perder seus fundos. Por isso é importante: 1) Usar exchanges grandes e estabelecidas, 2) Não deixar grandes valores na exchange, 3) Transferir para carteira própria, 4) Diversificar entre exchanges.
+
+### Vale a pena aproveitar os bônus de boas-vindas?
+
+Sim! Bônus de até $30.000 (Bitget) ou 50% de desconto em taxas são vantagens reais. Mas leia os termos: geralmente exigem volume mínimo de trading ou têm período de validade. Aproveite, mas não deixe isso ser o único critério de escolha.

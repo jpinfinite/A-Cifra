@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'
 
   return {
     rules: [
@@ -26,6 +26,12 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: 'Googlebot-Image',
         allow: '/',
+      },
+      // Bingbot - permite indexação completa
+      {
+        userAgent: 'Bingbot',
+        allow: '/',
+        disallow: ['/api/', '/admin/'],
       },
       // Bloquear bots de IA que coletam dados para treinamento
       {

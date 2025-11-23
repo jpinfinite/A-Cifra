@@ -491,3 +491,46 @@ Investir em criptomoedas em 2026 é mais acessível e seguro do que nunca. Segui
 ---
 
 *Aviso: Este guia é apenas educacional. Criptomoedas são investimentos de alto risco. Faça sua própria pesquisa e considere consultar um consultor financeiro.*
+
+
+## ❓ Perguntas Frequentes (FAQ)
+
+### Quanto dinheiro preciso para começar a investir em cripto?
+
+Você pode começar com apenas R$ 50-100. O importante é começar pequeno, aprender e ir aumentando gradualmente conforme ganha experiência e confiança.
+
+### Qual a melhor criptomoeda para iniciantes?
+
+Bitcoin (BTC) e Ethereum (ETH) são as melhores para começar. São as mais estabelecidas, líquidas e com menor risco relativo. Recomendamos 70% BTC e 30% ETH para iniciantes.
+
+### É tarde demais para investir em Bitcoin?
+
+Não! Apesar do Bitcoin já ter valorizado muito, a adoção global ainda está abaixo de 5%. Se você pensa em 5-10 anos, ainda há muito potencial de crescimento. O importante é não investir esperando ficar rico da noite para o dia.
+
+### Devo deixar minhas criptomoedas na exchange?
+
+Para valores pequenos (até R$ 5.000), pode deixar na exchange por conveniência. Para valores maiores, considere transferir para uma carteira própria (hardware wallet ou software wallet) onde você controla as chaves privadas.
+
+### Como declarar criptomoedas no Imposto de Renda?
+
+Você deve declarar todas as suas criptomoedas na ficha "Bens e Direitos" usando o código 81 (Bitcoin) ou 82 (outras criptos). Vendas acima de R$ 35.000/mês são tributadas em 15-22.5%. Use a calculadora da Receita Federal ou consulte um contador.
+
+### Qual a diferença entre trading e investimento?
+
+Trading é compra e venda frequente buscando lucros de curto prazo (dias/semanas). Investimento é compra e manutenção de longo prazo (anos). Para iniciantes, recomendamos investimento (buy and hold) pois é menos arriscado e estressante.
+
+### Posso perder todo meu dinheiro em cripto?
+
+Sim, é possível. Criptomoedas são ativos de alto risco e podem desvalorizar 50-80% em mercados baixistas. Por isso, invista apenas o que pode perder e nunca use dinheiro que precisa no curto prazo.
+
+### O que é DCA e por que é recomendado?
+
+DCA (Dollar Cost Averaging) é comprar uma quantia fixa regularmente (ex: R$ 200/mês). É recomendado porque elimina o estresse de tentar acertar o melhor momento, reduz o risco de comprar no topo e cria disciplina de investimento.
+
+### Preciso entender tecnologia blockchain para investir?
+
+Não necessariamente. Você pode investir entendendo apenas o básico. Porém, quanto mais você aprender sobre a tecnologia, melhores decisões de investimento poderá tomar. Comece com o básico e vá aprofundando aos poucos.
+
+### Qual a melhor estratégia para iniciantes?
+
+A melhor estratégia é: 1) Comece pequeno (R$ 100-500), 2) Compre BTC e ETH, 3) Use DCA mensal, 4) Não venda no pânico, 5) Pense em 3-5 anos mínimo, 6) Continue estudando. Simples, mas eficaz.

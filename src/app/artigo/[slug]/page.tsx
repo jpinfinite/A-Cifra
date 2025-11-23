@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
       'max-video-preview': -1,
     },
     alternates: {
-      canonical: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'}/artigo/${params.slug}`,
+      canonical: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${params.slug}`,
     },
   }
 }
@@ -68,7 +68,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     { name: article.title, url: `/artigo/${article.slug}` }
   ]
 
-  const currentUrl = `${process.env.NEXT_PUBLIC_SITE_URL || 'https://acifra.com'}/artigo/${article.slug}`
+  const currentUrl = `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${article.slug}`
   const readingTime = calculateReadingTime(article.content || '')
 
   return (

@@ -267,11 +267,11 @@
 
 1. ✅ Criar robots.txt (FEITO)
 2. ✅ Criar schema-organization.json (FEITO)
-3. [ ] Cadastrar no Google Search Console
-4. [ ] Cadastrar no Bing Webmaster Tools
-5. [ ] Criar perfis nas redes sociais
-6. [ ] Compartilhar os 8 artigos novos
-7. [ ] Adicionar FAQ nos artigos principais
+3. ✅ Adicionar FAQ nos artigos principais (FEITO - 7 artigos)
+4. [ ] Cadastrar no Google Search Console
+5. [ ] Cadastrar no Bing Webmaster Tools
+6. [ ] Criar perfis nas redes sociais
+7. [ ] Compartilhar os 8 artigos novos
 8. [ ] Criar 2 novos artigos esta semana
 
 ## 📚 Recursos Úteis:

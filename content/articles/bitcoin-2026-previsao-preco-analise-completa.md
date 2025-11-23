@@ -482,3 +482,46 @@ Nunca venda 100% do seu Bitcoin. Mantenha sempre uma posição de longo prazo (5
 ---
 
 *Aviso: Este artigo é apenas informativo e não constitui recomendação de investimento. Criptomoedas são ativos de alto risco. Faça sua própria pesquisa.*
+
+
+## ❓ Perguntas Frequentes (FAQ)
+
+### O Bitcoin vai chegar a $200.000 em 2026?
+
+É possível, mas não garantido. Nosso cenário otimista prevê $180.000-$250.000 com 35% de probabilidade. O cenário base (mais provável) aponta para $120.000-$150.000. Fatores como demanda dos ETFs, adoção institucional e contexto macroeconômico serão determinantes.
+
+### Qual é o melhor momento para comprar Bitcoin em 2026?
+
+Não existe um "momento perfeito". A estratégia de DCA (compra regular mensal) é recomendada para a maioria dos investidores. Se preferir timing, correções para $85.000-$95.000 representam boas oportunidades de entrada.
+
+### O halving de 2024 ainda vai impactar o preço em 2026?
+
+Sim! Historicamente, os maiores ganhos ocorrem 12-18 meses após o halving. Como o halving foi em abril de 2024, o período de abril a outubro de 2026 pode ser o mais forte do ciclo.
+
+### Devo vender meu Bitcoin se chegar a $150.000?
+
+Depende dos seus objetivos. Considere realizar lucros parciais (10-30%) para garantir ganhos, mas mantenha uma posição de longo prazo. Nunca venda 100% do seu Bitcoin se acredita no potencial de longo prazo.
+
+### Os ETFs de Bitcoin vão continuar comprando em 2026?
+
+Muito provavelmente sim. A demanda institucional está apenas começando, com fundos de pensão e empresas aumentando alocações. Esperamos $60-80 bilhões adicionais em entradas via ETFs em 2026.
+
+### Bitcoin é melhor que ouro como investimento?
+
+Bitcoin e ouro têm propósitos diferentes. O ouro é mais estável e consolidado (5.000 anos de história). O Bitcoin oferece maior potencial de valorização, mas com mais volatilidade. Muitos investidores mantêm ambos como proteção.
+
+### Qual a diferença entre Bitcoin e outras criptomoedas?
+
+Bitcoin é a primeira e mais descentralizada criptomoeda, focada em ser reserva de valor e meio de troca. Outras criptomoedas (Ethereum, Solana, etc.) têm propósitos diferentes, como contratos inteligentes e aplicações descentralizadas.
+
+### É tarde demais para investir em Bitcoin?
+
+Não. Apesar do Bitcoin já ter valorizado muito, a adoção global ainda está abaixo de 5%. Se o Bitcoin se tornar uma reserva de valor global, o potencial de crescimento ainda é significativo. Pense em horizontes de 5-10 anos.
+
+### Quanto devo investir em Bitcoin?
+
+Regra geral: invista apenas o que pode perder. Para iniciantes, 1-5% do patrimônio é razoável. Investidores mais experientes podem alocar 5-15%. Nunca invista dinheiro que precisará no curto prazo.
+
+### Bitcoin pode ir a zero?
+
+Teoricamente sim, mas cada vez menos provável. Com adoção institucional massiva, países acumulando reservas e infraestrutura robusta, o risco de Bitcoin ir a zero é mínimo. O maior risco é volatilidade e correções de 50-70%.

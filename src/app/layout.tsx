@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   description: 'Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.',
   keywords: ['criptomoedas', 'bitcoin', 'ethereum', 'blockchain', 'investimentos', 'finanças', 'defi', 'nfts', 'análises crypto', 'educação blockchain'],
-  authors: [{ name: 'Jonatha Pereira', url: 'https://acifra.com' }],
+  authors: [{ name: 'Jonatha Pereira', url: 'https://a-cifra.com.br' }],
   creator: 'Jonatha Pereira',
   publisher: 'A Cifra',
   formatDetection: {
@@ -38,14 +38,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://acifra.com'),
+  metadataBase: new URL('https://a-cifra.com.br'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://acifra.com',
+    url: 'https://a-cifra.com.br',
     title: 'A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto',
     description: 'Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas e educação sobre o mundo crypto.',
     siteName: 'A Cifra',
