@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "A Cifra",
+  "alternateName": "ACifra",
+  "url": "https://acifra.com",
+  "logo": "https://acifra.com/images/cifra-principal.png",
+  "description": "Portal completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.",
+  "foundingDate": "2024",
+  "sameAs": [
+    "https://twitter.com/acifra",
+    "https://facebook.com/acifra",
+    "https://instagram.com/acifra",
+    "https://linkedin.com/company/acifra"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "email": "contato@acifra.com",
+    "availableLanguage": ["Portuguese"]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "A Cifra",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://acifra.com/images/cifra-principal.png",
+      "width": 600,
+      "height": 60
+    }
+  }
+}
