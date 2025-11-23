@@ -6,6 +6,7 @@ import rehypeRaw from 'rehype-raw'
 import { Article } from '@/types'
 import { useMemo } from 'react'
 import { addInlineLinks } from '@/utils/relatedArticles'
+import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
 
 interface ArticleContentProps {
   content: string
@@ -15,10 +16,19 @@ interface ArticleContentProps {
 export default function ArticleContent({ content, relatedArticles = [] }: ArticleContentProps) {
   // Adiciona links inline automaticamente
   const enhancedContent = useMemo(() => {
+    let processedContent = content
+    
     if (relatedArticles.length > 0) {
-      return addInlineLinks(content, relatedArticles)
+      processedContent = addInlineLinks(processedContent, relatedArticles)
     }
-    return content
+    
+    // Substitui <ExchangeAffiliateLinks /> por um marcador único
+    processedContent = processedContent.replace(
+      /<ExchangeAffiliateLinks\s*\/>/g,
+      '___EXCHANGE_AFFILIATE_LINKS___'
+    )
+    
+    return processedContent
   }, [content, relatedArticles])
 
   return (
@@ -48,11 +58,19 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               {children}
             </h4>
           ),
-          p: ({ children }) => (
-            <p className="mb-6 leading-relaxed text-lg text-gray-700 font-normal">
-              {children}
-            </p>
-          ),
+          p: ({ children }) => {
+            // Verifica se o parágrafo contém o marcador de afiliados
+            const childrenString = String(children)
+            if (childrenString.includes('___EXCHANGE_AFFILIATE_LINKS___')) {
+              return <ExchangeAffiliateLinks />
+            }
+            
+            return (
+              <p className="mb-6 leading-relaxed text-lg text-gray-700 font-normal">
+                {children}
+              </p>
+            )
+          },
           ul: ({ children }) => (
             <ul className="mb-8 space-y-3 ml-6">
               {children}
