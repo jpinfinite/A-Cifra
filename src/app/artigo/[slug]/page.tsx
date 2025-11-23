@@ -119,16 +119,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             />
 
             {/* Ad 1 - Após conteúdo inicial */}
-            <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_1} />
+            <InArticleAd slot="2401624018" />
 
             {/* Newsletter CTA */}
             <NewsletterCTA variant="inline" className="my-12" />
 
             {/* Ad 2 - Meio do artigo */}
-            <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_2} />
+            <InArticleAd slot="3416033223" />
 
             {/* Ad 3 - Antes dos artigos relacionados */}
-            <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_3} />
+            <InArticleAd slot="5028497790" />
 
             {/* Related Articles */}
             <RelatedArticles articles={relatedArticles} className="mt-12" />
@@ -137,13 +137,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           {/* Sidebar */}
           <aside className="lg:col-span-4 space-y-6">
             {/* Ad Sidebar - Topo */}
-            <SidebarAd slot={process.env.NEXT_PUBLIC_AD_SLOT_SIDEBAR} sticky={true} />
+            <SidebarAd slot="4860266399" sticky={true} />
 
             {/* Newsletter Sidebar */}
             <NewsletterCTA variant="sidebar" />
 
             {/* Ad Sidebar - Meio */}
-            <SidebarAd slot={process.env.NEXT_PUBLIC_AD_SLOT_HEADER} />
+            <SidebarAd slot="5064156814" />
           </aside>
         </div>
       </Container>

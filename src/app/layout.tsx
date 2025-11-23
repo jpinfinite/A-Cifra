@@ -139,16 +139,7 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         
-        {/* AdSense Auto Ads Initialization */}
-        <Script id="adsense-init" strategy="afterInteractive">
-          {`
-            (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-1151448515464841",
-              enable_page_level_ads: true,
-              overlays: {bottom: true}
-            });
-          `}
-        </Script>
+
 
         {/* Google Analytics */}
         <Script
