@@ -20,16 +20,12 @@ export const useArticleTracking = (
     trackArticleView(articleTitle, articleSlug, category);
 
     // Configura rastreamento de scroll
-    const cleanupScroll = setupScrollTracking(articleSlug);
+    setupScrollTracking(articleSlug);
 
     // Configura rastreamento de tempo
-    const cleanupTime = setupTimeTracking(articleSlug);
+    setupTimeTracking(articleSlug);
 
-    // Cleanup
-    return () => {
-      if (cleanupScroll) cleanupScroll();
-      if (cleanupTime) cleanupTime();
-    };
+    // Cleanup não é necessário pois as funções já gerenciam isso internamente
   }, [articleTitle, articleSlug, category]);
 };
 

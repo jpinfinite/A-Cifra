@@ -158,9 +158,6 @@ export const setupScrollTracking = (articleSlug: string): void => {
   };
 
   window.addEventListener('scroll', handleScroll, { passive: true });
-
-  // Cleanup
-  return () => window.removeEventListener('scroll', handleScroll);
 };
 
 /**
@@ -180,11 +177,5 @@ export const setupTimeTracking = (articleSlug: string): void => {
   window.addEventListener('beforeunload', trackTime);
 
   // Rastreia a cada 30 segundos
-  const interval = setInterval(trackTime, 30000);
-
-  // Cleanup
-  return () => {
-    window.removeEventListener('beforeunload', trackTime);
-    clearInterval(interval);
-  };
+  setInterval(trackTime, 30000);
 };
