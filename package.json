@@ -14,6 +14,7 @@
     "update-image-refs": "node scripts/update-image-references.js",
     "optimize-assets": "npm run compress-assets && npm run update-image-refs",
     "newsletter": "node scripts/send-newsletter.js",
+    "verificar-anuncios": "node scripts/verificar-anuncios.js",
     "prepare": "npm run lint"
   },
   "dependencies": {

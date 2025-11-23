@@ -4,7 +4,7 @@ import { ArticleLayout } from '@/components/content'
 import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
 import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
 import { NewsletterCTA } from '@/components/newsletter'
-// import { InArticleAd, SidebarAd } from '@/components/ads' // Removido - usando apenas anúncios automáticos
+import { InArticleAd, SidebarAd } from '@/components/ads'
 import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata } from '@/utils/seo'
@@ -118,8 +118,17 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               relatedArticles={[]}
             />
 
+            {/* Ad 1 - Após conteúdo inicial */}
+            <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_1} />
+
             {/* Newsletter CTA */}
             <NewsletterCTA variant="inline" className="my-12" />
+
+            {/* Ad 2 - Meio do artigo */}
+            <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_2} />
+
+            {/* Ad 3 - Antes dos artigos relacionados */}
+            <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_3} />
 
             {/* Related Articles */}
             <RelatedArticles articles={relatedArticles} className="mt-12" />
@@ -127,8 +136,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* Sidebar */}
           <aside className="lg:col-span-4 space-y-6">
+            {/* Ad Sidebar - Topo */}
+            <SidebarAd slot={process.env.NEXT_PUBLIC_AD_SLOT_SIDEBAR} sticky={true} />
+
             {/* Newsletter Sidebar */}
             <NewsletterCTA variant="sidebar" />
+
+            {/* Ad Sidebar - Meio */}
+            <SidebarAd slot={process.env.NEXT_PUBLIC_AD_SLOT_HEADER} />
           </aside>
         </div>
       </Container>
