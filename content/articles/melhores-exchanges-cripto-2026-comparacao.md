@@ -5,7 +5,7 @@ date: "2025-11-23"
 author: "Equipe Crypto Insight"
 category: "Guias"
 tags: ["Exchanges", "Trading", "Segurança", "Comparação"]
-image: "/images/exchanges-2026.jpg"
+image: "/images/crypto-exchange.jpg"
 ---
 
 # Melhores Exchanges de Cripto 2026: Comparação Completa

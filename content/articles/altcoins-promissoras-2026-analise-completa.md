@@ -4,7 +4,7 @@ slug: 'altcoins-promissoras-2026-analise-completa'
 title: "15 Altcoins Promissoras para 2026: Análise Fundamentalista e Potencial de Valorização"
 excerpt: 'Descubra as 15 altcoins mais promissoras para investir em 2026. Análise fundamentalista completa, potencial de valorização, riscos e estratégias de portfolio para maximizar seus ganhos.'
 coverImage:
-  src: '/images/altcoins-2026.jpg'
+  src: '/images/altcoins-2025.jpg'
   alt: '15 Altcoins Promissoras para 2026'
   width: 1200
   height: 630

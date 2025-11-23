@@ -5,7 +5,7 @@ date: "2025-11-23"
 author: "Equipe Crypto Insight"
 category: "Guias"
 tags: ["Staking", "Renda Passiva", "DeFi", "Investimento"]
-image: "/images/staking-2026.jpg"
+image: "/images/staking-recompensas.jpg"
 ---
 
 # Staking de Cripto 2026: Guia Completo para Renda Passiva

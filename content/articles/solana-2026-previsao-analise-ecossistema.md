@@ -5,7 +5,7 @@ date: "2025-11-23"
 author: "Equipe Crypto Insight"
 category: "Análise"
 tags: ["Solana", "SOL", "Previsão 2026", "DeFi", "NFTs"]
-image: "/images/solana-2026.jpg"
+image: "/images/blockchain-technology.jpg"
 ---
 
 # Solana 2026: Previsão, Análise e Ecossistema Completo

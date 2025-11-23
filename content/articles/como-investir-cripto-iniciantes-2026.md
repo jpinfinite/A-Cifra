@@ -5,7 +5,7 @@ date: "2025-11-23"
 author: "Equipe Crypto Insight"
 category: "Guias"
 tags: ["Iniciantes", "Investimento", "Tutorial", "Segurança"]
-image: "/images/guia-iniciantes-2026.jpg"
+image: "/images/bitcoin-guide-2025.jpg"
 ---
 
 # Como Investir em Cripto: Guia Completo para Iniciantes 2026

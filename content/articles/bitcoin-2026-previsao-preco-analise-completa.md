@@ -4,7 +4,7 @@ slug: 'bitcoin-2026-previsao-preco-analise-completa'
 title: "Bitcoin em 2026: Previsão de Preço, Análise Técnica e Fundamentalista Completa"
 excerpt: 'Análise profunda sobre o Bitcoin em 2026: previsões de preço, análise técnica e fundamentalista, cenários otimista e pessimista, e como se posicionar para maximizar ganhos.'
 coverImage:
-  src: '/images/bitcoin-2026-previsao.jpg'
+  src: '/images/bitcoin-global-network.jpg'
   alt: 'Bitcoin 2026 - Previsão de Preço e Análise Completa'
   width: 1200
   height: 630

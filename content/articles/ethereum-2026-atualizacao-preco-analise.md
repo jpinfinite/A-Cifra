@@ -5,7 +5,7 @@ date: "2025-11-23"
 author: "Equipe Crypto Insight"
 category: "Análise"
 tags: ["Ethereum", "ETH", "Previsão 2026", "Staking", "DeFi"]
-image: "/images/ethereum-2026.jpg"
+image: "/images/ethereum-blockchain.jpg"
 ---
 
 # Ethereum 2026: Atualização, Preço e Análise Completa

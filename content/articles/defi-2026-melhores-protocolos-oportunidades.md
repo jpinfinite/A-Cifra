@@ -5,7 +5,7 @@ date: "2025-11-23"
 author: "Equipe Crypto Insight"
 category: "DeFi"
 tags: ["DeFi", "Yield Farming", "Protocolos", "Investimento"]
-image: "/images/defi-2026.jpg"
+image: "/images/defi-revolution.jpg"
 ---
 
 # DeFi 2026: Melhores Protocolos e Oportunidades de Investimento
