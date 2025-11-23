@@ -152,15 +152,15 @@ export default function RootLayout({
 
         {/* Google Analytics */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-JDX167JXHF"
-          strategy="lazyOnload"
+          src="https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR"
+          strategy="afterInteractive"
         />
-        <Script id="google-analytics" strategy="lazyOnload">
+        <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-JDX167JXHF');
+            gtag('config', 'G-TFBC1HD2BR');
           `}
         </Script>
 
