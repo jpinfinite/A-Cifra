@@ -32,7 +32,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
   }, [content, relatedArticles])
 
   return (
-    <div className="prose prose-xl max-w-none article-content">
+    <div className="prose prose-xl max-w-none article-content" suppressHydrationWarning>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}
@@ -98,17 +98,17 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
           ),
           code: ({ inline, children, className }: { inline?: boolean; children?: React.ReactNode; className?: string }) => {
             return inline ? (
-              <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold">
+              <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold" suppressHydrationWarning>
                 {children}
               </code>
             ) : (
-              <code className={`block bg-gray-900 text-gray-100 p-6 rounded-xl overflow-x-auto my-8 font-mono text-sm leading-relaxed shadow-lg ${className || ''}`}>
+              <code className={`block bg-gray-900 text-gray-100 p-6 rounded-xl overflow-x-auto my-8 font-mono text-sm leading-relaxed shadow-lg ${className || ''}`} suppressHydrationWarning>
                 {children}
               </code>
             )
           },
           pre: ({ children }) => (
-            <pre className="my-8 overflow-hidden rounded-xl shadow-lg">
+            <pre className="my-8 overflow-hidden rounded-xl shadow-lg" suppressHydrationWarning>
               {children}
             </pre>
           ),

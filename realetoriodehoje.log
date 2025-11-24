@@ -1,0 +1,179 @@
+2025-11-24T14:23:36.352759Z	Cloning repository...
+2025-11-24T14:23:40.956599Z	From https://github.com/jpinfinite/A-Cifra
+2025-11-24T14:23:40.957139Z	 * branch            057943cf196c67132c3eec0eb2a4f008bba500cb -> FETCH_HEAD
+2025-11-24T14:23:40.957359Z	
+2025-11-24T14:23:42.062664Z	HEAD is now at 057943c fix: corrigir 97 emojis mal codificados em artigos
+2025-11-24T14:23:42.063176Z	
+2025-11-24T14:23:42.139529Z	
+2025-11-24T14:23:42.140008Z	Using v2 root directory strategy
+2025-11-24T14:23:42.162896Z	Success: Finished cloning repository files
+2025-11-24T14:23:42.943954Z	Restoring from dependencies cache
+2025-11-24T14:23:42.96073Z	Restoring from build output cache
+2025-11-24T14:23:43.783869Z	Success: Build output restored from build cache.
+2025-11-24T14:23:45.087114Z	Success: Dependencies restored from build cache.
+2025-11-24T14:23:46.125518Z	Checking for configuration in a Wrangler configuration file (BETA)
+2025-11-24T14:23:46.126122Z	
+2025-11-24T14:23:46.128175Z	Found wrangler.toml file. Reading build configuration...
+2025-11-24T14:23:47.222845Z	A wrangler.toml file was found but it does not appear to be valid. Did you mean to use wrangler.toml to configure Pages? If so, then make sure the file is valid and contains the `pages_build_output_dir` property. Skipping file and continuing.
+2025-11-24T14:23:47.301551Z	Detected the following tools from environment: nodejs@18.20.8, npm@10.9.2
+2025-11-24T14:23:47.302026Z	Installing nodejs 18.20.8
+2025-11-24T14:23:48.332695Z	Trying to update node-build... ok
+2025-11-24T14:23:48.426294Z	To follow progress, use 'tail -f /tmp/node-build.20251124142348.506.log' or pass --verbose
+2025-11-24T14:23:48.526888Z	Downloading node-v18.20.8-linux-x64.tar.gz...
+2025-11-24T14:23:48.775315Z	-> https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-x64.tar.gz
+2025-11-24T14:23:50.301539Z	
+2025-11-24T14:23:50.302134Z	WARNING: node-v18.20.8-linux-x64 is in LTS Maintenance mode and nearing its end of life.
+2025-11-24T14:23:50.302325Z	It only receives *critical* security updates, *critical* bug fixes and documentation updates.
+2025-11-24T14:23:50.302735Z	
+2025-11-24T14:23:50.302927Z	Installing node-v18.20.8-linux-x64...
+2025-11-24T14:23:50.682393Z	Installed node-v18.20.8-linux-x64 to /opt/buildhome/.asdf/installs/nodejs/18.20.8
+2025-11-24T14:23:50.682785Z	
+2025-11-24T14:23:51.671873Z	Installing project dependencies: npm clean-install --progress=false
+2025-11-24T14:23:55.833067Z	npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+2025-11-24T14:23:55.945264Z	npm warn deprecated @humanwhocodes/config-array@0.13.0: Use @eslint/config-array instead
+2025-11-24T14:23:55.956964Z	npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+2025-11-24T14:23:56.044433Z	npm warn deprecated @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead
+2025-11-24T14:23:56.045221Z	npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+2025-11-24T14:23:56.094968Z	npm warn deprecated formidable@1.2.6: Please upgrade to latest, formidable@v2 or formidable@v3! Check these notes: https://bit.ly/2ZEqIau
+2025-11-24T14:23:56.157953Z	npm warn deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+2025-11-24T14:23:56.465989Z	npm warn deprecated superagent@3.7.0: Please upgrade to superagent v10.2.2+, see release notes at https://github.com/forwardemail/superagent/releases/tag/v10.2.2 - maintenance is supported by Forward Email @ https://forwardemail.net
+2025-11-24T14:24:02.529864Z	npm warn deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+2025-11-24T14:24:02.690011Z	npm warn deprecated sib-api-v3-sdk@8.5.0: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+2025-11-24T14:24:06.750632Z	
+2025-11-24T14:24:06.755828Z	> a-cifra-blog@0.1.0 prepare
+2025-11-24T14:24:06.757389Z	> npm run lint
+2025-11-24T14:24:06.758542Z	
+2025-11-24T14:24:06.955887Z	
+2025-11-24T14:24:06.956217Z	> a-cifra-blog@0.1.0 lint
+2025-11-24T14:24:06.956429Z	> next lint
+2025-11-24T14:24:06.956564Z	
+2025-11-24T14:24:10.590295Z	✔ No ESLint warnings or errors
+2025-11-24T14:24:10.706858Z	
+2025-11-24T14:24:10.707162Z	added 576 packages, and audited 577 packages in 19s
+2025-11-24T14:24:10.70737Z	
+2025-11-24T14:24:10.707514Z	272 packages are looking for funding
+2025-11-24T14:24:10.707628Z	  run `npm fund` for details
+2025-11-24T14:24:10.768029Z	
+2025-11-24T14:24:10.783241Z	3 high severity vulnerabilities
+2025-11-24T14:24:10.783429Z	
+2025-11-24T14:24:10.783575Z	To address all issues, run:
+2025-11-24T14:24:10.783716Z	  npm audit fix
+2025-11-24T14:24:10.783896Z	
+2025-11-24T14:24:10.784248Z	Run `npm audit` for details.
+2025-11-24T14:24:10.805881Z	Executing user command: npm ci && npm run build
+2025-11-24T14:24:17.119607Z	npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+2025-11-24T14:24:17.237053Z	npm warn deprecated @humanwhocodes/config-array@0.13.0: Use @eslint/config-array instead
+2025-11-24T14:24:17.24426Z	npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+2025-11-24T14:24:17.338027Z	npm warn deprecated @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead
+2025-11-24T14:24:17.339095Z	npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+2025-11-24T14:24:17.383283Z	npm warn deprecated formidable@1.2.6: Please upgrade to latest, formidable@v2 or formidable@v3! Check these notes: https://bit.ly/2ZEqIau
+2025-11-24T14:24:17.439569Z	npm warn deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+2025-11-24T14:24:17.839618Z	npm warn deprecated superagent@3.7.0: Please upgrade to superagent v10.2.2+, see release notes at https://github.com/forwardemail/superagent/releases/tag/v10.2.2 - maintenance is supported by Forward Email @ https://forwardemail.net
+2025-11-24T14:24:18.519944Z	npm warn deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+2025-11-24T14:24:18.674017Z	npm warn deprecated sib-api-v3-sdk@8.5.0: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+2025-11-24T14:24:22.734537Z	
+2025-11-24T14:24:22.739983Z	> a-cifra-blog@0.1.0 prepare
+2025-11-24T14:24:22.744985Z	> npm run lint
+2025-11-24T14:24:22.750008Z	
+2025-11-24T14:24:22.944136Z	
+2025-11-24T14:24:22.944357Z	> a-cifra-blog@0.1.0 lint
+2025-11-24T14:24:22.944502Z	> next lint
+2025-11-24T14:24:22.944603Z	
+2025-11-24T14:24:24.953066Z	✔ No ESLint warnings or errors
+2025-11-24T14:24:25.092488Z	
+2025-11-24T14:24:25.093023Z	added 576 packages, and audited 577 packages in 14s
+2025-11-24T14:24:25.093192Z	
+2025-11-24T14:24:25.093382Z	272 packages are looking for funding
+2025-11-24T14:24:25.093483Z	  run `npm fund` for details
+2025-11-24T14:24:25.163868Z	
+2025-11-24T14:24:25.164195Z	3 high severity vulnerabilities
+2025-11-24T14:24:25.16445Z	
+2025-11-24T14:24:25.164592Z	To address all issues, run:
+2025-11-24T14:24:25.164709Z	  npm audit fix
+2025-11-24T14:24:25.164819Z	
+2025-11-24T14:24:25.164955Z	Run `npm audit` for details.
+2025-11-24T14:24:25.568496Z	
+2025-11-24T14:24:25.568738Z	> a-cifra-blog@0.1.0 build
+2025-11-24T14:24:25.568873Z	> next build
+2025-11-24T14:24:25.568984Z	
+2025-11-24T14:24:26.255401Z	  ▲ Next.js 14.2.33
+2025-11-24T14:24:26.255703Z	
+2025-11-24T14:24:26.316666Z	   Creating an optimized production build ...
+2025-11-24T14:24:30.015564Z	 ✓ Compiled successfully
+2025-11-24T14:24:30.016749Z	   Linting and checking validity of types ...
+2025-11-24T14:24:36.368168Z	   Collecting page data ...
+2025-11-24T14:24:37.539955Z	 ⚠ Using edge runtime on a page currently disables static generation for that page
+2025-11-24T14:24:38.778139Z	   Generating static pages (0/160) ...
+2025-11-24T14:24:42.327806Z	   Generating static pages (40/160) 
+2025-11-24T14:24:47.369919Z	   Generating static pages (80/160) 
+2025-11-24T14:24:50.511855Z	   Generating static pages (120/160) 
+2025-11-24T14:24:53.547446Z	 ✓ Generating static pages (160/160)
+2025-11-24T14:24:53.625741Z	   Finalizing page optimization ...
+2025-11-24T14:24:53.626023Z	   Collecting build traces ...
+2025-11-24T14:24:54.495383Z	
+2025-11-24T14:24:54.499625Z	Route (app)                                                 Size     First Load JS
+2025-11-24T14:24:54.49983Z	┌ ○ /                                                       3.38 kB         240 kB
+2025-11-24T14:24:54.499969Z	├ ○ /_not-found                                             141 B          87.6 kB
+2025-11-24T14:24:54.500079Z	├ ○ /admin/images                                           1.99 kB        97.8 kB
+2025-11-24T14:24:54.500177Z	├ ƒ /api/crypto-prices                                      0 B                0 B
+2025-11-24T14:24:54.500294Z	├ ƒ /api/newsletter                                         0 B                0 B
+2025-11-24T14:24:54.500401Z	├ ƒ /api/newsletter/subscribe                               0 B                0 B
+2025-11-24T14:24:54.5005Z	├ ○ /apple-icon.png                                         0 B                0 B
+2025-11-24T14:24:54.500599Z	├ ● /artigo/[slug]                                          3.42 kB         233 kB
+2025-11-24T14:24:54.500731Z	├   ├ /artigo/account-abstraction-erc-4337-2026
+2025-11-24T14:24:54.500855Z	├   ├ /artigo/altcoins-promissoras-2026-analise-completa
+2025-11-24T14:24:54.500981Z	├   ├ /artigo/bitcoin-2026-previsao-preco-analise-completa
+2025-11-24T14:24:54.501089Z	├   └ [+124 more paths]
+2025-11-24T14:24:54.501189Z	├ ○ /artigos                                                624 B           238 kB
+2025-11-24T14:24:54.501303Z	├ ● /categoria/[slug]                                       278 B           230 kB
+2025-11-24T14:24:54.501415Z	├   ├ /categoria/bitcoin
+2025-11-24T14:24:54.501505Z	├   ├ /categoria/altcoins
+2025-11-24T14:24:54.501599Z	├   ├ /categoria/defi
+2025-11-24T14:24:54.501689Z	├   └ [+7 more paths]
+2025-11-24T14:24:54.501776Z	├ ○ /categorias                                             239 B           118 kB
+2025-11-24T14:24:54.501886Z	├ ○ /contatos                                               239 B           118 kB
+2025-11-24T14:24:54.501988Z	├ ○ /ferramentas                                            2.99 kB         124 kB
+2025-11-24T14:24:54.502085Z	├ ○ /glossario                                              239 B           118 kB
+2025-11-24T14:24:54.502187Z	├ ○ /icon.png                                               0 B                0 B
+2025-11-24T14:24:54.502304Z	├ ○ /image-sitemap.xml                                      0 B                0 B
+2025-11-24T14:24:54.502404Z	├ ○ /manifest.webmanifest                                   0 B                0 B
+2025-11-24T14:24:54.502497Z	├ ○ /politica-de-privacidade                                239 B           118 kB
+2025-11-24T14:24:54.502593Z	├ ○ /privacidade                                            239 B           118 kB
+2025-11-24T14:24:54.502678Z	├ ○ /robots.txt                                             0 B                0 B
+2025-11-24T14:24:54.502778Z	├ ○ /sitemap.xml                                            0 B                0 B
+2025-11-24T14:24:54.502861Z	├ ○ /sobre                                                  239 B           118 kB
+2025-11-24T14:24:54.502952Z	├ ○ /termos                                                 239 B           118 kB
+2025-11-24T14:24:54.503054Z	└ ○ /test-articles                                          141 B          87.6 kB
+2025-11-24T14:24:54.503146Z	+ First Load JS shared by all                               87.4 kB
+2025-11-24T14:24:54.503234Z	  ├ chunks/117-9f74edc282d0f8fb.js                          31.8 kB
+2025-11-24T14:24:54.503355Z	  ├ chunks/fd9d1056-73cab76b2f294bfc.js                     53.6 kB
+2025-11-24T14:24:54.503464Z	  └ other shared chunks (total)                             1.96 kB
+2025-11-24T14:24:54.503541Z	
+2025-11-24T14:24:54.503637Z	
+2025-11-24T14:24:54.503735Z	○  (Static)   prerendered as static content
+2025-11-24T14:24:54.503962Z	●  (SSG)      prerendered as static HTML (uses getStaticProps)
+2025-11-24T14:24:54.504097Z	ƒ  (Dynamic)  server-rendered on demand
+2025-11-24T14:24:54.504207Z	
+2025-11-24T14:24:54.559233Z	Finished
+2025-11-24T14:24:55.495229Z	Checking for configuration in a Wrangler configuration file (BETA)
+2025-11-24T14:24:55.495721Z	
+2025-11-24T14:24:55.496252Z	Found wrangler.toml file. Reading build configuration...
+2025-11-24T14:24:56.595618Z	A wrangler.toml file was found but it does not appear to be valid. Did you mean to use wrangler.toml to configure Pages? If so, then make sure the file is valid and contains the `pages_build_output_dir` property. Skipping file and continuing.
+2025-11-24T14:24:56.596463Z	Found Functions directory at /functions. Uploading.
+2025-11-24T14:24:56.602942Z	 ⛅️ wrangler 3.101.0
+2025-11-24T14:24:56.603319Z	-------------------
+2025-11-24T14:24:57.554102Z	✨ Compiled Worker successfully
+2025-11-24T14:24:58.661921Z	Validating asset output directory
+2025-11-24T14:25:05.661436Z	Deploying your site to Cloudflare's global network...
+2025-11-24T14:25:11.973251Z	Parsed 2 valid redirect rules.
+2025-11-24T14:25:14.94847Z	Uploading... (436/737)
+2025-11-24T14:25:17.921106Z	Uploading... (537/737)
+2025-11-24T14:25:18.288867Z	Uploading... (637/737)
+2025-11-24T14:25:18.358822Z	Uploading... (737/737)
+2025-11-24T14:25:18.359079Z	✨ Success! Uploaded 301 files (436 already uploaded) (3.97 sec)
+2025-11-24T14:25:18.359176Z	
+2025-11-24T14:25:18.96018Z	✨ Upload complete!
+2025-11-24T14:25:21.468512Z	Uploading to build output cache
+2025-11-24T14:25:22.046764Z	Success: Build output uploaded to build cache.
+2025-11-24T14:25:24.562069Z	Success: Assets published!
+2025-11-24T14:25:27.278221Z	Success: Your site was deployed!
