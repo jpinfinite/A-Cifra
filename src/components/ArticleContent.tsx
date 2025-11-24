@@ -98,14 +98,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
           ),
           code: (props) => {
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            const { inline, children, className, node, ...rest } = props as any
-            // Remover props que causam problemas de hidratação
-            const cleanProps = Object.keys(rest).reduce((acc, key) => {
-              if (!key.startsWith('data-') && key !== 'node') {
-                acc[key] = rest[key]
-              }
-              return acc
-            }, {} as Record<string, any>)
+            const { inline, children, className } = props as any
             
             return inline ? (
               <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold">
@@ -122,25 +115,23 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               {children}
             </pre>
           ),
-          img: ({ src, alt }) => {
-            // Usar img nativa para evitar problemas de hidratação com Next.js Image
-            return (
-              <figure className="my-10">
-                <img
-                  src={src || ''}
-                  alt={alt || ''}
-                  className="rounded-2xl w-full shadow-xl hover:shadow-2xl transition-shadow duration-300"
-                  loading="lazy"
-                  decoding="async"
-                />
-                {alt && (
-                  <figcaption className="text-center text-sm text-gray-600 mt-3 italic">
-                    {alt}
-                  </figcaption>
-                )}
-              </figure>
-            )
-          },
+          img: ({ src, alt }) => (
+            <figure className="my-10">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={src || ''}
+                alt={alt || ''}
+                className="rounded-2xl w-full shadow-xl hover:shadow-2xl transition-shadow duration-300"
+                loading="lazy"
+                decoding="async"
+              />
+              {alt && (
+                <figcaption className="text-center text-sm text-gray-600 mt-3 italic">
+                  {alt}
+                </figcaption>
+              )}
+            </figure>
+          ),
           a: ({ href, children }) => (
             <a
               href={href}
