@@ -4,7 +4,7 @@ title: 'Altcoins Promissoras para 2025: Análise Fundamentalista'
 slug: 'altcoins-promissoras-2025-analise-fundamentalista'
 excerpt: 'Descubra as altcoins com maior potencial para 2025, analisando fundamentos, tecnologia e adoção real.'
 coverImage:
-  src: '/images/altcoins-2025.jpg'
+  src: '/images/crypto-market-analysis.jpg'
   alt: 'Gráfico com principais altcoins e suas redes'
   width: 1200
   height: 630

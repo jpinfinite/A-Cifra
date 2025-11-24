@@ -4,7 +4,7 @@ title: 'Centralização vs Descentralização: O Dilema da Distribuição de Pod
 slug: 'centralizacao-vs-descentralizacao-dilema-distribuicao-poder'
 excerpt: 'Explore as diferenças fundamentais entre sistemas centralizados e descentralizados, seus impactos na sociedade e como a blockchain está redefinindo o poder.'
 coverImage:
-  src: '/images/blockchain-technology.jpg'
+  src: '/images/descentralizacao.jpg'
   alt: 'Representação visual de redes centralizadas vs descentralizadas'
   width: 1200
   height: 630

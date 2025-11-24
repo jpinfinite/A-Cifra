@@ -4,7 +4,7 @@ title: "Solana 2026: Previsão, Análise e Ecossistema Completo"
 slug: 'solana-2026-previsao-analise-ecossistema'
 excerpt: "Análise completa da Solana para 2026: previsão de preço, ecossistema DeFi, NFTs, e por que SOL pode ser a blockchain mais rápida do mercado."
 coverImage:
-  src: '/images/blockchain-technology.jpg'
+  src: '/images/solana-2026.jpg'
   alt: 'Solana 2026 Análise'
   width: 1200
   height: 630
