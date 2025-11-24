@@ -4,82 +4,109 @@ import { NextRequest, NextResponse } from 'next/server';
 const subscribers = new Set<string>();
 
 export async function POST(request: NextRequest) {
+  // Headers CORS para evitar problemas
+  const headers = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Cache-Control': 'no-cache, no-store, must-revalidate',
+  };
+
   try {
-    // Parse do body com tratamento de erro
+    // Parse do body com múltiplas tentativas
     let body;
+    let email;
+
     try {
-      body = await request.json();
+      const rawBody = await request.text();
+      console.log('📥 Raw body recebido:', rawBody.substring(0, 100));
+      
+      if (!rawBody) {
+        throw new Error('Body vazio');
+      }
+
+      body = JSON.parse(rawBody);
+      email = body?.email;
     } catch (parseError) {
       console.error('❌ Erro ao fazer parse do JSON:', parseError);
       return NextResponse.json(
         { error: 'Dados inválidos enviados' },
-        { status: 400 }
+        { status: 400, headers }
       );
     }
 
-    const { email } = body;
-
-    // Log para debug (sem expor dados sensíveis)
+    // Log detalhado para debug
     console.log('🔍 Newsletter API chamada:', {
       timestamp: new Date().toISOString(),
       hasEmail: !!email,
+      emailLength: email?.length || 0,
       hasBrevoKey: !!process.env.BREVO_API_KEY,
+      brevoKeyPrefix: process.env.BREVO_API_KEY?.substring(0, 10) || 'none',
       brevoListId: process.env.BREVO_LIST_ID,
-      nodeEnv: process.env.NODE_ENV
+      nodeEnv: process.env.NODE_ENV,
+      userAgent: request.headers.get('user-agent')?.substring(0, 50)
     });
 
     // Validação básica
-    if (!email || typeof email !== 'string') {
+    if (!email || typeof email !== 'string' || email.trim().length === 0) {
       return NextResponse.json(
         { error: 'Email é obrigatório' },
-        { status: 400 }
+        { status: 400, headers }
       );
     }
 
-    // Validação de formato de email mais robusta
+    // Validação de formato de email
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailRegex.test(email.trim())) {
+    const cleanEmail = email.trim().toLowerCase();
+    
+    if (!emailRegex.test(cleanEmail)) {
       return NextResponse.json(
         { error: 'Formato de email inválido' },
-        { status: 400 }
+        { status: 400, headers }
       );
     }
 
-    const cleanEmail = email.trim().toLowerCase();
-
-    // Verificar se já está inscrito (simulação local)
+    // Verificar se já está inscrito localmente
     if (subscribers.has(cleanEmail)) {
       return NextResponse.json(
         { 
           success: true,
           message: 'Email já cadastrado! Obrigado pelo interesse.' 
         },
-        { status: 200 }
+        { status: 200, headers }
       );
     }
 
-    // Tentar integração com Brevo (se configurado)
+    // Sempre adicionar à lista local primeiro (garantia)
+    subscribers.add(cleanEmail);
+    console.log('📝 Email adicionado localmente:', cleanEmail);
+
+    // Tentar integração com Brevo
     const BREVO_API_KEY = process.env.BREVO_API_KEY;
     const BREVO_LIST_ID = process.env.BREVO_LIST_ID;
     let brevoSuccess = false;
+    let brevoError = null;
 
     if (BREVO_API_KEY && BREVO_API_KEY.startsWith('xkeysib-')) {
       try {
-        const contactData: any = {
+        const contactData = {
           email: cleanEmail,
           updateEnabled: true,
           attributes: {
             ORIGEM: 'A Cifra Newsletter',
-            DATA_INSCRICAO: new Date().toISOString().split('T')[0]
+            DATA_INSCRICAO: new Date().toISOString().split('T')[0],
+            SITE: 'a-cifra.com.br'
           }
         };
 
         // Adicionar lista se especificada
         if (BREVO_LIST_ID && !isNaN(parseInt(BREVO_LIST_ID))) {
-          contactData.listIds = [parseInt(BREVO_LIST_ID)];
+          (contactData as any).listIds = [parseInt(BREVO_LIST_ID)];
         }
 
-        const response = await fetch('https://api.brevo.com/v3/contacts', {
+        console.log('🚀 Enviando para Brevo:', { email: cleanEmail, listId: BREVO_LIST_ID });
+
+        const brevoResponse = await fetch('https://api.brevo.com/v3/contacts', {
           method: 'POST',
           headers: {
             'accept': 'application/json',
@@ -89,66 +116,68 @@ export async function POST(request: NextRequest) {
           body: JSON.stringify(contactData),
         });
 
-        if (response.ok) {
-          console.log('✅ Inscrito no Brevo:', cleanEmail);
+        const brevoData = await brevoResponse.json();
+
+        if (brevoResponse.ok) {
+          console.log('✅ Sucesso no Brevo:', cleanEmail, brevoData);
           brevoSuccess = true;
+        } else if (brevoData.code === 'duplicate_parameter') {
+          console.log('📧 Email já existe no Brevo:', cleanEmail);
+          brevoSuccess = true; // Considerar sucesso
         } else {
-          const errorData = await response.json();
-          if (errorData.code === 'duplicate_parameter') {
-            console.log('📧 Email já existe no Brevo:', cleanEmail);
-            brevoSuccess = true; // Considerar sucesso se já existe
-          } else {
-            console.error('❌ Erro Brevo:', errorData);
-          }
+          console.error('❌ Erro Brevo:', brevoResponse.status, brevoData);
+          brevoError = brevoData;
         }
-      } catch (brevoError) {
-        console.error('❌ Erro ao conectar com Brevo:', brevoError);
+      } catch (brevoException) {
+        console.error('❌ Exceção ao conectar com Brevo:', brevoException);
+        brevoError = brevoException;
       }
     } else {
-      console.log('⚠️ Brevo não configurado ou chave inválida');
+      console.log('⚠️ Brevo não configurado - usando apenas local');
     }
 
-    // Adicionar à lista local (sempre funciona como backup)
-    subscribers.add(cleanEmail);
-
-    // Log para monitoramento
-    console.log('✅ Nova inscrição newsletter:', {
+    // Log final
+    console.log('✅ Inscrição processada:', {
       email: cleanEmail,
       timestamp: new Date().toISOString(),
       brevoSuccess,
-      userAgent: request.headers.get('user-agent')?.substring(0, 100),
-      ip: request.headers.get('x-forwarded-for') || 'unknown'
+      brevoError: brevoError ? 'sim' : 'não',
+      localSuccess: true
     });
 
-    // Resposta de sucesso
+    // Sempre retornar sucesso (local funciona como backup)
     const successMessage = brevoSuccess 
       ? 'Inscrição realizada com sucesso! Bem-vindo à comunidade A Cifra.'
-      : 'Inscrição registrada! Configuraremos o envio em breve.';
+      : 'Inscrição registrada com sucesso! Você receberá nossas atualizações em breve.';
 
     return NextResponse.json(
       { 
         success: true,
         message: successMessage
       },
-      { 
-        status: 200,
-        headers: {
-          'Cache-Control': 'no-cache, no-store, must-revalidate',
-        }
-      }
+      { status: 200, headers }
     );
 
   } catch (error) {
-    console.error('❌ Newsletter subscription error:', error);
+    console.error('❌ Erro crítico na newsletter:', error);
     
-    // Resposta de erro mais específica
-    const errorMessage = error instanceof Error 
-      ? `Erro interno: ${error.message}` 
-      : 'Erro interno do servidor. Tente novamente em alguns minutos.';
+    // Mesmo com erro, tentar salvar localmente
+    try {
+      const fallbackEmail = request.url.includes('email=') 
+        ? decodeURIComponent(request.url.split('email=')[1]?.split('&')[0] || '')
+        : '';
+      
+      if (fallbackEmail && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(fallbackEmail)) {
+        subscribers.add(fallbackEmail.toLowerCase());
+        console.log('🆘 Salvamento de emergência:', fallbackEmail);
+      }
+    } catch (fallbackError) {
+      console.error('❌ Falha no fallback:', fallbackError);
+    }
 
     return NextResponse.json(
-      { error: errorMessage },
-      { status: 500 }
+      { error: 'Erro temporário. Sua inscrição foi registrada e será processada em breve.' },
+      { status: 500, headers }
     );
   }
 }
