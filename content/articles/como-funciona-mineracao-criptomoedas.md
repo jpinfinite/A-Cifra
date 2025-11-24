@@ -89,7 +89,7 @@ Para a maioria das pessoas, participar de pools de mineração ou simplesmente c
 
 A mineração continua sendo essencial para a segurança das blockchains, mas requer análise cuidadosa antes de investir.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

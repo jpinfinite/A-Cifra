@@ -431,7 +431,7 @@ O futuro dos NFTs provavelmente verá expansão além da arte, com aplicações 
 
 > 💡 **Dica:** **Lembre-se:** O mercado de NFTs é altamente volátil e especulativo. Invista apenas o que pode perder e sempre faça sua própria pesquisa antes de comprar qualquer NFT.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

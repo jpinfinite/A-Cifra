@@ -253,7 +253,7 @@ Não, estamos apenas no início. A adoção institucional ainda está abaixo de 
 
 > *"O mercado cripto de 2025 é diferente: mais maduro, regulado e com fundamentos sólidos. A oportunidade agora está na qualidade e não na especulação pura."* - A Cifra
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

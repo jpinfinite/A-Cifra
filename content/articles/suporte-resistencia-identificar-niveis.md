@@ -99,7 +99,7 @@ A **análise de mercado** é fundamental para tomar decisões informadas. Este g
 
 Análise de mercado é uma habilidade que se desenvolve com prática e estudo contínuo. Use múltiplas ferramentas e sempre gerencie risco.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

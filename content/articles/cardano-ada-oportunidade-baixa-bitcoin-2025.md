@@ -482,7 +482,7 @@ Com Bitcoin em baixa, é o momento ideal para **diversificar** e posicionar-se e
 <strong>💎 Lembre-se:</strong> Enquanto outros têm medo (Bitcoin em baixa), os sábios acumulam ativos de qualidade. Cardano representa tecnologia superior a preço de oportunidade. Invista com responsabilidade e visão de longo prazo.
 </div>
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

@@ -84,7 +84,7 @@ A discussão entre **criptomoedas** e **moedas tradicionais** (fiat) é fundamen
 
 Não é uma questão de substituição, mas de coexistência. Ambos os sistemas têm seu lugar no futuro financeiro global.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

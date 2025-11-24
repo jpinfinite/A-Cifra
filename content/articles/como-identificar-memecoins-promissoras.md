@@ -217,7 +217,7 @@ Identificar memecoins promissoras é possível, mas:
 
 Lembre-se: memecoins são loteria com odds melhores, não investimento sério.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

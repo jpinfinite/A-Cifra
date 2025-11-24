@@ -85,7 +85,7 @@ Entender este conceito é fundamental para qualquer pessoa envolvida com criptom
 
 Dominar este conceito é essencial para navegar com sucesso no mundo das criptomoedas. Continue aprendendo e praticando!
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

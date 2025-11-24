@@ -385,7 +385,7 @@ O futuro é promissor para ambos os caminhos. O importante é estar exposto a es
 
 **Disclaimer**: Este artigo é apenas educacional. Não é recomendação de investimento. Criptomoedas são ativos de alto risco. Consulte um assessor financeiro antes de investir.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

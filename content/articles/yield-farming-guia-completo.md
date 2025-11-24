@@ -179,7 +179,7 @@ Yield farming pode gerar bons rendimentos, mas requer:
 
 Comece pequeno, aprenda e escale gradualmente.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

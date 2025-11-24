@@ -271,7 +271,7 @@ Para investidores, ATOM oferece exposição a um ecossistema em crescimento com 
 
 O Cosmos 2.0 promete trazer ainda mais utilidade ao ATOM, tornando o Cosmos Hub o centro de um universo interconectado de blockchains.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

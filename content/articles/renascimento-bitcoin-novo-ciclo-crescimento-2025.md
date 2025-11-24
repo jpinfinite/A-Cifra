@@ -183,7 +183,7 @@ No entanto, investidores devem manter uma abordagem equilibrada, considerando ta
 
 > 💡 **Dica:** **Lembre-se:** Invista apenas o que pode perder e sempre faça sua própria pesquisa (DYOR) antes de tomar decisões de investimento.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

@@ -451,7 +451,7 @@ O futuro da GameFi é promissor, mas requer abordagem cuidadosa e educada. Inves
 
 A GameFi não é apenas uma tendência passageira - é o futuro dos jogos digitais, onde diversão e recompensas financeiras coexistem em harmonia sustentável.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

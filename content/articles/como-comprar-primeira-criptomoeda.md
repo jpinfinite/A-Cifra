@@ -136,7 +136,7 @@ Após comprar sua primeira cripto:
 
 Parabéns por dar o primeiro passo no mundo cripto!
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

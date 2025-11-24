@@ -244,7 +244,7 @@ Quer se aprofundar mais no universo Bitcoin? Confira nossos outros artigos:
 
 *Última atualização: 21 de novembro de 2025*
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

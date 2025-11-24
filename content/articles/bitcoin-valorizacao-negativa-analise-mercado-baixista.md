@@ -336,7 +336,7 @@ A resposta depende do seu horizonte de tempo:
 - ⏰ Recuperação pode levar 3-12 meses
 - ✅ Oportunidade de acumulação para longo prazo
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

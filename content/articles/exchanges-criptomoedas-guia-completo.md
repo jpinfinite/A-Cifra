@@ -103,7 +103,7 @@ seo:
         <h3>ðŸŒ Exchanges Descentralizadas (DEX)</h3>
         <p>As <strong>exchanges descentralizadas</strong> representam a filosofia original do cripto: sem intermediários, sem controle central e com soberania total do usuário sobre seus ativos.</p>
         
-        <h4>ðŸš€ Vantagens das DEX:</h4>
+        <h4>🚀 Vantagens das DEX:</h4>
         <ul>
           <li><strong>Auto-custódia:</strong> Você controla 100% das chaves</li>
           <li><strong>Privacidade máxima:</strong> Sem KYC ou identificação</li>
@@ -359,7 +359,7 @@ seo:
         <p><em>"O mercado cripto é revolucionário, mas a segurança deve ser sua prioridade número um. Eduque-se, comece pequeno e cresça com responsabilidade."</em> - A Cifra</p>
       </blockquote>
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

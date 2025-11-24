@@ -132,7 +132,7 @@ A **análise on-chain** examina dados da blockchain para entender o comportament
 
 A análise de criptomoedas requer uma abordagem multidisciplinar que combine análise fundamentalista, técnica e on-chain. O sucesso vem da prática consistente e do uso de múltiplas fontes de informação para tomar decisões informadas.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

@@ -503,7 +503,7 @@ Em um mundo cada vez mais complexo e interconectado, a capacidade de navegar ent
 
 A revolução da descentralização está apenas começando, e aqueles que compreenderem suas nuances e potencialidades estarão melhor posicionados para moldar o futuro da distribuição de poder em nossa sociedade.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

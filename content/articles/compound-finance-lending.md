@@ -91,7 +91,7 @@ O **Compound** é um dos protocolos DeFi pioneiros, permitindo empréstimos e em
 
 Compound é sólido e confiável para empréstimos DeFi, ideal para quem busca simplicidade e segurança.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

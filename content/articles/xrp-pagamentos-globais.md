@@ -289,7 +289,7 @@ A vitória parcial contra a SEC trouxe clareza regulatória e renovou o interess
 
 Para investidores, XRP oferece exposição a um caso de uso claro e adoção institucional crescente, embora com riscos regulatórios e de centralização a considerar.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

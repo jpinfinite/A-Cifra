@@ -421,7 +421,7 @@ Investir em criptomoedas em 2025 é mais acessível e seguro do que nunca. Com e
 
 **Disclaimer:** Este artigo é apenas educacional e não constitui recomendação de investimento. Faça sua própria pesquisa (DYOR) e consulte um assessor financeiro se necessário.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

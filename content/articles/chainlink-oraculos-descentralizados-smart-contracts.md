@@ -234,7 +234,7 @@ Para investidores, LINK representa exposição a uma infraestrutura essencial qu
 
 À medida que mais aplicações blockchain precisam de dados externos, a importância e o valor do Chainlink tendem a crescer.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

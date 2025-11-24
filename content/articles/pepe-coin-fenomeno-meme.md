@@ -110,7 +110,7 @@ O PEPE cresceu de forma orgânica:
 
 O PEPE mostrou que memecoins continuam relevantes em 2023. No entanto, é puro jogo especulativo - não é investimento, é aposta.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

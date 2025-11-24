@@ -75,7 +75,7 @@ Optimism está construindo uma rede de L2s interoperáveis usando OP Stack.
 
 Optimism combina escalabilidade técnica com inovação social, criando um modelo sustentável para bens públicos.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

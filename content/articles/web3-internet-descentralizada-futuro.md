@@ -423,7 +423,7 @@ O futuro da internet está sendo construído agora, e todos podem participar. Co
 
 Web3 não é apenas sobre tecnologia - é sobre reimaginar como coordenamos, criamos valor e nos relacionamos no mundo digital.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

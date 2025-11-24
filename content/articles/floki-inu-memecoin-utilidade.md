@@ -119,7 +119,7 @@ O Floki tem mais fundamentos que memecoins puras:
 
 O Floki Inu está tentando provar que memecoins podem ter utilidade real. Seu sucesso dependerá da execução do roadmap e adoção dos produtos.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

@@ -152,7 +152,7 @@ A escolha da carteira depende do seu perfil:
 
 Lembre-se: "Not your keys, not your coins" - se você não controla as chaves, não controla as moedas.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

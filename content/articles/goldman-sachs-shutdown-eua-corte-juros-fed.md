@@ -248,7 +248,7 @@ Mantenha-se informado sobre:
 
 *Disclaimer: Este artigo é apenas para fins informativos e educacionais. Não constitui aconselhamento financeiro. Sempre faça sua própria pesquisa antes de tomar decisões de investimento.*
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

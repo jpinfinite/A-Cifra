@@ -40,7 +40,7 @@ O **Ethereum 2.0** representa a maior atualização da história da segunda maio
 
 Neste guia, você entenderá todas as mudanças do Ethereum 2.0 e seu impacto no futuro das criptomoedas.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

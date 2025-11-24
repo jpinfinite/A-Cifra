@@ -234,7 +234,7 @@ O Bitcoin está em um ponto de inflexão. Os gráficos sugerem cautela, mas os f
 - ⚠️ Cenário extremo aponta para US$ 52.800 se US$ 75K não segurar
 - ✅ Fundamentos de longo prazo permanecem sólidos
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

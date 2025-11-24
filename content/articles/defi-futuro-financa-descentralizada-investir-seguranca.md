@@ -311,7 +311,7 @@ Comece pequeno, aprenda constantemente e nunca invista mais do que pode perder. 
 
 > 💡 **Dica:** **Próximos Passos:** Continue sua educação DeFi, junte-se a comunidades, e sempre mantenha-se atualizado com as últimas tendências e desenvolvimentos.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

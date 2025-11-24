@@ -102,7 +102,7 @@ O Dogecoin é altamente especulativo:
 
 O Dogecoin provou que uma moeda criada como piada pode ter valor real quando tem uma comunidade forte. Seu futuro depende de adoção real além do hype.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

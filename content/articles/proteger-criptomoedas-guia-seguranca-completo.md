@@ -41,7 +41,7 @@ A **segurança** é o aspecto mais crítico ao lidar com criptomoedas. Diferente
 
 Neste guia completo, você aprenderá as melhores práticas para proteger suas criptomoedas contra todos os tipos de ameaças.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

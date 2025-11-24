@@ -177,7 +177,7 @@ A aprovação do ETF Spot de Solana pode ser o evento que desbloqueia o próximo
 
 No entanto, investidores devem manter uma abordagem equilibrada, considerando tanto as oportunidades quanto os riscos. A jornada para $300 pode não ser linear, mas os fundamentos sugerem que é uma meta alcançável dentro do horizonte de 12-18 meses.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

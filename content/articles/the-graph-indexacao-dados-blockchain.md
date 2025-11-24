@@ -300,7 +300,7 @@ Para investidores, GRT oferece exposição a uma camada de infraestrutura críti
 
 À medida que mais blockchains são suportadas e mais dApps são construídos, a demanda por serviços de indexação do The Graph tende a crescer significativamente.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

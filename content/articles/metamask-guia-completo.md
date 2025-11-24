@@ -389,7 +389,7 @@ Geralmente por gas fee baixo ou rede congestionada. Você pode acelerar aumentan
 
 > *"MetaMask não é apenas uma carteira, é sua chave para o futuro descentralizado. Use com sabedoria e segurança."* - A Cifra
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

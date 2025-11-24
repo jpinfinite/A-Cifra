@@ -112,7 +112,7 @@ Perda impermanente é real, mas pode ser compensada por:
 
 Calcule sempre antes de fornecer liquidez!
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

@@ -179,7 +179,7 @@ Com sua arquitetura inovadora de parachains, governança descentralizada e foco 
 
 Para investidores, o DOT oferece múltiplas oportunidades: staking, participação em crowdloans e exposição a um dos projetos mais tecnicamente avançados do espaço cripto.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

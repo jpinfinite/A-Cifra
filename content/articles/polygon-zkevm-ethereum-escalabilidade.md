@@ -193,7 +193,7 @@ Com o zkEVM, o Polygon está se posicionando para a próxima geração de escala
 
 Para investidores, MATIC oferece exposição a uma infraestrutura essencial que está sendo adotada por aplicações DeFi, NFTs, gaming e até empresas tradicionais.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

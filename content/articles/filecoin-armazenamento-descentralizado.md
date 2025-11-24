@@ -69,7 +69,7 @@ Prova contínua de armazenamento ao longo do tempo.
 
 Filecoin está construindo a infraestrutura de armazenamento para Web3.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

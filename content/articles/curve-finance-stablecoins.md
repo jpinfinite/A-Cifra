@@ -75,7 +75,7 @@ O **Curve Finance** é a DEX líder para trading de stablecoins, oferecendo baix
 
 Curve é ideal para farming conservador com stablecoins e rendimentos estáveis.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

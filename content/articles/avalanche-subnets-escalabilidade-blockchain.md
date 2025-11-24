@@ -240,7 +240,7 @@ Com seu consenso inovador, compatibilidade com Ethereum e foco em casos de uso c
 
 Para investidores, AVAX oferece exposição a uma plataforma que está atraindo desenvolvedores, usuários e até empresas tradicionais, com a vantagem adicional de recompensas de staking atrativas.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

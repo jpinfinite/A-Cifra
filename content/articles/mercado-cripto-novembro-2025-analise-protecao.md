@@ -717,7 +717,7 @@ Muita gente estava alavancada em R$ 520k-550k e foi liquidada.
 
 **Fontes:** CoinMarketCap, TradingView, Glassnode, CryptoQuant, análise própria do mercado.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

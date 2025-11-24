@@ -447,7 +447,7 @@ Para investidores interessados em participar, é essencial começar com educaç�
 
 O futuro das finanças é descentralizado, e as pools de liquidez são o motor que impulsiona essa transformação revolucionária.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
