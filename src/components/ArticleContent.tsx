@@ -3,7 +3,6 @@
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
-import Image from 'next/image'
 import { Article } from '@/types'
 import { useMemo } from 'react'
 import { addInlineLinks } from '@/utils/relatedArticles'
@@ -115,25 +114,25 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               {children}
             </pre>
           ),
-          img: ({ src, alt }) => (
-            <figure className="my-10">
-              <div className="relative w-full h-auto">
-                <Image
+          img: ({ src, alt }) => {
+            // Usar img nativa para evitar problemas de hidratação com Next.js Image
+            return (
+              <figure className="my-10">
+                <img
                   src={src || ''}
                   alt={alt || ''}
-                  width={1200}
-                  height={630}
                   className="rounded-2xl w-full shadow-xl hover:shadow-2xl transition-shadow duration-300"
                   loading="lazy"
+                  decoding="async"
                 />
-              </div>
-              {alt && (
-                <figcaption className="text-center text-sm text-gray-600 mt-3 italic">
-                  {alt}
-                </figcaption>
-              )}
-            </figure>
-          ),
+                {alt && (
+                  <figcaption className="text-center text-sm text-gray-600 mt-3 italic">
+                    {alt}
+                  </figcaption>
+                )}
+              </figure>
+            )
+          },
           a: ({ href, children }) => (
             <a
               href={href}
