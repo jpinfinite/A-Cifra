@@ -106,10 +106,8 @@ No Brasil, criptomoedas são tratadas como **bens e direitos**, similar a:
 ### Alíquota: 15% sobre o Lucro
 
 **Fórmula simples:**
-```
-Lucro = Preço de Venda - Preço de Compra - Taxas
-Imposto = Lucro × 15%
-```
+```text$([Environment]::NewLine)Lucro = Preço de Venda - Preço de Compra - Taxas
+Imposto = Lucro × 15%$([Environment]::NewLine)```
 
 ### Exemplo Prático 1: Operação Simples
 
@@ -166,9 +164,7 @@ Imposto = Lucro × 15%
 ### Como Funciona
 
 **Fórmula:**
-```
-Custo Médio = (Valor Total Investido) / (Quantidade Total)
-```
+```text$([Environment]::NewLine)Custo Médio = (Valor Total Investido) / (Quantidade Total)$([Environment]::NewLine)```
 
 ### Exemplo Detalhado
 
@@ -268,11 +264,9 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 - **82** - Outros criptoativos
 
 **Discriminação (exemplo):**
-```
-0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
+```text$([Environment]::NewLine)0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
 Custo médio de aquisição: R$ 114.000 por BTC.
-Carteira: bc1q... (primeiros e últimos caracteres)
-```
+Carteira: bc1q... (primeiros e últimos caracteres)$([Environment]::NewLine)```
 
 **Situação em 31/12/2024:**
 - Quantidade: 0,5 BTC
@@ -290,10 +284,8 @@ Carteira: bc1q... (primeiros e últimos caracteres)
 - **69** - Depósito em conta no exterior
 
 **Discriminação:**
-```
-Saldo em criptomoedas na exchange Binance (Malta).
-Valor aproximado em 31/12: R$ 25.000
-```
+```text$([Environment]::NewLine)Saldo em criptomoedas na exchange Binance (Malta).
+Valor aproximado em 31/12: R$ 25.000$([Environment]::NewLine)```
 
 ### 4. Declare Ganhos de Capital
 
@@ -431,9 +423,7 @@ Valor aproximado em 31/12: R$ 25.000
 - ⚠️ Não escala bem
 
 **Template:**
-```
-Data | Operação | Cripto | Quantidade | Valor BRL | Custo Médio | Lucro/Prejuízo
-```
+```text$([Environment]::NewLine)Data | Operação | Cripto | Quantidade | Valor BRL | Custo Médio | Lucro/Prejuízo$([Environment]::NewLine)```
 
 ### 4. Receita Federal (Sicalc)
 

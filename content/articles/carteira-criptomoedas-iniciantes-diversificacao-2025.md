@@ -71,8 +71,7 @@ Montar uma carteira equilibrada é a diferença entre **crescimento sustentável
 
 Pense em sua carteira como uma pirâmide:
 
-```
-        🎲 Alto Risco (10-20%)
+```text$([Environment]::NewLine)        🎲 Alto Risco (10-20%)
        Memecoins, Novos Projetos
       
      📈 Médio Risco (20-30%)
@@ -80,8 +79,7 @@ Pense em sua carteira como uma pirâmide:
    (SOL, ADA, MATIC, AVAX)
   
   💎 Baixo Risco (50-70%)
- Bitcoin, Ethereum, Stablecoins
-```
+ Bitcoin, Ethereum, Stablecoins$([Environment]::NewLine)```
 
 **Base sólida:** Ativos consolidados
 **Meio:** Projetos promissores
@@ -693,11 +691,9 @@ Pense em sua carteira como uma pirâmide:
 - ✅ Aprende no processo
 
 **Template básico:**
-```
-Ativo | Quantidade | Preço Compra | Valor Atual | % Portfólio | Lucro/Prejuízo
+```text$([Environment]::NewLine)Ativo | Quantidade | Preço Compra | Valor Atual | % Portfólio | Lucro/Prejuízo
 BTC   | 0.5        | R$ 100.000   | R$ 120.000  | 50%         | +20%
-ETH   | 5          | R$ 12.000    | R$ 15.000   | 30%         | +25%
-```
+ETH   | 5          | R$ 12.000    | R$ 15.000   | 30%         | +25%$([Environment]::NewLine)```
 
 ---
 

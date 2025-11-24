@@ -73,13 +73,11 @@ Se você pensou que Layer 2 era o fim da evolução de escalabilidade blockchain
 Um rollup (L3) que posta seus dados em outro rollup (L2), que posta no Ethereum (L1).
 
 **Exemplo:**
-```
-Ethereum (L1)
+```text$([Environment]::NewLine)Ethereum (L1)
     ↓
 Arbitrum (L2)
     ↓
-Xai Gaming Chain (L3)
-```
+Xai Gaming Chain (L3)$([Environment]::NewLine)```
 
 **Vantagens:**
 - Segurança herdada do Ethereum

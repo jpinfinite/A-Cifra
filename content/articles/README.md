@@ -1,4 +1,4 @@
----
+﻿---
 id: 'readme-articles'
 title: 'Documentação - Como Adicionar Artigos'
 slug: 'documentacao-artigos'
@@ -64,13 +64,10 @@ seo:
     - 'palavra-chave 1'
     - 'palavra-chave 2'
 ---
-```
-
-### Conteúdo do Artigo
+```text$([Environment]::NewLine)### Conteúdo do Artigo
 
 Após o frontmatter, escreva o conteúdo em Markdown:
-
-```markdown
+$([Environment]::NewLine)```markdown
 # Título Principal
 
 Introdução com **negrito** e *itálico*.
@@ -87,39 +84,27 @@ Conteúdo da seção.
 ## Seção 2
 
 Mais conteúdo.
-```
-
-## Componentes Especiais
+```text$([Environment]::NewLine)## Componentes Especiais
 
 Você pode usar divs com classes especiais para destacar conteúdo:
 
 ### Caixa de Dica
-
-```html
+$([Environment]::NewLine)```html
 <div class="tip-box">
   <p><strong>Dica:</strong> Seu texto aqui.</p>
 </div>
-```
-
-### Caixa de Alerta
-
-```html
+```text$([Environment]::NewLine)### Caixa de Alerta
+$([Environment]::NewLine)```html
 <div class="alert-box">
   <p><strong>Atenção:</strong> Seu texto aqui.</p>
 </div>
-```
-
-### Caixa de Conclusão
-
-```html
+```text$([Environment]::NewLine)### Caixa de Conclusão
+$([Environment]::NewLine)```html
 <div class="conclusion-box">
   <p><strong>Conclusão:</strong> Seu texto aqui.</p>
 </div>
-```
-
-### Imagem com Legenda
-
-```html
+```text$([Environment]::NewLine)### Imagem com Legenda
+$([Environment]::NewLine)```html
 <div class="article-image">
   <img src="/images/sua-imagem.jpg" alt="Descrição" />
   <p class="image-caption">Legenda da imagem</p>

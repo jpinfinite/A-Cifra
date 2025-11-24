@@ -112,13 +112,11 @@ Você quer trocar USDC por ETH. Normalmente precisa de ETH para pagar gas. Com A
 Múltiplas ações em uma única transação.
 
 **Exemplo:**
-```
-Transação única:
+```text$([Environment]::NewLine)Transação única:
 1. Aprovar USDC
 2. Swap USDC → ETH
 3. Stake ETH
-4. Claim rewards
-```
+4. Claim rewards$([Environment]::NewLine)```
 
 **Benefícios:**
 - Mais barato (1 gas fee vs 4)
@@ -226,8 +224,7 @@ Autorize jogo a gastar até 10 USDC por dia por 7 dias. Depois, permissão expir
 
 ### Fluxo de Transação
 
-```
-1. Usuário cria UserOperation
+```text$([Environment]::NewLine)1. Usuário cria UserOperation
 2. Assina com sua chave
 3. Envia para Bundler
 4. Bundler valida
@@ -235,8 +232,7 @@ Autorize jogo a gastar até 10 USDC por dia por 7 dias. Depois, permissão expir
 6. Submete ao EntryPoint
 7. EntryPoint executa
 8. Paymaster paga gas (se aplicável)
-9. Transação confirmada
-```
+9. Transação confirmada$([Environment]::NewLine)```
 
 ## Carteiras com Account Abstraction em 2026
 
