@@ -21,13 +21,20 @@ export default function NewsletterForm() {
         setMessage('');
 
         try {
+            // Timeout de 10 segundos para evitar travamento
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 10000);
+
             const response = await fetch('/api/newsletter/subscribe', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({ email: email.trim().toLowerCase() }),
+                signal: controller.signal,
             });
+
+            clearTimeout(timeoutId);
 
             const data = await response.json();
 
@@ -47,10 +54,20 @@ export default function NewsletterForm() {
                 setStatus('error');
                 setMessage(data.error || 'Erro ao processar inscrição. Tente novamente.');
             }
-        } catch (error) {
+        } catch (error: any) {
             console.error('Newsletter error:', error);
             setStatus('error');
-            setMessage('Erro de conexão. Verifique sua internet e tente novamente.');
+            
+            // Verificar tipo de erro para dar feedback mais específico
+            if (error.name === 'AbortError') {
+                setMessage('Tempo limite excedido. Verifique sua conexão e tente novamente.');
+            } else if (error instanceof TypeError && error.message.includes('fetch')) {
+                setMessage('Erro de conexão. Verifique sua internet e tente novamente.');
+            } else if (error instanceof SyntaxError) {
+                setMessage('Erro no servidor. Tente novamente em alguns minutos.');
+            } else {
+                setMessage('Erro inesperado. Tente novamente ou entre em contato conosco.');
+            }
         }
     };
 
@@ -100,6 +117,17 @@ export default function NewsletterForm() {
                             }`}
                     >
                         {message}
+                        {status === 'error' && (
+                            <button
+                                onClick={() => {
+                                    setStatus('idle');
+                                    setMessage('');
+                                }}
+                                className="ml-2 text-sm underline hover:no-underline"
+                            >
+                                Tentar novamente
+                            </button>
+                        )}
                     </div>
                 )}
             </form>
