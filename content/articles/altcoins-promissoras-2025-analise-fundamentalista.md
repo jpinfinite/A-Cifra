@@ -396,35 +396,29 @@ Injective é uma exchange descentralizada focada em derivativos, com velocidade 
 ## 💼 Como Montar Seu Portfolio
 
 ### Portfolio Conservador (Menor Risco)
-```text
-50% - Ethereum (ETH)
-30% - Solana (SOL)
-10% - Chainlink (LINK)
-10% - Polygon (MATIC)
-```
+- **50%** - Ethereum (ETH)
+- **30%** - Solana (SOL)
+- **10%** - Chainlink (LINK)
+- **10%** - Polygon (MATIC)
 **Retorno esperado:** 2x - 4x  
 **Risco:** Baixo a médio
 
 ### Portfolio Moderado (Equilibrado)
-```text
-40% - Ethereum (ETH)
-25% - Solana (SOL)
-15% - Chainlink (LINK)
-10% - Arbitrum (ARB)
-10% - Avalanche (AVAX)
-```
+- **40%** - Ethereum (ETH)
+- **25%** - Solana (SOL)
+- **15%** - Chainlink (LINK)
+- **10%** - Arbitrum (ARB)
+- **10%** - Avalanche (AVAX)
 **Retorno esperado:** 3x - 5x  
 **Risco:** Médio
 
 ### Portfolio Agressivo (Alto Risco/Retorno)
-```text
-30% - Ethereum (ETH)
-20% - Solana (SOL)
-15% - The Graph (GRT)
-15% - Render (RNDR)
-10% - Injective (INJ)
-10% - Arbitrum (ARB)
-```
+- **30%** - Ethereum (ETH)
+- **20%** - Solana (SOL)
+- **15%** - The Graph (GRT)
+- **15%** - Render (RNDR)
+- **10%** - Injective (INJ)
+- **10%** - Arbitrum (ARB)
 **Retorno esperado:** 4x - 8x  
 **Risco:** Alto
 
