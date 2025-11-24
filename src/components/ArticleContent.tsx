@@ -22,14 +22,18 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       processedContent = addInlineLinks(processedContent, relatedArticles)
     }
     
-    // Substitui <ExchangeAffiliateLinks /> por um marcador único
-    processedContent = processedContent.replace(
-      /<ExchangeAffiliateLinks\s*\/>/g,
-      '___EXCHANGE_AFFILIATE_LINKS___'
-    )
-    
     return processedContent
   }, [content, relatedArticles])
+
+  // Processa o conteúdo para substituir componentes
+  const finalContent = useMemo(() => {
+    return enhancedContent.split('<ExchangeAffiliateLinks />').map((part, index, array) => {
+      if (index === array.length - 1) {
+        return part
+      }
+      return part + '\n\n___EXCHANGE_AFFILIATE_LINKS___\n\n'
+    }).join('')
+  }, [enhancedContent])
 
   return (
     <div className="prose prose-xl max-w-none article-content" suppressHydrationWarning>
@@ -62,6 +66,11 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
             // Verifica se o parágrafo contém o marcador de afiliados
             const childrenString = String(children)
             if (childrenString.includes('___EXCHANGE_AFFILIATE_LINKS___')) {
+              return <ExchangeAffiliateLinks />
+            }
+            
+            // Verifica se é apenas o marcador sem outros elementos
+            if (childrenString.trim() === '___EXCHANGE_AFFILIATE_LINKS___') {
               return <ExchangeAffiliateLinks />
             }
             
@@ -186,7 +195,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
           ),
         }}
       >
-        {enhancedContent}
+        {finalContent}
       </ReactMarkdown>
       
       <style jsx global>{`
