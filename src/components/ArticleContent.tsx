@@ -96,10 +96,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               </div>
             </blockquote>
           ),
-          code: (props) => {
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            const { inline, children, className } = props as any
-            
+          code: ({ inline, children, className }: { inline?: boolean; children?: React.ReactNode; className?: string }) => {
             return inline ? (
               <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold">
                 {children}

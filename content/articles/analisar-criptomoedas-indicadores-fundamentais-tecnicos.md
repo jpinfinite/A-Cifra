@@ -40,7 +40,7 @@ Analisar criptomoedas é uma habilidade essencial para qualquer investidor que d
 
 Neste guia completo, você aprenderá os principais indicadores e métricas para avaliar projetos de criptomoedas.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

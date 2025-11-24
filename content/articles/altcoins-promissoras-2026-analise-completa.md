@@ -538,36 +538,42 @@ Ethereum é uma posição core em qualquer portfolio de altcoins. Alocação rec
 ### Estratégia por Perfil de Risco
 
 #### Conservador (Menor Risco)
-```text40% - Ethereum (ETH)
+```text
+40% - Ethereum (ETH)
 25% - Solana (SOL)
 15% - Chainlink (LINK)
 10% - Polygon (MATIC)
-10% - Avalanche (AVAX)```
+10% - Avalanche (AVAX)
+```
 
 **Retorno esperado:** 2x - 4x  
 **Risco:** Baixo a médio
 
 #### Moderado (Risco Equilibrado)
-```text30% - Ethereum (ETH)
+```text
+30% - Ethereum (ETH)
 20% - Solana (SOL)
 15% - Arbitrum (ARB)
 10% - Chainlink (LINK)
 10% - Render (RNDR)
 10% - Injective (INJ)
-5% - The Graph (GRT)```
+5% - The Graph (GRT)
+```
 
 **Retorno esperado:** 3x - 6x  
 **Risco:** Médio
 
 #### Agressivo (Alto Risco/Retorno)
-```text25% - Ethereum (ETH)
+```text
+25% - Ethereum (ETH)
 15% - Solana (SOL)
 15% - Sui (SUI)
 10% - The Graph (GRT)
 10% - Stacks (STX)
 10% - Celestia (TIA)
 10% - Immutable (IMX)
-5% - Render (RNDR)```
+5% - Render (RNDR)
+```
 
 **Retorno esperado:** 5x - 10x  
 **Risco:** Alto

@@ -1,0 +1,69 @@
+2025-11-24T05:47:48.344601Z	Cloning repository...
+2025-11-24T05:47:55.710127Z	From https://github.com/jpinfinite/A-Cifra
+2025-11-24T05:47:55.710526Z	 * branch            f9e6185e087f97b8aa4d6d5372d93bba6e53ed30 -> FETCH_HEAD
+2025-11-24T05:47:55.710628Z	
+2025-11-24T05:47:56.834226Z	HEAD is now at f9e6185 fix: remover props inválidas do componente code que causam hidratação
+2025-11-24T05:47:56.834687Z	
+2025-11-24T05:47:56.911218Z	
+2025-11-24T05:47:56.91157Z	Using v2 root directory strategy
+2025-11-24T05:47:56.935267Z	Success: Finished cloning repository files
+2025-11-24T05:47:57.632724Z	Restoring from dependencies cache
+2025-11-24T05:47:57.649485Z	Restoring from build output cache
+2025-11-24T05:47:58.553013Z	Success: Build output restored from build cache.
+2025-11-24T05:47:59.342168Z	Success: Dependencies restored from build cache.
+2025-11-24T05:48:00.369447Z	Checking for configuration in a Wrangler configuration file (BETA)
+2025-11-24T05:48:00.370278Z	
+2025-11-24T05:48:00.371582Z	Found wrangler.toml file. Reading build configuration...
+2025-11-24T05:48:01.496798Z	A wrangler.toml file was found but it does not appear to be valid. Did you mean to use wrangler.toml to configure Pages? If so, then make sure the file is valid and contains the `pages_build_output_dir` property. Skipping file and continuing.
+2025-11-24T05:48:01.573679Z	Detected the following tools from environment: nodejs@18.20.8, npm@10.9.2
+2025-11-24T05:48:01.574169Z	Installing nodejs 18.20.8
+2025-11-24T05:48:02.552157Z	Trying to update node-build... ok
+2025-11-24T05:48:02.642248Z	To follow progress, use 'tail -f /tmp/node-build.20251124054802.506.log' or pass --verbose
+2025-11-24T05:48:02.735245Z	Downloading node-v18.20.8-linux-x64.tar.gz...
+2025-11-24T05:48:02.987682Z	-> https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-x64.tar.gz
+2025-11-24T05:48:04.703086Z	
+2025-11-24T05:48:04.703379Z	WARNING: node-v18.20.8-linux-x64 is in LTS Maintenance mode and nearing its end of life.
+2025-11-24T05:48:04.703641Z	It only receives *critical* security updates, *critical* bug fixes and documentation updates.
+2025-11-24T05:48:04.703814Z	
+2025-11-24T05:48:04.703963Z	Installing node-v18.20.8-linux-x64...
+2025-11-24T05:48:05.079606Z	Installed node-v18.20.8-linux-x64 to /opt/buildhome/.asdf/installs/nodejs/18.20.8
+2025-11-24T05:48:05.079877Z	
+2025-11-24T05:48:06.082656Z	Installing project dependencies: npm clean-install --progress=false
+2025-11-24T05:48:10.187665Z	npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+2025-11-24T05:48:10.298801Z	npm warn deprecated @humanwhocodes/config-array@0.13.0: Use @eslint/config-array instead
+2025-11-24T05:48:10.306626Z	npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+2025-11-24T05:48:10.396385Z	npm warn deprecated @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead
+2025-11-24T05:48:10.397533Z	npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+2025-11-24T05:48:10.439306Z	npm warn deprecated formidable@1.2.6: Please upgrade to latest, formidable@v2 or formidable@v3! Check these notes: https://bit.ly/2ZEqIau
+2025-11-24T05:48:10.507744Z	npm warn deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+2025-11-24T05:48:10.863537Z	npm warn deprecated superagent@3.7.0: Please upgrade to superagent v10.2.2+, see release notes at https://github.com/forwardemail/superagent/releases/tag/v10.2.2 - maintenance is supported by Forward Email @ https://forwardemail.net
+2025-11-24T05:48:11.558793Z	npm warn deprecated eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+2025-11-24T05:48:11.716837Z	npm warn deprecated sib-api-v3-sdk@8.5.0: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+2025-11-24T05:48:15.742489Z	
+2025-11-24T05:48:15.74685Z	> a-cifra-blog@0.1.0 prepare
+2025-11-24T05:48:15.75257Z	> npm run lint
+2025-11-24T05:48:15.757403Z	
+2025-11-24T05:48:15.958486Z	
+2025-11-24T05:48:15.958725Z	> a-cifra-blog@0.1.0 lint
+2025-11-24T05:48:15.958875Z	> next lint
+2025-11-24T05:48:15.959004Z	
+2025-11-24T05:48:19.438364Z	
+2025-11-24T05:48:19.43891Z	./src/components/ArticleContent.tsx
+2025-11-24T05:48:19.439083Z	101:50  Error: 'node' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+2025-11-24T05:48:19.439343Z	103:19  Error: 'cleanProps' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+2025-11-24T05:48:19.43966Z	108:37  Warning: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+2025-11-24T05:48:19.439788Z	129:17  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+2025-11-24T05:48:19.439898Z	
+2025-11-24T05:48:19.440032Z	info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules
+2025-11-24T05:48:19.561729Z	npm error code 1
+2025-11-24T05:48:19.561911Z	npm error path /opt/buildhome/repo
+2025-11-24T05:48:19.562235Z	npm error command failed
+2025-11-24T05:48:19.562801Z	npm error command sh -c npm run lint
+2025-11-24T05:48:19.563769Z	npm error A complete log of this run can be found in: /opt/buildhome/.npm/_logs/2025-11-24T05_48_06_400Z-debug-0.log
+2025-11-24T05:48:19.589484Z	Error: Exit with error code: 1
+2025-11-24T05:48:19.589653Z	    at ChildProcess.<anonymous> (/snapshot/dist/run-build.js)
+2025-11-24T05:48:19.589772Z	    at Object.onceWrapper (node:events:652:26)
+2025-11-24T05:48:19.589902Z	    at ChildProcess.emit (node:events:537:28)
+2025-11-24T05:48:19.590012Z	    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2025-11-24T05:48:19.598843Z	Failed: build command exited with code: 1
+2025-11-24T05:48:20.853512Z	Failed: error occurred while running build command

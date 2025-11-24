@@ -160,7 +160,7 @@ And remember: **privacy-focused assets involve specific risks**. Always consult 
 - [Zcash Technical Documentation](https://z.cash/technology/)
 - [Dash Privacy Guide](https://docs.dash.org/en/stable/wallets/dashcore/privatesend-instantsend.html)
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Start Investing in Cryptocurrencies
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

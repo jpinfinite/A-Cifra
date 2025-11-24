@@ -37,7 +37,7 @@ As **altcoins** (alternative coins) representam todas as criptomoedas além do B
 
 Neste artigo, vamos analisar as altcoins mais promissoras para 2025 com base em fundamentos sólidos.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

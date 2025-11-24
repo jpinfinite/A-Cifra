@@ -106,8 +106,10 @@ No Brasil, criptomoedas são tratadas como **bens e direitos**, similar a:
 ### Alíquota: 15% sobre o Lucro
 
 **Fórmula simples:**
-```textLucro = Preço de Venda - Preço de Compra - Taxas
-Imposto = Lucro × 15%```
+```text
+Lucro = Preço de Venda - Preço de Compra - Taxas
+Imposto = Lucro × 15%
+```
 
 ### Exemplo Prático 1: Operação Simples
 
@@ -164,7 +166,9 @@ Imposto = Lucro × 15%```
 ### Como Funciona
 
 **Fórmula:**
-```textCusto Médio = (Valor Total Investido) / (Quantidade Total)```
+```text
+Custo Médio = (Valor Total Investido) / (Quantidade Total)
+```
 
 ### Exemplo Detalhado
 
@@ -264,9 +268,11 @@ Imposto = Lucro × 15%```
 - **82** - Outros criptoativos
 
 **Discriminação (exemplo):**
-```text0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
+```text
+0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
 Custo médio de aquisição: R$ 114.000 por BTC.
-Carteira: bc1q... (primeiros e últimos caracteres)```
+Carteira: bc1q... (primeiros e últimos caracteres)
+```
 
 **Situação em 31/12/2024:**
 - Quantidade: 0,5 BTC
@@ -284,8 +290,10 @@ Carteira: bc1q... (primeiros e últimos caracteres)```
 - **69** - Depósito em conta no exterior
 
 **Discriminação:**
-```textSaldo em criptomoedas na exchange Binance (Malta).
-Valor aproximado em 31/12: R$ 25.000```
+```text
+Saldo em criptomoedas na exchange Binance (Malta).
+Valor aproximado em 31/12: R$ 25.000
+```
 
 ### 4. Declare Ganhos de Capital
 
@@ -423,7 +431,8 @@ Valor aproximado em 31/12: R$ 25.000```
 - ⚠️ Não escala bem
 
 **Template:**
-```textData | Operação | Cripto | Quantidade | Valor BRL | Custo Médio | Lucro/Prejuízo```
+```textData | Operação | Cripto | Quantidade | Valor BRL | Custo Médio | Lucro/Prejuízo
+```
 
 ### 4. Receita Federal (Sicalc)
 

@@ -399,7 +399,7 @@ O lançamento do Aave App não é apenas mais um produto DeFi. É uma **declara�
 - ✨ Zero complexidade — sem carteiras, gas ou frases-semente
 - 🌍 Acesso global 24/7 a poupança em dólares/euros
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

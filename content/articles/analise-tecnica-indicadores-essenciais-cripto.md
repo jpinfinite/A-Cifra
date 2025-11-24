@@ -20,11 +20,6 @@ seo:
   metaDescription: "Domine os principais indicadores técnicos para trading de criptomoedas: RSI, MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas."
   keywords: ["análise técnica", "trading", "indicadores", "rsi", "macd", "gráficos"]
 ---
-seo:
-  metaTitle: "Análise Técnica: Indicadores Essenciais para Cripto | A Cifra"
-  metaDescription: "Domine os principais indicadores técnicos para trading de criptomoedas: RSI, MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas."
-  keywords: ["análise técnica", "trading", "indicadores", "rsi", "macd", "gráficos"]
----
 
 # Análise Técnica: Indicadores Essenciais para Cripto
 
@@ -388,7 +383,7 @@ Combine análise técnica com fundamentalista para melhores resultados. A técni
 
 Pratique em conta demo, mantenha um diário de trades e aprenda com seus erros. Com tempo e dedicação, você desenvolverá sua própria estratégia vencedora.
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

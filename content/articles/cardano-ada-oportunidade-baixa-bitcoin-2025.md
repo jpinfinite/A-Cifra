@@ -199,11 +199,13 @@ Cardano separa funcionalidades em duas camadas:
 
 ### Passo 2: Compre ADA
 
-```text1. Cadastre-se na exchange
+```text
+1. Cadastre-se na exchange
 2. Faça KYC (verificação de identidade)
 3. Deposite reais via PIX
 4. Compre ADA no par ADA/BRL
-5. Transfira para carteira própria```
+5. Transfira para carteira própria
+```
 
 ### Passo 3: Armazene com Segurança
 
@@ -318,10 +320,12 @@ Cardano separa funcionalidades em duas camadas:
 ### Para Iniciantes
 
 **Estratégia DCA (Dollar Cost Averaging):**
-```textInvestimento mensal: R$ 500
+```text
+Investimento mensal: R$ 500
 Período: 12 meses
 Total investido: R$ 6.000
-Benefício: Reduz risco de timing```
+Benefício: Reduz risco de timing
+```
 
 **Alocação Sugerida:**
 - 40% Bitcoin (segurança)

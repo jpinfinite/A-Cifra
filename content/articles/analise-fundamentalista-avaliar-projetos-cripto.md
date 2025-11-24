@@ -20,11 +20,6 @@ seo:
   metaDescription: "Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe, tecnologia, tokenomics e potencial de adoção para tomar decisões de investimento informadas."
   keywords: ["análise fundamentalista", "investimento", "avaliação", "due diligence", "pesquisa"]
 ---
-seo:
-  metaTitle: "Análise Fundamentalista: Como Avaliar Projetos Cripto | A Cifra"
-  metaDescription: "Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe, tecnologia, tokenomics e potencial de adoção para tomar decisões de investimento informadas."
-  keywords: ["análise fundamentalista", "investimento", "avaliação", "due diligence", "pesquisa"]
----
 
 # Análise Fundamentalista: Como Avaliar Projetos Cripto
 
@@ -335,7 +330,7 @@ Lembre-se: no mercado cripto, a maioria dos projetos falhará. Sua tarefa é ide
 
 Invista tempo em educação, desenvolva suas habilidades de análise e sempre faça sua própria pesquisa (DYOR - Do Your Own Research).
 
-## ðŸš€ Comece a Investir em Criptomoedas
+## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 

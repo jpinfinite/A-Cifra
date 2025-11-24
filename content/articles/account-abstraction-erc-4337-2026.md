@@ -112,7 +112,7 @@ Você quer trocar USDC por ETH. Normalmente precisa de ETH para pagar gas. Com A
 Múltiplas ações em uma única transação.
 
 **Exemplo:**
-`	ext
+```text
 Transação única:
 1. Aprovar USDC
 2. Swap USDC → ETH
@@ -226,7 +226,7 @@ Autorize jogo a gastar até 10 USDC por dia por 7 dias. Depois, permissão expir
 
 ### Fluxo de Transação
 
-`	ext
+```text
 1. Usuário cria UserOperation
 2. Assina com sua chave
 3. Envia para Bundler
