@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Equipe A Cifra'
   avatar: '/avatar.png'
-publishedAt: '2025-01-15'
-updatedAt: '2025-01-15'
+publishedAt: '2025-11-24'
+updatedAt: '2025-11-24'
 categorySlug: 'analises'
 tags: ['bitcoin', 'análise técnica', 'trading', 'ciclo de mercado', 'capitulação']
 seo:
