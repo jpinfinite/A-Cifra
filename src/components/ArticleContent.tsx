@@ -98,13 +98,21 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
           ),
           code: (props) => {
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            const { inline, children, className, ...rest } = props as any
+            const { inline, children, className, node, ...rest } = props as any
+            // Remover props que causam problemas de hidratação
+            const cleanProps = Object.keys(rest).reduce((acc, key) => {
+              if (!key.startsWith('data-') && key !== 'node') {
+                acc[key] = rest[key]
+              }
+              return acc
+            }, {} as Record<string, any>)
+            
             return inline ? (
-              <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold" {...rest}>
+              <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold">
                 {children}
               </code>
             ) : (
-              <code className={`block bg-gray-900 text-gray-100 p-6 rounded-xl overflow-x-auto my-8 font-mono text-sm leading-relaxed shadow-lg ${className || ''}`} {...rest}>
+              <code className={`block bg-gray-900 text-gray-100 p-6 rounded-xl overflow-x-auto my-8 font-mono text-sm leading-relaxed shadow-lg ${className || ''}`}>
                 {children}
               </code>
             )
