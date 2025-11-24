@@ -21,14 +21,17 @@ export default function NewsletterForm() {
         setMessage('');
 
         try {
-            // Timeout de 10 segundos para evitar travamento
+            // Timeout de 15 segundos
             const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 10000);
+            const timeoutId = setTimeout(() => controller.abort(), 15000);
+
+            console.log('📤 Enviando newsletter request:', { email: email.trim().toLowerCase() });
 
             const response = await fetch('/api/newsletter/subscribe', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
+                    'Accept': 'application/json',
                 },
                 body: JSON.stringify({ email: email.trim().toLowerCase() }),
                 signal: controller.signal,
@@ -36,14 +39,27 @@ export default function NewsletterForm() {
 
             clearTimeout(timeoutId);
 
-            const data = await response.json();
+            console.log('📥 Newsletter response:', { 
+                status: response.status, 
+                ok: response.ok,
+                headers: Object.fromEntries(response.headers.entries())
+            });
 
-            if (response.ok) {
+            // Verificar se a resposta é JSON válido
+            const contentType = response.headers.get('content-type');
+            if (!contentType || !contentType.includes('application/json')) {
+                throw new Error('Resposta não é JSON válido');
+            }
+
+            const data = await response.json();
+            console.log('📊 Newsletter data:', data);
+
+            if (response.ok && data.success) {
                 setStatus('success');
                 setMessage(data.message || 'Inscrição realizada com sucesso! Bem-vindo à comunidade A Cifra.');
                 setEmail('');
                 
-                // Analytics (opcional)
+                // Analytics
                 if (typeof window !== 'undefined' && (window as any).gtag) {
                     (window as any).gtag('event', 'newsletter_signup', {
                         event_category: 'engagement',
@@ -58,13 +74,15 @@ export default function NewsletterForm() {
             console.error('Newsletter error:', error);
             setStatus('error');
             
-            // Verificar tipo de erro para dar feedback mais específico
+            // Tratamento específico de erros
             if (error.name === 'AbortError') {
                 setMessage('Tempo limite excedido. Verifique sua conexão e tente novamente.');
-            } else if (error instanceof TypeError && error.message.includes('fetch')) {
+            } else if (error.message.includes('Failed to fetch')) {
                 setMessage('Erro de conexão. Verifique sua internet e tente novamente.');
-            } else if (error instanceof SyntaxError) {
-                setMessage('Erro no servidor. Tente novamente em alguns minutos.');
+            } else if (error.message.includes('JSON') || error instanceof SyntaxError) {
+                setMessage('Erro no servidor. A API pode estar indisponível. Tente novamente em alguns minutos.');
+            } else if (error.message.includes('404')) {
+                setMessage('Serviço temporariamente indisponível. Tente novamente em alguns minutos.');
             } else {
                 setMessage('Erro inesperado. Tente novamente ou entre em contato conosco.');
             }
