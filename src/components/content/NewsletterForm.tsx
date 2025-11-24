@@ -9,7 +9,16 @@ export default function NewsletterForm() {
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
+        
+        // Validação básica no frontend
+        if (!email || !email.includes('@')) {
+            setStatus('error');
+            setMessage('Por favor, insira um email válido.');
+            return;
+        }
+
         setStatus('loading');
+        setMessage('');
 
         try {
             const response = await fetch('/api/newsletter/subscribe', {
@@ -17,22 +26,31 @@ export default function NewsletterForm() {
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({ email }),
+                body: JSON.stringify({ email: email.trim().toLowerCase() }),
             });
 
             const data = await response.json();
 
             if (response.ok) {
                 setStatus('success');
-                setMessage('Inscrição realizada com sucesso! Verifique seu email.');
+                setMessage(data.message || 'Inscrição realizada com sucesso! Bem-vindo à comunidade A Cifra.');
                 setEmail('');
+                
+                // Analytics (opcional)
+                if (typeof window !== 'undefined' && (window as any).gtag) {
+                    (window as any).gtag('event', 'newsletter_signup', {
+                        event_category: 'engagement',
+                        event_label: 'newsletter'
+                    });
+                }
             } else {
                 setStatus('error');
-                setMessage(data.error || 'Erro ao inscrever. Tente novamente.');
+                setMessage(data.error || 'Erro ao processar inscrição. Tente novamente.');
             }
-        } catch {
+        } catch (error) {
+            console.error('Newsletter error:', error);
             setStatus('error');
-            setMessage('Erro ao processar inscrição. Tente novamente.');
+            setMessage('Erro de conexão. Verifique sua internet e tente novamente.');
         }
     };
 
