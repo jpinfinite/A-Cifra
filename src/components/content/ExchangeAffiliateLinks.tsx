@@ -1,5 +1,7 @@
 'use client'
 
+import Image from 'next/image'
+
 interface ExchangeAffiliateLinksProps {
   variant?: 'default' | 'compact' | 'sidebar'
   className?: string
@@ -21,24 +23,45 @@ export function ExchangeAffiliateLinks({
             href="https://share.bitget.com/u/YCFYDWVG?clacCode=CECZRBTM"
             target="_blank"
             rel="noopener noreferrer sponsored"
-            className="flex-1 inline-flex items-center justify-center px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-sm"
+            className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-sm"
           >
+            <Image 
+              src="/images/bitget.png" 
+              alt="Bitget" 
+              width={20} 
+              height={20} 
+              className="rounded"
+            />
             Bitget - Até $5.000
           </a>
           <a
             href="https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=pt-BR&ref=GRO_28502_DYYIY&utm_source=default&utm_medium=web_share_copy"
             target="_blank"
             rel="noopener noreferrer sponsored"
-            className="flex-1 inline-flex items-center justify-center px-4 py-2 bg-yellow-500 hover:bg-yellow-600 text-white font-medium rounded-lg transition-colors text-sm"
+            className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-yellow-500 hover:bg-yellow-600 text-white font-medium rounded-lg transition-colors text-sm"
           >
+            <Image 
+              src="/images/binance.png" 
+              alt="Binance" 
+              width={20} 
+              height={20} 
+              className="rounded"
+            />
             Binance - Cashback
           </a>
           <a
             href="https://coinbase.com/join/SQ2J3GP?src=android-link"
             target="_blank"
             rel="noopener noreferrer sponsored"
-            className="flex-1 inline-flex items-center justify-center px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors text-sm"
+            className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors text-sm"
           >
+            <Image 
+              src="/images/Coinbase Icon.png" 
+              alt="Coinbase" 
+              width={20} 
+              height={20} 
+              className="rounded"
+            />
             Coinbase - $10
           </a>
         </div>
@@ -62,8 +85,17 @@ export function ExchangeAffiliateLinks({
             rel="noopener noreferrer sponsored"
             className="block w-full px-4 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-center"
           >
-            <div className="font-bold">Bitget</div>
-            <div className="text-xs mt-1">Até $5.000 em bônus</div>
+            <div className="flex items-center justify-center gap-2 mb-1">
+              <Image 
+                src="/images/bitget.png" 
+                alt="Bitget" 
+                width={20} 
+                height={20} 
+                className="rounded"
+              />
+              <div className="font-bold">Bitget</div>
+            </div>
+            <div className="text-xs">Até $5.000 em bônus</div>
           </a>
           <a
             href="https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=pt-BR&ref=GRO_28502_DYYIY&utm_source=default&utm_medium=web_share_copy"
@@ -71,8 +103,17 @@ export function ExchangeAffiliateLinks({
             rel="noopener noreferrer sponsored"
             className="block w-full px-4 py-3 bg-yellow-500 hover:bg-yellow-600 text-white font-medium rounded-lg transition-colors text-center"
           >
-            <div className="font-bold">Binance</div>
-            <div className="text-xs mt-1">Cashback em USDC</div>
+            <div className="flex items-center justify-center gap-2 mb-1">
+              <Image 
+                src="/images/binance.png" 
+                alt="Binance" 
+                width={20} 
+                height={20} 
+                className="rounded"
+              />
+              <div className="font-bold">Binance</div>
+            </div>
+            <div className="text-xs">Cashback em USDC</div>
           </a>
           <a
             href="https://coinbase.com/join/SQ2J3GP?src=android-link"
@@ -80,8 +121,17 @@ export function ExchangeAffiliateLinks({
             rel="noopener noreferrer sponsored"
             className="block w-full px-4 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors text-center"
           >
-            <div className="font-bold">Coinbase</div>
-            <div className="text-xs mt-1">Ganhe $10 em Bitcoin</div>
+            <div className="flex items-center justify-center gap-2 mb-1">
+              <Image 
+                src="/images/Coinbase Icon.png" 
+                alt="Coinbase" 
+                width={20} 
+                height={20} 
+                className="rounded"
+              />
+              <div className="font-bold">Coinbase</div>
+            </div>
+            <div className="text-xs">Ganhe $10 em Bitcoin</div>
           </a>
         </div>
         <p className="text-xs text-gray-500 dark:text-gray-400 mt-3 text-center">
@@ -107,8 +157,14 @@ export function ExchangeAffiliateLinks({
         {/* Bitget */}
         <div className="bg-white dark:bg-gray-800 p-5 rounded-lg border border-gray-200 dark:border-gray-700">
           <div className="flex items-center mb-3">
-            <div className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white font-bold text-xl mr-3">
-              B
+            <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
+              <Image 
+                src="/images/bitget.png" 
+                alt="Bitget" 
+                width={32} 
+                height={32} 
+                className="rounded"
+              />
             </div>
             <div>
               <h4 className="font-bold text-gray-900 dark:text-gray-100">Bitget</h4>
@@ -134,8 +190,14 @@ export function ExchangeAffiliateLinks({
         {/* Binance */}
         <div className="bg-white dark:bg-gray-800 p-5 rounded-lg border border-gray-200 dark:border-gray-700">
           <div className="flex items-center mb-3">
-            <div className="w-12 h-12 bg-yellow-500 rounded-full flex items-center justify-center text-white font-bold text-xl mr-3">
-              B
+            <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
+              <Image 
+                src="/images/binance.png" 
+                alt="Binance" 
+                width={32} 
+                height={32} 
+                className="rounded"
+              />
             </div>
             <div>
               <h4 className="font-bold text-gray-900 dark:text-gray-100">Binance</h4>
@@ -161,8 +223,14 @@ export function ExchangeAffiliateLinks({
         {/* Coinbase */}
         <div className="bg-white dark:bg-gray-800 p-5 rounded-lg border border-gray-200 dark:border-gray-700">
           <div className="flex items-center mb-3">
-            <div className="w-12 h-12 bg-indigo-600 rounded-full flex items-center justify-center text-white font-bold text-xl mr-3">
-              C
+            <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
+              <Image 
+                src="/images/Coinbase Icon.png" 
+                alt="Coinbase" 
+                width={32} 
+                height={32} 
+                className="rounded"
+              />
             </div>
             <div>
               <h4 className="font-bold text-gray-900 dark:text-gray-100">Coinbase</h4>
