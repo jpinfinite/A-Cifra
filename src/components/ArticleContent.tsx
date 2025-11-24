@@ -14,33 +14,26 @@ interface ArticleContentProps {
 }
 
 export default function ArticleContent({ content, relatedArticles = [] }: ArticleContentProps) {
-  // Adiciona links inline automaticamente
-  const enhancedContent = useMemo(() => {
+  // Processa o conteúdo e divide em partes
+  const contentParts = useMemo(() => {
     let processedContent = content
     
     if (relatedArticles.length > 0) {
       processedContent = addInlineLinks(processedContent, relatedArticles)
     }
     
-    return processedContent
+    // Divide o conteúdo pelo componente ExchangeAffiliateLinks
+    return processedContent.split('<ExchangeAffiliateLinks />')
   }, [content, relatedArticles])
-
-  // Processa o conteúdo para substituir componentes
-  const finalContent = useMemo(() => {
-    return enhancedContent.split('<ExchangeAffiliateLinks />').map((part, index, array) => {
-      if (index === array.length - 1) {
-        return part
-      }
-      return part + '\n\n___EXCHANGE_AFFILIATE_LINKS___\n\n'
-    }).join('')
-  }, [enhancedContent])
 
   return (
     <div className="prose prose-xl max-w-none article-content" suppressHydrationWarning>
-      <ReactMarkdown
-        remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw]}
-        components={{
+      {contentParts.map((part, index) => (
+        <div key={index}>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            rehypePlugins={[rehypeRaw]}
+            components={{
           // Custom components for better styling and readability
           h1: ({ children }) => (
             <h1 className="text-5xl md:text-6xl font-extrabold mt-12 mb-6 leading-tight text-gray-900 tracking-tight">
@@ -62,24 +55,11 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               {children}
             </h4>
           ),
-          p: ({ children }) => {
-            // Verifica se o parágrafo contém o marcador de afiliados
-            const childrenString = String(children)
-            if (childrenString.includes('___EXCHANGE_AFFILIATE_LINKS___')) {
-              return <ExchangeAffiliateLinks />
-            }
-            
-            // Verifica se é apenas o marcador sem outros elementos
-            if (childrenString.trim() === '___EXCHANGE_AFFILIATE_LINKS___') {
-              return <ExchangeAffiliateLinks />
-            }
-            
-            return (
-              <p className="mb-6 leading-relaxed text-lg text-gray-700 font-normal">
-                {children}
-              </p>
-            )
-          },
+          p: ({ children }) => (
+            <p className="mb-6 leading-relaxed text-lg text-gray-700 font-normal">
+              {children}
+            </p>
+          ),
           ul: ({ children }) => (
             <ul className="mb-8 space-y-3 ml-6">
               {children}
@@ -105,19 +85,19 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               </div>
             </blockquote>
           ),
-          code: ({ inline, children, className }: { inline?: boolean; children?: React.ReactNode; className?: string }) => {
+          code: ({ inline, children }: { inline?: boolean; children?: React.ReactNode }) => {
             return inline ? (
-              <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold" suppressHydrationWarning>
+              <code className="bg-blue-100 text-blue-800 px-2 py-1 rounded font-mono text-base font-semibold">
                 {children}
               </code>
             ) : (
-              <code className={`block bg-gray-900 text-gray-100 p-6 rounded-xl overflow-x-auto my-8 font-mono text-sm leading-relaxed shadow-lg ${className || ''}`} suppressHydrationWarning>
+              <code className="block bg-gray-900 text-gray-100 p-6 rounded-xl overflow-x-auto my-8 font-mono text-sm leading-relaxed shadow-lg">
                 {children}
               </code>
             )
           },
           pre: ({ children }) => (
-            <pre className="my-8 overflow-hidden rounded-xl shadow-lg" suppressHydrationWarning>
+            <pre className="my-8 overflow-hidden rounded-xl shadow-lg">
               {children}
             </pre>
           ),
@@ -193,10 +173,13 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               {children}
             </td>
           ),
-        }}
-      >
-        {finalContent}
-      </ReactMarkdown>
+            }}
+          >
+            {part}
+          </ReactMarkdown>
+          {index < contentParts.length - 1 && <ExchangeAffiliateLinks />}
+        </div>
+      ))}
       
       <style jsx global>{`
         .article-content {
