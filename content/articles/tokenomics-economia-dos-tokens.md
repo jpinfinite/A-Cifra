@@ -1,10 +1,10 @@
----
+﻿---
 id: 'tokenomics-guia'
 title: 'Tokenomics: Entendendo a Economia dos Tokens'
 slug: 'tokenomics-economia-dos-tokens'
 excerpt: 'Aprenda o que é tokenomics, como analisar a economia de um token e identificar projetos com fundamentos sólidos no mercado cripto.'
 coverImage:
-  src: '/images/criptoativos.jpg'
+  src: '/images/075.jpg'
   alt: 'Gráficos e análise de tokenomics'
   width: 1200
   height: 630

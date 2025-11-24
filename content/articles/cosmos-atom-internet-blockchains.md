@@ -1,10 +1,10 @@
----
+﻿---
 id: 'cosmos-atom'
 slug: 'cosmos-atom-internet-blockchains'
 title: "Cosmos (ATOM): A Internet das Blockchains"
 excerpt: "Descubra como o Cosmos está criando um ecossistema interconectado de blockchains independentes através do protocolo IBC e o Cosmos Hub."
 coverImage:
-  src: '/images/cosmo.jpg'
+  src: '/images/074.jpg'
   alt: 'Cosmos (ATOM): A Internet das Blockchains'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'seed-phrase-backup-recuperacao-carteira'
 title: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
 slug: 'seed-phrase-backup-recuperacao-carteira'
 excerpt: 'Aprenda a importância da seed phrase e melhores práticas para backup seguro.'
 coverImage:
-  src: '/images/acoes-investimento.jpg'
+  src: '/images/031.jpg'
   alt: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
   width: 1200
   height: 630

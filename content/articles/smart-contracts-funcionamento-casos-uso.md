@@ -1,10 +1,10 @@
----
+﻿---
 id: 'smart-contracts-funcionamento-casos-uso'
 title: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
 slug: 'smart-contracts-funcionamento-casos-uso'
 excerpt: 'Guia completo sobre smart contracts, desde o básico até aplicações práticas no mundo real.'
 coverImage:
-  src: '/images/448.jpg'
+  src: '/images/020.jpg'
   alt: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
   width: 1200
   height: 630

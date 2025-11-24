@@ -1,10 +1,10 @@
----
+﻿---
 id: 'impermanent-loss'
 title: 'Perda Impermanente (Impermanent Loss): O Que É e Como Evitar'
 slug: 'impermanent-loss-explicado'
 excerpt: 'Entenda a perda impermanente em DeFi: o que é, como calcular, exemplos práticos e estratégias para minimizar esse risco ao fornecer liquidez.'
 coverImage:
-  src: '/images/perda.jpg'
+  src: '/images/147.jpg'
   alt: 'Perda Impermanente - Guia completo'
   width: 1200
   height: 630

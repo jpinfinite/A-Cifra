@@ -1,10 +1,10 @@
----
+﻿---
 id: 'multisig-wallets-seguranca-empresarial'
 title: 'Carteiras Multisig: Segurança para Empresas e DAOs'
 slug: 'multisig-wallets-seguranca-empresarial'
 excerpt: 'Descubra como carteiras multisig aumentam segurança através de múltiplas assinaturas.'
 coverImage:
-  src: '/images/bitcoin-guide-2025.jpg'
+  src: '/images/050.jpg'
   alt: 'Carteiras Multisig: Segurança para Empresas e DAOs'
   width: 1200
   height: 630

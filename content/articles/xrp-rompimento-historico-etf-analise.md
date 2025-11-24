@@ -1,10 +1,10 @@
----
+﻿---
 id: 'xrp-rompimento-historico-etf'
 slug: 'xrp-rompimento-historico-etf-analise'
 title: "XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mira Alvos Históricos"
 excerpt: "Análise técnica e macro do rompimento estrutural da XRP após 7 anos, projeções de preço e impacto do possível ETF no mercado."
 coverImage:
-  src: '/images/xrpbom.jpg'
+  src: '/images/211.jpg'
   alt: 'XRP - Rompimento Histórico'
   width: 1200
   height: 630

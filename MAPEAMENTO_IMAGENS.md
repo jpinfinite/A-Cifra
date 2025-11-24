@@ -1,0 +1,222 @@
+﻿# Mapeamento de Imagens - 2025-11-24 01:58:05
+
+| Nome Original | Nome Novo |
+|---------------|-----------|
+| #Bitcoin (1).jpg | 001.jpg |
+| #Bitcoin.jpg | 002.jpg |
+| ….jpg | 003.jpg |
+| 1002_yuan_digital.jpg | 004.jpg |
+| 11763.jpg | 005.jpg |
+| 11765.jpg | 006.jpg |
+| 1209de57-6463-4051-b092-3daa4899fd8c.jpg | 007.jpg |
+| 12182.jpg | 008.jpg |
+| 142-converted.jpg | 009.jpg |
+| 166.jpg | 010.jpg |
+| 2_chain_red_gold_btc.jpg | 011.jpg |
+| 20190107_030.jpg | 012.jpg |
+| 2026.jpg | 013.jpg |
+| 223_rxrolwnoywlulwjyb3du.jpg | 014.jpg |
+| 2474878.jpg | 015.jpg |
+| 343407-pakfit-409.jpg | 016.jpg |
+| 343407-pakpo7-28.jpg | 017.jpg |
+| 363.jpg | 018.jpg |
+| 43.jpg | 019.jpg |
+| 448.jpg | 020.jpg |
+| 4f9d91ba-a9a0-4fa0-9cbb-26249adbc222.jpg | 021.jpg |
+| 69_05_02_bitcoin_symbol_2_work.jpg | 022.jpg |
+| 71f3292b-cabc-4ff8-b17a-f1afa52045c4.jpg | 023.jpg |
+| 765d7f63-6ee2-4fad-bff9-acd48a8ce7ca.jpg | 024.jpg |
+| 8401.jpg | 025.jpg |
+| 8558.jpg | 026.jpg |
+| 92fb071e-f6d4-475d-824e-6a0bf9624a06.jpg | 027.jpg |
+| aave.jpg | 028.jpg |
+| AaveV3.jpg | 029.jpg |
+| account-abstraction.jpg | 030.jpg |
+| acoes-investimento.jpg | 031.jpg |
+| ai-blockchain.jpg | 032.jpg |
+| algorithmic-stablecoins.jpg | 033.jpg |
+| alta.jpg | 034.jpg |
+| altcoins-2025.jpg | 035.jpg |
+| altcoins-2026.jpg | 036.jpg |
+| analisar.png | 037.png |
+| analise.jpg | 038.jpg |
+| Aproveite a vida dos seus sonhos investindo em….jpg | 039.jpg |
+| ava.jpg | 040.jpg |
+| bbcoin.jpg | 041.jpg |
+| Beim Einstieg in den Forex-Handel ist es für….jpg | 042.jpg |
+| bilion.jpg | 043.jpg |
+| bit.jpg | 044.jpg |
+| bit.png | 045.png |
+| Bitcoin price surge to over $67,000 breaks….jpg | 046.jpg |
+| bitcoin-1-milhao-2025.jpg | 047.jpg |
+| bitcoin-coin-stack.jpg | 048.jpg |
+| bitcoin-global-network.jpg | 049.jpg |
+| bitcoin-guide-2025.jpg | 050.jpg |
+| bitcoin-moeda-digital.jpg | 051.jpg |
+| bitcoinn.jpg | 052.jpg |
+| bitcoin-ordinals.jpg | 053.jpg |
+| bitcoin-renascimento-optimized.webp | 054.webp |
+| bitcoin-sem-identificacao.jpg | 055.jpg |
+| Bitdoll.jpg | 056.jpg |
+| block.webp | 057.webp |
+| blockchain-privacy.png | 058.png |
+| blockchain-technology.jpg | 059.jpg |
+| Blog - Freebies Mockup.jpg | 060.jpg |
+| Cardano.jpg | 061.jpg |
+| carteira.jpg | 062.jpg |
+| carteira-diversificacao-2025.png | 063.png |
+| cdcrypto.jpg | 064.jpg |
+| centralizacao.webp | 065.webp |
+| char.jpg | 066.jpg |
+| cidade.jpg | 067.jpg |
+| cifra-azulada.png | 068.png |
+| cifra-cinzenta.png | 069.png |
+| close-up-bitcoin-concept.jpg | 070.jpg |
+| Como-Analisar-Criptomoedas.jpg | 071.jpg |
+| comp.jpg | 072.jpg |
+| corrida.jpg | 073.jpg |
+| cosmo.jpg | 074.jpg |
+| criptoativos.jpg | 075.jpg |
+| criptobrasil.png | 076.png |
+| criptomoedas-geral.jpg | 077.jpg |
+| crypto-analysis-charts.jpg | 078.jpg |
+| cryptocurrency-conceito.jpg | 079.jpg |
+| cryptocurrency-concept-with-smartphone-close-up.jpg | 080.jpg |
+| cryptocurrency-exchange-trade-foreign-exchange-market-electronic-trading-platform-cryptocurrency-4bc84dc84539f17a830d97ef5f21ea8f.png | 081.png |
+| crypto-exchange.jpg | 082.jpg |
+| crypto-futuristic-scene.jpg | 083.jpg |
+| crypto-gaming.jpg | 084.jpg |
+| crypto-market-analysis.jpg | 085.jpg |
+| crypto-mercado-geral.jpg | 086.jpg |
+| crypto-regulation.jpg | 087.jpg |
+| crypto-trading-desk.jpg | 088.jpg |
+| crypto-trading-setup.jpg | 089.jpg |
+| crypto-wallet.jpg | 090.jpg |
+| crypto-wallet-security.jpg | 091.jpg |
+| curve.jpg | 092.jpg |
+| dao.jpg | 093.jpg |
+| daos.jpg | 094.jpg |
+| dblok.jpg | 095.jpg |
+| dcouvrez-les-avantages-de-linvestissement-dans.jpg | 096.jpg |
+| DeFi aka Decentralized Finance is fundamentally….jpg | 097.jpg |
+| DeFi Staking Explained_ How to Earn Passive Income….jpg | 098.jpg |
+| DeFi, short for Decentralized Finance, has been a….jpg | 099.jpg |
+| defi.jpg | 100.jpg |
+| defi1.jpg | 101.jpg |
+| defi-2026.jpg | 102.jpg |
+| defi-revolution.jpg | 103.jpg |
+| descentralizacao.jpg | 104.jpg |
+| Did you know that many middle-class Americans are….jpg | 105.jpg |
+| digital-wallet-security.jpg | 106.jpg |
+| doge.jpg | 107.jpg |
+| Don't get caught in reversals! Learn the 5 key….jpg | 108.jpg |
+| Dymension_ Modular Architecture for Scalable….jpg | 109.jpg |
+| ether.jpg | 110.jpg |
+| ethereum-2026.jpg | 111.jpg |
+| ethereum-2-0-upgrade.jpg | 112.jpg |
+| ethereum-analysis.jpg | 113.jpg |
+| ethereum-blockchain.jpg | 114.jpg |
+| etherum-2.0.jpg | 115.jpg |
+| Everything You Need to Know About Bitcoin Exchange….jpg | 116.jpg |
+| exchanges-2026.jpg | 117.jpg |
+| exchanges-brasil-2025.png | 118.png |
+| financial250.jpg | 119.jpg |
+| floki.jpg | 120.jpg |
+| futuristic-digital-user-interface.jpg | 121.jpg |
+| gamefi-revolucao-jogos.webp | 122.webp |
+| golden.jpg | 123.jpg |
+| grt.jpg | 124.jpg |
+| guia-iniciantes-2026.jpg | 125.jpg |
+| Hong Kong-based First Digital has made a major….jpg | 126.jpg |
+| imposto.png | 127.png |
+| impostos-ir-2025.png | 128.png |
+| In this article, we will be looking at how day….jpg | 129.jpg |
+| investir.png | 130.png |
+| investir-cripto-2025.png | 131.png |
+| Layer2.jpg | 132.jpg |
+| layer3-superchains.jpg | 133.jpg |
+| matic.jpg | 134.jpg |
+| melhores.png | 135.png |
+| memecoins.jpg | 136.jpg |
+| memecoins-phenomenon.jpg | 137.jpg |
+| memecoins-phenomenon.png | 138.png |
+| mercado-cripto-nov-2025.jpg | 139.jpg |
+| metamask-wallet.jpg | 140.jpg |
+| minero.jpg | 141.jpg |
+| Navigate your way to binary options success with….jpg | 142.jpg |
+| nft.jpg | 143.jpg |
+| PancakeSwap.jpg | 144.jpg |
+| pensamento-estrategico.jpg | 145.jpg |
+| pepe.jpg | 146.jpg |
+| perda.jpg | 147.jpg |
+| PerspectivasOtimistas.jpg | 148.jpg |
+| pexels-alesiakozik-6765371.jpg | 149.jpg |
+| pexels-alesiakozik-6765705.jpg | 150.jpg |
+| pexels-alphatradezone-5833263.jpg | 151.jpg |
+| pexels-jakubzerdzicki-31220975.jpg | 152.jpg |
+| pexels-jonathanborba-14891565.jpg | 153.jpg |
+| pexels-karola-g-5980917.jpg | 154.jpg |
+| pexels-rdne-8369648.jpg | 155.jpg |
+| pexels-rdne-8370772.jpg | 156.jpg |
+| pinterest-bitcoin-gold.jpg | 157.jpg |
+| pinterest-crypto-coins.jpg | 158.jpg |
+| pol.jpg | 159.jpg |
+| poly.jpg | 160.jpg |
+| pools-liquidez-defi.webp | 161.webp |
+| projeto.jpg | 162.jpg |
+| Red arrows pointing down as Bitcoin (BTC) price….jpg | 163.jpg |
+| rendapassiva.png | 164.png |
+| renda-passiva-2025.png | 165.png |
+| renda-passiva-estrategia-investimento.jpg | 166.jpg |
+| restaking-eigenlayer.jpg | 167.jpg |
+| Rune Christensen, the co-founder and CEO of….jpg | 168.jpg |
+| rwa-tokenization.jpg | 169.jpg |
+| Sats Terminal_ Tools for Efficient Interaction….jpg | 170.jpg |
+| shiba.jpg | 171.jpg |
+| sl_0212121_40670_36.jpg | 172.jpg |
+| sl_0212121_40670_50.jpg | 173.jpg |
+| sl_0212121_40670_59.jpg | 174.jpg |
+| sl_052321_43220_03.jpg | 175.jpg |
+| sl_052321_43220_17.jpg | 176.jpg |
+| sl-0212121-40670-68.jpg | 177.jpg |
+| solana-2026.jpg | 178.jpg |
+| solana-etf-ascensao.webp | 179.webp |
+| Staking.png | 180.png |
+| staking-2026.jpg | 181.jpg |
+| staking-recompensas.jpg | 182.jpg |
+| Stock market 📊Bear and bull.jpg | 183.jpg |
+| tether-crypto-currency-coin-crypto.jpg | 184.jpg |
+| tg7.jpg | 185.jpg |
+| The market tests your discipline daily_ Learn 3….jpg | 186.jpg |
+| this-striking-image-visually-represents-a.jpg | 187.jpg |
+| total3.jpg | 188.jpg |
+| trader.jpg | 189.jpg |
+| trading-criptomoedas.jpg | 190.jpg |
+| transformacao-digital.jpg | 191.jpg |
+| undefined (2).jpg | 192.jpg |
+| undefined (3).jpg | 193.jpg |
+| undefined (6).jpg | 194.jpg |
+| uniswap.jpg | 195.jpg |
+| Unlock the ultimate way to invest in digital….jpg | 196.jpg |
+| Valour, dceřiná společnost DeFi Technologies Inc….jpg | 197.jpg |
+| vecteezy_ai-generated-bitcoin-cryptocurrency-digital-money-golden_41874547.jpg | 198.jpg |
+| vecteezy_ai-generated-bitcoin-cryptocurrency-digital-money-golden_41875159.jpg | 199.jpg |
+| vecteezy_ai-generated-cryptocurrency-bitcoin-digital-money-golden_41874538.jpg | 200.jpg |
+| vecteezy_bitcoin-in-neon-cityscape-cryptocurrency-in-a-vibrant-urban_69639955.jpg | 201.jpg |
+| vecteezy_blockchain-on-wooden-block_3168619.jpg | 202.jpg |
+| vecteezy_include-cryptocurrency-coins-with-bitcoin-litecoin-and_4525060.jpg | 203.jpg |
+| vecteezy_play-button-white-color-crypto-ex-change-design-logo-icon_11945455.jpg | 204.jpg |
+| vecteezy_single-valueable-burning-decomposes-and-dissolves-bitcoin_7142474.jpg | 205.jpg |
+| wallet.png | 206.png |
+| Warum sollte ich ein Trading Journal führen, wenn….jpg | 207.jpg |
+| web3.jpg | 208.jpg |
+| What is it worth to stop losing money and start….jpg | 209.jpg |
+| what-is-blockchain-and-why-it-matters-in.jpg | 210.jpg |
+| xrpbom.jpg | 211.jpg |
+| xrp-pagamentos-globais.jpg | 212.jpg |
+| xrpwib.jpg | 213.jpg |
+| yield.jpg | 214.jpg |
+| zcash.png | 215.png |
+| π – Pi _ Shemuel Bensusan.jpg | 216.jpg |
+| Денежные обои Диагностика_Переходи в ТК-Психологи_консультации.jpg | 217.jpg |
+| 📌 Robinhood predicts a crypto revolution_ Are….jpg | 218.jpg |

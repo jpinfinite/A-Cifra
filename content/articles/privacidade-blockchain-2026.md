@@ -1,10 +1,10 @@
----
+﻿---
 id: 'privacidade-blockchain-2026'
 title: "Privacidade em Blockchain 2026: Zero-Knowledge, Mixers e o Futuro da Privacidade On-Chain"
 slug: 'privacidade-blockchain-2026'
 excerpt: "Descubra tecnologias de privacidade em blockchain em 2026: Zero-Knowledge Proofs, privacy coins, mixers e como proteger sua privacidade on-chain."
 coverImage:
-  src: '/images/crypto-wallet-security.jpg'
+  src: '/images/091.jpg'
   alt: 'Privacidade Blockchain 2026'
   width: 1200
   height: 630

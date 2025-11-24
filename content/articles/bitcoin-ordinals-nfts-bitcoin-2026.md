@@ -1,10 +1,10 @@
----
+﻿---
 id: 'bitcoin-ordinals-nfts-bitcoin-2026'
 title: "Bitcoin Ordinals e NFTs no Bitcoin 2026: Nova Era de Utilidade para BTC"
 slug: 'bitcoin-ordinals-nfts-bitcoin-2026'
 excerpt: "Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão transformando Bitcoin em 2026 além de apenas reserva de valor."
 coverImage:
-  src: '/images/bitcoin-ordinals.jpg'
+  src: '/images/053.jpg'
   alt: 'Bitcoin Ordinals e NFTs'
   width: 1200
   height: 630

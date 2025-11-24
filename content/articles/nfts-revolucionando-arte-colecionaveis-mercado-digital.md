@@ -1,10 +1,10 @@
----
+﻿---
 id: '8'
 title: 'NFTs: O que São e como Estão Mudando a Forma como Compramos e Vendemos Arte e Colecionáveis'
 slug: 'nfts-revolucionando-arte-colecionaveis-mercado-digital'
 excerpt: 'Os NFTs estão revolucionando o mercado de arte e colecionáveis digitais. Descubra como funcionam, principais mercados e o impacto na indústria criativa.'
 coverImage:
-  src: '/images/crypto-trading-desk.jpg'
+  src: '/images/088.jpg'
   alt: 'Smartphone exibindo NFT de arte digital com fundo artístico colorido'
   width: 1200
   height: 630

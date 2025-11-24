@@ -1,10 +1,10 @@
----
+﻿---
 id: '5'
 title: 'Como Analisar Criptomoedas: Guia Completo para Investidores'
 slug: 'como-analisar-criptomoedas-guia-completo-investidores'
 excerpt: 'Aprenda as técnicas essenciais para analisar criptomoedas: análise técnica, fundamentalista e on-chain. Ferramentas e estratégias para tomar decisões informadas.'
 coverImage:
-  src: '/images/crypto-trading-setup.jpg'
+  src: '/images/089.jpg'
   alt: 'Setup profissional para análise de criptomoedas com múltiplos monitores'
   width: 1200
   height: 630

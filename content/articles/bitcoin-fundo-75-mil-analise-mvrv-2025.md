@@ -1,10 +1,10 @@
----
+﻿---
 id: '23'
 title: "Bitcoin Pode Cair para US$ 75 Mil, Mas Analistas Preveem Rally de 40% Até o Final de 2025"
 slug: "bitcoin-fundo-75-mil-analise-mvrv-2025"
 excerpt: "Análise técnica indica possível queda do BTC para US$ 75.700 após romper suporte crucial das Bandas MVRV. Enquanto isso, baleias acumulam e Wall Street projeta recuperação de 40% antes do fim do ano."
 coverImage:
-  src: '/images/bitcoinn.jpg'
+  src: '/images/052.jpg'
   alt: 'Análise técnica do Bitcoin - Bandas MVRV e projeções para 2025'
   width: 1200
   height: 630

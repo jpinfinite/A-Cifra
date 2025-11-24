@@ -1,10 +1,10 @@
----
+﻿---
 id: 'uniswap-tutorial'
 title: 'Como Usar o Uniswap: Tutorial Completo de Swap de Tokens'
 slug: 'como-usar-uniswap-tutorial'
 excerpt: 'Aprenda a usar o Uniswap passo a passo: conectar carteira, fazer swap de tokens, adicionar liquidez e evitar erros comuns na DEX mais popular.'
 coverImage:
-  src: '/images/uniswap.jpg'
+  src: '/images/195.jpg'
   alt: 'Tutorial Uniswap - Como fazer swap'
   width: 1200
   height: 630

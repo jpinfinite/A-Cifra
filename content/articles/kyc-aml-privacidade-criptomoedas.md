@@ -1,10 +1,10 @@
----
+﻿---
 id: 'kyc-aml-privacidade-criptomoedas'
 title: 'KYC e AML: Privacidade vs Regulação em Cripto'
 slug: 'kyc-aml-privacidade-criptomoedas'
 excerpt: 'Entenda o debate entre privacidade e regulação no mundo das criptomoedas.'
 coverImage:
-  src: '/images/bitcoin-sem-identificacao.jpg'
+  src: '/images/055.jpg'
   alt: 'KYC e AML: Privacidade vs Regulação em Cripto'
   width: 1200
   height: 630

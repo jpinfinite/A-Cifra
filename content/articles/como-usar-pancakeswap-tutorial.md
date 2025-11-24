@@ -1,10 +1,10 @@
----
+﻿---
 id: 'pancakeswap-tutorial'
 title: 'Como Usar o PancakeSwap: Tutorial Completo na BSC'
 slug: 'como-usar-pancakeswap-tutorial'
 excerpt: 'Guia passo a passo para usar o PancakeSwap: conectar carteira, fazer swap, adicionar liquidez e fazer farming na maior DEX da Binance Smart Chain.'
 coverImage:
-  src: '/images/PancakeSwap.jpg'
+  src: '/images/144.jpg'
   alt: 'Tutorial PancakeSwap - DEX BSC'
   width: 1200
   height: 630

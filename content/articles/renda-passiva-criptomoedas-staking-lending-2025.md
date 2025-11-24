@@ -1,10 +1,10 @@
----
+﻿---
 id: 'renda-passiva-criptomoedas-2025'
 title: 'Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming'
 slug: 'renda-passiva-criptomoedas-staking-lending-2025'
 excerpt: 'Guia completo para gerar renda passiva com criptomoedas: staking, lending, yield farming e liquidity pools. Aprenda a ganhar até 20% ao ano.'
 coverImage:
-  src: '/images/renda-passiva-2025.png'
+  src: '/images/165.png'
   alt: 'Renda passiva com criptomoedas - Staking e Lending'
   width: 1200
   height: 630

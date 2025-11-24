@@ -1,10 +1,10 @@
----
+﻿---
 id: 'melhores-exchanges-brasil-2025'
 title: 'Melhores Exchanges de Criptomoedas no Brasil em 2025: Comparativo Completo'
 slug: 'melhores-exchanges-criptomoedas-brasil-2025'
 excerpt: 'Análise detalhada das 10 melhores exchanges para brasileiros: taxas, segurança, criptomoedas disponíveis e qual escolher para seu perfil.'
 coverImage:
-  src: '/images/exchanges-brasil-2025.png'
+  src: '/images/118.png'
   alt: 'Melhores exchanges de criptomoedas no Brasil 2025'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'web3-internet-descentralizada'
 slug: 'web3-internet-descentralizada-futuro'
 title: "Web3: A Internet Descentralizada do Futuro"
 excerpt: "Entenda o que é Web3, como ela difere da Web2, e por que representa o futuro da internet com descentralização, propriedade de dados e novas oportunidades."
 coverImage:
-  src: '/images/web3.jpg'
+  src: '/images/208.jpg'
   alt: 'Web3: A Internet Descentralizada do Futuro'
   width: 1200
   height: 630

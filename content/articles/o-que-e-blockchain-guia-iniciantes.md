@@ -1,10 +1,10 @@
----
+﻿---
 id: 'blockchain-iniciantes'
 title: 'O Que é Blockchain? Guia Completo para Iniciantes'
 slug: 'o-que-e-blockchain-guia-iniciantes'
 excerpt: 'Entenda de forma simples e clara o que é blockchain, como funciona essa tecnologia revolucionária e por que ela está mudando o mundo.'
 coverImage:
-  src: '/images/block.webp'
+  src: '/images/057.webp'
   alt: 'Representação visual da tecnologia blockchain'
   width: 1200
   height: 630

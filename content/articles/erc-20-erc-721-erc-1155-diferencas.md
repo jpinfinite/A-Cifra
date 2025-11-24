@@ -1,10 +1,10 @@
----
+﻿---
 id: 'erc-20-erc-721-erc-1155-diferencas'
 title: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155'
 slug: 'erc-20-erc-721-erc-1155-diferencas'
 excerpt: 'Guia completo sobre os principais padrões de tokens no Ethereum e suas diferenças.'
 coverImage:
-  src: '/images/69_05_02_bitcoin_symbol_2_work.jpg'
+  src: '/images/022.jpg'
   alt: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155'
   width: 1200
   height: 630

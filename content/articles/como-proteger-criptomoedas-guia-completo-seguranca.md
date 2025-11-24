@@ -1,10 +1,10 @@
----
+﻿---
 id: '3'
 title: 'Como Proteger Suas Criptomoedas: Guia Completo de Segurança'
 slug: 'como-proteger-criptomoedas-guia-completo-seguranca'
 excerpt: 'Aprenda as melhores práticas para proteger suas criptomoedas: carteiras hardware, autenticação 2FA, backup de seeds e estratégias de segurança avançadas.'
 coverImage:
-  src: '/images/digital-wallet-security.jpg'
+  src: '/images/106.jpg'
   alt: 'Segurança de carteira digital com elementos de proteção blockchain'
   width: 1200
   height: 630

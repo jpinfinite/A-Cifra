@@ -1,10 +1,10 @@
----
+﻿---
 id: 'arbitrum-layer2-ethereum-escalabilidade'
 title: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups'
 slug: 'arbitrum-layer2-ethereum-escalabilidade'
 excerpt: 'Descubra como Arbitrum está revolucionando a escalabilidade do Ethereum com rollups otimistas e taxas baixas.'
 coverImage:
-  src: '/images/142-converted.jpg'
+  src: '/images/009.jpg'
   alt: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups'
   width: 1200
   height: 630

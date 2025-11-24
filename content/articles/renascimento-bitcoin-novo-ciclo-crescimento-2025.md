@@ -1,10 +1,10 @@
----
+﻿---
 id: '6'
 title: 'O Renascimento do Bitcoin: Por que a Criptomoeda mais Popular está Preparada para um Novo Ciclo de Crescimento'
 slug: 'renascimento-bitcoin-novo-ciclo-crescimento-2025'
 excerpt: 'Após um período de consolidação, o Bitcoin mostra sinais de estar preparado para um novo ciclo de crescimento. Analisamos os fatores que impulsionam essa tendência.'
 coverImage:
-  src: '/images/bitcoin-global-network.jpg'
+  src: '/images/049.jpg'
   alt: 'Bitcoin conectado globalmente - representando o renascimento e adoção mundial'
   width: 1200
   height: 630

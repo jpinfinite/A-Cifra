@@ -1,10 +1,10 @@
----
+﻿---
 id: 'avalanche-subnets'
 slug: 'avalanche-subnets-escalabilidade-blockchain'
 title: "Avalanche: Subnets e Escalabilidade Blockchain"
 excerpt: "Conheça o Avalanche, a blockchain de alta performance com subnets customizáveis e consenso inovador que processa milhares de transações por segundo."
 coverImage:
-  src: '/images/ava.jpg'
+  src: '/images/040.jpg'
   alt: 'Avalanche: Subnets e Escalabilidade Blockchain'
   width: 1200
   height: 630

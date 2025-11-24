@@ -1,10 +1,10 @@
----
+﻿---
 id: 'analise-fundamentalista'
 slug: 'analise-fundamentalista-avaliar-projetos-cripto'
 title: "Análise Fundamentalista: Como Avaliar Projetos Cripto"
 excerpt: "Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe, tecnologia, tokenomics e potencial de adoção para tomar decisões de investimento informadas."
 coverImage:
-  src: '/images/projeto.jpg'
+  src: '/images/162.jpg'
   alt: 'Análise Fundamentalista: Como Avaliar Projetos Cripto'
   width: 1200
   height: 630

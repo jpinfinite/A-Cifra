@@ -1,10 +1,10 @@
----
+﻿---
 id: '10'
 title: 'Desvendando o Poder da Blockchain: Uma Tecnologia Revolucionária que Está Mudando o Mundo'
 slug: 'blockchain-tecnologia-revolucionaria-mudando-mundo'
 excerpt: 'A blockchain é uma tecnologia revolucionária que está transformando indústrias inteiras. Descubra como funciona, suas aplicações e o impacto no futuro.'
 coverImage:
-  src: '/images/dblok.jpg'
+  src: '/images/095.jpg'
   alt: 'Representação visual da tecnologia blockchain com blocos conectados'
   width: 1200
   height: 630

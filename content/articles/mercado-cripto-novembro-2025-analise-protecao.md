@@ -1,10 +1,10 @@
----
+﻿---
 id: 'mercado-cripto-nov-2025'
 title: 'Mercado Cripto em Novembro 2025: Análise Atual e Como se Proteger da Volatilidade'
 slug: 'mercado-cripto-novembro-2025-analise-protecao'
 excerpt: 'Análise completa do mercado de criptomoedas em Novembro 2025: Bitcoin em correção, altcoins sangrando e estratégias práticas para proteger seu capital.'
 coverImage:
-  src: '/images/mercado-cripto-nov-2025.jpg'
+  src: '/images/139.jpg'
   alt: 'Mercado de criptomoedas Novembro 2025 - Análise e proteção'
   width: 1200
   height: 630

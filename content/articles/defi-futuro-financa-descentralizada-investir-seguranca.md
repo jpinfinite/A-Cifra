@@ -1,10 +1,10 @@
----
+﻿---
 id: '7'
 title: 'DeFi: O Futuro da Finança Descentralizada e como Investir com Segurança'
 slug: 'defi-futuro-financa-descentralizada-investir-seguranca'
 excerpt: 'A DeFi está revolucionando a finança tradicional. Descubra como investir com segurança neste ecossistema em crescimento e quais são as principais oportunidades.'
 coverImage:
-  src: '/images/defi1.jpg'
+  src: '/images/101.jpg'
   alt: 'Tablet mostrando interface DeFi com gráficos e criptomoedas'
   width: 1200
   height: 630

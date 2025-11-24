@@ -1,10 +1,10 @@
----
+﻿---
 id: 'bitcoin-etf-aprovado-eua-impacto-mercado-2025'
 title: "Bitcoin ETF Aprovado nos EUA: Impacto no Mercado e Oportunidades em 2025"
 slug: 'bitcoin-etf-aprovado-eua-impacto-mercado-2025'
 excerpt: "Análise completa da aprovação dos ETFs de Bitcoin nos EUA: como funcionam, impacto no mercado, melhores opções e oportunidades para investidores em 2025."
 coverImage:
-  src: '/images/bitcoin-guide-2025.jpg'
+  src: '/images/050.jpg'
   alt: 'Bitcoin ETF Aprovado EUA 2025'
   width: 1200
   height: 630

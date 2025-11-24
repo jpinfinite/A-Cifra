@@ -1,10 +1,10 @@
----
+﻿---
 id: 'dominancia-bitcoin-altseason-timing'
 title: 'Dominância Bitcoin e Altseason: Timing de Mercado'
 slug: 'dominancia-bitcoin-altseason-timing'
 excerpt: 'Aprenda a usar dominância do Bitcoin para identificar altseasons.'
 coverImage:
-  src: '/images/crypto-analysis-charts.jpg'
+  src: '/images/078.jpg'
   alt: 'Dominância Bitcoin e Altseason: Timing de Mercado'
   width: 1200
   height: 630

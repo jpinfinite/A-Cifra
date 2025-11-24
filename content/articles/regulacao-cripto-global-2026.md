@@ -1,10 +1,10 @@
----
+﻿---
 id: 'regulacao-cripto-global-2026'
 title: "Regulação Cripto Global 2026: MiCA, Brasil, EUA e o Novo Cenário Regulatório"
 slug: 'regulacao-cripto-global-2026'
 excerpt: "Guia completo sobre regulação de criptomoedas em 2026: MiCA na Europa, Marco Legal no Brasil, clareza nos EUA e como isso afeta seus investimentos."
 coverImage:
-  src: '/images/crypto-regulation.jpg'
+  src: '/images/087.jpg'
   alt: 'Regulação Cripto Global 2026'
   width: 1200
   height: 630

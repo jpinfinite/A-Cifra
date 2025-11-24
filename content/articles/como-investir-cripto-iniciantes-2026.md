@@ -1,10 +1,10 @@
----
+﻿---
 id: 'como-investir-cripto-iniciantes-2026'
 title: "Como Investir em Cripto: Guia Completo para Iniciantes 2026"
 slug: 'como-investir-cripto-iniciantes-2026'
 excerpt: "Guia definitivo para começar a investir em criptomoedas em 2026: passo a passo, estratégias, segurança e erros a evitar. Perfeito para iniciantes."
 coverImage:
-  src: '/images/guia-iniciantes-2026.jpg'
+  src: '/images/125.jpg'
   alt: 'Guia de Investimento em Cripto 2026'
   width: 1200
   height: 630

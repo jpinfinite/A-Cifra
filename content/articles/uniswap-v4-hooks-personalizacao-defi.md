@@ -1,10 +1,10 @@
----
+﻿---
 id: 'uniswap-v4-hooks-personalizacao-defi'
 title: 'Uniswap V4 e Hooks: Nova Era de Personalização em DeFi'
 slug: 'uniswap-v4-hooks-personalizacao-defi'
 excerpt: 'Descubra como Uniswap V4 está revolucionando DeFi com hooks customizáveis e arquitetura singleton.'
 coverImage:
-  src: '/images/uniswap.jpg'
+  src: '/images/195.jpg'
   alt: 'Uniswap V4 e Hooks: Nova Era de Personalização em DeFi'
   width: 1200
   height: 630

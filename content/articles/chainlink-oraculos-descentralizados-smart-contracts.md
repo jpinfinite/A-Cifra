@@ -1,10 +1,10 @@
----
+﻿---
 id: 'chainlink-oraculos'
 slug: 'chainlink-oraculos-descentralizados-smart-contracts'
 title: "Chainlink: Oráculos Descentralizados para Smart Contracts"
 excerpt: "Entenda como o Chainlink conecta smart contracts a dados do mundo real através de oráculos descentralizados e por que é essencial para DeFi."
 coverImage:
-  src: '/images/char.jpg'
+  src: '/images/066.jpg'
   alt: 'Chainlink - Oráculos Descentralizados'
   width: 1200
   height: 630

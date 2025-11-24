@@ -1,10 +1,10 @@
----
+﻿---
 id: 'cripto-gaming-gamefi-2026'
 title: "Cripto Gaming e GameFi 2026: Jogos Blockchain Finalmente Mainstream"
 slug: 'cripto-gaming-gamefi-2026'
 excerpt: "Descubra como jogos blockchain e GameFi estão revolucionando a indústria de games em 2026: play-to-earn, NFTs, economia player-owned e AAA on-chain."
 coverImage:
-  src: '/images/crypto-gaming.jpg'
+  src: '/images/084.jpg'
   alt: 'Cripto Gaming e GameFi 2026'
   width: 1200
   height: 630

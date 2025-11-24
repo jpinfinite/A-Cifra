@@ -1,10 +1,10 @@
----
+﻿---
 id: '20'
 title: 'MetaMask: Guia Completo da Carteira Cripto Mais Popular do Mundo'
 slug: 'metamask-guia-completo-carteira-cripto'
 excerpt: 'Aprenda tudo sobre MetaMask: como instalar, configurar, usar com segurança e aproveitar todos os recursos desta carteira essencial para DeFi e Web3.'
 coverImage:
-  src: '/images/metamask-wallet.jpg'
+  src: '/images/140.jpg'
   alt: 'MetaMask - Carteira de criptomoedas e gateway para Web3'
   width: 1200
   height: 630
@@ -39,7 +39,7 @@ seo:
 A **MetaMask** é muito mais que uma simples carteira de criptomoedas - é a porta de entrada para o universo Web3, DeFi e aplicações descentralizadas. Com mais de 100 milhões de usuários ativos, ela se tornou a carteira mais popular e confiável para interagir com a blockchain Ethereum e suas redes compatíveis.
 
 <div class="article-image">
-  <img src="/images/metamask-wallet.jpg" alt="MetaMask - Carteira de criptomoedas e gateway para Web3" />
+  <img src="/images/140.jpg" alt="MetaMask - Carteira de criptomoedas e gateway para Web3" />
   <p class="image-caption">MetaMask: sua porta de entrada para o universo Web3 e DeFi</p>
 </div>
 

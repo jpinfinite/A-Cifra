@@ -1,10 +1,10 @@
----
+﻿---
 id: 'proteger-crypto'
 title: 'Como Proteger Suas Criptomoedas: Guia de Segurança Completo'
 slug: 'proteger-criptomoedas-guia-seguranca-completo'
 excerpt: 'Aprenda as melhores práticas de segurança para proteger suas criptomoedas contra hacks, golpes e perdas. Guia completo com carteiras hardware, backups e proteção digital.'
 coverImage:
-  src: '/images/digital-wallet-security.jpg'
+  src: '/images/106.jpg'
   alt: 'Cadeado digital protegendo criptomoedas com ícones de segurança'
   width: 1200
   height: 630

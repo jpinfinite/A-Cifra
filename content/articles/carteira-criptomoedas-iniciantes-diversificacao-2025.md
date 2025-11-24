@@ -1,10 +1,10 @@
----
+﻿---
 id: 'carteira-criptomoedas-iniciantes-2025'
 title: 'Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia'
 slug: 'carteira-criptomoedas-iniciantes-diversificacao-2025'
 excerpt: 'Monte sua carteira de criptomoedas ideal: estratégias de diversificação, alocação por perfil de risco e rebalanceamento. Guia completo para iniciantes.'
 coverImage:
-  src: '/images/carteira-diversificacao-2025.png'
+  src: '/images/063.png'
   alt: 'Carteira de criptomoedas para iniciantes - Diversificação'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'analise-tecnica-indicadores'
 slug: 'analise-tecnica-indicadores-essenciais-cripto'
 title: "Análise Técnica: Indicadores Essenciais para Cripto"
 excerpt: "Domine os principais indicadores técnicos para trading de criptomoedas: RSI, MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas."
 coverImage:
-  src: '/images/analise.jpg'
+  src: '/images/038.jpg'
   alt: 'Análise Técnica: Indicadores Essenciais para Cripto'
   width: 1200
   height: 630

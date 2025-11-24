@@ -1,10 +1,10 @@
----
+﻿---
 id: 'cold-wallet-vs-hot-wallet-seguranca'
 title: 'Cold Wallet vs Hot Wallet: Qual é Mais Segura?'
 slug: 'cold-wallet-vs-hot-wallet-seguranca'
 excerpt: 'Comparação completa entre carteiras frias e quentes para armazenamento seguro de criptomoedas.'
 coverImage:
-  src: '/images/8558.jpg'
+  src: '/images/026.jpg'
   alt: 'Cold Wallet vs Hot Wallet: Qual é Mais Segura?'
   width: 1200
   height: 630

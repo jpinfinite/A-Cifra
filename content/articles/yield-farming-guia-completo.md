@@ -1,10 +1,10 @@
----
+﻿---
 id: 'yield-farming-guia'
 title: 'Yield Farming: Guia Completo para Maximizar Rendimentos em DeFi'
 slug: 'yield-farming-guia-completo'
 excerpt: 'Aprenda tudo sobre yield farming: o que é, como funciona, melhores estratégias, riscos e como começar a ganhar rendimentos passivos em DeFi.'
 coverImage:
-  src: '/images/yield.jpg'
+  src: '/images/214.jpg'
   alt: 'Yield Farming - Guia completo'
   width: 1200
   height: 630

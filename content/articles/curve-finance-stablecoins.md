@@ -1,10 +1,10 @@
----
+﻿---
 id: 'curve-finance'
 title: 'Curve Finance: A DEX Especializada em Stablecoins'
 slug: 'curve-finance-stablecoins'
 excerpt: 'Entenda o Curve Finance, a DEX otimizada para stablecoins com baixo slippage, altos rendimentos e o token CRV.'
 coverImage:
-  src: '/images/curve.jpg'
+  src: '/images/092.jpg'
   alt: 'Curve Finance - DEX Stablecoins'
   width: 1200
   height: 630

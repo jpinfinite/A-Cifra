@@ -1,10 +1,10 @@
----
+﻿---
 id: 'restaking-eigenlayer-2026'
 title: "Restaking e EigenLayer 2026: A Nova Fronteira de Staking e Segurança Compartilhada"
 slug: 'restaking-eigenlayer-2026'
 excerpt: "Descubra restaking, EigenLayer e como você pode ganhar yields múltiplos usando o mesmo ETH em 2026. A revolução da segurança compartilhada."
 coverImage:
-  src: '/images/restaking-eigenlayer.jpg'
+  src: '/images/167.jpg'
   alt: 'Restaking EigenLayer 2026'
   width: 1200
   height: 630

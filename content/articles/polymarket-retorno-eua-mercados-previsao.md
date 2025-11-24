@@ -1,10 +1,10 @@
----
+﻿---
 id: 'polymarket-retorno-eua'
 slug: 'polymarket-retorno-eua-mercados-previsao'
 title: "Polymarket Faz as Malas para Voltar aos EUA: Aposta Bilionária Pode Mudar o Jogo dos Mercados de Previsão"
 excerpt: "Após três anos banida do principal palco financeiro do mundo, a Polymarket está pronta para reabrir suas portas nos Estados Unidos com aval regulatório e investimentos colossais."
 coverImage:
-  src: '/images/poly.jpg'
+  src: '/images/160.jpg'
   alt: 'Polymarket - Retorno aos EUA'
   width: 1200
   height: 630

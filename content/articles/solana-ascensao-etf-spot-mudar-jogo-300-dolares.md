@@ -1,10 +1,10 @@
----
+﻿---
 id: '13'
 title: 'Solana em Ascensão: Como a Aprovação do ETF Spot Pode Mudar o Jogo'
 slug: 'solana-ascensao-etf-spot-mudar-jogo-300-dolares'
 excerpt: 'A aprovação do ETF Spot de Solana pode ser o catalisador para uma nova alta. Análise completa do potencial de crescimento para $300 e fatores fundamentais.'
 coverImage:
-  src: '/images/solana-etf-ascensao.webp'
+  src: '/images/179.webp'
   alt: 'Solana em ascensão com gráfico de crescimento e logo SOL'
   width: 1200
   height: 630

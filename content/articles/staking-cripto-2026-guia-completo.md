@@ -1,10 +1,10 @@
----
+﻿---
 id: 'staking-cripto-2026-guia-completo'
 title: "Staking de Cripto 2026: Guia Completo para Renda Passiva"
 slug: 'staking-cripto-2026-guia-completo'
 excerpt: "Aprenda tudo sobre staking de criptomoedas: melhores moedas, retornos, riscos e como ganhar renda passiva com seus investimentos em 2026."
 coverImage:
-  src: '/images/staking-2026.jpg'
+  src: '/images/181.jpg'
   alt: 'Staking Cripto 2026'
   width: 1200
   height: 630

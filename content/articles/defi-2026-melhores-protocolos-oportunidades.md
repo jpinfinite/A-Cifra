@@ -1,10 +1,10 @@
----
+﻿---
 id: 'defi-2026-melhores-protocolos-oportunidades'
 title: "DeFi 2026: Melhores Protocolos e Oportunidades de Investimento"
 slug: 'defi-2026-melhores-protocolos-oportunidades'
 excerpt: "Guia completo de DeFi para 2026: melhores protocolos, oportunidades de yield, riscos e como ganhar com finanças descentralizadas."
 coverImage:
-  src: '/images/defi-revolution.jpg'
+  src: '/images/103.jpg'
   alt: 'DeFi 2026 Protocolos'
   width: 1200
   height: 630

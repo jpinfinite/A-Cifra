@@ -1,10 +1,10 @@
----
+﻿---
 id: 'atomic-swaps-trocas-descentralizadas'
 title: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
 slug: 'atomic-swaps-trocas-descentralizadas'
 excerpt: 'Entenda como atomic swaps permitem trocas trustless entre diferentes criptomoedas.'
 coverImage:
-  src: '/images/765d7f63-6ee2-4fad-bff9-acd48a8ce7ca.jpg'
+  src: '/images/024.jpg'
   alt: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'filecoin-armazenamento-descentralizado'
 title: 'Filecoin (FIL): Armazenamento Descentralizado de Dados'
 slug: 'filecoin-armazenamento-descentralizado'
 excerpt: 'Descubra como Filecoin está criando uma rede global de armazenamento descentralizado usando blockchain.'
 coverImage:
-  src: '/images/343407-pakfit-409.jpg'
+  src: '/images/016.jpg'
   alt: 'Filecoin (FIL): Armazenamento Descentralizado de Dados'
   width: 1200
   height: 630

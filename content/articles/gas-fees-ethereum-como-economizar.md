@@ -1,10 +1,10 @@
----
+﻿---
 id: 'gas-fees-ethereum-como-economizar'
 title: 'Gas Fees no Ethereum: Como Economizar em Transações'
 slug: 'gas-fees-ethereum-como-economizar'
 excerpt: 'Aprenda estratégias práticas para reduzir custos de gas no Ethereum e otimizar suas transações.'
 coverImage:
-  src: '/images/363.jpg'
+  src: '/images/018.jpg'
   alt: 'Gas Fees no Ethereum: Como Economizar em Transações'
   width: 1200
   height: 630

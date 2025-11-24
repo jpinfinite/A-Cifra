@@ -1,10 +1,10 @@
----
+﻿---
 id: '19'
 title: 'Memecoins: O Fenômeno Cultural que Revolucionou o Mercado Cripto'
 slug: 'memecoins-fenomeno-cultural-mercado-cripto'
 excerpt: 'Entenda o que são memecoins, como surgiram, por que se tornaram populares e como investir com segurança neste setor volátil mas fascinante do mercado cripto.'
 coverImage:
-  src: '/images/memecoins-phenomenon.jpg'
+  src: '/images/137.jpg'
   alt: 'Memecoins - Dogecoin, Shiba Inu e outras criptomoedas meme'
   width: 1200
   height: 630
@@ -39,7 +39,7 @@ seo:
 As **memecoins** representam um dos fenômenos mais interessantes e controversos do universo cripto. Nascidas como piadas na internet, essas criptomoedas baseadas em memes se transformaram em um mercado de bilhões de dólares, criando milionários da noite para o dia e também causando perdas significativas para investidores desavisados.
 
 <div class="article-image">
-  <img src="/images/memecoins-phenomenon.jpg" alt="Memecoins - Dogecoin, Shiba Inu e outras criptomoedas meme" />
+  <img src="/images/137.jpg" alt="Memecoins - Dogecoin, Shiba Inu e outras criptomoedas meme" />
   <p class="image-caption">Memecoins: de piadas da internet a fenômeno de mercado bilionário</p>
 </div>
 

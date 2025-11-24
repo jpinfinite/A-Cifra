@@ -1,10 +1,10 @@
----
+﻿---
 id: 'layer-2-ethereum'
 title: 'O Que São Layer 2 e Por Que São Essenciais para o Ethereum'
 slug: 'layer-2-essencial-ethereum-escalabilidade'
 excerpt: 'Entenda como as soluções Layer 2 estão revolucionando o Ethereum com transações mais rápidas, baratas e escaláveis. Guia completo sobre rollups, sidechains e o futuro da escalabilidade.'
 coverImage:
-  src: '/images/Layer2.jpg'
+  src: '/images/132.jpg'
   alt: 'Diagrama mostrando Ethereum Layer 1 com múltiplas soluções Layer 2 conectadas'
   width: 1200
   height: 630

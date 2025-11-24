@@ -1,10 +1,10 @@
----
+﻿---
 id: 'analise-cripto-2025'
 title: 'Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos'
 slug: 'analisar-criptomoedas-indicadores-fundamentais-tecnicos'
 excerpt: 'Guia completo para análise de criptomoedas: indicadores fundamentais (tecnologia, equipe, adoção) e técnicos (preço, volume, padrões) para tomar decisões de investimento informadas.'
 coverImage:
-  src: '/images/crypto-analysis-charts.jpg'
+  src: '/images/078.jpg'
   alt: 'Gráfico com múltiplos indicadores de análise de criptomoedas'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'makerdao-dai'
 title: 'MakerDAO e DAI: A Stablecoin Descentralizada'
 slug: 'makerdao-dai-stablecoin'
 excerpt: 'Entenda o MakerDAO, o protocolo por trás do DAI, a stablecoin descentralizada mais importante do DeFi e como ela mantém paridade com o dólar.'
 coverImage:
-  src: '/images/dao.jpg'
+  src: '/images/093.jpg'
   alt: 'MakerDAO e DAI - Stablecoin descentralizada'
   width: 1200
   height: 630

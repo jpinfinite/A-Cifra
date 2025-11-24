@@ -1,10 +1,10 @@
----
+﻿---
 id: 'como-investir-criptomoedas-2025'
 title: 'Como Investir em Criptomoedas em 2025: Guia Completo do Zero ao Avançado'
 slug: 'como-investir-criptomoedas-2025-guia-completo'
 excerpt: 'Aprenda passo a passo como começar a investir em criptomoedas com segurança, desde a escolha da exchange até estratégias avançadas de diversificação.'
 coverImage:
-  src: '/images/investir-cripto-2025.png'
+  src: '/images/131.png'
   alt: 'Como investir em criptomoedas em 2025 - Guia completo'
   width: 1200
   height: 630

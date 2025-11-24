@@ -1,10 +1,10 @@
----
+﻿---
 id: '11'
 title: 'Pools de Liquidez: O Coração da Finança Descentralizada (DeFi)'
 slug: 'pools-liquidez-coracao-financa-descentralizada-defi'
 excerpt: 'As pools de liquidez são fundamentais para o DeFi, permitindo negociações eficientes e recompensas para fornecedores. Descubra como funcionam e como participar.'
 coverImage:
-  src: '/images/pools-liquidez-defi.webp'
+  src: '/images/161.webp'
   alt: 'Representação visual de pools de liquidez DeFi com gráficos e moedas'
   width: 1200
   height: 630

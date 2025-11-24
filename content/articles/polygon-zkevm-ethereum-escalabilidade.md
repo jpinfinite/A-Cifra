@@ -1,10 +1,10 @@
----
+﻿---
 id: 'polygon-zkevm'
 slug: 'polygon-zkevm-ethereum-escalabilidade'
 title: "Polygon: zkEVM e Escalabilidade para Ethereum"
 excerpt: "Descubra como o Polygon está revolucionando a escalabilidade do Ethereum com zkEVM, sidechains e o token MATIC."
 coverImage:
-  src: '/images/matic.jpg'
+  src: '/images/134.jpg'
   alt: 'Polygon zkEVM - Escalabilidade Ethereum'
   width: 1200
   height: 630

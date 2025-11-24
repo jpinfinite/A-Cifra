@@ -1,10 +1,10 @@
----
+﻿---
 id: 'ethereum-2025'
 title: 'Ethereum 2.0: O Futuro da Segunda Maior Criptomoeda'
 slug: 'ethereum-2-0-futuro-segunda-maior-criptomoeda'
 excerpt: 'Entenda como a Ethereum 2.0 está revolucionando a rede com Proof of Stake, shardings e melhorias de escalabilidade que prometem transformar o ecossistema DeFi e dApps.'
 coverImage:
-  src: '/images/etherum-2.0.jpg'
+  src: '/images/115.jpg'
   alt: 'Ilustração do Ethereum 2.0 com beacon chain e shards'
   width: 1200
   height: 630

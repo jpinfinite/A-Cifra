@@ -1,10 +1,10 @@
----
+﻿---
 id: 'account-abstraction-erc-4337-2026'
 title: "Account Abstraction (ERC-4337) 2026: Carteiras Inteligentes e a Nova Era da UX Cripto"
 slug: 'account-abstraction-erc-4337-2026'
 excerpt: "Descubra Account Abstraction, ERC-4337 e como carteiras inteligentes estão revolucionando a experiência do usuário em cripto em 2026."
 coverImage:
-  src: '/images/account-abstraction.jpg'
+  src: '/images/030.jpg'
   alt: 'Account Abstraction ERC-4337'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'lightning-network-bitcoin-pagamentos-rapidos'
 title: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
 slug: 'lightning-network-bitcoin-pagamentos-rapidos'
 excerpt: 'Descubra como Lightning Network está tornando Bitcoin viável para pagamentos do dia a dia.'
 coverImage:
-  src: '/images/71f3292b-cabc-4ff8-b17a-f1afa52045c4.jpg'
+  src: '/images/023.jpg'
   alt: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
   width: 1200
   height: 630

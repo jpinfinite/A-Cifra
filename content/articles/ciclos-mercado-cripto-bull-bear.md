@@ -1,10 +1,10 @@
----
+﻿---
 id: 'ciclos-mercado-cripto-bull-bear'
 title: 'Ciclos de Mercado Cripto: Bull e Bear Markets'
 slug: 'ciclos-mercado-cripto-bull-bear'
 excerpt: 'Entenda os ciclos de mercado em criptomoedas e como se posicionar em cada fase.'
 coverImage:
-  src: '/images/criptomoedas-geral.jpg'
+  src: '/images/077.jpg'
   alt: 'Ciclos de Mercado Cripto: Bull e Bear Markets'
   width: 1200
   height: 630

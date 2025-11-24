@@ -1,10 +1,10 @@
----
+﻿---
 id: 'impostos-criptomoedas-brasil-2025'
 title: 'Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR'
 slug: 'impostos-criptomoedas-brasil-ir-2025'
 excerpt: 'Guia definitivo sobre impostos de criptomoedas: como declarar no IR 2025, calcular ganho de capital, evitar multas e usar ferramentas de cálculo automático.'
 coverImage:
-  src: '/images/impostos-ir-2025.png'
+  src: '/images/128.png'
   alt: 'Impostos sobre criptomoedas no Brasil - Guia IR 2025'
   width: 1200
   height: 630

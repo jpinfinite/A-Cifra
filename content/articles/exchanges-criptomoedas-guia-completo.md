@@ -1,10 +1,10 @@
----
+﻿---
 id: '16'
 title: 'Exchanges de Criptomoedas: Guia Completo para Iniciantes'
 slug: 'exchanges-criptomoedas-guia-completo'
 excerpt: 'Entenda o que são exchanges, como funcionam CEX e DEX, e aprenda a escolher a melhor plataforma para investir em criptomoedas com segurança.'
 coverImage:
-  src: '/images/crypto-exchange.jpg'
+  src: '/images/082.jpg'
   alt: 'Exchanges de criptomoedas - Guia completo para iniciantes sobre como escolher e usar plataformas de trading'
   width: 1200
   height: 630
@@ -40,7 +40,7 @@ seo:
 <p>As <strong>exchanges de criptomoedas</strong> são a porta de entrada para quem deseja comprar, vender ou negociar ativos digitais como Bitcoin, Ethereum e outras criptomoedas. Elas desempenham um papel fundamental na democratização do acesso ao mercado cripto â€” mas também trazem desafios que exigem atenção e conhecimento.</p>
       
       <div class="article-image">
-        <img src="/images/crypto-exchange.jpg" alt="Exchanges de criptomoedas - Plataformas de trading digital" />
+        <img src="/images/082.jpg" alt="Exchanges de criptomoedas - Plataformas de trading digital" />
         <p class="image-caption">Exchanges conectam investidores ao universo das criptomoedas</p>
       </div>
       
@@ -69,7 +69,7 @@ seo:
       <p>Existem dois principais tipos de exchanges, cada um com filosofias e características fundamentalmente diferentes. A escolha entre CEX e DEX define sua experiência no mercado cripto e o nível de controle sobre seus ativos.</p>
       
       <div class="article-image">
-        <img src="/images/crypto-trading-desk.jpg" alt="Tecnologia blockchain - Centralizado vs Descentralizado - Comparação de plataformas" />
+        <img src="/images/088.jpg" alt="Tecnologia blockchain - Centralizado vs Descentralizado - Comparação de plataformas" />
         <p class="image-caption">A diferença fundamental entre CEX e DEX está na filosofia de custódia e controle dos ativos</p>
       </div>
       
@@ -196,7 +196,7 @@ seo:
       <p>A segurança deve ser sua prioridade número um. Verifique:</p>
       
       <div class="article-image">
-        <img src="/images/crypto-wallet-security.jpg" alt="Segurança de carteiras de criptomoedas" />
+        <img src="/images/091.jpg" alt="Segurança de carteiras de criptomoedas" />
         <p class="image-caption">A segurança deve ser sua prioridade número um ao escolher uma exchange</p>
       </div>
       

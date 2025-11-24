@@ -1,10 +1,10 @@
----
+﻿---
 id: 'dao-organizacoes'
 slug: 'dao-organizacoes-autonomas-descentralizadas'
 title: "DAOs: Organizações Autônomas Descentralizadas"
 excerpt: "Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma nova forma de organização e governança descentralizada."
 coverImage:
-  src: '/images/daos.jpg'
+  src: '/images/094.jpg'
   alt: 'DAOs: Organizações Autônomas Descentralizadas'
   width: 1200
   height: 630

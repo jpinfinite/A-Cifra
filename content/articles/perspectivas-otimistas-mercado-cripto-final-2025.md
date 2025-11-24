@@ -1,10 +1,10 @@
----
+﻿---
 id: '15'
 title: 'Perspectivas Otimistas para o Mercado Cripto no Final de 2025'
 slug: 'perspectivas-otimistas-mercado-cripto-final-2025'
 excerpt: 'Um olhar técnico sobre a consolidação institucional, avanços tecnológicos e as tendências que podem definir o fechamento do ciclo cripto em 2025.'
 coverImage:
-  src: '/images/crypto-market-analysis.jpg'
+  src: '/images/085.jpg'
   alt: 'Perspectivas otimistas para o mercado cripto no final de 2025 - Análise técnica e tendências'
   width: 1200
   height: 630
@@ -45,7 +45,7 @@ seo:
 Este artigo analisa em profundidade os principais fatores que impulsionarão o mercado cripto no final de 2025, desde a força da demanda institucional por Bitcoin até as evoluções do ecossistema Ethereum e as tendências emergentes que moldarão o fechamento do ano.
 
 <div class="article-image">
-<img src="/images/bitcoin-moeda-digital.jpg" alt="Bitcoin e criptomoedas" />
+<img src="/images/051.jpg" alt="Bitcoin e criptomoedas" />
 
 <p class="image-caption">O mercado cripto exibe um otimismo crescente para o final de 2025.</p>
 

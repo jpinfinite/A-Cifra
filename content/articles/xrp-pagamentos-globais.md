@@ -1,10 +1,10 @@
----
+﻿---
 id: 'xrp-ripple'
 slug: 'xrp-pagamentos-globais'
 title: "XRP e Ripple: Revolucionando Pagamentos Globais"
 excerpt: "Descubra como o XRP e a Ripple estão transformando pagamentos internacionais com transações rápidas, baratas e eficientes para bancos e instituições financeiras."
 coverImage:
-  src: '/images/xrp-pagamentos-globais.jpg'
+  src: '/images/212.jpg'
   alt: 'XRP e Ripple: Revolucionando Pagamentos Globais'
   width: 1200
   height: 630

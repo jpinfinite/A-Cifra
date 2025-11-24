@@ -1,10 +1,10 @@
----
+﻿---
 id: 'staking-recompensas'
 title: 'Staking de Criptomoedas: Passo a Passo para Ganhar Recompensas'
 slug: 'staking-criptomoedas-passo-passo-recompensas'
 excerpt: 'Guia completo de staking de criptomoedas: como funciona, quais moedas staking, plataformas recomendadas, riscos e estratégias para maximizar rendimentos passivos.'
 coverImage:
-  src: '/images/staking-recompensas.jpg'
+  src: '/images/182.jpg'
   alt: 'Ilustração de staking com moedas gerando recompensas passivas'
   width: 1200
   height: 630

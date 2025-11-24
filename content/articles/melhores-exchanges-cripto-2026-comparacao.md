@@ -1,10 +1,10 @@
----
+﻿---
 id: 'melhores-exchanges-cripto-2026-comparacao'
 title: "Melhores Exchanges de Cripto 2026: Comparação Completa"
 slug: 'melhores-exchanges-cripto-2026-comparacao'
 excerpt: "Guia completo das melhores exchanges de criptomoedas em 2026: taxas, segurança, recursos e bônus de boas-vindas. Compare Binance, Bitget, Coinbase e mais."
 coverImage:
-  src: '/images/exchanges-2026.jpg'
+  src: '/images/117.jpg'
   alt: 'Melhores Exchanges Cripto 2026'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: 'dusting-attacks-protecao-rastreamento'
 title: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
 slug: 'dusting-attacks-protecao-rastreamento'
 excerpt: 'Entenda o que são dusting attacks e como se proteger contra rastreamento.'
 coverImage:
-  src: '/images/cdcrypto.jpg'
+  src: '/images/064.jpg'
   alt: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
   width: 1200
   height: 630

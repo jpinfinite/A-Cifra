@@ -1,10 +1,10 @@
----
+﻿---
 id: '9'
 title: 'Revolucionando a Indústria de Jogos: O Poder da GameFi e como Investir com Segurança'
 slug: 'gamefi-revolucionando-industria-jogos-investir-seguranca'
 excerpt: 'A GameFi está transformando a indústria de jogos, combinando gaming com DeFi e blockchain. Descubra como funciona e como investir com segurança nesta revolução.'
 coverImage:
-  src: '/images/gamefi-revolucao-jogos.webp'
+  src: '/images/122.webp'
   alt: 'Gamer jogando com elementos de criptomoedas e GameFi ao redor'
   width: 1200
   height: 630

@@ -1,10 +1,10 @@
----
+﻿---
 id: '24'
 title: "Aave Lança App que Parece um Banco Real — A Revolução que Pode Levar DeFi para 1 Bilhão de Pessoas"
 slug: "aave-app-defi-banco-revolucao-mobile"
 excerpt: "Aave elimina a complexidade do DeFi com app móvel que oferece até 9% de rendimento, proteção de $1 milhão e experiência de usuário idêntica a um banco tradicional. O 'momento iPhone' das finanças descentralizadas chegou."
 coverImage:
-  src: '/images/aave.jpg'
+  src: '/images/028.jpg'
   alt: 'Aave App - Primeiro aplicativo DeFi com experiência bancária tradicional'
   width: 1200
   height: 630
