@@ -134,8 +134,8 @@ export interface TableOfContentsItem {
   level: number
   children?: TableOfContentsItem[]
 }
-// Tipos pa
-ra estrutura de artigos
+
+// Tipos para estrutura de artigos
 export interface ArticleStructureProps {
   frontmatter: {
     title: string

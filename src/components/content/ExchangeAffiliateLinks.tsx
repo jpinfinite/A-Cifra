@@ -1,17 +1,13 @@
 'use client'
 
-import { affiliateConfig } from '@/config/affiliates'
-
 interface ExchangeAffiliateLinksProps {
   variant?: 'default' | 'compact' | 'sidebar'
   className?: string
-  exchanges?: ('bitget' | 'binance' | 'coinbase')[]
 }
 
 export function ExchangeAffiliateLinks({ 
   variant = 'default',
-  className = '',
-  exchanges = ['bitget', 'binance', 'coinbase']
+  className = ''
 }: ExchangeAffiliateLinksProps) {
   
   if (variant === 'compact') {

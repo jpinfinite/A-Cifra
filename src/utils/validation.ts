@@ -1,6 +1,6 @@
 import { ValidationResult, ArticleValidation, Article } from '@/types'
 
-export function validateFrontmatter(frontmatter: any): ValidationResult {
+export function validateFrontmatter(frontmatter: Record<string, unknown>): ValidationResult {
   const errors: string[] = []
   const warnings: string[] = []
 
