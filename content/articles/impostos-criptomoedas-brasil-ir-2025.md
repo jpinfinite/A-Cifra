@@ -687,3 +687,11 @@ Declarar criptomoedas não é complicado, mas exige organização. Com este guia
 **Última atualização:** Novembro 2025
 
 **Disclaimer:** Este artigo é educacional. Para situações complexas, consulte um contador especializado em criptomoedas. As regras podem mudar.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

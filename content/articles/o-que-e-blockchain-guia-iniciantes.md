@@ -61,3 +61,11 @@ A blockchain vai além das criptomoedas:
 - Propriedade intelectual
 
 Entender blockchain é essencial para compreender o futuro da tecnologia e das finanças digitais.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

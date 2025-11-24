@@ -243,3 +243,11 @@ Quer se aprofundar mais no universo Bitcoin? Confira nossos outros artigos:
 **Disclaimer:** Este artigo não é recomendação de investimento. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir em criptomoedas.
 
 *Última atualização: 21 de novembro de 2025*
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

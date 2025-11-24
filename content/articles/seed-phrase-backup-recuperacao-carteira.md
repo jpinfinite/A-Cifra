@@ -91,3 +91,11 @@ A **segurança** é o aspecto mais crítico ao lidar com criptomoedas. Este guia
 ## Conclusão
 
 Segurança em cripto é responsabilidade individual. Implemente estas práticas para proteger seus ativos digitais.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

@@ -104,3 +104,11 @@ O **PancakeSwap** é a maior DEX da Binance Smart Chain. Aprenda a usar todas as
 ## Conclusão
 
 PancakeSwap oferece taxas baixas e bons rendimentos. Ideal para quem quer começar em DeFi.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

@@ -1,4 +1,4 @@
----
+﻿---
 id: 'bitcoin-guide-2025'
 title: 'Bitcoin: Guia Completo para Iniciantes em 2025'
 slug: 'bitcoin-guia-completo-iniciantes-2025'
@@ -33,3 +33,11 @@ seo:
 O **Bitcoin** é a primeira e mais conhecida criptomoeda do mundo, criada em 2009 por uma pessoa ou grupo sob o pseudônimo Satoshi Nakamoto. Desde então, revolucionou o conceito de dinheiro digital e abriu caminho para milhares de outras criptomoedas.
 
 Neste guia completo, você aprenderá tudo o que precisa saber para começar no mundo do Bitcoin em 2025.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

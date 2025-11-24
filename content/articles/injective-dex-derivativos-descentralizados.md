@@ -78,3 +78,11 @@ Trading de opções descentralizado.
 ## Conclusão
 
 Injective está trazendo sofisticação de finanças tradicionais para DeFi de forma totalmente descentralizada.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

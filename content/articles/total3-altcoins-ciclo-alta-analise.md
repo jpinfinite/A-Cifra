@@ -440,3 +440,11 @@ Use trailing stops, realize parcialmente em alvos predefinidos, rebalanceie port
 *Feito com 💙 pela equipe A Cifra — #StayCifrado*
 
 **Disclaimer**: Este artigo é apenas informativo e não constitui aconselhamento financeiro. Altcoins são extremamente voláteis e arriscadas. Faça sua própria pesquisa e consulte profissionais antes de investir.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

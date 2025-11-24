@@ -299,3 +299,11 @@ Como o "Google das blockchains", The Graph está se tornando cada vez mais impor
 Para investidores, GRT oferece exposição a uma camada de infraestrutura crítica com múltiplas formas de gerar renda passiva através de delegação e curadoria.
 
 À medida que mais blockchains são suportadas e mais dApps são construídos, a demanda por serviços de indexação do The Graph tende a crescer significativamente.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

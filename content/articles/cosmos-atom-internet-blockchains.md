@@ -270,3 +270,11 @@ Com o IBC, Cosmos SDK e Tendermint, o projeto fornece as ferramentas necessária
 Para investidores, ATOM oferece exposição a um ecossistema em crescimento com staking atrativo e potencial de valorização à medida que mais chains se conectam via IBC.
 
 O Cosmos 2.0 promete trazer ainda mais utilidade ao ATOM, tornando o Cosmos Hub o centro de um universo interconectado de blockchains.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

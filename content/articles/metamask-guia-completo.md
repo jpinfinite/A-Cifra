@@ -388,3 +388,11 @@ Sim, MetaMask integra com Ledger e Trezor, oferecendo segurança de hardware wal
 Geralmente por gas fee baixo ou rede congestionada. Você pode acelerar aumentando o gas fee ou aguardar o processamento.
 
 > *"MetaMask não é apenas uma carteira, é sua chave para o futuro descentralizado. Use com sabedoria e segurança."* - A Cifra
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

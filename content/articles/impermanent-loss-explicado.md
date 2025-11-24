@@ -111,3 +111,11 @@ Perda impermanente é real, mas pode ser compensada por:
 - Incentivos do protocolo
 
 Calcule sempre antes de fornecer liquidez!
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

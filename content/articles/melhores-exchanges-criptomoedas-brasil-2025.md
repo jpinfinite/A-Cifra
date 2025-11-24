@@ -616,3 +616,11 @@ Depois de 1-2 meses, quando estiver confortável, abra conta na Binance para exp
 **Última atualização:** Novembro 2025
 
 **Disclaimer:** Este artigo é educacional. Faça sua própria pesquisa antes de escolher uma exchange. Não somos afiliados de nenhuma plataforma mencionada.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

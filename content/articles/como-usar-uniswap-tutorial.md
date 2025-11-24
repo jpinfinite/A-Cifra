@@ -75,3 +75,11 @@ O **Uniswap** é a maior DEX (exchange descentralizada) do mundo. Este tutorial 
 ❌ Nunca compartilhe sua seed phrase
 
 Pronto! Você já sabe usar o Uniswap.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

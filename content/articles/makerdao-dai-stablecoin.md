@@ -78,3 +78,11 @@ Token MKR controla:
 ## Conclusão
 
 DAI é a stablecoin mais descentralizada e fundamental para DeFi. Ideal para quem valoriza descentralização.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

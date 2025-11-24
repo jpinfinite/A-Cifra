@@ -422,3 +422,11 @@ Para indivíduos, Web3 oferece novas oportunidades de propriedade, monetização
 O futuro da internet está sendo construído agora, e todos podem participar. Comece pequeno, aprenda continuamente e explore as possibilidades desta nova era digital.
 
 Web3 não é apenas sobre tecnologia - é sobre reimaginar como coordenamos, criamos valor e nos relacionamos no mundo digital.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

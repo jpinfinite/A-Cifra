@@ -430,3 +430,11 @@ Para artistas, os NFTs oferecem novas oportunidades de monetização e conexão 
 O futuro dos NFTs provavelmente verá expansão além da arte, com aplicações em documentação, gaming, música e muito mais. A chave para o sucesso neste espaço é educação contínua, pesquisa cuidadosa e gestão prudente de riscos.
 
 > 💡 **Dica:** **Lembre-se:** O mercado de NFTs é altamente volátil e especulativo. Invista apenas o que pode perder e sempre faça sua própria pesquisa antes de comprar qualquer NFT.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

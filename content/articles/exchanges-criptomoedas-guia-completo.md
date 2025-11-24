@@ -358,3 +358,11 @@ seo:
       <blockquote>
         <p><em>"O mercado cripto é revolucionário, mas a segurança deve ser sua prioridade número um. Eduque-se, comece pequeno e cresça com responsabilidade."</em> - A Cifra</p>
       </blockquote>
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

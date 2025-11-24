@@ -35,3 +35,11 @@ seo:
 As **Finanças Descentralizadas (DeFi)** representam uma das inovações mais disruptivas do ecossistema blockchain. Ao eliminar intermediários tradicionais como bancos e corretoras, o DeFi está democratizando o acesso a serviços financeiros globalmente.
 
 Neste artigo, você descobrirá como o DeFi funciona e por que está revolucionando o sistema financeiro tradicional.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

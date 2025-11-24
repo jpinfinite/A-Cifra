@@ -39,3 +39,11 @@ seo:
 Analisar criptomoedas é uma habilidade essencial para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Diferente de ativos tradicionais, as criptomoedas exigem uma abordagem única que combina análise fundamentalista e técnica.
 
 Neste guia completo, você aprenderá os principais indicadores e métricas para avaliar projetos de criptomoedas.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

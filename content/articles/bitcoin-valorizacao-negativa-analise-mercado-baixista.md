@@ -335,3 +335,11 @@ A resposta depende do seu horizonte de tempo:
 - 🎯 Níveis de suporte importantes em US$ 75K-80K
 - ⏰ Recuperação pode levar 3-12 meses
 - ✅ Oportunidade de acumulação para longo prazo
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

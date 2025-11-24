@@ -178,3 +178,11 @@ Yield farming pode gerar bons rendimentos, mas requer:
 - Capital para taxas de gas
 
 Comece pequeno, aprenda e escale gradualmente.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

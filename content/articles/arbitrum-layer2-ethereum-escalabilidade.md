@@ -79,3 +79,11 @@ Arbitrum processa transações off-chain e publica provas na Ethereum mainnet, r
 ## Conclusão
 
 Arbitrum está liderando a escalabilidade do Ethereum, oferecendo uma experiência rápida e barata sem comprometer segurança.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

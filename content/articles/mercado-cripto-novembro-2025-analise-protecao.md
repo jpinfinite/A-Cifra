@@ -716,3 +716,11 @@ Muita gente estava alavancada em R$ 520k-550k e foi liquidada.
 **Disclaimer:** Este artigo é apenas educacional e reflete análise pessoal do mercado. Não é recomendação de investimento. Criptomoedas são ativos de alto risco. Invista apenas o que pode perder. Faça sua própria pesquisa (DYOR).
 
 **Fontes:** CoinMarketCap, TradingView, Glassnode, CryptoQuant, análise própria do mercado.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

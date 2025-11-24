@@ -94,3 +94,11 @@ Fazer **staking de Ethereum** permite ganhar recompensas passivas enquanto ajuda
 ## Conclusão
 
 Staking de ETH é ótima forma de renda passiva, mas entenda os riscos antes de começar.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

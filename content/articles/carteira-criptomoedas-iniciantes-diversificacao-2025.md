@@ -765,3 +765,11 @@ Montar uma carteira de criptomoedas equilibrada é a base para sucesso no longo 
 **Última atualização:** Novembro 2025
 
 **Disclaimer:** Este artigo é educacional. Não é recomendação de investimento. Faça sua própria pesquisa e invista apenas o que pode perder.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

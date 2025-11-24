@@ -1,4 +1,4 @@
----
+﻿---
 id: '22'
 title: "O Comeback das Moedas Secretas: Zcash e Dash Disparam no Mercado"
 slug: "zcash-dash-moedas-privacidade-disparam"
@@ -159,3 +159,11 @@ E lembre-se: **ativos focados em privacidade envolvem riscos específicos**. Con
 - [Site Oficial do Dash](https://www.dash.org/)
 - [Documentação Técnica Zcash](https://z.cash/technology/)
 - [Guia de Privacidade Dash](https://docs.dash.org/en/stable/wallets/dashcore/privatesend-instantsend.html)
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

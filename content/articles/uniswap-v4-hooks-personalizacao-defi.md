@@ -71,3 +71,11 @@ Todos os pools em um único contrato, reduzindo custos de gas.
 ## Conclusão
 
 Uniswap V4 abre possibilidades infinitas para inovação em DeFi através de hooks customizáveis.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

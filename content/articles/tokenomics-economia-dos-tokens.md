@@ -188,3 +188,11 @@ Tokenomics sólidos são fundamentais para o sucesso de longo prazo de um projet
 5. Avalie mecanismos econômicos
 
 Lembre-se: bons tokenomics não garantem sucesso, mas maus tokenomics quase sempre levam ao fracasso.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

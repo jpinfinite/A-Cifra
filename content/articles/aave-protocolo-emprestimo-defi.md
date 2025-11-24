@@ -80,3 +80,11 @@ Empréstimos instantâneos sem colateral:
 ## Conclusão
 
 Aave é ideal para ganhar rendimentos passivos ou acessar liquidez sem vender ativos.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

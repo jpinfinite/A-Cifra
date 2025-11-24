@@ -387,3 +387,11 @@ Comece com indicadores básicos, domine-os antes de adicionar mais complexidade.
 Combine análise técnica com fundamentalista para melhores resultados. A técnica diz quando entrar/sair, a fundamentalista diz o que comprar.
 
 Pratique em conta demo, mantenha um diário de trades e aprenda com seus erros. Com tempo e dedicação, você desenvolverá sua própria estratégia vencedora.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

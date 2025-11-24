@@ -416,3 +416,11 @@ Quer aprender mais sobre Ethereum e DeFi? Confira:
 **Disclaimer:** Este artigo é apenas para fins educacionais e não constitui recomendação de investimento. Criptomoedas são ativos voláteis e você pode perder todo seu capital. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir.
 
 *Última atualização: 21 de novembro de 2025*
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

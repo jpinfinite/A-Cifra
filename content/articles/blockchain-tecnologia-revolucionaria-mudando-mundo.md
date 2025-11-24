@@ -479,3 +479,11 @@ O futuro pertence Ã queles que compreendem e abraçam esta tecnologia. Seja vo
 > 💡 **Dica:** **Próximo Passo:** Comece pequeno - crie uma carteira digital, faça uma transação simples, explore um dApp. A melhor forma de entender blockchain é experimentá-la na prática.
 
 A revolução blockchain não é uma questão de "se", mas de "quando". E esse "quando" é agora.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

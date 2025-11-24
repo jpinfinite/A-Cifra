@@ -233,3 +233,11 @@ Com sua rede descentralizada de oráculos, o Chainlink permite que DeFi, NFTs, g
 Para investidores, LINK representa exposição a uma infraestrutura essencial que está sendo adotada por praticamente todos os principais protocolos DeFi e além.
 
 À medida que mais aplicações blockchain precisam de dados externos, a importância e o valor do Chainlink tendem a crescer.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

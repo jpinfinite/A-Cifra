@@ -39,3 +39,11 @@ seo:
 O **staking** é uma das formas mais populares de gerar renda passiva com criptomoedas. Ao "travar" suas moedas em uma rede blockchain que usa Proof of Stake, você ajuda a validar transações e, em troca, recebe recompensas.
 
 Neste guia passo a passo, você aprenderá tudo sobre staking: como funciona, onde fazer e como maximizar seus rendimentos.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

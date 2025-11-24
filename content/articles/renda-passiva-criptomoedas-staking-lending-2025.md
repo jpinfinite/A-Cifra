@@ -586,3 +586,11 @@ Renda passiva com criptomoedas é real e acessível. Você pode começar com ape
 **Última atualização:** Novembro 2025
 
 **Disclaimer:** Este artigo é educacional. Rendimentos passados não garantem retornos futuros. Faça sua própria pesquisa e consulte um assessor financeiro.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

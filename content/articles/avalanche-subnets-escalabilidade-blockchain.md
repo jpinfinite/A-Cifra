@@ -239,3 +239,11 @@ O Avalanche é uma das blockchains mais tecnicamente avançadas, oferecendo velo
 Com seu consenso inovador, compatibilidade com Ethereum e foco em casos de uso corporativos, o Avalanche está bem posicionado para crescimento.
 
 Para investidores, AVAX oferece exposição a uma plataforma que está atraindo desenvolvedores, usuários e até empresas tradicionais, com a vantagem adicional de recompensas de staking atrativas.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

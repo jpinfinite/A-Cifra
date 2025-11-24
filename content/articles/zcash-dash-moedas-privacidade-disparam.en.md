@@ -1,4 +1,4 @@
----
+﻿---
 id: '22'
 title: "The Comeback of Secret Coins: Zcash and Dash Surge in the Market"
 slug: "zcash-dash-privacy-coins-surge"
@@ -159,3 +159,11 @@ And remember: **privacy-focused assets involve specific risks**. Always consult 
 - [Official Dash Website](https://www.dash.org/)
 - [Zcash Technical Documentation](https://z.cash/technology/)
 - [Dash Privacy Guide](https://docs.dash.org/en/stable/wallets/dashcore/privatesend-instantsend.html)
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

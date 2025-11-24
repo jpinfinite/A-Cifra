@@ -41,3 +41,11 @@ seo:
 As **soluções Layer 2** são fundamentais para o futuro do Ethereum. Enquanto a rede principal (Layer 1) garante segurança e descentralização, as Layer 2 processam transações de forma mais rápida e barata, tornando o Ethereum viável para uso em massa.
 
 Neste guia completo, você entenderá o que são Layer 2, como funcionam e quais são os principais projetos do ecossistema.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

@@ -446,3 +446,11 @@ Para investidores interessados em participar, é essencial começar com educaç�
 > 💡 **Dica:** **Próximos Passos:** Comece estudando pools de stablecoins, use ferramentas de simulação para entender a perda impermanente, e sempre mantenha-se atualizado sobre as últimas inovações e riscos do setor.
 
 O futuro das finanças é descentralizado, e as pools de liquidez são o motor que impulsiona essa transformação revolucionária.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

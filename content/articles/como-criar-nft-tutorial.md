@@ -122,3 +122,11 @@ Criar e vender **NFTs** está mais fácil do que nunca. Este guia mostra o proce
 ## Conclusão
 
 Criar NFTs é simples, mas vender requer marketing e comunidade. Comece no Polygon para testar sem custos.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---

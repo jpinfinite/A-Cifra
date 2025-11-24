@@ -310,3 +310,11 @@ A DeFi representa uma revolução financeira genuína, oferecendo oportunidades 
 Comece pequeno, aprenda constantemente e nunca invista mais do que pode perder. A DeFi está ainda em seus estágios iniciais, e aqueles que navegarem com sabedoria podem se beneficiar enormemente desta transformação financeira.
 
 > 💡 **Dica:** **Próximos Passos:** Continue sua educação DeFi, junte-se a comunidades, e sempre mantenha-se atualizado com as últimas tendências e desenvolvimentos.
+
+## ðŸš€ Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+---
