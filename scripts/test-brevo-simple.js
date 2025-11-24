@@ -1,5 +1,5 @@
 // Teste simples da API Key do Brevo
-const BREVO_API_KEY = 'xsmtpsib-81e5e14dae3f866387c18e4c1d2fd7522b624f07e401d1d3c9662e9b3b0b4d05-kOfdRyrfYBvlqJ5R';
+const BREVO_API_KEY = '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';
 
 async function testBrevo() {
   console.log('🧪 Testando Brevo API Key...\n');
