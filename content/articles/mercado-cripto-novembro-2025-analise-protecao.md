@@ -13,9 +13,9 @@ author:
   avatar: '/Jonatha-Pereira-SEO.png'
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'mercado'
+categorySlug: 'analises'
 tags:
-  - 'mercado'
+  - 'analises'
   - 'análise'
   - 'bitcoin'
   - 'proteção'

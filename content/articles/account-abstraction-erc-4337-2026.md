@@ -1,11 +1,24 @@
 ---
+id: 'account-abstraction-erc-4337-2026'
 title: "Account Abstraction (ERC-4337) 2026: Carteiras Inteligentes e a Nova Era da UX Cripto"
-description: "Descubra Account Abstraction, ERC-4337 e como carteiras inteligentes estão revolucionando a experiência do usuário em cripto em 2026."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "Tecnologia"
+slug: 'account-abstraction-erc-4337-2026'
+excerpt: "Descubra Account Abstraction, ERC-4337 e como carteiras inteligentes estão revolucionando a experiência do usuário em cripto em 2026."
+coverImage:
+  src: '/images/account-abstraction.jpg'
+  alt: 'Account Abstraction ERC-4337'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'ethereum'
 tags: ["Account Abstraction", "ERC-4337", "Carteiras", "UX", "2026"]
-image: "/images/account-abstraction.jpg"
+seo:
+  metaTitle: 'Account Abstraction (ERC-4337) 2026: Carteiras Inteligentes | A Cifra'
+  metaDescription: 'Descubra Account Abstraction, ERC-4337 e como carteiras inteligentes estão revolucionando a experiência do usuário em cripto em 2026.'
+  keywords: ['Account Abstraction', 'ERC-4337', 'Carteiras', 'UX', '2026']
 ---
 
 # Account Abstraction (ERC-4337) 2026: Carteiras Inteligentes e a Nova Era da UX Cripto

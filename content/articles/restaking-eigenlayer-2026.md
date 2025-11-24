@@ -1,11 +1,28 @@
 ---
+id: 'restaking-eigenlayer-2026'
 title: "Restaking e EigenLayer 2026: A Nova Fronteira de Staking e Segurança Compartilhada"
-description: "Descubra restaking, EigenLayer e como você pode ganhar yields múltiplos usando o mesmo ETH em 2026. A revolução da segurança compartilhada."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "DeFi"
+slug: 'restaking-eigenlayer-2026'
+excerpt: "Descubra restaking, EigenLayer e como você pode ganhar yields múltiplos usando o mesmo ETH em 2026. A revolução da segurança compartilhada."
+coverImage:
+  src: '/images/restaking-eigenlayer.jpg'
+  alt: 'Restaking EigenLayer 2026'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'defi'
 tags: ["Restaking", "EigenLayer", "Staking", "ETH", "DeFi", "2026"]
-image: "/images/restaking-eigenlayer.jpg"
+seo:
+  metaTitle: 'Restaking e EigenLayer 2026: Nova Fronteira de Staking | A Cifra'
+  metaDescription: 'Descubra restaking, EigenLayer e como você pode ganhar yields múltiplos usando o mesmo ETH em 2026. A revolução da segurança compartilhada.'
+  keywords:
+    - 'restaking'
+    - 'EigenLayer'
+    - 'staking ETH'
+    - 'segurança compartilhada'
 ---
 
 # Restaking e EigenLayer 2026: A Nova Fronteira de Staking e Segurança Compartilhada

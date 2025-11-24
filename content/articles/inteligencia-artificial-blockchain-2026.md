@@ -1,11 +1,28 @@
 ---
+id: 'inteligencia-artificial-blockchain-2026'
 title: "IA e Blockchain 2026: A Convergência que Está Mudando o Mundo Digital"
-description: "Descubra como Inteligência Artificial e Blockchain estão convergindo em 2026: agentes de IA autônomos, oráculos inteligentes, e a revolução da Web3 + AI."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "Tecnologia"
+slug: 'inteligencia-artificial-blockchain-2026'
+excerpt: "Descubra como Inteligência Artificial e Blockchain estão convergindo em 2026: agentes de IA autônomos, oráculos inteligentes, e a revolução da Web3 + AI."
+coverImage:
+  src: '/images/ai-blockchain.jpg'
+  alt: 'IA e Blockchain 2026'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'educacao'
 tags: ["IA", "Blockchain", "Inteligência Artificial", "Web3", "2026"]
-image: "/images/ai-blockchain.jpg"
+seo:
+  metaTitle: 'IA e Blockchain 2026: Convergência Revolucionária | A Cifra'
+  metaDescription: 'Descubra como Inteligência Artificial e Blockchain estão convergindo em 2026: agentes de IA autônomos, oráculos inteligentes, e a revolução da Web3 + AI.'
+  keywords:
+    - 'IA blockchain'
+    - 'inteligência artificial cripto'
+    - 'Web3 AI'
+    - 'agentes autônomos'
 ---
 
 # IA e Blockchain 2026: A Convergência que Está Mudando o Mundo Digital

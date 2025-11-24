@@ -1,11 +1,28 @@
 ---
+id: 'tokenizacao-ativos-reais-rwa-2026'
 title: "Tokenização de Ativos Reais (RWA) 2026: Como Blockchain Está Transformando Imóveis, Ações e Commodities"
-description: "Descubra como a tokenização de ativos reais (RWA) está revolucionando investimentos em 2026: imóveis, ações, commodities e títulos na blockchain com liquidez 24/7."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "DeFi"
+slug: 'tokenizacao-ativos-reais-rwa-2026'
+excerpt: "Descubra como a tokenização de ativos reais (RWA) está revolucionando investimentos em 2026: imóveis, ações, commodities e títulos na blockchain com liquidez 24/7."
+coverImage:
+  src: '/images/rwa-tokenization.jpg'
+  alt: 'Tokenização RWA 2026'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'defi'
 tags: ["RWA", "Tokenização", "Ativos Reais", "DeFi", "Investimentos 2026"]
-image: "/images/rwa-tokenization.jpg"
+seo:
+  metaTitle: 'Tokenização de Ativos Reais (RWA) 2026 | A Cifra'
+  metaDescription: 'Descubra como a tokenização de ativos reais (RWA) está revolucionando investimentos em 2026: imóveis, ações, commodities e títulos na blockchain.'
+  keywords:
+    - 'RWA'
+    - 'tokenização'
+    - 'ativos reais'
+    - 'blockchain investimentos'
 ---
 
 # Tokenização de Ativos Reais (RWA) 2026: Como Blockchain Está Transformando Imóveis, Ações e Commodities

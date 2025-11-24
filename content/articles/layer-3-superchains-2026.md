@@ -1,11 +1,28 @@
 ---
+id: 'layer-3-superchains-2026'
 title: "Layer 3 e Superchains 2026: A Próxima Evolução da Escalabilidade Blockchain"
-description: "Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em 2026: milhões de TPS, custos de centavos e aplicações impossíveis antes."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "Tecnologia"
+slug: 'layer-3-superchains-2026'
+excerpt: "Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em 2026: milhões de TPS, custos de centavos e aplicações impossíveis antes."
+coverImage:
+  src: '/images/layer3-superchains.jpg'
+  alt: 'Layer 3 e Superchains 2026'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'ethereum'
 tags: ["Layer 3", "Superchains", "Escalabilidade", "Blockchain", "2026"]
-image: "/images/layer3-superchains.jpg"
+seo:
+  metaTitle: 'Layer 3 e Superchains 2026: Nova Era de Escalabilidade | A Cifra'
+  metaDescription: 'Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em 2026: milhões de TPS, custos de centavos e aplicações impossíveis antes.'
+  keywords:
+    - 'Layer 3'
+    - 'Superchains'
+    - 'escalabilidade blockchain'
+    - 'Ethereum L3'
 ---
 
 # Layer 3 e Superchains 2026: A Próxima Evolução da Escalabilidade Blockchain

@@ -1,11 +1,28 @@
 ---
+id: 'privacidade-blockchain-2026'
 title: "Privacidade em Blockchain 2026: Zero-Knowledge, Mixers e o Futuro da Privacidade On-Chain"
-description: "Descubra tecnologias de privacidade em blockchain em 2026: Zero-Knowledge Proofs, privacy coins, mixers e como proteger sua privacidade on-chain."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "Privacidade"
+slug: 'privacidade-blockchain-2026'
+excerpt: "Descubra tecnologias de privacidade em blockchain em 2026: Zero-Knowledge Proofs, privacy coins, mixers e como proteger sua privacidade on-chain."
+coverImage:
+  src: '/images/blockchain-privacy.jpg'
+  alt: 'Privacidade Blockchain 2026'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'seguranca'
 tags: ["Privacidade", "Zero-Knowledge", "ZK-Proofs", "Monero", "Zcash", "2026"]
-image: "/images/blockchain-privacy.jpg"
+seo:
+  metaTitle: 'Privacidade em Blockchain 2026: Zero-Knowledge e Mixers | A Cifra'
+  metaDescription: 'Descubra tecnologias de privacidade em blockchain em 2026: Zero-Knowledge Proofs, privacy coins, mixers e como proteger sua privacidade on-chain.'
+  keywords:
+    - 'privacidade blockchain'
+    - 'Zero-Knowledge'
+    - 'ZK-Proofs'
+    - 'privacy coins'
 ---
 
 # Privacidade em Blockchain 2026: Zero-Knowledge, Mixers e o Futuro da Privacidade On-Chain

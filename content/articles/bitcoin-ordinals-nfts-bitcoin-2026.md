@@ -1,11 +1,24 @@
 ---
+id: 'bitcoin-ordinals-nfts-bitcoin-2026'
 title: "Bitcoin Ordinals e NFTs no Bitcoin 2026: Nova Era de Utilidade para BTC"
-description: "Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão transformando Bitcoin em 2026 além de apenas reserva de valor."
-date: "2025-11-23"
-author: "Equipe A Cifra"
-category: "Bitcoin"
+slug: 'bitcoin-ordinals-nfts-bitcoin-2026'
+excerpt: "Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão transformando Bitcoin em 2026 além de apenas reserva de valor."
+coverImage:
+  src: '/images/bitcoin-ordinals.jpg'
+  alt: 'Bitcoin Ordinals e NFTs'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'bitcoin'
 tags: ["Bitcoin", "Ordinals", "NFTs", "BRC-20", "Runes", "2026"]
-image: "/images/bitcoin-ordinals.jpg"
+seo:
+  metaTitle: 'Bitcoin Ordinals e NFTs no Bitcoin 2026 | A Cifra'
+  metaDescription: 'Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão transformando Bitcoin em 2026 além de apenas reserva de valor.'
+  keywords: ['Bitcoin', 'Ordinals', 'NFTs', 'BRC-20', 'Runes', '2026']
 ---
 
 # Bitcoin Ordinals e NFTs no Bitcoin 2026: Nova Era de Utilidade para BTC

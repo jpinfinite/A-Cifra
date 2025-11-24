@@ -1,11 +1,24 @@
 ---
+id: 'como-investir-cripto-iniciantes-2026'
 title: "Como Investir em Cripto: Guia Completo para Iniciantes 2026"
-description: "Guia definitivo para começar a investir em criptomoedas em 2026: passo a passo, estratégias, segurança e erros a evitar. Perfeito para iniciantes."
-date: "2025-11-23"
-author: "Equipe Crypto Insight"
-category: "Guias"
+slug: 'como-investir-cripto-iniciantes-2026'
+excerpt: "Guia definitivo para começar a investir em criptomoedas em 2026: passo a passo, estratégias, segurança e erros a evitar. Perfeito para iniciantes."
+coverImage:
+  src: '/images/bitcoin-guide-2025.jpg'
+  alt: 'Guia de Investimento em Cripto 2026'
+  width: 1200
+  height: 630
+author:
+  name: 'Equipe A Cifra'
+  avatar: '/Jonatha-Pereira-SEO.png'
+publishedAt: '2025-11-23'
+updatedAt: '2025-11-23'
+categorySlug: 'educacao'
 tags: ["Iniciantes", "Investimento", "Tutorial", "Segurança"]
-image: "/images/bitcoin-guide-2025.jpg"
+seo:
+  metaTitle: 'Como Investir em Cripto: Guia Completo para Iniciantes 2026 | A Cifra'
+  metaDescription: 'Guia definitivo para começar a investir em criptomoedas em 2026: passo a passo, estratégias, segurança e erros a evitar.'
+  keywords: ['Iniciantes', 'Investimento', 'Tutorial', 'Segurança', '2026']
 ---
 
 # Como Investir em Cripto: Guia Completo para Iniciantes 2026
