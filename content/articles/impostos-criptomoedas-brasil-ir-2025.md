@@ -106,8 +106,8 @@ No Brasil, criptomoedas são tratadas como **bens e direitos**, similar a:
 ### Alíquota: 15% sobre o Lucro
 
 **Fórmula simples:**
-```text$([Environment]::NewLine)Lucro = Preço de Venda - Preço de Compra - Taxas
-Imposto = Lucro × 15%$([Environment]::NewLine)```
+```textLucro = Preço de Venda - Preço de Compra - Taxas
+Imposto = Lucro × 15%```
 
 ### Exemplo Prático 1: Operação Simples
 
@@ -164,7 +164,7 @@ Imposto = Lucro × 15%$([Environment]::NewLine)```
 ### Como Funciona
 
 **Fórmula:**
-```text$([Environment]::NewLine)Custo Médio = (Valor Total Investido) / (Quantidade Total)$([Environment]::NewLine)```
+```textCusto Médio = (Valor Total Investido) / (Quantidade Total)```
 
 ### Exemplo Detalhado
 
@@ -264,9 +264,9 @@ Imposto = Lucro × 15%$([Environment]::NewLine)```
 - **82** - Outros criptoativos
 
 **Discriminação (exemplo):**
-```text$([Environment]::NewLine)0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
+```text0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
 Custo médio de aquisição: R$ 114.000 por BTC.
-Carteira: bc1q... (primeiros e últimos caracteres)$([Environment]::NewLine)```
+Carteira: bc1q... (primeiros e últimos caracteres)```
 
 **Situação em 31/12/2024:**
 - Quantidade: 0,5 BTC
@@ -284,8 +284,8 @@ Carteira: bc1q... (primeiros e últimos caracteres)$([Environment]::NewLine)```
 - **69** - Depósito em conta no exterior
 
 **Discriminação:**
-```text$([Environment]::NewLine)Saldo em criptomoedas na exchange Binance (Malta).
-Valor aproximado em 31/12: R$ 25.000$([Environment]::NewLine)```
+```textSaldo em criptomoedas na exchange Binance (Malta).
+Valor aproximado em 31/12: R$ 25.000```
 
 ### 4. Declare Ganhos de Capital
 
@@ -423,7 +423,7 @@ Valor aproximado em 31/12: R$ 25.000$([Environment]::NewLine)```
 - ⚠️ Não escala bem
 
 **Template:**
-```text$([Environment]::NewLine)Data | Operação | Cripto | Quantidade | Valor BRL | Custo Médio | Lucro/Prejuízo$([Environment]::NewLine)```
+```textData | Operação | Cripto | Quantidade | Valor BRL | Custo Médio | Lucro/Prejuízo```
 
 ### 4. Receita Federal (Sicalc)
 

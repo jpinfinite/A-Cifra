@@ -64,10 +64,10 @@ seo:
     - 'palavra-chave 1'
     - 'palavra-chave 2'
 ---
-```text$([Environment]::NewLine)### Conteúdo do Artigo
+```text### Conteúdo do Artigo
 
 Após o frontmatter, escreva o conteúdo em Markdown:
-$([Environment]::NewLine)```markdown
+```markdown
 # Título Principal
 
 Introdução com **negrito** e *itálico*.
@@ -84,27 +84,27 @@ Conteúdo da seção.
 ## Seção 2
 
 Mais conteúdo.
-```text$([Environment]::NewLine)## Componentes Especiais
+```text## Componentes Especiais
 
 Você pode usar divs com classes especiais para destacar conteúdo:
 
 ### Caixa de Dica
-$([Environment]::NewLine)```html
+```html
 <div class="tip-box">
   <p><strong>Dica:</strong> Seu texto aqui.</p>
 </div>
-```text$([Environment]::NewLine)### Caixa de Alerta
-$([Environment]::NewLine)```html
+```text### Caixa de Alerta
+```html
 <div class="alert-box">
   <p><strong>Atenção:</strong> Seu texto aqui.</p>
 </div>
-```text$([Environment]::NewLine)### Caixa de Conclusão
-$([Environment]::NewLine)```html
+```text### Caixa de Conclusão
+```html
 <div class="conclusion-box">
   <p><strong>Conclusão:</strong> Seu texto aqui.</p>
 </div>
-```text$([Environment]::NewLine)### Imagem com Legenda
-$([Environment]::NewLine)```html
+```text### Imagem com Legenda
+```html
 <div class="article-image">
   <img src="/images/sua-imagem.jpg" alt="Descrição" />
   <p class="image-caption">Legenda da imagem</p>
