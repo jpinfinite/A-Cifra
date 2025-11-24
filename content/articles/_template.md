@@ -1,59 +1,99 @@
 ---
-id: '19'
-title: 'Título do Artigo'
-slug: 'slug-do-artigo'
-excerpt: 'Breve descrição do artigo que aparecerá nos cards e previews.'
+id: 'artigo-yyyy-mm-dd-001'
+title: 'Título Principal do Artigo'
+slug: 'titulo-amigavel-para-url'
+excerpt: 'Resumo em 160 caracteres com keywords principais do artigo'
 coverImage:
-  src: '/images/cover-image.jpg'
-  alt: 'Descrição da imagem de capa'
+  src: '/images/categoria/YYYY-MM/imagem.webp'
+  alt: 'Descrição detalhada da imagem'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
-publishedAt: '2025-11-20'
-updatedAt: '2025-11-20'
-category:
-  name: 'Educação'
-  slug: 'educacao'
-  description: 'Aprenda sobre criptomoedas'
-tags:
-  - 'tag1'
-  - 'tag2'
-  - 'tag3'
+  name: 'Nome do Autor'
+  avatar: '/authors/nome.webp'
+publishedAt: 'YYYY-MM-DD'
+updatedAt: 'YYYY-MM-DD'
+categorySlug: 'categoria'
+tags: ['tag1', 'tag2', 'tag3']
 seo:
-  metaTitle: 'Título SEO do Artigo | A Cifra'
-  metaDescription: 'Descrição SEO do artigo para mecanismos de busca.'
-  keywords:
-    - 'palavra-chave 1'
-    - 'palavra-chave 2'
-    - 'palavra-chave 3'
+  metaTitle: 'Título SEO | A Cifra'
+  metaDescription: 'Descrição SEO otimizada de 120-160 caracteres'
+  keywords: ['keyword1', 'keyword2', 'keyword3']
+monetization:
+  priority: 'high'
+  affiliateLinks: ['bitget', 'binance', 'coinbase']
 ---
 
 # Título Principal do Artigo
 
-Introdução do artigo com **texto em negrito** e *itálico*.
+Introdução do artigo com contexto e overview do que será abordado. Explique por que o tópico é importante e o que o leitor vai aprender.
 
-## Seção 1
+## 📖 O Que é [Tópico Principal]?
 
-Conteúdo da seção 1.
+Definição clara e explicação do conceito principal.
 
-### Subseção 1.1
+### Características Principais
 
-Mais conteúdo.
+- ✅ Característica 1
+- ✅ Característica 2
+- ✅ Característica 3
 
-## Seção 2
+## 💡 Por Que é Importante?
 
-- Item de lista 1
-- Item de lista 2
-- Item de lista 3
+Explique a relevância e benefícios.
 
-### Código de Exemplo
+## 🎯 Como Funciona?
 
-```typescript
-const exemplo = "código aqui";
-```
+Explicação detalhada do funcionamento.
 
-## Conclusão
+### Passo a Passo
 
-Conclusão do artigo.
+1. **Passo 1:** Descrição detalhada
+2. **Passo 2:** Descrição detalhada
+3. **Passo 3:** Descrição detalhada
+
+## 📊 Comparação / Análise
+
+Tabelas comparativas ou análises detalhadas quando aplicável.
+
+## ⚠️ Riscos e Cuidados
+
+Sempre incluir seção sobre riscos quando aplicável a investimentos.
+
+## 🚀 Comece a Investir em Criptomoedas
+
+Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+
+<ExchangeAffiliateLinks />
+
+## 💡 Perguntas Frequentes
+
+**Pergunta frequente 1?**
+Resposta detalhada e útil.
+
+**Pergunta frequente 2?**
+Resposta detalhada e útil.
+
+**Pergunta frequente 3?**
+Resposta detalhada e útil.
+
+## 🎯 Conclusão
+
+Resumo dos pontos principais e call-to-action.
+
+**Principais pontos:**
+- ✅ Ponto importante 1
+- ✅ Ponto importante 2
+- ✅ Ponto importante 3
+
+## 📚 Próximos Passos
+
+- [Artigo Relacionado 1](/artigo/slug-relacionado-1)
+- [Artigo Relacionado 2](/artigo/slug-relacionado-2)
+- [Artigo Relacionado 3](/artigo/slug-relacionado-3)
+
+---
+
+**Última atualização:** YYYY-MM-DD
+
+*Disclaimer: Este artigo é apenas informativo e não constitui recomendação de investimento. Sempre faça sua própria pesquisa (DYOR).*

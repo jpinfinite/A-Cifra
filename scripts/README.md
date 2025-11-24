@@ -1,136 +1,193 @@
-# 📧 Script de Newsletter
+# Scripts Utilitários - A Cifra
 
-## Como Usar
+Este diretório contém scripts PowerShell para automatizar tarefas comuns do projeto A Cifra.
 
-### 1. Instalar Dependência
+## 📜 Scripts Disponíveis
 
-```bash
-npm install sib-api-v3-sdk
+### 🆕 criar-novo-artigo.ps1
+Cria um novo artigo com estrutura padronizada.
+
+```powershell
+# Criar artigo básico
+.\scripts\criar-novo-artigo.ps1 -Title "Bitcoin em 2026" -Category "bitcoin"
+
+# Criar artigo completo
+.\scripts\criar-novo-artigo.ps1 -Title "DeFi para Iniciantes" -Category "defi" -Author "João Silva" -Tags @("defi", "iniciantes", "tutorial") -MonetizationPriority "high"
 ```
 
-### 2. Configurar Credenciais
+**Parâmetros:**
+- `-Title` (obrigatório): Título do artigo
+- `-Category` (obrigatório): Categoria (bitcoin, altcoins, defi, etc.)
+- `-Author`: Nome do autor (padrão: "Equipe A Cifra")
+- `-Tags`: Array de tags
+- `-MonetizationPriority`: high, medium ou low (padrão: medium)
 
-Certifique-se de ter no `.env.local`:
+### ✅ validar-artigo.ps1
+Valida artigos verificando estrutura, SEO e conteúdo.
 
-```env
-BREVO_API_KEY=sua-chave-aqui
-BREVO_LIST_ID=1
+```powershell
+# Validar artigo específico
+.\scripts\validar-artigo.ps1 -ArticlePath "content/articles/bitcoin-2026.md"
+
+# Validar todos os artigos
+.\scripts\validar-artigo.ps1 -All
 ```
 
-### 3. Personalizar Conteúdo
+**Verificações:**
+- Frontmatter completo
+- Estrutura de headings
+- Tamanho do conteúdo
+- Links de afiliados
+- Meta tags SEO
+- Links internos
 
-Edite `scripts/send-newsletter.js`:
+### 🖼️ otimizar-imagens.ps1
+Otimiza imagens para web com múltiplos formatos e tamanhos.
 
-- **Linha 17**: Assunto do email
-- **Linhas 30-200**: Conteúdo HTML
-- Substitua os links e textos pelos seus artigos
+```powershell
+# Otimização básica
+.\scripts\otimizar-imagens.ps1
 
-### 4. Executar
-
-```bash
-npm run newsletter
+# Otimização personalizada
+.\scripts\otimizar-imagens.ps1 -Quality 90 -Formats @("webp", "avif") -Sizes @(400, 800, 1200) -Backup
 ```
 
-Ou diretamente:
+**Parâmetros:**
+- `-InputDir`: Diretório de entrada (padrão: public/images)
+- `-OutputDir`: Diretório de saída (padrão: public/images/optimized)
+- `-Quality`: Qualidade 1-100 (padrão: 85)
+- `-Formats`: Formatos de saída (padrão: webp, avif)
+- `-Sizes`: Tamanhos em pixels (padrão: 400, 800, 1200, 1920)
+- `-Backup`: Criar backup antes de otimizar
 
-```bash
-node scripts/send-newsletter.js
+**Requisitos:** ImageMagick instalado
+
+### 🔧 corrigir-portfolios-codigo.ps1
+Corrige portfólios formatados incorretamente como blocos de código.
+
+```powershell
+.\scripts\corrigir-portfolios-codigo.ps1
 ```
 
-## O que o Script Faz
-
-1. ✅ Conecta com a API do Brevo
-2. ✅ Cria uma campanha de email
-3. ✅ Usa template HTML responsivo
-4. ✅ Envia para sua lista de contatos
-5. ✅ Retorna ID da campanha
-
-## Personalização
-
-### Alterar Assunto
-
-```javascript
-emailCampaign.subject = "🚀 Seu Novo Assunto Aqui";
+Transforma:
+```text
+40% - Ethereum (ETH)
+25% - Solana (SOL)
 ```
 
-### Alterar Remetente
+Em:
+- **40%** - Ethereum (ETH)
+- **25%** - Solana (SOL)
 
-```javascript
-emailCampaign.sender = {
-  name: "Seu Nome",
-  email: "seu-email@dominio.com"
-};
+### 🚀 deploy.ps1
+Script de deploy com validações e testes.
+
+```powershell
+# Deploy para produção
+.\scripts\deploy.ps1
+
+# Deploy pulando testes
+.\scripts\deploy.ps1 -SkipTests
+
+# Deploy forçado (ignora validações)
+.\scripts\deploy.ps1 -Force
 ```
 
-### Agendar Envio
+**Parâmetros:**
+- `-Environment`: development, staging ou production (padrão: production)
+- `-SkipTests`: Pula validações e testes
+- `-SkipBuild`: Pula o build
+- `-Force`: Ignora validações de branch e mudanças
 
-Descomente e configure:
+## 🛠️ Pré-requisitos
 
-```javascript
-emailCampaign.scheduledAt = '2025-11-10 10:00:00';
+### PowerShell
+Todos os scripts requerem PowerShell 5.1+ (Windows) ou PowerShell Core 6+ (multiplataforma).
+
+### Ferramentas Externas
+
+**ImageMagick** (para otimização de imagens):
+- Windows: https://imagemagick.org/script/download.php#windows
+- macOS: `brew install imagemagick`
+- Linux: `sudo apt-get install imagemagick`
+
+**Git** (para deploy):
+- Configurado com acesso ao repositório
+- Branch main para deploy de produção
+
+### Node.js
+- Node.js 18.20.8+
+- npm com dependências instaladas
+
+## 📋 Workflow Recomendado
+
+### Criando Novo Artigo
+1. Criar artigo: `.\scripts\criar-novo-artigo.ps1 -Title "Meu Artigo" -Category "bitcoin"`
+2. Editar conteúdo no arquivo gerado
+3. Adicionar imagem de capa
+4. Validar: `.\scripts\validar-artigo.ps1 -ArticlePath "content/articles/meu-artigo.md"`
+5. Fazer commit e push
+
+### Deploy
+1. Validar todos os artigos: `.\scripts\validar-artigo.ps1 -All`
+2. Fazer build local: `npm run build`
+3. Deploy: `.\scripts\deploy.ps1`
+
+### Otimização de Imagens
+1. Adicionar imagens em `public/images/categoria/YYYY-MM/`
+2. Otimizar: `.\scripts\otimizar-imagens.ps1 -Backup`
+3. Usar imagens otimizadas nos artigos
+
+## 🚨 Troubleshooting
+
+### Erro de Execução de Scripts
+Se receber erro de política de execução:
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
-### Adicionar Artigos
+### ImageMagick não encontrado
+Instale o ImageMagick e adicione ao PATH do sistema.
 
-Copie e cole este bloco no HTML:
+### Erro de Git
+Verifique se está autenticado no GitHub e tem permissões no repositório.
 
-```html
-<div style="border-left: 4px solid #D4AF37; padding-left: 20px; margin: 0 0 25px 0;">
-  <h4 style="color: #0A1628; margin: 0 0 10px 0; font-size: 18px;">
-    <a href="SEU_LINK" style="color: #0A1628; text-decoration: none;">
-      🔥 Título do Seu Artigo
-    </a>
-  </h4>
-  <p style="color: #666; line-height: 1.6; margin: 0; font-size: 14px;">
-    Resumo do artigo aqui...
-  </p>
-  <a href="SEU_LINK" 
-     style="display: inline-block; margin-top: 10px; color: #D4AF37; text-decoration: none; font-weight: bold; font-size: 14px;">
-    Ler mais →
-  </a>
-</div>
+### Validação falhando
+Execute `npm run lint` para ver erros específicos de código.
+
+## 📚 Exemplos Completos
+
+### Criar artigo sobre Solana
+```powershell
+.\scripts\criar-novo-artigo.ps1 `
+  -Title "Solana: Análise Completa 2026" `
+  -Category "altcoins" `
+  -Author "João Silva" `
+  -Tags @("solana", "altcoins", "análise", "2026") `
+  -MonetizationPriority "high"
 ```
 
-## Testar Antes de Enviar
+### Validar e fazer deploy
+```powershell
+# Validar tudo
+.\scripts\validar-artigo.ps1 -All
 
-### Opção 1: Enviar para Você Mesmo
+# Se passou, fazer deploy
+if ($LASTEXITCODE -eq 0) {
+    .\scripts\deploy.ps1
+}
+```
 
-Crie uma lista de teste no Brevo com apenas seu email.
+### Otimizar imagens com backup
+```powershell
+.\scripts\otimizar-imagens.ps1 `
+  -Quality 90 `
+  -Formats @("webp", "avif", "jpeg") `
+  -Sizes @(400, 800, 1200, 1920) `
+  -Backup
+```
 
-### Opção 2: Modo Preview
+---
 
-No painel do Brevo, você pode visualizar antes de enviar.
-
-### Opção 3: Teste de Spam
-
-Use: https://www.mail-tester.com/
-
-## Troubleshooting
-
-### Erro: "API key not found"
-
-Verifique se o `.env.local` existe e tem a chave correta.
-
-### Erro: "List not found"
-
-Confirme o ID da lista no painel do Brevo.
-
-### Erro: "Invalid sender"
-
-Verifique se o email do remetente está verificado no Brevo.
-
-## Próximos Passos
-
-1. ✅ Teste o script
-2. 📝 Personalize o template
-3. 📅 Agende envios regulares
-4. 📊 Monitore métricas no Brevo
-5. 🔄 Crie automações
-
-## Dicas
-
-- Envie sempre no mesmo dia/horário
-- Teste diferentes assuntos
-- Mantenha conteúdo relevante
-- Monitore taxa de abertura
-- Limpe lista de inativos mensalmente
+**Última atualização:** 23 de novembro de 2025  
+**Mantido por:** Equipe A Cifra

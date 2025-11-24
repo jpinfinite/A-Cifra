@@ -4,21 +4,37 @@ export interface Article {
   slug: string
   excerpt: string
   content: string
-  coverImage: {
-    src: string
-    alt: string
-    width: number
-    height: number
-  }
-  author: {
-    name: string
-    avatar?: string
-  }
+  coverImage: ImageData
+  author: AuthorData
   publishedAt: Date
   updatedAt?: Date
   category: Category
   tags: string[]
   seo?: SEOData
+  monetization?: MonetizationData
+}
+
+export interface ImageData {
+  src: string
+  alt: string
+  width: number
+  height: number
+}
+
+export interface AuthorData {
+  name: string
+  avatar?: string
+  bio?: string
+  social?: {
+    twitter?: string
+    linkedin?: string
+    website?: string
+  }
+}
+
+export interface MonetizationData {
+  priority: 'high' | 'medium' | 'low'
+  affiliateLinks: ('bitget' | 'binance' | 'coinbase')[]
 }
 
 export interface Category {
@@ -117,4 +133,105 @@ export interface TableOfContentsItem {
   title: string
   level: number
   children?: TableOfContentsItem[]
+}
+// Tipos pa
+ra estrutura de artigos
+export interface ArticleStructureProps {
+  frontmatter: {
+    title: string
+    excerpt: string 
+    coverImage: ImageData
+    author: AuthorData
+    publishedAt: string
+  }
+  content: string
+  relatedArticles?: Article[]
+}
+
+// Tipos para monetização
+export interface AffiliateConfig {
+  bitget: {
+    link: string
+    bonus: string
+    features: string[]
+  }
+  binance: {
+    link: string
+    bonus: string 
+    features: string[]
+  }
+  coinbase: {
+    link: string
+    bonus: string
+    features: string[]
+  }
+}
+
+// Tipos para validação
+export interface ValidationResult {
+  valid: boolean
+  errors: string[]
+  warnings: string[]
+}
+
+export interface ArticleValidation {
+  frontmatter: ValidationResult
+  content: ValidationResult
+  seo: ValidationResult
+  monetization: ValidationResult
+}
+
+// Tipos para componentes
+export interface InfoBoxProps {
+  type: 'info' | 'warning' | 'success' | 'error'
+  title?: string
+  children: React.ReactNode
+}
+
+export interface ComparisonTableProps {
+  headers: string[]
+  rows: (string | number | React.ReactNode)[][]
+  caption?: string
+}
+
+export interface FAQItem {
+  question: string
+  answer: string
+}
+
+export interface FAQProps {
+  items: FAQItem[]
+  title?: string
+}
+
+export interface DisclaimerBoxProps {
+  type?: 'investment' | 'general' | 'risk'
+  children?: React.ReactNode
+}
+
+export interface RelatedArticlesProps {
+  articles: Article[]
+  title?: string
+  maxItems?: number
+}
+
+// Tipos para scripts utilitários
+export interface NewArticleConfig {
+  title: string
+  category: string
+  author: string
+  tags: string[]
+  monetizationPriority: 'high' | 'medium' | 'low'
+}
+
+export interface ImageOptimizationConfig {
+  quality: number
+  formats: ('webp' | 'avif' | 'jpeg' | 'png')[]
+  sizes: number[]
+}
+
+export interface DeployConfig {
+  environment: 'development' | 'staging' | 'production'
+  buildCommand: string
+  outputDir: string
 }
