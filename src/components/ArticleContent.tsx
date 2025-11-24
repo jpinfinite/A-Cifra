@@ -78,16 +78,13 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
             </ul>
           ),
           ol: ({ children }) => (
-            <ol className="mb-8 space-y-3 ml-6 list-decimal">
+            <ol className="mb-8 space-y-3 ml-6 list-decimal list-outside">
               {children}
             </ol>
           ),
           li: ({ children }) => (
-            <li className="text-lg text-gray-700 leading-relaxed pl-2">
-              <span className="inline-flex items-start">
-                <span className="text-brand-primary-blue mr-3 font-bold">•</span>
-                <span className="flex-1">{children}</span>
-              </span>
+            <li className="text-lg text-gray-700 leading-relaxed pl-2 marker:text-brand-primary-blue marker:font-bold">
+              {children}
             </li>
           ),
           blockquote: ({ children }) => (
@@ -231,6 +228,17 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
         .article-content ol li::marker {
           color: #155C8B;
           font-weight: bold;
+        }
+        
+        .article-content ol li,
+        .article-content ul li {
+          background: transparent !important;
+        }
+        
+        .article-content ol li code,
+        .article-content ul li code {
+          background: #dbeafe !important;
+          padding: 0.125rem 0.5rem !important;
         }
       `}</style>
     </div>
