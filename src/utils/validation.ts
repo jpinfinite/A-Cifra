@@ -1,6 +1,6 @@
 import { ValidationResult, ArticleValidation, Article } from '@/types'
 
-export function validateFrontmatter(frontmatter: Record<string, unknown>): ValidationResult {
+export function validateFrontmatter(frontmatter: any): ValidationResult {
   const errors: string[] = []
   const warnings: string[] = []
 
@@ -10,28 +10,29 @@ export function validateFrontmatter(frontmatter: Record<string, unknown>): Valid
   if (!frontmatter.slug) errors.push('Campo "slug" é obrigatório')
   if (!frontmatter.excerpt) errors.push('Campo "excerpt" é obrigatório')
   if (!frontmatter.publishedAt) errors.push('Campo "publishedAt" é obrigatório')
-  if (!frontmatter.categorySlug) errors.push('Campo "categorySlug" é obrigatório')
+  if (!frontmatter.category && !frontmatter.categorySlug) errors.push('Campo "category" ou "categorySlug" é obrigatório')
 
   // Validações de formato
-  if (frontmatter.excerpt && frontmatter.excerpt.length > 160) {
+  if (frontmatter.excerpt && typeof frontmatter.excerpt === 'string' && frontmatter.excerpt.length > 160) {
     warnings.push('Excerpt deve ter no máximo 160 caracteres')
   }
 
-  if (frontmatter.slug && !/^[a-z0-9-]+$/.test(frontmatter.slug)) {
+  if (frontmatter.slug && typeof frontmatter.slug === 'string' && !/^[a-z0-9-]+$/.test(frontmatter.slug)) {
     errors.push('Slug deve conter apenas letras minúsculas, números e hífens')
   }
 
-  if (frontmatter.publishedAt && isNaN(Date.parse(frontmatter.publishedAt))) {
+  if (frontmatter.publishedAt && typeof frontmatter.publishedAt === 'string' && isNaN(Date.parse(frontmatter.publishedAt))) {
     errors.push('Data de publicação inválida')
   }
 
   // Validações de SEO
   if (!frontmatter.seo) {
     warnings.push('Dados de SEO não encontrados')
-  } else {
-    if (!frontmatter.seo.metaTitle) warnings.push('Meta title não definido')
-    if (!frontmatter.seo.metaDescription) warnings.push('Meta description não definida')
-    if (!frontmatter.seo.keywords || frontmatter.seo.keywords.length === 0) {
+  } else if (typeof frontmatter.seo === 'object' && frontmatter.seo !== null) {
+    const seo = frontmatter.seo as Record<string, unknown>
+    if (!seo.metaTitle) warnings.push('Meta title não definido')
+    if (!seo.metaDescription) warnings.push('Meta description não definida')
+    if (!seo.keywords || (Array.isArray(seo.keywords) && seo.keywords.length === 0)) {
       warnings.push('Keywords não definidas')
     }
   }
@@ -39,9 +40,10 @@ export function validateFrontmatter(frontmatter: Record<string, unknown>): Valid
   // Validações de imagem
   if (!frontmatter.coverImage) {
     errors.push('Imagem de capa é obrigatória')
-  } else {
-    if (!frontmatter.coverImage.src) errors.push('URL da imagem de capa é obrigatória')
-    if (!frontmatter.coverImage.alt) warnings.push('Alt text da imagem não definido')
+  } else if (typeof frontmatter.coverImage === 'object' && frontmatter.coverImage !== null) {
+    const coverImage = frontmatter.coverImage as Record<string, unknown>
+    if (!coverImage.src) errors.push('URL da imagem de capa é obrigatória')
+    if (!coverImage.alt) warnings.push('Alt text da imagem não definido')
   }
 
   return {

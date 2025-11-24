@@ -40,7 +40,7 @@ export const MetaMaskArticle = () => {
           a forma como interagimos com aplicativos descentralizados (dApps) e o ecossistema Web3.
         </p>
 
-        <InfoBox title="Por que MetaMask é tão popular?" icon="🌟" variant="highlight">
+        <InfoBox type="info" title="Por que MetaMask é tão popular?">
           <ul className="space-y-2 mt-2">
             <li>✅ <strong>Gratuita e open-source</strong></li>
             <li>✅ <strong>Fácil de usar</strong> - Interface intuitiva para iniciantes</li>
@@ -142,7 +142,7 @@ export const MetaMaskArticle = () => {
           </div>
         </AlertBox>
 
-        <InfoBox title="Como Armazenar sua Seed Phrase com Segurança" icon="🛡️" variant="premium">
+        <InfoBox type="warning" title="Como Armazenar sua Seed Phrase com Segurança">
           <ul className="space-y-2">
             <li>📝 Escreva em papel de qualidade (não se deteriora)</li>
             <li>🔐 Guarde em cofre ou local seguro</li>
@@ -281,7 +281,7 @@ export const MetaMaskArticle = () => {
 
         <h3 id="boas-praticas">Boas Práticas de Segurança</h3>
 
-        <InfoBox title="Checklist de Segurança MetaMask" icon="✅" variant="premium">
+        <InfoBox type="success" title="Checklist de Segurança MetaMask">
           <ul className="space-y-3">
             <li>
               <strong>✓ Use carteiras separadas:</strong>
@@ -395,7 +395,7 @@ export const MetaMaskArticle = () => {
           necessário para usar a carteira com segurança e aproveitar ao máximo seus recursos.
         </p>
 
-        <InfoBox title="Próximos Passos" icon="🚀" variant="highlight">
+        <InfoBox type="info" title="Próximos Passos">
           <ul className="space-y-2">
             <li>✓ Configure sua MetaMask seguindo as melhores práticas de segurança</li>
             <li>✓ Comece com pequenas quantias para praticar</li>

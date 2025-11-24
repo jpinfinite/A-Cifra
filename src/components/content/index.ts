@@ -16,9 +16,24 @@ export { ArticleLayout } from './ArticleLayout'
 export { ArticleCard } from './ArticleCard'
 export { ArticleFilters } from './ArticleFilters'
 export { AlertBox } from './AlertBox'
-export { CTAExamples } from './CTAExamples'
+
+// CTAExamples - exports nomeados
+export { 
+  NewsletterCTA, 
+  EducationCTA, 
+  AnalysisCTA, 
+  SecurityCTA, 
+  DeFiCTA, 
+  CustomCTA, 
+  ArticleEndCTA, 
+  BeginnerCTA 
+} from './CTAExamples'
+
 export { MetaMaskArticle } from './MetaMaskArticle'
-export { NewsletterForm } from './NewsletterForm'
-export { RelatedArticlesInline } from './RelatedArticlesInline'
+
+// Default exports
+export { default as NewsletterForm } from './NewsletterForm'
+export { default as RelatedArticlesInline } from './RelatedArticlesInline'
+
 export { TipBox } from './TipBox'
 export { WarningBox } from './WarningBox'
