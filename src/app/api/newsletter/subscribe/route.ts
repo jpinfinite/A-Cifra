@@ -39,8 +39,23 @@ export async function POST(request: NextRequest) {
     const BREVO_API_KEY = process.env.BREVO_API_KEY;
     const BREVO_LIST_ID = process.env.BREVO_LIST_ID;
 
-    if (BREVO_API_KEY && BREVO_LIST_ID) {
+    if (BREVO_API_KEY) {
       try {
+        // Primeiro, tentar adicionar contato sem lista específica
+        const contactData: any = {
+          email: email,
+          updateEnabled: true,
+          attributes: {
+            ORIGEM: 'A Cifra Newsletter',
+            DATA_INSCRICAO: new Date().toISOString().split('T')[0]
+          }
+        };
+
+        // Adicionar lista se especificada
+        if (BREVO_LIST_ID) {
+          contactData.listIds = [parseInt(BREVO_LIST_ID)];
+        }
+
         const response = await fetch('https://api.brevo.com/v3/contacts', {
           method: 'POST',
           headers: {
@@ -48,11 +63,7 @@ export async function POST(request: NextRequest) {
             'api-key': BREVO_API_KEY,
             'content-type': 'application/json',
           },
-          body: JSON.stringify({
-            email: email,
-            listIds: [parseInt(BREVO_LIST_ID)],
-            updateEnabled: true,
-          }),
+          body: JSON.stringify(contactData),
         });
 
         if (response.ok) {
@@ -63,6 +74,7 @@ export async function POST(request: NextRequest) {
             console.log('📧 Email já existe no Brevo:', email);
           } else {
             console.error('❌ Erro Brevo:', error);
+            // Se falhar, continua funcionando localmente
           }
         }
       } catch (brevoError) {

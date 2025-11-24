@@ -44,6 +44,14 @@ async function testBrevoConnection() {
 
     if (!response.ok) {
       console.error('❌ Erro na conexão:', response.status, response.statusText);
+      
+      if (response.status === 401) {
+        console.log('🔑 Problema com API Key:');
+        console.log('1. Verifique se a API Key está correta');
+        console.log('2. Confirme se a chave tem permissões necessárias');
+        console.log('3. Acesse: https://app.brevo.com → Configurações → Chaves de API');
+      }
+      
       return;
     }
 
