@@ -7,6 +7,7 @@ import { Article } from '@/types'
 import { useMemo } from 'react'
 import { addInlineLinks } from '@/utils/relatedArticles'
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
+import { AdSenseInArticle, AdSenseInArticle2, AdSenseMultiplex } from '@/components/ads'
 
 interface ArticleContentProps {
   content: string
@@ -15,22 +16,41 @@ interface ArticleContentProps {
 
 export default function ArticleContent({ content, relatedArticles = [] }: ArticleContentProps) {
   // Processa o conteúdo e divide em partes
-  const contentParts = useMemo(() => {
+  const { firstPart, middlePart, lastPart } = useMemo(() => {
     let processedContent = content
     
     if (relatedArticles.length > 0) {
       processedContent = addInlineLinks(processedContent, relatedArticles)
     }
     
-    // Divide o conteúdo pelo componente ExchangeAffiliateLinks
-    return processedContent.split('<ExchangeAffiliateLinks />')
+    // Divide o conteúdo em 3 partes para inserir anúncios
+    const sections = processedContent.split('##')
+    const totalSections = sections.length
+    
+    if (totalSections <= 3) {
+      // Conteúdo curto - apenas 1 anúncio no meio
+      return {
+        firstPart: sections.slice(0, Math.ceil(totalSections / 2)).join('##'),
+        middlePart: sections.slice(Math.ceil(totalSections / 2)).join('##'),
+        lastPart: ''
+      }
+    }
+    
+    // Conteúdo longo - 2 anúncios (40% e 80% do conteúdo)
+    const firstBreak = Math.floor(totalSections * 0.4)
+    const secondBreak = Math.floor(totalSections * 0.8)
+    
+    return {
+      firstPart: sections.slice(0, firstBreak).join('##'),
+      middlePart: sections.slice(firstBreak, secondBreak).join('##'),
+      lastPart: sections.slice(secondBreak).join('##')
+    }
   }, [content, relatedArticles])
 
   return (
     <div className="prose prose-xl max-w-none article-content" suppressHydrationWarning>
-      {contentParts.map((part, index) => (
-        <div key={index}>
-          <ReactMarkdown
+      {/* Primeira parte do conteúdo */}
+      <ReactMarkdown
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}
             components={{
@@ -175,11 +195,51 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
           ),
             }}
           >
-            {part}
+            {firstPart}
           </ReactMarkdown>
-          {index < contentParts.length - 1 && <ExchangeAffiliateLinks />}
-        </div>
-      ))}
+      
+      {/* Anúncio In-Article 1 - Após 40% do conteúdo (RPM $8-12) */}
+      <AdSenseInArticle />
+      
+      {/* Parte do meio */}
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]}
+        components={{
+          // Mesmos componentes (simplificado para não repetir)
+          h2: ({ children }) => (
+            <h2 className="text-3xl md:text-4xl font-bold mt-16 mb-6 leading-snug text-gray-900 border-l-4 border-brand-primary-blue pl-6 bg-gradient-to-r from-blue-50 to-transparent py-4">
+              {children}
+            </h2>
+          ),
+          p: ({ children }) => (
+            <p className="mb-6 leading-relaxed text-lg text-gray-700 font-normal">
+              {children}
+            </p>
+          ),
+        }}
+      >
+        {middlePart}
+      </ReactMarkdown>
+      
+      {/* Links de Afiliados */}
+      <ExchangeAffiliateLinks />
+      
+      {/* Anúncio In-Article 2 - Após 80% do conteúdo (RPM $8-12) */}
+      {lastPart && <AdSenseInArticle2 />}
+      
+      {/* Última parte */}
+      {lastPart && (
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          rehypePlugins={[rehypeRaw]}
+        >
+          {lastPart}
+        </ReactMarkdown>
+      )}
+      
+      {/* Anúncio Multiplex - Final do artigo (RPM $4-6) */}
+      <AdSenseMultiplex />
       
       <style jsx global>{`
         .article-content {

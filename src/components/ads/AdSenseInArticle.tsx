@@ -1,25 +1,39 @@
 'use client'
 
-import { AdSense } from './AdSense'
+import { useEffect } from 'react'
 
 interface AdSenseInArticleProps {
-  adSlot: string
+  slot?: string
   className?: string
 }
 
 /**
- * Anúncio In-Article - Aparece dentro do conteúdo do artigo
- * Recomendado: Colocar após 2-3 parágrafos do artigo
+ * Anúncio In-Article - Melhor performance (RPM $8-12)
+ * Posicionar no meio do conteúdo do artigo
  */
-export function AdSenseInArticle({ adSlot, className = '' }: AdSenseInArticleProps) {
+export function AdSenseInArticle({ 
+  slot = '2401624018', // Slot In-Article 1 configurado
+  className = '' 
+}: AdSenseInArticleProps) {
+  useEffect(() => {
+    try {
+      if (typeof window !== 'undefined') {
+        (window.adsbygoogle = window.adsbygoogle || []).push({})
+      }
+    } catch (err) {
+      console.error('AdSense error:', err)
+    }
+  }, [])
+
   return (
     <div className={`my-8 ${className}`}>
-      <div className="text-center text-xs text-gray-400 mb-2">Publicidade</div>
-      <AdSense
-        adSlot={adSlot}
-        adFormat="fluid"
-        adLayout="in-article"
-        className="max-w-4xl mx-auto"
+      <ins
+        className="adsbygoogle"
+        style={{ display: 'block', textAlign: 'center' }}
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
+        data-ad-client="ca-pub-1151448515464841"
+        data-ad-slot={slot}
       />
     </div>
   )

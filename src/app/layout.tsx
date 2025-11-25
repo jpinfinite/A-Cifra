@@ -139,6 +139,17 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         
+        {/* Auto Ads - Anúncio Âncora Mobile (RPM $10-15) */}
+        <Script id="adsense-auto-ads" strategy="afterInteractive">
+          {`
+            (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-1151448515464841",
+              enable_page_level_ads: true,
+              overlays: {bottom: true}
+            });
+          `}
+        </Script>
+        
 
 
         {/* Google Analytics */}
