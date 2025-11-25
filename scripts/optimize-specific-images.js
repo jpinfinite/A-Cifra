@@ -44,10 +44,10 @@ async function optimizeImage(fileName) {
 }
 
 async function main() {
-  console.log('🚀 Otimizando imagens 222.jpg e 223.jpg...\n')
+  console.log('🚀 Otimizando imagens 224.jpg e 225.jpg...\n')
   
-  await optimizeImage('222.jpg')
-  await optimizeImage('223.jpg')
+  await optimizeImage('224.jpg')
+  await optimizeImage('225.jpg')
   
   console.log('\n✅ Otimização concluída!')
 }
