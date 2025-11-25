@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { Calendar, Clock, User, Tag } from 'lucide-react'
 import { Card, CardContent, Text, Heading } from '@/components/ui'
-import { SafeImage } from '@/components/ui/SafeImage'
+import { ResponsiveImage } from '@/components/ui/ResponsiveImage'
 import { Article } from '@/types'
 import { cn } from '@/utils/cn'
 import { findBestImage } from '@/utils/imageMapper'
@@ -48,21 +48,25 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
         {/* Article Image */}
         <div
           className={cn(
-            'relative overflow-hidden bg-gradient-to-br from-gray-100 to-gray-200',
+            'relative overflow-hidden',
             featured 
               ? 'md:w-1/2 md:flex-shrink-0 h-48 md:h-auto' 
-              : 'aspect-video w-full'
+              : 'w-full'
           )}
         >
-          <SafeImage
+          <ResponsiveImage
             src={imageSrc}
             alt={imageAlt}
-            fill
-            className="object-cover transition-transform duration-500 group-hover:scale-110"
+            aspectRatio="video"
+            sizes={featured 
+              ? '(max-width: 768px) 100vw, 50vw' 
+              : '(max-width: 640px) 100vw, (max-width: 1024px) 662px, 662px'
+            }
+            className="transition-transform duration-500 group-hover:scale-110"
           />
           
           {/* Category Badge */}
-          <div className="absolute top-3 left-3">
+          <div className="absolute top-3 left-3 z-10">
             <span
               className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium text-white shadow-sm"
               style={{ 

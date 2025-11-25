@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Nome do Autor'
   avatar: '/authors/nome.webp'
-publishedAt: 'YYYY-MM-DD'
-updatedAt: 'YYYY-MM-DD'
+publishedAt: '2025-11-25'
+updatedAt: '2025-11-25'
 categorySlug: 'categoria'
 tags: ['tag1', 'tag2', 'tag3']
 seo:
@@ -94,6 +94,6 @@ Resumo dos pontos principais e call-to-action.
 
 ---
 
-**Última atualização:** YYYY-MM-DD
+**Última atualização:** 25 de novembro de 2025
 
 *Disclaimer: Este artigo é apenas informativo e não constitui recomendação de investimento. Sempre faça sua própria pesquisa (DYOR).*

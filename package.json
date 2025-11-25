@@ -12,9 +12,11 @@
     "export": "next build && next export",
     "compress-assets": "node scripts/compress-large-assets.js",
     "update-image-refs": "node scripts/update-image-references.js",
-    "optimize-assets": "npm run compress-assets && npm run update-image-refs",
+    "optimize-images": "node scripts/optimize-images.js",
+    "optimize-assets": "npm run optimize-images && npm run compress-assets && npm run update-image-refs",
     "newsletter": "node scripts/send-newsletter.js",
     "verificar-anuncios": "node scripts/verificar-anuncios.js",
+    "lazy-adsense": "node scripts/lazy-load-adsense.js",
     "prepare": "npm run lint"
   },
   "dependencies": {

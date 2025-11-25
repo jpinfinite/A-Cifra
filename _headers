@@ -4,9 +4,16 @@
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: interest-cohort=()
   
   # Performance Headers
   Cache-Control: public, max-age=0, must-revalidate
+  
+  # Preconnect para recursos externos críticos
+  Link: <https://fonts.googleapis.com>; rel=preconnect; crossorigin
+  Link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+  Link: <https://www.googletagmanager.com>; rel=dns-prefetch
+  Link: <https://pagead2.googlesyndication.com>; rel=dns-prefetch
 
 # HTML Pages - No cache for fresh content
 /*.html
@@ -18,25 +25,29 @@
   Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
 
-# Images - Medium term caching
+# Images - Long term caching (1 ano para imagens otimizadas)
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
 /*.jpg
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
 
 /*.jpeg
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
 
 /*.png
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
 
 /*.webp
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
 
 /*.avif
-  Cache-Control: public, max-age=2592000
+  Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
 
 /*.svg
