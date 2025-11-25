@@ -18,23 +18,35 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
     setStatus('loading')
 
     try {
-      // Aqui você integraria com seu serviço de newsletter (Mailchimp, ConvertKit, etc)
-      const response = await fetch('/api/newsletter', {
+      const response = await fetch('/api/newsletter/subscribe', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        headers: { 
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        body: JSON.stringify({ email: email.trim().toLowerCase() }),
       })
 
-      if (response.ok) {
+      const data = await response.json()
+
+      if (response.ok && data.success) {
         setStatus('success')
-        setMessage('Inscrição realizada com sucesso!')
+        setMessage(data.message || 'Inscrição realizada com sucesso!')
         setEmail('')
+        
+        // Analytics
+        if (typeof window !== 'undefined' && (window as any).gtag) {
+          (window as any).gtag('event', 'newsletter_signup', {
+            event_category: 'engagement',
+            event_label: 'newsletter_cta'
+          })
+        }
       } else {
-        throw new Error('Erro ao inscrever')
+        throw new Error(data.error || 'Erro ao inscrever')
       }
-    } catch {
+    } catch (error: any) {
       setStatus('error')
-      setMessage('Erro ao inscrever. Tente novamente.')
+      setMessage(error.message || 'Erro ao inscrever. Tente novamente.')
     }
 
     setTimeout(() => {

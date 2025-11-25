@@ -83,7 +83,7 @@ export async function POST(request: NextRequest) {
 
     // Tentar integração com Brevo
     const BREVO_API_KEY = process.env.BREVO_API_KEY;
-    const BREVO_LIST_ID = process.env.BREVO_LIST_ID;
+    const BREVO_LIST_ID = process.env.BREVO_LIST_ID_NEWSLETTER || '11'; // Newsletter Gratuita
     let brevoSuccess = false;
     let brevoError = null;
 
