@@ -1,0 +1,245 @@
+Renderizar solicitações de bloqueio Economia estimada de 300 ms
+Use ciclos de vida eficientes de cache Economia estimada de 164 KiB
+Um cache com ciclo de vida longo pode acelerar visitas repetidas à sua página. Saiba mais.LCPFCPFora da pontuação
+Solicitação
+Cache TTL
+Tamanho da transferência
+Google/Doubleclick Ads ad 
+420 KiB
+…js/lidar.js?fcd=true(pagead2.googlesyndication.com)
+1 h
+81 KiB
+…current/ufs_web_display.js(pagead2.googlesyndication.com)
+1 h
+69 KiB
+…m202…/show_ads_impl_fy2021.js(pagead2.googlesyndication.com)
+14 dias
+167 KiB
+…m202…/reactive_library_fy2021.js(pagead2.googlesyndication.com)
+14 dias
+64 KiB
+…html/interstitial_ad_frame_fy2021.js(tpc.googlesyndication.com)
+14 dias
+10 KiB
+…client/qs_click_protection_fy2021.js(tpc.googlesyndication.com)
+14 dias
+9 KiB
+…r20110914/abg_lite_fy2021.js(tpc.googlesyndication.com)
+14 dias
+9 KiB
+…html/fullscreen_api_adapter_fy2021.js(tpc.googlesyndication.com)
+14 dias
+7 KiB
+…client/window_focus_fy2021.js(tpc.googlesyndication.com)
+14 dias
+2 KiB
+…client/load_preloaded_resource_fy2021.js(tpc.googlesyndication.com)
+14 dias
+1 KiB
+Google CDN cdn 
+28 KiB
+/mysidia/85eda04….js?tag=…(www.gstatic.com)
+1 dia
+18 KiB
+/mysidia/9013e5a….js?tag=scream/cartman_vignette_logo_v2(www.gstatic.com)
+1 dia
+6 KiB
+/mysidia/8cf0332….js?tag=engine/client_fast/client_fast_engine(www.gstatic.com)
+1 dia
+4 KiB
+Cloudflare utility 
+14 KiB
+/beacon.min.js(static.cloudflareinsights.com)
+1 dia
+7 KiB
+/beacon.min.js/vcd15cbe…(static.cloudflareinsights.com)
+1 dia
+7 KiB
+a-cifra.com.br Própria
+1 KiB
+…cloudflare-static/email-decode.min.js(a-cifra.com.br)
+47 min 49 s
+1 KiB
+Detalhamento da LCP
+Cada subparte tem estratégias de melhoria específicas. O ideal é que a maior parte do tempo de LCP seja gasto no carregamento dos recursos, não em atrasos.LCPFora da pontuação
+Subparte
+Duração
+Time to First Byte
+0 ms
+Atraso na renderização do elemento
+3.070 ms
+Descubra análises profundas, notícias atualizadas e educação de qualidade sobre…
+<p class="font-normal mb-8 text-brand-off-white text-lg md:text-xl leading-relaxed m…">
+Árvore de dependência da rede
+Evite encadear solicitações críticas reduzindo o tamanho das cadeias, o tamanho do download de recursos ou adiando o download de recursos desnecessários para melhorar o carregamento da página.LCPFora da pontuação
+Latência máxima do caminho crítico: 666 ms
+Navegação inicial
+https://a-cifra.com.br - 323 ms, 45,62 KiB
+…css/47b7640844e6e603.css(a-cifra.com.br) - 430 ms, 1,80 KiB
+…css/44960e34b8cfc685.css(a-cifra.com.br) - 666 ms, 12,70 KiB
+…cloudflare-static/email-decode.min.js(a-cifra.com.br) - 415 ms, 1,22 KiB
+Origens pré-conectadas
+As dicas de pré-conexão ajudam o navegador a estabelecer uma conexão mais cedo durante o carregamento da página, poupando tempo quando a primeira solicitação para essa origem é feita. A página fez a pré-conexão com as seguintes origens:
+Origem
+Fonte
+https://fonts.googleapis.com
+<https://fonts.googleapis.com>; rel="preconnect"
+Candidatos à pré-conexão
+Adicione dicas de pré-conexão às suas origens mais importantes, mas tente não usar mais que 4.
+Nenhuma outra origem é uma boa candidata para a pré-conexão
+Melhorar a entrega de imagens Economia estimada de 1.289 KiB
+Reduzir o tempo de download das imagens pode melhorar o tempo de carregamento percebido da página e a LCP. Saiba mais sobre como otimizar o tamanho da imagemLCPFCPFora da pontuação
+URL
+Tamanho do recurso
+Economia estimada
+a-cifra.com.br Própria
+1.491,6 KiB	1.288,6 KiB
+Bitcoin 2026 - Previsão de Preço e Análise Completa
+<img src="/images/047.jpg" alt="Bitcoin 2026 - Previsão de Preço e Análise Completa" class="absolute inset-0 w-full h-full opacity-100 object-cover transition-transfo…" loading="lazy">
+/images/047.jpg(a-cifra.com.br)
+781,6 KiB
+710,4 KiB
+Usar um formato de imagem moderno (WebP, AVIF) ou aumentar a compactação da imagem pode aprimorar o tamanho do download da imagem.
+685,5 KiB
+Este arquivo de imagem é maior do que precisa ser (1024x577) para as dimensões exibidas (662x662). Use imagens responsivas para reduzir o tamanho do download da imagem.
+202,8 KiB
+Gráfico mostrando queda das criptomoedas da família Trump
+<img src="/images/219.jpg" alt="Gráfico mostrando queda das criptomoedas da família Trump" class="absolute inset-0 w-full h-full opacity-100 object-cover transition-transfo…" loading="lazy">
+/images/219.jpg(a-cifra.com.br)
+395,9 KiB
+354,8 KiB
+Usar um formato de imagem moderno (WebP, AVIF) ou aumentar a compactação da imagem pode aprimorar o tamanho do download da imagem.
+300,0 KiB
+Este arquivo de imagem é maior do que precisa ser (1024x576) para as dimensões exibidas (662x382). Use imagens responsivas para reduzir o tamanho do download da imagem.
+226,1 KiB
+Bitcoin recuperação US$ 80.600 análise técnica mercado cripto
+<img src="/images/221.jpg" alt="Bitcoin recuperação US$ 80.600 análise técnica mercado cripto" class="absolute inset-0 w-full h-full opacity-100 object-cover transition-transfo…" loading="lazy">
+/images/221.jpg(a-cifra.com.br)
+221,6 KiB
+180,4 KiB
+Usar um formato de imagem moderno (WebP, AVIF) ou aumentar a compactação da imagem pode aprimorar o tamanho do download da imagem.
+125,7 KiB
+Este arquivo de imagem é maior do que precisa ser (1024x576) para as dimensões exibidas (662x382). Use imagens responsivas para reduzir o tamanho do download da imagem.
+126,5 KiB
+15 Altcoins Promissoras para 2026
+<img src="/images/036.jpg" alt="15 Altcoins Promissoras para 2026" class="absolute inset-0 w-full h-full opacity-100 object-cover transition-transfo…" loading="lazy">
+/images/036.jpg(a-cifra.com.br)
+92,4 KiB
+43,0 KiB
+Usar um formato de imagem moderno (WebP, AVIF) ou aumentar a compactação da imagem pode aprimorar o tamanho do download da imagem.
+43,0 KiB
+JavaScript legado Economia estimada de 11 KiB
+Polyfills e transformações permitem que navegadores mais antigos usem novos recursos do JavaScript. No entanto, muitos não são necessários para navegadores mais recentes. Considere mudar seu processo de criação do JavaScript para não transpilar os recursos de referência, a menos que você precise da compatibilidade com navegadores mais antigos. Entenda por que a maioria dos sites pode implantar código ES6+ sem transpilaçãoLCPFCPFora da pontuação
+URL
+Bytes desperdiçados
+a-cifra.com.br Própria
+11,4 KiB
+…chunks/117-9f74edc282d0f8fb.js(a-cifra.com.br)
+11,4 KiB
+…chunks/117-9f74edc282d0f8fb.js:1:1273(a-cifra.com.br)
+Array.prototype.at
+…chunks/117-9f74edc282d0f8fb.js:1:661(a-cifra.com.br)
+Array.prototype.flat
+…chunks/117-9f74edc282d0f8fb.js:1:774(a-cifra.com.br)
+Array.prototype.flatMap
+…chunks/117-9f74edc282d0f8fb.js:1:1150(a-cifra.com.br)
+Object.fromEntries
+…chunks/117-9f74edc282d0f8fb.js:1:1408(a-cifra.com.br)
+Object.hasOwn
+…chunks/117-9f74edc282d0f8fb.js:1:403(a-cifra.com.br)
+String.prototype.trimEnd
+…chunks/117-9f74edc282d0f8fb.js:1:318(a-cifra.com.br)
+String.prototype.trimStart
+Otimizar o tamanho do DOM
+Terceiros
+Esses insights também estão disponíveis no painel de desempenho do Chrome DevTools. Grave um rastro para ver informações mais detalhadas.
+Diagnóstico
+Minimize o trabalho da thread principal 2,2 s
+Considere diminuir o tempo gasto na análise, compilação e execução de JS. Você vai perceber que a entrega de payloads JS menores ajuda a fazer isso. Aprenda a minimizar o trabalho da linha de execução principal.TBTFora da pontuação
+Categoria
+Tempo gasto
+Script Evaluation
+1.307 ms
+Script Parsing & Compilation
+387 ms
+Other
+247 ms
+Style & Layout
+146 ms
+Garbage Collection
+56 ms
+Parse HTML & CSS
+51 ms
+Rendering
+17 ms
+Reduza o JavaScript não usado Economia estimada de 453 KiB
+Para diminuir o consumo de bytes da atividade da rede, reduza o JavaScript não usado e adie o carregamento de scripts até que eles sejam necessários. Aprenda a reduzir o JavaScript não usado.LCPFCPFora da pontuação
+URL
+Tamanho da transferência
+Economia estimada
+Google/Doubleclick Ads ad 
+432,6 KiB	266,4 KiB
+…m202…/show_ads_impl_fy2021.js(pagead2.googlesyndication.com)
+166,3 KiB
+101,3 KiB
+…js/lidar.js?fcd=true(pagead2.googlesyndication.com)
+80,3 KiB
+63,1 KiB
+…m202…/reactive_library_fy2021.js(pagead2.googlesyndication.com)
+63,5 KiB
+51,4 KiB
+…current/ufs_web_display.js(pagead2.googlesyndication.com)
+68,6 KiB
+29,9 KiB
+…js/adsbygoogle.js?client=ca-pub-115…(pagead2.googlesyndication.com)
+54,0 KiB
+20,7 KiB
+a-cifra.com.br Própria
+94,1 KiB	66,8 KiB
+…chunks/618-bff1d7c305….js(a-cifra.com.br)
+94,1 KiB
+66,8 KiB
+Google Tag Manager tag-manager 
+155,7 KiB	61,3 KiB
+/gtag/js?id=G-TFBC1HD2BR(www.googletagmanager.com)
+155,7 KiB
+61,3 KiB
+Google FundingChoices consent-provider 
+95,1 KiB	58,1 KiB
+/i/ca-pub-11…?href=https%3A%2F%2Fa-cifra.com.br&ers=2(fundingchoicesmessages.google.com)
+67,8 KiB
+36,2 KiB
+/f/AGSKWxUma…==?fccs=W251bGwsb…(fundingchoicesmessages.google.com)
+27,3 KiB
+22,0 KiB
+Evite payloads de rede muito grandes O tamanho total foi de 3.089 KiB
+Grandes payloads de rede geram custos para o usuário e estão diretamente relacionados a tempos de carregamento maiores. Aprenda a reduzir o tamanho dos payloads.Fora da pontuação
+URL
+Tamanho da transferência
+a-cifra.com.br Própria
+1.783,2 KiB
+/images/047.jpg(a-cifra.com.br)
+782,4 KiB
+/images/219.jpg(a-cifra.com.br)
+396,7 KiB
+/images/221.jpg(a-cifra.com.br)
+222,4 KiB
+/images/220.jpg(a-cifra.com.br)
+190,4 KiB
+…chunks/618-bff1d7c305….js(a-cifra.com.br)
+98,0 KiB
+/images/036.jpg(a-cifra.com.br)
+93,2 KiB
+Google/Doubleclick Ads ad 
+248,0 KiB
+…m202…/show_ads_impl_fy2021.js(pagead2.googlesyndication.com)
+167,0 KiB
+…js/lidar.js?fcd=true(pagead2.googlesyndication.com)
+81,1 KiB
+Google Tag Manager tag-manager 
+156,4 KiB
+/gtag/js?id=G-TFBC1HD2BR(www.googletagmanager.com)
+156,4 KiB
+Google FundingChoices consent-provider 
+69,7 KiB
+/i/ca-pub-11…?href=https%3A%2F%2Fa-cifra.com.br&ers=2(fundingchoicesmessages.google.com)

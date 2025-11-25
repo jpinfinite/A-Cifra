@@ -29,20 +29,18 @@ export function ResponsiveImage({
 
   // Extrair nome base e extensão
   const getImageVariants = (imageSrc: string) => {
-    const basePath = imageSrc.replace(/\.(jpg|jpeg|png)$/i, '')
+    const basePath = imageSrc.replace(/\.(jpg|jpeg|png|webp)$/i, '')
     
     return {
       avif: {
         sm: `${basePath}-sm.avif`,
         md: `${basePath}-md.avif`,
         lg: `${basePath}-lg.avif`,
-        xl: `${basePath}-xl.avif`
       },
       webp: {
         sm: `${basePath}-sm.webp`,
         md: `${basePath}-md.webp`,
         lg: `${basePath}-lg.webp`,
-        xl: `${basePath}-xl.webp`
       },
       fallback: imageSrc
     }
@@ -92,8 +90,7 @@ export function ResponsiveImage({
           srcSet={`
             ${variants.avif.sm} 384w,
             ${variants.avif.md} 662w,
-            ${variants.avif.lg} 1024w,
-            ${variants.avif.xl} 1920w
+            ${variants.avif.lg} 1024w
           `}
           sizes={sizes}
         />
@@ -104,8 +101,7 @@ export function ResponsiveImage({
           srcSet={`
             ${variants.webp.sm} 384w,
             ${variants.webp.md} 662w,
-            ${variants.webp.lg} 1024w,
-            ${variants.webp.xl} 1920w
+            ${variants.webp.lg} 1024w
           `}
           sizes={sizes}
         />

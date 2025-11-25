@@ -1,6 +1,0 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M12 2L6 7L12 12L18 7L12 2Z" fill="currentColor"/>
-  <path d="M6 7L12 12V22L6 17V7Z" fill="currentColor" opacity="0.8"/>
-  <path d="M18 7L12 12V22L18 17V7Z" fill="currentColor" opacity="0.6"/>
-  <path d="M12 12L6 17L12 22L18 17L12 12Z" fill="currentColor"/>
-</svg>
