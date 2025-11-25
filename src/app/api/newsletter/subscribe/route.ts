@@ -127,10 +127,20 @@ export async function POST(request: NextRequest) {
         } else {
           console.error('❌ Erro Brevo:', brevoResponse.status, brevoData);
           brevoError = brevoData;
+          
+          // Se for erro 503 (serviço indisponível), logar especificamente
+          if (brevoResponse.status === 503) {
+            console.log('⚠️ API Brevo temporariamente indisponível - email salvo localmente');
+          }
         }
       } catch (brevoException) {
         console.error('❌ Exceção ao conectar com Brevo:', brevoException);
         brevoError = brevoException;
+        
+        // Verificar se é erro de rede/timeout
+        if (brevoException instanceof Error && brevoException.message.includes('fetch')) {
+          console.log('⚠️ Timeout ou erro de rede com Brevo - email salvo localmente');
+        }
       }
     } else {
       console.log('⚠️ Brevo não configurado - usando apenas local');
