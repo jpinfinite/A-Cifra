@@ -51,25 +51,11 @@ export function LazyAdSense({
   useEffect(() => {
     if (!isVisible || adLoaded) return
 
-    // Carregar script do AdSense se ainda não foi carregado
-    if (!window.adsbygoogle) {
-      const script = document.createElement('script')
-      script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841'
-      script.async = true
-      script.crossOrigin = 'anonymous'
-      
-      script.onload = () => {
-        initializeAd()
-      }
-      
-      document.head.appendChild(script)
-    } else {
-      initializeAd()
-    }
-
+    // O script do AdSense já está carregado no layout.tsx
+    // Apenas inicializar o anúncio quando visível
     function initializeAd() {
       try {
-        if (adRef.current && !adLoaded) {
+        if (adRef.current && !adLoaded && window.adsbygoogle) {
           ;(window.adsbygoogle = window.adsbygoogle || []).push({})
           setAdLoaded(true)
         }
@@ -77,6 +63,10 @@ export function LazyAdSense({
         console.error('Erro ao inicializar AdSense:', error)
       }
     }
+
+    // Aguardar um pouco para garantir que o script do AdSense está carregado
+    const timer = setTimeout(initializeAd, 100)
+    return () => clearTimeout(timer)
   }, [isVisible, adLoaded])
 
   return (
