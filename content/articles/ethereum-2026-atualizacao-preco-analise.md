@@ -4,7 +4,7 @@ title: "Ethereum 2026: Atualização, Preço e Análise Completa"
 slug: 'ethereum-2026-atualizacao-preco-analise'
 excerpt: "Análise completa do Ethereum para 2026: atualizações técnicas, previsão de preço, staking, e o futuro da blockchain mais utilizada do mercado."
 coverImage:
-  src: '/images/114.jpg'
+  src: '/images/222.jpg'
   alt: 'Ethereum 2026 Análise'
   width: 1200
   height: 630
