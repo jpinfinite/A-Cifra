@@ -1,10 +1,9 @@
 import Link from 'next/link'
-import Image from 'next/image'
 import { Calendar, Clock, User, Tag } from 'lucide-react'
 import { Card, CardContent, Text, Heading } from '@/components/ui'
+import { SafeImage } from '@/components/ui/SafeImage'
 import { Article } from '@/types'
 import { cn } from '@/utils/cn'
-import { generateImageSizes } from '@/utils/image'
 import { findBestImage } from '@/utils/imageMapper'
 
 interface ArticleCardProps {
@@ -55,18 +54,11 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
               : 'aspect-video w-full'
           )}
         >
-          <Image
+          <SafeImage
             src={imageSrc}
             alt={imageAlt}
             fill
             className="object-cover transition-transform duration-500 group-hover:scale-110"
-            sizes={generateImageSizes({
-              mobile: '100vw',
-              tablet: featured ? '50vw' : '50vw',
-              desktop: featured ? '50vw' : '33vw'
-            })}
-            loading="lazy"
-            quality={85}
           />
           
           {/* Category Badge */}
