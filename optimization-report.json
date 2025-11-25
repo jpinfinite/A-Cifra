@@ -1,747 +1,462 @@
 {
-  "processed": 321,
-  "errors": 8,
-  "totalOriginalSize": 205245996,
-  "totalOptimizedSize": 126862537,
+  "processed": 114,
+  "errors": 0,
+  "totalOriginalSize": 30180276,
+  "totalOptimizedSize": 39681332,
   "files": [
     {
-      "name": "001.jpg",
-      "originalSize": 66438,
-      "optimizedSizes": {
-        "webp-sm": 28988,
-        "avif-sm": 37203,
-        "webp-md": 69700,
-        "avif-md": 82734
-      },
-      "formats": []
-    },
-    {
-      "name": "002.jpg",
-      "originalSize": 139838,
-      "optimizedSizes": {
-        "webp-sm": 44198,
-        "avif-sm": 68352,
-        "webp-md": 116390,
-        "avif-md": 155551
-      },
-      "formats": []
-    },
-    {
-      "name": "003.jpg",
-      "originalSize": 100151,
-      "optimizedSizes": {
-        "webp-sm": 44274,
-        "avif-sm": 54378,
-        "webp-md": 92436,
-        "avif-md": 106063
-      },
-      "formats": []
-    },
-    {
-      "name": "004.jpg",
-      "originalSize": 1259964,
-      "optimizedSizes": {
-        "webp-sm": 18250,
-        "avif-sm": 22138,
-        "webp-md": 45698,
-        "avif-md": 54330,
-        "webp-lg": 90732,
-        "avif-lg": 104337,
-        "webp-xl": 224004,
-        "avif-xl": 232092
-      },
-      "formats": []
-    },
-    {
-      "name": "005.jpg",
-      "originalSize": 268464,
-      "optimizedSizes": {
-        "webp-sm": 9638,
-        "avif-sm": 12104,
-        "webp-md": 18954,
-        "avif-md": 21068,
-        "webp-lg": 32000,
-        "avif-lg": 32273,
-        "webp-xl": 65760,
-        "avif-xl": 63914
-      },
-      "formats": []
-    },
-    {
-      "name": "006.jpg",
-      "originalSize": 278174,
-      "optimizedSizes": {
-        "webp-sm": 7846,
-        "avif-sm": 9406,
-        "webp-md": 15294,
-        "avif-md": 16513,
-        "webp-lg": 26072,
-        "avif-lg": 26200,
-        "webp-xl": 57844,
-        "avif-xl": 53070
-      },
-      "formats": []
-    },
-    {
-      "name": "007.jpg",
-      "originalSize": 113453,
-      "optimizedSizes": {
-        "webp-sm": 38164,
-        "avif-sm": 47599,
-        "webp-md": 99568,
-        "avif-md": 116896
-      },
-      "formats": []
-    },
-    {
-      "name": "008.jpg",
-      "originalSize": 902731,
-      "optimizedSizes": {
-        "webp-sm": 33996,
-        "avif-sm": 38220,
-        "webp-md": 74290,
-        "avif-md": 80957,
-        "webp-lg": 132458,
-        "avif-lg": 138807,
-        "webp-xl": 299062,
-        "avif-xl": 304444
-      },
-      "formats": []
-    },
-    {
       "name": "009.jpg",
-      "originalSize": 2434,
+      "originalSize": 2002,
       "optimizedSizes": {},
       "formats": []
     },
     {
       "name": "010.jpg",
-      "originalSize": 621210,
+      "originalSize": 621536,
       "optimizedSizes": {
-        "webp-sm": 12216,
-        "avif-sm": 14168,
-        "webp-md": 30190,
-        "avif-md": 31622,
-        "webp-lg": 58802,
-        "avif-lg": 55263,
-        "webp-xl": 137654,
-        "avif-xl": 126237
-      },
-      "formats": []
-    },
-    {
-      "name": "011.jpg",
-      "originalSize": 1062171,
-      "optimizedSizes": {
-        "webp-sm": 15264,
-        "avif-sm": 18150,
-        "webp-md": 40202,
-        "avif-md": 44591,
-        "webp-lg": 87502,
-        "avif-lg": 92344,
-        "webp-xl": 239792,
-        "avif-xl": 269935
-      },
-      "formats": []
-    },
-    {
-      "name": "012.jpg",
-      "originalSize": 594279,
-      "optimizedSizes": {
-        "webp-sm": 14586,
-        "avif-sm": 17415,
-        "webp-md": 30946,
-        "avif-md": 34085,
-        "webp-lg": 53434,
-        "avif-lg": 55428,
-        "webp-xl": 114210,
-        "avif-xl": 112734
-      },
-      "formats": []
-    },
-    {
-      "name": "013.jpg",
-      "originalSize": 118915,
-      "optimizedSizes": {
-        "webp-sm": 46010,
-        "avif-sm": 55521,
-        "webp-md": 113826,
-        "avif-md": 129356
-      },
-      "formats": []
-    },
-    {
-      "name": "014.jpg",
-      "originalSize": 1046336,
-      "optimizedSizes": {
-        "webp-sm": 13544,
-        "avif-sm": 15896,
-        "webp-md": 33994,
-        "avif-md": 38208,
-        "webp-lg": 76300,
-        "avif-lg": 80864,
-        "webp-xl": 224976,
-        "avif-xl": 265437
+        "webp-sm": 12132,
+        "avif-sm": 14110,
+        "webp-md": 30224,
+        "avif-md": 31486,
+        "webp-lg": 58884,
+        "avif-lg": 57759,
+        "webp-xl": 136088,
+        "avif-xl": 148874
       },
       "formats": []
     },
     {
       "name": "015.jpg",
-      "originalSize": 241667,
+      "originalSize": 264980,
       "optimizedSizes": {
-        "webp-sm": 11216,
-        "avif-sm": 14872,
-        "webp-md": 24862,
-        "avif-md": 30264,
-        "webp-lg": 44496,
-        "avif-lg": 51736,
-        "webp-xl": 100450,
-        "avif-xl": 119058
+        "webp-sm": 11196,
+        "avif-sm": 14794,
+        "webp-md": 24688,
+        "avif-md": 30665,
+        "webp-lg": 44406,
+        "avif-lg": 52415,
+        "webp-xl": 98828,
+        "avif-xl": 114558
       },
       "formats": []
     },
     {
       "name": "016.jpg",
-      "originalSize": 296355,
+      "originalSize": 297708,
       "optimizedSizes": {
-        "webp-sm": 27836,
-        "avif-sm": 36457,
-        "webp-md": 58242,
-        "avif-md": 68487,
-        "webp-lg": 103540,
-        "avif-lg": 118407,
-        "webp-xl": 229362,
-        "avif-xl": 304983
+        "webp-sm": 27658,
+        "avif-sm": 36538,
+        "webp-md": 57956,
+        "avif-md": 76703,
+        "webp-lg": 100784,
+        "avif-lg": 122291,
+        "webp-xl": 216654,
+        "avif-xl": 269040
       },
       "formats": []
     },
     {
       "name": "017.jpg",
-      "originalSize": 346211,
+      "originalSize": 360081,
       "optimizedSizes": {
-        "webp-sm": 18670,
-        "avif-sm": 23900,
-        "webp-md": 40528,
-        "avif-md": 49273,
-        "webp-lg": 72696,
-        "avif-lg": 82112,
-        "webp-xl": 157378,
-        "avif-xl": 185042
+        "webp-sm": 18574,
+        "avif-sm": 23932,
+        "webp-md": 40366,
+        "avif-md": 49978,
+        "webp-lg": 71566,
+        "avif-lg": 84628,
+        "webp-xl": 152830,
+        "avif-xl": 180817
       },
       "formats": []
     },
     {
       "name": "018.jpg",
-      "originalSize": 457680,
+      "originalSize": 462286,
       "optimizedSizes": {
-        "webp-sm": 10746,
-        "avif-sm": 12793,
-        "webp-md": 23114,
-        "avif-md": 25508,
-        "webp-lg": 43252,
-        "avif-lg": 43019,
-        "webp-xl": 95980,
-        "avif-xl": 86704
+        "webp-sm": 10718,
+        "avif-sm": 12946,
+        "webp-md": 23170,
+        "avif-md": 25665,
+        "webp-lg": 43308,
+        "avif-lg": 43558,
+        "webp-xl": 95256,
+        "avif-xl": 88793
       },
       "formats": []
     },
     {
       "name": "019.jpg",
-      "originalSize": 1212664,
+      "originalSize": 1099989,
       "optimizedSizes": {
-        "webp-sm": 12578,
-        "avif-sm": 14769,
-        "webp-md": 36590,
-        "avif-md": 39882,
-        "webp-lg": 82350,
-        "avif-lg": 89845,
-        "webp-xl": 235386,
-        "avif-xl": 261848
+        "webp-sm": 12614,
+        "avif-sm": 14670,
+        "webp-md": 36628,
+        "avif-md": 39505,
+        "webp-lg": 81962,
+        "avif-lg": 90398,
+        "webp-xl": 234098,
+        "avif-xl": 263871
       },
       "formats": []
     },
     {
       "name": "020.jpg",
-      "originalSize": 1129619,
+      "originalSize": 1281631,
       "optimizedSizes": {
-        "webp-sm": 22202,
-        "avif-sm": 28800,
-        "webp-md": 52108,
-        "avif-md": 61462,
-        "webp-lg": 101962,
-        "avif-lg": 109304,
-        "webp-xl": 238636,
-        "avif-xl": 228469
-      },
-      "formats": []
-    },
-    {
-      "name": "021.jpg",
-      "originalSize": 63656,
-      "optimizedSizes": {
-        "webp-sm": 34090,
-        "avif-sm": 41465,
-        "webp-md": 69592,
-        "avif-md": 79085
+        "webp-sm": 22112,
+        "avif-sm": 28770,
+        "webp-md": 52164,
+        "avif-md": 61357,
+        "webp-lg": 101848,
+        "avif-lg": 108694,
+        "webp-xl": 238744,
+        "avif-xl": 240394
       },
       "formats": []
     },
     {
       "name": "022.jpg",
-      "originalSize": 1817638,
+      "originalSize": 1682707,
       "optimizedSizes": {
-        "webp-sm": 18448,
-        "avif-sm": 28497,
-        "webp-md": 54418,
-        "avif-md": 72221,
-        "webp-lg": 116630,
-        "avif-lg": 148634,
-        "webp-xl": 291878,
-        "avif-xl": 320978
+        "webp-sm": 18574,
+        "avif-sm": 28870,
+        "webp-md": 54192,
+        "avif-md": 72262,
+        "webp-lg": 116748,
+        "avif-lg": 149258,
+        "webp-xl": 289398,
+        "avif-xl": 350978
       },
       "formats": []
     },
     {
       "name": "023.jpg",
-      "originalSize": 56730,
+      "originalSize": 66601,
       "optimizedSizes": {
-        "webp-sm": 35474,
-        "avif-sm": 42738
+        "webp-sm": 35472,
+        "avif-sm": 42542
       },
       "formats": []
     },
     {
       "name": "024.jpg",
-      "originalSize": 104942,
+      "originalSize": 113622,
       "optimizedSizes": {
-        "webp-sm": 87438,
-        "avif-sm": 98417
+        "webp-sm": 85028,
+        "avif-sm": 94581
       },
       "formats": []
     },
     {
       "name": "025.jpg",
-      "originalSize": 821275,
+      "originalSize": 819467,
       "optimizedSizes": {
-        "webp-sm": 9220,
-        "avif-sm": 9686,
-        "webp-md": 20218,
-        "avif-md": 18361,
-        "webp-lg": 37550,
-        "avif-lg": 30767,
-        "webp-xl": 86978,
-        "avif-xl": 60305
+        "webp-sm": 9152,
+        "avif-sm": 9739,
+        "webp-md": 20128,
+        "avif-md": 18198,
+        "webp-lg": 37384,
+        "avif-lg": 30844,
+        "webp-xl": 86854,
+        "avif-xl": 64173
       },
       "formats": []
     },
     {
       "name": "026.jpg",
-      "originalSize": 1064793,
+      "originalSize": 1204618,
       "optimizedSizes": {
-        "webp-sm": 21842,
-        "avif-sm": 20986,
-        "webp-md": 45056,
-        "avif-md": 38092,
-        "webp-lg": 78820,
-        "avif-lg": 61933,
-        "webp-xl": 169184,
-        "avif-xl": 124897
+        "webp-sm": 21878,
+        "avif-sm": 21038,
+        "webp-md": 45116,
+        "avif-md": 37993,
+        "webp-lg": 78760,
+        "avif-lg": 62470,
+        "webp-xl": 168982,
+        "avif-xl": 131658
       },
       "formats": []
     },
     {
       "name": "027.jpg",
-      "originalSize": 43361,
+      "originalSize": 52576,
       "optimizedSizes": {
-        "webp-sm": 17640,
-        "avif-sm": 22000,
-        "webp-md": 40264,
-        "avif-md": 47292
+        "webp-sm": 17456,
+        "avif-sm": 21694,
+        "webp-md": 39800,
+        "avif-md": 46560
       },
       "formats": []
     },
     {
       "name": "028.jpg",
-      "originalSize": 13920,
+      "originalSize": 13099,
       "optimizedSizes": {
-        "webp-sm": 3692,
-        "avif-sm": 4188,
-        "webp-md": 7324,
-        "avif-md": 8320
+        "webp-sm": 3638,
+        "avif-sm": 4201,
+        "webp-md": 7078,
+        "avif-md": 8185
       },
       "formats": []
     },
     {
       "name": "029.jpg",
-      "originalSize": 53442,
+      "originalSize": 57451,
       "optimizedSizes": {
-        "webp-sm": 18784,
-        "avif-sm": 24011,
-        "webp-md": 43076,
-        "avif-md": 50964
+        "webp-sm": 18430,
+        "avif-sm": 23121,
+        "webp-md": 41694,
+        "avif-md": 47858
       },
       "formats": []
     },
     {
       "name": "030.jpg",
-      "originalSize": 35768,
+      "originalSize": 44319,
       "optimizedSizes": {
-        "webp-sm": 11266,
-        "avif-sm": 12626,
-        "webp-md": 23478,
-        "avif-md": 25793
+        "webp-sm": 11588,
+        "avif-sm": 12231,
+        "webp-md": 23810,
+        "avif-md": 26201
       },
       "formats": []
     },
     {
       "name": "031.jpg",
-      "originalSize": 54276,
+      "originalSize": 64285,
       "optimizedSizes": {
-        "webp-sm": 37198,
-        "avif-sm": 43953
+        "webp-sm": 37126,
+        "avif-sm": 43723
       },
       "formats": []
     },
     {
       "name": "032.jpg",
-      "originalSize": 489407,
+      "originalSize": 103649,
       "optimizedSizes": {
-        "webp-sm": 12436,
-        "avif-sm": 13530,
-        "webp-md": 29106,
-        "avif-md": 31462,
-        "webp-lg": 52432,
-        "avif-lg": 58166
+        "webp-sm": 12380,
+        "avif-sm": 14062,
+        "webp-md": 28000,
+        "avif-md": 31755,
+        "webp-lg": 48490,
+        "avif-lg": 55593
       },
       "formats": []
     },
     {
       "name": "033.jpg",
-      "originalSize": 139742,
+      "originalSize": 155610,
       "optimizedSizes": {
-        "webp-sm": 54716,
-        "avif-sm": 72256,
-        "webp-md": 130682,
-        "avif-md": 159794
+        "webp-sm": 54174,
+        "avif-sm": 69189,
+        "webp-md": 127450,
+        "avif-md": 151647
       },
       "formats": []
     },
     {
       "name": "034.jpg",
-      "originalSize": 50205,
+      "originalSize": 55515,
       "optimizedSizes": {
-        "webp-sm": 16420,
-        "avif-sm": 20189,
-        "webp-md": 39554,
-        "avif-md": 45131
+        "webp-sm": 16176,
+        "avif-sm": 19483,
+        "webp-md": 38008,
+        "avif-md": 42402
       },
       "formats": []
     },
     {
       "name": "035.jpg",
-      "originalSize": 250746,
+      "originalSize": 283864,
       "optimizedSizes": {
-        "webp-sm": 41442,
-        "avif-sm": 54410,
-        "webp-md": 113974,
-        "avif-md": 135165,
-        "webp-lg": 236436,
-        "avif-lg": 271061
+        "webp-sm": 41166,
+        "avif-sm": 52225,
+        "webp-md": 113168,
+        "avif-md": 130472,
+        "webp-lg": 231048,
+        "avif-lg": 259329
       },
       "formats": []
     },
     {
       "name": "036.jpg",
-      "originalSize": 94662,
+      "originalSize": 113197,
       "optimizedSizes": {
-        "webp-sm": 39522,
-        "avif-sm": 50980,
-        "webp-md": 107494,
-        "avif-md": 127887
-      },
-      "formats": []
-    },
-    {
-      "name": "037.png",
-      "originalSize": 428966,
-      "optimizedSizes": {
-        "webp-sm": 18164,
-        "avif-sm": 22791,
-        "webp-md": 46116,
-        "avif-md": 55162,
-        "webp-lg": 92806,
-        "avif-lg": 108085
+        "webp-sm": 39312,
+        "avif-sm": 50200,
+        "webp-md": 106338,
+        "avif-md": 125416
       },
       "formats": []
     },
     {
       "name": "038.jpg",
-      "originalSize": 149034,
+      "originalSize": 167429,
       "optimizedSizes": {
-        "webp-sm": 63300,
-        "avif-sm": 80496,
-        "webp-md": 151944,
-        "avif-md": 183448
-      },
-      "formats": []
-    },
-    {
-      "name": "039.jpg",
-      "originalSize": 116911,
-      "optimizedSizes": {
-        "webp-sm": 43544,
-        "avif-sm": 62841,
-        "webp-md": 112164,
-        "avif-md": 143343
+        "webp-sm": 63264,
+        "avif-sm": 79253,
+        "webp-md": 159096,
+        "avif-md": 186312
       },
       "formats": []
     },
     {
       "name": "040.jpg",
-      "originalSize": 12326,
+      "originalSize": 12451,
       "optimizedSizes": {
-        "webp-sm": 3862,
-        "avif-sm": 4045,
-        "webp-md": 7352,
-        "avif-md": 8345
+        "webp-sm": 3810,
+        "avif-sm": 3879,
+        "webp-md": 7258,
+        "avif-md": 7545
       },
       "formats": []
     },
     {
       "name": "041.jpg",
-      "originalSize": 75087,
+      "originalSize": 89443,
       "optimizedSizes": {
-        "webp-sm": 30572,
-        "avif-sm": 37836,
-        "webp-md": 72426,
-        "avif-md": 85052
-      },
-      "formats": []
-    },
-    {
-      "name": "042.jpg",
-      "originalSize": 223792,
-      "optimizedSizes": {
-        "webp-sm": 76532,
-        "avif-sm": 102189,
-        "webp-md": 205780,
-        "avif-md": 258384
-      },
-      "formats": []
-    },
-    {
-      "name": "043.jpg",
-      "originalSize": 154182,
-      "optimizedSizes": {
-        "webp-sm": 58672,
-        "avif-sm": 84136,
-        "webp-md": 163032,
-        "avif-md": 204931
+        "webp-sm": 30580,
+        "avif-sm": 37693,
+        "webp-md": 73794,
+        "avif-md": 86245
       },
       "formats": []
     },
     {
       "name": "044.jpg",
-      "originalSize": 42267,
+      "originalSize": 34639,
       "optimizedSizes": {
-        "webp-sm": 4976,
-        "avif-sm": 4354,
-        "webp-md": 9638,
-        "avif-md": 8306,
-        "webp-lg": 16102,
-        "avif-lg": 16967
-      },
-      "formats": []
-    },
-    {
-      "name": "045.png",
-      "originalSize": 45952,
-      "optimizedSizes": {
-        "webp-sm": 5116,
-        "avif-sm": 4275,
-        "webp-md": 9684,
-        "avif-md": 7827,
-        "webp-lg": 15554,
-        "avif-lg": 12089
-      },
-      "formats": []
-    },
-    {
-      "name": "046.jpg",
-      "originalSize": 93316,
-      "optimizedSizes": {
-        "webp-sm": 42356,
-        "avif-sm": 61341,
-        "webp-md": 109112,
-        "avif-md": 141195
+        "webp-sm": 4978,
+        "avif-sm": 4992,
+        "webp-md": 9626,
+        "avif-md": 9930,
+        "webp-lg": 15926,
+        "avif-lg": 17506
       },
       "formats": []
     },
     {
       "name": "047.jpg",
-      "originalSize": 800403,
+      "originalSize": 157729,
       "optimizedSizes": {
-        "webp-sm": 22922,
-        "avif-sm": 31629,
-        "webp-md": 56434,
-        "avif-md": 75433,
-        "webp-lg": 120340,
-        "avif-lg": 154400
+        "webp-sm": 22700,
+        "avif-sm": 31209,
+        "webp-md": 56158,
+        "avif-md": 71785,
+        "webp-lg": 119668,
+        "avif-lg": 131521
       },
       "formats": []
     },
     {
       "name": "048.jpg",
-      "originalSize": 666942,
+      "originalSize": 817267,
       "optimizedSizes": {
-        "webp-sm": 9520,
-        "avif-sm": 11449,
-        "webp-md": 25300,
-        "avif-md": 31620,
-        "webp-lg": 57654,
-        "avif-lg": 76904,
-        "webp-xl": 216816,
-        "avif-xl": 276694
+        "webp-sm": 9400,
+        "avif-sm": 11340,
+        "webp-md": 25298,
+        "avif-md": 30984,
+        "webp-lg": 57618,
+        "avif-lg": 74699,
+        "webp-xl": 221722,
+        "avif-xl": 279275
       },
       "formats": []
     },
     {
       "name": "049.jpg",
-      "originalSize": 479337,
+      "originalSize": 467463,
       "optimizedSizes": {
-        "webp-sm": 7854,
-        "avif-sm": 8891,
-        "webp-md": 18788,
-        "avif-md": 19554,
-        "webp-lg": 39312,
-        "avif-lg": 38054,
-        "webp-xl": 103248,
-        "avif-xl": 88663
+        "webp-sm": 7848,
+        "avif-sm": 8860,
+        "webp-md": 18728,
+        "avif-md": 19565,
+        "webp-lg": 39358,
+        "avif-lg": 38785,
+        "webp-xl": 101824,
+        "avif-xl": 101962
       },
       "formats": []
     },
     {
       "name": "050.jpg",
-      "originalSize": 149775,
+      "originalSize": 120707,
       "optimizedSizes": {
-        "webp-sm": 14842,
-        "avif-sm": 21752,
-        "webp-md": 38646,
-        "avif-md": 52913,
-        "webp-lg": 68878,
-        "avif-lg": 94951
+        "webp-sm": 14670,
+        "avif-sm": 22064,
+        "webp-md": 37830,
+        "avif-md": 49011,
+        "webp-lg": 66524,
+        "avif-lg": 84876
       },
       "formats": []
     },
     {
       "name": "051.jpg",
-      "originalSize": 113119,
+      "originalSize": 137293,
       "optimizedSizes": {
-        "webp-sm": 51632,
-        "avif-sm": 68094,
-        "webp-md": 137764,
-        "avif-md": 165984
-      },
-      "formats": []
-    },
-    {
-      "name": "052.jpg",
-      "originalSize": 33170,
-      "optimizedSizes": {
-        "webp-sm": 31016,
-        "avif-sm": 37362
+        "webp-sm": 51156,
+        "avif-sm": 66959,
+        "webp-md": 136520,
+        "avif-md": 162363
       },
       "formats": []
     },
     {
       "name": "053.jpg",
-      "originalSize": 99221,
+      "originalSize": 39232,
       "optimizedSizes": {
-        "webp-sm": 5402,
-        "avif-sm": 6010,
-        "webp-md": 10912,
-        "avif-md": 11624,
-        "webp-lg": 17954,
-        "avif-lg": 18005
+        "webp-sm": 5432,
+        "avif-sm": 5969,
+        "webp-md": 10860,
+        "avif-md": 11510,
+        "webp-lg": 18314,
+        "avif-lg": 18359
       },
       "formats": []
     },
     {
       "name": "055.jpg",
-      "originalSize": 211728,
+      "originalSize": 237572,
       "optimizedSizes": {
-        "webp-sm": 75400,
-        "avif-sm": 97147,
-        "webp-md": 190500,
-        "avif-md": 224001
+        "webp-sm": 73696,
+        "avif-sm": 92047,
+        "webp-md": 183822,
+        "avif-md": 210708
       },
       "formats": []
     },
     {
       "name": "056.jpg",
-      "originalSize": 135380,
+      "originalSize": 150905,
       "optimizedSizes": {
-        "webp-sm": 48272,
-        "avif-sm": 73603,
-        "webp-md": 130090,
-        "avif-md": 171546
-      },
-      "formats": []
-    },
-    {
-      "name": "058.png",
-      "originalSize": 259124,
-      "optimizedSizes": {
-        "webp-sm": 20478,
-        "avif-sm": 26022,
-        "webp-md": 44496,
-        "avif-md": 57594
-      },
-      "formats": []
-    },
-    {
-      "name": "059.jpg",
-      "originalSize": 532965,
-      "optimizedSizes": {
-        "webp-sm": 13890,
-        "avif-sm": 19222,
-        "webp-md": 33100,
-        "avif-md": 43497,
-        "webp-lg": 62522,
-        "avif-lg": 78029,
-        "webp-xl": 147090,
-        "avif-xl": 173900
-      },
-      "formats": []
-    },
-    {
-      "name": "060.jpg",
-      "originalSize": 69639,
-      "optimizedSizes": {
-        "webp-sm": 42708,
-        "avif-sm": 58856
+        "webp-sm": 47702,
+        "avif-sm": 68142,
+        "webp-md": 124090,
+        "avif-md": 156487
       },
       "formats": []
     },
     {
       "name": "061.jpg",
-      "originalSize": 35973,
+      "originalSize": 35538,
       "optimizedSizes": {
-        "webp-sm": 12288,
-        "avif-sm": 13721,
-        "webp-md": 23738,
-        "avif-md": 27431
+        "webp-sm": 12096,
+        "avif-sm": 13342,
+        "webp-md": 23242,
+        "avif-md": 25939
       },
       "formats": []
     },
     {
       "name": "062.jpg",
-      "originalSize": 70162,
+      "originalSize": 75320,
       "optimizedSizes": {
-        "webp-sm": 19846,
-        "avif-sm": 27407,
-        "webp-md": 51634,
-        "avif-md": 65902
+        "webp-sm": 19706,
+        "avif-sm": 26030,
+        "webp-md": 49398,
+        "avif-md": 60809
       },
       "formats": []
     },
@@ -760,622 +475,351 @@
     },
     {
       "name": "064.jpg",
-      "originalSize": 203353,
+      "originalSize": 241465,
       "optimizedSizes": {
-        "webp-sm": 31074,
-        "avif-sm": 49208,
-        "webp-md": 70854,
-        "avif-md": 99257,
-        "webp-lg": 127530,
-        "avif-lg": 164484
+        "webp-sm": 30984,
+        "avif-sm": 48178,
+        "webp-md": 70358,
+        "avif-md": 96153,
+        "webp-lg": 126836,
+        "avif-lg": 160110
       },
       "formats": []
     },
     {
       "name": "066.jpg",
-      "originalSize": 39456,
+      "originalSize": 46586,
       "optimizedSizes": {
-        "webp-sm": 15260,
-        "avif-sm": 19272,
-        "webp-md": 31924,
-        "avif-md": 36763
-      },
-      "formats": []
-    },
-    {
-      "name": "067.jpg",
-      "originalSize": 274331,
-      "optimizedSizes": {
-        "webp-sm": 89618,
-        "avif-sm": 129152,
-        "webp-md": 233298,
-        "avif-md": 301708
-      },
-      "formats": []
-    },
-    {
-      "name": "068.png",
-      "originalSize": 4561,
-      "optimizedSizes": {
-        "webp-sm": 14450,
-        "avif-sm": 16244
-      },
-      "formats": []
-    },
-    {
-      "name": "069.png",
-      "originalSize": 4534,
-      "optimizedSizes": {
-        "webp-sm": 12770,
-        "avif-sm": 9760
-      },
-      "formats": []
-    },
-    {
-      "name": "070.jpg",
-      "originalSize": 844342,
-      "optimizedSizes": {
-        "webp-sm": 16014,
-        "avif-sm": 24935,
-        "webp-md": 49374,
-        "avif-md": 82271,
-        "webp-lg": 152198,
-        "avif-lg": 211290,
-        "webp-xl": 764632,
-        "avif-xl": 909909
-      },
-      "formats": []
-    },
-    {
-      "name": "071.jpg",
-      "originalSize": 210573,
-      "optimizedSizes": {
-        "webp-sm": 75108,
-        "avif-sm": 105868,
-        "webp-md": 195386,
-        "avif-md": 245189
+        "webp-sm": 15478,
+        "avif-sm": 19647,
+        "webp-md": 32796,
+        "avif-md": 38312
       },
       "formats": []
     },
     {
       "name": "072.jpg",
-      "originalSize": 75402,
+      "originalSize": 89954,
       "optimizedSizes": {
-        "webp-sm": 39866,
-        "avif-sm": 55210,
-        "webp-md": 77196,
-        "avif-md": 97453
-      },
-      "formats": []
-    },
-    {
-      "name": "073.jpg",
-      "originalSize": 178771,
-      "optimizedSizes": {
-        "webp-sm": 57486,
-        "avif-sm": 74552,
-        "webp-md": 164402,
-        "avif-md": 192847
+        "webp-sm": 39652,
+        "avif-sm": 54004,
+        "webp-md": 76690,
+        "avif-md": 94953
       },
       "formats": []
     },
     {
       "name": "074.jpg",
-      "originalSize": 13361,
+      "originalSize": 16032,
       "optimizedSizes": {
-        "webp-sm": 4792,
-        "avif-sm": 4572,
-        "webp-md": 9606,
-        "avif-md": 8879
+        "webp-sm": 4806,
+        "avif-sm": 4582,
+        "webp-md": 9516,
+        "avif-md": 8988
       },
       "formats": []
     },
     {
       "name": "075.jpg",
-      "originalSize": 285937,
+      "originalSize": 218283,
       "optimizedSizes": {
-        "webp-sm": 32372,
-        "avif-sm": 47191,
-        "webp-md": 81442,
-        "avif-md": 119749,
-        "webp-lg": 175624,
-        "avif-lg": 253721
-      },
-      "formats": []
-    },
-    {
-      "name": "076.png",
-      "originalSize": 643671,
-      "optimizedSizes": {
-        "webp-sm": 15398,
-        "avif-sm": 17622,
-        "webp-md": 32686,
-        "avif-md": 36555,
-        "webp-lg": 60242,
-        "avif-lg": 65496
+        "webp-sm": 31634,
+        "avif-sm": 44882,
+        "webp-md": 80562,
+        "avif-md": 105943,
+        "webp-lg": 174980,
+        "avif-lg": 221399
       },
       "formats": []
     },
     {
       "name": "077.jpg",
-      "originalSize": 80061,
+      "originalSize": 85562,
       "optimizedSizes": {
-        "webp-sm": 59116,
-        "avif-sm": 77605
+        "webp-sm": 55898,
+        "avif-sm": 71323
       },
       "formats": []
     },
     {
       "name": "078.jpg",
-      "originalSize": 73354,
+      "originalSize": 87473,
       "optimizedSizes": {
-        "webp-sm": 31688,
-        "avif-sm": 40910,
-        "webp-md": 64572,
-        "avif-md": 78697
-      },
-      "formats": []
-    },
-    {
-      "name": "079.jpg",
-      "originalSize": 121387,
-      "optimizedSizes": {
-        "webp-sm": 10836,
-        "avif-sm": 13131,
-        "webp-md": 24782,
-        "avif-md": 28863,
-        "webp-lg": 50080,
-        "avif-lg": 58150
-      },
-      "formats": []
-    },
-    {
-      "name": "080.jpg",
-      "originalSize": 2514132,
-      "optimizedSizes": {
-        "webp-sm": 17568,
-        "avif-sm": 23655,
-        "webp-md": 39614,
-        "avif-md": 48549,
-        "webp-lg": 76594,
-        "avif-lg": 98233,
-        "webp-xl": 266762,
-        "avif-xl": 391720
-      },
-      "formats": []
-    },
-    {
-      "name": "081.png",
-      "originalSize": 171534,
-      "optimizedSizes": {
-        "webp-sm": 26152,
-        "avif-sm": 24440,
-        "webp-md": 57472,
-        "avif-md": 53560,
-        "webp-lg": 110908,
-        "avif-lg": 103979
+        "webp-sm": 32136,
+        "avif-sm": 41212,
+        "webp-md": 66354,
+        "avif-md": 80372
       },
       "formats": []
     },
     {
       "name": "082.jpg",
-      "originalSize": 30145,
+      "originalSize": 31552,
       "optimizedSizes": {
-        "webp-sm": 4068,
-        "avif-sm": 3768,
-        "webp-md": 6884,
-        "avif-md": 6458,
-        "webp-lg": 10644,
-        "avif-lg": 10734
+        "webp-sm": 4110,
+        "avif-sm": 3803,
+        "webp-md": 6840,
+        "avif-md": 6598,
+        "webp-lg": 10464,
+        "avif-lg": 10419
       },
       "formats": []
     },
     {
       "name": "083.jpg",
-      "originalSize": 62671,
+      "originalSize": 73866,
       "optimizedSizes": {
-        "webp-sm": 35270,
-        "avif-sm": 41492
+        "webp-sm": 35362,
+        "avif-sm": 41115
       },
       "formats": []
     },
     {
       "name": "084.jpg",
-      "originalSize": 711208,
+      "originalSize": 176663,
       "optimizedSizes": {
-        "webp-sm": 31976,
-        "avif-sm": 49774,
-        "webp-md": 68598,
-        "avif-md": 100477,
-        "webp-lg": 112568,
-        "avif-lg": 153338
+        "webp-sm": 31416,
+        "avif-sm": 49584,
+        "webp-md": 66144,
+        "avif-md": 89722,
+        "webp-lg": 107900,
+        "avif-lg": 133390
       },
       "formats": []
     },
     {
       "name": "085.jpg",
-      "originalSize": 60501,
+      "originalSize": 72496,
       "optimizedSizes": {
-        "webp-sm": 27944,
-        "avif-sm": 36299,
-        "webp-md": 60394,
-        "avif-md": 71661
+        "webp-sm": 27570,
+        "avif-sm": 35357,
+        "webp-md": 59358,
+        "avif-md": 69899
       },
       "formats": []
     },
     {
       "name": "086.jpg",
-      "originalSize": 2304227,
+      "originalSize": 2881954,
       "optimizedSizes": {
-        "webp-sm": 22378,
-        "avif-sm": 25301,
-        "webp-md": 45028,
-        "avif-md": 52107,
-        "webp-lg": 78158,
-        "avif-lg": 89509,
-        "webp-xl": 222792,
-        "avif-xl": 309889
+        "webp-sm": 22546,
+        "avif-sm": 24902,
+        "webp-md": 44816,
+        "avif-md": 51005,
+        "webp-lg": 77768,
+        "avif-lg": 88002,
+        "webp-xl": 223888,
+        "avif-xl": 308113
       },
       "formats": []
     },
     {
       "name": "087.jpg",
-      "originalSize": 91912,
+      "originalSize": 106648,
       "optimizedSizes": {
-        "webp-sm": 33088,
-        "avif-sm": 44840,
-        "webp-md": 87412,
-        "avif-md": 110794
+        "webp-sm": 32956,
+        "avif-sm": 43441,
+        "webp-md": 89294,
+        "avif-md": 112344
       },
       "formats": []
     },
     {
       "name": "088.jpg",
-      "originalSize": 1314581,
+      "originalSize": 1667186,
       "optimizedSizes": {
-        "webp-sm": 47144,
-        "avif-sm": 58971,
-        "webp-md": 141712,
-        "avif-md": 170226,
-        "webp-lg": 308488,
-        "avif-lg": 360031,
-        "webp-xl": 741040,
-        "avif-xl": 826094
+        "webp-sm": 47260,
+        "avif-sm": 58991,
+        "webp-md": 141564,
+        "avif-md": 170647,
+        "webp-lg": 308046,
+        "avif-lg": 359236,
+        "webp-xl": 742776,
+        "avif-xl": 829118
       },
       "formats": []
     },
     {
       "name": "089.jpg",
-      "originalSize": 495371,
+      "originalSize": 641902,
       "optimizedSizes": {
-        "webp-sm": 30454,
-        "avif-sm": 35089,
-        "webp-md": 70806,
-        "avif-md": 89253,
-        "webp-lg": 127700,
-        "avif-lg": 177228,
-        "webp-xl": 274752,
-        "avif-xl": 376195
-      },
-      "formats": []
-    },
-    {
-      "name": "090.jpg",
-      "originalSize": 1035111,
-      "optimizedSizes": {
-        "webp-sm": 52880,
-        "avif-sm": 75740,
-        "webp-md": 143136,
-        "avif-md": 193310,
-        "webp-lg": 339298,
-        "avif-lg": 422835,
-        "webp-xl": 962270,
-        "avif-xl": 1146776
+        "webp-sm": 30542,
+        "avif-sm": 34673,
+        "webp-md": 70094,
+        "avif-md": 85814,
+        "webp-lg": 126266,
+        "avif-lg": 169186,
+        "webp-xl": 266026,
+        "avif-xl": 354040
       },
       "formats": []
     },
     {
       "name": "091.jpg",
-      "originalSize": 115417,
+      "originalSize": 136902,
       "optimizedSizes": {
-        "webp-sm": 48740,
-        "avif-sm": 67189,
-        "webp-md": 116894,
-        "avif-md": 150917
+        "webp-sm": 48050,
+        "avif-sm": 65448,
+        "webp-md": 118548,
+        "avif-md": 148664
       },
       "formats": []
     },
     {
       "name": "092.jpg",
-      "originalSize": 50968,
+      "originalSize": 60234,
       "optimizedSizes": {
-        "webp-sm": 37462,
-        "avif-sm": 46459
+        "webp-sm": 37498,
+        "avif-sm": 45876
       },
       "formats": []
     },
     {
       "name": "093.jpg",
-      "originalSize": 158235,
+      "originalSize": 181754,
       "optimizedSizes": {
-        "webp-sm": 61274,
-        "avif-sm": 78917,
-        "webp-md": 154316,
-        "avif-md": 184566
+        "webp-sm": 61092,
+        "avif-sm": 76969,
+        "webp-md": 156578,
+        "avif-md": 183339
       },
       "formats": []
     },
     {
       "name": "094.jpg",
-      "originalSize": 30890,
+      "originalSize": 32961,
       "optimizedSizes": {
-        "webp-sm": 11512,
-        "avif-sm": 15320
+        "webp-sm": 11024,
+        "avif-sm": 14498
       },
       "formats": []
     },
     {
       "name": "095.jpg",
-      "originalSize": 128464,
+      "originalSize": 139318,
       "optimizedSizes": {
-        "webp-sm": 35902,
-        "avif-sm": 43848,
-        "webp-md": 95342,
-        "avif-md": 123202
-      },
-      "formats": []
-    },
-    {
-      "name": "096.jpg",
-      "originalSize": 143965,
-      "optimizedSizes": {
-        "webp-sm": 54120,
-        "avif-sm": 72261,
-        "webp-md": 135540,
-        "avif-md": 169187
-      },
-      "formats": []
-    },
-    {
-      "name": "097.jpg",
-      "originalSize": 66122,
-      "optimizedSizes": {
-        "webp-sm": 22376,
-        "avif-sm": 25604,
-        "webp-md": 50490,
-        "avif-md": 60648
-      },
-      "formats": []
-    },
-    {
-      "name": "098.jpg",
-      "originalSize": 132900,
-      "optimizedSizes": {
-        "webp-sm": 46090,
-        "avif-sm": 64251,
-        "webp-md": 127106,
-        "avif-md": 158314
-      },
-      "formats": []
-    },
-    {
-      "name": "099.jpg",
-      "originalSize": 81316,
-      "optimizedSizes": {
-        "webp-sm": 36914,
-        "avif-sm": 50483,
-        "webp-md": 93190,
-        "avif-md": 117869
-      },
-      "formats": []
-    },
-    {
-      "name": "100.jpg",
-      "originalSize": 143057,
-      "optimizedSizes": {
-        "webp-sm": 52588,
-        "avif-sm": 72715,
-        "webp-md": 144764,
-        "avif-md": 175718
+        "webp-sm": 34664,
+        "avif-sm": 40973,
+        "webp-md": 85642,
+        "avif-md": 108881
       },
       "formats": []
     },
     {
       "name": "101.jpg",
-      "originalSize": 105473,
+      "originalSize": 123368,
       "optimizedSizes": {
-        "webp-sm": 42178,
-        "avif-sm": 55414,
-        "webp-md": 92548,
-        "avif-md": 110379
+        "webp-sm": 41850,
+        "avif-sm": 53969,
+        "webp-md": 94416,
+        "avif-md": 111120
       },
       "formats": []
     },
     {
       "name": "102.jpg",
-      "originalSize": 670163,
+      "originalSize": 167273,
       "optimizedSizes": {
-        "webp-sm": 11396,
-        "avif-sm": 13267,
-        "webp-md": 22566,
-        "avif-md": 23620,
-        "webp-lg": 36282,
-        "avif-lg": 36735,
-        "webp-xl": 77738,
-        "avif-xl": 67466
+        "webp-sm": 11430,
+        "avif-sm": 13303,
+        "webp-md": 22508,
+        "avif-md": 23591,
+        "webp-lg": 36490,
+        "avif-lg": 37585,
+        "webp-xl": 81826,
+        "avif-xl": 75552
       },
       "formats": []
     },
     {
       "name": "103.jpg",
-      "originalSize": 137379,
+      "originalSize": 134507,
       "optimizedSizes": {
-        "webp-sm": 14986,
-        "avif-sm": 16938,
-        "webp-md": 35842,
-        "avif-md": 37076,
-        "webp-lg": 65158,
-        "avif-lg": 68549
+        "webp-sm": 14996,
+        "avif-sm": 17311,
+        "webp-md": 36142,
+        "avif-md": 38258,
+        "webp-lg": 67112,
+        "avif-lg": 72210
       },
       "formats": []
     },
     {
       "name": "104.jpg",
-      "originalSize": 169186,
+      "originalSize": 183467,
       "optimizedSizes": {
-        "webp-sm": 60288,
-        "avif-sm": 76858,
-        "webp-md": 139618,
-        "avif-md": 166989
-      },
-      "formats": []
-    },
-    {
-      "name": "105.jpg",
-      "originalSize": 96998,
-      "optimizedSizes": {
-        "webp-sm": 41588,
-        "avif-sm": 53365,
-        "webp-md": 109494,
-        "avif-md": 132233
+        "webp-sm": 59128,
+        "avif-sm": 73708,
+        "webp-md": 132338,
+        "avif-md": 156157
       },
       "formats": []
     },
     {
       "name": "106.jpg",
-      "originalSize": 34847,
+      "originalSize": 37319,
       "optimizedSizes": {
-        "webp-sm": 12462,
-        "avif-sm": 15716
+        "webp-sm": 12090,
+        "avif-sm": 14862
       },
       "formats": []
     },
     {
       "name": "107.jpg",
-      "originalSize": 93707,
+      "originalSize": 113973,
       "optimizedSizes": {
-        "webp-sm": 42672,
-        "avif-sm": 56776,
-        "webp-md": 107506,
-        "avif-md": 127126
-      },
-      "formats": []
-    },
-    {
-      "name": "108.jpg",
-      "originalSize": 165331,
-      "optimizedSizes": {
-        "webp-sm": 57566,
-        "avif-sm": 76600,
-        "webp-md": 146634,
-        "avif-md": 181477
-      },
-      "formats": []
-    },
-    {
-      "name": "109.jpg",
-      "originalSize": 57066,
-      "optimizedSizes": {
-        "webp-sm": 27742,
-        "avif-sm": 36141,
-        "webp-md": 56644,
-        "avif-md": 67404
+        "webp-sm": 42782,
+        "avif-sm": 55838,
+        "webp-md": 105956,
+        "avif-md": 124393
       },
       "formats": []
     },
     {
       "name": "110.jpg",
-      "originalSize": 92602,
+      "originalSize": 108485,
       "optimizedSizes": {
-        "webp-sm": 36760,
-        "avif-sm": 51302,
-        "webp-md": 88284,
-        "avif-md": 108119
-      },
-      "formats": []
-    },
-    {
-      "name": "111.jpg",
-      "originalSize": 49842,
-      "optimizedSizes": {
-        "webp-sm": 13010,
-        "avif-sm": 16033,
-        "webp-md": 31806,
-        "avif-md": 38977
-      },
-      "formats": []
-    },
-    {
-      "name": "112.jpg",
-      "originalSize": 212702,
-      "optimizedSizes": {
-        "webp-sm": 18596,
-        "avif-sm": 23924,
-        "webp-md": 45328,
-        "avif-md": 55963,
-        "webp-lg": 94218,
-        "avif-lg": 119266
-      },
-      "formats": []
-    },
-    {
-      "name": "113.jpg",
-      "originalSize": 33933,
-      "optimizedSizes": {
-        "webp-sm": 7802,
-        "avif-sm": 8904,
-        "webp-md": 15826,
-        "avif-md": 17631,
-        "webp-lg": 27294,
-        "avif-lg": 30143
+        "webp-sm": 37542,
+        "avif-sm": 50201,
+        "webp-md": 93224,
+        "avif-md": 109402
       },
       "formats": []
     },
     {
       "name": "114.jpg",
-      "originalSize": 1235989,
+      "originalSize": 1573697,
       "optimizedSizes": {
-        "webp-sm": 45888,
-        "avif-sm": 56655,
-        "webp-md": 131430,
-        "avif-md": 159765,
-        "webp-lg": 288276,
-        "avif-lg": 337568,
-        "webp-xl": 695092,
-        "avif-xl": 744180
+        "webp-sm": 45856,
+        "avif-sm": 56781,
+        "webp-md": 131540,
+        "avif-md": 159734,
+        "webp-lg": 287848,
+        "avif-lg": 335386,
+        "webp-xl": 698238,
+        "avif-xl": 745243
       },
       "formats": []
     },
     {
       "name": "115.jpg",
-      "originalSize": 70315,
+      "originalSize": 79096,
       "optimizedSizes": {
-        "webp-sm": 24562,
-        "avif-sm": 30215,
-        "webp-md": 56020,
-        "avif-md": 65152
-      },
-      "formats": []
-    },
-    {
-      "name": "116.jpg",
-      "originalSize": 136615,
-      "optimizedSizes": {
-        "webp-sm": 62354,
-        "avif-sm": 81241,
-        "webp-md": 128294,
-        "avif-md": 159841
+        "webp-sm": 24510,
+        "avif-sm": 29038,
+        "webp-md": 53846,
+        "avif-md": 61382
       },
       "formats": []
     },
     {
       "name": "117.jpg",
-      "originalSize": 49764,
+      "originalSize": 59617,
       "optimizedSizes": {
-        "webp-sm": 19630,
-        "avif-sm": 24195,
-        "webp-md": 49552,
-        "avif-md": 57388
+        "webp-sm": 19506,
+        "avif-sm": 23925,
+        "webp-md": 48962,
+        "avif-md": 56579
       },
       "formats": []
     },
@@ -1393,100 +837,35 @@
       "formats": []
     },
     {
-      "name": "119.jpg",
-      "originalSize": 856228,
-      "optimizedSizes": {
-        "webp-sm": 11702,
-        "avif-sm": 14590,
-        "webp-md": 33080,
-        "avif-md": 36601,
-        "webp-lg": 70764,
-        "avif-lg": 69441,
-        "webp-xl": 188926,
-        "avif-xl": 178004
-      },
-      "formats": []
-    },
-    {
       "name": "120.jpg",
-      "originalSize": 22791,
+      "originalSize": 22102,
       "optimizedSizes": {
-        "webp-sm": 7422,
-        "avif-sm": 9434,
-        "webp-md": 15208,
-        "avif-md": 18236
-      },
-      "formats": []
-    },
-    {
-      "name": "121.jpg",
-      "originalSize": 1406575,
-      "optimizedSizes": {
-        "webp-sm": 18422,
-        "avif-sm": 22163,
-        "webp-md": 46414,
-        "avif-md": 49375,
-        "webp-lg": 86588,
-        "avif-lg": 87740,
-        "webp-xl": 192608,
-        "avif-xl": 170231
-      },
-      "formats": []
-    },
-    {
-      "name": "123.jpg",
-      "originalSize": 80944,
-      "optimizedSizes": {
-        "webp-sm": 26338,
-        "avif-sm": 34409,
-        "webp-md": 60082,
-        "avif-md": 74273
+        "webp-sm": 7278,
+        "avif-sm": 9274,
+        "webp-md": 14992,
+        "avif-md": 17292
       },
       "formats": []
     },
     {
       "name": "124.jpg",
-      "originalSize": 63281,
+      "originalSize": 72323,
       "optimizedSizes": {
-        "webp-sm": 26218,
-        "avif-sm": 36488,
-        "webp-md": 59490,
-        "avif-md": 75550
+        "webp-sm": 25898,
+        "avif-sm": 34864,
+        "webp-md": 60270,
+        "avif-md": 75118
       },
       "formats": []
     },
     {
       "name": "125.jpg",
-      "originalSize": 60839,
+      "originalSize": 68795,
       "optimizedSizes": {
-        "webp-sm": 13524,
-        "avif-sm": 18317,
-        "webp-md": 47046,
-        "avif-md": 60018
-      },
-      "formats": []
-    },
-    {
-      "name": "126.jpg",
-      "originalSize": 73606,
-      "optimizedSizes": {
-        "webp-sm": 34628,
-        "avif-sm": 43954,
-        "webp-md": 81022,
-        "avif-md": 94619
-      },
-      "formats": []
-    },
-    {
-      "name": "127.png",
-      "originalSize": 427049,
-      "optimizedSizes": {
-        "webp-sm": 9530,
-        "avif-sm": 12134,
-        "webp-md": 21806,
-        "avif-md": 26292,
-        "webp-lg": 43284,
-        "avif-lg": 48705
+        "webp-sm": 15238,
+        "avif-sm": 21844,
+        "webp-md": 54322,
+        "avif-md": 68051
       },
       "formats": []
     },
@@ -1500,30 +879,6 @@
         "avif-md": 80565,
         "webp-lg": 144936,
         "avif-lg": 164492
-      },
-      "formats": []
-    },
-    {
-      "name": "129.jpg",
-      "originalSize": 43787,
-      "optimizedSizes": {
-        "webp-sm": 12234,
-        "avif-sm": 17415,
-        "webp-md": 28938,
-        "avif-md": 38204
-      },
-      "formats": []
-    },
-    {
-      "name": "130.png",
-      "originalSize": 507663,
-      "optimizedSizes": {
-        "webp-sm": 13530,
-        "avif-sm": 16739,
-        "webp-md": 28576,
-        "avif-md": 33442,
-        "webp-lg": 52686,
-        "avif-lg": 60166
       },
       "formats": []
     },
@@ -1542,393 +897,166 @@
     },
     {
       "name": "132.jpg",
-      "originalSize": 175061,
+      "originalSize": 203473,
       "optimizedSizes": {
-        "webp-sm": 84468,
-        "avif-sm": 101600,
-        "webp-md": 208028,
-        "avif-md": 237320
+        "webp-sm": 84346,
+        "avif-sm": 100488,
+        "webp-md": 209784,
+        "avif-md": 238012
       },
       "formats": []
     },
     {
       "name": "133.jpg",
-      "originalSize": 80927,
+      "originalSize": 30681,
       "optimizedSizes": {
-        "webp-sm": 3662,
-        "avif-sm": 3732,
-        "webp-md": 6316,
-        "avif-md": 5937,
-        "webp-lg": 9988,
-        "avif-lg": 8825
+        "webp-sm": 3704,
+        "avif-sm": 3764,
+        "webp-md": 6326,
+        "avif-md": 6145,
+        "webp-lg": 10386,
+        "avif-lg": 9270
       },
       "formats": []
     },
     {
       "name": "134.jpg",
-      "originalSize": 80756,
+      "originalSize": 85904,
       "optimizedSizes": {
-        "webp-sm": 22844,
-        "avif-sm": 36654,
-        "webp-md": 80432,
-        "avif-md": 102800
-      },
-      "formats": []
-    },
-    {
-      "name": "135.png",
-      "originalSize": 464253,
-      "optimizedSizes": {
-        "webp-sm": 12822,
-        "avif-sm": 15615,
-        "webp-md": 28108,
-        "avif-md": 33055,
-        "webp-lg": 52642,
-        "avif-lg": 60546
+        "webp-sm": 22248,
+        "avif-sm": 34247,
+        "webp-md": 76460,
+        "avif-md": 91170
       },
       "formats": []
     },
     {
       "name": "136.jpg",
-      "originalSize": 81239,
+      "originalSize": 88529,
       "optimizedSizes": {
-        "webp-sm": 31330,
-        "avif-sm": 44767,
-        "webp-md": 70708,
-        "avif-md": 93675
+        "webp-sm": 30224,
+        "avif-sm": 42137,
+        "webp-md": 68102,
+        "avif-md": 86170
       },
       "formats": []
     },
     {
       "name": "137.jpg",
-      "originalSize": 341348,
+      "originalSize": 330180,
       "optimizedSizes": {
-        "webp-sm": 56194,
-        "avif-sm": 77562,
-        "webp-md": 169920,
-        "avif-md": 221457,
-        "webp-lg": 363332,
-        "avif-lg": 375603
-      },
-      "formats": []
-    },
-    {
-      "name": "138.png",
-      "originalSize": 621255,
-      "optimizedSizes": {
-        "webp-sm": 56368,
-        "avif-sm": 80229,
-        "webp-md": 175112,
-        "avif-md": 258084,
-        "webp-lg": 413254,
-        "avif-lg": 712826
+        "webp-sm": 55962,
+        "avif-sm": 76447,
+        "webp-md": 173042,
+        "avif-md": 214616,
+        "webp-lg": 365942,
+        "avif-lg": 353062
       },
       "formats": []
     },
     {
       "name": "139.jpg",
-      "originalSize": 127262,
+      "originalSize": 145500,
       "optimizedSizes": {
-        "webp-sm": 43622,
-        "avif-sm": 54251,
-        "webp-md": 112878,
-        "avif-md": 135737
+        "webp-sm": 42962,
+        "avif-sm": 52627,
+        "webp-md": 109390,
+        "avif-md": 129194
       },
       "formats": []
     },
     {
       "name": "140.jpg",
-      "originalSize": 46789,
+      "originalSize": 55286,
       "optimizedSizes": {
-        "webp-sm": 19616,
-        "avif-sm": 27049,
-        "webp-md": 42876,
-        "avif-md": 54159
+        "webp-sm": 19454,
+        "avif-sm": 26173,
+        "webp-md": 43334,
+        "avif-md": 53582
       },
       "formats": []
     },
     {
       "name": "141.jpg",
-      "originalSize": 123824,
+      "originalSize": 140369,
       "optimizedSizes": {
-        "webp-sm": 52400,
-        "avif-sm": 71686,
-        "webp-md": 132322,
-        "avif-md": 160475
-      },
-      "formats": []
-    },
-    {
-      "name": "142.jpg",
-      "originalSize": 76090,
-      "optimizedSizes": {
-        "webp-sm": 25108,
-        "avif-sm": 32248,
-        "webp-md": 60176,
-        "avif-md": 74026
+        "webp-sm": 51872,
+        "avif-sm": 68760,
+        "webp-md": 132898,
+        "avif-md": 159405
       },
       "formats": []
     },
     {
       "name": "143.jpg",
-      "originalSize": 6361,
+      "originalSize": 7613,
       "optimizedSizes": {
-        "webp-sm": 1418,
-        "avif-sm": 1472
+        "webp-sm": 1472,
+        "avif-sm": 1521
       },
       "formats": []
     },
     {
       "name": "144.jpg",
-      "originalSize": 47391,
+      "originalSize": 45633,
       "optimizedSizes": {
-        "webp-sm": 12226,
-        "avif-sm": 15299,
-        "webp-md": 29160,
-        "avif-md": 39530
-      },
-      "formats": []
-    },
-    {
-      "name": "145.jpg",
-      "originalSize": 132420,
-      "optimizedSizes": {
-        "webp-sm": 53904,
-        "avif-sm": 75181,
-        "webp-md": 141038,
-        "avif-md": 182448
+        "webp-sm": 11826,
+        "avif-sm": 14940,
+        "webp-md": 26750,
+        "avif-md": 34363
       },
       "formats": []
     },
     {
       "name": "146.jpg",
-      "originalSize": 146178,
+      "originalSize": 177111,
       "optimizedSizes": {
-        "webp-sm": 55392,
-        "avif-sm": 71306,
-        "webp-md": 162078,
-        "avif-md": 187745
+        "webp-sm": 55148,
+        "avif-sm": 68599,
+        "webp-md": 166170,
+        "avif-md": 191693
       },
       "formats": []
     },
     {
       "name": "147.jpg",
-      "originalSize": 49272,
+      "originalSize": 60478,
       "optimizedSizes": {
-        "webp-sm": 19598,
-        "avif-sm": 27470,
-        "webp-md": 42598,
-        "avif-md": 55690
-      },
-      "formats": []
-    },
-    {
-      "name": "148.jpg",
-      "originalSize": 702268,
-      "optimizedSizes": {
-        "webp-sm": 11346,
-        "avif-sm": 13780,
-        "webp-md": 23910,
-        "avif-md": 25538,
-        "webp-lg": 42782,
-        "avif-lg": 42071,
-        "webp-xl": 95940,
-        "avif-xl": 82065
-      },
-      "formats": []
-    },
-    {
-      "name": "149.jpg",
-      "originalSize": 4717844,
-      "optimizedSizes": {
-        "webp-sm": 28066,
-        "avif-sm": 38160,
-        "webp-md": 105362,
-        "avif-md": 148488,
-        "webp-lg": 317246,
-        "avif-lg": 431231,
-        "webp-xl": 1620286,
-        "avif-xl": 1984209
-      },
-      "formats": []
-    },
-    {
-      "name": "150.jpg",
-      "originalSize": 4714887,
-      "optimizedSizes": {
-        "webp-sm": 45842,
-        "avif-sm": 73594,
-        "webp-md": 119794,
-        "avif-md": 179885,
-        "webp-lg": 244322,
-        "avif-lg": 368262,
-        "webp-xl": 680154,
-        "avif-xl": 1015738
-      },
-      "formats": []
-    },
-    {
-      "name": "151.jpg",
-      "originalSize": 753214,
-      "optimizedSizes": {
-        "webp-sm": 14076,
-        "avif-sm": 15995,
-        "webp-md": 29058,
-        "avif-md": 31663,
-        "webp-lg": 49284,
-        "avif-lg": 52010,
-        "webp-xl": 107508,
-        "avif-xl": 110678
-      },
-      "formats": []
-    },
-    {
-      "name": "152.jpg",
-      "originalSize": 203845,
-      "optimizedSizes": {
-        "webp-sm": 8092,
-        "avif-sm": 10272,
-        "webp-md": 17110,
-        "avif-md": 20888,
-        "webp-lg": 32496,
-        "avif-lg": 38223,
-        "webp-xl": 84946,
-        "avif-xl": 91158
-      },
-      "formats": []
-    },
-    {
-      "name": "153.jpg",
-      "originalSize": 514002,
-      "optimizedSizes": {
-        "webp-sm": 6494,
-        "avif-sm": 9200,
-        "webp-md": 23700,
-        "avif-md": 36069,
-        "webp-lg": 66480,
-        "avif-lg": 96953,
-        "webp-xl": 228010,
-        "avif-xl": 294887
-      },
-      "formats": []
-    },
-    {
-      "name": "154.jpg",
-      "originalSize": 2779702,
-      "optimizedSizes": {
-        "webp-sm": 30996,
-        "avif-sm": 37930,
-        "webp-md": 71722,
-        "avif-md": 85254,
-        "webp-lg": 135578,
-        "avif-lg": 160175,
-        "webp-xl": 324702,
-        "avif-xl": 383893
-      },
-      "formats": []
-    },
-    {
-      "name": "155.jpg",
-      "originalSize": 1723208,
-      "optimizedSizes": {
-        "webp-sm": 16010,
-        "avif-sm": 19094,
-        "webp-md": 31394,
-        "avif-md": 34199,
-        "webp-lg": 54638,
-        "avif-lg": 57730,
-        "webp-xl": 129616,
-        "avif-xl": 129189
-      },
-      "formats": []
-    },
-    {
-      "name": "156.jpg",
-      "originalSize": 2249852,
-      "optimizedSizes": {
-        "webp-sm": 14488,
-        "avif-sm": 17786,
-        "webp-md": 32400,
-        "avif-md": 39308,
-        "webp-lg": 65420,
-        "avif-lg": 81121,
-        "webp-xl": 188080,
-        "avif-xl": 218286
-      },
-      "formats": []
-    },
-    {
-      "name": "157.jpg",
-      "originalSize": 68310,
-      "optimizedSizes": {
-        "webp-sm": 12456,
-        "avif-sm": 12547,
-        "webp-md": 24350,
-        "avif-md": 25688
-      },
-      "formats": []
-    },
-    {
-      "name": "158.jpg",
-      "originalSize": 185193,
-      "optimizedSizes": {
-        "webp-sm": 51776,
-        "avif-sm": 67510,
-        "webp-md": 122770,
-        "avif-md": 146136
+        "webp-sm": 19546,
+        "avif-sm": 26394,
+        "webp-md": 42412,
+        "avif-md": 54580
       },
       "formats": []
     },
     {
       "name": "159.jpg",
-      "originalSize": 30014,
+      "originalSize": 36373,
       "optimizedSizes": {
-        "webp-sm": 12090,
-        "avif-sm": 16364,
-        "webp-md": 24726,
-        "avif-md": 31717
+        "webp-sm": 11918,
+        "avif-sm": 15313,
+        "webp-md": 24490,
+        "avif-md": 30408
       },
       "formats": []
     },
     {
       "name": "160.jpg",
-      "originalSize": 14474,
+      "originalSize": 16873,
       "optimizedSizes": {
-        "webp-sm": 3058,
-        "avif-sm": 2993,
-        "webp-md": 5344,
-        "avif-md": 4297
+        "webp-sm": 3038,
+        "avif-sm": 2992,
+        "webp-md": 5378,
+        "avif-md": 4325
       },
       "formats": []
     },
     {
       "name": "162.jpg",
-      "originalSize": 7562,
+      "originalSize": 9111,
       "optimizedSizes": {
-        "webp-sm": 2386,
-        "avif-sm": 2504
-      },
-      "formats": []
-    },
-    {
-      "name": "163.jpg",
-      "originalSize": 74251,
-      "optimizedSizes": {
-        "webp-sm": 39762,
-        "avif-sm": 54022
-      },
-      "formats": []
-    },
-    {
-      "name": "164.png",
-      "originalSize": 575346,
-      "optimizedSizes": {
-        "webp-sm": 14900,
-        "avif-sm": 20708,
-        "webp-md": 33622,
-        "avif-md": 43157,
-        "webp-lg": 60760,
-        "avif-lg": 76139
+        "webp-sm": 2416,
+        "avif-sm": 2576
       },
       "formats": []
     },
@@ -1946,680 +1074,248 @@
       "formats": []
     },
     {
-      "name": "166.jpg",
-      "originalSize": 81072,
-      "optimizedSizes": {
-        "webp-sm": 33040,
-        "avif-sm": 39659,
-        "webp-md": 68032,
-        "avif-md": 77350
-      },
-      "formats": []
-    },
-    {
       "name": "167.jpg",
-      "originalSize": 481660,
+      "originalSize": 119936,
       "optimizedSizes": {
-        "webp-sm": 18408,
-        "avif-sm": 19144,
-        "webp-md": 37718,
-        "avif-md": 38977,
-        "webp-lg": 64302,
-        "avif-lg": 65419
-      },
-      "formats": []
-    },
-    {
-      "name": "168.jpg",
-      "originalSize": 85259,
-      "optimizedSizes": {
-        "webp-sm": 40000,
-        "avif-sm": 59110,
-        "webp-md": 99232,
-        "avif-md": 127833
+        "webp-sm": 18250,
+        "avif-sm": 19646,
+        "webp-md": 35668,
+        "avif-md": 38453,
+        "webp-lg": 58720,
+        "avif-lg": 66616
       },
       "formats": []
     },
     {
       "name": "169.jpg",
-      "originalSize": 317946,
+      "originalSize": 73457,
       "optimizedSizes": {
-        "webp-sm": 10122,
-        "avif-sm": 11044,
-        "webp-md": 20918,
-        "avif-md": 21260,
-        "webp-lg": 34418,
-        "avif-lg": 33858
-      },
-      "formats": []
-    },
-    {
-      "name": "170.jpg",
-      "originalSize": 112729,
-      "optimizedSizes": {
-        "webp-sm": 41354,
-        "avif-sm": 59592,
-        "webp-md": 105008,
-        "avif-md": 136016
+        "webp-sm": 10130,
+        "avif-sm": 11241,
+        "webp-md": 20158,
+        "avif-md": 22231,
+        "webp-lg": 33476,
+        "avif-lg": 36100
       },
       "formats": []
     },
     {
       "name": "171.jpg",
-      "originalSize": 168248,
+      "originalSize": 199381,
       "optimizedSizes": {
-        "webp-sm": 75388,
-        "avif-sm": 97349,
-        "webp-md": 194266,
-        "avif-md": 238674
-      },
-      "formats": []
-    },
-    {
-      "name": "172.jpg",
-      "originalSize": 604055,
-      "optimizedSizes": {
-        "webp-sm": 9102,
-        "avif-sm": 9431,
-        "webp-md": 21734,
-        "avif-md": 19592,
-        "webp-lg": 42104,
-        "avif-lg": 35805,
-        "webp-xl": 99804,
-        "avif-xl": 69658
-      },
-      "formats": []
-    },
-    {
-      "name": "173.jpg",
-      "originalSize": 316437,
-      "optimizedSizes": {
-        "webp-sm": 7348,
-        "avif-sm": 7607,
-        "webp-md": 13786,
-        "avif-md": 12964,
-        "webp-lg": 22410,
-        "avif-lg": 19854,
-        "webp-xl": 46900,
-        "avif-xl": 37419
-      },
-      "formats": []
-    },
-    {
-      "name": "174.jpg",
-      "originalSize": 354729,
-      "optimizedSizes": {
-        "webp-sm": 5604,
-        "avif-sm": 5748,
-        "webp-md": 12128,
-        "avif-md": 10078,
-        "webp-lg": 20462,
-        "avif-lg": 16371,
-        "webp-xl": 43122,
-        "avif-xl": 32968
-      },
-      "formats": []
-    },
-    {
-      "name": "175.jpg",
-      "originalSize": 376984,
-      "optimizedSizes": {
-        "webp-sm": 7500,
-        "avif-sm": 6980,
-        "webp-md": 14282,
-        "avif-md": 12253,
-        "webp-lg": 24540,
-        "avif-lg": 19283,
-        "webp-xl": 53618,
-        "avif-xl": 36696
-      },
-      "formats": []
-    },
-    {
-      "name": "176.jpg",
-      "originalSize": 297883,
-      "optimizedSizes": {
-        "webp-sm": 4752,
-        "avif-sm": 4331,
-        "webp-md": 9152,
-        "avif-md": 7113,
-        "webp-lg": 15416,
-        "avif-lg": 10285,
-        "webp-xl": 33854,
-        "avif-xl": 19352
-      },
-      "formats": []
-    },
-    {
-      "name": "177.jpg",
-      "originalSize": 456262,
-      "optimizedSizes": {
-        "webp-sm": 7260,
-        "avif-sm": 6947,
-        "webp-md": 15028,
-        "avif-md": 13421,
-        "webp-lg": 26956,
-        "avif-lg": 22016,
-        "webp-xl": 60104,
-        "avif-xl": 44015
+        "webp-sm": 75120,
+        "avif-sm": 94312,
+        "webp-md": 194240,
+        "avif-md": 236687
       },
       "formats": []
     },
     {
       "name": "178.jpg",
-      "originalSize": 61599,
+      "originalSize": 65735,
       "optimizedSizes": {
-        "webp-sm": 19166,
-        "avif-sm": 23797,
-        "webp-md": 40400,
-        "avif-md": 46788
-      },
-      "formats": []
-    },
-    {
-      "name": "180.png",
-      "originalSize": 799961,
-      "optimizedSizes": {
-        "webp-sm": 24760,
-        "avif-sm": 29772,
-        "webp-md": 70038,
-        "avif-md": 80565,
-        "webp-lg": 144936,
-        "avif-lg": 164492
+        "webp-sm": 18808,
+        "avif-sm": 22754,
+        "webp-md": 38796,
+        "avif-md": 43614
       },
       "formats": []
     },
     {
       "name": "181.jpg",
-      "originalSize": 82441,
+      "originalSize": 87697,
       "optimizedSizes": {
-        "webp-sm": 24450,
-        "avif-sm": 32056,
-        "webp-md": 62784,
-        "avif-md": 76844
+        "webp-sm": 24078,
+        "avif-sm": 30511,
+        "webp-md": 60320,
+        "avif-md": 71755
       },
       "formats": []
     },
     {
       "name": "182.jpg",
-      "originalSize": 127295,
+      "originalSize": 143835,
       "optimizedSizes": {
-        "webp-sm": 49284,
-        "avif-sm": 63843,
-        "webp-md": 130480,
-        "avif-md": 155065
-      },
-      "formats": []
-    },
-    {
-      "name": "183.jpg",
-      "originalSize": 125566,
-      "optimizedSizes": {
-        "webp-sm": 52190,
-        "avif-sm": 74654,
-        "webp-md": 131758,
-        "avif-md": 165645
-      },
-      "formats": []
-    },
-    {
-      "name": "184.jpg",
-      "originalSize": 175644,
-      "optimizedSizes": {
-        "webp-sm": 59268,
-        "avif-sm": 74732,
-        "webp-md": 151362,
-        "avif-md": 174838
-      },
-      "formats": []
-    },
-    {
-      "name": "185.jpg",
-      "originalSize": 969454,
-      "optimizedSizes": {
-        "webp-sm": 7818,
-        "avif-sm": 10509,
-        "webp-md": 19836,
-        "avif-md": 25614,
-        "webp-lg": 43272,
-        "avif-lg": 53900,
-        "webp-xl": 124146,
-        "avif-xl": 137133
-      },
-      "formats": []
-    },
-    {
-      "name": "186.jpg",
-      "originalSize": 225263,
-      "optimizedSizes": {
-        "webp-sm": 83738,
-        "avif-sm": 106378,
-        "webp-md": 215222,
-        "avif-md": 258003
-      },
-      "formats": []
-    },
-    {
-      "name": "187.jpg",
-      "originalSize": 109311,
-      "optimizedSizes": {
-        "webp-sm": 32636,
-        "avif-sm": 52043,
-        "webp-md": 65110,
-        "avif-md": 93826
+        "webp-sm": 49450,
+        "avif-sm": 61766,
+        "webp-md": 131632,
+        "avif-md": 155129
       },
       "formats": []
     },
     {
       "name": "188.jpg",
-      "originalSize": 87442,
+      "originalSize": 94015,
       "optimizedSizes": {
-        "webp-sm": 61664,
-        "avif-sm": 75062
-      },
-      "formats": []
-    },
-    {
-      "name": "189.jpg",
-      "originalSize": 62890,
-      "optimizedSizes": {
-        "webp-sm": 34860,
-        "avif-sm": 41396
-      },
-      "formats": []
-    },
-    {
-      "name": "190.jpg",
-      "originalSize": 104672,
-      "optimizedSizes": {
-        "webp-sm": 39554,
-        "avif-sm": 45359,
-        "webp-md": 87868,
-        "avif-md": 101068
-      },
-      "formats": []
-    },
-    {
-      "name": "191.jpg",
-      "originalSize": 181325,
-      "optimizedSizes": {
-        "webp-sm": 67080,
-        "avif-sm": 88138,
-        "webp-md": 159450,
-        "avif-md": 189613
-      },
-      "formats": []
-    },
-    {
-      "name": "192.jpg",
-      "originalSize": 95736,
-      "optimizedSizes": {
-        "webp-sm": 33820,
-        "avif-sm": 47842,
-        "webp-md": 97228,
-        "avif-md": 127313
-      },
-      "formats": []
-    },
-    {
-      "name": "193.jpg",
-      "originalSize": 85353,
-      "optimizedSizes": {
-        "webp-sm": 68760,
-        "avif-sm": 84792
-      },
-      "formats": []
-    },
-    {
-      "name": "194.jpg",
-      "originalSize": 112466,
-      "optimizedSizes": {
-        "webp-sm": 51304,
-        "avif-sm": 71395,
-        "webp-md": 120476,
-        "avif-md": 150482
+        "webp-sm": 59562,
+        "avif-sm": 70969
       },
       "formats": []
     },
     {
       "name": "195.jpg",
-      "originalSize": 33705,
+      "originalSize": 34773,
       "optimizedSizes": {
-        "webp-sm": 10570,
-        "avif-sm": 14878,
-        "webp-md": 26718,
-        "avif-md": 36266
-      },
-      "formats": []
-    },
-    {
-      "name": "196.jpg",
-      "originalSize": 24409,
-      "optimizedSizes": {
-        "webp-sm": 16856,
-        "avif-sm": 20753
-      },
-      "formats": []
-    },
-    {
-      "name": "197.jpg",
-      "originalSize": 119714,
-      "optimizedSizes": {
-        "webp-sm": 39892,
-        "avif-sm": 57606,
-        "webp-md": 105952,
-        "avif-md": 137117
-      },
-      "formats": []
-    },
-    {
-      "name": "198.jpg",
-      "originalSize": 19565450,
-      "optimizedSizes": {
-        "webp-sm": 21454,
-        "avif-sm": 29847,
-        "webp-md": 46578,
-        "avif-md": 55686,
-        "webp-lg": 84724,
-        "avif-lg": 91942,
-        "webp-xl": 190642,
-        "avif-xl": 180861
-      },
-      "formats": []
-    },
-    {
-      "name": "199.jpg",
-      "originalSize": 19836605,
-      "optimizedSizes": {
-        "webp-sm": 19280,
-        "avif-sm": 25585,
-        "webp-md": 40038,
-        "avif-md": 44890,
-        "webp-lg": 70174,
-        "avif-lg": 70320,
-        "webp-xl": 150480,
-        "avif-xl": 132444
-      },
-      "formats": []
-    },
-    {
-      "name": "200.jpg",
-      "originalSize": 19702941,
-      "optimizedSizes": {
-        "webp-sm": 18840,
-        "avif-sm": 24622,
-        "webp-md": 39818,
-        "avif-md": 45936,
-        "webp-lg": 70264,
-        "avif-lg": 76015,
-        "webp-xl": 161638,
-        "avif-xl": 159246
-      },
-      "formats": []
-    },
-    {
-      "name": "201.jpg",
-      "originalSize": 4021162,
-      "optimizedSizes": {
-        "webp-sm": 13946,
-        "avif-sm": 22291,
-        "webp-md": 30760,
-        "avif-md": 44166,
-        "webp-lg": 59548,
-        "avif-lg": 79310,
-        "webp-xl": 147396,
-        "avif-xl": 197188
-      },
-      "formats": []
-    },
-    {
-      "name": "202.jpg",
-      "originalSize": 14517362,
-      "optimizedSizes": {
-        "webp-sm": 8280,
-        "avif-sm": 9306,
-        "webp-md": 17366,
-        "avif-md": 18673,
-        "webp-lg": 34514,
-        "avif-lg": 38458,
-        "webp-xl": 104012,
-        "avif-xl": 118932
-      },
-      "formats": []
-    },
-    {
-      "name": "203.jpg",
-      "originalSize": 7926419,
-      "optimizedSizes": {
-        "webp-sm": 6652,
-        "avif-sm": 8246,
-        "webp-md": 16512,
-        "avif-md": 20123,
-        "webp-lg": 37588,
-        "avif-lg": 44603,
-        "webp-xl": 111628,
-        "avif-xl": 121665
-      },
-      "formats": []
-    },
-    {
-      "name": "204.jpg",
-      "originalSize": 1983655,
-      "optimizedSizes": {
-        "webp-sm": 7916,
-        "avif-sm": 7344,
-        "webp-md": 14684,
-        "avif-md": 12057,
-        "webp-lg": 24464,
-        "avif-lg": 18237,
-        "webp-xl": 52126,
-        "avif-xl": 34983
-      },
-      "formats": []
-    },
-    {
-      "name": "205.jpg",
-      "originalSize": 4926456,
-      "optimizedSizes": {
-        "webp-sm": 9812,
-        "avif-sm": 14074,
-        "webp-md": 27490,
-        "avif-md": 37035,
-        "webp-lg": 63516,
-        "avif-lg": 84766,
-        "webp-xl": 193612,
-        "avif-xl": 240787
-      },
-      "formats": []
-    },
-    {
-      "name": "206.png",
-      "originalSize": 636609,
-      "optimizedSizes": {
-        "webp-sm": 21484,
-        "avif-sm": 25642,
-        "webp-md": 55206,
-        "avif-md": 70534,
-        "webp-lg": 104784,
-        "avif-lg": 141094
-      },
-      "formats": []
-    },
-    {
-      "name": "207.jpg",
-      "originalSize": 277470,
-      "optimizedSizes": {
-        "webp-sm": 105402,
-        "avif-sm": 131332,
-        "webp-md": 285436,
-        "avif-md": 339152
+        "webp-sm": 10616,
+        "avif-sm": 14493,
+        "webp-md": 27994,
+        "avif-md": 35965
       },
       "formats": []
     },
     {
       "name": "208.jpg",
-      "originalSize": 23528,
+      "originalSize": 25288,
       "optimizedSizes": {
-        "webp-sm": 9338,
-        "avif-sm": 12357
-      },
-      "formats": []
-    },
-    {
-      "name": "209.jpg",
-      "originalSize": 148595,
-      "optimizedSizes": {
-        "webp-sm": 59852,
-        "avif-sm": 82199,
-        "webp-md": 148416,
-        "avif-md": 181602
-      },
-      "formats": []
-    },
-    {
-      "name": "210.jpg",
-      "originalSize": 220959,
-      "optimizedSizes": {
-        "webp-sm": 87062,
-        "avif-sm": 123028,
-        "webp-md": 217984,
-        "avif-md": 271267
+        "webp-sm": 9090,
+        "avif-sm": 11757
       },
       "formats": []
     },
     {
       "name": "211.jpg",
-      "originalSize": 94236,
+      "originalSize": 106249,
       "optimizedSizes": {
-        "webp-sm": 33590,
-        "avif-sm": 46262,
-        "webp-md": 70362,
-        "avif-md": 86336
+        "webp-sm": 33028,
+        "avif-sm": 43459,
+        "webp-md": 67950,
+        "avif-md": 81100
       },
       "formats": []
     },
     {
       "name": "212.jpg",
-      "originalSize": 28407,
+      "originalSize": 34399,
       "optimizedSizes": {
         "webp-sm": 12368,
-        "avif-sm": 15832,
-        "webp-md": 27534,
-        "avif-md": 32904
-      },
-      "formats": []
-    },
-    {
-      "name": "213.jpg",
-      "originalSize": 98378,
-      "optimizedSizes": {
-        "webp-sm": 35070,
-        "avif-sm": 40274,
-        "webp-md": 80256,
-        "avif-md": 90254
+        "avif-sm": 15609,
+        "webp-md": 26676,
+        "avif-md": 32089
       },
       "formats": []
     },
     {
       "name": "214.jpg",
-      "originalSize": 71181,
+      "originalSize": 82610,
       "optimizedSizes": {
-        "webp-sm": 27746,
-        "avif-sm": 31988,
-        "webp-md": 60732,
-        "avif-md": 65956
-      },
-      "formats": []
-    },
-    {
-      "name": "215.png",
-      "originalSize": 671520,
-      "optimizedSizes": {
-        "webp-sm": 24880,
-        "avif-sm": 30611,
-        "webp-md": 71860,
-        "avif-md": 88490,
-        "webp-lg": 184042,
-        "avif-lg": 341592
-      },
-      "formats": []
-    },
-    {
-      "name": "216.jpg",
-      "originalSize": 61149,
-      "optimizedSizes": {
-        "webp-sm": 28518,
-        "avif-sm": 34250
-      },
-      "formats": []
-    },
-    {
-      "name": "217.jpg",
-      "originalSize": 105740,
-      "optimizedSizes": {
-        "webp-sm": 45564,
-        "avif-sm": 57284,
-        "webp-md": 104898,
-        "avif-md": 122292
-      },
-      "formats": []
-    },
-    {
-      "name": "218.jpg",
-      "originalSize": 94401,
-      "optimizedSizes": {
-        "webp-sm": 40792,
-        "avif-sm": 55366,
-        "webp-md": 108458,
-        "avif-md": 132869
+        "webp-sm": 27772,
+        "avif-sm": 32029,
+        "webp-md": 61734,
+        "avif-md": 67104
       },
       "formats": []
     },
     {
       "name": "219.jpg",
-      "originalSize": 405437,
+      "originalSize": 82269,
       "optimizedSizes": {
-        "webp-sm": 12316,
-        "avif-sm": 16173,
-        "webp-md": 29152,
-        "avif-md": 37656,
-        "webp-lg": 57498,
-        "avif-lg": 72987
+        "webp-sm": 12098,
+        "avif-sm": 16252,
+        "webp-md": 28692,
+        "avif-md": 37202,
+        "webp-lg": 55958,
+        "avif-lg": 67778
       },
       "formats": []
     },
     {
       "name": "220.jpg",
-      "originalSize": 194131,
+      "originalSize": 48171,
       "optimizedSizes": {
-        "webp-sm": 8338,
-        "avif-sm": 8771,
-        "webp-md": 17992,
-        "avif-md": 18082,
-        "webp-lg": 30688,
-        "avif-lg": 28944
+        "webp-sm": 8104,
+        "avif-sm": 9197,
+        "webp-md": 17304,
+        "avif-md": 19961,
+        "webp-lg": 30998,
+        "avif-lg": 35002
       },
       "formats": []
     },
     {
       "name": "221.jpg",
-      "originalSize": 226931,
+      "originalSize": 46704,
       "optimizedSizes": {
-        "webp-sm": 7306,
-        "avif-sm": 7442,
-        "webp-md": 16562,
-        "avif-md": 16440,
-        "webp-lg": 30900,
-        "avif-lg": 29765
+        "webp-sm": 7220,
+        "avif-sm": 8192,
+        "webp-md": 16278,
+        "avif-md": 18971,
+        "webp-lg": 30520,
+        "avif-lg": 33723
       },
       "formats": []
     },
     {
-      "name": "dogecoin-shiba-inu-cryptocurrency-others-dd70131871814f0115b9a908746f537e.png",
-      "originalSize": 75051,
+      "name": "222.jpg",
+      "originalSize": 169737,
       "optimizedSizes": {
-        "webp-sm": 22122,
-        "avif-sm": 28505
+        "webp-sm": 11688,
+        "avif-sm": 12229,
+        "webp-md": 26376,
+        "avif-md": 25714,
+        "webp-lg": 45624,
+        "avif-lg": 47349,
+        "webp-xl": 96878,
+        "avif-xl": 97758
+      },
+      "formats": []
+    },
+    {
+      "name": "223.jpg",
+      "originalSize": 357882,
+      "optimizedSizes": {
+        "webp-sm": 21042,
+        "avif-sm": 29154,
+        "webp-md": 52954,
+        "avif-md": 68594,
+        "webp-lg": 104770,
+        "avif-lg": 139567,
+        "webp-xl": 277026,
+        "avif-xl": 313980
+      },
+      "formats": []
+    },
+    {
+      "name": "224.jpg",
+      "originalSize": 124100,
+      "optimizedSizes": {
+        "webp-sm": 8788,
+        "avif-sm": 9524,
+        "webp-md": 18910,
+        "avif-md": 20713,
+        "webp-lg": 34326,
+        "avif-lg": 38508,
+        "webp-xl": 75752,
+        "avif-xl": 77597
+      },
+      "formats": []
+    },
+    {
+      "name": "225.jpg",
+      "originalSize": 120291,
+      "optimizedSizes": {
+        "webp-sm": 8512,
+        "avif-sm": 9042,
+        "webp-md": 18472,
+        "avif-md": 20030,
+        "webp-lg": 33584,
+        "avif-lg": 37878,
+        "webp-xl": 74392,
+        "avif-xl": 77275
+      },
+      "formats": []
+    },
+    {
+      "name": "aethir-gpu-depin-infrastructure.jpg",
+      "originalSize": 732035,
+      "optimizedSizes": {
+        "webp-sm": 13520,
+        "avif-sm": 15325,
+        "webp-md": 29306,
+        "avif-md": 31166,
+        "webp-lg": 49600,
+        "avif-lg": 49053,
+        "webp-xl": 100132,
+        "avif-xl": 85282
       },
       "formats": []
     },
@@ -2637,107 +1333,6 @@
       "formats": []
     },
     {
-      "name": "binance.png",
-      "originalSize": 27194,
-      "optimizedSizes": {
-        "webp-sm": 13636,
-        "avif-sm": 7681
-      },
-      "formats": []
-    },
-    {
-      "name": "altcoins-cryptocurrency-bitcoin-ethereum-blockchain-bitcoin-b887cad2b33be0aae5b5dd15066dde1b.png",
-      "originalSize": 11022,
-      "optimizedSizes": {
-        "webp-sm": 13496,
-        "avif-sm": 12374,
-        "webp-md": 22546,
-        "avif-md": 18820
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cash-cloud-mining-cryptocurrency-bitcoin-3757e88610cfdf1c04f44d798e0c0fd4.png",
-      "originalSize": 146237,
-      "optimizedSizes": {
-        "webp-sm": 22620,
-        "avif-sm": 20539,
-        "webp-md": 42414,
-        "avif-md": 32911,
-        "webp-lg": 71202,
-        "avif-lg": 54821
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cash-cryptocurrency-bitcoin-gold-ethereum-bitcoin-660da58ac67031528c7642e7a39c64b2.png",
-      "originalSize": 1566173,
-      "optimizedSizes": {
-        "webp-sm": 47050,
-        "avif-sm": 58585,
-        "webp-md": 117634,
-        "avif-md": 144151,
-        "webp-lg": 243762,
-        "avif-lg": 282226,
-        "webp-xl": 647550,
-        "avif-xl": 692870
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cash-cryptocurrency-ethereum-bitcoin-f5e0014a9a1745d65dcefc4a4eecf3e9.png",
-      "originalSize": 129724,
-      "optimizedSizes": {
-        "webp-sm": 27038,
-        "avif-sm": 29973,
-        "webp-md": 50792,
-        "avif-md": 50522
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cash-cryptocurrency-money-blockchain-bitcoin-png-eabad13b096492fc34516affbe0e2a3d.png",
-      "originalSize": 24987,
-      "optimizedSizes": {
-        "webp-sm": 31196,
-        "avif-sm": 35243,
-        "webp-md": 59450,
-        "avif-md": 57902
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cash-fork-cryptocurrency-ethereum-bitcoin-52bb6fe694bfd78544ff22784d7b94ed.png",
-      "originalSize": 11206,
-      "optimizedSizes": {
-        "webp-sm": 14872,
-        "avif-sm": 14022
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cash-money-cryptocurrency-dash-bitcoin-png-cbc200651524ad7b35e701bc5dec2daa.png",
-      "originalSize": 329932,
-      "optimizedSizes": {
-        "webp-sm": 25188,
-        "avif-sm": 32074,
-        "webp-md": 53928,
-        "avif-md": 63668,
-        "webp-lg": 100170,
-        "avif-lg": 109099
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cryptocurrency-blockchain-digital-currency-satoshi-nakamoto-crypto-currency-6180e0bbe702f5fdac954a1959c378e0.png",
-      "originalSize": 101981,
-      "optimizedSizes": {
-        "webp-sm": 50486,
-        "avif-sm": 64771
-      },
-      "formats": []
-    },
-    {
       "name": "bitcoin-cryptocurrency-ethereum-blockchain-litecoin-bitcoin-9aca8d162b74e8e5a6be9dcfedc8a5c4.png",
       "originalSize": 57216,
       "optimizedSizes": {
@@ -2751,1218 +1346,30 @@
       "formats": []
     },
     {
-      "name": "bitcoin-cryptocurrency-exchange-blockchain-blockchain-108d6b550ae0033be78930db7c22bc41.png",
-      "originalSize": 219573,
-      "optimizedSizes": {
-        "webp-sm": 81574,
-        "avif-sm": 61836,
-        "webp-md": 162998,
-        "avif-md": 122516,
-        "webp-lg": 286208,
-        "avif-lg": 190650
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cryptocurrency-exchange-purchasing-digital-currency-financial-transactions-a90c0d140afeca5cfca0cbf113ec0fcc.png",
-      "originalSize": 66157,
-      "optimizedSizes": {
-        "webp-sm": 9508,
-        "avif-sm": 8059,
-        "webp-md": 18600,
-        "avif-md": 15332
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cryptocurrency-exchange-trade-sales-price-999ac21d99a841cb8ade4f81d01cefc4.png",
-      "originalSize": 287584,
-      "optimizedSizes": {
-        "webp-sm": 17678,
-        "avif-sm": 22050,
-        "webp-md": 39734,
-        "avif-md": 47947,
-        "webp-lg": 73252,
-        "avif-lg": 83316,
-        "webp-xl": 165140,
-        "avif-xl": 182887
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cryptocurrency-monero-initial-coin-offering-bitcoin-c1013df38817e78f098da2285b9ed975.png",
-      "originalSize": 451026,
-      "optimizedSizes": {
-        "webp-sm": 62464,
-        "avif-sm": 94469,
-        "webp-md": 157490,
-        "avif-md": 239829
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-cryptocurrency-money-business-bitcoin-3d4262edfdd68af6ceab3677e98a83ff.png",
-      "originalSize": 92956,
-      "optimizedSizes": {
-        "webp-sm": 33250,
-        "avif-sm": 45293
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-faucet-bitcoin-gold-tap-bitcoin-cash-bitcoin-ffb6e1687aff1eb7c4af1c5d722bbac3.png",
-      "originalSize": 175056,
-      "optimizedSizes": {
-        "webp-sm": 104854,
-        "avif-sm": 113268,
-        "webp-md": 262334,
-        "avif-md": 251422
-      },
-      "formats": []
-    },
-    {
-      "name": "bitcoin-faucet-cryptocurrency-wallet-business-bitcoin-03c48686c30e2a6233c5e77e0ed12122.png",
-      "originalSize": 156825,
-      "optimizedSizes": {
-        "webp-sm": 22352,
-        "avif-sm": 30853,
-        "webp-md": 53922,
-        "avif-md": 72505
-      },
-      "formats": []
-    },
-    {
       "name": "bitcoin-guide.jpg",
-      "originalSize": 133285,
+      "originalSize": 165484,
       "optimizedSizes": {
-        "webp-sm": 25206,
-        "avif-sm": 34933,
-        "webp-md": 59012,
-        "avif-md": 72684,
-        "webp-lg": 118028,
-        "avif-lg": 144873
+        "webp-sm": 24896,
+        "avif-sm": 33235,
+        "webp-md": 58926,
+        "avif-md": 70077,
+        "webp-lg": 116136,
+        "avif-lg": 140832
       },
       "formats": []
     },
     {
-      "name": "bitcointalk-computer-icons-cryptocurrency-ethereum-bitcoin-3fdd4393df872612315b0ecb88429e15.png",
-      "originalSize": 17952,
+      "name": "bitcoin-sharpe-ratio-analysis.jpg",
+      "originalSize": 623952,
       "optimizedSizes": {
-        "webp-sm": 16438,
-        "avif-sm": 16144,
-        "webp-md": 29112,
-        "avif-md": 26304
-      },
-      "formats": []
-    },
-    {
-      "name": "cripto-bitcoin.jpg",
-      "originalSize": 498124,
-      "optimizedSizes": {
-        "webp-sm": 17040,
-        "avif-sm": 19614,
-        "webp-md": 41698,
-        "avif-md": 45291,
-        "webp-lg": 83182,
-        "avif-lg": 84150,
-        "webp-xl": 208298,
-        "avif-xl": 201343
-      },
-      "formats": []
-    },
-    {
-      "name": "cryptocurrency-exchange-bitcoin-blockchain-virtual-currency-50-ce8dac69a3d8ae468e9dd148e9c09815.png",
-      "originalSize": 316180,
-      "optimizedSizes": {
-        "webp-sm": 60160,
-        "avif-sm": 73743,
-        "webp-md": 139522,
-        "avif-md": 169888,
-        "webp-lg": 278238,
-        "avif-lg": 336605
-      },
-      "formats": []
-    },
-    {
-      "name": "cryptocurrency-exchange-bitcoin-ethereum-blockchain-bitcoin-a6d4663780864b498d0692a7b806c612.png",
-      "originalSize": 155409,
-      "optimizedSizes": {
-        "webp-sm": 33020,
-        "avif-sm": 46166,
-        "webp-md": 78458,
-        "avif-md": 105086
-      },
-      "formats": []
-    },
-    {
-      "name": "cryptocurrency-exchange-bitcoin-money-ripple-bitcoin-2c40413bdb13ed3345843dde9c8ba1a8.png",
-      "originalSize": 39627,
-      "optimizedSizes": {
-        "webp-sm": 45346,
-        "avif-sm": 47464,
-        "webp-md": 88262,
-        "avif-md": 89176
-      },
-      "formats": []
-    },
-    {
-      "name": "cryptocurrency-exchange-investment-binary-option-trade-bitcoin-620089516270f1da58ab3284275322fd.png",
-      "originalSize": 198166,
-      "optimizedSizes": {
-        "webp-sm": 25404,
-        "avif-sm": 27556,
-        "webp-md": 68096,
-        "avif-md": 73328
-      },
-      "formats": []
-    },
-    {
-      "name": "cryptocurrency-wallet-bitcoin-cryptocurrency-exchange-ethereum-bitcoin-60a77643a348cc087f1b0cd0151c5489.png",
-      "originalSize": 112432,
-      "optimizedSizes": {
-        "webp-sm": 32024,
-        "avif-sm": 42635
-      },
-      "formats": []
-    },
-    {
-      "name": "free-bitcoin-bitcoin-faucet-cryptocurrency-wallet-bitcoin-1a266dd6dd782a7bed9eb03f453927a5.png",
-      "originalSize": 835331,
-      "optimizedSizes": {
-        "webp-sm": 42728,
-        "avif-sm": 53557,
-        "webp-md": 112726,
-        "avif-md": 144740,
-        "webp-lg": 257468,
-        "avif-lg": 340197
-      },
-      "formats": []
-    },
-    {
-      "name": "litecoin-ethereum-cryptocurrency-bitcoin-cash-bitcoin-728ec03a4019a4b4859782bb40f7b3e1.png",
-      "originalSize": 146157,
-      "optimizedSizes": {
-        "webp-sm": 23496,
-        "avif-sm": 19001,
-        "webp-md": 44732,
-        "avif-md": 34706,
-        "webp-lg": 56496,
-        "avif-lg": 46947
-      },
-      "formats": []
-    },
-    {
-      "name": "bitget.png",
-      "originalSize": 2500,
-      "optimizedSizes": {},
-      "formats": []
-    },
-    {
-      "name": "Coinbase Icon.png",
-      "originalSize": 24458,
-      "optimizedSizes": {
-        "webp-sm": 14344,
-        "avif-sm": 14305
-      },
-      "formats": []
-    },
-    {
-      "name": "ethereum-cryptocurrency-erc20-blockchain-dogecoin-wallet-be71169285bae1473c50f30996d5e1df.png",
-      "originalSize": 96106,
-      "optimizedSizes": {
-        "webp-sm": 18316,
-        "avif-sm": 14728,
-        "webp-md": 35486,
-        "avif-md": 24806,
-        "webp-lg": 47278,
-        "avif-lg": 41348
-      },
-      "formats": []
-    },
-    {
-      "name": "1103.jpg",
-      "originalSize": 291131,
-      "optimizedSizes": {
-        "webp-sm": 11664,
-        "avif-sm": 11925,
-        "webp-md": 28956,
-        "avif-md": 27624,
-        "webp-lg": 56240,
-        "avif-lg": 51656,
-        "webp-xl": 132218,
-        "avif-xl": 134037
-      },
-      "formats": []
-    },
-    {
-      "name": "111.jpg",
-      "originalSize": 561174,
-      "optimizedSizes": {
-        "webp-sm": 9868,
-        "avif-sm": 12738,
-        "webp-md": 22814,
-        "avif-md": 26153,
-        "webp-lg": 43358,
-        "avif-lg": 45186,
-        "webp-xl": 101490,
-        "avif-xl": 93823
-      },
-      "formats": []
-    },
-    {
-      "name": "13712.jpg",
-      "originalSize": 353390,
-      "optimizedSizes": {
-        "webp-sm": 14232,
-        "avif-sm": 13693,
-        "webp-md": 29158,
-        "avif-md": 25282,
-        "webp-lg": 49356,
-        "avif-lg": 39089,
-        "webp-xl": 101192,
-        "avif-xl": 96849
-      },
-      "formats": []
-    },
-    {
-      "name": "142.jpg",
-      "originalSize": 670848,
-      "optimizedSizes": {
-        "webp-sm": 11700,
-        "avif-sm": 13286,
-        "webp-md": 29530,
-        "avif-md": 30537,
-        "webp-lg": 55772,
-        "avif-lg": 58256,
-        "webp-xl": 140068,
-        "avif-xl": 143318
-      },
-      "formats": []
-    },
-    {
-      "name": "147.jpg",
-      "originalSize": 231313,
-      "optimizedSizes": {
-        "webp-sm": 12816,
-        "avif-sm": 14981,
-        "webp-md": 32856,
-        "avif-md": 37090,
-        "webp-lg": 59372,
-        "avif-lg": 58849,
-        "webp-xl": 110238,
-        "avif-xl": 121042
-      },
-      "formats": []
-    },
-    {
-      "name": "15.jpg",
-      "originalSize": 330382,
-      "optimizedSizes": {
-        "webp-sm": 8838,
-        "avif-sm": 11050,
-        "webp-md": 20356,
-        "avif-md": 23165,
-        "webp-lg": 39376,
-        "avif-lg": 40779,
-        "webp-xl": 89014,
-        "avif-xl": 90066
-      },
-      "formats": []
-    },
-    {
-      "name": "17.jpg",
-      "originalSize": 996409,
-      "optimizedSizes": {
-        "webp-sm": 10692,
-        "avif-sm": 13495,
-        "webp-md": 26314,
-        "avif-md": 30179,
-        "webp-lg": 51276,
-        "avif-lg": 53719,
-        "webp-xl": 126932,
-        "avif-xl": 115752
-      },
-      "formats": []
-    },
-    {
-      "name": "17202973.jpg",
-      "originalSize": 361308,
-      "optimizedSizes": {
-        "webp-sm": 10810,
-        "avif-sm": 11156,
-        "webp-md": 19478,
-        "avif-md": 20059,
-        "webp-lg": 31876,
-        "avif-lg": 30886,
-        "webp-xl": 62766,
-        "avif-xl": 54790
-      },
-      "formats": []
-    },
-    {
-      "name": "1739.jpg",
-      "originalSize": 513830,
-      "optimizedSizes": {
-        "webp-sm": 10032,
-        "avif-sm": 9347,
-        "webp-md": 23236,
-        "avif-md": 21715,
-        "webp-lg": 44676,
-        "avif-lg": 40400,
-        "webp-xl": 106700,
-        "avif-xl": 88313
-      },
-      "formats": []
-    },
-    {
-      "name": "20190107_020.jpg",
-      "originalSize": 926959,
-      "optimizedSizes": {
-        "webp-sm": 20206,
-        "avif-sm": 21829,
-        "webp-md": 45504,
-        "avif-md": 45951,
-        "webp-lg": 78078,
-        "avif-lg": 74478,
-        "webp-xl": 155182,
-        "avif-xl": 143671
-      },
-      "formats": []
-    },
-    {
-      "name": "20220114_cryptoweb_.jpg",
-      "originalSize": 458341,
-      "optimizedSizes": {
-        "webp-sm": 8598,
-        "avif-sm": 9790,
-        "webp-md": 18646,
-        "avif-md": 19849,
-        "webp-lg": 33818,
-        "avif-lg": 34711,
-        "webp-xl": 81556,
-        "avif-xl": 73040
-      },
-      "formats": []
-    },
-    {
-      "name": "2388340.jpg",
-      "originalSize": 164203,
-      "optimizedSizes": {
-        "webp-sm": 11010,
-        "avif-sm": 12494,
-        "webp-md": 26476,
-        "avif-md": 27443,
-        "webp-lg": 51166,
-        "avif-lg": 51430,
-        "webp-xl": 123918,
-        "avif-xl": 140190
-      },
-      "formats": []
-    },
-    {
-      "name": "2389580.jpg",
-      "originalSize": 190409,
-      "optimizedSizes": {
-        "webp-sm": 10478,
-        "avif-sm": 10732,
-        "webp-md": 21500,
-        "avif-md": 19359,
-        "webp-lg": 36436,
-        "avif-lg": 32565,
-        "webp-xl": 79306,
-        "avif-xl": 84765
-      },
-      "formats": []
-    },
-    {
-      "name": "23910.jpg",
-      "originalSize": 347992,
-      "optimizedSizes": {
-        "webp-sm": 12404,
-        "avif-sm": 14562,
-        "webp-md": 23574,
-        "avif-md": 24645,
-        "webp-lg": 38256,
-        "avif-lg": 38146,
-        "webp-xl": 77346,
-        "avif-xl": 71921
-      },
-      "formats": []
-    },
-    {
-      "name": "2463819.jpg",
-      "originalSize": 153129,
-      "optimizedSizes": {
-        "webp-sm": 10858,
-        "avif-sm": 11696,
-        "webp-md": 25322,
-        "avif-md": 25970,
-        "webp-lg": 47642,
-        "avif-lg": 49733,
-        "webp-xl": 114586,
-        "avif-xl": 133517
-      },
-      "formats": []
-    },
-    {
-      "name": "2474918.jpg",
-      "originalSize": 293856,
-      "optimizedSizes": {
-        "webp-sm": 11306,
-        "avif-sm": 14653,
-        "webp-md": 26060,
-        "avif-md": 30523,
-        "webp-lg": 49100,
-        "avif-lg": 53543,
-        "webp-xl": 110786,
-        "avif-xl": 125878
-      },
-      "formats": []
-    },
-    {
-      "name": "2475916.jpg",
-      "originalSize": 259579,
-      "optimizedSizes": {
-        "webp-sm": 14724,
-        "avif-sm": 20764,
-        "webp-md": 35248,
-        "avif-md": 44934,
-        "webp-lg": 67198,
-        "avif-lg": 82882,
-        "webp-xl": 152464,
-        "avif-xl": 208935
-      },
-      "formats": []
-    },
-    {
-      "name": "2481401.jpg",
-      "originalSize": 520471,
-      "optimizedSizes": {
-        "webp-sm": 16532,
-        "avif-sm": 21790,
-        "webp-md": 40846,
-        "avif-md": 49393,
-        "webp-lg": 83008,
-        "avif-lg": 91551,
-        "webp-xl": 203944,
-        "avif-xl": 227853
-      },
-      "formats": []
-    },
-    {
-      "name": "2491489.jpg",
-      "originalSize": 131234,
-      "optimizedSizes": {
-        "webp-sm": 11504,
-        "avif-sm": 12458,
-        "webp-md": 23970,
-        "avif-md": 24336,
-        "webp-lg": 42096,
-        "avif-lg": 43122,
-        "webp-xl": 93494,
-        "avif-xl": 111130
-      },
-      "formats": []
-    },
-    {
-      "name": "2_01.jpg",
-      "originalSize": 2110551,
-      "optimizedSizes": {
-        "webp-sm": 18122,
-        "avif-sm": 25162,
-        "webp-md": 53634,
-        "avif-md": 68775,
-        "webp-lg": 122742,
-        "avif-lg": 143731,
-        "webp-xl": 305532,
-        "avif-xl": 328086
-      },
-      "formats": []
-    },
-    {
-      "name": "3496152.jpg",
-      "originalSize": 308095,
-      "optimizedSizes": {
-        "webp-sm": 17118,
-        "avif-sm": 18993,
-        "webp-md": 37762,
-        "avif-md": 36572,
-        "webp-lg": 64332,
-        "avif-lg": 59664,
-        "webp-xl": 130562,
-        "avif-xl": 132609
-      },
-      "formats": []
-    },
-    {
-      "name": "354107-pb0tb5-980.jpg",
-      "originalSize": 128285,
-      "optimizedSizes": {
-        "webp-sm": 10716,
-        "avif-sm": 10194,
-        "webp-md": 21564,
-        "avif-md": 18123,
-        "webp-lg": 35146,
-        "avif-lg": 28360,
-        "webp-xl": 72458,
-        "avif-xl": 69553
-      },
-      "formats": []
-    },
-    {
-      "name": "356576-paxlbb-497.jpg",
-      "originalSize": 234670,
-      "optimizedSizes": {
-        "webp-sm": 19580,
-        "avif-sm": 19108,
-        "webp-md": 42214,
-        "avif-md": 36946,
-        "webp-lg": 72954,
-        "avif-lg": 65139,
-        "webp-xl": 148928,
-        "avif-xl": 183773
-      },
-      "formats": []
-    },
-    {
-      "name": "356576-pazf3s-327.jpg",
-      "originalSize": 287039,
-      "optimizedSizes": {
-        "webp-sm": 13222,
-        "avif-sm": 14070,
-        "webp-md": 31384,
-        "avif-md": 28427,
-        "webp-lg": 55960,
-        "avif-lg": 47204,
-        "webp-xl": 114436,
-        "avif-xl": 117820
-      },
-      "formats": []
-    },
-    {
-      "name": "366812-pazosm-450.jpg",
-      "originalSize": 142936,
-      "optimizedSizes": {
-        "webp-sm": 13482,
-        "avif-sm": 12772,
-        "webp-md": 28228,
-        "avif-md": 25590,
-        "webp-lg": 48676,
-        "avif-lg": 47722,
-        "webp-xl": 105568,
-        "avif-xl": 121466
-      },
-      "formats": []
-    },
-    {
-      "name": "4.01.jpg",
-      "originalSize": 2041263,
-      "optimizedSizes": {
-        "webp-sm": 19426,
-        "avif-sm": 21342,
-        "webp-md": 57712,
-        "avif-md": 59272,
-        "webp-lg": 129382,
-        "avif-lg": 124780,
-        "webp-xl": 322106,
-        "avif-xl": 284404
-      },
-      "formats": []
-    },
-    {
-      "name": "45fc9db4-48cb-4da2-a01c-e510e9b832b3.jpg",
-      "originalSize": 188441,
-      "optimizedSizes": {
-        "webp-sm": 80290,
-        "avif-sm": 98399,
-        "webp-md": 191518,
-        "avif-md": 217242
-      },
-      "formats": []
-    },
-    {
-      "name": "5132104.jpg",
-      "originalSize": 191958,
-      "optimizedSizes": {
-        "webp-sm": 7678,
-        "avif-sm": 9149,
-        "webp-md": 18934,
-        "avif-md": 22482,
-        "webp-lg": 33902,
-        "avif-lg": 42611,
-        "webp-xl": 74950,
-        "avif-xl": 94731
-      },
-      "formats": []
-    },
-    {
-      "name": "57041.jpg",
-      "originalSize": 520901,
-      "optimizedSizes": {
-        "webp-sm": 22678,
-        "avif-sm": 23688,
-        "webp-md": 41266,
-        "avif-md": 39918,
-        "webp-lg": 69300,
-        "avif-lg": 62848,
-        "webp-xl": 142018,
-        "avif-xl": 123381
-      },
-      "formats": []
-    },
-    {
-      "name": "6233290.jpg",
-      "originalSize": 148915,
-      "optimizedSizes": {
-        "webp-sm": 10098,
-        "avif-sm": 12086,
-        "webp-md": 18910,
-        "avif-md": 20155,
-        "webp-lg": 31770,
-        "avif-lg": 30983,
-        "webp-xl": 66810,
-        "avif-xl": 61524
-      },
-      "formats": []
-    },
-    {
-      "name": "6260989.jpg",
-      "originalSize": 164461,
-      "optimizedSizes": {
-        "webp-sm": 8882,
-        "avif-sm": 11184,
-        "webp-md": 17054,
-        "avif-md": 18627,
-        "webp-lg": 28232,
-        "avif-lg": 27321,
-        "webp-xl": 58070,
-        "avif-xl": 55401
-      },
-      "formats": []
-    },
-    {
-      "name": "727.jpg",
-      "originalSize": 1221323,
-      "optimizedSizes": {
-        "webp-sm": 9842,
-        "avif-sm": 12509,
-        "webp-md": 24110,
-        "avif-md": 29410,
-        "webp-lg": 51888,
-        "avif-lg": 61623,
-        "webp-xl": 142588,
-        "avif-xl": 141343
-      },
-      "formats": []
-    },
-    {
-      "name": "8554.jpg",
-      "originalSize": 821275,
-      "optimizedSizes": {
-        "webp-sm": 9220,
-        "avif-sm": 9686,
-        "webp-md": 20218,
-        "avif-md": 18361,
-        "webp-lg": 37550,
-        "avif-lg": 30767,
-        "webp-xl": 86978,
-        "avif-xl": 60305
-      },
-      "formats": []
-    },
-    {
-      "name": "9718.jpg",
-      "originalSize": 1564043,
-      "optimizedSizes": {
-        "webp-sm": 17824,
-        "avif-sm": 21020,
-        "webp-md": 43388,
-        "avif-md": 50043,
-        "webp-lg": 88066,
-        "avif-lg": 89776,
-        "webp-xl": 209246,
-        "avif-xl": 189285
-      },
-      "formats": []
-    },
-    {
-      "name": "dinheiro-digital.jpg",
-      "originalSize": 41913,
-      "optimizedSizes": {
-        "webp-sm": 35086,
-        "avif-sm": 42115
-      },
-      "formats": []
-    },
-    {
-      "name": "educacao-cripto.jpg",
-      "originalSize": 83981,
-      "optimizedSizes": {
-        "webp-sm": 33300,
-        "avif-sm": 38644,
-        "webp-md": 65510,
-        "avif-md": 72153
-      },
-      "formats": []
-    },
-    {
-      "name": "fim-de-ano-cripto.jpg",
-      "originalSize": 78302,
-      "optimizedSizes": {
-        "webp-sm": 20882,
-        "avif-sm": 27016,
-        "webp-md": 54790,
-        "avif-md": 64786
-      },
-      "formats": []
-    },
-    {
-      "name": "icon-positiva.png",
-      "originalSize": 1356,
-      "optimizedSizes": {},
-      "formats": []
-    },
-    {
-      "name": "ideal-para-apresentaes-blogs-financeiros-e.jpg",
-      "originalSize": 86010,
-      "optimizedSizes": {
-        "webp-sm": 47280,
-        "avif-sm": 62441,
-        "webp-md": 92406,
-        "avif-md": 110351
-      },
-      "formats": []
-    },
-    {
-      "name": "kerfin7-nea-2214.jpg",
-      "originalSize": 491729,
-      "optimizedSizes": {
-        "webp-sm": 7604,
-        "avif-sm": 8778,
-        "webp-md": 17660,
-        "avif-md": 17431,
-        "webp-lg": 33032,
-        "avif-lg": 29652,
-        "webp-xl": 79148,
-        "avif-xl": 62598
-      },
-      "formats": []
-    },
-    {
-      "name": "layer2.png",
-      "originalSize": 130304,
-      "optimizedSizes": {
-        "webp-sm": 8222,
-        "avif-sm": 8680,
-        "webp-md": 19082,
-        "avif-md": 18125,
-        "webp-lg": 35916,
-        "avif-lg": 30725
-      },
-      "formats": []
-    },
-    {
-      "name": "mbnljio8e37k6a6clrvn2pkndr.png",
-      "originalSize": 321276,
-      "optimizedSizes": {
-        "webp-sm": 39700,
-        "avif-sm": 30489,
-        "webp-md": 106854,
-        "avif-md": 75013,
-        "webp-lg": 262790,
-        "avif-lg": 179664
-      },
-      "formats": []
-    },
-    {
-      "name": "medium-shot-man-wearing-headphones.jpg",
-      "originalSize": 677834,
-      "optimizedSizes": {
-        "webp-sm": 9356,
-        "avif-sm": 11539,
-        "webp-md": 20994,
-        "avif-md": 24614,
-        "webp-lg": 46572,
-        "avif-lg": 60779,
-        "webp-xl": 277186,
-        "avif-xl": 371229
-      },
-      "formats": []
-    },
-    {
-      "name": "mercado-financeiro.jpg",
-      "originalSize": 257097,
-      "optimizedSizes": {
-        "webp-sm": 18420,
-        "avif-sm": 23583,
-        "webp-md": 46026,
-        "avif-md": 55277,
-        "webp-lg": 94198,
-        "avif-lg": 115459
-      },
-      "formats": []
-    },
-    {
-      "name": "moedas-diversas.jpg",
-      "originalSize": 75126,
-      "optimizedSizes": {
-        "webp-sm": 26972,
-        "avif-sm": 38376,
-        "webp-md": 50706,
-        "avif-md": 67349
-      },
-      "formats": []
-    },
-    {
-      "name": "nft-digital-art.jpg",
-      "originalSize": 562159,
-      "optimizedSizes": {
-        "webp-sm": 9668,
-        "avif-sm": 13360,
-        "webp-md": 21182,
-        "avif-md": 28266,
-        "webp-lg": 42156,
-        "avif-lg": 54226,
-        "webp-xl": 105066,
-        "avif-xl": 137787
-      },
-      "formats": []
-    },
-    {
-      "name": "novidades-cripto.jpg",
-      "originalSize": 130989,
-      "optimizedSizes": {
-        "webp-sm": 40390,
-        "avif-sm": 48227,
-        "webp-md": 115892,
-        "avif-md": 141487
-      },
-      "formats": []
-    },
-    {
-      "name": "og-default.png",
-      "originalSize": 4790,
-      "optimizedSizes": {
-        "webp-sm": 13484,
-        "avif-sm": 11041
-      },
-      "formats": []
-    },
-    {
-      "name": "rede-social.png",
-      "originalSize": 7622,
-      "optimizedSizes": {
-        "webp-sm": 11086,
-        "avif-sm": 9901,
-        "webp-md": 18162,
-        "avif-md": 15051
-      },
-      "formats": []
-    },
-    {
-      "name": "rm373batch16-banner-05.jpg",
-      "originalSize": 457102,
-      "optimizedSizes": {
-        "webp-sm": 15090,
-        "avif-sm": 17332,
-        "webp-md": 31696,
-        "avif-md": 33764,
-        "webp-lg": 59132,
-        "avif-lg": 60694,
-        "webp-xl": 131854,
-        "avif-xl": 131425
-      },
-      "formats": []
-    },
-    {
-      "name": "sl-0212121-40670-09.jpg",
-      "originalSize": 431745,
-      "optimizedSizes": {
-        "webp-sm": 5568,
-        "avif-sm": 5164,
-        "webp-md": 9840,
-        "avif-md": 9110,
-        "webp-lg": 16598,
-        "avif-lg": 14827,
-        "webp-xl": 37932,
-        "avif-xl": 31441
-      },
-      "formats": []
-    },
-    {
-      "name": "sl-0212121-40670-19.jpg",
-      "originalSize": 669527,
-      "optimizedSizes": {
-        "webp-sm": 8484,
-        "avif-sm": 10005,
-        "webp-md": 18136,
-        "avif-md": 20198,
-        "webp-lg": 35392,
-        "avif-lg": 37807,
-        "webp-xl": 99554,
-        "avif-xl": 91119
-      },
-      "formats": []
-    },
-    {
-      "name": "sl-0212121-40670-45.jpg",
-      "originalSize": 338203,
-      "optimizedSizes": {
-        "webp-sm": 6892,
-        "avif-sm": 8571,
-        "webp-md": 13286,
-        "avif-md": 16659,
-        "webp-lg": 22776,
-        "avif-lg": 26502,
-        "webp-xl": 47092,
-        "avif-xl": 49462
-      },
-      "formats": []
-    },
-    {
-      "name": "sl-0212121-40670-56.jpg",
-      "originalSize": 574788,
-      "optimizedSizes": {
-        "webp-sm": 5922,
-        "avif-sm": 6173,
-        "webp-md": 13718,
-        "avif-md": 14965,
-        "webp-lg": 28346,
-        "avif-lg": 27766,
-        "webp-xl": 68594,
-        "avif-xl": 59455
-      },
-      "formats": []
-    },
-    {
-      "name": "sl-0212121-40670-60.jpg",
-      "originalSize": 841976,
-      "optimizedSizes": {
-        "webp-sm": 9904,
-        "avif-sm": 12685,
-        "webp-md": 24736,
-        "avif-md": 28328,
-        "webp-lg": 49284,
-        "avif-lg": 50495,
-        "webp-xl": 121218,
-        "avif-xl": 107369
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_0212121_40670_21.jpg",
-      "originalSize": 458231,
-      "optimizedSizes": {
-        "webp-sm": 6788,
-        "avif-sm": 6409,
-        "webp-md": 15870,
-        "avif-md": 12882,
-        "webp-lg": 31316,
-        "avif-lg": 21671,
-        "webp-xl": 74636,
-        "avif-xl": 40704
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_0212121_40670_28.jpg",
-      "originalSize": 735428,
-      "optimizedSizes": {
-        "webp-sm": 9226,
-        "avif-sm": 10349,
-        "webp-md": 21670,
-        "avif-md": 21195,
-        "webp-lg": 42292,
-        "avif-lg": 37915,
-        "webp-xl": 102990,
-        "avif-xl": 81335
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_0212121_40670_39.jpg",
-      "originalSize": 566458,
-      "optimizedSizes": {
-        "webp-sm": 10904,
-        "avif-sm": 9707,
-        "webp-md": 21870,
-        "avif-md": 17494,
-        "webp-lg": 37702,
-        "avif-lg": 28102,
-        "webp-xl": 79594,
-        "avif-xl": 55259
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_0212121_40670_61.jpg",
-      "originalSize": 408743,
-      "optimizedSizes": {
-        "webp-sm": 5864,
-        "avif-sm": 5652,
-        "webp-md": 11682,
-        "avif-md": 10765,
-        "webp-lg": 22406,
-        "avif-lg": 17632,
-        "webp-xl": 48868,
-        "avif-xl": 34851
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_0212121_40670_62.jpg",
-      "originalSize": 316671,
-      "optimizedSizes": {
-        "webp-sm": 5260,
-        "avif-sm": 5025,
-        "webp-md": 9894,
-        "avif-md": 8980,
-        "webp-lg": 18020,
-        "avif-lg": 15572,
-        "webp-xl": 40950,
-        "avif-xl": 32226
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_052321_43220_07.jpg",
-      "originalSize": 450248,
-      "optimizedSizes": {
-        "webp-sm": 6316,
-        "avif-sm": 7009,
-        "webp-md": 12472,
-        "avif-md": 12213,
-        "webp-lg": 21544,
-        "avif-lg": 19839,
-        "webp-xl": 50214,
-        "avif-xl": 39456
-      },
-      "formats": []
-    },
-    {
-      "name": "sl_052321_43220_13.jpg",
-      "originalSize": 744295,
-      "optimizedSizes": {
-        "webp-sm": 9550,
-        "avif-sm": 11183,
-        "webp-md": 23588,
-        "avif-md": 24616,
-        "webp-lg": 46166,
-        "avif-lg": 44784,
-        "webp-xl": 105414,
-        "avif-xl": 93601
-      },
-      "formats": []
-    },
-    {
-      "name": "vector6262_final.jpg",
-      "originalSize": 891829,
-      "optimizedSizes": {
-        "webp-sm": 12260,
-        "avif-sm": 14062,
-        "webp-md": 27128,
-        "avif-md": 30569,
-        "webp-lg": 52328,
-        "avif-lg": 57763,
-        "webp-xl": 130290,
-        "avif-xl": 132252
-      },
-      "formats": []
-    },
-    {
-      "name": "vector6268_final.jpg",
-      "originalSize": 986477,
-      "optimizedSizes": {
-        "webp-sm": 13324,
-        "avif-sm": 17287,
-        "webp-md": 30250,
-        "avif-md": 36147,
-        "webp-lg": 59770,
-        "avif-lg": 64703,
-        "webp-xl": 150278,
-        "avif-xl": 141026
-      },
-      "formats": []
-    },
-    {
-      "name": "cabecalho.png",
-      "originalSize": 4863,
-      "optimizedSizes": {
-        "webp-sm": 14038,
-        "avif-sm": 11992
-      },
-      "formats": []
-    },
-    {
-      "name": "cifra-negativo.png",
-      "originalSize": 4599,
-      "optimizedSizes": {
-        "webp-sm": 9024,
-        "avif-sm": 5823
-      },
-      "formats": []
-    },
-    {
-      "name": "cifra-positivo.png",
-      "originalSize": 4599,
-      "optimizedSizes": {
-        "webp-sm": 11354,
-        "avif-sm": 12604
-      },
-      "formats": []
-    },
-    {
-      "name": "cifra-principal.png",
-      "originalSize": 4790,
-      "optimizedSizes": {
-        "webp-sm": 13484,
-        "avif-sm": 11041
-      },
-      "formats": []
-    },
-    {
-      "name": "favcoin.png",
-      "originalSize": 7596,
-      "optimizedSizes": {
-        "webp-sm": 10816,
-        "avif-sm": 9503,
-        "webp-md": 17930,
-        "avif-md": 14496
-      },
-      "formats": []
-    },
-    {
-      "name": "icon-azulada.png",
-      "originalSize": 1360,
-      "optimizedSizes": {},
-      "formats": []
-    },
-    {
-      "name": "icon-cinzenta.png",
-      "originalSize": 1365,
-      "optimizedSizes": {},
-      "formats": []
-    },
-    {
-      "name": "icon-negativa.png",
-      "originalSize": 1392,
-      "optimizedSizes": {},
-      "formats": []
-    },
-    {
-      "name": "icon-principal.png",
-      "originalSize": 1524,
-      "optimizedSizes": {},
-      "formats": []
-    },
-    {
-      "name": "with-major-changes-in-the-crypto-market-investors.jpg",
-      "originalSize": 145069,
-      "optimizedSizes": {
-        "webp-sm": 51706,
-        "avif-sm": 68800,
-        "webp-md": 128708,
-        "avif-md": 157153
+        "webp-sm": 11710,
+        "avif-sm": 13460,
+        "webp-md": 26986,
+        "avif-md": 28788,
+        "webp-lg": 46342,
+        "avif-lg": 46862,
+        "webp-xl": 97622,
+        "avif-xl": 82533
       },
       "formats": []
     }
