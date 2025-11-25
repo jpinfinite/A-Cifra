@@ -5,7 +5,7 @@ import { Article, BreadcrumbItem } from '@/types'
 import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
 import RelatedArticlesInline from './RelatedArticlesInline'
-import { InArticleAd } from '@/components/ads'
+// Anúncios agora são gerenciados dentro do ArticleContent
 
 interface ArticleLayoutProps {
   article: Article
@@ -207,11 +207,6 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
           title="📚 Continue Aprendendo"
         />
       )}
-
-      {/* Google AdSense - In-Article */}
-      <div className="my-12">
-        <InArticleAd slot={process.env.NEXT_PUBLIC_AD_SLOT_IN_ARTICLE_1 || '1234567890'} />
-      </div>
 
       {/* Article Footer */}
       <footer className="mt-12 pt-8 border-t border-gray-200">

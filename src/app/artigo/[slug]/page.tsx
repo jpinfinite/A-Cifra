@@ -4,7 +4,7 @@ import { ArticleLayout } from '@/components/content'
 import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
 import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
 import { NewsletterCTA } from '@/components/newsletter'
-import { InArticleAd, SidebarAd } from '@/components/ads'
+// Anúncios agora são gerenciados dentro do ArticleContent
 import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata } from '@/utils/seo'
@@ -111,24 +111,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <TableOfContents content={article.content} className="mb-8" />
             )}
 
-            {/* Article Content */}
+            {/* Article Content (com anúncios integrados) */}
             <ArticleLayout 
               article={article} 
               breadcrumbs={[]}
-              relatedArticles={[]}
+              relatedArticles={relatedArticles}
             />
-
-            {/* Ad 1 - Após conteúdo inicial */}
-            <InArticleAd slot="2401624018" />
 
             {/* Newsletter CTA */}
             <NewsletterCTA variant="inline" className="my-12" />
-
-            {/* Ad 2 - Meio do artigo */}
-            <InArticleAd slot="3416033223" />
-
-            {/* Ad 3 - Antes dos artigos relacionados */}
-            <InArticleAd slot="5028497790" />
 
             {/* Related Articles */}
             <RelatedArticles articles={relatedArticles} className="mt-12" />
@@ -136,14 +127,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* Sidebar */}
           <aside className="lg:col-span-4 space-y-6">
-            {/* Ad Sidebar - Topo */}
-            <SidebarAd slot="4860266399" sticky={true} />
-
             {/* Newsletter Sidebar */}
             <NewsletterCTA variant="sidebar" />
-
-            {/* Ad Sidebar - Meio */}
-            <SidebarAd slot="5064156814" />
           </aside>
         </div>
       </Container>
