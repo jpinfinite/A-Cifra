@@ -149,8 +149,28 @@ export default function RootLayout({
             });
           `}
         </Script>
-        
 
+        {/* Google Reader Revenue Manager - Assinaturas */}
+        <Script
+          src="https://news.google.com/swg/js/v1/swg-basic.js"
+          strategy="afterInteractive"
+          async
+        />
+        <Script id="reader-revenue-manager" strategy="afterInteractive">
+          {`
+            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+              basicSubscriptions.init({
+                type: "NewsArticle",
+                isPartOfType: ["Product"],
+                isPartOfProductId: "CAowlPfdCw:openaccess",
+                clientOptions: { 
+                  theme: "light", 
+                  lang: "pt-BR" 
+                },
+              });
+            });
+          `}
+        </Script>
 
         {/* Google Analytics */}
         <Script
