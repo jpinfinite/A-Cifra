@@ -1,48 +1,66 @@
-const fs = require('fs')
-const path = require('path')
-const matter = require('gray-matter')
+const fs = require('fs');
+const path = require('path');
 
-const articlesDir = path.join(process.cwd(), 'content', 'articles')
+const articlesDir = path.join(__dirname, '../content/articles');
+const imagesDir = path.join(__dirname, '../public/images');
 
-function checkArticles() {
-  const files = fs.readdirSync(articlesDir)
-    .filter(f => f.endsWith('.md') && f !== '_template.md' && f !== 'README.md')
+// Ler todos os artigos
+const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md') && !f.startsWith('_'));
+
+const missingImages = [];
+
+files.forEach(file => {
+  const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
   
-  const missingImages = []
+  // Extrair coverImage do frontmatter
+  const coverImageMatch = content.match(/coverImage:\s*\n\s*src:\s*['"]([^'"]+)['"]/);
   
-  files.forEach(file => {
-    const filePath = path.join(articlesDir, file)
-    const content = fs.readFileSync(filePath, 'utf-8')
+  if (coverImageMatch) {
+    const imagePath = coverImageMatch[1].replace(/^\//, '');
+    const fullPath = path.join(__dirname, '../public', imagePath);
     
-    try {
-      const { data } = matter(content)
+    if (!fs.existsSync(fullPath)) {
+      missingImages.push({
+        article: file,
+        image: imagePath
+      });
+    } else {
+      // Verificar variantes
+      const basePath = imagePath.replace(/\.(jpg|jpeg|png|webp)$/i, '');
+      const variants = ['-sm.avif', '-sm.webp', '-md.avif', '-md.webp'];
       
-      // Verificar se não tem coverImage ou se está vazio
-      if (!data.coverImage || !data.coverImage.src || data.coverImage.src === '') {
+      const missingVariants = variants.filter(variant => {
+        const variantPath = path.join(__dirname, '../public', basePath + variant);
+        return !fs.existsSync(variantPath);
+      });
+      
+      if (missingVariants.length > 0) {
         missingImages.push({
-          file,
-          title: data.title || 'Sem título',
-          slug: data.slug || 'sem-slug'
-        })
+          article: file,
+          image: imagePath,
+          missingVariants: missingVariants
+        });
       }
-    } catch (error) {
-      console.error(`Erro ao processar ${file}:`, error.message)
     }
-  })
-  
-  console.log(`\n📊 Total de artigos: ${files.length}`)
-  console.log(`❌ Artigos sem imagem: ${missingImages.length}\n`)
-  
-  if (missingImages.length > 0) {
-    console.log('Artigos sem imagem de capa:\n')
-    missingImages.forEach((article, index) => {
-      console.log(`${index + 1}. ${article.file}`)
-      console.log(`   Título: ${article.title}`)
-      console.log(`   Slug: ${article.slug}\n`)
-    })
   }
-  
-  return missingImages
-}
+});
 
-checkArticles()
+console.log(`\n📊 Verificação de Imagens\n`);
+console.log(`Total de artigos: ${files.length}`);
+console.log(`Artigos com problemas: ${missingImages.length}\n`);
+
+if (missingImages.length > 0) {
+  console.log('🔴 Imagens com problemas:\n');
+  missingImages.forEach(({ article, image, missingVariants }) => {
+    console.log(`📄 ${article}`);
+    console.log(`   Imagem: ${image}`);
+    if (missingVariants) {
+      console.log(`   Variantes faltando: ${missingVariants.join(', ')}`);
+    } else {
+      console.log(`   ❌ IMAGEM PRINCIPAL NÃO EXISTE!`);
+    }
+    console.log('');
+  });
+} else {
+  console.log('✅ Todas as imagens estão OK!');
+}

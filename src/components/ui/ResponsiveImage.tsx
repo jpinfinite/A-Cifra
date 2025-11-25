@@ -59,7 +59,15 @@ export function ResponsiveImage({
     setIsLoading(false)
   }
 
-  const handleError = () => {
+  const handleError = (e: React.SyntheticEvent<HTMLImageElement>) => {
+    const img = e.currentTarget
+    
+    // Se falhar, tentar fallback direto
+    if (img.src !== variants.fallback) {
+      img.src = variants.fallback
+      return
+    }
+    
     setHasError(true)
     setIsLoading(false)
   }
@@ -87,22 +95,14 @@ export function ResponsiveImage({
         {/* AVIF - Melhor compressão */}
         <source
           type="image/avif"
-          srcSet={`
-            ${variants.avif.sm} 384w,
-            ${variants.avif.md} 662w,
-            ${variants.avif.lg} 1024w
-          `}
+          srcSet={`${variants.avif.sm} 384w`}
           sizes={sizes}
         />
 
         {/* WebP - Boa compressão e compatibilidade */}
         <source
           type="image/webp"
-          srcSet={`
-            ${variants.webp.sm} 384w,
-            ${variants.webp.md} 662w,
-            ${variants.webp.lg} 1024w
-          `}
+          srcSet={`${variants.webp.sm} 384w`}
           sizes={sizes}
         />
 
