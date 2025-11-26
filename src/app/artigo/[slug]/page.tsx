@@ -66,9 +66,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const relatedArticles = getRelatedArticles(article, allArticles, 6)
 
   const breadcrumbItems = [
-    { name: 'Categorias', url: '/categorias' },
-    { name: article.category.name, url: `/categoria/${article.category.slug}` },
-    { name: article.title, url: `/artigo/${article.slug}` }
+    { label: 'Categorias', href: '/categorias' },
+    { label: article.category.name, href: `/categoria/${article.category.slug}` },
+    { label: article.title, href: `/artigo/${article.slug}` }
   ]
 
   const currentUrl = `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${article.slug}`

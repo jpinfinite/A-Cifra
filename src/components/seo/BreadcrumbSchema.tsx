@@ -1,6 +1,6 @@
 interface BreadcrumbItem {
-  name: string
-  url: string
+  label: string
+  href: string
 }
 
 interface BreadcrumbSchemaProps {
@@ -14,8 +14,8 @@ export function BreadcrumbSchema({ items }: BreadcrumbSchemaProps) {
     itemListElement: items.map((item, index) => ({
       '@type': 'ListItem',
       position: index + 1,
-      name: item.name,
-      item: item.url,
+      name: item.label,
+      item: item.href,
     })),
   }
 
