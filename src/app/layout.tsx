@@ -42,6 +42,22 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/',
   },
+  manifest: '/manifest.json',
+  icons: {
+    icon: '/images/logos/favcoin.png',
+    apple: '/images/logos/favcoin.png',
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'A Cifra',
+  },
+  verification: {
+    google: 'EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE',
+    other: {
+      'msvalidate.01': '22305352092034B05EEE259DED78FD7D',
+    },
+  },
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
@@ -76,6 +92,11 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
+  other: {
+    'theme-color': '#155C8B',
+    'msapplication-TileColor': '#155C8B',
+    'referrer': 'origin',
+  },
 }
 
 export default function RootLayout({
@@ -86,49 +107,14 @@ export default function RootLayout({
   return (
     <html lang="pt-BR" className={`${inter.variable} ${poppins.variable} scroll-smooth`} suppressHydrationWarning>
       <head>
-        {/* Preconnect para performance - Recursos críticos */}
+        {/* Preconnect para performance */}
         <link rel="preconnect" href="https://news.google.com" />
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
-        
-        {/* DNS Prefetch para recursos externos */}
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
-        
-        {/* Favicon e icons */}
-        <link rel="icon" href="/images/logos/favcoin.png" sizes="any" />
-        <link rel="icon" href="/images/logos/favcoin.png" type="image/png" sizes="32x32" />
-        <link rel="apple-touch-icon" href="/images/logos/favcoin.png" sizes="180x180" />
-        <link rel="manifest" href="/manifest.json" />
-        
-        {/* Theme e PWA */}
-        <meta name="theme-color" content="#155C8B" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="A Cifra" />
-        
-        {/* Viewport otimizado */}
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover" />
-        
-        {/* SEO e performance */}
-        <meta name="msapplication-TileColor" content="#155C8B" />
-        <meta name="msapplication-config" content="/browserconfig.xml" />
         
         {/* Structured Data */}
         <StructuredData data={generateWebsiteStructuredData()} />
-        
-        {/* Melhorias de SEO e segurança */}
-        <meta name="referrer" content="origin" />
-        <meta name="google-site-verification" content="EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE" />
-        <meta name="msvalidate.01" content="22305352092034B05EEE259DED78FD7D" />
-        <meta name="yandex-verification" content="" />
-        
-        {/* Meta tags para melhorar indexação */}
-        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        
-
-        
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white" suppressHydrationWarning>
         {/* Google AdSense - Script principal com auto ads habilitado */}
