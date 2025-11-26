@@ -33,7 +33,13 @@ export function generateMetadata({
 }: SEOProps): Metadata {
   const metaTitle = title ? `${title} | ${siteConfig.name}` : siteConfig.name
   const metaDescription = description || siteConfig.description
-  const metaImage = image || `${siteConfig.url}/images/og-default.png`
+
+  // Garantir que a imagem sempre tenha URL absoluta
+  let metaImage = image || `${siteConfig.url}/images/og-default.png`
+  if (metaImage.startsWith('/')) {
+    metaImage = `${siteConfig.url}${metaImage}`
+  }
+
   const metaUrl = url ? `${siteConfig.url}${url}` : siteConfig.url
 
   const metadata: Metadata = {
@@ -60,8 +66,12 @@ export function generateMetadata({
           width: 1200,
           height: 630,
           alt: metaTitle,
+          type: 'image/jpeg',
         },
       ],
+    },
+    other: {
+      'fb:app_id': '1151448515464841', // ID do AdSense como fallback
     },
     twitter: {
       card: 'summary_large_image',
