@@ -1,0 +1,26 @@
+name: "Assistente Jonatha - Ollama"
+
+models:
+  - name: "Qwen VL"
+    provider: "ollama"
+    model: "qwen3-vl:235b-cloud"
+
+  - name: "DeepSeek Coder"
+    provider: "ollama"
+    model: "deepseek-coder:latest"
+
+  - name: "Mistral"
+    provider: "ollama"
+    model: "mistral:latest"
+
+  - name: "DeepSeek R1"
+    provider: "ollama"
+    model: "deepseek-r1:1.5b"
+
+  - name: "Qwen3 - 4b"
+    provider: "ollama"
+    model: "qwen3:4b"
+
+  - name: "GPT-OSS 20B"
+    provider: "ollama"
+    model: "gpt-oss:20b-cloud"
