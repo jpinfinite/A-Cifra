@@ -1,11 +1,13 @@
 'use client'
 
 import { useEffect } from 'react'
+
 import { ArticleGrid, FeaturedArticleCard } from '@/components/content'
 import { Container, Heading, Text, CategoryIcon } from '@/components/ui'
 import NewsletterForm from '@/components/content/NewsletterForm'
-// import { DisplayAd } from '@/components/ads' // Removido - usando apenas anúncios automáticos
 import type { Article } from '@/types'
+
+// import { DisplayAd } from '@/components/ads' // Removido - usando apenas anúncios automáticos
 
 interface HomePageClientProps {
   featuredArticle: Article
@@ -19,7 +21,7 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
       threshold: 0.1,
       rootMargin: '0px 0px -50px 0px'
     }
-    
+
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
@@ -27,11 +29,11 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
         }
       })
     }, observerOptions)
-    
+
     // Observar elementos com scroll-reveal
     const elements = document.querySelectorAll('.scroll-reveal')
     elements.forEach(el => observer.observe(el))
-    
+
     return () => observer.disconnect()
   }, [])
 
@@ -46,17 +48,17 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
               <span className="w-2 h-2 bg-brand-gold rounded-full mr-2 animate-pulse"></span>
               Seu Portal Cripto de Confiança
             </div>
-            
+
             <Heading level={1} className="mb-6 text-white text-4xl md:text-6xl font-bold leading-tight">
               <span className="text-gradient-gold">Seu guia completo</span><br />
               sobre criptomoedas
             </Heading>
-            
+
             <Text size="xl" className="mb-8 text-brand-off-white text-lg md:text-xl leading-relaxed max-w-4xl mx-auto">
-              Descubra análises profundas, notícias atualizadas e educação de qualidade 
+              Descubra análises profundas, notícias atualizadas e educação de qualidade
               sobre Bitcoin, Ethereum, DeFi, NFTs e o futuro das finanças digitais.
             </Text>
-            
+
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a
                 href="#artigos-recentes"
@@ -78,7 +80,7 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
             </div>
           </div>
         </Container>
-        
+
         {/* Elementos decorativos */}
         <div className="absolute top-20 left-10 w-20 h-20 bg-brand-gold/10 rounded-full blur-xl animate-pulse"></div>
         <div className="absolute bottom-20 right-10 w-32 h-32 bg-brand-primary-blue/10 rounded-full blur-2xl animate-pulse delay-1000"></div>
@@ -95,7 +97,7 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
               Encontre conteúdo especializado sobre os temas que mais interessam você
             </Text>
           </div>
-          
+
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
             {[
               { name: 'Bitcoin', slug: 'bitcoin' },
@@ -141,23 +143,23 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
               Fique por dentro das últimas novidades e análises do mercado de criptomoedas
             </Text>
           </div>
-          
+
           {/* Featured Article */}
           {featuredArticle && (
             <div className="mb-16 scroll-reveal">
               <FeaturedArticleCard article={featuredArticle} />
             </div>
           )}
-          
+
           {/* Other Recent Articles */}
           {recentArticles && recentArticles.length > 1 && (
             <div className="scroll-reveal">
-              <ArticleGrid 
-                articles={recentArticles.slice(1)} 
+              <ArticleGrid
+                articles={recentArticles.slice(1)}
               />
             </div>
           )}
-          
+
           <div className="text-center mt-16 scroll-reveal">
             <a
               href="/artigos"
@@ -178,7 +180,7 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
           <div className="relative z-10">
             <NewsletterForm />
           </div>
-          
+
           {/* Elementos decorativos */}
           <div className="absolute top-10 left-10 w-32 h-32 bg-brand-gold/5 rounded-full blur-3xl"></div>
           <div className="absolute bottom-10 right-10 w-40 h-40 bg-brand-primary-blue/10 rounded-full blur-3xl"></div>

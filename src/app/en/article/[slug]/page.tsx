@@ -1,13 +1,16 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Image from 'next/image'
+
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+
 import ArticleContent from '@/components/ArticleContent'
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
 import { ArticleFromFile } from '@/utils/articleLoader'
+
 
 interface ArticlePageProps {
   params: {

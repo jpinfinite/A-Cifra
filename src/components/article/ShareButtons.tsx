@@ -1,7 +1,9 @@
 'use client'
 
-import { Facebook, Twitter, Linkedin, Link2, MessageCircle } from 'lucide-react'
 import { useState } from 'react'
+
+import { Facebook, Twitter, Linkedin, Link2, MessageCircle } from 'lucide-react'
+
 
 interface ShareButtonsProps {
   url: string
@@ -43,7 +45,7 @@ export function ShareButtons({ url, title, className = '' }: ShareButtonsProps) 
       <p className="text-sm font-medium text-gray-700 dark:text-gray-300">
         Compartilhar:
       </p>
-      
+
       <div className="flex flex-wrap gap-2">
         {shareButtons.map((button) => {
           const Icon = button.icon
@@ -60,7 +62,7 @@ export function ShareButtons({ url, title, className = '' }: ShareButtonsProps) 
             </a>
           )
         })}
-        
+
         <button
           onClick={copyToClipboard}
           className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 transition-all hover:bg-gray-400 hover:text-white"
@@ -69,7 +71,7 @@ export function ShareButtons({ url, title, className = '' }: ShareButtonsProps) 
           <Link2 className="w-5 h-5" />
         </button>
       </div>
-      
+
       {copied && (
         <p className="text-xs text-green-600 dark:text-green-400">
           Link copiado!

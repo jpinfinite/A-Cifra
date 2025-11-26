@@ -1,9 +1,15 @@
+/**
+ * Breadcrumbs Component
+ * Navegação breadcrumb com Schema.org markup para SEO
+ */
+
 import Link from 'next/link'
 import { ChevronRight, Home } from 'lucide-react'
+import { cn } from '@/utils/cn'
 
-interface BreadcrumbItem {
-  name: string
-  url: string
+export interface BreadcrumbItem {
+  label: string
+  href: string
 }
 
 interface BreadcrumbsProps {
@@ -11,41 +17,72 @@ interface BreadcrumbsProps {
   className?: string
 }
 
-export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
+export function Breadcrumbs({ items, className }: BreadcrumbsProps) {
+  // Schema.org JSON-LD
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://a-cifra.com.br'
+      },
+      ...items.map((item, index) => ({
+        '@type': 'ListItem',
+        position: index + 2,
+        name: item.label,
+        item: `https://a-cifra.com.br${item.href}`
+      }))
+    ]
+  }
+
   return (
-    <nav 
-      aria-label="Breadcrumb" 
-      className={`flex items-center space-x-2 text-sm text-gray-600 dark:text-gray-400 ${className}`}
-    >
-      <Link 
-        href="/" 
-        className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors flex items-center"
-        aria-label="Página inicial"
+    <>
+      {/* Schema.org JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+
+      {/* Visual Breadcrumbs */}
+      <nav
+        aria-label="Breadcrumb"
+        className={cn('flex items-center space-x-2 text-sm text-gray-600', className)}
       >
-        <Home className="w-4 h-4" />
-      </Link>
-      
-      {items.map((item, index) => {
-        const isLast = index === items.length - 1
-        
-        return (
-          <div key={item.url} className="flex items-center space-x-2">
-            <ChevronRight className="w-4 h-4 text-gray-400" />
-            {isLast ? (
-              <span className="text-gray-900 dark:text-gray-100 font-medium" aria-current="page">
-                {item.name}
-              </span>
-            ) : (
-              <Link 
-                href={item.url}
-                className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-              >
-                {item.name}
-              </Link>
-            )}
-          </div>
-        )
-      })}
-    </nav>
+        {/* Home */}
+        <Link
+          href="/"
+          className="flex items-center hover:text-brand-primary-blue transition-colors"
+          aria-label="Voltar para página inicial"
+        >
+          <Home className="h-4 w-4" />
+        </Link>
+
+        {/* Items */}
+        {items.map((item, index) => {
+          const isLast = index === items.length - 1
+
+          return (
+            <div key={item.href} className="flex items-center space-x-2">
+              <ChevronRight className="h-4 w-4 text-gray-400" />
+              {isLast ? (
+                <span className="font-medium text-gray-900" aria-current="page">
+                  {item.label}
+                </span>
+              ) : (
+                <Link
+                  href={item.href}
+                  className="hover:text-brand-primary-blue transition-colors"
+                >
+                  {item.label}
+                </Link>
+              )}
+            </div>
+          )
+        })}
+      </nav>
+    </>
   )
 }

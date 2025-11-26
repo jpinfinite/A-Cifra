@@ -1,10 +1,12 @@
 'use client'
 
 import { useState } from 'react'
+
 import { ArticleGrid } from '@/components/content'
 import { ArticleFilters } from '@/components/content/ArticleFilters'
 import { Text } from '@/components/ui'
 import { Article } from '@/types'
+
 
 interface ArticlesPageClientProps {
   articles: Article[]
@@ -23,14 +25,14 @@ export default function ArticlesPageClient({ articles }: ArticlesPageClientProps
   return (
     <>
       {/* Filters and Search */}
-      <ArticleFilters 
+      <ArticleFilters
         articles={articles}
         onFilteredArticles={handleFilteredArticles}
       />
 
       {/* Articles Grid */}
       {filteredArticles.length > 0 ? (
-        <ArticleGrid 
+        <ArticleGrid
           articles={otherArticles}
           featuredArticle={featuredArticle}
         />

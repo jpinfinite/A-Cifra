@@ -12,13 +12,13 @@ interface SafeImageProps {
   fill?: boolean
 }
 
-export function SafeImage({ 
-  src, 
-  alt, 
-  className, 
-  width, 
-  height, 
-  fill = false 
+export function SafeImage({
+  src,
+  alt,
+  className,
+  width,
+  height,
+  fill = false
 }: SafeImageProps) {
   const [imageSrc, setImageSrc] = useState(src)
   const [isLoading, setIsLoading] = useState(true)
@@ -26,7 +26,7 @@ export function SafeImage({
 
   // Garantir que o src está correto
   const correctSrc = imageSrc.startsWith('/') ? imageSrc : `/${imageSrc}`
-  
+
   useEffect(() => {
     setImageSrc(src)
     setHasError(false)
@@ -54,6 +54,7 @@ export function SafeImage({
         {isLoading && (
           <div className="absolute inset-0 bg-gradient-to-br from-gray-100 to-gray-200 animate-pulse" />
         )}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={correctSrc}
           alt={alt}
@@ -73,11 +74,12 @@ export function SafeImage({
   return (
     <div className={cn('relative', className)}>
       {isLoading && (
-        <div 
+        <div
           className="bg-gradient-to-br from-gray-100 to-gray-200 animate-pulse"
           style={{ width, height }}
         />
       )}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         src={correctSrc}
         alt={alt}

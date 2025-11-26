@@ -1,7 +1,9 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+
 import { List } from 'lucide-react'
+
 
 interface Heading {
   id: string
@@ -22,23 +24,23 @@ export function TableOfContents({ content, className = '' }: TableOfContentsProp
     // Extrai headings do conteúdo
     const tempDiv = document.createElement('div')
     tempDiv.innerHTML = content
-    
+
     const headingElements = tempDiv.querySelectorAll('h2, h3')
     const extractedHeadings: Heading[] = []
-    
+
     headingElements.forEach((heading, index) => {
       const id = heading.id || `heading-${index}`
       if (!heading.id) {
         heading.id = id
       }
-      
+
       extractedHeadings.push({
         id,
         text: heading.textContent || '',
         level: parseInt(heading.tagName.substring(1)),
       })
     })
-    
+
     setHeadings(extractedHeadings)
 
     // Observer para destacar heading ativo
@@ -88,7 +90,7 @@ export function TableOfContents({ content, className = '' }: TableOfContentsProp
           Índice
         </h2>
       </div>
-      
+
       <ul className="space-y-2">
         {headings.map((heading) => (
           <li
@@ -97,11 +99,10 @@ export function TableOfContents({ content, className = '' }: TableOfContentsProp
           >
             <button
               onClick={() => handleClick(heading.id)}
-              className={`text-left w-full text-sm transition-colors hover:text-primary-600 dark:hover:text-primary-400 ${
-                activeId === heading.id
+              className={`text-left w-full text-sm transition-colors hover:text-primary-600 dark:hover:text-primary-400 ${activeId === heading.id
                   ? 'text-primary-600 dark:text-primary-400 font-medium'
                   : 'text-gray-600 dark:text-gray-400'
-              }`}
+                }`}
             >
               {heading.text}
             </button>

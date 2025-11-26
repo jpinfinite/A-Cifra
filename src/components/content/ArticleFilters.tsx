@@ -1,9 +1,12 @@
 'use client'
 
 import { useState, useMemo } from 'react'
+
 import { Search, X, Filter } from 'lucide-react'
+
 import { Article } from '@/types'
 import { categories } from '@/lib/config'
+
 
 interface ArticleFiltersProps {
   articles: Article[]
@@ -18,7 +21,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
 
   // Get unique years from articles
   const availableYears = useMemo(() => {
-    const years = articles.map(article => 
+    const years = articles.map(article =>
       article.publishedAt.getFullYear()
     )
     return Array.from(new Set(years)).sort((a, b) => b - a)
@@ -40,7 +43,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
 
     // Filter by category
     if (selectedCategory !== 'all') {
-      filtered = filtered.filter(article => 
+      filtered = filtered.filter(article =>
         article.category.slug === selectedCategory
       )
     }
@@ -125,7 +128,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
       </div>
 
       {/* Filters */}
-      <div 
+      <div
         id="filters-panel"
         className={`${showFilters ? 'block' : 'hidden'} lg:block`}
         role="region"
@@ -191,7 +194,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
 
       {/* Active Filters Tags */}
       {hasActiveFilters && (
-        <div 
+        <div
           className="flex flex-wrap gap-2 mt-4"
           role="status"
           aria-live="polite"

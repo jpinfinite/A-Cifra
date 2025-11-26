@@ -3,16 +3,19 @@
 import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+
 import { Menu, X, Search, ChevronDown } from 'lucide-react'
+
 import { Button, Logo, LanguageSwitcher } from '@/components/ui'
 import { cn } from '@/utils/cn'
 import { NavigationItem } from '@/types'
 
+
 // Navegação otimizada com novas categorias
 const navigation: NavigationItem[] = [
   { label: 'Início', href: '/' },
-  { 
-    label: 'Tokens', 
+  {
+    label: 'Tokens',
     href: '#',
     children: [
       { label: 'Bitcoin', href: '/categoria/bitcoin' },
@@ -41,7 +44,7 @@ export function Header() {
   // Otimização do scroll handler com throttle
   useEffect(() => {
     let timeoutId: NodeJS.Timeout
-    
+
     const handleScroll = () => {
       const scrollY = window.scrollY
       setIsScrolled(scrollY > 10)
@@ -132,7 +135,7 @@ export function Header() {
                 <svg className="w-4 h-4 text-brand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                <a 
+                <a
                   href="mailto:cifraaessenciacoin@gmail.com"
                   className="hover:text-brand-gold transition-colors duration-200"
                 >
@@ -150,8 +153,8 @@ export function Header() {
           <div className="flex h-16 items-center justify-between">
             {/* Logo */}
             <div className="flex-shrink-0">
-              <Link 
-                href="/" 
+              <Link
+                href="/"
                 className="flex items-center group"
                 aria-label="A Cifra - Página inicial"
               >
@@ -190,7 +193,7 @@ export function Header() {
                             openDropdown === item.label ? 'rotate-180' : ''
                           )} />
                         </button>
-                        
+
                         {/* Dropdown content */}
                         {openDropdown === item.label && (
                           <div className="absolute top-full left-0 mt-1 w-48 bg-white rounded-lg shadow-lg border border-gray-200 py-2 z-50 animate-fade-in">
@@ -281,7 +284,7 @@ export function Header() {
           {isSearchOpen && (
             <div className="py-4 border-t border-gray-100 animate-fade-in">
               <div className="max-w-2xl mx-auto">
-                <form 
+                <form
                   className="relative"
                   role="search"
                   onSubmit={(e) => e.preventDefault()}
@@ -345,7 +348,7 @@ export function Header() {
                         openDropdown === item.label ? 'rotate-180' : ''
                       )} />
                     </button>
-                    
+
                     {/* Mobile submenu */}
                     {openDropdown === item.label && (
                       <div className="mt-1 ml-4 space-y-1 animate-fade-in">
@@ -393,13 +396,13 @@ export function Header() {
                 )}
               </div>
             ))}
-            
+
             {/* Mobile Language Switcher and Search */}
             <div className="pt-4 border-t border-gray-100 space-y-2">
               <div className="md:hidden">
                 <LanguageSwitcher />
               </div>
-              
+
               <Button
                 variant="outline"
                 size="sm"

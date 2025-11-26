@@ -1,193 +1,92 @@
-# Scripts Utilitários - A Cifra
+# 🛠️ Scripts do A Cifra
 
-Este diretório contém scripts PowerShell para automatizar tarefas comuns do projeto A Cifra.
+Coleção completa de scripts utilitários para automação, validação e otimização do projeto A Cifra.
 
-## 📜 Scripts Disponíveis
+## 📋 Índice
 
-### 🆕 criar-novo-artigo.ps1
-Cria um novo artigo com estrutura padronizada.
+- [Scripts de Validação](#scripts-de-validação)
+- [Scripts de Otimização](#scripts-de-otimização)
+- [Scripts de Automação](#scripts-de-automação)
+- [Como Usar](#como-usar)
 
-```powershell
-# Criar artigo básico
-.\scripts\criar-novo-artigo.ps1 -Title "Bitcoin em 2026" -Category "bitcoin"
+---
 
-# Criar artigo completo
-.\scripts\criar-novo-artigo.ps1 -Title "DeFi para Iniciantes" -Category "defi" -Author "João Silva" -Tags @("defi", "iniciantes", "tutorial") -MonetizationPriority "high"
+## 🔍 Scripts de Validação
+
+### kiroArticleProcessor.js
+**Processador avançado de artigos com validação completa**
+
+```bash
+node scripts/kiroArticleProcessor.js content/articles/meu-artigo.md
 ```
 
-**Parâmetros:**
-- `-Title` (obrigatório): Título do artigo
-- `-Category` (obrigatório): Categoria (bitcoin, altcoins, defi, etc.)
-- `-Author`: Nome do autor (padrão: "Equipe A Cifra")
-- `-Tags`: Array de tags
-- `-MonetizationPriority`: high, medium ou low (padrão: medium)
+**Funcionalidades:**
+- ✅ Validação completa de frontmatter
+- ✅ Análise SEO profunda (títulos, meta descriptions, keywords)
+- ✅ Verificação de estrutura (H1, H2, H3)
+- ✅ Contagem de palavras (mínimo 1500)
+- ✅ Validação de links internos (3-5 por artigo)
+- ✅ Verificação de ExchangeAffiliateLinks
+- ✅ Checagem de FAQ e Disclaimer
+- ✅ Análise de imagens com alt text
+- ✅ Relatório detalhado com sugestões
 
-### ✅ validar-artigo.ps1
-Valida artigos verificando estrutura, SEO e conteúdo.
+---
 
-```powershell
-# Validar artigo específico
-.\scripts\validar-artigo.ps1 -ArticlePath "content/articles/bitcoin-2026.md"
+## 🎯 Scripts de Otimização
 
-# Validar todos os artigos
-.\scripts\validar-artigo.ps1 -All
+### auto-seo-checker.js
+**Verifica SEO de todos os artigos automaticamente**
+
+```bash
+node scripts/auto-seo-checker.js
 ```
 
-**Verificações:**
-- Frontmatter completo
-- Estrutura de headings
-- Tamanho do conteúdo
-- Links de afiliados
-- Meta tags SEO
-- Links internos
+**Funcionalidades:**
+- 📊 Análise em massa de todos os artigos
+- 📈 Taxa de aprovação geral
+- 🚨 Lista de artigos com erros críticos
+- ⚠️ Lista de artigos com avisos
 
-### 🖼️ otimizar-imagens.ps1
-Otimiza imagens para web com múltiplos formatos e tamanhos.
+---
 
-```powershell
-# Otimização básica
-.\scripts\otimizar-imagens.ps1
+### suggest-internal-links.js
+**Sugere links internos relevantes para artigos**
 
-# Otimização personalizada
-.\scripts\otimizar-imagens.ps1 -Quality 90 -Formats @("webp", "avif") -Sizes @(400, 800, 1200) -Backup
+```bash
+node scripts/suggest-internal-links.js content/articles/meu-artigo.md
 ```
 
-**Parâmetros:**
-- `-InputDir`: Diretório de entrada (padrão: public/images)
-- `-OutputDir`: Diretório de saída (padrão: public/images/optimized)
-- `-Quality`: Qualidade 1-100 (padrão: 85)
-- `-Formats`: Formatos de saída (padrão: webp, avif)
-- `-Sizes`: Tamanhos em pixels (padrão: 400, 800, 1200, 1920)
-- `-Backup`: Criar backup antes de otimizar
+**Funcionalidades:**
+- 🔗 Análise de keywords e categorias
+- 🎯 Score de relevância
+- 📝 Top 10 sugestões de links
+- 📋 Markdown pronto para copiar
 
-**Requisitos:** ImageMagick instalado
+---
 
-### 🔧 corrigir-portfolios-codigo.ps1
-Corrige portfólios formatados incorretamente como blocos de código.
+## 🚀 Como Usar
 
-```powershell
-.\scripts\corrigir-portfolios-codigo.ps1
+### Workflow Recomendado
+
+#### 1. Ao criar um novo artigo:
+
+```bash
+# 1. Validar o artigo
+node scripts/kiroArticleProcessor.js content/articles/novo-artigo.md
+
+# 2. Sugerir links internos
+node scripts/suggest-internal-links.js content/articles/novo-artigo.md
 ```
 
-Transforma:
-```text
-40% - Ethereum (ETH)
-25% - Solana (SOL)
-```
+#### 2. Auditoria semanal:
 
-Em:
-- **40%** - Ethereum (ETH)
-- **25%** - Solana (SOL)
-
-### 🚀 deploy.ps1
-Script de deploy com validações e testes.
-
-```powershell
-# Deploy para produção
-.\scripts\deploy.ps1
-
-# Deploy pulando testes
-.\scripts\deploy.ps1 -SkipTests
-
-# Deploy forçado (ignora validações)
-.\scripts\deploy.ps1 -Force
-```
-
-**Parâmetros:**
-- `-Environment`: development, staging ou production (padrão: production)
-- `-SkipTests`: Pula validações e testes
-- `-SkipBuild`: Pula o build
-- `-Force`: Ignora validações de branch e mudanças
-
-## 🛠️ Pré-requisitos
-
-### PowerShell
-Todos os scripts requerem PowerShell 5.1+ (Windows) ou PowerShell Core 6+ (multiplataforma).
-
-### Ferramentas Externas
-
-**ImageMagick** (para otimização de imagens):
-- Windows: https://imagemagick.org/script/download.php#windows
-- macOS: `brew install imagemagick`
-- Linux: `sudo apt-get install imagemagick`
-
-**Git** (para deploy):
-- Configurado com acesso ao repositório
-- Branch main para deploy de produção
-
-### Node.js
-- Node.js 18.20.8+
-- npm com dependências instaladas
-
-## 📋 Workflow Recomendado
-
-### Criando Novo Artigo
-1. Criar artigo: `.\scripts\criar-novo-artigo.ps1 -Title "Meu Artigo" -Category "bitcoin"`
-2. Editar conteúdo no arquivo gerado
-3. Adicionar imagem de capa
-4. Validar: `.\scripts\validar-artigo.ps1 -ArticlePath "content/articles/meu-artigo.md"`
-5. Fazer commit e push
-
-### Deploy
-1. Validar todos os artigos: `.\scripts\validar-artigo.ps1 -All`
-2. Fazer build local: `npm run build`
-3. Deploy: `.\scripts\deploy.ps1`
-
-### Otimização de Imagens
-1. Adicionar imagens em `public/images/categoria/YYYY-MM/`
-2. Otimizar: `.\scripts\otimizar-imagens.ps1 -Backup`
-3. Usar imagens otimizadas nos artigos
-
-## 🚨 Troubleshooting
-
-### Erro de Execução de Scripts
-Se receber erro de política de execução:
-```powershell
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
-
-### ImageMagick não encontrado
-Instale o ImageMagick e adicione ao PATH do sistema.
-
-### Erro de Git
-Verifique se está autenticado no GitHub e tem permissões no repositório.
-
-### Validação falhando
-Execute `npm run lint` para ver erros específicos de código.
-
-## 📚 Exemplos Completos
-
-### Criar artigo sobre Solana
-```powershell
-.\scripts\criar-novo-artigo.ps1 `
-  -Title "Solana: Análise Completa 2026" `
-  -Category "altcoins" `
-  -Author "João Silva" `
-  -Tags @("solana", "altcoins", "análise", "2026") `
-  -MonetizationPriority "high"
-```
-
-### Validar e fazer deploy
-```powershell
-# Validar tudo
-.\scripts\validar-artigo.ps1 -All
-
-# Se passou, fazer deploy
-if ($LASTEXITCODE -eq 0) {
-    .\scripts\deploy.ps1
-}
-```
-
-### Otimizar imagens com backup
-```powershell
-.\scripts\otimizar-imagens.ps1 `
-  -Quality 90 `
-  -Formats @("webp", "avif", "jpeg") `
-  -Sizes @(400, 800, 1200, 1920) `
-  -Backup
+```bash
+# Verificar SEO de todos os artigos
+node scripts/auto-seo-checker.js
 ```
 
 ---
 
-**Última atualização:** 23 de novembro de 2025  
+**Última atualização:** 26 de novembro de 2025
 **Mantido por:** Equipe A Cifra

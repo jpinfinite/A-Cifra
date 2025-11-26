@@ -1,11 +1,14 @@
 import Link from 'next/link'
 import Image from 'next/image'
+
 import { Calendar, Clock, User, Tag } from 'lucide-react'
+
 import { Card, CardContent, Text, Heading } from '@/components/ui'
 import { Article } from '@/types'
 import { cn } from '@/utils/cn'
 import { generateImageSizes } from '@/utils/image'
 import { findBestImage } from '@/utils/imageMapper'
+
 
 interface FeaturedArticleCardProps {
   article: Article

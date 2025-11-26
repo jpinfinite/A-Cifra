@@ -1,8 +1,10 @@
+import Link from 'next/link'
+import { Metadata } from 'next'
+
 import { MainLayout } from '@/components/layout'
 import { Container, Heading, Text } from '@/components/ui'
 import { categories } from '@/lib/config'
-import Link from 'next/link'
-import { Metadata } from 'next'
+
 
 export const metadata: Metadata = {
   title: 'Categorias - Explore Tópicos sobre Criptomoedas',

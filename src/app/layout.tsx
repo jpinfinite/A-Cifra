@@ -1,9 +1,12 @@
 import type { Metadata } from 'next'
 import Script from 'next/script'
 import { Inter, Poppins } from 'next/font/google'
+
+import '@/styles/globals.css'
+
 import { StructuredData } from '@/components/ui/StructuredData'
 import { generateWebsiteStructuredData } from '@/utils/seo'
-import '@/styles/globals.css'
+
 
 // Otimização de fontes com estratégia de preload e display swap
 const inter = Inter({

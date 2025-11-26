@@ -1,8 +1,11 @@
 'use client'
 
-import { Facebook, Twitter, Linkedin, Link as LinkIcon, MessageCircle } from 'lucide-react'
-import { Button } from './Button'
 import { useState } from 'react'
+
+import { Facebook, Twitter, Linkedin, Link as LinkIcon, MessageCircle } from 'lucide-react'
+
+import { Button } from './Button'
+
 
 interface ShareButtonsProps {
   url: string
@@ -34,7 +37,7 @@ export function ShareButtons({ url, title }: ShareButtonsProps) {
   return (
     <div className="flex items-center gap-2 flex-wrap">
       <span className="text-sm font-medium text-gray-700 mr-2">Compartilhar:</span>
-      
+
       <Button
         variant="ghost"
         size="sm"

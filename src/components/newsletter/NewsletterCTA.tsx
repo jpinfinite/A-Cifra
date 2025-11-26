@@ -1,7 +1,9 @@
 'use client'
 
 import { useState } from 'react'
+
 import { Mail, CheckCircle, AlertCircle } from 'lucide-react'
+
 
 interface NewsletterCTAProps {
   variant?: 'inline' | 'sidebar' | 'footer'
@@ -20,7 +22,7 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
     try {
       const response = await fetch('/api/newsletter/subscribe', {
         method: 'POST',
-        headers: { 
+        headers: {
           'Content-Type': 'application/json',
           'Accept': 'application/json'
         },
@@ -33,7 +35,7 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
         setStatus('success')
         setMessage(data.message || 'Inscrição realizada com sucesso!')
         setEmail('')
-        
+
         // Analytics
         if (typeof window !== 'undefined' && 'gtag' in window) {
           const gtag = (window as { gtag?: (...args: unknown[]) => void }).gtag;
@@ -89,7 +91,7 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
           disabled={status === 'loading' || status === 'success'}
           className="w-full px-4 py-3 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 border border-gray-300 dark:border-gray-600 focus:ring-2 focus:ring-primary-500 focus:border-transparent disabled:opacity-50"
         />
-        
+
         <button
           type="submit"
           disabled={status === 'loading' || status === 'success'}
@@ -100,9 +102,8 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
       </form>
 
       {message && (
-        <div className={`mt-3 flex items-center space-x-2 text-sm ${
-          status === 'success' ? 'text-green-300' : 'text-red-300'
-        }`}>
+        <div className={`mt-3 flex items-center space-x-2 text-sm ${status === 'success' ? 'text-green-300' : 'text-red-300'
+          }`}>
           {status === 'success' ? (
             <CheckCircle className="w-4 h-4" />
           ) : (

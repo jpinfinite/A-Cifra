@@ -17,6 +17,17 @@
     "newsletter": "node scripts/send-newsletter.js",
     "verificar-anuncios": "node scripts/verificar-anuncios.js",
     "lazy-adsense": "node scripts/lazy-load-adsense.js",
+    "validate-article": "node scripts/kiroArticleProcessor.js",
+    "validate-all": "node scripts/validate-articles.js",
+    "validate-images": "node scripts/validate-images.js",
+    "seo-check": "node scripts/seo-optimizer.js",
+    "seo-audit": "node scripts/auto-seo-checker.js",
+    "suggest-links": "node scripts/suggest-internal-links.js",
+    "analyze-performance": "node scripts/analyze-performance.js",
+    "optimize-all-images": "node scripts/optimize-all-images.js",
+    "fix-imports": "node scripts/fix-imports.js",
+    "quality-check": "npm run validate-images && npm run validate-all && npm run fix-imports && npm run lint",
+    "pre-commit": "npm run validate-images && npm run lint",
     "prepare": "npm run lint"
   },
   "dependencies": {

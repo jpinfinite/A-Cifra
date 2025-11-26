@@ -1,16 +1,18 @@
 import { notFound } from 'next/navigation'
+
 import { MainLayout } from '@/components/layout'
 import { ArticleLayout } from '@/components/content'
 import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
 import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
 import { NewsletterCTA } from '@/components/newsletter'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
-// Anúncios agora são gerenciados dentro do ArticleContent
 import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata } from '@/utils/seo'
 import { getRelatedArticles } from '@/utils/relatedArticles'
 import { calculateReadingTime } from '@/utils/readingTime'
+
+// Anúncios agora são gerenciados dentro do ArticleContent
 interface ArticlePageProps {
   params: {
     slug: string

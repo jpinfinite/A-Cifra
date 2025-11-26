@@ -1,10 +1,13 @@
 import Link from 'next/link'
+
 import { Calendar, Clock, User, Tag } from 'lucide-react'
+
 import { Card, CardContent, Text, Heading } from '@/components/ui'
 import { ResponsiveImage } from '@/components/ui/ResponsiveImage'
 import { Article } from '@/types'
 import { cn } from '@/utils/cn'
 import { findBestImage } from '@/utils/imageMapper'
+
 
 interface ArticleCardProps {
   article: Article

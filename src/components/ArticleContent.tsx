@@ -1,13 +1,15 @@
 'use client'
 
+import { useMemo } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
+
 import { Article } from '@/types'
-import { useMemo } from 'react'
 import { addInlineLinks } from '@/utils/relatedArticles'
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
 import { AdSenseInArticle, AdSenseInArticle2, AdSenseMultiplex } from '@/components/ads'
+
 
 interface ArticleContentProps {
   content: string
@@ -18,15 +20,15 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
   // Processa o conteúdo e divide em partes
   const { firstPart, middlePart, lastPart } = useMemo(() => {
     let processedContent = content
-    
+
     if (relatedArticles.length > 0) {
       processedContent = addInlineLinks(processedContent, relatedArticles)
     }
-    
+
     // Divide o conteúdo em 3 partes para inserir anúncios
     const sections = processedContent.split('##')
     const totalSections = sections.length
-    
+
     if (totalSections <= 3) {
       // Conteúdo curto - apenas 1 anúncio no meio
       return {
@@ -35,11 +37,11 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
         lastPart: ''
       }
     }
-    
+
     // Conteúdo longo - 2 anúncios (40% e 80% do conteúdo)
     const firstBreak = Math.floor(totalSections * 0.4)
     const secondBreak = Math.floor(totalSections * 0.8)
-    
+
     return {
       firstPart: sections.slice(0, firstBreak).join('##'),
       middlePart: sections.slice(firstBreak, secondBreak).join('##'),
@@ -51,9 +53,9 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
     <div className="prose prose-xl max-w-none article-content" suppressHydrationWarning>
       {/* Primeira parte do conteúdo */}
       <ReactMarkdown
-            remarkPlugins={[remarkGfm]}
-            rehypePlugins={[rehypeRaw]}
-            components={{
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]}
+        components={{
           // Custom components for better styling and readability
           h1: ({ children }) => (
             <h1 className="text-5xl md:text-6xl font-extrabold mt-12 mb-6 leading-tight text-gray-900 tracking-tight">
@@ -193,14 +195,14 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
               {children}
             </td>
           ),
-            }}
-          >
-            {firstPart}
-          </ReactMarkdown>
-      
+        }}
+      >
+        {firstPart}
+      </ReactMarkdown>
+
       {/* Anúncio In-Article 1 - Após 40% do conteúdo (RPM $8-12) */}
       <AdSenseInArticle />
-      
+
       {/* Parte do meio */}
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
@@ -221,13 +223,13 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       >
         {middlePart}
       </ReactMarkdown>
-      
+
       {/* Links de Afiliados */}
       <ExchangeAffiliateLinks />
-      
+
       {/* Anúncio In-Article 2 - Após 80% do conteúdo (RPM $8-12) */}
       {lastPart && <AdSenseInArticle2 />}
-      
+
       {/* Última parte */}
       {lastPart && (
         <ReactMarkdown
@@ -237,51 +239,51 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
           {lastPart}
         </ReactMarkdown>
       )}
-      
+
       {/* Anúncio Multiplex - Final do artigo (RPM $4-6) */}
       <AdSenseMultiplex />
-      
+
       <style jsx global>{`
         .article-content {
           font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
           line-height: 1.8;
           color: #1f2937;
         }
-        
+
         .article-content p {
           margin-bottom: 1.5rem;
           font-size: 1.125rem;
           line-height: 1.8;
         }
-        
+
         .article-content strong {
           font-weight: 700;
           color: #111827;
         }
-        
+
         .article-content a {
           transition: all 0.2s ease;
         }
-        
+
         .article-content a:hover {
           transform: translateY(-1px);
         }
-        
+
         .article-content ul li::marker {
           color: #155C8B;
           font-weight: bold;
         }
-        
+
         .article-content ol li::marker {
           color: #155C8B;
           font-weight: bold;
         }
-        
+
         .article-content ol li,
         .article-content ul li {
           background: transparent !important;
         }
-        
+
         .article-content ol li code,
         .article-content ul li code {
           background: #dbeafe !important;

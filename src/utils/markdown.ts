@@ -1,10 +1,13 @@
+
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import { remark } from 'remark'
 import html from 'remark-html'
+
 import type { Article } from '@/types'
 import { categories } from '@/lib/config'
+
 
 const articlesDirectory = path.join(process.cwd(), 'artigos')
 
