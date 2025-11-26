@@ -1,0 +1,199 @@
+Insights
+Melhorar a entrega de imagens Economia estimada de 676 KiB
+Reduzir o tempo de download das imagens pode melhorar o tempo de carregamento percebido da página e a LCP. Saiba mais sobre como otimizar o tamanho da imagemLCPFCPFora da pontuação
+URL
+Tamanho do recurso
+Economia estimada
+a-cifra.com.br Própria
+719,4 KiB	675,7 KiB
+Rede descentralizada de GPUs da Aethir para computação em nuvem
+<img alt="Rede descentralizada de GPUs da Aethir para computação em nuvem" fetchpriority="high" decoding="async" data-nimg="fill" class="object-cover transition-transform duration-700 group-hover:scale-110 group…" src="/images/aethir-gpu-depin-infrastructure.jpg" style="position: absolute; height: 100%; width: 100%; inset: 0px;">
+/images/aethir-gpu-depin-infrastructure.jpg(a-cifra.com.br)
+714,9 KiB
+671,5 KiB
+Usar um formato de imagem moderno (WebP, AVIF) ou aumentar a compactação da imagem pode aprimorar o tamanho do download da imagem.
+407,8 KiB
+Este arquivo de imagem é maior do que precisa ser (1474x1280) para as dimensões exibidas (633x422). Use imagens responsivas para reduzir o tamanho do download da imagem.
+613,8 KiB
+A Cifra - Logo
+<img alt="A Cifra - Logo" loading="lazy" width="150" height="50" decoding="async" data-nimg="1" class="w-auto object-contain h-12" src="/images/logos/cifra-positivo.png" style="color: transparent;">
+…logos/cifra-positivo.png(a-cifra.com.br)
+4,5 KiB
+4,3 KiB
+Este arquivo de imagem é maior do que precisa ser (600x208) para as dimensões exibidas (138x48). Use imagens responsivas para reduzir o tamanho do download da imagem.
+4,3 KiB
+Use ciclos de vida eficientes de cache Economia estimada de 157 KiB
+Um cache com ciclo de vida longo pode acelerar visitas repetidas à sua página. Saiba mais.LCPFCPFora da pontuação
+Solicitação
+Cache TTL
+Tamanho da transferência
+Google/Doubleclick Ads ad 
+248 KiB
+…js/lidar.js?fcd=true(pagead2.googlesyndication.com)
+1 h
+81 KiB
+…m202…/show_ads_impl_fy2021.js?bust=95377246(pagead2.googlesyndication.com)
+14 dias
+167 KiB
+Other Google APIs/SDKs utility 
+84 KiB
+…v1/swg-basic.js(news.google.com)
+50 min
+77 KiB
+…v1/swg-button.css(news.google.com)
+50 min
+6 KiB
+…v1/swg-mini-prompt.css(news.google.com)
+50 min
+2 KiB
+Cloudflare utility 
+14 KiB
+/beacon.min.js(static.cloudflareinsights.com)
+1 dia
+7 KiB
+/beacon.min.js/vcd15cbe…(static.cloudflareinsights.com)
+1 dia
+7 KiB
+a-cifra.com.br Própria
+1 KiB
+…cloudflare-static/email-decode.min.js(a-cifra.com.br)
+47 min 49 s
+1 KiB
+Renderizar solicitações de bloqueio Economia estimada de 110 ms
+As solicitações estão bloqueando a renderização inicial da página, o que pode atrasar a LCP. Essas solicitações de rede podem ser deferidas ou colocadas inline para que fiquem fora do caminho crítico.LCPFCPFora da pontuação
+URL
+Tamanho da transferência
+Duração
+a-cifra.com.br Própria
+14,5 KiB	150 ms
+…css/47b7640844e6e603.css(a-cifra.com.br)
+1,8 KiB
+…css/44960e34b8cfc685.css(a-cifra.com.br)
+12,7 KiB
+150 ms
+JavaScript legado Economia estimada de 12 KiB
+Polyfills e transformações permitem que navegadores mais antigos usem novos recursos do JavaScript. No entanto, muitos não são necessários para navegadores mais recentes. Considere mudar seu processo de criação do JavaScript para não transpilar os recursos de referência, a menos que você precise da compatibilidade com navegadores mais antigos. Entenda por que a maioria dos sites pode implantar código ES6+ sem transpilaçãoLCPFCPFora da pontuação
+URL
+Bytes desperdiçados
+a-cifra.com.br Própria
+11,8 KiB
+…chunks/vendor-c7ec484d18d69851.js(a-cifra.com.br)
+11,8 KiB
+…chunks/vendor-c7ec484d18d69851.js:1:1271(a-cifra.com.br)
+Array.prototype.at
+…chunks/vendor-c7ec484d18d69851.js:1:659(a-cifra.com.br)
+Array.prototype.flat
+…chunks/vendor-c7ec484d18d69851.js:1:772(a-cifra.com.br)
+Array.prototype.flatMap
+…chunks/vendor-c7ec484d18d69851.js:1:1148(a-cifra.com.br)
+Object.fromEntries
+…chunks/vendor-c7ec484d18d69851.js:1:1406(a-cifra.com.br)
+Object.hasOwn
+…chunks/vendor-c7ec484d18d69851.js:1:401(a-cifra.com.br)
+String.prototype.trimEnd
+…chunks/vendor-c7ec484d18d69851.js:1:316(a-cifra.com.br)
+String.prototype.trimStart
+Reflow forçado
+Um reflow forçado ocorre quando o JavaScript consulta propriedades geométricas (como offsetWidth) depois que os estilos são invalidados por uma mudança no estado do DOM. Isso pode resultar em desempenho ruim. Saiba mais sobre reflows forçados e possíveis reduções de risco.Fora da pontuação
+Fonte
+Tempo total de reflow
+[sem atribuição]
+66 ms
+Árvore de dependência da rede
+Evite encadear solicitações críticas reduzindo o tamanho das cadeias, o tamanho do download de recursos ou adiando o download de recursos desnecessários para melhorar o carregamento da página.LCPFora da pontuação
+Latência máxima do caminho crítico: 562 ms
+Navegação inicial
+https://a-cifra.com.br - 341 ms, 40,82 KiB
+…css/47b7640844e6e603.css(a-cifra.com.br) - 562 ms, 1,80 KiB
+…css/44960e34b8cfc685.css(a-cifra.com.br) - 351 ms, 12,65 KiB
+…cloudflare-static/email-decode.min.js(a-cifra.com.br) - 363 ms, 1,23 KiB
+Origens pré-conectadas
+As dicas de pré-conexão ajudam o navegador a estabelecer uma conexão mais cedo durante o carregamento da página, poupando tempo quando a primeira solicitação para essa origem é feita. A página fez a pré-conexão com as seguintes origens:
+Origem
+Fonte
+https://fonts.googleapis.com
+<https://fonts.googleapis.com>; rel=preconnect; crossorigin
+Pré-conexão não usada. Use preconnect apenas para origens que a página provavelmente vai solicitar.
+https://fonts.gstatic.com
+<https://fonts.gstatic.com>; rel=preconnect; crossorigin
+Pré-conexão não usada. Use preconnect apenas para origens que a página provavelmente vai solicitar.
+https://www.googletagmanager.com
+<https://www.googletagmanager.com>; rel=preconnect
+https://pagead2.googlesyndication.com
+<https://pagead2.googlesyndication.com>; rel=preconnect
+Candidatos à pré-conexão
+Adicione dicas de pré-conexão às suas origens mais importantes, mas tente não usar mais que 4.
+Origem
+Economia estimada de LCP
+https://news.google.com
+80 ms
+
+
+Diagnóstico
+Reduza o JavaScript não usado Economia estimada de 542 KiB
+Reduza o CSS não usado Economia estimada de 24 KiB
+Para diminuir o consumo de bytes da atividade da rede, reduza as regras não usadas nas folhas de estilo e adie o CSS não usado para conteúdo acima da dobra. Aprenda a reduzir o CSS não usado.LCPFCPFora da pontuação
+URL
+Tamanho da transferência
+Economia estimada
+html,body{height:100%;overflow:hidden} …
+16,2 KiB
+12,2 KiB
+@keyframes mdc-ripple-fg-radius-in{from{animation-timing-function:cubic-bezier(.4,0,.2,1); … } …
+11,7 KiB
+11,7 KiB
+
+
+ARIA
+Os elementos button, link e menuitem não têm nomes acessíveis.
+Quando um elemento não tem um nome acessível, os leitores de tela o anunciam com um nome genérico, fazendo com que os usuários que dependem desses leitores não possam usá-lo. Aprenda a tornar os elementos de comando mais acessíveis.
+Elementos com falha
+body.min-h-screen > swg-popup-background
+<swg-popup-background role="button" style="z-index: 2147483646 !important; display: block !important;">
+
+
+Geral
+Utiliza APIs obsoletas 1 aviso encontrado
+Erros do navegador foram registrados no console
+Erros registrados no console indicam problemas não resolvidos. Eles podem ocorrer devido a falhas de solicitação de rede e outras questões relacionadas ao navegador. Saiba mais sobre esses erros na auditoria de diagnóstico do console.
+Fonte
+Descrição
+a-cifra.com.br Própria
+…chunks/vendor-c7ec484d18d69851.js:2:69516(a-cifra.com.br)
+Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at t8 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:69517) at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:165382) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135935 at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135942 at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136047) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…chunks/vendor-c7ec484d18d69851.js:2:69516(a-cifra.com.br)
+Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at t8 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:69517) at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:165458) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135935 at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135942 at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136047) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…chunks/vendor-c7ec484d18d69851.js:2:69516(a-cifra.com.br)
+Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at t8 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:69517) at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:165458) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135935 at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135942 at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136047) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…chunks/vendor-c7ec484d18d69851.js:2:69516(a-cifra.com.br)
+Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at t8 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:69517) at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:165458) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135935 at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135942 at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136047) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…chunks/vendor-c7ec484d18d69851.js:2:69516(a-cifra.com.br)
+Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at t8 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:69517) at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:165458) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135935 at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135942 at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136047) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…chunks/vendor-c7ec484d18d69851.js:2:69516(a-cifra.com.br)
+Error: Minified React error #418; visit https://react.dev/errors/418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at t8 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:69517) at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:165458) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135935 at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:135942 at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136047) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…chunks/vendor-c7ec484d18d69851.js:2:163195(a-cifra.com.br)
+Error: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. at lZ (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:163196) at li (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:140009) at https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:139831 at lo (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:139838) at i1 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:137194) at i0 (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:2:136613) at MessagePort.O (https://a-cifra.com.br/_next/static/chunks/vendor-c7ec484d18d69851.js:1:234715)
+…logos/cabecalho.png:1:0(a-cifra.com.br)
+Failed to load resource: the server responded with a status of 404 (Not Found)
+…logos/cabecalho.png:1:0(a-cifra.com.br)
+Failed to load resource: the server responded with a status of 404 (Not Found)
+Google/Doubleclick Ads ad 
+…js/adsbygoogle.js?client=ca-pub-115…:183:144(pagead2.googlesyndication.com)
+TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page. at Zo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:183:145) at hr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:220:444) at jr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:221:177) at vr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:236:194) at kr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:233:213) at g.client (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:222:47) at sk.g (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:89:560) at zk (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:90:682) at fr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:222:35) at er (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841:219:126)
+Os problemas foram registrados no painel Issues do Chrome Devtools
+Os problemas registrados no painel Issues do Chrome Devtools indicam problemas não resolvidos. Eles podem ser causados por falhas de solicitações da rede, controles de segurança insuficientes e outros problemas do navegador. Abra o painel "Issues" do Chrome DevTools para ver mais detalhes sobre cada problema.
+Tipo de problema
+Cookie
+…v1/serviceiframe?_=…(news.google.com)
+Mapas de origem ausentes no JavaScript principal grande
+Os mapas de origem traduzem códigos minificados para o código-fonte original. Isso ajuda os desenvolvedores na depuração durante a produção. Além disso, o Lighthouse pode fornecer mais insights. Implante mapas de origem para usar esses benefícios. Saiba mais sobre os mapas de origem.Fora da pontuação
+URL
+URL do mapa
+a-cifra.com.br Própria
+…chunks/vendor-c7ec484d18d69851.js(a-cifra.com.br)
+Mapa de origem ausente do arquivo JavaScript grande
+Google/Doubleclick Ads ad 
+/bg/_sfiGRWlc….js(pagead2.googlesyndication.com)
+Other Google APIs/SDKs utility 
+…v1/swg-basic.js(news.google.com)
+…v1/swg-basic.js.map(news.google.com)

@@ -84,15 +84,14 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="pt-BR" className={`${inter.variable} ${poppins.variable} scroll-smooth`}>
+    <html lang="pt-BR" className={`${inter.variable} ${poppins.variable} scroll-smooth`} suppressHydrationWarning>
       <head>
-        {/* Preconnect para performance */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* Preconnect para performance - Recursos críticos */}
+        <link rel="preconnect" href="https://news.google.com" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
         
         {/* DNS Prefetch para recursos externos */}
-        <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
         
         {/* Favicon e icons */}
@@ -131,24 +130,13 @@ export default function RootLayout({
 
         
       </head>
-      <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white">
-        {/* Google AdSense - Anúncios Automáticos */}
+      <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white" suppressHydrationWarning>
+        {/* Google AdSense - Script principal com auto ads habilitado */}
         <Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841"
           strategy="afterInteractive"
           crossOrigin="anonymous"
         />
-        
-        {/* Auto Ads - Anúncio Âncora Mobile (RPM $10-15) */}
-        <Script id="adsense-auto-ads" strategy="afterInteractive">
-          {`
-            (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-1151448515464841",
-              enable_page_level_ads: true,
-              overlays: {bottom: true}
-            });
-          `}
-        </Script>
 
         {/* Google Reader Revenue Manager - Assinaturas */}
         <Script
