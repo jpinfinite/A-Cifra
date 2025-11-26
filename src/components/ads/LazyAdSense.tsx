@@ -59,8 +59,8 @@ export function LazyAdSense({
           ;(window.adsbygoogle = window.adsbygoogle || []).push({})
           setAdLoaded(true)
         }
-      } catch (error) {
-        console.error('Erro ao inicializar AdSense:', error)
+      } catch {
+        // AdSense error handled silently
       }
     }
 

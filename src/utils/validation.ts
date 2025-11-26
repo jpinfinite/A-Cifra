@@ -1,6 +1,28 @@
 import { ValidationResult, ArticleValidation, Article } from '@/types'
 
-export function validateFrontmatter(frontmatter: any): ValidationResult {
+interface FrontmatterData {
+  id?: string
+  title?: string
+  slug?: string
+  excerpt?: string
+  coverImage?: {
+    src?: string
+    alt?: string
+  }
+  author?: {
+    name?: string
+  }
+  publishedAt?: string | Date
+  categorySlug?: string
+  tags?: string[]
+  seo?: {
+    metaTitle?: string
+    metaDescription?: string
+  }
+  [key: string]: unknown
+}
+
+export function validateFrontmatter(frontmatter: FrontmatterData | Article): ValidationResult {
   const errors: string[] = []
   const warnings: string[] = []
 
@@ -10,7 +32,12 @@ export function validateFrontmatter(frontmatter: any): ValidationResult {
   if (!frontmatter.slug) errors.push('Campo "slug" é obrigatório')
   if (!frontmatter.excerpt) errors.push('Campo "excerpt" é obrigatório')
   if (!frontmatter.publishedAt) errors.push('Campo "publishedAt" é obrigatório')
-  if (!frontmatter.category && !frontmatter.categorySlug) errors.push('Campo "category" ou "categorySlug" é obrigatório')
+  
+  // Verifica category ou categorySlug dependendo do tipo
+  const hasCategory = 'category' in frontmatter 
+    ? !!frontmatter.category 
+    : 'categorySlug' in frontmatter && !!frontmatter.categorySlug
+  if (!hasCategory) errors.push('Campo "category" ou "categorySlug" é obrigatório')
 
   // Validações de formato
   if (frontmatter.excerpt && typeof frontmatter.excerpt === 'string' && frontmatter.excerpt.length > 160) {

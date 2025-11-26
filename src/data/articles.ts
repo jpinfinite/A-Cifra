@@ -54,7 +54,9 @@ export async function getAllArticles(): Promise<Article[]> {
     const allArticles = [...fileArticles, ...configArticles]
     return sortArticlesByDate(allArticles)
   } catch (error) {
-    console.error('Error loading all articles:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Error loading all articles:', error)
+    }
     return sortArticlesByDate(inMemoryArticles)
   }
 }
@@ -71,7 +73,9 @@ export async function getArticleBySlug(slug: string): Promise<Article | undefine
     // Fallback para artigos em memória
     return inMemoryArticles.find(article => article.slug === slug)
   } catch (error) {
-    console.error(`Error loading article by slug ${slug}:`, error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error(`Error loading article by slug ${slug}:`, error)
+    }
     return inMemoryArticles.find(article => article.slug === slug)
   }
 }
@@ -86,7 +90,9 @@ export async function getArticlesByCategory(categorySlug: string): Promise<Artic
       .filter(article => article.category.slug === categorySlug)
       .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
   } catch (error) {
-    console.error(`Error loading articles by category ${categorySlug}:`, error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error(`Error loading articles by category ${categorySlug}:`, error)
+    }
     return []
   }
 }
@@ -99,7 +105,9 @@ export async function getFeaturedArticle(): Promise<Article | undefined> {
     const allArticles = await getAllArticles()
     return allArticles[0]
   } catch (error) {
-    console.error('Error loading featured article:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Error loading featured article:', error)
+    }
     return inMemoryArticles[0]
   }
 }
@@ -112,7 +120,9 @@ export async function getRecentArticles(limit: number = 6): Promise<Article[]> {
     const allArticles = await getAllArticles()
     return allArticles.slice(0, limit)
   } catch (error) {
-    console.error('Error loading recent articles:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Error loading recent articles:', error)
+    }
     return sortArticlesByDate(inMemoryArticles).slice(0, limit)
   }
 }

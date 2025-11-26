@@ -34,7 +34,9 @@ export function SafeImage({
   }, [src])
 
   const handleError = () => {
-    console.warn(`Erro ao carregar imagem: ${src}`)
+    if (process.env.NODE_ENV === 'development') {
+      console.warn(`Erro ao carregar imagem: ${src}`)
+    }
     setHasError(true)
     setIsLoading(false)
     // Fallback para uma imagem padrão

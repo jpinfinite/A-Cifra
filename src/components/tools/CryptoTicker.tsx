@@ -28,7 +28,9 @@ export function CryptoTicker() {
         setLoading(false)
         setError(false)
       } catch (err) {
-        console.error('Error fetching crypto prices:', err)
+        if (process.env.NODE_ENV === 'development') {
+          console.error('Error fetching crypto prices:', err)
+        }
         setError(true)
         setLoading(false)
       }

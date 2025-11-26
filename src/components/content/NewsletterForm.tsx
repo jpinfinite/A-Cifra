@@ -25,7 +25,7 @@ export default function NewsletterForm() {
             const controller = new AbortController();
             const timeoutId = setTimeout(() => controller.abort(), 15000);
 
-            console.log('📤 Enviando newsletter request:', { email: email.trim().toLowerCase() });
+            // Request enviado
 
             const response = await fetch('/api/newsletter/subscribe', {
                 method: 'POST',
@@ -39,12 +39,6 @@ export default function NewsletterForm() {
 
             clearTimeout(timeoutId);
 
-            console.log('📥 Newsletter response:', { 
-                status: response.status, 
-                ok: response.ok,
-                headers: Object.fromEntries(response.headers.entries())
-            });
-
             // Verificar se a resposta é JSON válido
             const contentType = response.headers.get('content-type');
             if (!contentType || !contentType.includes('application/json')) {
@@ -52,7 +46,6 @@ export default function NewsletterForm() {
             }
 
             const data = await response.json();
-            console.log('📊 Newsletter data:', data);
 
             if (response.ok && data.success) {
                 setStatus('success');
@@ -60,29 +53,37 @@ export default function NewsletterForm() {
                 setEmail('');
                 
                 // Analytics
-                if (typeof window !== 'undefined' && (window as any).gtag) {
-                    (window as any).gtag('event', 'newsletter_signup', {
-                        event_category: 'engagement',
-                        event_label: 'newsletter'
-                    });
+                if (typeof window !== 'undefined' && 'gtag' in window) {
+                    const gtag = (window as { gtag?: (...args: unknown[]) => void }).gtag;
+                    if (gtag) {
+                        gtag('event', 'newsletter_signup', {
+                            event_category: 'engagement',
+                            event_label: 'newsletter'
+                        });
+                    }
                 }
             } else {
                 setStatus('error');
                 setMessage(data.error || 'Erro ao processar inscrição. Tente novamente.');
             }
-        } catch (error: any) {
-            console.error('Newsletter error:', error);
+        } catch (error: unknown) {
             setStatus('error');
             
             // Tratamento específico de erros
-            if (error.name === 'AbortError') {
-                setMessage('Tempo limite excedido. Verifique sua conexão e tente novamente.');
-            } else if (error.message.includes('Failed to fetch')) {
-                setMessage('Erro de conexão. Verifique sua internet e tente novamente.');
-            } else if (error.message.includes('JSON') || error instanceof SyntaxError) {
+            if (error instanceof Error) {
+                if (error.name === 'AbortError') {
+                    setMessage('Tempo limite excedido. Verifique sua conexão e tente novamente.');
+                } else if (error.message.includes('Failed to fetch')) {
+                    setMessage('Erro de conexão. Verifique sua internet e tente novamente.');
+                } else if (error.message.includes('JSON')) {
+                    setMessage('Erro no servidor. A API pode estar indisponível. Tente novamente em alguns minutos.');
+                } else if (error.message.includes('404')) {
+                    setMessage('Serviço temporariamente indisponível. Tente novamente em alguns minutos.');
+                } else {
+                    setMessage('Erro inesperado. Tente novamente ou entre em contato conosco.');
+                }
+            } else if (error instanceof SyntaxError) {
                 setMessage('Erro no servidor. A API pode estar indisponível. Tente novamente em alguns minutos.');
-            } else if (error.message.includes('404')) {
-                setMessage('Serviço temporariamente indisponível. Tente novamente em alguns minutos.');
             } else {
                 setMessage('Erro inesperado. Tente novamente ou entre em contato conosco.');
             }

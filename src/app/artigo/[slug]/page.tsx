@@ -83,11 +83,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <Breadcrumbs items={breadcrumbItems} className="mb-6" />
         
         {/* Language Toggle */}
-        {(article as any).alternateLanguages?.en && (
+        {'alternateLanguages' in article && article.alternateLanguages && 'en' in article.alternateLanguages && (
           <div className="mb-6">
             <LanguageToggle 
               currentLang="pt-BR"
-              alternateSlug={(article as any).alternateLanguages.en}
+              alternateSlug={article.alternateLanguages.en as string}
             />
           </div>
         )}

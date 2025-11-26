@@ -26,8 +26,8 @@ export function AdSense({
           (window as Window & { adsbygoogle?: unknown[] }).adsbygoogle || [];
         ((window as Window & { adsbygoogle?: unknown[] }).adsbygoogle as unknown[]).push({})
       }
-    } catch (error) {
-      console.error('AdSense error:', error)
+    } catch {
+      // AdSense error handled silently
     }
   }, [])
 

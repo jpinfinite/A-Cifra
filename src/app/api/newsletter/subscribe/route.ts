@@ -1,7 +1,24 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { logger } from '@/utils/logger';
 
 // Simulação de banco de dados em memória (para desenvolvimento)
 const subscribers = new Set<string>();
+
+interface BrevoContactData {
+  email: string;
+  updateEnabled: boolean;
+  attributes: {
+    ORIGEM: string;
+    DATA_INSCRICAO: string;
+    SITE: string;
+  };
+  listIds?: number[];
+}
+
+interface BrevoErrorResponse {
+  code?: string;
+  message?: string;
+}
 
 export async function POST(request: NextRequest) {
   // Headers CORS para evitar problemas
@@ -19,7 +36,7 @@ export async function POST(request: NextRequest) {
 
     try {
       const rawBody = await request.text();
-      console.log('📥 Raw body recebido:', rawBody.substring(0, 100));
+      logger.newsletter('Raw body recebido:', rawBody.substring(0, 100));
       
       if (!rawBody) {
         throw new Error('Body vazio');
@@ -28,7 +45,7 @@ export async function POST(request: NextRequest) {
       body = JSON.parse(rawBody);
       email = body?.email;
     } catch (parseError) {
-      console.error('❌ Erro ao fazer parse do JSON:', parseError);
+      logger.error('Erro ao fazer parse do JSON:', parseError);
       return NextResponse.json(
         { error: 'Dados inválidos enviados' },
         { status: 400, headers }
@@ -36,7 +53,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Log detalhado para debug
-    console.log('🔍 Newsletter API chamada:', {
+    logger.newsletter('Newsletter API chamada:', {
       timestamp: new Date().toISOString(),
       hasEmail: !!email,
       emailLength: email?.length || 0,
@@ -79,17 +96,17 @@ export async function POST(request: NextRequest) {
 
     // Sempre adicionar à lista local primeiro (garantia)
     subscribers.add(cleanEmail);
-    console.log('📝 Email adicionado localmente:', cleanEmail);
+    logger.newsletter('Email adicionado localmente:', cleanEmail);
 
     // Tentar integração com Brevo
     const BREVO_API_KEY = process.env.BREVO_API_KEY;
     const BREVO_LIST_ID = process.env.BREVO_LIST_ID_NEWSLETTER || '11'; // Newsletter Gratuita
     let brevoSuccess = false;
-    let brevoError = null;
+    let brevoError: BrevoErrorResponse | Error | null = null;
 
     if (BREVO_API_KEY && BREVO_API_KEY.startsWith('xkeysib-')) {
       try {
-        const contactData = {
+        const contactData: BrevoContactData = {
           email: cleanEmail,
           updateEnabled: true,
           attributes: {
@@ -101,10 +118,10 @@ export async function POST(request: NextRequest) {
 
         // Adicionar lista se especificada
         if (BREVO_LIST_ID && !isNaN(parseInt(BREVO_LIST_ID))) {
-          (contactData as any).listIds = [parseInt(BREVO_LIST_ID)];
+          contactData.listIds = [parseInt(BREVO_LIST_ID)];
         }
 
-        console.log('🚀 Enviando para Brevo:', { email: cleanEmail, listId: BREVO_LIST_ID });
+        logger.newsletter('Enviando para Brevo:', { email: cleanEmail, listId: BREVO_LIST_ID });
 
         const brevoResponse = await fetch('https://api.brevo.com/v3/contacts', {
           method: 'POST',
@@ -116,38 +133,38 @@ export async function POST(request: NextRequest) {
           body: JSON.stringify(contactData),
         });
 
-        const brevoData = await brevoResponse.json();
+        const brevoData = await brevoResponse.json() as BrevoErrorResponse;
 
         if (brevoResponse.ok) {
-          console.log('✅ Sucesso no Brevo:', cleanEmail, brevoData);
+          logger.newsletter('Sucesso no Brevo:', cleanEmail);
           brevoSuccess = true;
         } else if (brevoData.code === 'duplicate_parameter') {
-          console.log('📧 Email já existe no Brevo:', cleanEmail);
+          logger.newsletter('Email já existe no Brevo:', cleanEmail);
           brevoSuccess = true; // Considerar sucesso
         } else {
-          console.error('❌ Erro Brevo:', brevoResponse.status, brevoData);
+          logger.error('Erro Brevo:', brevoResponse.status, brevoData);
           brevoError = brevoData;
           
           // Se for erro 503 (serviço indisponível), logar especificamente
           if (brevoResponse.status === 503) {
-            console.log('⚠️ API Brevo temporariamente indisponível - email salvo localmente');
+            logger.warn('API Brevo temporariamente indisponível - email salvo localmente');
           }
         }
       } catch (brevoException) {
-        console.error('❌ Exceção ao conectar com Brevo:', brevoException);
-        brevoError = brevoException;
+        logger.error('Exceção ao conectar com Brevo:', brevoException);
+        brevoError = brevoException instanceof Error ? brevoException : new Error('Unknown error');
         
         // Verificar se é erro de rede/timeout
         if (brevoException instanceof Error && brevoException.message.includes('fetch')) {
-          console.log('⚠️ Timeout ou erro de rede com Brevo - email salvo localmente');
+          logger.warn('Timeout ou erro de rede com Brevo - email salvo localmente');
         }
       }
     } else {
-      console.log('⚠️ Brevo não configurado - usando apenas local');
+      logger.warn('Brevo não configurado - usando apenas local');
     }
 
     // Log final
-    console.log('✅ Inscrição processada:', {
+    logger.newsletter('Inscrição processada:', {
       email: cleanEmail,
       timestamp: new Date().toISOString(),
       brevoSuccess,
@@ -169,7 +186,7 @@ export async function POST(request: NextRequest) {
     );
 
   } catch (error) {
-    console.error('❌ Erro crítico na newsletter:', error);
+    logger.error({ force: true }, 'Erro crítico na newsletter:', error);
     
     // Mesmo com erro, tentar salvar localmente
     try {
@@ -179,10 +196,10 @@ export async function POST(request: NextRequest) {
       
       if (fallbackEmail && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(fallbackEmail)) {
         subscribers.add(fallbackEmail.toLowerCase());
-        console.log('🆘 Salvamento de emergência:', fallbackEmail);
+        logger.newsletter('Salvamento de emergência:', fallbackEmail);
       }
     } catch (fallbackError) {
-      console.error('❌ Falha no fallback:', fallbackError);
+      logger.error({ force: true }, 'Falha no fallback:', fallbackError);
     }
 
     return NextResponse.json(

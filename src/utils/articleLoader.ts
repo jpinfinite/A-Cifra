@@ -90,7 +90,9 @@ export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR
       language
     } as ArticleFromFile
   } catch (error) {
-    console.error(`Error loading article ${slug}:`, error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error(`Error loading article ${slug}:`, error)
+    }
     return null
   }
 }
@@ -133,7 +135,9 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
   let category = categories.find(cat => cat.slug === fileArticle.categorySlug)
   
   if (!category) {
-    console.warn(`Category not found for slug: ${fileArticle.categorySlug}, using 'bitcoin' as fallback`)
+    if (process.env.NODE_ENV === 'development') {
+      console.warn(`Category not found for slug: ${fileArticle.categorySlug}, using 'bitcoin' as fallback`)
+    }
     category = categories.find(cat => cat.slug === 'bitcoin') || categories[0]
   }
 
@@ -176,7 +180,9 @@ export function getArticlesAsArticleType(language: 'pt-BR' | 'en' = 'pt-BR'): Ar
     try {
       return convertToArticle(article)
     } catch (error) {
-      console.error(`Error converting article ${article.slug}:`, error)
+      if (process.env.NODE_ENV === 'development') {
+        console.error(`Error converting article ${article.slug}:`, error)
+      }
       return null
     }
   }).filter((article): article is Article => article !== null)
@@ -188,7 +194,9 @@ export function getArticleAsArticleType(slug: string, language: 'pt-BR' | 'en' =
   try {
     return convertToArticle(fileArticle)
   } catch (error) {
-    console.error(`Error converting article ${slug}:`, error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error(`Error converting article ${slug}:`, error)
+    }
     return null
   }
 }

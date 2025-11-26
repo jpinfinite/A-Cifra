@@ -52,14 +52,18 @@ export async function POST(request: NextRequest) {
     // })
 
     // Por enquanto, apenas simula sucesso
-    console.log(`Newsletter signup: ${email}`)
+    if (process.env.NODE_ENV === 'development') {
+      console.log(`Newsletter signup: ${email}`)
+    }
 
     return NextResponse.json(
       { message: 'Inscrição realizada com sucesso!' },
       { status: 200 }
     )
   } catch (error) {
-    console.error('Newsletter error:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Newsletter error:', error)
+    }
     return NextResponse.json(
       { error: 'Erro ao processar inscrição' },
       { status: 500 }

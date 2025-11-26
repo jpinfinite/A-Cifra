@@ -41,7 +41,9 @@ export function OptimizedImage({
   const imageSrc = imageError ? fallbackSrc : (src.startsWith('/') ? src : `/${src}`)
 
   const handleError = () => {
-    console.warn(`Erro ao carregar imagem: ${src}`)
+    if (process.env.NODE_ENV === 'development') {
+      console.warn(`Erro ao carregar imagem: ${src}`)
+    }
     setImageError(true)
     setIsLoading(false)
     onError?.()

@@ -135,7 +135,9 @@ export async function GET() {
             }
         })
     } catch (error) {
-        console.error('Erro ao buscar preços:', error)
+        if (process.env.NODE_ENV === 'development') {
+            console.error('Erro ao buscar preços:', error)
+        }
         return NextResponse.json(
             { error: 'Erro ao buscar cotações' },
             { status: 500 }

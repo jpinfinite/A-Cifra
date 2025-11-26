@@ -12,7 +12,9 @@ export async function getMarkdownArticles(): Promise<Article[]> {
   try {
     // Check if artigos directory exists
     if (!fs.existsSync(articlesDirectory)) {
-      console.warn('Artigos directory not found')
+      if (process.env.NODE_ENV === 'development') {
+        console.warn('Artigos directory not found')
+      }
       return []
     }
 
@@ -85,7 +87,9 @@ export async function getMarkdownArticles(): Promise<Article[]> {
     return articles.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
     
   } catch (error) {
-    console.error('Error loading markdown articles:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Error loading markdown articles:', error)
+    }
     return []
   }
 }
@@ -95,7 +99,9 @@ export async function getMarkdownArticleBySlug(slug: string): Promise<Article | 
     const articles = await getMarkdownArticles()
     return articles.find(article => article.slug === slug) || null
   } catch (error) {
-    console.error('Error loading article by slug:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Error loading article by slug:', error)
+    }
     return null
   }
 }

@@ -17,8 +17,8 @@ export function InArticleAd({ slot, className = '' }: InArticleAdProps) {
   useEffect(() => {
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({})
-    } catch (err) {
-      console.error('AdSense error:', err)
+    } catch {
+      // AdSense error handled silently
     }
   }, [])
 

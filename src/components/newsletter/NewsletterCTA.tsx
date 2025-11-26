@@ -35,18 +35,22 @@ export function NewsletterCTA({ variant = 'inline', className = '' }: Newsletter
         setEmail('')
         
         // Analytics
-        if (typeof window !== 'undefined' && (window as any).gtag) {
-          (window as any).gtag('event', 'newsletter_signup', {
-            event_category: 'engagement',
-            event_label: 'newsletter_cta'
-          })
+        if (typeof window !== 'undefined' && 'gtag' in window) {
+          const gtag = (window as { gtag?: (...args: unknown[]) => void }).gtag;
+          if (gtag) {
+            gtag('event', 'newsletter_signup', {
+              event_category: 'engagement',
+              event_label: 'newsletter_cta'
+            });
+          }
         }
       } else {
         throw new Error(data.error || 'Erro ao inscrever')
       }
-    } catch (error: any) {
+    } catch (error: unknown) {
       setStatus('error')
-      setMessage(error.message || 'Erro ao inscrever. Tente novamente.')
+      const errorMessage = error instanceof Error ? error.message : 'Erro ao inscrever. Tente novamente.'
+      setMessage(errorMessage)
     }
 
     setTimeout(() => {

@@ -51,7 +51,9 @@ async function getArticle(slug: string): Promise<ArticleFromFile | null> {
       language: 'en'
     } as ArticleFromFile
   } catch (error) {
-    console.error('Error loading article:', error)
+    if (process.env.NODE_ENV === 'development') {
+      console.error('Error loading article:', error)
+    }
     return null
   }
 }
