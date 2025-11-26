@@ -82,7 +82,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         description={article.excerpt}
         author={article.author.name}
         publishedAt={article.publishedAt.toISOString()}
-        updatedAt={article.updatedAt.toISOString()}
+        updatedAt={(article.updatedAt || article.publishedAt).toISOString()}
         image={article.coverImage.src}
         url={currentUrl}
         category={article.category.name}
