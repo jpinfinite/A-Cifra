@@ -1,33 +1,41 @@
-﻿---
+---
 id: '99'
 title: 'Cardano (ADA): A Oportunidade Enquanto Bitcoin Está em Baixa'
-slug: 'cardano-ada-oportunidade-baixa-bitcoin-2025'
-excerpt: 'Com Bitcoin em território negativo, Cardano emerge como alternativa promissora. Descubra por que ADA pode ser a melhor escolha para investidores em 2025.'
+slug: cardano-ada-oportunidade-baixa-bitcoin-2025
+excerpt: >-
+  Com Bitcoin em território negativo, Cardano emerge como alternativa
+  promissora. Descubra por que ADA pode ser a melhor escolha para investidores
+  em 2025.
 coverImage:
-  src: '/images/061.jpg'
-  alt: 'Cardano ADA - Blockchain de terceira geração com abordagem científica'
+  src: /images/061.jpg
+  alt: Cardano ADA - Blockchain de terceira geração com abordagem científica
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-21'
 updatedAt: '2025-11-21'
-category: 'altcoins'
+category: altcoins
 tags:
-  - 'Cardano'
-  - 'ADA'
-  - 'altcoins'
-  - 'investimento'
-  - 'blockchain'
-  - 'proof-of-stake'
-  - 'smart contracts'
-  - 'DeFi'
+  - Cardano
+  - ADA
+  - altcoins
+  - investimento
+  - blockchain
+  - proof-of-stake
+  - smart contracts
+  - DeFi
 featured: true
 seo:
   metaTitle: 'Cardano (ADA): Por Que Investir Enquanto Bitcoin Cai em 2025'
-  metaDescription: 'Análise completa de Cardano (ADA) como alternativa ao Bitcoin. Tecnologia superior, staking rentável e potencial de valorização em 2025.'
-  keywords: 'Cardano, ADA, investir em Cardano, alternativa Bitcoin, proof-of-stake, blockchain terceira geração, staking ADA, smart contracts Cardano'
+  metaDescription: >-
+    Análise completa de Cardano (ADA) como alternativa ao Bitcoin. Tecnologia
+    superior, staking rentável e potencial de valorização em 2025.
+  keywords: >-
+    Cardano, ADA, investir em Cardano, alternativa Bitcoin, proof-of-stake,
+    blockchain terceira geração, staking ADA, smart contracts Cardano
+categorySlug: bitcoin
 ---
 
 ## Bitcoin em Queda: Hora de Olhar para Cardano?

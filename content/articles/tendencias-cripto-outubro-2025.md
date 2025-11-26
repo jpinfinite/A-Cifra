@@ -1,42 +1,51 @@
-﻿---
+---
 id: '17'
 title: 'Tendências Cripto Outubro 2025: O Que Está Movendo o Mercado'
-slug: 'tendencias-cripto-outubro-2025'
-excerpt: 'Análise completa das principais tendências do mercado cripto em outubro 2025: ETFs, regulamentação, DeFi 2.0 e as oportunidades que estão moldando o futuro das criptomoedas.'
+slug: tendencias-cripto-outubro-2025
+excerpt: >-
+  Análise completa das principais tendências do mercado cripto em outubro 2025:
+  ETFs, regulamentação, DeFi 2.0 e as oportunidades que estão moldando o futuro
+  das criptomoedas.
 coverImage:
-  src: '/images/035.jpg'
-  alt: 'Tendências do mercado cripto outubro 2025 - Análise completa de Bitcoin, Ethereum e DeFi'
+  src: /images/035.jpg
+  alt: >-
+    Tendências do mercado cripto outubro 2025 - Análise completa de Bitcoin,
+    Ethereum e DeFi
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-27'
 updatedAt: '2025-10-27'
 category:
-  name: 'Análises'
-  slug: 'analises'
-  description: 'Análises de mercado cripto'
+  name: Análises
+  slug: analises
+  description: Análises de mercado cripto
 tags:
-  - 'tendências'
-  - 'ETFs'
-  - 'regulamentação'
-  - 'DeFi 2.0'
-  - 'GameFi'
-  - 'AI'
-  - 'outubro 2025'
-  - 'análise de mercado'
+  - tendências
+  - ETFs
+  - regulamentação
+  - DeFi 2.0
+  - GameFi
+  - AI
+  - outubro 2025
+  - análise de mercado
 seo:
   metaTitle: 'Tendências Cripto Outubro 2025: Análise Completa | A Cifra'
-  metaDescription: 'Análise das principais tendências do mercado cripto em outubro 2025: ETFs, regulamentação, DeFi 2.0, GameFi e oportunidades estratégicas para investidores.'
+  metaDescription: >-
+    Análise das principais tendências do mercado cripto em outubro 2025: ETFs,
+    regulamentação, DeFi 2.0, GameFi e oportunidades estratégicas para
+    investidores.
   keywords:
-    - 'tendências cripto outubro 2025'
-    - 'ETFs criptomoedas'
-    - 'regulamentação cripto'
-    - 'DeFi 2.0'
-    - 'GameFi'
-    - 'AI blockchain'
-    - 'análise mercado cripto'
+    - tendências cripto outubro 2025
+    - ETFs criptomoedas
+    - regulamentação cripto
+    - DeFi 2.0
+    - GameFi
+    - AI blockchain
+    - análise mercado cripto
+categorySlug: altcoins
 ---
 
 O mercado de **criptomoedas em outubro 2025** está passando por transformações significativas, com movimentos institucionais históricos, avanços regulatórios importantes e inovações tecnológicas que estão redefinindo o ecossistema. Este artigo analisa as principais tendências que estão movendo o mercado e as oportunidades que surgem para investidores inteligentes.

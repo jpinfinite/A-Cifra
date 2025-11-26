@@ -1,39 +1,46 @@
-﻿---
+---
 id: '5'
 title: 'Como Analisar Criptomoedas: Guia Completo para Investidores'
-slug: 'como-analisar-criptomoedas-guia-completo-investidores'
-excerpt: 'Aprenda as técnicas essenciais para analisar criptomoedas: análise técnica, fundamentalista e on-chain. Ferramentas e estratégias para tomar decisões informadas.'
+slug: como-analisar-criptomoedas-guia-completo-investidores
+excerpt: >-
+  Aprenda as técnicas essenciais para analisar criptomoedas: análise técnica,
+  fundamentalista e on-chain. Ferramentas e estratégias para tomar decisões
+  informadas.
 coverImage:
-  src: '/images/089.jpg'
-  alt: 'Setup profissional para análise de criptomoedas com múltiplos monitores'
+  src: /images/089.jpg
+  alt: Setup profissional para análise de criptomoedas com múltiplos monitores
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-20'
 updatedAt: '2025-01-20'
 category:
-  name: 'Educação'
-  slug: 'educacao'
-  description: 'Aprenda sobre criptomoedas'
+  name: Educação
+  slug: educacao
+  description: Aprenda sobre criptomoedas
 tags:
-  - 'análise'
-  - 'criptomoedas'
-  - 'investimento'
-  - 'análise técnica'
-  - 'análise fundamentalista'
-  - 'on-chain'
-  - 'ferramentas'
+  - análise
+  - criptomoedas
+  - investimento
+  - análise técnica
+  - análise fundamentalista
+  - on-chain
+  - ferramentas
 seo:
   metaTitle: 'Como Analisar Criptomoedas: Guia Completo para Investidores | A Cifra'
-  metaDescription: 'Aprenda as técnicas essenciais para analisar criptomoedas: análise técnica, fundamentalista e on-chain. Ferramentas e estratégias para decisões informadas.'
+  metaDescription: >-
+    Aprenda as técnicas essenciais para analisar criptomoedas: análise técnica,
+    fundamentalista e on-chain. Ferramentas e estratégias para decisões
+    informadas.
   keywords:
-    - 'como analisar criptomoedas'
-    - 'análise técnica cripto'
-    - 'análise fundamentalista'
-    - 'on-chain analysis'
-    - 'investir criptomoedas'
+    - como analisar criptomoedas
+    - análise técnica cripto
+    - análise fundamentalista
+    - on-chain analysis
+    - investir criptomoedas
+categorySlug: analises
 ---
 
 Saber **como analisar criptomoedas** é fundamental para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Com milhares de projetos disponíveis, a capacidade de avaliar adequadamente uma criptomoeda pode ser a diferença entre o sucesso e o fracasso nos investimentos.

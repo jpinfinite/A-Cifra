@@ -1,40 +1,50 @@
-﻿---
+---
 id: '21'
-title: "Goldman Sachs Prevê Fim do Shutdown dos EUA em Duas Semanas — Corte de Juros do Fed em Dezembro Ganha Força"
-slug: "goldman-sachs-shutdown-eua-corte-juros-fed"
-excerpt: "Goldman Sachs projeta resolução do impasse fiscal nos EUA dentro de duas semanas, abrindo caminho para corte de juros do Federal Reserve em dezembro. Entenda os impactos econômicos e as projeções para o PIB."
+title: >-
+  Goldman Sachs Prevê Fim do Shutdown dos EUA em Duas Semanas — Corte de Juros
+  do Fed em Dezembro Ganha Força
+slug: goldman-sachs-shutdown-eua-corte-juros-fed
+excerpt: >-
+  Goldman Sachs projeta resolução do impasse fiscal nos EUA dentro de duas
+  semanas, abrindo caminho para corte de juros do Federal Reserve em dezembro.
+  Entenda os impactos econômicos e as projeções para o PIB.
 coverImage:
-  src: '/images/034.jpg'
-  alt: 'Goldman Sachs prevê fim do shutdown dos EUA e corte de juros do Federal Reserve'
+  src: /images/034.jpg
+  alt: >-
+    Goldman Sachs prevê fim do shutdown dos EUA e corte de juros do Federal
+    Reserve
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-03'
 updatedAt: '2025-11-03'
-category: 'analises'
+category: analises
 tags:
-  - 'Goldman Sachs'
-  - 'Federal Reserve'
-  - 'Shutdown EUA'
-  - 'Política Monetária'
-  - 'Juros'
-  - 'Economia'
-  - 'PIB'
+  - Goldman Sachs
+  - Federal Reserve
+  - Shutdown EUA
+  - Política Monetária
+  - Juros
+  - Economia
+  - PIB
 seo:
-  metaTitle: 'Goldman Sachs Prevê Fim do Shutdown dos EUA e Corte de Juros | A Cifra'
-  metaDescription: 'Goldman Sachs projeta resolução do impasse fiscal nos EUA dentro de duas semanas, abrindo caminho para corte de juros do Federal Reserve em dezembro.'
+  metaTitle: Goldman Sachs Prevê Fim do Shutdown dos EUA e Corte de Juros | A Cifra
+  metaDescription: >-
+    Goldman Sachs projeta resolução do impasse fiscal nos EUA dentro de duas
+    semanas, abrindo caminho para corte de juros do Federal Reserve em dezembro.
   keywords:
-    - 'Goldman Sachs'
-    - 'shutdown EUA'
-    - 'Federal Reserve'
-    - 'corte de juros'
-    - 'política monetária'
-    - 'economia EUA'
-    - 'PIB americano'
+    - Goldman Sachs
+    - shutdown EUA
+    - Federal Reserve
+    - corte de juros
+    - política monetária
+    - economia EUA
+    - PIB americano
 featured: true
 readingTime: 8
+categorySlug: altcoins
 ---
 
 O impasse fiscal que paralisa parte do governo dos Estados Unidos pode estar próximo do fim. Após o Citi, agora é o **Goldman Sachs** que projeta uma resolução para o chamado *shutdown* **"dentro de duas semanas"** — um fator crucial para as próximas decisões do **Federal Reserve (Fed)**, o banco central norte-americano.

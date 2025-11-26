@@ -1,44 +1,53 @@
-﻿---
+---
 id: '12'
 title: 'Centralização vs Descentralização: O Dilema da Distribuição de Poder'
-slug: 'centralizacao-vs-descentralizacao-dilema-distribuicao-poder'
-excerpt: 'Explore as diferenças fundamentais entre sistemas centralizados e descentralizados, seus impactos na sociedade e como a blockchain está redefinindo o poder.'
+slug: centralizacao-vs-descentralizacao-dilema-distribuicao-poder
+excerpt: >-
+  Explore as diferenças fundamentais entre sistemas centralizados e
+  descentralizados, seus impactos na sociedade e como a blockchain está
+  redefinindo o poder.
 coverImage:
-  src: '/images/104.jpg'
-  alt: 'Representação visual de redes centralizadas vs descentralizadas'
+  src: /images/104.jpg
+  alt: Representação visual de redes centralizadas vs descentralizadas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
 updatedAt: '2025-01-31'
 category:
-  name: 'Educação'
-  slug: 'educacao'
-  description: 'Aprenda sobre criptomoedas'
+  name: Educação
+  slug: educacao
+  description: Aprenda sobre criptomoedas
 tags:
-  - 'centralização'
-  - 'descentralização'
-  - 'blockchain'
-  - 'governança'
-  - 'poder'
-  - 'web3'
-  - 'dao'
-  - 'bitcoin'
+  - centralização
+  - descentralização
+  - blockchain
+  - governança
+  - poder
+  - web3
+  - dao
+  - bitcoin
 seo:
-  metaTitle: 'Centralização vs Descentralização: O Dilema do Poder na Era Digital | A Cifra'
-  metaDescription: 'Análise completa sobre centralização vs descentralização: diferenças, vantagens, desvantagens e como a blockchain está redefinindo a distribuição de poder.'
+  metaTitle: >-
+    Centralização vs Descentralização: O Dilema do Poder na Era Digital | A
+    Cifra
+  metaDescription: >-
+    Análise completa sobre centralização vs descentralização: diferenças,
+    vantagens, desvantagens e como a blockchain está redefinindo a distribuição
+    de poder.
   keywords:
-    - 'centralização'
-    - 'descentralização'
-    - 'distribuição poder'
-    - 'blockchain'
-    - 'governança'
-    - 'web3'
-    - 'dao'
-    - 'bitcoin'
-    - 'defi'
+    - centralização
+    - descentralização
+    - distribuição poder
+    - blockchain
+    - governança
+    - web3
+    - dao
+    - bitcoin
+    - defi
+categorySlug: bitcoin
 ---
 
 A discussão sobre **centralização versus descentralização** é um tema recorrente e fundamental em diversas áreas, desde política e economia até tecnologia e organização social. Este debate ganhou nova relevÃ¢ncia com o surgimento da blockchain e das criptomoedas, que propõem alternativas descentralizadas aos sistemas tradicionais centralizados.

@@ -1,30 +1,41 @@
-﻿---
+---
 id: '23'
-title: "Bitcoin Pode Cair para US$ 75 Mil, Mas Analistas Preveem Rally de 40% Até o Final de 2025"
-slug: "bitcoin-fundo-75-mil-analise-mvrv-2025"
-excerpt: "Análise técnica indica possível queda do BTC para US$ 75.700 após romper suporte crucial das Bandas MVRV. Enquanto isso, baleias acumulam e Wall Street projeta recuperação de 40% antes do fim do ano."
+title: >-
+  Bitcoin Pode Cair para US$ 75 Mil, Mas Analistas Preveem Rally de 40% Até o
+  Final de 2025
+slug: bitcoin-fundo-75-mil-analise-mvrv-2025
+excerpt: >-
+  Análise técnica indica possível queda do BTC para US$ 75.700 após romper
+  suporte crucial das Bandas MVRV. Enquanto isso, baleias acumulam e Wall Street
+  projeta recuperação de 40% antes do fim do ano.
 coverImage:
-  src: '/images/224.jpg'
-  alt: 'Análise técnica do Bitcoin - Bandas MVRV e projeções para 2025'
+  src: /images/224.jpg
+  alt: Análise técnica do Bitcoin - Bandas MVRV e projeções para 2025
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-06'
 updatedAt: '2025-11-06'
-category: 'analises'
+category: analises
 tags:
-  - 'Bitcoin'
-  - 'Análise Técnica'
-  - 'MVRV'
-  - 'Previsões'
-  - 'Mercado'
+  - Bitcoin
+  - Análise Técnica
+  - MVRV
+  - Previsões
+  - Mercado
 featured: true
 seo:
   metaTitle: 'Bitcoin: Análise MVRV Indica Fundo em US$ 75K, Mas Rally de 40% Pode Vir'
-  metaDescription: 'Análise profunda das Bandas MVRV do Bitcoin mostra possível queda para US$ 75.700, mas baleias acumulam e analistas de Wall Street preveem recuperação de 40% até dezembro de 2025.'
-  keywords: 'Bitcoin, BTC, análise técnica, MVRV, bandas MVRV, previsão Bitcoin 2025, baleias Bitcoin, Wall Street'
+  metaDescription: >-
+    Análise profunda das Bandas MVRV do Bitcoin mostra possível queda para US$
+    75.700, mas baleias acumulam e analistas de Wall Street preveem recuperação
+    de 40% até dezembro de 2025.
+  keywords: >-
+    Bitcoin, BTC, análise técnica, MVRV, bandas MVRV, previsão Bitcoin 2025,
+    baleias Bitcoin, Wall Street
+categorySlug: bitcoin
 ---
 
 ## O Cenário Atual: Bitcoin Rompe Suporte Crítico

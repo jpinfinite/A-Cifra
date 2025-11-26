@@ -1,28 +1,29 @@
-﻿---
-id: 'readme-articles'
-title: 'Documentação - Como Adicionar Artigos'
-slug: 'documentacao-artigos'
-excerpt: 'Guia completo sobre como adicionar e formatar novos artigos no blog A Cifra'
+---
+id: readme-articles
+title: Documentação - Como Adicionar Artigos
+slug: documentacao-artigos
+excerpt: Guia completo sobre como adicionar e formatar novos artigos no blog A Cifra
 coverImage:
-  src: '/images/cifra-principal.png'
-  alt: 'Documentação A Cifra'
+  src: /images/cifra-principal.png
+  alt: Documentação A Cifra
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-20'
 updatedAt: '2025-11-20'
-category: 'documentacao'
+category: documentacao
 tags:
-  - 'documentação'
-  - 'guia'
-  - 'tutorial'
+  - documentação
+  - guia
+  - tutorial
 featured: false
 seo:
-  metaTitle: 'Como Adicionar Artigos - Documentação | A Cifra'
-  metaDescription: 'Guia completo sobre como adicionar e formatar novos artigos no blog A Cifra'
+  metaTitle: Como Adicionar Artigos - Documentação | A Cifra
+  metaDescription: Guia completo sobre como adicionar e formatar novos artigos no blog A Cifra
   keywords: 'documentação, artigos, markdown, frontmatter'
+categorySlug: tutoriais
 ---
 
 # Como Adicionar Novos Artigos

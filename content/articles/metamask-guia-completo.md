@@ -1,39 +1,44 @@
-﻿---
+---
 id: '20'
 title: 'MetaMask: Guia Completo da Carteira Cripto Mais Popular do Mundo'
-slug: 'metamask-guia-completo-carteira-cripto'
-excerpt: 'Aprenda tudo sobre MetaMask: como instalar, configurar, usar com segurança e aproveitar todos os recursos desta carteira essencial para DeFi e Web3.'
+slug: metamask-guia-completo-carteira-cripto
+excerpt: >-
+  Aprenda tudo sobre MetaMask: como instalar, configurar, usar com segurança e
+  aproveitar todos os recursos desta carteira essencial para DeFi e Web3.
 coverImage:
-  src: '/images/140.jpg'
-  alt: 'MetaMask - Carteira de criptomoedas e gateway para Web3'
+  src: /images/140.jpg
+  alt: MetaMask - Carteira de criptomoedas e gateway para Web3
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-30'
 updatedAt: '2025-10-30'
-category: 'tutoriais'
+category: tutoriais
 tags:
-  - 'metamask'
-  - 'carteira cripto'
-  - 'web3'
-  - 'defi'
-  - 'ethereum'
-  - 'segurança'
-  - 'dapps'
-  - 'blockchain'
+  - metamask
+  - carteira cripto
+  - web3
+  - defi
+  - ethereum
+  - segurança
+  - dapps
+  - blockchain
 seo:
   metaTitle: 'MetaMask: Guia Completo da Carteira Cripto Mais Popular | A Cifra'
-  metaDescription: 'Guia completo sobre MetaMask: como instalar, configurar, usar com segurança e aproveitar todos os recursos desta carteira essencial para DeFi e Web3.'
+  metaDescription: >-
+    Guia completo sobre MetaMask: como instalar, configurar, usar com segurança
+    e aproveitar todos os recursos desta carteira essencial para DeFi e Web3.
   keywords:
-    - 'metamask'
-    - 'carteira cripto'
-    - 'como usar metamask'
-    - 'web3'
-    - 'defi'
-    - 'ethereum wallet'
-    - 'segurança cripto'
+    - metamask
+    - carteira cripto
+    - como usar metamask
+    - web3
+    - defi
+    - ethereum wallet
+    - segurança cripto
+categorySlug: ethereum
 ---
 
 A **MetaMask** é muito mais que uma simples carteira de criptomoedas - é a porta de entrada para o universo Web3, DeFi e aplicações descentralizadas. Com mais de 100 milhões de usuários ativos, ela se tornou a carteira mais popular e confiável para interagir com a blockchain Ethereum e suas redes compatíveis.

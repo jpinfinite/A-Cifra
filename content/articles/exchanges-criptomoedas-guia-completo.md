@@ -1,40 +1,48 @@
-﻿---
+---
 id: '16'
 title: 'Exchanges de Criptomoedas: Guia Completo para Iniciantes'
-slug: 'exchanges-criptomoedas-guia-completo'
-excerpt: 'Entenda o que são exchanges, como funcionam CEX e DEX, e aprenda a escolher a melhor plataforma para investir em criptomoedas com segurança.'
+slug: exchanges-criptomoedas-guia-completo
+excerpt: >-
+  Entenda o que são exchanges, como funcionam CEX e DEX, e aprenda a escolher a
+  melhor plataforma para investir em criptomoedas com segurança.
 coverImage:
-  src: '/images/082.jpg'
-  alt: 'Exchanges de criptomoedas - Guia completo para iniciantes sobre como escolher e usar plataformas de trading'
+  src: /images/082.jpg
+  alt: >-
+    Exchanges de criptomoedas - Guia completo para iniciantes sobre como
+    escolher e usar plataformas de trading
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-27'
 updatedAt: '2025-10-27'
-category: 'tutoriais'
+category: tutoriais
 tags:
-  - 'exchanges'
-  - 'CEX'
-  - 'DEX'
-  - 'trading'
-  - 'segurança'
-  - 'Bitcoin'
-  - 'Ethereum'
-  - 'investimento'
-  - 'carteiras'
-  - 'KYC'
+  - exchanges
+  - CEX
+  - DEX
+  - trading
+  - segurança
+  - Bitcoin
+  - Ethereum
+  - investimento
+  - carteiras
+  - KYC
 seo:
   metaTitle: 'Exchanges de Criptomoedas: Guia Completo 2025 | A Cifra'
-  metaDescription: 'Guia completo sobre exchanges de criptomoedas. Aprenda a escolher entre CEX e DEX, dicas de segurança e como começar a investir em Bitcoin e outras criptos.'
+  metaDescription: >-
+    Guia completo sobre exchanges de criptomoedas. Aprenda a escolher entre CEX
+    e DEX, dicas de segurança e como começar a investir em Bitcoin e outras
+    criptos.
   keywords:
-    - 'exchanges criptomoedas'
-    - 'CEX vs DEX'
-    - 'como comprar Bitcoin'
-    - 'exchange Brasil'
-    - 'segurança cripto'
-    - 'trading iniciante'
+    - exchanges criptomoedas
+    - CEX vs DEX
+    - como comprar Bitcoin
+    - exchange Brasil
+    - segurança cripto
+    - trading iniciante
+categorySlug: bitcoin
 ---
 
 <p>As <strong>exchanges de criptomoedas</strong> são a porta de entrada para quem deseja comprar, vender ou negociar ativos digitais como Bitcoin, Ethereum e outras criptomoedas. Elas desempenham um papel fundamental na democratização do acesso ao mercado cripto â€” mas também trazem desafios que exigem atenção e conhecimento.</p>

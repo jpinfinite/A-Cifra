@@ -1,30 +1,39 @@
-﻿---
+---
 id: '22'
-title: "O Comeback das Moedas Secretas: Zcash e Dash Disparam no Mercado"
-slug: "zcash-dash-moedas-privacidade-disparam"
-excerpt: "Capitalização de mercado das moedas de privacidade dispara 80% em novembro de 2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022. Entenda os fatores por trás desse movimento."
+title: 'O Comeback das Moedas Secretas: Zcash e Dash Disparam no Mercado'
+slug: zcash-dash-moedas-privacidade-disparam
+excerpt: >-
+  Capitalização de mercado das moedas de privacidade dispara 80% em novembro de
+  2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022.
+  Entenda os fatores por trás desse movimento.
 coverImage:
-  src: '/images/articles/zcash.png'
-  alt: 'Zcash e Dash - Moedas de Privacidade em Alta'
+  src: /images/articles/zcash.png
+  alt: Zcash e Dash - Moedas de Privacidade em Alta
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-06'
 updatedAt: '2025-11-06'
-category: 'altcoins'
+category: altcoins
 tags:
-  - 'Zcash'
-  - 'Dash'
-  - 'Privacidade'
-  - 'Altcoins'
-  - 'Análise de Mercado'
+  - Zcash
+  - Dash
+  - Privacidade
+  - Altcoins
+  - Análise de Mercado
 featured: true
 seo:
-  metaTitle: 'Zcash e Dash Disparam 80% - Análise do Boom das Moedas de Privacidade'
-  metaDescription: 'Capitalização de mercado das moedas de privacidade dispara 80% em novembro de 2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022. Entenda os fatores por trás desse movimento.'
-  keywords: 'Zcash, Dash, moedas de privacidade, criptomoedas, ZEC, DASH, zk-SNARKs, CoinJoin, privacidade cripto'
+  metaTitle: Zcash e Dash Disparam 80% - Análise do Boom das Moedas de Privacidade
+  metaDescription: >-
+    Capitalização de mercado das moedas de privacidade dispara 80% em novembro
+    de 2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022.
+    Entenda os fatores por trás desse movimento.
+  keywords: >-
+    Zcash, Dash, moedas de privacidade, criptomoedas, ZEC, DASH, zk-SNARKs,
+    CoinJoin, privacidade cripto
+categorySlug: altcoins
 ---
 
 ## Contexto: O Boom das Moedas de Privacidade

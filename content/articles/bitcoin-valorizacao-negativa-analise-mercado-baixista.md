@@ -1,30 +1,41 @@
-﻿---
+---
 id: '25'
-title: "Bitcoin em Território Negativo no Ano: Análise do Mercado Baixista e Perspectivas"
-slug: "bitcoin-valorizacao-negativa-analise-mercado-baixista"
-excerpt: "Bitcoin registra valorização negativa em 2025, apagando ganhos do ano. Análise completa dos fatores que levaram à queda, impacto nos investidores e o que esperar para os próximos meses."
+title: >-
+  Bitcoin em Território Negativo no Ano: Análise do Mercado Baixista e
+  Perspectivas
+slug: bitcoin-valorizacao-negativa-analise-mercado-baixista
+excerpt: >-
+  Bitcoin registra valorização negativa em 2025, apagando ganhos do ano. Análise
+  completa dos fatores que levaram à queda, impacto nos investidores e o que
+  esperar para os próximos meses.
 coverImage:
-  src: '/images/056.jpg'
-  alt: 'Bitcoin em queda - Análise do mercado baixista'
+  src: /images/056.jpg
+  alt: Bitcoin em queda - Análise do mercado baixista
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-06'
 updatedAt: '2025-11-06'
-category: 'analises'
+category: analises
 tags:
-  - 'Bitcoin'
-  - 'Mercado Baixista'
-  - 'Análise'
-  - 'Valorização'
-  - 'Investimentos'
+  - Bitcoin
+  - Mercado Baixista
+  - Análise
+  - Valorização
+  - Investimentos
 featured: false
 seo:
   metaTitle: 'Bitcoin em Território Negativo: Análise Completa do Mercado Baixista 2025'
-  metaDescription: 'Bitcoin apaga ganhos de 2025 e entra em território negativo. Análise detalhada dos fatores da queda, impacto nos investidores e perspectivas para recuperação.'
-  keywords: 'Bitcoin, BTC, mercado baixista, valorização negativa, análise Bitcoin 2025, queda Bitcoin, investimentos cripto'
+  metaDescription: >-
+    Bitcoin apaga ganhos de 2025 e entra em território negativo. Análise
+    detalhada dos fatores da queda, impacto nos investidores e perspectivas para
+    recuperação.
+  keywords: >-
+    Bitcoin, BTC, mercado baixista, valorização negativa, análise Bitcoin 2025,
+    queda Bitcoin, investimentos cripto
+categorySlug: bitcoin
 ---
 
 ## Bitcoin Apaga Ganhos do Ano

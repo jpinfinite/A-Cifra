@@ -1,30 +1,41 @@
-﻿---
+---
 id: '24'
-title: "Aave Lança App que Parece um Banco Real — A Revolução que Pode Levar DeFi para 1 Bilhão de Pessoas"
-slug: "aave-app-defi-banco-revolucao-mobile"
-excerpt: "Aave elimina a complexidade do DeFi com app móvel que oferece até 9% de rendimento, proteção de $1 milhão e experiência de usuário idêntica a um banco tradicional. O 'momento iPhone' das finanças descentralizadas chegou."
+title: >-
+  Aave Lança App que Parece um Banco Real — A Revolução que Pode Levar DeFi para
+  1 Bilhão de Pessoas
+slug: aave-app-defi-banco-revolucao-mobile
+excerpt: >-
+  Aave elimina a complexidade do DeFi com app móvel que oferece até 9% de
+  rendimento, proteção de $1 milhão e experiência de usuário idêntica a um banco
+  tradicional. O 'momento iPhone' das finanças descentralizadas chegou.
 coverImage:
-  src: '/images/028.jpg'
-  alt: 'Aave App - Primeiro aplicativo DeFi com experiência bancária tradicional'
+  src: /images/028.jpg
+  alt: Aave App - Primeiro aplicativo DeFi com experiência bancária tradicional
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-06'
 updatedAt: '2025-11-06'
-category: 'defi'
+category: defi
 tags:
-  - 'Aave'
-  - 'DeFi'
-  - 'Aplicativo Móvel'
-  - 'Stablecoins'
-  - 'Rendimento'
+  - Aave
+  - DeFi
+  - Aplicativo Móvel
+  - Stablecoins
+  - Rendimento
 featured: true
 seo:
   metaTitle: 'Aave App: DeFi com Cara de Banco Oferece 9% de Rendimento e Proteção de $1M'
-  metaDescription: 'Aave revoluciona DeFi com app móvel que elimina complexidade técnica, oferece rendimentos de até 9%, proteção de $1 milhão e experiência idêntica a bancos tradicionais. Entenda como isso muda tudo.'
-  keywords: 'Aave, DeFi, aplicativo DeFi, rendimento stablecoin, proteção DeFi, MiCA, abstração de conta, banco descentralizado'
+  metaDescription: >-
+    Aave revoluciona DeFi com app móvel que elimina complexidade técnica,
+    oferece rendimentos de até 9%, proteção de $1 milhão e experiência idêntica
+    a bancos tradicionais. Entenda como isso muda tudo.
+  keywords: >-
+    Aave, DeFi, aplicativo DeFi, rendimento stablecoin, proteção DeFi, MiCA,
+    abstração de conta, banco descentralizado
+categorySlug: defi
 ---
 
 ## A Promessa Quebrada do DeFi

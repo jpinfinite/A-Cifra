@@ -1,30 +1,39 @@
-﻿---
+---
 id: '22'
-title: "The Comeback of Secret Coins: Zcash and Dash Surge in the Market"
-slug: "zcash-dash-privacy-coins-surge"
-excerpt: "Privacy coin market cap surges 80% in November 2025. Zcash reaches highest value in 7 years and Dash hits 2022 highs. Understand the factors behind this movement."
+title: 'The Comeback of Secret Coins: Zcash and Dash Surge in the Market'
+slug: zcash-dash-privacy-coins-surge
+excerpt: >-
+  Privacy coin market cap surges 80% in November 2025. Zcash reaches highest
+  value in 7 years and Dash hits 2022 highs. Understand the factors behind this
+  movement.
 coverImage:
-  src: '/images/articles/zcash.png'
-  alt: 'Zcash and Dash - Privacy Coins on the Rise'
+  src: /images/articles/zcash.png
+  alt: Zcash and Dash - Privacy Coins on the Rise
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-06'
 updatedAt: '2025-11-06'
-category: 'altcoins'
+category: altcoins
 tags:
-  - 'Zcash'
-  - 'Dash'
-  - 'Privacy'
-  - 'Altcoins'
-  - 'Market Analysis'
+  - Zcash
+  - Dash
+  - Privacy
+  - Altcoins
+  - Market Analysis
 featured: true
 seo:
-  metaTitle: 'Zcash and Dash Surge 80% - Privacy Coins Boom Analysis'
-  metaDescription: 'Privacy coin market cap surges 80% in November 2025. Zcash reaches highest value in 7 years and Dash hits 2022 highs. Understand the factors behind this movement.'
-  keywords: 'Zcash, Dash, privacy coins, cryptocurrency, ZEC, DASH, zk-SNARKs, CoinJoin, crypto privacy'
+  metaTitle: Zcash and Dash Surge 80% - Privacy Coins Boom Analysis
+  metaDescription: >-
+    Privacy coin market cap surges 80% in November 2025. Zcash reaches highest
+    value in 7 years and Dash hits 2022 highs. Understand the factors behind
+    this movement.
+  keywords: >-
+    Zcash, Dash, privacy coins, cryptocurrency, ZEC, DASH, zk-SNARKs, CoinJoin,
+    crypto privacy
+categorySlug: altcoins
 ---
 
 ## Context: The Privacy Coin Boom

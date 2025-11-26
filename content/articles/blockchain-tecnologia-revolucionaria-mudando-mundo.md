@@ -1,41 +1,48 @@
-﻿---
+---
 id: '10'
-title: 'Desvendando o Poder da Blockchain: Uma Tecnologia Revolucionária que Está Mudando o Mundo'
-slug: 'blockchain-tecnologia-revolucionaria-mudando-mundo'
-excerpt: 'A blockchain é uma tecnologia revolucionária que está transformando indústrias inteiras. Descubra como funciona, suas aplicações e o impacto no futuro.'
+title: >-
+  Desvendando o Poder da Blockchain: Uma Tecnologia Revolucionária que Está
+  Mudando o Mundo
+slug: blockchain-tecnologia-revolucionaria-mudando-mundo
+excerpt: >-
+  A blockchain é uma tecnologia revolucionária que está transformando indústrias
+  inteiras. Descubra como funciona, suas aplicações e o impacto no futuro.
 coverImage:
-  src: '/images/095.jpg'
-  alt: 'Representação visual da tecnologia blockchain com blocos conectados'
+  src: /images/095.jpg
+  alt: Representação visual da tecnologia blockchain com blocos conectados
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-29'
 updatedAt: '2025-01-29'
 category:
-  name: 'Educação'
-  slug: 'educacao'
-  description: 'Aprenda sobre criptomoedas'
+  name: Educação
+  slug: educacao
+  description: Aprenda sobre criptomoedas
 tags:
-  - 'blockchain'
-  - 'tecnologia'
-  - 'criptografia'
-  - 'descentralização'
-  - 'bitcoin'
-  - 'ethereum'
-  - 'contratos inteligentes'
+  - blockchain
+  - tecnologia
+  - criptografia
+  - descentralização
+  - bitcoin
+  - ethereum
+  - contratos inteligentes
 seo:
   metaTitle: 'Blockchain: Tecnologia Revolucionária que Está Mudando o Mundo | A Cifra'
-  metaDescription: 'Guia completo sobre blockchain: como funciona, aplicações práticas, vantagens, desafios e o futuro desta tecnologia revolucionária.'
+  metaDescription: >-
+    Guia completo sobre blockchain: como funciona, aplicações práticas,
+    vantagens, desafios e o futuro desta tecnologia revolucionária.
   keywords:
-    - 'blockchain'
-    - 'tecnologia blockchain'
-    - 'como funciona blockchain'
-    - 'aplicações blockchain'
-    - 'bitcoin blockchain'
-    - 'ethereum'
-    - 'descentralização'
+    - blockchain
+    - tecnologia blockchain
+    - como funciona blockchain
+    - aplicações blockchain
+    - bitcoin blockchain
+    - ethereum
+    - descentralização
+categorySlug: bitcoin
 ---
 
 A **blockchain** é uma tecnologia revolucionária que está mudando fundamentalmente a forma como pensamos sobre segurança, transparência e confiança em diversas indústrias. Desde sua criação em 2008, como base para a criptomoeda Bitcoin, a blockchain evoluiu para se tornar uma tecnologia versátil e amplamente adotada em setores como finanças, logística, saúde, governo e muito mais.

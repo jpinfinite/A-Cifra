@@ -1,39 +1,45 @@
-﻿---
+---
 id: '19'
 title: 'Memecoins: O Fenômeno Cultural que Revolucionou o Mercado Cripto'
-slug: 'memecoins-fenomeno-cultural-mercado-cripto'
-excerpt: 'Entenda o que são memecoins, como surgiram, por que se tornaram populares e como investir com segurança neste setor volátil mas fascinante do mercado cripto.'
+slug: memecoins-fenomeno-cultural-mercado-cripto
+excerpt: >-
+  Entenda o que são memecoins, como surgiram, por que se tornaram populares e
+  como investir com segurança neste setor volátil mas fascinante do mercado
+  cripto.
 coverImage:
-  src: '/images/137.jpg'
+  src: /images/137.jpg
   alt: 'Memecoins - Dogecoin, Shiba Inu e outras criptomoedas meme'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-30'
 updatedAt: '2025-10-30'
-category: 'altcoins'
+category: altcoins
 tags:
-  - 'memecoins'
-  - 'dogecoin'
-  - 'shiba inu'
-  - 'pepe'
-  - 'investimento'
-  - 'risco'
-  - 'comunidade'
-  - 'volatilidade'
+  - memecoins
+  - dogecoin
+  - shiba inu
+  - pepe
+  - investimento
+  - risco
+  - comunidade
+  - volatilidade
 seo:
   metaTitle: 'Memecoins: Guia Completo sobre Dogecoin, Shiba Inu e Investimento | A Cifra'
-  metaDescription: 'Guia completo sobre memecoins: o que são, como investir com segurança, principais projetos como Dogecoin e Shiba Inu, riscos e oportunidades.'
+  metaDescription: >-
+    Guia completo sobre memecoins: o que são, como investir com segurança,
+    principais projetos como Dogecoin e Shiba Inu, riscos e oportunidades.
   keywords:
-    - 'memecoins'
-    - 'dogecoin'
-    - 'shiba inu'
-    - 'pepe coin'
-    - 'como investir memecoins'
-    - 'criptomoedas meme'
-    - 'investimento risco'
+    - memecoins
+    - dogecoin
+    - shiba inu
+    - pepe coin
+    - como investir memecoins
+    - criptomoedas meme
+    - investimento risco
+categorySlug: memecoin
 ---
 
 As **memecoins** representam um dos fenômenos mais interessantes e controversos do universo cripto. Nascidas como piadas na internet, essas criptomoedas baseadas em memes se transformaram em um mercado de bilhões de dólares, criando milionários da noite para o dia e também causando perdas significativas para investidores desavisados.

@@ -1,42 +1,53 @@
-﻿---
+---
 id: '9'
-title: 'Revolucionando a Indústria de Jogos: O Poder da GameFi e como Investir com Segurança'
-slug: 'gamefi-revolucionando-industria-jogos-investir-seguranca'
-excerpt: 'A GameFi está transformando a indústria de jogos, combinando gaming com DeFi e blockchain. Descubra como funciona e como investir com segurança nesta revolução.'
+title: >-
+  Revolucionando a Indústria de Jogos: O Poder da GameFi e como Investir com
+  Segurança
+slug: gamefi-revolucionando-industria-jogos-investir-seguranca
+excerpt: >-
+  A GameFi está transformando a indústria de jogos, combinando gaming com DeFi e
+  blockchain. Descubra como funciona e como investir com segurança nesta
+  revolução.
 coverImage:
-  src: '/images/122.webp'
-  alt: 'Gamer jogando com elementos de criptomoedas e GameFi ao redor'
+  src: /images/122.webp
+  alt: Gamer jogando com elementos de criptomoedas e GameFi ao redor
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-28'
 updatedAt: '2025-01-28'
 category:
-  name: 'DeFi'
-  slug: 'defi'
-  description: 'Finanças Descentralizadas'
+  name: DeFi
+  slug: defi
+  description: Finanças Descentralizadas
 tags:
-  - 'gamefi'
-  - 'play to earn'
-  - 'blockchain gaming'
-  - 'nft games'
-  - 'defi gaming'
-  - 'axie infinity'
-  - 'metaverso'
+  - gamefi
+  - play to earn
+  - blockchain gaming
+  - nft games
+  - defi gaming
+  - axie infinity
+  - metaverso
 seo:
-  metaTitle: 'GameFi: Revolução dos Jogos Blockchain e Como Investir com Segurança | A Cifra'
-  metaDescription: 'Descubra como a GameFi está revolucionando os jogos com blockchain e DeFi. Guia completo sobre play-to-earn, principais jogos e estratégias de investimento.'
+  metaTitle: >-
+    GameFi: Revolução dos Jogos Blockchain e Como Investir com Segurança | A
+    Cifra
+  metaDescription: >-
+    Descubra como a GameFi está revolucionando os jogos com blockchain e DeFi.
+    Guia completo sobre play-to-earn, principais jogos e estratégias de
+    investimento.
   keywords:
-    - 'gamefi'
-    - 'play to earn'
-    - 'blockchain games'
-    - 'nft gaming'
-    - 'axie infinity'
-    - 'defi games'
-    - 'investir gamefi'
-    - 'jogos criptomoedas'
+    - gamefi
+    - play to earn
+    - blockchain games
+    - nft gaming
+    - axie infinity
+    - defi games
+    - investir gamefi
+    - jogos criptomoedas
+categorySlug: seguranca
 ---
 
 A **GameFi** está revolucionando a indústria de jogos de forma sem precedentes, combinando jogos com finanças descentralizadas (DeFi) e tecnologias de blockchain. Esta inovação permite que os jogadores ganhem recompensas reais em criptomoedas e NFTs por jogar, criando um novo modelo de negócios sustentável e verdadeiramente justo.

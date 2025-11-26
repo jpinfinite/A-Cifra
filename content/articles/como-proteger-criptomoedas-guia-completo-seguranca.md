@@ -1,40 +1,46 @@
-﻿---
+---
 id: '3'
 title: 'Como Proteger Suas Criptomoedas: Guia Completo de Segurança'
-slug: 'como-proteger-criptomoedas-guia-completo-seguranca'
-excerpt: 'Aprenda as melhores práticas para proteger suas criptomoedas: carteiras hardware, autenticação 2FA, backup de seeds e estratégias de segurança avançadas.'
+slug: como-proteger-criptomoedas-guia-completo-seguranca
+excerpt: >-
+  Aprenda as melhores práticas para proteger suas criptomoedas: carteiras
+  hardware, autenticação 2FA, backup de seeds e estratégias de segurança
+  avançadas.
 coverImage:
-  src: '/images/106.jpg'
-  alt: 'Segurança de carteira digital com elementos de proteção blockchain'
+  src: /images/106.jpg
+  alt: Segurança de carteira digital com elementos de proteção blockchain
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-15'
 updatedAt: '2025-01-15'
 category:
-  name: 'Segurança'
-  slug: 'seguranca'
-  description: 'Segurança em cripto'
+  name: Segurança
+  slug: seguranca
+  description: Segurança em cripto
 tags:
-  - 'segurança'
-  - 'carteiras'
-  - 'hardware wallet'
-  - '2fa'
-  - 'backup'
-  - 'seed phrase'
-  - 'proteção'
+  - segurança
+  - carteiras
+  - hardware wallet
+  - 2fa
+  - backup
+  - seed phrase
+  - proteção
 seo:
   metaTitle: 'Como Proteger Suas Criptomoedas: Guia Completo de Segurança | A Cifra'
-  metaDescription: 'Aprenda as melhores práticas para proteger criptomoedas: carteiras hardware, 2FA, backup de seeds e estratégias de segurança avançadas.'
+  metaDescription: >-
+    Aprenda as melhores práticas para proteger criptomoedas: carteiras hardware,
+    2FA, backup de seeds e estratégias de segurança avançadas.
   keywords:
-    - 'segurança criptomoedas'
-    - 'como proteger bitcoin'
-    - 'carteira hardware'
-    - 'seed phrase'
-    - '2fa'
-    - 'backup cripto'
+    - segurança criptomoedas
+    - como proteger bitcoin
+    - carteira hardware
+    - seed phrase
+    - 2fa
+    - backup cripto
+categorySlug: seguranca
 ---
 
 <p>A <strong>segurança de criptomoedas</strong> é fundamental para qualquer investidor no mercado cripto. Com o aumento de hacks, golpes e ataques, saber como proteger adequadamente seus ativos digitais pode ser a diferença entre preservar e perder seus investimentos.</p>

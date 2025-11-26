@@ -1,43 +1,49 @@
-﻿---
+---
 id: '11'
 title: 'Pools de Liquidez: O Coração da Finança Descentralizada (DeFi)'
-slug: 'pools-liquidez-coracao-financa-descentralizada-defi'
-excerpt: 'As pools de liquidez são fundamentais para o DeFi, permitindo negociações eficientes e recompensas para fornecedores. Descubra como funcionam e como participar.'
+slug: pools-liquidez-coracao-financa-descentralizada-defi
+excerpt: >-
+  As pools de liquidez são fundamentais para o DeFi, permitindo negociações
+  eficientes e recompensas para fornecedores. Descubra como funcionam e como
+  participar.
 coverImage:
-  src: '/images/161.webp'
-  alt: 'Representação visual de pools de liquidez DeFi com gráficos e moedas'
+  src: /images/161.webp
+  alt: Representação visual de pools de liquidez DeFi com gráficos e moedas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-30'
 updatedAt: '2025-01-30'
 category:
-  name: 'DeFi'
-  slug: 'defi'
-  description: 'Finanças Descentralizadas'
+  name: DeFi
+  slug: defi
+  description: Finanças Descentralizadas
 tags:
-  - 'pools de liquidez'
-  - 'defi'
-  - 'amm'
-  - 'uniswap'
-  - 'yield farming'
-  - 'perda impermanente'
-  - 'fornecedor liquidez'
+  - pools de liquidez
+  - defi
+  - amm
+  - uniswap
+  - yield farming
+  - perda impermanente
+  - fornecedor liquidez
 seo:
   metaTitle: 'Pools de Liquidez: Guia Completo do Coração do DeFi | A Cifra'
-  metaDescription: 'Guia completo sobre pools de liquidez: como funcionam, vantagens, riscos como perda impermanente, estratégias e como participar no DeFi.'
+  metaDescription: >-
+    Guia completo sobre pools de liquidez: como funcionam, vantagens, riscos
+    como perda impermanente, estratégias e como participar no DeFi.
   keywords:
-    - 'pools de liquidez'
-    - 'defi'
-    - 'amm'
-    - 'uniswap'
-    - 'perda impermanente'
-    - 'yield farming'
-    - 'fornecedor liquidez'
-    - 'sushiswap'
-    - 'curve'
+    - pools de liquidez
+    - defi
+    - amm
+    - uniswap
+    - perda impermanente
+    - yield farming
+    - fornecedor liquidez
+    - sushiswap
+    - curve
+categorySlug: defi
 ---
 
 As **pools de liquidez** são uma das principais inovações e características da Finança Descentralizada (DeFi), representando verdadeiramente o coração pulsante deste ecossistema revolucionário. Elas permitem que investidores forneçam liquidez para mercados descentralizados e obtenham recompensas atrativas em troca, criando um sistema financeiro mais eficiente e acessível.

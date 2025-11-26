@@ -1,42 +1,50 @@
-﻿---
+---
 id: '8'
-title: 'NFTs: O que São e como Estão Mudando a Forma como Compramos e Vendemos Arte e Colecionáveis'
-slug: 'nfts-revolucionando-arte-colecionaveis-mercado-digital'
-excerpt: 'Os NFTs estão revolucionando o mercado de arte e colecionáveis digitais. Descubra como funcionam, principais mercados e o impacto na indústria criativa.'
+title: >-
+  NFTs: O que São e como Estão Mudando a Forma como Compramos e Vendemos Arte e
+  Colecionáveis
+slug: nfts-revolucionando-arte-colecionaveis-mercado-digital
+excerpt: >-
+  Os NFTs estão revolucionando o mercado de arte e colecionáveis digitais.
+  Descubra como funcionam, principais mercados e o impacto na indústria
+  criativa.
 coverImage:
-  src: '/images/088.jpg'
-  alt: 'Smartphone exibindo NFT de arte digital com fundo artístico colorido'
+  src: /images/088.jpg
+  alt: Smartphone exibindo NFT de arte digital com fundo artístico colorido
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-27'
 updatedAt: '2025-01-27'
 category:
-  name: 'NFTs'
-  slug: 'nfts'
-  description: 'Tokens Não-Fungíveis'
+  name: NFTs
+  slug: nfts
+  description: Tokens Não-Fungíveis
 tags:
-  - 'nfts'
-  - 'arte digital'
-  - 'colecionáveis'
-  - 'blockchain'
-  - 'opensea'
-  - 'mercado nft'
-  - 'investimento nft'
+  - nfts
+  - arte digital
+  - colecionáveis
+  - blockchain
+  - opensea
+  - mercado nft
+  - investimento nft
 seo:
   metaTitle: 'NFTs: Como Estão Revolucionando Arte e Colecionáveis Digitais | A Cifra'
-  metaDescription: 'Guia completo sobre NFTs: o que são, como funcionam, principais mercados, como criar e vender, e o impacto na indústria da arte e colecionáveis.'
+  metaDescription: >-
+    Guia completo sobre NFTs: o que são, como funcionam, principais mercados,
+    como criar e vender, e o impacto na indústria da arte e colecionáveis.
   keywords:
-    - 'nfts'
-    - 'arte digital'
-    - 'colecionáveis nft'
-    - 'opensea'
-    - 'blockchain arte'
-    - 'como criar nft'
-    - 'investir nft'
-    - 'mercado nft'
+    - nfts
+    - arte digital
+    - colecionáveis nft
+    - opensea
+    - blockchain arte
+    - como criar nft
+    - investir nft
+    - mercado nft
+categorySlug: nfts
 ---
 
 Os **NFTs (Tokens Não Fungíveis)** estão revolucionando fundamentalmente a forma como compramos, vendemos e pensamos sobre arte e colecionáveis. Com a capacidade única de criar e transferir propriedade digital autêntica, os NFTs estão atraindo a atenção de artistas, colecionadores, investidores e entusiastas de tecnologia em todo o mundo.
