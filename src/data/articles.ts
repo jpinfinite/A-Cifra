@@ -44,9 +44,14 @@ function sortArticlesByDate(articles: Article[]): Article[] {
  */
 export async function getAllArticles(): Promise<Article[]> {
   try {
-    const fileArticles = loadAllArticlesFromFiles()
-    // Se houver artigos de arquivo, usa-os. Caso contrário, usa a configuração
-    const allArticles = fileArticles.length > 0 ? fileArticles : inMemoryArticles
+    const fileArticles = loadAllArticlesFromFiles('pt-BR')
+    
+    // Mesclar artigos de arquivo com artigos em memória
+    // Artigos de arquivo têm prioridade sobre os em memória (mesmo slug)
+    const fileArticleSlugs = new Set(fileArticles.map(a => a.slug))
+    const configArticles = inMemoryArticles.filter(a => !fileArticleSlugs.has(a.slug))
+    
+    const allArticles = [...fileArticles, ...configArticles]
     return sortArticlesByDate(allArticles)
   } catch (error) {
     console.error('Error loading all articles:', error)
@@ -59,8 +64,8 @@ export async function getAllArticles(): Promise<Article[]> {
  */
 export async function getArticleBySlug(slug: string): Promise<Article | undefined> {
   try {
-    // Tenta carregar de arquivo primeiro
-    const fileArticle = loadArticleBySlug(slug)
+    // Tenta carregar de arquivo primeiro (português)
+    const fileArticle = loadArticleBySlug(slug, 'pt-BR')
     if (fileArticle) return fileArticle
 
     // Fallback para artigos em memória

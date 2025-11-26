@@ -1,7 +1,7 @@
 # 🌍 Status do Sistema Bilíngue - A Cifra
 
-**Data:** 25 de novembro de 2025  
-**Status:** ✅ Implementado e Funcional
+**Data:** 26 de novembro de 2025  
+**Status:** ✅ Implementado, Funcional e em Produção
 
 ---
 
@@ -199,10 +199,15 @@ Ao criar qualquer artigo novo:
 - ✅ Erro de TypeScript no `articleLoader.ts`
 - ✅ Funções faltando (`loadAllArticlesFromFiles`, `loadArticleBySlug`)
 - ✅ Uso de `<img>` ao invés de `<Image>` do Next.js
+- ✅ Conflito de tipos ArticleFromFile vs Article
+- ✅ Falta de `generateStaticParams()` nas rotas EN
+- ✅ Conversão automática de tipos com categoria completa
+- ✅ Build compilando 100% no Cloudflare Pages
 
-### Pendentes
-- ⚠️ Warnings de ESLint (não críticos)
+### Pendentes (Não Críticos)
+- ⚠️ Warnings de ESLint (não impedem funcionamento)
 - ⚠️ Alguns componentes usando `any` no TypeScript
+- ⚠️ Otimização de imagens em SafeImage.tsx
 
 ---
 
@@ -220,6 +225,37 @@ Ao criar qualquer artigo novo:
 
 ---
 
-**Última atualização:** 25 de novembro de 2025  
+## 🎉 Deploy em Produção
+
+**Commit Principal:** `0caf9bf` - Implementação inicial  
+**Commit Fix:** `851fce0` - Correção de tipos e SSG  
+**Status Cloudflare:** ✅ Build Successful  
+**URL Base EN:** `https://a-cifra.com.br/en/article/[slug]`
+
+### Rotas Geradas
+- 🇧🇷 **Português:** 59 artigos em `/artigo/[slug]`
+- 🇺🇸 **Inglês:** 6 artigos em `/en/article/[slug]`
+
+### Artigos Ativos em Produção
+1. `/en/article/bitcoin-150k-end-2025-complete-analysis`
+2. `/en/article/bitcoin-complete-guide-beginners-2025`
+3. `/en/article/how-invest-cryptocurrency-2025-complete-guide`
+4. `/en/article/ethereum-2-0-future-second-largest-cryptocurrency`
+5. `/en/article/bitcoin-sharpe-ratio-zero-buying-opportunity`
+6. `/en/article/aethir-leads-decentralized-gpu-computing-revolution`
+
+---
+
+## 📈 Próximos Passos
+
+Ver documento completo: **PLANO_EXPANSAO_BILINGUE.md**
+
+**Meta Imediata:** 20 artigos bilíngues em 4 semanas  
+**Meta 3 Meses:** 50 artigos bilíngues  
+**Meta 6 Meses:** 100% do conteúdo bilíngue
+
+---
+
+**Última atualização:** 26 de novembro de 2025  
 **Responsável:** Agente A Cifra  
-**Status:** ✅ Pronto para Produção
+**Status:** ✅ Em Produção e Expandindo

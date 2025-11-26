@@ -12,6 +12,10 @@ export interface Article {
   tags: string[]
   seo?: SEOData
   monetization?: MonetizationData
+  language?: 'pt-BR' | 'en'
+  alternateLanguages?: {
+    [key: string]: string
+  }
 }
 
 export interface ImageData {

@@ -4,6 +4,7 @@ import { ArticleLayout } from '@/components/content'
 import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
 import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
 import { NewsletterCTA } from '@/components/newsletter'
+import { LanguageToggle } from '@/components/ui/LanguageToggle'
 // Anúncios agora são gerenciados dentro do ArticleContent
 import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
@@ -80,6 +81,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <Container size="xl" className="py-8">
         {/* Breadcrumbs */}
         <Breadcrumbs items={breadcrumbItems} className="mb-6" />
+        
+        {/* Language Toggle */}
+        {(article as any).alternateLanguages?.en && (
+          <div className="mb-6">
+            <LanguageToggle 
+              currentLang="pt-BR"
+              alternateSlug={(article as any).alternateLanguages.en}
+            />
+          </div>
+        )}
         
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Main Content */}

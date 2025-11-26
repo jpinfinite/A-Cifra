@@ -160,7 +160,9 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       metaTitle: fileArticle.seo.metaTitle || fileArticle.title,
       metaDescription: fileArticle.seo.metaDescription || fileArticle.excerpt,
       keywords: fileArticle.seo.keywords || []
-    } : undefined
+    } : undefined,
+    language: fileArticle.language,
+    alternateLanguages: fileArticle.alternateLanguages
   }
 }
 
