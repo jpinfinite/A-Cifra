@@ -30,23 +30,36 @@ export function ResponsiveImage({
   // Extrair nome base e extensão
   const getImageVariants = (imageSrc: string) => {
     const basePath = imageSrc.replace(/\.(jpg|jpeg|png|webp)$/i, '')
-    
+
+    // Verificar se já existem variantes otimizadas
+    const hasOptimizedVariants = imageSrc.includes('-sm') || imageSrc.includes('-md') || imageSrc.includes('-lg')
+
+    if (hasOptimizedVariants) {
+      return {
+        avif: {
+          sm: `${basePath}-sm.avif`,
+          md: `${basePath}-md.avif`,
+          lg: `${basePath}-lg.avif`,
+        },
+        webp: {
+          sm: `${basePath}-sm.webp`,
+          md: `${basePath}-md.webp`,
+          lg: `${basePath}-lg.webp`,
+        },
+        fallback: imageSrc
+      }
+    }
+
+    // Se não tem variantes, usar apenas a imagem original
     return {
-      avif: {
-        sm: `${basePath}-sm.avif`,
-        md: `${basePath}-md.avif`,
-        lg: `${basePath}-lg.avif`,
-      },
-      webp: {
-        sm: `${basePath}-sm.webp`,
-        md: `${basePath}-md.webp`,
-        lg: `${basePath}-lg.webp`,
-      },
+      avif: { sm: '', md: '', lg: '' },
+      webp: { sm: '', md: '', lg: '' },
       fallback: imageSrc
     }
   }
 
   const variants = getImageVariants(src)
+  const hasOptimizedVariants = variants.avif.sm !== ''
 
   const aspectRatioClasses = {
     video: 'aspect-video',
@@ -61,13 +74,13 @@ export function ResponsiveImage({
 
   const handleError = (e: React.SyntheticEvent<HTMLImageElement>) => {
     const img = e.currentTarget
-    
+
     // Se falhar, tentar fallback direto
     if (img.src !== variants.fallback) {
       img.src = variants.fallback
       return
     }
-    
+
     setHasError(true)
     setIsLoading(false)
   }
@@ -92,19 +105,23 @@ export function ResponsiveImage({
       )}
 
       <picture>
-        {/* AVIF - Melhor compressão */}
-        <source
-          type="image/avif"
-          srcSet={`${variants.avif.sm} 384w`}
-          sizes={sizes}
-        />
+        {/* AVIF - Melhor compressão (apenas se existir) */}
+        {hasOptimizedVariants && (
+          <source
+            type="image/avif"
+            srcSet={`${variants.avif.sm} 384w`}
+            sizes={sizes}
+          />
+        )}
 
-        {/* WebP - Boa compressão e compatibilidade */}
-        <source
-          type="image/webp"
-          srcSet={`${variants.webp.sm} 384w`}
-          sizes={sizes}
-        />
+        {/* WebP - Boa compressão e compatibilidade (apenas se existir) */}
+        {hasOptimizedVariants && (
+          <source
+            type="image/webp"
+            srcSet={`${variants.webp.sm} 384w`}
+            sizes={sizes}
+          />
+        )}
 
         {/* Fallback JPEG/PNG */}
         <img
