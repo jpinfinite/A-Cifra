@@ -129,11 +129,12 @@ export function loadArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-B
 
 // Função para converter ArticleFromFile para Article
 function convertToArticle(fileArticle: ArticleFromFile): Article {
-  // Encontrar categoria pelo slug
-  const category = categories.find(cat => cat.slug === fileArticle.categorySlug)
+  // Encontrar categoria pelo slug, usar 'bitcoin' como fallback
+  let category = categories.find(cat => cat.slug === fileArticle.categorySlug)
   
   if (!category) {
-    throw new Error(`Category not found for slug: ${fileArticle.categorySlug}`)
+    console.warn(`Category not found for slug: ${fileArticle.categorySlug}, using 'bitcoin' as fallback`)
+    category = categories.find(cat => cat.slug === 'bitcoin') || categories[0]
   }
 
   return {
@@ -171,13 +172,25 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
 // Funções públicas que retornam Article[]
 export function getArticlesAsArticleType(language: 'pt-BR' | 'en' = 'pt-BR'): Article[] {
   const fileArticles = getArticlesByLanguage(language)
-  return fileArticles.map(convertToArticle)
+  return fileArticles.map(article => {
+    try {
+      return convertToArticle(article)
+    } catch (error) {
+      console.error(`Error converting article ${article.slug}:`, error)
+      return null
+    }
+  }).filter((article): article is Article => article !== null)
 }
 
 export function getArticleAsArticleType(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): Article | null {
   const fileArticle = getArticleBySlug(slug, language)
   if (!fileArticle) return null
-  return convertToArticle(fileArticle)
+  try {
+    return convertToArticle(fileArticle)
+  } catch (error) {
+    console.error(`Error converting article ${slug}:`, error)
+    return null
+  }
 }
 
 // Export do tipo para uso externo
