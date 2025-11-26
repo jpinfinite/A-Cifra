@@ -21,15 +21,15 @@ interface ArticlePageProps {
 
 export async function generateMetadata({ params }: ArticlePageProps) {
   const article = await getArticleBySlug(params.slug)
-  
+
   if (!article) {
     return {
       title: 'Artigo não encontrado'
     }
   }
-  
+
   const metadata = generateArticleMetadata(article)
-  
+
   // Adiciona robots e canonical para melhor indexação
   return {
     ...metadata,
@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
 
 export async function generateStaticParams() {
   const articles = await getAllArticles()
-  
+
   return articles.map((article) => ({
     slug: article.slug,
   }))
@@ -56,7 +56,7 @@ export async function generateStaticParams() {
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const article = await getArticleBySlug(params.slug)
-  
+
   if (!article) {
     notFound()
   }
@@ -64,7 +64,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   // Busca artigos relacionados para aumentar engajamento e monetização
   const allArticles = await getAllArticles()
   const relatedArticles = getRelatedArticles(article, allArticles, 6)
-  
+
   const breadcrumbItems = [
     { name: 'Categorias', url: '/categorias' },
     { name: article.category.name, url: `/categoria/${article.category.slug}` },
@@ -77,23 +77,33 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
     <MainLayout>
       {/* SEO Schema */}
-      <ArticleSchema article={article} url={currentUrl} />
+      <ArticleSchema
+        title={article.title}
+        description={article.excerpt}
+        author={article.author.name}
+        publishedAt={article.publishedAt.toISOString()}
+        updatedAt={article.updatedAt.toISOString()}
+        image={article.coverImage.src}
+        url={currentUrl}
+        category={article.category.name}
+        tags={article.tags}
+      />
       <BreadcrumbSchema items={breadcrumbItems} />
-      
+
       <Container size="xl" className="py-8">
         {/* Breadcrumbs */}
         <Breadcrumbs items={breadcrumbItems} className="mb-6" />
-        
+
         {/* Language Toggle */}
         {'alternateLanguages' in article && article.alternateLanguages && 'en' in article.alternateLanguages && (
           <div className="mb-6">
-            <LanguageToggle 
+            <LanguageToggle
               currentLang="pt-BR"
               alternateSlug={article.alternateLanguages.en as string}
             />
           </div>
         )}
-        
+
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Main Content */}
           <article className="lg:col-span-8">
@@ -102,7 +112,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4">
                 {article.title}
               </h1>
-              
+
               <div className="flex items-center space-x-4 text-sm text-gray-600 dark:text-gray-400 mb-6">
                 <ReadingTime minutes={readingTime} />
                 {article.publishedAt && (
@@ -125,8 +135,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             )}
 
             {/* Article Content (com anúncios integrados) */}
-            <ArticleLayout 
-              article={article} 
+            <ArticleLayout
+              article={article}
               breadcrumbs={[]}
               relatedArticles={relatedArticles}
             />
