@@ -7,7 +7,7 @@ import matter from 'gray-matter'
 import ArticleContent from '@/components/ArticleContent'
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
-import { Article } from '@/utils/articleLoader'
+import { ArticleFromFile } from '@/utils/articleLoader'
 
 interface ArticlePageProps {
   params: {
@@ -15,7 +15,24 @@ interface ArticlePageProps {
   }
 }
 
-async function getArticle(slug: string): Promise<Article | null> {
+// Gerar paths estáticos para todos os artigos em inglês
+export async function generateStaticParams() {
+  const articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+  
+  if (!fs.existsSync(articlesDirectory)) {
+    return []
+  }
+
+  const fileNames = fs.readdirSync(articlesDirectory)
+  
+  return fileNames
+    .filter(fileName => fileName.endsWith('.md'))
+    .map(fileName => ({
+      slug: fileName.replace(/\.md$/, '')
+    }))
+}
+
+async function getArticle(slug: string): Promise<ArticleFromFile | null> {
   try {
     const articlesDirectory = path.join(process.cwd(), 'content/articles/en')
     const filePath = path.join(articlesDirectory, `${slug}.md`)
@@ -32,7 +49,7 @@ async function getArticle(slug: string): Promise<Article | null> {
       content,
       slug,
       language: 'en'
-    } as Article
+    } as ArticleFromFile
   } catch (error) {
     console.error('Error loading article:', error)
     return null

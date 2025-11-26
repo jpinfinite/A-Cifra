@@ -1,8 +1,11 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { Article } from '@/types'
+import { categories } from '@/lib/config'
 
-export interface Article {
+// Interface interna para artigos carregados de arquivos
+interface ArticleFromFile {
   id: string
   title: string
   slug: string
@@ -33,7 +36,7 @@ export interface Article {
   }
 }
 
-export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): Article[] {
+export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): ArticleFromFile[] {
   const articlesDirectory = language === 'en' 
     ? path.join(process.cwd(), 'content/articles/en')
     : path.join(process.cwd(), 'content/articles')
@@ -56,7 +59,7 @@ export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): Artic
         content,
         slug,
         language
-      } as Article
+      } as ArticleFromFile
     })
     .sort((a, b) => {
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
@@ -65,7 +68,7 @@ export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): Artic
   return articles
 }
 
-export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): Article | null {
+export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): ArticleFromFile | null {
   try {
     const articlesDirectory = language === 'en'
       ? path.join(process.cwd(), 'content/articles/en')
@@ -85,7 +88,7 @@ export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR
       content,
       slug,
       language
-    } as Article
+    } as ArticleFromFile
   } catch (error) {
     console.error(`Error loading article ${slug}:`, error)
     return null
@@ -115,11 +118,63 @@ export function getAllArticleSlugs(language?: 'pt-BR' | 'en'): string[] {
   return Array.from(new Set(allSlugs))
 }
 
-// Aliases para compatibilidade com código existente
+// Aliases para compatibilidade com código existente - retornam Article[]
 export function loadAllArticlesFromFiles(language: 'pt-BR' | 'en' = 'pt-BR'): Article[] {
-  return getArticlesByLanguage(language)
+  return getArticlesAsArticleType(language)
 }
 
 export function loadArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): Article | null {
-  return getArticleBySlug(slug, language)
+  return getArticleAsArticleType(slug, language)
 }
+
+// Função para converter ArticleFromFile para Article
+function convertToArticle(fileArticle: ArticleFromFile): Article {
+  // Encontrar categoria pelo slug
+  const category = categories.find(cat => cat.slug === fileArticle.categorySlug)
+  
+  if (!category) {
+    throw new Error(`Category not found for slug: ${fileArticle.categorySlug}`)
+  }
+
+  return {
+    id: fileArticle.id,
+    title: fileArticle.title,
+    slug: fileArticle.slug,
+    excerpt: fileArticle.excerpt,
+    content: fileArticle.content,
+    coverImage: {
+      src: fileArticle.coverImage?.src || '/images/default.jpg',
+      alt: fileArticle.coverImage?.alt || fileArticle.title,
+      width: fileArticle.coverImage?.width || 1200,
+      height: fileArticle.coverImage?.height || 630
+    },
+    author: {
+      name: fileArticle.author?.name || 'Jonatha Pereira',
+      avatar: fileArticle.author?.avatar || '/Jonatha-Pereira-SEO.png'
+    },
+    publishedAt: new Date(fileArticle.publishedAt),
+    updatedAt: fileArticle.updatedAt ? new Date(fileArticle.updatedAt) : undefined,
+    category: category,
+    tags: fileArticle.tags || [],
+    seo: fileArticle.seo ? {
+      metaTitle: fileArticle.seo.metaTitle || fileArticle.title,
+      metaDescription: fileArticle.seo.metaDescription || fileArticle.excerpt,
+      keywords: fileArticle.seo.keywords || []
+    } : undefined
+  }
+}
+
+// Funções públicas que retornam Article[]
+export function getArticlesAsArticleType(language: 'pt-BR' | 'en' = 'pt-BR'): Article[] {
+  const fileArticles = getArticlesByLanguage(language)
+  return fileArticles.map(convertToArticle)
+}
+
+export function getArticleAsArticleType(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): Article | null {
+  const fileArticle = getArticleBySlug(slug, language)
+  if (!fileArticle) return null
+  return convertToArticle(fileArticle)
+}
+
+// Export do tipo para uso externo
+export type { ArticleFromFile }
