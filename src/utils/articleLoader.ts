@@ -161,7 +161,9 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       metaDescription: fileArticle.seo.metaDescription || fileArticle.excerpt,
       keywords: fileArticle.seo.keywords || []
     } : undefined,
-    language: fileArticle.language,
+    language: (fileArticle.language === 'pt-BR' || fileArticle.language === 'en') 
+      ? fileArticle.language 
+      : undefined,
     alternateLanguages: fileArticle.alternateLanguages
   }
 }
