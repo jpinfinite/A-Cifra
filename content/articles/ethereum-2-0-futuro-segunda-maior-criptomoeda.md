@@ -13,6 +13,9 @@ author:
 publishedAt: '2025-10-26'
 updatedAt: '2025-10-26'
 categorySlug: 'ethereum'
+language: 'pt-BR'
+alternateLanguages:
+  en: 'ethereum-2-0-future-second-largest-cryptocurrency'
 tags:
   - 'ethereum'
   - 'ethereum 2.0'

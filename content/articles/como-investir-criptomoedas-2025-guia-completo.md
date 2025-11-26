@@ -14,6 +14,9 @@ author:
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
 categorySlug: 'educacao'
+language: 'pt-BR'
+alternateLanguages:
+  en: 'how-invest-cryptocurrency-2025-complete-guide'
 tags:
   - 'investimento'
   - 'iniciantes'

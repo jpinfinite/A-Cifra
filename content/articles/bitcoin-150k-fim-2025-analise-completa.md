@@ -15,6 +15,9 @@ publishedAt: "2025-11-21"
 updatedAt: "2025-11-21"
 categorySlug: "analises"
 tags: ["bitcoin", "btc", "análise técnica", "previsão", "mercado", "2025"]
+language: 'pt-BR'
+alternateLanguages:
+  en: 'bitcoin-150k-end-2025-complete-analysis'
 seo:
   metaTitle: "Bitcoin a $150k em 2025? Análise Completa do Momento Atual | A Cifra"
   metaDescription: "Análise profunda sobre a possibilidade do Bitcoin chegar a $150.000 até o fim de 2025. Indicadores técnicos, fundamentalistas e contexto macroeconômico."

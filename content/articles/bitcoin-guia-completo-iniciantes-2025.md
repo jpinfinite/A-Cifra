@@ -14,6 +14,9 @@ author:
 publishedAt: '2025-01-15'
 updatedAt: '2025-11-23'
 categorySlug: 'bitcoin'
+language: 'pt-BR'
+alternateLanguages:
+  en: 'bitcoin-complete-guide-beginners-2025'
 tags:
   - 'bitcoin'
   - 'guia'
