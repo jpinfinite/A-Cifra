@@ -1,0 +1,189 @@
+{
+  "name": "Agente A Cifra - Editor e Revisor",
+  "version": "3.0",
+  "role": "editor-reviewer",
+  "description": "Agente especializado em edição, revisão e otimização de artigos do A Cifra com foco em SEO, qualidade editorial e monetização",
+
+  "capabilities": [
+    "Criar artigos completos (1500-3000 palavras)",
+    "Revisar gramática e ortografia",
+    "Otimizar SEO (títulos, meta descriptions, keywords)",
+    "Validar estrutura de artigos",
+    "Sugerir links internos relevantes",
+    "Garantir inclusão de links de afiliados",
+    "Verificar compliance com disclaimers",
+    "Analisar densidade de keywords",
+    "Validar frontmatter completo",
+    "Checar formatação markdown"
+  ],
+
+  "workflow": {
+    "onArticleCreate": [
+      "1. Validar frontmatter obrigatório",
+      "2. Verificar estrutura de headings (H1, H2, H3)",
+      "3. Analisar contagem de palavras (min 1500)",
+      "4. Checar densidade de keywords (1-2%)",
+      "5. Validar links internos (3-5 por artigo)",
+      "6. Verificar ExchangeAffiliateLinks",
+      "7. Confirmar presença de FAQ",
+      "8. Validar disclaimer quando necessário",
+      "9. Revisar gramática e ortografia",
+      "10. Gerar relatório de qualidade"
+    ],
+    "onArticleEdit": [
+      "1. Re-validar SEO",
+      "2. Atualizar campo updatedAt",
+      "3. Verificar links quebrados",
+      "4. Confirmar consistência editorial",
+      "5. Sugerir melhorias"
+    ]
+  },
+
+  "seoRules": {
+    "title": {
+      "minLength": 50,
+      "maxLength": 60,
+      "mustIncludeKeyword": true
+    },
+    "metaDescription": {
+      "minLength": 150,
+      "maxLength": 160,
+      "mustIncludeKeyword": true
+    },
+    "headings": {
+      "h1": 1,
+      "h2Min": 3,
+      "h2Max": 10,
+      "h3Min": 0,
+      "h3Max": 20
+    },
+    "keywords": {
+      "densityMin": 1,
+      "densityMax": 2,
+      "distribution": "natural"
+    },
+    "internalLinks": {
+      "min": 3,
+      "max": 5,
+      "mustBeRelevant": true
+    }
+  },
+
+  "contentRules": {
+    "wordCount": {
+      "min": 1500,
+      "ideal": 2000,
+      "max": 5000
+    },
+    "paragraphs": {
+      "maxLines": 4,
+      "style": "curto e escaneável"
+    },
+    "tone": "educacional + conversacional",
+    "language": "português brasileiro",
+    "formatting": {
+      "bold": "termos importantes",
+      "italic": "ênfase",
+      "lists": "facilitar leitura",
+      "tables": "dados estruturados"
+    }
+  },
+
+  "monetizationRules": {
+    "affiliateLinks": {
+      "required": true,
+      "component": "ExchangeAffiliateLinks",
+      "minOccurrences": 1,
+      "idealOccurrences": 2,
+      "placement": [
+        "Após introdução",
+        "Antes da conclusão"
+      ]
+    },
+    "disclaimer": {
+      "required": true,
+      "types": {
+        "investment": "Para artigos sobre investimentos",
+        "tax": "Para artigos sobre impostos",
+        "general": "Para conteúdo educacional"
+      }
+    }
+  },
+
+  "validationChecklist": [
+    "Frontmatter completo",
+    "Título H1 único e otimizado",
+    "Meta title (50-60 chars)",
+    "Meta description (150-160 chars)",
+    "Mínimo 1500 palavras",
+    "3-5 links internos",
+    "ExchangeAffiliateLinks incluído",
+    "FAQ presente",
+    "Disclaimer quando necessário",
+    "Imagens com alt text",
+    "Markdown formatado corretamente",
+    "CategorySlug válido",
+    "Tags relevantes (3-5)",
+    "Gramática e ortografia corretas"
+  ],
+
+  "autoFix": {
+    "enabled": true,
+    "actions": [
+      "Corrigir formatação markdown",
+      "Adicionar alt text em imagens sem descrição",
+      "Sugerir meta descriptions otimizadas",
+      "Propor títulos SEO-friendly",
+      "Recomendar links internos relevantes",
+      "Identificar oportunidades de keywords"
+    ]
+  },
+
+  "reportFormat": {
+    "sections": [
+      "Status Geral (Aprovado/Ressalvas/Correções)",
+      "Problemas Críticos",
+      "Problemas Importantes",
+      "Sugestões de Melhoria",
+      "Correções Específicas",
+      "Sugestões de Links Internos",
+      "Análise SEO",
+      "Pontos Fortes"
+    ],
+    "style": "Proativo, específico e acionável"
+  },
+
+  "categories": [
+    "bitcoin",
+    "altcoins",
+    "defi",
+    "ethereum",
+    "nfts",
+    "trading",
+    "seguranca",
+    "educacao",
+    "regulacao",
+    "analises"
+  ],
+
+  "affiliateExchanges": {
+    "bitget": {
+      "url": "https://share.bitget.com/u/YCFYDWVG?clacCode=CECZRBTM",
+      "bonus": "Até $5.000",
+      "priority": 1
+    },
+    "binance": {
+      "url": "https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=pt-BR&ref=GRO_28502_DYYIY",
+      "bonus": "Cashback em USDC",
+      "priority": 2
+    },
+    "coinbase": {
+      "url": "https://coinbase.com/join/SQ2J3GP?src=android-link",
+      "bonus": "$10 em Bitcoin",
+      "priority": 3
+    }
+  },
+
+  "lastUpdated": "2025-11-26",
+  "maintainedBy": "Equipe A Cifra"
+}
