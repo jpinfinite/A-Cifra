@@ -4,7 +4,7 @@ title: 'Tokenomics: Como Avaliar a Economia de um Token'
 slug: 'tokenomics-avaliar-economia-token'
 excerpt: 'Guia completo para analisar tokenomics e economia de projetos cripto.'
 coverImage:
-  src: '/images/083.jpg'
+  src: '/images/crypto-tokenomics-economy-styled.jpg'
   alt: 'Tokenomics: Como Avaliar a Economia de um Token'
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ slug: 'bitcoin-150k-fim-2025-analise-completa'
 title: "Bitcoin Pode Chegar a $150.000 Até o Fim de 2025? Análise Completa do Momento Atual"
 excerpt: 'Análise completa e realista sobre a possibilidade do Bitcoin atingir $150.000 até o fim de 2025, considerando indicadores técnicos, fundamentalistas e contexto macroeconômico.'
 coverImage:
-  src: '/images/041.jpg'
+  src: '/images/bitcoin-price-analysis-styled.jpg'
   alt: 'Bitcoin - Análise de Preço 2025'
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: 'Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos'
 slug: 'analisar-criptomoedas-indicadores-fundamentais-tecnicos'
 excerpt: 'Guia completo para análise de criptomoedas: indicadores fundamentais (tecnologia, equipe, adoção) e técnicos (preço, volume, padrões) para tomar decisões de investimento informadas.'
 coverImage:
-  src: '/images/078.jpg'
+  src: '/images/crypto-market-analysis-new-styled.jpg'
   alt: 'Gráfico com múltiplos indicadores de análise de criptomoedas'
   width: 1200
   height: 630
@@ -213,7 +213,7 @@ Mede o humor do mercado:
 
 **1. Médias Móveis**
 - **MA 20:** Tendência de curto prazo
-- **MA 50:** Tendência de médio prazo  
+- **MA 50:** Tendência de médio prazo
 - **MA 200:** Tendência de longo prazo
 
 **Sinais:**

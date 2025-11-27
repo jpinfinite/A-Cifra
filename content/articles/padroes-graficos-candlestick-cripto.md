@@ -4,7 +4,7 @@ title: 'Padrões Gráficos e Candlestick em Cripto'
 slug: 'padroes-graficos-candlestick-cripto'
 excerpt: 'Aprenda os principais padrões de candlestick para trading de criptomoedas.'
 coverImage:
-  src: '/images/089.jpg'
+  src: '/images/crypto-trading-candlestick-styled.jpg'
   alt: 'Padrões Gráficos e Candlestick em Cripto'
   width: 1200
   height: 630
