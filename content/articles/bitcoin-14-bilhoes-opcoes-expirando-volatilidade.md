@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Equipe A Cifra'
   avatar: '/avatar.png'
-publishedAt: '2025-11-
-atedAt: '2025-11-27'
+publishedAt: '2025-11-27'
+updatedAt: '2025-11-27'
 categorySlug: 'trading'
 tags: ['bitcoin', 'opções', 'volatilidade', 'trading', 'derivativos']
 seo:

@@ -1,5 +1,5 @@
 ---
-idcoin-95k-thanksgiving-2025-analise'
+id: 'bitcoin-95k-thanksgiving-2025-analise'
 title: 'Bitcoin Busca Romper $95K no Thanksgiving 2025 - Análise do Rally'
 slug: 'bitcoin-95k-thanksgiving-2025-analise'
 excerpt: 'Bitcoin oscila perto de $95K enquanto traders aguardam o rompimento histórico no Thanksgiving. Análise técnica mostra níveis-chave e o que esperar nas próximas horas.'
