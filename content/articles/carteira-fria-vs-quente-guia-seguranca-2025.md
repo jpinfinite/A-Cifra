@@ -1,7 +1,7 @@
 ---
 id: 'carteira-fria-vs-quente-guia-seguranca-2025'
-title: 'Carteira Fria vs Quente: Guia Definitivo de Segurança Cripto 2025'
-slug: 'carteira-fria-vs-qia-seguranca-2025'
+title: 'Carteira Fria vs Quente - Guia Definitivo de Segurança Cripto 2025'
+slug: 'carteira-fria-vs-quente-guia-seguranca-2025'
 excerpt: 'Descubra as diferenças entre carteiras frias e quentes, qual é a mais segura para suas criptomoedas e como proteger seus ativos de hackers. Guia completo com comparações, recomendações e melhores práticas.'
 coverImage:
   src: '/images/cold-hot-wallet-security-2025.jpg'

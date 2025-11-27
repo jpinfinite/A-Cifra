@@ -1,6 +1,6 @@
 ---
 id: 'bitcoin-100k-dezembro-2025-analise-caminho'
-title: 'Bitcoin Rumo aos $100K em Dezembro 2025: Análise Completa do Caminh
+title: 'Bitcoin Rumo aos $100K em Dezembro 2025 - Análise Completa do Caminho'
 slug: 'bitcoin-100k-dezembro-2025-analise-caminho'
 excerpt: 'Bitcoin está a apenas 2% dos $100.000. Análise técnica e fundamentalista completa mostra por que dezembro de 2025 pode ser o mês histórico. Descubra os catalisadores, resistências e o que esperar após romper os 6 dígitos.'
 coverImage:

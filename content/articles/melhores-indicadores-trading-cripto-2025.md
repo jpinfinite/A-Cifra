@@ -1,6 +1,6 @@
 ---
 id: 'melhores-indicadores-trading-cripto-2025'
-title: 'Os 7 Melhores Indicadores de Trading para Criptom2025'
+title: 'Os 7 Melhores Indicadores de Trading para Criptomoedas em 2025'
 slug: 'melhores-indicadores-trading-cripto-2025'
 excerpt: 'Descubra os indicadores técnicos mais eficazes para trading de criptomoedas em 2025. Guia completo com estratégias práticas, exemplos reais e configurações otimizadas para maximizar seus lucros.'
 coverImage:
