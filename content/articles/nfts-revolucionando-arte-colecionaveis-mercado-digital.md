@@ -9,8 +9,8 @@ excerpt: >-
   Descubra como funcionam, principais mercados e o impacto na indústria
   criativa.
 coverImage:
-  src: /images/088.jpg
-  alt: Smartphone exibindo NFT de arte digital com fundo artístico colorido
+  src: /images/nft-art-collection-unique-styled.jpg
+  alt: Coleção de NFTs e arte digital com visual moderno
   width: 1200
   height: 630
 author:

@@ -4,7 +4,7 @@ title: 'Análise On-Chain: Métricas Importantes para Investidores'
 slug: 'on-chain-analysis-metricas-importantes'
 excerpt: 'Descubra as principais métricas on-chain para análise de criptomoedas.'
 coverImage:
-  src: '/images/078.jpg'
+  src: '/images/crypto-market-analysis-new-styled.jpg'
   alt: 'Análise On-Chain: Métricas Importantes para Investidores'
   width: 1200
   height: 630
