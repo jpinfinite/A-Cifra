@@ -1,6 +1,6 @@
 ---
-id:-bitcoin-etf-2-bilhoes-saidas-novembro'
-title: 'BlackRock: $2.3 Bilhões em Saídas do IBIT em Novembro São Perfeitamente Normais'
+id: 'blackrock-bitcoin-etf-2-bilhoes-saidas-novembro'
+title: 'BlackRock - $2.3 Bilhões em Saídas do IBIT em Novembro São Perfeitamente Normais'
 slug: 'blackrock-bitcoin-etf-2-bilhoes-saidas-novembro'
 excerpt: 'Executivo da BlackRock afirma que $2.34 bilhões em saídas do ETF de Bitcoin IBIT em novembro são normais após demanda que levou fundo perto de $100 bilhões. Análise do impacto no mercado.'
 coverImage:
