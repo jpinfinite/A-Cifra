@@ -1,5 +1,5 @@
 ---
-id: 'top-tcoins-dezembro-2025-investir'
+id: 'top-10-altcoins-dezembro-2025-investir'
 title: 'Top 10 Altcoins para Investir em Dezembro 2025: Análise Fundamentalista Completa'
 slug: 'top-10-altcoins-dezembro-2025-investir'
 excerpt: 'Descubra as 10 altcoins mais promissoras para investir em dezembro 2025. Análise fundamentalista completa, potencial de valorização, riscos e estratégias de portfolio para maximizar seus ganhos.'

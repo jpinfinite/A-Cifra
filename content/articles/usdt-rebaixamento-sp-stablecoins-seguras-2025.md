@@ -1,6 +1,6 @@
 ---
 id: 'usdt-rebaixamento-sp-stablecoins-seguras-2025'
-title: ' Risco? S&P Rebaixa Rating para Nota Mais Baixa - Guia Completo de Stablecoins Seguras 2025'
+title: 'USDT em Risco? S&P Rebaixa Rating para Nota Mais Baixa - Guia Completo de Stablecoins Seguras 2025'
 slug: 'usdt-rebaixamento-sp-stablecoins-seguras-2025'
 excerpt: 'S&P Global rebaixou o rating do USDT para a nota mais baixa. Entenda o que isso significa, os riscos envolvidos e quais são as stablecoins mais seguras para proteger seu patrimônio em 2025.'
 coverImage:

@@ -1,6 +1,6 @@
 ---
 id: 'bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes'
-title: 'Bitcoin ETF Spot Quebra Sequêdas com $70 Milhões em Entradas'
+title: 'Bitcoin ETF Spot Quebra Sequência com $70 Milhões em Entradas'
 slug: 'bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes'
 excerpt: 'ETFs de Bitcoin spot registram $70 milhões em entradas após 5 dias consecutivos de saídas. Análise do que mudou no mercado e impacto no preço do BTC.'
 coverImage:
