@@ -20,6 +20,10 @@ const footerLinks = {
     { label: 'Contato', href: '/contatos' },
     { label: 'Política de Privacidade', href: '/privacidade' },
     { label: 'Termos de Uso', href: '/termos' },
+  ],
+  parceiros: [
+    { label: 'Detailing Prime', href: 'https://detailingprime.com.br', external: true },
+    { label: 'Cronixverso', href: 'https://www.cronixverso.com.br', external: true },
   ]
 }
 
@@ -45,25 +49,25 @@ export function Footer() {
     <footer className="bg-brand-dark-blue text-white">
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         {/* Main Footer Content */}
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5">
           {/* Brand Section */}
           <div className="lg:col-span-1">
-            <Logo 
-              size="md" 
+            <Logo
+              size="md"
               variant="footer"
               className="focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue"
             />
             <Text className="mt-4 text-gray-300 max-w-xs">
-              Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. 
+              Seu guia completo sobre criptomoedas, blockchain e investimentos digitais.
               Análises, notícias e educação financeira.
             </Text>
-            
+
             {/* Contact Email */}
             <div className="mt-6 flex items-center gap-2 text-gray-300">
               <svg className="w-5 h-5 text-brand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
-              <a 
+              <a
                 href="mailto:cifraaessenciacoin@gmail.com"
                 className="hover:text-brand-gold transition-colors duration-200 text-sm"
               >
@@ -143,6 +147,30 @@ export function Footer() {
                   >
                     {link.label}
                   </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Parceiros */}
+          <div>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-brand-gold">
+              Parceiros
+            </h3>
+            <ul className="mt-4 space-y-3">
+              {footerLinks.parceiros.map((link) => (
+                <li key={link.href}>
+                  <a
+                    href={link.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1"
+                  >
+                    {link.label}
+                    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
                 </li>
               ))}
             </ul>
