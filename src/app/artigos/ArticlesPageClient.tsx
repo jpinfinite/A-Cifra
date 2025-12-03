@@ -26,7 +26,7 @@ export default function ArticlesPageClient({ articles }: ArticlesPageClientProps
     setFilteredArticles(filtered)
   }
 
-  const featuredArticle = fcles[0]
+  const featuredArticle = filteredArticles[0]
   const otherArticles = filteredArticles.slice(1)
 
   return (
