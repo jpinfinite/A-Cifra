@@ -1,24 +1,22 @@
-interface FAQItem {
+interface FAQ {
   question: string
   answer: string
 }
 
 interface FAQSchemaProps {
-  items: FAQItem[]
+  faqs: FAQ[]
 }
 
-export function FAQSchema({ items }: FAQSchemaProps) {
-  if (!items || items.length === 0) return null
-
+export function FAQSchema({ faqs }: FAQSchemaProps) {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: items.map(item => ({
+    mainEntity: faqs.map(faq => ({
       '@type': 'Question',
-      name: item.question,
+      name: faq.question,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: item.answer
+        text: faq.answer
       }
     }))
   }

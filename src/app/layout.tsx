@@ -111,11 +111,17 @@ export default function RootLayout({
     <html lang="pt-BR" className={`${inter.variable} ${poppins.variable} scroll-smooth`} suppressHydrationWarning>
       <head>
         {/* Preconnect para performance */}
-        <link rel="preconnect" href="https://news.google.com" />
-        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://news.google.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
-        
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+
+        {/* Preload recursos críticos */}
+        <link rel="preload" href="/images/logos/favcoin.png" as="image" type="image/png" />
+        <link rel="preload" href="/images/cifra-principal.png" as="image" type="image/png" />
+
         {/* Structured Data */}
         <StructuredData data={generateWebsiteStructuredData()} />
       </head>
@@ -140,9 +146,9 @@ export default function RootLayout({
                 type: "NewsArticle",
                 isPartOfType: ["Product"],
                 isPartOfProductId: "CAowlPfdCw:openaccess",
-                clientOptions: { 
-                  theme: "light", 
-                  lang: "pt-BR" 
+                clientOptions: {
+                  theme: "light",
+                  lang: "pt-BR"
                 },
               });
             });
@@ -166,13 +172,13 @@ export default function RootLayout({
         {/* Google News - Removido temporariamente devido a erro CORS */}
 
         {/* Skip link para acessibilidade */}
-        <a 
-          href="#main-content" 
+        <a
+          href="#main-content"
           className="skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold"
         >
           Pular para o conteúdo principal
         </a>
-        
+
         {/* Conteúdo principal */}
         <div id="main-content">
           {children}

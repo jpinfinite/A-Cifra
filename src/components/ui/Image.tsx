@@ -8,13 +8,13 @@ interface ImageProps extends NextImageProps {
   fallbackSrc?: string
 }
 
-export function Image({ 
-  src, 
-  alt, 
+export function Image({
+  src,
+  alt,
   fallbackSrc = '/images/general/cifra-principal.png',
   className,
   onError,
-  ...props 
+  ...props
 }: ImageProps) {
   const [imgSrc, setImgSrc] = useState(src)
   const [hasError, setHasError] = useState(false)
@@ -32,6 +32,8 @@ export function Image({
       src={imgSrc}
       alt={alt}
       onError={handleError}
+      loading="lazy"
+      decoding="async"
       className={cn(
         hasError && 'grayscale',
         className
