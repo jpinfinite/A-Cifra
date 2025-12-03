@@ -37,7 +37,7 @@ interface ArticleFromFile {
 }
 
 export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): ArticleFromFile[] {
-  const articlesDirectory = language === 'en' 
+  const articlesDirectory = language === 'en'
     ? path.join(process.cwd(), 'content/articles/en')
     : path.join(process.cwd(), 'content/articles')
 
@@ -73,9 +73,9 @@ export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR
     const articlesDirectory = language === 'en'
       ? path.join(process.cwd(), 'content/articles/en')
       : path.join(process.cwd(), 'content/articles')
-    
+
     const fullPath = path.join(articlesDirectory, `${slug}.md`)
-    
+
     if (!fs.existsSync(fullPath)) {
       return null
     }
@@ -102,7 +102,7 @@ export function getAllArticleSlugs(language?: 'pt-BR' | 'en'): string[] {
     const articlesDirectory = language === 'en'
       ? path.join(process.cwd(), 'content/articles/en')
       : path.join(process.cwd(), 'content/articles')
-    
+
     if (!fs.existsSync(articlesDirectory)) {
       return []
     }
@@ -115,7 +115,7 @@ export function getAllArticleSlugs(language?: 'pt-BR' | 'en'): string[] {
   // Get slugs from both languages
   const ptSlugs = getAllArticleSlugs('pt-BR')
   const enSlugs = getAllArticleSlugs('en')
-  
+
   const allSlugs = [...ptSlugs, ...enSlugs]
   return Array.from(new Set(allSlugs))
 }
@@ -133,7 +133,7 @@ export function loadArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-B
 function convertToArticle(fileArticle: ArticleFromFile): Article {
   // Encontrar categoria pelo slug, usar 'bitcoin' como fallback
   let category = categories.find(cat => cat.slug === fileArticle.categorySlug)
-  
+
   if (!category) {
     if (process.env.NODE_ENV === 'development') {
       console.warn(`Category not found for slug: ${fileArticle.categorySlug}, using 'bitcoin' as fallback`)
@@ -157,7 +157,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       name: fileArticle.author?.name || 'Jonatha Pereira',
       avatar: fileArticle.author?.avatar || '/Jonatha-Pereira-SEO.png'
     },
-    publishedAt: new Date(fileArticle.publishedAt),
+    publishedAt: fileArticle.publishedAt ? new Date(fileArticle.publishedAt) : new Date(),
     updatedAt: fileArticle.updatedAt ? new Date(fileArticle.updatedAt) : undefined,
     category: category,
     tags: fileArticle.tags || [],
@@ -166,8 +166,8 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       metaDescription: fileArticle.seo.metaDescription || fileArticle.excerpt,
       keywords: fileArticle.seo.keywords || []
     } : undefined,
-    language: (fileArticle.language === 'pt-BR' || fileArticle.language === 'en') 
-      ? fileArticle.language 
+    language: (fileArticle.language === 'pt-BR' || fileArticle.language === 'en')
+      ? fileArticle.language
       : undefined,
     alternateLanguages: fileArticle.alternateLanguages
   }
