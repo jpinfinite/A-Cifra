@@ -25,12 +25,12 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
   }
 
   const estimatedReadTime = Math.ceil(article.content.split(' ').length / 200)
-  
+
   // Obter imagem otimizada baseada na categoria
-  const imageData = article.coverImage?.src 
-    ? article.coverImage 
+  const imageData = article.coverImage?.src
+    ? article.coverImage
     : findBestImage(article.category.slug, article.tags)
-  
+
   const imageSrc = imageData?.src || '/images/general/placeholder.svg'
   const imageAlt = imageData?.alt || article.title
 
@@ -52,8 +52,8 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
         <div
           className={cn(
             'relative overflow-hidden',
-            featured 
-              ? 'md:w-1/2 md:flex-shrink-0 h-48 md:h-auto' 
+            featured
+              ? 'md:w-1/2 md:flex-shrink-0 h-48 md:h-auto'
               : 'w-full'
           )}
         >
@@ -61,18 +61,18 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
             src={imageSrc}
             alt={imageAlt}
             aspectRatio="video"
-            sizes={featured 
-              ? '(max-width: 768px) 100vw, 50vw' 
+            sizes={featured
+              ? '(max-width: 768px) 100vw, 50vw'
               : '(max-width: 640px) 100vw, (max-width: 1024px) 662px, 662px'
             }
             className="transition-transform duration-500 group-hover:scale-110"
           />
-          
+
           {/* Category Badge */}
           <div className="absolute top-3 left-3 z-10">
             <span
               className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium text-white shadow-sm"
-              style={{ 
+              style={{
                 backgroundColor: article.category.color,
                 textShadow: '0 1px 2px rgba(0, 0, 0, 0.3)' // Melhora contraste
               }}
@@ -152,8 +152,8 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
             {/* Publication Date */}
             <div className="flex items-center space-x-1">
               <Calendar className="h-4 w-4" />
-              <time dateTime={article.publishedAt.toISOString()}>
-                {formatDate(article.publishedAt)}
+              <time dateTime={article.publishedAt?.toISOString()}>
+                {article.publishedAt && formatDate(article.publishedAt)}
               </time>
             </div>
           </div>

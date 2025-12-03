@@ -51,8 +51,8 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
         url: '/images/cifra-principal.png'
       }
     },
-    datePublished: article.publishedAt.toISOString(),
-    dateModified: article.updatedAt?.toISOString() || article.publishedAt.toISOString(),
+    datePublished: article.publishedAt?.toISOString() || new Date().toISOString(),
+    dateModified: article.updatedAt?.toISOString() || article.publishedAt?.toISOString() || new Date().toISOString(),
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': currentUrl
@@ -106,8 +106,8 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
 
           <div className="flex items-center space-x-2">
             <Calendar className="h-4 w-4" />
-            <time dateTime={article.publishedAt.toISOString()}>
-              {formatDate(article.publishedAt)}
+            <time dateTime={article.publishedAt?.toISOString()}>
+              {article.publishedAt && formatDate(article.publishedAt)}
             </time>
           </div>
 
@@ -134,7 +134,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
         {/* Share Buttons */}
         <div className="flex items-center space-x-2 pb-6 border-b border-gray-200">
           <span className="text-sm font-medium text-gray-700 mr-2">Compartilhar:</span>
-          
+
           <Button
             variant="ghost"
             size="sm"
@@ -202,8 +202,8 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
 
       {/* Related Articles Inline - Aumenta pageviews e monetização */}
       {relatedArticles.length > 0 && (
-        <RelatedArticlesInline 
-          articles={relatedArticles.slice(0, 3)} 
+        <RelatedArticlesInline
+          articles={relatedArticles.slice(0, 3)}
           title="📚 Continue Aprendendo"
         />
       )}
@@ -228,7 +228,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
               {article.author.name}
             </Heading>
             <Text className="text-gray-600">
-              Especialista em criptomoedas e blockchain, compartilhando conhecimento 
+              Especialista em criptomoedas e blockchain, compartilhando conhecimento
               para ajudar você a navegar no mundo das finanças digitais.
             </Text>
           </div>
@@ -239,7 +239,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
           <Text size="sm" className="text-gray-500">
             Última atualização: {formatDate(article.updatedAt || article.publishedAt)}
           </Text>
-          
+
           <div className="flex items-center space-x-2">
             <Text size="sm" className="text-gray-700">Gostou? Compartilhe:</Text>
             <Button

@@ -25,12 +25,12 @@ export function FeaturedArticleCard({ article, className }: FeaturedArticleCardP
   }
 
   const estimatedReadTime = Math.ceil(article.content.split(' ').length / 200)
-  
+
   // Obter imagem otimizada baseada na categoria (featured sempre tem imagem)
-  const imageData = article.coverImage?.src 
-    ? article.coverImage 
+  const imageData = article.coverImage?.src
+    ? article.coverImage
     : findBestImage(article.category.slug, article.tags)
-  
+
   const imageSrc = imageData?.src || '/images/general/placeholder.svg'
   const imageAlt = imageData?.alt || article.title
 
@@ -54,7 +54,7 @@ export function FeaturedArticleCard({ article, className }: FeaturedArticleCardP
             <div className="mb-4">
               <span
                 className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium"
-                style={{ 
+                style={{
                   backgroundColor: article.category.color,
                   color: 'white'
                 }}
@@ -117,8 +117,8 @@ export function FeaturedArticleCard({ article, className }: FeaturedArticleCardP
               {/* Publication Date */}
               <div className="flex items-center space-x-2">
                 <Calendar className="h-4 w-4" />
-                <time dateTime={article.publishedAt.toISOString()}>
-                  {formatDate(article.publishedAt)}
+                <time dateTime={article.publishedAt?.toISOString()}>
+                  {article.publishedAt && formatDate(article.publishedAt)}
                 </time>
               </div>
             </div>
@@ -139,7 +139,7 @@ export function FeaturedArticleCard({ article, className }: FeaturedArticleCardP
               priority
               quality={90}
             />
-            
+
             {/* Overlay gradient for better text readability on mobile */}
             <div className="absolute inset-0 bg-gradient-to-t from-brand-dark-blue/60 via-transparent to-transparent lg:hidden" />
           </div>
