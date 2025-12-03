@@ -15,9 +15,10 @@ binding = "EMBEDDINGS"
 id = "7146002e0f4a4ff6a3616b0ad094643a"
 
 # R2 bucket for images and audio (free tier: 10GB storage)
-[[r2_buckets]]
-binding = "R2_BUCKET"
-bucket_name = "a-cifra-media"
+# Comentado temporariamente - precisa habilitar R2 no dashboard
+# [[r2_buckets]]
+# binding = "R2_BUCKET"
+# bucket_name = "a-cifra-media"
 
 # Environment variables
 [vars]
