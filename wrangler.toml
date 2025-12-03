@@ -12,7 +12,7 @@ binding = "AI"
 # KV namespace for embeddings (free tier: 100k reads/day)
 [[kv_namespaces]]
 binding = "EMBEDDINGS"
-id = "your-kv-namespace-id" # Criar via: wrangler kv:namespace create "EMBEDDINGS"
+id = "7146002e0f4a4ff6a3616b0ad094643a"
 
 # R2 bucket for images and audio (free tier: 10GB storage)
 [[r2_buckets]]
