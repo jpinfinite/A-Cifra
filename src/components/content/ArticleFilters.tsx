@@ -21,9 +21,9 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
 
   // Get unique years from articles
   const availableYears = useMemo(() => {
-    const years = articles.map(article =>
-      article.publishedAt.getFullYear()
-    )
+    const years = articles
+      .filter(article => article.publishedAt) // Filtra artigos sem data
+      .map(article => article.publishedAt.getFullYear())
     return Array.from(new Set(years)).sort((a, b) => b - a)
   }, [articles])
 
@@ -35,9 +35,9 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
     if (searchTerm.trim()) {
       const term = searchTerm.toLowerCase()
       filtered = filtered.filter(article =>
-        article.title.toLowerCase().includes(term) ||
-        article.excerpt.toLowerCase().includes(term) ||
-        article.tags.some(tag => tag.toLowerCase().includes(term))
+        article.title?.toLowerCase().includes(term) ||
+        article.excerpt?.toLowerCase().includes(term) ||
+        article.tags?.some(tag => tag?.toLowerCase().includes(term))
       )
     }
 
@@ -51,7 +51,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
     // Filter by year
     if (selectedYear !== 'all') {
       filtered = filtered.filter(article =>
-        article.publishedAt.getFullYear().toString() === selectedYear
+        article.publishedAt && article.publishedAt.getFullYear().toString() === selectedYear
       )
     }
 

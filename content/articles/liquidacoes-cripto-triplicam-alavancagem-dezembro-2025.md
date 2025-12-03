@@ -1,5 +1,5 @@
 ---
-dacoes-cripto-triplicam-alavancagem-dezembro-2025'
+id: 'liquidacoes-cripto-triplicam-alavancagem-dezembro-2025'
 title: 'Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavancagem Excessiva'
 slug: 'liquidacoes-cripto-triplicam-alavancagem-dezembro-2025'
 excerpt: 'Mercado cripto registra $1,8 bilhão em liquidações em 48 horas. Entenda os riscos da alavancagem e como proteger seus investimentos da volatilidade extrema.'

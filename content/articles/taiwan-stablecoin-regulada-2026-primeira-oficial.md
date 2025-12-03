@@ -1,6 +1,6 @@
 ---
 id: 'taiwan-stablecoin-regulada-2026-primeira-oficial'
-title: 'Taiwan Lançará Primeira Stablecoin Regulada em 2026: Marcoo na Ásia'
+title: 'Taiwan Lançará Primeira Stablecoin Regulada em 2026: Marco Histórico na Ásia'
 slug: 'taiwan-stablecoin-regulada-2026-primeira-oficial'
 excerpt: 'Taiwan anuncia lançamento de stablecoin oficial regulada para 2026, tornando-se pioneira na Ásia. Entenda o impacto para o mercado cripto e adoção institucional.'
 coverImage:

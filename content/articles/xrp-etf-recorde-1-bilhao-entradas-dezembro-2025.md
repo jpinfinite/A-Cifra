@@ -1,5 +1,5 @@
 ---
-id: 'xrp-etf-recorde-1-bilhao-enbro-2025'
+id: 'xrp-etf-recorde-1-bilhao-entradas-dezembro-2025'
 title: 'XRP ETF Bate Recorde com $1 Bilhão em Entradas: Nova Era para Ripple'
 slug: 'xrp-etf-recorde-1-bilhao-entradas-dezembro-2025'
 excerpt: 'ETF de XRP registra entrada histórica de $1 bilhão em dezembro 2025, sinalizando forte demanda institucional e possível aprovação da SEC. Análise completa do impacto.'
