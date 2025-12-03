@@ -23,7 +23,12 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
   const availableYears = useMemo(() => {
     const years = articles
       .filter(article => article.publishedAt) // Filtra artigos sem data
-      .map(article => article.publishedAt.getFullYear())
+      .map(article => {
+        const date = article.publishedAt instanceof Date
+          ? article.publishedAt
+          : new Date(article.publishedAt as any)
+        return date.getFullYear()
+      })
     return Array.from(new Set(years)).sort((a, b) => b - a)
   }, [articles])
 
@@ -50,9 +55,13 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
 
     // Filter by year
     if (selectedYear !== 'all') {
-      filtered = filtered.filter(article =>
-        article.publishedAt && article.publishedAt.getFullYear().toString() === selectedYear
-      )
+      filtered = filtered.filter(article => {
+        if (!article.publishedAt) return false
+        const date = article.publishedAt instanceof Date
+          ? article.publishedAt
+          : new Date(article.publishedAt as any)
+        return date.getFullYear().toString() === selectedYear
+      })
     }
 
     return filtered
