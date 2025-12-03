@@ -64,9 +64,12 @@ export async function onRequest(context: { request: Request; env: Env }) {
 
     // Retornar imagem como base64
     const arrayBuffer = await response.arrayBuffer()
-    const base64 = btoa(
-      String.fromCharCode(...new Uint8Array(arrayBuffer))
-    )
+    const uint8Array = new Uint8Array(arrayBuffer)
+    let binary = ''
+    for (let i = 0; i < uint8Array.length; i++) {
+      binary += String.fromCharCode(uint8Array[i])
+    }
+    const base64 = btoa(binary)
 
     return Response.json(
       {
