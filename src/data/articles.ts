@@ -33,7 +33,11 @@ const inMemoryArticles: Article[] = convertConfigToArticles(articlesConfig)
  * Função helper para ordenar artigos por data
  */
 function sortArticlesByDate(articles: Article[]): Article[] {
-  return articles.slice().sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
+  return articles.slice().sort((a, b) => {
+    const timeA = a.publishedAt?.getTime() || 0
+    const timeB = b.publishedAt?.getTime() || 0
+    return timeB - timeA
+  })
 }
 
 /**
@@ -45,12 +49,12 @@ function sortArticlesByDate(articles: Article[]): Article[] {
 export async function getAllArticles(): Promise<Article[]> {
   try {
     const fileArticles = loadAllArticlesFromFiles('pt-BR')
-    
+
     // Mesclar artigos de arquivo com artigos em memória
     // Artigos de arquivo têm prioridade sobre os em memória (mesmo slug)
     const fileArticleSlugs = new Set(fileArticles.map(a => a.slug))
     const configArticles = inMemoryArticles.filter(a => !fileArticleSlugs.has(a.slug))
-    
+
     const allArticles = [...fileArticles, ...configArticles]
     return sortArticlesByDate(allArticles)
   } catch (error) {
@@ -88,7 +92,11 @@ export async function getArticlesByCategory(categorySlug: string): Promise<Artic
     const allArticles = await getAllArticles()
     return allArticles
       .filter(article => article.category.slug === categorySlug)
-      .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
+      .sort((a, b) => {
+        const timeA = a.publishedAt?.getTime() || 0
+        const timeB = b.publishedAt?.getTime() || 0
+        return timeB - timeA
+      })
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
       console.error(`Error loading articles by category ${categorySlug}:`, error)

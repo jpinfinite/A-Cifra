@@ -21,16 +21,18 @@ export function getRelatedArticles(
     }
 
     // Tags em comum = +5 pontos por tag
-    const commonTags = article.tags.filter(tag => 
+    const commonTags = article.tags.filter(tag =>
       currentArticle.tags.includes(tag)
     )
     score += commonTags.length * 5
 
     // Artigos mais recentes = +1 ponto
-    const daysDiff = Math.abs(
-      article.publishedAt.getTime() - currentArticle.publishedAt.getTime()
-    ) / (1000 * 60 * 60 * 24)
-    if (daysDiff < 30) score += 1
+    if (article.publishedAt && currentArticle.publishedAt) {
+      const daysDiff = Math.abs(
+        article.publishedAt.getTime() - currentArticle.publishedAt.getTime()
+      ) / (1000 * 60 * 60 * 24)
+      if (daysDiff < 30) score += 1
+    }
 
     return { article, score }
   })
@@ -53,7 +55,7 @@ export function injectRelatedLinksInContent(
 
   // Divide o conteúdo em seções (por ##)
   const sections = content.split(/(?=^## )/m)
-  
+
   // Se tiver menos de 3 seções, não injeta
   if (sections.length < 3) return content
 
@@ -78,7 +80,7 @@ export function injectRelatedLinksInContent(
 function createRelatedArticlesBlock(articles: Article[], title: string): string {
   if (!articles || articles.length === 0) return ''
 
-  const links = articles.map(article => 
+  const links = articles.map(article =>
     `- [${article.title}](/artigo/${article.slug})`
   ).join('\n')
 
@@ -106,7 +108,7 @@ export function addInlineLinks(
   relatedArticles.forEach(article => {
     // Extrai palavras-chave do título
     const keywords = extractKeywords(article.title)
-    
+
     // Tenta encontrar a primeira ocorrência de cada palavra-chave
     for (const keyword of keywords) {
       // Regex simples para encontrar a palavra-chave (case insensitive)
@@ -115,17 +117,17 @@ export function addInlineLinks(
         `\\b(${escapeRegex(keyword)})\\b`,
         'i'
       )
-      
+
       // Verifica se a palavra existe e não está dentro de um link
       const lines = modifiedContent.split('\n')
       let replaced = false
-      
+
       for (let i = 0; i < lines.length && !replaced; i++) {
         const line = lines[i]
-        
+
         // Pula linhas que já têm links ou são títulos
         if (line.includes('](') || line.startsWith('#')) continue
-        
+
         const match = line.match(regex)
         if (match) {
           // Substitui apenas a primeira ocorrência nesta linha
@@ -136,7 +138,7 @@ export function addInlineLinks(
           replaced = true
         }
       }
-      
+
       if (replaced) {
         modifiedContent = lines.join('\n')
         break // Apenas um link por artigo
@@ -160,7 +162,7 @@ function escapeRegex(str: string): string {
 function extractKeywords(title: string): string[] {
   // Remove palavras comuns (stop words)
   const stopWords = ['o', 'a', 'de', 'da', 'do', 'em', 'para', 'com', 'e', 'ou', 'como', 'que', 'um', 'uma']
-  
+
   return title
     .toLowerCase()
     .split(/[\s\-:]+/)

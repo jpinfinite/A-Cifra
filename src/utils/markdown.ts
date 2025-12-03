@@ -23,23 +23,23 @@ export async function getMarkdownArticles(): Promise<Article[]> {
 
     const fileNames = fs.readdirSync(articlesDirectory)
     const markdownFiles = fileNames.filter(name => name.endsWith('.md') && name !== 'README.md')
-    
+
     const articles: Article[] = []
-    
+
     for (let i = 0; i < markdownFiles.length; i++) {
       const fileName = markdownFiles[i]
       const fullPath = path.join(articlesDirectory, fileName)
       const fileContents = fs.readFileSync(fullPath, 'utf8')
       const { data, content } = matter(fileContents)
-      
+
       // Process markdown content to HTML
       const processedContent = await remark()
         .use(html)
         .process(content)
-      
+
       // Find category
       const category = categories.find(c => c.slug === data.category) || categories[0]
-      
+
       // Get default image based on category
       const getDefaultImage = (categorySlug: string) => {
         const imageMap: Record<string, string> = {
@@ -54,7 +54,7 @@ export async function getMarkdownArticles(): Promise<Article[]> {
         }
         return imageMap[categorySlug] || '/images/bitcoin/bitcoin-guide-2025.jpg'
       }
-      
+
       // Create article object
       const article: Article = {
         id: String(100 + i), // Start from 100 to avoid conflicts
@@ -82,13 +82,17 @@ export async function getMarkdownArticles(): Promise<Article[]> {
           keywords: data.seo?.keywords || data.tags || []
         }
       }
-      
+
       articles.push(article)
     }
-    
+
     // Sort by publication date (newest first)
-    return articles.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
-    
+    return articles.sort((a, b) => {
+      const timeA = a.publishedAt?.getTime() || 0
+      const timeB = b.publishedAt?.getTime() || 0
+      return timeB - timeA
+    })
+
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
       console.error('Error loading markdown articles:', error)
