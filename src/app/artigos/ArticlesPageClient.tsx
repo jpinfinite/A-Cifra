@@ -33,7 +33,7 @@ export default function ArticlesPageClient({ articles }: ArticlesPageClientProps
     <>
       {/* Filters and Search */}
       <ArticleFilters
-        articles={articles}
+        articles={articlesWithDates}
         onFilteredArticles={handleFilteredArticles}
       />
 
