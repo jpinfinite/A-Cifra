@@ -14,6 +14,13 @@ export const metadata = generatePageMetadata(
 export default async function ArticlesPage() {
   const articles = await getAllArticles()
 
+  // Serializar datas para passar para client component
+  const serializedArticles = articles.map(article => ({
+    ...article,
+    publishedAt: article.publishedAt?.toISOString() || new Date().toISOString(),
+    updatedAt: article.updatedAt?.toISOString()
+  }))
+
   return (
     <MainLayout>
       <Container className="py-8">
@@ -23,7 +30,7 @@ export default async function ArticlesPage() {
             Todos os Artigos
           </Heading>
           <Text size="lg" className="text-gray-600 max-w-2xl mx-auto mb-6">
-            Explore nossa coleção completa de artigos sobre criptomoedas, 
+            Explore nossa coleção completa de artigos sobre criptomoedas,
             blockchain e o futuro das finanças digitais.
           </Text>
           <div className="flex items-center justify-center gap-4 text-sm text-gray-500">
@@ -34,7 +41,7 @@ export default async function ArticlesPage() {
         </div>
 
         {/* Client-side filtering and display */}
-        <ArticlesPageClient articles={articles} />
+        <ArticlesPageClient articles={serializedArticles as any} />
       </Container>
     </MainLayout>
   )

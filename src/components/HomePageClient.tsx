@@ -15,6 +15,19 @@ interface HomePageClientProps {
 }
 
 export function HomePageClient({ featuredArticle, recentArticles }: HomePageClientProps) {
+  // Converter strings de data de volta para Date objects
+  const featuredWithDate = {
+    ...featuredArticle,
+    publishedAt: new Date(featuredArticle.publishedAt as any),
+    updatedAt: featuredArticle.updatedAt ? new Date(featuredArticle.updatedAt as any) : undefined
+  }
+
+  const recentWithDates = recentArticles.map(article => ({
+    ...article,
+    publishedAt: new Date(article.publishedAt as any),
+    updatedAt: article.updatedAt ? new Date(article.updatedAt as any) : undefined
+  }))
+
   // Scroll reveal animation
   useEffect(() => {
     const observerOptions = {
@@ -145,17 +158,17 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
           </div>
 
           {/* Featured Article */}
-          {featuredArticle && (
+          {featuredWithDate && (
             <div className="mb-16 scroll-reveal">
-              <FeaturedArticleCard article={featuredArticle} />
+              <FeaturedArticleCard article={featuredWithDate} />
             </div>
           )}
 
           {/* Other Recent Articles */}
-          {recentArticles && recentArticles.length > 1 && (
+          {recentWithDates && recentWithDates.length > 1 && (
             <div className="scroll-reveal">
               <ArticleGrid
-                articles={recentArticles.slice(1)}
+                articles={recentWithDates.slice(1)}
               />
             </div>
           )}

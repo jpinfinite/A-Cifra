@@ -31,11 +31,24 @@ export default async function HomePage() {
     )
   }
 
+  // Serializar datas para passar para client component
+  const serializedFeatured = {
+    ...displayFeaturedArticle,
+    publishedAt: displayFeaturedArticle.publishedAt?.toISOString() || new Date().toISOString(),
+    updatedAt: displayFeaturedArticle.updatedAt?.toISOString()
+  }
+
+  const serializedRecent = recentArticles.map(article => ({
+    ...article,
+    publishedAt: article.publishedAt?.toISOString() || new Date().toISOString(),
+    updatedAt: article.updatedAt?.toISOString()
+  }))
+
   return (
     <MainLayout>
-      <HomePageClient 
-        featuredArticle={displayFeaturedArticle}
-        recentArticles={recentArticles}
+      <HomePageClient
+        featuredArticle={serializedFeatured as any}
+        recentArticles={serializedRecent as any}
       />
     </MainLayout>
   )

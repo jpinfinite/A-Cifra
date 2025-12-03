@@ -13,13 +13,20 @@ interface ArticlesPageClientProps {
 }
 
 export default function ArticlesPageClient({ articles }: ArticlesPageClientProps) {
-  const [filteredArticles, setFilteredArticles] = useState<Article[]>(articles)
+  // Converter strings de data de volta para Date objects
+  const articlesWithDates = articles.map(article => ({
+    ...article,
+    publishedAt: new Date(article.publishedAt as any),
+    updatedAt: article.updatedAt ? new Date(article.updatedAt as any) : undefined
+  }))
+
+  const [filteredArticles, setFilteredArticles] = useState<Article[]>(articlesWithDates)
 
   const handleFilteredArticles = (filtered: Article[]) => {
     setFilteredArticles(filtered)
   }
 
-  const featuredArticle = filteredArticles[0]
+  const featuredArticle = fcles[0]
   const otherArticles = filteredArticles.slice(1)
 
   return (
