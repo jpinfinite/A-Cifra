@@ -19,7 +19,6 @@ export function CryptoWidget() {
 
   useEffect(() => {
     fetchCryptos()
-    // Atualizar a cada 60 segundos
     const interval = setInterval(fetchCryptos, 60000)
     return () => clearInterval(interval)
   }, [])
@@ -33,7 +32,7 @@ export function CryptoWidget() {
       setCryptos(data)
       setLoading(false)
     } catch (error) {
-      console.error('Erro ao buscar preços:', error)
+      console.error('Erro ao buscar precos:', error)
       setLoading(false)
     }
   }
@@ -60,7 +59,7 @@ export function CryptoWidget() {
     <div className="bg-gradient-to-br from-brand-dark-blue to-brand-primary-blue rounded-xl shadow-lg p-6">
       <div className="flex items-center justify-between mb-6">
         <h3 className="text-xl font-bold text-white">
-          💰 Preços ao Vivo
+          Precos ao Vivo
         </h3>
         <span className="text-xs text-gray-300">
           Atualizado agora
@@ -100,9 +99,8 @@ export function CryptoWidget() {
                       maximumFractionDigits: 2
                     })}
                   </p>
-                  <p className={`text-sm font-semibold ${isPositive ? 'text-green-400' : 'text-red-400'
-                    }`}>
-                    {isPositive ? '↗' : '↘'} {Math.abs(crypto.price_change_percentage_24h).toFixed(2)}%
+                  <p className={`text-sm font-semibold ${isPositive ? 'text-green-400' : 'text-red-400'}`}>
+                    {isPositive ? 'UP' : 'DOWN'} {Math.abs(crypto.price_change_percentage_24h).toFixed(2)}%
                   </p>
                 </div>
               </div>
@@ -119,4 +117,3 @@ export function CryptoWidget() {
     </div>
   )
 }
-

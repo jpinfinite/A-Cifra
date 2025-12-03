@@ -36,7 +36,6 @@ export function CryptoPriceChart({
     setError(null)
 
     try {
-      // CoinGecko API (gratuita, sem API key)
       const response = await fetch(
         `https://api.coingecko.com/api/v3/coins/${symbol}/market_chart?vs_currency=brl&days=${days}`
       )
@@ -47,7 +46,6 @@ export function CryptoPriceChart({
 
       const result = await response.json()
 
-      // Processar dados
       const prices: PriceData[] = result.prices.map(([timestamp, price]: [number, number]) => ({
         date: new Date(timestamp).toLocaleDateString('pt-BR', {
           day: '2-digit',
@@ -59,7 +57,6 @@ export function CryptoPriceChart({
 
       setData(prices)
 
-      // Calcular preço atual e variação
       if (prices.length > 0) {
         const current = prices[prices.length - 1].price
         const first = prices[0].price
@@ -87,7 +84,7 @@ export function CryptoPriceChart({
   if (error) {
     return (
       <div className="bg-red-50 border border-red-200 rounded-xl p-8">
-        <Text className="text-red-800">❌ {error}</Text>
+        <Text className="text-red-800">Erro: {error}</Text>
       </div>
     )
   }
@@ -96,7 +93,6 @@ export function CryptoPriceChart({
 
   return (
     <div className="bg-white rounded-xl shadow-lg p-6 md:p-8">
-      {/* Header */}
       <div className="flex items-start justify-between mb-6">
         <div>
           <Heading level={3} className="mb-2">
@@ -109,17 +105,16 @@ export function CryptoPriceChart({
               </Text>
               {priceChange !== null && (
                 <span className={`text-lg font-semibold ${isPositive ? 'text-green-600' : 'text-red-600'}`}>
-                  {isPositive ? '↗' : '↘'} {Math.abs(priceChange).toFixed(2)}%
+                  {isPositive ? 'UP' : 'DOWN'} {Math.abs(priceChange).toFixed(2)}%
                 </span>
               )}
             </div>
           )}
           <Text className="text-sm text-gray-500 mt-1">
-            Últimos {days} dias
+            Ultimos {days} dias
           </Text>
         </div>
 
-        {/* Botões de período */}
         <div className="flex gap-2">
           {[7, 30, 90].map((d) => (
             <button
@@ -136,7 +131,6 @@ export function CryptoPriceChart({
         </div>
       </div>
 
-      {/* Gráfico */}
       <ResponsiveContainer width="100%" height={height}>
         <LineChart data={data}>
           <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
@@ -157,7 +151,7 @@ export function CryptoPriceChart({
               borderRadius: '8px',
               padding: '12px'
             }}
-            formatter={(value: number) => [`R$ ${value.toLocaleString('pt-BR')}`, 'Preço']}
+            formatter={(value: number) => [`R$ ${value.toLocaleString('pt-BR')}`, 'Preco']}
           />
           <Line
             type="monotone"
@@ -170,13 +164,11 @@ export function CryptoPriceChart({
         </LineChart>
       </ResponsiveContainer>
 
-      {/* Footer */}
       <div className="mt-4 pt-4 border-t border-gray-200">
         <Text className="text-xs text-gray-500 text-center">
-          Dados fornecidos por CoinGecko • Atualizado em tempo real
+          Dados fornecidos por CoinGecko - Atualizado em tempo real
         </Text>
       </div>
     </div>
   )
 }
-

@@ -58,19 +58,17 @@ export default function ImageGeneratorPage() {
     <Container className="py-12">
       <div className="max-w-4xl mx-auto">
         <Heading level={1} className="mb-4">
-          🎨 Gerador de Imagens para Artigos
+          Gerador de Imagens para Artigos
         </Heading>
         <Text className="mb-8 text-gray-600">
           Use IA (FLUX 2 Dev) para gerar capas profissionais para seus artigos
         </Text>
 
-        {/* Formulário */}
         <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
           <div className="space-y-6">
-            {/* Prompt */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                Prompt (Descrição da Imagem)
+                Prompt (Descricao da Imagem)
               </label>
               <textarea
                 value={prompt}
@@ -80,11 +78,10 @@ export default function ImageGeneratorPage() {
                 rows={4}
               />
               <Text className="text-sm text-gray-500 mt-2">
-                💡 Dica: Seja específico! Mencione cores (azul e dourado), estilo, elementos visuais
+                Dica: Seja especifico! Mencione cores (azul e dourado), estilo, elementos visuais
               </Text>
             </div>
 
-            {/* Slug do Artigo */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
                 Slug do Artigo (opcional)
@@ -98,7 +95,6 @@ export default function ImageGeneratorPage() {
               />
             </div>
 
-            {/* Estilo */}
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
                 Estilo
@@ -119,29 +115,26 @@ export default function ImageGeneratorPage() {
               </div>
             </div>
 
-            {/* Botão Gerar */}
             <Button
               onClick={generateImage}
               disabled={loading || !prompt.trim()}
               className="w-full py-4 text-lg"
             >
-              {loading ? '🎨 Gerando imagem...' : '✨ Gerar Imagem com IA'}
+              {loading ? 'Gerando imagem...' : 'Gerar Imagem com IA'}
             </Button>
           </div>
         </div>
 
-        {/* Erro */}
         {error && (
           <div className="bg-red-50 border border-red-200 rounded-lg p-4 mb-8">
-            <Text className="text-red-800">❌ {error}</Text>
+            <Text className="text-red-800">Erro: {error}</Text>
           </div>
         )}
 
-        {/* Imagem Gerada */}
         {generatedImage && (
           <div className="bg-white rounded-xl shadow-lg p-8">
             <Heading level={2} className="mb-4">
-              ✅ Imagem Gerada!
+              Imagem Gerada!
             </Heading>
 
             <div className="mb-6">
@@ -154,7 +147,7 @@ export default function ImageGeneratorPage() {
 
             <div className="flex gap-4">
               <Button onClick={downloadImage} className="flex-1">
-                📥 Baixar Imagem
+                Baixar Imagem
               </Button>
               <Button
                 onClick={() => {
@@ -163,22 +156,21 @@ export default function ImageGeneratorPage() {
                 }}
                 className="flex-1 bg-gray-600 hover:bg-gray-700"
               >
-                🔄 Gerar Nova
+                Gerar Nova
               </Button>
             </div>
 
             <div className="mt-6 p-4 bg-blue-50 rounded-lg">
               <Text className="text-sm text-blue-800">
-                💡 <strong>Próximo passo:</strong> Salve a imagem em <code>/public/images/</code> e use no frontmatter do artigo
+                Proximo passo: Salve a imagem em /public/images/ e use no frontmatter do artigo
               </Text>
             </div>
           </div>
         )}
 
-        {/* Exemplos de Prompts */}
         <div className="mt-12 bg-gray-50 rounded-xl p-8">
           <Heading level={3} className="mb-4">
-            📝 Exemplos de Prompts
+            Exemplos de Prompts
           </Heading>
           <div className="space-y-4">
             {[
