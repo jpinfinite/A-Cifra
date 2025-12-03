@@ -1,12 +1,28 @@
-name = "blog-a-cifra"
-compatibility_date = "2024-10-20"
+# Cloudflare Workers AI Configuration
+name = "a-cifra"
+compatibility_date = "2025-12-03"
 
-[build]
-command = "npm ci && npm run build"
-cwd = "."
-
-[build.environment_variables]
-NODE_VERSION = "20"
-NPM_FLAGS = "--production=false"
-
+# Pages configuration
 pages_build_output_dir = "out"
+
+# Workers AI binding
+[ai]
+binding = "AI"
+
+# KV namespace for embeddings (free tier: 100k reads/day)
+[[kv_namespaces]]
+binding = "EMBEDDINGS"
+id = "your-kv-namespace-id" # Criar via: wrangler kv:namespace create "EMBEDDINGS"
+
+# R2 bucket for images and audio (free tier: 10GB storage)
+[[r2_buckets]]
+binding = "R2_BUCKET"
+bucket_name = "a-cifra-media"
+
+# Environment variables
+[vars]
+ENVIRONMENT = "production"
+
+# Limits (free tier)
+[limits]
+cpu_ms = 50 # 50ms CPU time per request (free tier)
