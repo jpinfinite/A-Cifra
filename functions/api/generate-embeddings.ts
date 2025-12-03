@@ -5,7 +5,7 @@
 
 interface Env {
   AI: any
-  EMBEDDINGS: KVNamespace
+  EMBEDDINGS: any
 }
 
 export async function onRequest(context: { request: Request; env: Env }) {

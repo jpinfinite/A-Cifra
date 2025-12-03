@@ -5,7 +5,7 @@
 
 interface Env {
   AI: any
-  EMBEDDINGS: KVNamespace
+  EMBEDDINGS: any
 }
 
 interface SearchRequest {

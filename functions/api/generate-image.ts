@@ -5,7 +5,7 @@
 
 interface Env {
   AI: any
-  R2_BUCKET: R2Bucket
+  R2_BUCKET: any
 }
 
 interface ImageRequest {
