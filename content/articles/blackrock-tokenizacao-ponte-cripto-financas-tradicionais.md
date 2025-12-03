@@ -4,7 +4,7 @@ title: 'BlackRock e Tokenização: A Ponte Entre Cripto e Finanças Tradicionais
 slug: 'blackrock-tokenizacao-ponte-cripto-financas-tradicionais'
 excerpt: 'BlackRock lidera revolução da tokenização com $10 trilhões em ativos sob gestão. Entenda como a maior gestora do mundo está construindo a ponte entre TradFi e DeFi.'
 coverImage:
-  src: '/images/blackrock-tokenizacao-2025.jpg'
+  src: '/images/030.jpg'
   alt: 'Logo da BlackRock com símbolos de blockchain e tokenização'
   width: 1200
   height: 630

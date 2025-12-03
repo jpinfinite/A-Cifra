@@ -4,7 +4,7 @@ title: 'Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavan
 slug: 'liquidacoes-cripto-triplicam-alavancagem-dezembro-2025'
 excerpt: 'Mercado cripto registra $1,8 bilhão em liquidações em 48 horas. Entenda os riscos da alavancagem e como proteger seus investimentos da volatilidade extrema.'
 coverImage:
-  src: '/images/liquidacoes-cripto-dezembro-2025.jpg'
+  src: '/images/027.jpg'
   alt: 'Gráfico mostrando liquidações massivas no mercado de criptomoedas'
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: 'Polkadot Dispara 9% com Rompimento Técnico: Análise do Rally de Dezemb
 slug: 'polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025'
 excerpt: 'DOT rompe resistência de $10 e dispara 9% em 24 horas. Análise técnica completa do movimento, próximos alvos e o que esperar da parachain líder em interoperabilidade.'
 coverImage:
-  src: '/images/polkadot-rally-dezembro-2025.jpg'
+  src: '/images/040.jpg'
   alt: 'Gráfico mostrando rally de 9% do Polkadot'
   width: 1200
   height: 630
