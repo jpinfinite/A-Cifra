@@ -26,6 +26,8 @@
     "analyze-performance": "node scripts/analyze-performance.js",
     "optimize-all-images": "node scripts/optimize-all-images.js",
     "fix-imports": "node scripts/fix-imports.js",
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "prebuild": "npm run generate-sitemap",
     "quality-check": "npm run validate-images && npm run validate-all && npm run fix-imports && npm run lint",
     "pre-commit": "npm run validate-images && npm run lint",
     "prepare": "npm run lint"
