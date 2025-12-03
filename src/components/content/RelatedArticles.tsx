@@ -77,7 +77,6 @@ export function RelatedArticles({
           <ArticleCard
             key={article.id}
             article={article}
-            variant="compact"
           />
         ))}
       </div>
