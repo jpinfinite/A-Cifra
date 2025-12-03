@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useMemo, useCallback } from 'react'
 
 import { ArticleGrid } from '@/components/content'
 import { ArticleFilters } from '@/components/content/ArticleFilters'
@@ -14,17 +14,17 @@ interface ArticlesPageClientProps {
 
 export default function ArticlesPageClient({ articles }: ArticlesPageClientProps) {
   // Converter strings de data de volta para Date objects
-  const articlesWithDates = articles.map(article => ({
+  const articlesWithDates = useMemo(() => articles.map(article => ({
     ...article,
     publishedAt: new Date(article.publishedAt as any),
     updatedAt: article.updatedAt ? new Date(article.updatedAt as any) : undefined
-  }))
+  })), [articles])
 
   const [filteredArticles, setFilteredArticles] = useState<Article[]>(articlesWithDates)
 
-  const handleFilteredArticles = (filtered: Article[]) => {
+  const handleFilteredArticles = useCallback((filtered: Article[]) => {
     setFilteredArticles(filtered)
-  }
+  }, [])
 
   const featuredArticle = filteredArticles[0]
   const otherArticles = filteredArticles.slice(1)

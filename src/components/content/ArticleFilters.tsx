@@ -70,7 +70,8 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
   // Update parent component when filters change
   useMemo(() => {
     onFilteredArticles(filteredArticles)
-  }, [filteredArticles, onFilteredArticles])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filteredArticles])
 
   const handleClearFilters = () => {
     setSearchTerm('')
