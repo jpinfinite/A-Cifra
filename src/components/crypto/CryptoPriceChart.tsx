@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContegend } from 'recharts'
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
 import { Heading, Text } from '@/components/ui'
 
 interface CryptoPriceChartProps {
@@ -126,8 +126,8 @@ export function CryptoPriceChart({
               key={d}
               onClick={() => fetchPriceData()}
               className={`px-3 py-1 rounded-lg text-sm font-medium transition-colors ${days === d
-                  ? 'bg-brand-primary-blue text-white'
-                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                ? 'bg-brand-primary-blue text-white'
+                : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                 }`}
             >
               {d}d

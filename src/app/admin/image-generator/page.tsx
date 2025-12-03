@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Container, Heading, Text, Button } from '@/component
+import { Container, Heading, Text, Button } from '@/components/ui'
 
 export default function ImageGeneratorPage() {
   const [prompt, setPrompt] = useState('')
@@ -109,8 +109,8 @@ export default function ImageGeneratorPage() {
                     key={s}
                     onClick={() => setStyle(s)}
                     className={`px-4 py-3 rounded-lg border-2 transition-all ${style === s
-                        ? 'border-brand-primary-blue bg-brand-primary-blue text-white'
-                        : 'border-gray-300 hover:border-brand-primary-blue'
+                      ? 'border-brand-primary-blue bg-brand-primary-blue text-white'
+                      : 'border-gray-300 hover:border-brand-primary-blue'
                       }`}
                   >
                     {s.charAt(0).toUpperCase() + s.slice(1)}

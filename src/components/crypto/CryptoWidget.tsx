@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-impoext } from '@/components/ui'
+import { Text } from '@/components/ui'
 
 interface CryptoData {
   id: string
