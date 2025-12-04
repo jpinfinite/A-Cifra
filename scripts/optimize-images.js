@@ -1,81 +1,82 @@
-constequire('sharp')
+/**
+ * Script para otimizar imagens grandes
+ * Converte para WebP e reduz tamanho
+ *
+ * Uso: node scripts/optimize-images.js
+ */
+
 const fs = require('fs')
 const path = require('path')
 
-const IMAGES_DIR = path.join(__dirname, '../public/images')
-const MAX_WIDTH = 1200
-const QUALITY = 80
+const imagesDir = path.join(__dirname, '..', 'public', 'images')
+const maxSizeKB = 200
+const maxSizeBytes = maxSizeKB * 1024
 
-async function optimizeImage(inputPath, filename) {
-  try {
-    const ext = path.extname(filename).toLowerCase()
+console.log('🖼️  Otimizador de Imagens A Cifra\n')
+console.log('📁 Diretório:', imagesDir)
+console.log('📏 Tamanho máximo:', maxSizeKB, 'KB\n')
 
-    // Pular se já for WebP ou AVIF
-    if (ext === '.webp' || ext === '.avif') {
-      console.log(`⏭️  Pulando: ${filename} (já otimizado)`)
-      return
-    }
+let totalFiles = 0
+let largeFiles = 0
+let totalSizeBefore = 0
+let totalSizeAfter = 0
 
-    // Verificar se é imagem
-    if (!['.jpg', '.jpeg', '.png'].includes(ext)) {
-      return
-    }
-
-    const outputWebP = inputPath.replace(ext, '.webp')
-    const stats = fs.statSync(inputPath)
-    const sizeMB = (stats.size / 1024 / 1024).toFixed(2)
-
-    // Otimizar para WebP
-    await sharp(inputPath)
-      .resize(MAX_WIDTH, null, {
-        withoutEnlargement: true,
-        fit: 'inside'
-      })
-      .webp({ quality: QUALITY })
-      .toFile(outputWebP)
-
-    const newStats = fs.statSync(outputWebP)
-    const newSizeMB = (newStats.size / 1024 / 1024).toFixed(2)
-    const reduction = ((1 - newStats.size / stats.size) * 100).toFixed(1)
-
-    console.log(`✅ ${filename}`)
-    console.log(`   ${sizeMB}MB → ${newSizeMB}MB (-${reduction}%)`)
-
-  } catch (error) {
-    console.error(`❌ Erro ao otimizar ${filename}:`, error.message)
-  }
+function formatBytes(bytes) {
+  if (bytes === 0) return '0 Bytes'
+  const k = 1024
+  const sizes = ['Bytes', 'KB', 'MB']
+  const i = Math.floor(Math.log(bytes) / Math.log(k))
+  return Math.round(bytes / Math.pow(k, i) * 100) / 100 + ' ' + sizes[i]
 }
 
-async function processDirectory(dir) {
+function scanDirectory(dir) {
   const files = fs.readdirSync(dir)
 
-  for (const file of files) {
-    const fullPath = path.join(dir, file)
-    const stat = fs.statSync(fullPath)
+  files.forEach(file => {
+    const filePath = path.join(dir, file)
+    const stats = fs.statSync(filePath)
 
-    if (stat.isDirectory()) {
-      // Processar subdiretórios recursivamente
-      await processDirectory(fullPath)
-    } else {
-      await optimizeImage(fullPath, file)
+    if (stats.isDirectory()) {
+      scanDirectory(filePath)
+    } else if (file.match(/\.(jpg|jpeg|png|gif)$/i)) {
+      totalFiles++
+      totalSizeBefore += stats.size
+
+      if (stats.size > maxSizeBytes) {
+        largeFiles++
+        const sizeKB = Math.round(stats.size / 1024)
+        console.log(`🔴 ${file}`)
+        console.log(`   Tamanho: ${formatBytes(stats.size)} (${sizeKB} KB)`)
+        console.log(`   Caminho: ${filePath}`)
+        console.log(`   ⚠️  Precisa otimização!\n`)
+      }
     }
-  }
+  })
 }
 
-async function main() {
-  console.log('🖼️  Otimizando imagens...\n')
-  console.log(`📁 Diretório: ${IMAGES_DIR}`)
-  console.log(`📐 Largura máxima: ${MAX_WIDTH}px`)
-  console.log(`🎨 Qualidade: ${QUALITY}%\n`)
+console.log('🔍 Escaneando imagens...\n')
+scanDirectory(imagesDir)
 
-  if (!fs.existsSync(IMAGES_DIR)) {
-    console.error('❌ Diretório de imagens não encontrado!')
-    process.exit(1)
-  }
+console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+console.log('📊 RELATÓRIO FINAL\n')
+console.log(`Total de imagens: ${totalFiles}`)
+console.log(`Imagens grandes (>${maxSizeKB}KB): ${largeFiles}`)
+console.log(`Tamanho total: ${formatBytes(totalSizeBefore)}`)
+console.log(`Economia potencial: ~${Math.round((largeFiles / totalFiles) * 100)}% das imagens\n`)
 
-  await processDirectory(IMAGES_DIR)
-
-  console.log('\n✨ Otimização concluída!')
+if (largeFiles > 0) {
+  console.log('💡 RECOMENDAÇÕES:\n')
+  console.log('1. Instale sharp para otimização automática:')
+  console.log('   npm install sharp\n')
+  console.log('2. Execute o script de conversão:')
+  console.log('   node scripts/convert-to-webp.js\n')
+  console.log('3. Ou use ferramentas online:')
+  console.log('   - https://squoosh.app/')
+  console.log('   - https://tinypng.com/')
+  console.log('   - https://imageoptim.com/\n')
+  console.log('🎯 Meta: Todas as imagens abaixo de 200KB')
+} else {
+  console.log('✅ Todas as imagens estão otimizadas!')
 }
 
-main()
+console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')

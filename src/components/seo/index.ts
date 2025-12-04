@@ -1,4 +1,5 @@
 export { ArticleSchema } from './ArticleSchema'
 export { BreadcrumbSchema } from './BreadcrumbSchema'
+export { FAQSchema } from './FAQSchema'
 export { Breadcrumbs } from './Breadcrumbs'
 export type { BreadcrumbItem } from './Breadcrumbs'

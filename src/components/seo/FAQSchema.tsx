@@ -1,6 +1,6 @@
 /**
  * FAQ Schema Component
- * Adiciona JSON-LD para FAQs melhorando SEO e chances de featured snippets
+ * Adiciona JSON-LD para FAQs melhorando chances de featured snippets
  */
 
 interface FAQItem {
@@ -13,10 +13,12 @@ interface FAQSchemaProps {
 }
 
 export function FAQSchema({ faqs }: FAQSchemaProps) {
+  if (!faqs || faqs.length === 0) return null
+
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: faqs.map((faq) => ({
+    mainEntity: faqs.map(faq => ({
       '@type': 'Question',
       name: faq.question,
       acceptedAnswer: {

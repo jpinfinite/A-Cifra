@@ -13,6 +13,7 @@ interface ArticleSchemaProps {
   url: string
   category: string
   tags: string[]
+  wordCount?: number
 }
 
 export function ArticleSchema({
@@ -24,7 +25,8 @@ export function ArticleSchema({
   image,
   url,
   category,
-  tags
+  tags,
+  wordCount
 }: ArticleSchemaProps) {
   const schema = {
     '@context': 'https://schema.org',
@@ -36,22 +38,28 @@ export function ArticleSchema({
     dateModified: updatedAt,
     author: {
       '@type': 'Person',
-      name: author
+      name: author,
+      url: 'https://a-cifra.com.br'
     },
     publisher: {
       '@type': 'Organization',
       name: 'A Cifra',
+      url: 'https://a-cifra.com.br',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://a-cifra.com.br/logo.png'
+        url: 'https://a-cifra.com.br/images/logos/favcoin.png',
+        width: 600,
+        height: 60
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://a-cifra.com.br${url}`
+      '@id': url
     },
     articleSection: category,
-    keywords: tags.join(', ')
+    keywords: tags.join(', '),
+    inLanguage: 'pt-BR',
+    ...(wordCount && { wordCount })
   }
 
   return (
