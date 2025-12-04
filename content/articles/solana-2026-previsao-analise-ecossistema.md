@@ -57,6 +57,8 @@ A Solana se consolidou como a blockchain de alta performance do mercado cripto. 
 
 ## Previsão de Preço SOL 2026
 
+<InlineAffiliateCTA text="Invista em Solana antes do próximo rally" exchange="all" variant="secondary" />
+
 ### Análise Fundamentalista
 
 **Cenário Base**:
@@ -161,6 +163,8 @@ A Solana se consolidou como a blockchain de alta performance do mercado cripto. 
 - NFTs mobile-optimized
 
 ## Staking de Solana
+
+<InlineAffiliateCTA text="Faça staking de SOL e ganhe 7-8% ao ano" exchange="bitget" variant="primary" />
 
 ### Retornos e Mecânica
 

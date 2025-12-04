@@ -35,6 +35,8 @@ Nesta análise completa, vamos examinar:
 
 ## O Contexto: Como Chegamos Aqui
 
+<InlineAffiliateCTA text="Quer aproveitar a alta do Bitcoin? Abra sua conta e comece a investir" exchange="all" variant="secondary" />
+
 ### A Jornada de 2025
 
 Bitcoin começou 2025 em **$42.000** e subiu **133%** em 11 meses:
@@ -483,6 +485,12 @@ Mesmo em bull market, correções de **20-30%** são normais:
 
 ## Estratégias de Investimento
 
+<UrgencyCTA
+  message="Bitcoin a $98K - Última chance antes dos $100K?"
+  highlight="Cadastre-se agora e não perca o momento histórico"
+  variant="warning"
+/>
+
 ### Para Iniciantes (Baixo Risco)
 
 **Perfil:** Primeira vez investindo em Bitcoin
@@ -495,7 +503,7 @@ Mesmo em bull market, correções de **20-30%** são normais:
 
 **Onde comprar:**
 
-<ExchangeAffiliateLinks variant="default" />
+<InlineAffiliateCTA text="Comece com apenas R$100" exchange="bitget" variant="primary" />
 
 ### Para Intermediários (Risco Moderado)
 

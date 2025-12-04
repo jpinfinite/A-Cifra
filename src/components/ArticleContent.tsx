@@ -8,6 +8,8 @@ import rehypeRaw from 'rehype-raw'
 import { Article } from '@/types'
 import { addInlineLinks } from '@/utils/relatedArticles'
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
+import { InlineAffiliateCTA } from '@/components/content/InlineAffiliateCTA'
+import { UrgencyCTA } from '@/components/content/UrgencyCTA'
 import { AdSenseInArticle, AdSenseInArticle2, AdSenseMultiplex } from '@/components/ads'
 
 
@@ -24,6 +26,12 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
     if (relatedArticles.length > 0) {
       processedContent = addInlineLinks(processedContent, relatedArticles)
     }
+
+    // Substitui componentes customizados por placeholders HTML
+    processedContent = processedContent
+      .replace(/<InlineAffiliateCTA\s+([^>]+)\/>/g, '<div data-component="InlineAffiliateCTA" $1></div>')
+      .replace(/<UrgencyCTA\s+([^>]+)\/>/g, '<div data-component="UrgencyCTA" $1></div>')
+      .replace(/<ExchangeAffiliateLinks\s+([^>]+)\/>/g, '<div data-component="ExchangeAffiliateLinks" $1></div>')
 
     // Divide o conteúdo em 3 partes para inserir anúncios
     const sections = processedContent.split('##')

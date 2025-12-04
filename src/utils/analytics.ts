@@ -14,7 +14,10 @@ export type EventName =
   | 'external_link_click'
   | 'share_article'
   | 'search'
-  | 'ad_click';
+  | 'ad_click'
+  | 'affiliate_cta_view'
+  | 'affiliate_cta_click'
+  | 'affiliate_conversion';
 
 interface EventParams {
   [key: string]: string | number | boolean;
@@ -131,6 +134,74 @@ export const trackScrollDepth = (
     article_slug: articleSlug,
     scroll_depth: percentage,
   });
+};
+
+/**
+ * Rastreia visualização de CTA de afiliado
+ */
+export const trackAffiliateCTAView = (
+  ctaType: 'inline' | 'urgency' | 'exchange',
+  ctaVariant: string,
+  exchange: string,
+  articleSlug: string,
+  ctaPosition: string
+): void => {
+  trackEvent('affiliate_cta_view', {
+    cta_type: ctaType,
+    cta_variant: ctaVariant,
+    exchange: exchange,
+    article_slug: articleSlug,
+    cta_position: ctaPosition,
+  });
+};
+
+/**
+ * Rastreia clique em CTA de afiliado
+ */
+export const trackAffiliateCTAClick = (
+  ctaType: 'inline' | 'urgency' | 'exchange',
+  ctaVariant: string,
+  exchange: string,
+  articleSlug: string,
+  ctaPosition: string,
+  destinationUrl: string
+): void => {
+  trackEvent('affiliate_cta_click', {
+    cta_type: ctaType,
+    cta_variant: ctaVariant,
+    exchange: exchange,
+    article_slug: articleSlug,
+    cta_position: ctaPosition,
+    destination_url: destinationUrl,
+    timestamp: new Date().toISOString(),
+  });
+};
+
+/**
+ * Rastreia conversão de afiliado (quando possível detectar)
+ */
+export const trackAffiliateConversion = (
+  exchange: string,
+  articleSlug: string,
+  conversionValue?: number
+): void => {
+  trackEvent('affiliate_conversion', {
+    exchange: exchange,
+    article_slug: articleSlug,
+    conversion_value: conversionValue || 0,
+    timestamp: new Date().toISOString(),
+  });
+};
+
+/**
+ * Rastreia performance de CTA (CTR)
+ */
+export const calculateCTACTR = (
+  views: number,
+  clicks: number
+): number => {
+  if (views === 0) return 0;
+  return (clicks / views) * 100;
 };
 
 /**

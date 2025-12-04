@@ -76,6 +76,12 @@ Antes de apresentar as altcoins, é importante entender os critérios usados par
 
 ## 🏆 Top 10 Altcoins Promissoras para 2025
 
+<UrgencyCTA
+  message="Altseason Chegando!"
+  highlight="Posicione-se nas melhores altcoins antes da explosão de preços"
+  variant="success"
+/>
+
 ### 1. Ethereum (ETH) - A Base do Ecossistema
 
 **Market Cap:** ~$230 bilhões
@@ -394,6 +400,8 @@ Injective é uma exchange descentralizada focada em derivativos, com velocidade 
 ---
 
 ## 💼 Como Montar Seu Portfolio
+
+<InlineAffiliateCTA text="Diversifique seu portfólio com as melhores altcoins" exchange="all" variant="secondary" />
 
 ### Portfolio Conservador (Menor Risco)
 - **50%** - Ethereum (ETH)

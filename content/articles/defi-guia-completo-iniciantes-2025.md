@@ -64,6 +64,12 @@ Neste guia completo, você vai aprender tudo sobre DeFi: desde conceitos básico
 
 ## 🏦 Principais Protocolos DeFi
 
+<UrgencyCTA
+  message="DeFi: O Futuro das Finanças Está Aqui!"
+  highlight="Ganhe até 30% ao ano com protocolos DeFi. Comece hoje!"
+  variant="info"
+/>
+
 ### 1. Aave - Lending/Borrowing
 
 **O que é:** Maior protocolo de empréstimos descentralizados
@@ -401,6 +407,8 @@ Neste guia completo, você vai aprender tudo sobre DeFi: desde conceitos básico
 5. Nunca compartilhe com ninguém
 
 ### Passo 3: Compre Cripto
+
+<InlineAffiliateCTA text="Compre ETH e stablecoins para começar no DeFi" exchange="all" variant="secondary" />
 
 1. Use exchange confiável
 2. Compre ETH e stablecoins (USDC)

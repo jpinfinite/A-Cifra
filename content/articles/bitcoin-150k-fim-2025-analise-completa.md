@@ -32,6 +32,12 @@ Neste artigo, vamos fazer uma análise profunda e realista do momento atual do B
 
 ## 📊 Contexto Atual: Onde Estamos Agora?
 
+<UrgencyCTA
+  message="Bitcoin a $95K - Oportunidade Antes dos $150K?"
+  highlight="Cadastre-se agora e posicione-se para o próximo movimento histórico"
+  variant="warning"
+/>
+
 Em novembro de 2025, o Bitcoin está sendo negociado na faixa de **$95.000 a $105.000**, após ter atingido uma máxima histórica de **$120.000** em setembro. Essa consolidação é natural após um movimento de alta expressivo que começou no início do ano.
 
 ### Principais Marcos de 2025:
@@ -198,6 +204,8 @@ Para investidores que querem aproveitar o potencial de alta do Bitcoin até o fi
 4. **Realize lucros parciais**: Considere vender 10-20% em alvos importantes
 
 ### Onde Comprar e Armazenar
+
+<InlineAffiliateCTA text="Comece a investir em Bitcoin hoje" exchange="all" variant="primary" />
 
 **Exchanges Confiáveis:**
 - Binance

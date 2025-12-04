@@ -68,6 +68,12 @@ Neste artigo completo, vou mostrar:
 
 ## 🚀 Razão #1: Layer 2s Explodindo
 
+<UrgencyCTA
+  message="Ethereum Acima de $2,800 - Momento de Acumular!"
+  highlight="4 razões fundamentais apontam para $5K+. Posicione-se agora!"
+  variant="success"
+/>
+
 ### O Problema de Escalabilidade (Resolvido!)
 
 **Ethereum sempre teve um problema:** escalabilidade.

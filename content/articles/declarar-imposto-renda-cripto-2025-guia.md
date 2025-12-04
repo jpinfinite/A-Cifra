@@ -29,6 +29,8 @@ Neste guia completo e atualizado, você vai aprender tudo sobre como declarar Bi
 
 ## 📋 Regras Básicas da Receita Federal
 
+<InlineAffiliateCTA text="Invista em cripto de forma legal e declare corretamente" exchange="all" variant="secondary" />
+
 ### Quem Precisa Declarar?
 
 **Você DEVE declarar se:**

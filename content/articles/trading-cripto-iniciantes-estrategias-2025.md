@@ -100,6 +100,12 @@ Neste guia completo, você vai aprender tudo sobre trading de cripto: análise t
 
 ## 📊 Análise Técnica Essencial
 
+<UrgencyCTA
+  message="Aprenda a Tradear Como um Profissional!"
+  highlight="Cadastre-se e comece a praticar com as melhores ferramentas"
+  variant="info"
+/>
+
 ### Conceitos Fundamentais
 
 **1. Suporte e Resistência**
@@ -460,6 +466,8 @@ Position Size = (Capital × Risco%) / (Entrada - Stop)
 ## 📱 Ferramentas Essenciais
 
 ### Plataformas de Trading
+
+<InlineAffiliateCTA text="Abra sua conta e comece a tradear hoje" exchange="all" variant="primary" />
 
 **1. Binance**
 - Maior liquidez

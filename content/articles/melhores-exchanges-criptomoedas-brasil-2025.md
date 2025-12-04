@@ -87,6 +87,12 @@ Avaliamos cada exchange com base em:
 
 ## Top 10 Melhores Exchanges para Brasileiros
 
+<UrgencyCTA
+  message="Escolha sua exchange e comece hoje!"
+  highlight="Cadastre-se agora e ganhe bônus exclusivos de boas-vindas"
+  variant="info"
+/>
+
 ### 1. 🥇 Binance - Melhor Exchange Global
 
 **Nota Geral: 9.2/10**
@@ -127,6 +133,8 @@ Avaliamos cada exchange com base em:
 - Usuários de DeFi e staking
 
 **Veredicto:** Melhor opção para quem quer acesso a todo o mercado cripto.
+
+<InlineAffiliateCTA text="Abra sua conta na Binance" exchange="binance" variant="minimal" />
 
 ---
 
@@ -213,6 +221,8 @@ Avaliamos cada exchange com base em:
 - Quem quer máxima segurança
 
 **Veredicto:** Vale a pena pagar mais caro pela simplicidade e segurança.
+
+<InlineAffiliateCTA text="Cadastre-se na Coinbase" exchange="coinbase" variant="minimal" />
 
 ---
 

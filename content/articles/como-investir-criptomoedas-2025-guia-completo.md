@@ -72,6 +72,12 @@ Criptomoedas são **moedas digitais descentralizadas** que funcionam em redes bl
 
 ## Passo 2: Escolha uma Exchange Confiável
 
+<UrgencyCTA
+  message="Comece a investir hoje mesmo!"
+  highlight="Abra sua conta em minutos e ganhe bônus de boas-vindas"
+  variant="success"
+/>
+
 ### Melhores Exchanges para Brasileiros em 2025
 
 #### 1. **Mercado Bitcoin**
@@ -161,6 +167,8 @@ Criptomoedas são **moedas digitais descentralizadas** que funcionam em redes bl
 💡 **Dica:** Comece pequeno para aprender sem pressão.
 
 ## Passo 5: Compre Sua Primeira Criptomoeda
+
+<InlineAffiliateCTA text="Pronto para comprar? Cadastre-se e ganhe bônus" exchange="all" variant="primary" />
 
 ### Estratégia para Iniciantes
 

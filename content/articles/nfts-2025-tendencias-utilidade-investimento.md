@@ -29,6 +29,12 @@ Com volume de trading de **$8 bilhões** em 2024 e crescimento projetado para **
 
 ## 🎯 O Que São NFTs? (Revisão Rápida)
 
+<UrgencyCTA
+  message="NFTs Evoluíram - Não É Mais Só Especulação!"
+  highlight="Gaming, RWAs e utilidade real. Descubra as oportunidades de 2025"
+  variant="info"
+/>
+
 **NFT** (Non-Fungible Token) = Token único e não intercambiável
 
 **Características:**
@@ -299,6 +305,8 @@ Com volume de trading de **$8 bilhões** em 2024 e crescimento projetado para **
 **Retorno Esperado:** 50-100% ao ano
 
 ## 🛒 Como Comprar NFTs (Passo a Passo)
+
+<InlineAffiliateCTA text="Compre ETH para começar no mundo dos NFTs" exchange="all" variant="primary" />
 
 ### Passo 1: Configure Carteira
 

@@ -57,6 +57,12 @@ Atualmente, mais de **$120 bilhões** estão em staking globalmente, com Ethereu
 
 ## 🏆 Melhores Criptomoedas para Staking 2025
 
+<UrgencyCTA
+  message="Ganhe Renda Passiva de 3% a 20% ao Ano!"
+  highlight="Comece a fazer staking hoje e faça seu dinheiro trabalhar para você"
+  variant="success"
+/>
+
 ### 1. Ethereum (ETH) - APY: 3,5-4,2%
 
 **Por que fazer stake:**
@@ -487,6 +493,8 @@ Atualmente, mais de **$120 bilhões** estão em staking globalmente, com Ethereu
 - **Carteira:** Phantom, Daedalus (mais controle)
 
 ### Passo 3: Compre a Criptomoeda
+
+<InlineAffiliateCTA text="Compre cripto e comece a fazer staking" exchange="all" variant="primary" />
 
 **Onde comprar:**
 - Exchanges brasileiras: Mercado Bitcoin, Bitget
