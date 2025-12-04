@@ -156,7 +156,7 @@ export function InlineAffiliateCTA({
 
   // Single exchange
   const ex = exchanges[exchange]
-  const colorClasses = {
+  const colorClasses: Record<string, string> = {
     blue: 'bg-blue-600 hover:bg-blue-700',
     yellow: 'bg-yellow-500 hover:bg-yellow-600',
     indigo: 'bg-indigo-600 hover:bg-indigo-700'
@@ -169,7 +169,7 @@ export function InlineAffiliateCTA({
         target="_blank"
         rel="noopener noreferrer sponsored"
         onClick={() => handleClick(ex.name, ex.url)}
-        className={`inline-block px-6 py-3 ${colorClasses[ex.color]} text-white font-bold rounded-lg transition-colors shadow-lg hover:shadow-xl transform hover:scale-105`}
+        className={`inline-block px-6 py-3 ${colorClasses[ex.color] || colorClasses.blue} text-white font-bold rounded-lg transition-colors shadow-lg hover:shadow-xl transform hover:scale-105`}
       >
         🎁 {text} na {ex.name} - Ganhe {ex.bonus} →
       </a>
