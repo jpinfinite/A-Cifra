@@ -1,0 +1,81 @@
+# URLs dos 10 NovArtigos para Indexação no Google Search Console
+
+## Artigos Criados - 4 de Dezembro de 2025
+
+1. Ethereum rumo aos $4.000
+https://a-cifra.com.br/ethereum-4k-caminho-2025-analise-completa
+
+2. Top 10 Melhores Altcoins Dezembro 2025
+https://a-cifra.com.br/melhores-altcoins-investir-dezembro-2025
+
+3. DeFi: Guia Completo para Iniciantes 2025
+https://a-cifra.com.br/defi-guia-completo-iniciantes-2025
+
+4. Como Declarar Criptomoedas no IR 2025
+https://a-cifra.com.br/declarar-imposto-renda-cripto-2025-guia
+
+5. Staking de Criptomoedas: Guia Completo 2025
+https://a-cifra.com.br/staking-criptomoedas-guia-renda-passiva-2025
+
+6. NFTs em 2025: Tendências e Utilidade
+https://a-cifra.com.br/nfts-2025-tendencias-utilidade-investimento
+
+7. Trading de Cripto para Iniciantes 2025
+https://a-cifra.com.br/trading-cripto-iniciantes-estrategias-2025
+
+8. Segurança em Criptomoedas: Guia Completo 2025
+https://a-cifra.com.br/seguranca-criptomoedas-guia-completo-protecao
+
+9. Layer 2 do Ethereum: Guia Completo 2025
+https://a-cifra.com.br/layer-2-ethereum-guia-completo-escalabilidade
+
+10. Regulação de Criptomoedas no Brasil 2025
+https://a-cifra.com.br/regulacao-cripto-brasil-2025-cenario-completo
+
+---
+
+## Como Indexar no Google Search Console
+
+1. Acesse: https://search.google.com/search-console
+2. Selecione a propriedade: a-cifra.com.br
+3. Vá em "Inspeção de URL"
+4. Cole cada URL acima
+5. Clique em "Solicitar indexação"
+6. Repita para todas as 10 URLs
+
+## Tempo Estimado de Indexação
+
+- Primeiras 24h: 2-3 artigos indexados
+- Primeira semana: 7-8 artigos indexados
+- Duas semanas: Todos os 10 artigos indexados
+
+## Keywords Principais por Artigo
+
+1. ethereum 4k, eth dezembro 2025, análise ethereum
+2. melhores altcoins 2025, investir altcoins, solana cardano
+3. defi guia, finanças descentralizadas, yield farming
+4. declarar cripto ir 2025, imposto criptomoedas, receita federal
+5. staking cripto, renda passiva criptomoedas, staking ethereum
+6. nfts 2025, investir nfts, nft utilidade, nft gaming
+7. trading cripto, day trade bitcoin, análise técnica
+8. segurança cripto, hardware wallet, proteger bitcoin
+9. layer 2 ethereum, arbitrum, optimism, base
+10. regulação cripto brasil, lei criptomoedas, banco central
+
+## Potencial de Tráfego (12 meses)
+
+- Mês 1: 500-1.000 visitantes
+- Mês 3: 3.000-5.000 visitantes
+- Mês 6: 10.000-15.000 visitantes
+- Mês 12: 30.000-50.000 visitantes
+
+## Receita Estimada (12 meses)
+
+- Afiliados: R$10.000-20.000
+- AdSense: R$3.000-5.000
+- Total: R$13.000-25.000
+
+---
+
+Gerado em: 4 de dezembro de 2025
+
