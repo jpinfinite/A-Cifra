@@ -124,7 +124,6 @@ export default function RootLayout({
 
         {/* Preload recursos críticos */}
         <link rel="preload" href="/images/logos/favcoin.png" as="image" type="image/png" />
-        <link rel="preload" href="/images/cifra-principal.png" as="image" type="image/png" />
 
         {/* Structured Data */}
         <StructuredData data={generateWebsiteStructuredData()} />
