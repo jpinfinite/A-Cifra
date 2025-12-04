@@ -1,7 +1,7 @@
 ---
-id: 'nfts-2025-tendencias-utilidade-investimento.md'
+id: 'nfts-2025-tendencias-utilidade-investimento'
 title: 'NFTs em 2025: Tendências, Utilidade Real e Como Investir com Inteligência'
-slug:-tendencias-utilidade-investimento'
+slug: 'nfts-2025-tendencias-utilidade-investimento'
 excerpt: 'NFTs evoluíram além de arte digital. Descubra tendências 2025: gaming, RWAs, utilidade real, melhores projetos e como investir em NFTs com estratégia.'
 coverImage:
   src: '/images/nfts-2025-tendencias.jpg'

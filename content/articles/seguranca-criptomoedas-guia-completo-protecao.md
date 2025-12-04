@@ -14,7 +14,7 @@ author:
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
 categorySlug: 'seguranca'
-tagsurança', 'hardware wallet', 'cold wallet', 'phishing', 'golpes', 'proteção']
+tags: ['segurança', 'hardware wallet', 'cold wallet', 'phishing', 'golpes', 'proteção']
 seo:
   metaTitle: 'Segurança em Criptomoedas: Guia Completo 2025 | Proteja Seus Ativos | A Cifra'
   metaDescription: 'Guia completo de segurança cripto: hardware wallets, 2FA, como evitar phishing, golpes comuns e melhores práticas para proteger Bitcoin e altcoins em 2025.'
