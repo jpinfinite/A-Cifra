@@ -16,8 +16,8 @@ export default function ArticlesPageClient({ articles }: ArticlesPageClientProps
   // Converter strings de data de volta para Date objects
   const articlesWithDates = useMemo(() => articles.map(article => ({
     ...article,
-    publishedAt: new Date(article.publishedAt as any),
-    updatedAt: article.updatedAt ? new Date(article.updatedAt as any) : undefined
+    publishedAt: new Date(article.publishedAt as string | Date),
+    updatedAt: article.updatedAt ? new Date(article.updatedAt as string | Date) : undefined
   })), [articles])
 
   const [filteredArticles, setFilteredArticles] = useState<Article[]>(articlesWithDates)

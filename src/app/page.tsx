@@ -1,6 +1,7 @@
 import { MainLayout } from '@/components/layout'
 import { getFeaturedArticle, getRecentArticles } from '@/data/articles'
 import { generateMetadata } from '@/utils/seo'
+import type { Article } from '@/types'
 import { HomePageClient } from '@/components/HomePageClient'
 
 export const metadata = generateMetadata({
@@ -47,8 +48,8 @@ export default async function HomePage() {
   return (
     <MainLayout>
       <HomePageClient
-        featuredArticle={serializedFeatured as any}
-        recentArticles={serializedRecent as any}
+        featuredArticle={serializedFeatured as unknown as Article}
+        recentArticles={serializedRecent as unknown as Article[]}
       />
     </MainLayout>
   )

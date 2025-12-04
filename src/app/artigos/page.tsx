@@ -2,6 +2,7 @@ import { MainLayout } from '@/components/layout'
 import { Container, Heading, Text } from '@/components/ui'
 import { getAllArticles } from '@/data/articles'
 import { generatePageMetadata } from '@/utils/seo'
+import type { Article } from '@/types'
 import ArticlesPageClient from './ArticlesPageClient'
 
 export const metadata = generatePageMetadata(
@@ -41,7 +42,7 @@ export default async function ArticlesPage() {
         </div>
 
         {/* Client-side filtering and display */}
-        <ArticlesPageClient articles={serializedArticles as any} />
+        <ArticlesPageClient articles={serializedArticles as unknown as Article[]} />
       </Container>
     </MainLayout>
   )

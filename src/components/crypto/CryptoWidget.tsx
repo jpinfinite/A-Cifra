@@ -77,6 +77,7 @@ export function CryptoWidget() {
             >
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-3">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     src={crypto.image}
                     alt={crypto.name}

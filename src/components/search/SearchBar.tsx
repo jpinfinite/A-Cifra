@@ -39,6 +39,7 @@ export function SearchBar({ articles }: SearchBarProps) {
       setResults([])
       setIsOpen(false)
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [query])
 
   // Fechar ao clicar fora

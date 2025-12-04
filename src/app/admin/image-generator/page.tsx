@@ -38,8 +38,9 @@ export default function ImageGeneratorPage() {
 
       const data = await response.json()
       setGeneratedImage(data.image)
-    } catch (err: any) {
-      setError(err.message || 'Erro ao gerar imagem')
+    } catch (err) {
+      const error = err as Error
+      setError(error.message || 'Erro ao gerar imagem')
     } finally {
       setLoading(false)
     }
@@ -138,6 +139,7 @@ export default function ImageGeneratorPage() {
             </Heading>
 
             <div className="mb-6">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={generatedImage}
                 alt="Imagem gerada"

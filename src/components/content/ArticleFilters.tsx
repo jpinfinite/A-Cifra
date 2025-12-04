@@ -26,7 +26,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
       .map(article => {
         const date = article.publishedAt instanceof Date
           ? article.publishedAt
-          : new Date(article.publishedAt as any)
+          : new Date(article.publishedAt as string | Date)
         return date.getFullYear()
       })
     return Array.from(new Set(years)).sort((a, b) => b - a)
@@ -59,7 +59,7 @@ export function ArticleFilters({ articles, onFilteredArticles }: ArticleFiltersP
         if (!article.publishedAt) return false
         const date = article.publishedAt instanceof Date
           ? article.publishedAt
-          : new Date(article.publishedAt as any)
+          : new Date(article.publishedAt as string | Date)
         return date.getFullYear().toString() === selectedYear
       })
     }

@@ -18,14 +18,14 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
   // Converter strings de data de volta para Date objects
   const featuredWithDate = {
     ...featuredArticle,
-    publishedAt: new Date(featuredArticle.publishedAt as any),
-    updatedAt: featuredArticle.updatedAt ? new Date(featuredArticle.updatedAt as any) : undefined
+    publishedAt: new Date(featuredArticle.publishedAt as string | Date),
+    updatedAt: featuredArticle.updatedAt ? new Date(featuredArticle.updatedAt as string | Date) : undefined
   }
 
   const recentWithDates = recentArticles.map(article => ({
     ...article,
-    publishedAt: new Date(article.publishedAt as any),
-    updatedAt: article.updatedAt ? new Date(article.updatedAt as any) : undefined
+    publishedAt: new Date(article.publishedAt as string | Date),
+    updatedAt: article.updatedAt ? new Date(article.updatedAt as string | Date) : undefined
   }))
 
   // Scroll reveal animation

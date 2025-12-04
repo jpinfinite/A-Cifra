@@ -29,6 +29,7 @@ export function CryptoPriceChart({
 
   useEffect(() => {
     fetchPriceData()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [symbol, days])
 
   async function fetchPriceData() {
@@ -65,8 +66,9 @@ export function CryptoPriceChart({
         setCurrentPrice(current)
         setPriceChange(change)
       }
-    } catch (err: any) {
-      setError(err.message || 'Erro ao carregar dados')
+    } catch (err) {
+      const error = err as Error
+      setError(error.message || 'Erro ao carregar dados')
     } finally {
       setLoading(false)
     }
