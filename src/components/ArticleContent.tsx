@@ -8,9 +8,11 @@ import rehypeRaw from 'rehype-raw'
 import { Article } from '@/types'
 import { addInlineLinks } from '@/utils/relatedArticles'
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
-import { InlineAffiliateCTA } from '@/components/content/InlineAffiliateCTA'
-import { UrgencyCTA } from '@/components/content/UrgencyCTA'
 import { AdSenseInArticle, AdSenseInArticle2, AdSenseMultiplex } from '@/components/ads'
+
+// InlineAffiliateCTA e UrgencyCTA são usados via markdown, não diretamente
+// import { InlineAffiliateCTA } from '@/components/content/InlineAffiliateCTA'
+// import { UrgencyCTA } from '@/components/content/UrgencyCTA'
 
 
 interface ArticleContentProps {
