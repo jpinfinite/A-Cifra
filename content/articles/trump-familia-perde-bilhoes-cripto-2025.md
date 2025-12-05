@@ -37,18 +37,18 @@ Durante o segundo mandato de Trump, a família mergulhou de cabeça no mundo cri
 
 **Principais Investimentos:**
 - **Trump Media & Technology Group** - Comprou 11.500 Bitcoins
-- **World Liberty Financial** - Projeto DeFi próprio
-- **American Bitcoin Corp** - Empresa de mineração
+- **World Liberty Financial** - Projeto [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) próprio
+- **American [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Corp** - Empresa de mineração
 - **TRUMP Memecoin** - Token com o nome da família
 
-**O Problema:** Todos esses investimentos estão **altamente correlacionados** ao mercado cripto. Quando Bitcoin cai, tudo cai junto.
+**O Problema:** Todos esses investimentos estão **altamente correlacionados** ao mercado cripto. Quando [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) cai, tudo cai junto.
 
 ### As Perdas Detalhadas
 
 **1. Trump Media & Technology Group: -US$ 800 Milhões**
 - Comprou 11.500 BTC a US$ 115.000 cada
-- Preço atual do Bitcoin: ~US$ 85.000
-- **Perda:** 25% do investimento em Bitcoin
+- Preço atual do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): ~US$ 85.000
+- **Perda:** 25% do investimento em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - **Ações da empresa:** -66% no último ano
 
 **2. World Liberty Financial: -US$ 3 Bilhões (no papel)**
@@ -56,7 +56,7 @@ Durante o segundo mandato de Trump, a família mergulhou de cabeça no mundo cri
 - Participação da família: de US$ 6 bi para US$ 3,15 bi
 - **Perda:** 47% do valor contábil
 
-**3. American Bitcoin Corp: -US$ 330 Milhões**
+**3. American [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Corp: -US$ 330 Milhões**
 - Eric Trump possui 7,5% da empresa
 - Ações caíram de US$ 9,31 para US$ 4,50
 - **Perda:** Mais de 50% do valor
@@ -78,7 +78,7 @@ A família Trump concentrou uma parcela significativa de sua riqueza em ativos c
 
 ### 2. Timing Ruim nas Compras
 
-**Trump Media comprou Bitcoin a US$ 115.000** - próximo ao topo histórico. Um exemplo perfeito de **FOMO** (Fear of Missing Out) institucional.
+**Trump Media comprou [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) a US$ 115.000** - próximo ao topo histórico. Um exemplo perfeito de **FOMO** (Fear of Missing Out) institucional.
 
 **Lição:** Não importa quem você é, comprar no topo dói no bolso.
 
@@ -127,28 +127,28 @@ Não há evidências de que a família tenha vendido posições durante os picos
 **3. Correlação de Ativos**
 - Entenda como seus investimentos se relacionam
 - Evite concentração em setores correlacionados
-- Bitcoin e altcoins geralmente caem juntos
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e altcoins geralmente caem juntos
 
 ## 🎯 A Estratégia Correta para 2025
 
 ### Portfolio Balanceado
 
 **Conservador (Baixo Risco):**
-- 50% Bitcoin
-- 30% Ethereum
+- 50% [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+- 30% [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - 15% Stablecoins
 - 5% Altcoins sólidas
 
 **Moderado (Médio Risco):**
-- 40% Bitcoin
-- 25% Ethereum
+- 40% [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+- 25% [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - 20% Altcoins top 20
 - 10% Stablecoins
 - 5% Projetos emergentes
 
 **Agressivo (Alto Risco):**
-- 30% Bitcoin
-- 20% Ethereum
+- 30% [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+- 20% [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - 30% Altcoins diversificadas
 - 10% Stablecoins
 - 10% Memecoins/Especulação
@@ -158,7 +158,7 @@ Não há evidências de que a família tenha vendido posições durante os picos
 **1. Regra dos 5%**
 - Nunca mais de 5% em um único altcoin
 - Nunca mais de 1% em memecoins
-- Bitcoin e Ethereum podem ter mais
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) podem ter mais
 
 **2. Regra do Take Profit**
 - Venda 25% ao dobrar o investimento
@@ -172,7 +172,7 @@ Não há evidências de que a família tenha vendido posições durante os picos
 
 ## 🚀 Comece a Investir com Inteligência
 
-Para investir em criptomoedas com estratégia e segurança:
+Para investir em criptomoedas com estratégia e [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes):
 
 <ExchangeAffiliateLinks />
 
@@ -183,7 +183,7 @@ Para investir em criptomoedas com estratégia e segurança:
 **Eric Trump permanece otimista:** "Este é um momento ideal para comprar. Aqueles que compram na baixa e abraçam a volatilidade acabarão sendo vencedores."
 
 **Ele pode estar certo:**
-- Bitcoin historicamente se recupera de quedas
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) historicamente se recupera de quedas
 - Adoção institucional continua crescendo
 - Regulamentação está se clarificando
 

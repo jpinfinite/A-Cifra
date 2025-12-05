@@ -131,7 +131,7 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 
 **Exemplos:**
 - **Valor mobiliário:** Token de projeto com promessa de retorno
-- **Não é:** Bitcoin, Ethereum (descentralizados)
+- **Não é:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (descentralizados)
 
 **Regulamentação:**
 - **Instrução CVM 555/2014:** Crowdfunding (adaptável para tokens)
@@ -146,8 +146,8 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 
 **Principais exchanges brasileiras:**
 
-**1. Mercado Bitcoin**
-- Maior exchange brasileira
+**1. Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**
+- Maior [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) brasileira
 - Fundada em 2013
 - 4+ milhões de usuários
 - Compliance robusto
@@ -165,7 +165,7 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 **4. NovaDAX**
 - Grupo Dacxi (Austrália)
 - Tecnologia avançada
-- Staking e DeFi
+- Staking e [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 **Requisitos para autorização:**
 - Capital mínimo adequado
@@ -178,19 +178,19 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 ### Exchanges Internacionais no Brasil
 
 **Binance**
-- Maior exchange global
+- Maior [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) global
 - Opera no Brasil via parceiros
 - Processo de regularização em andamento
 - Compliance local
 
 **Bitget**
-- Exchange global
+- [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) global
 - Crescimento no Brasil
 - Foco em derivativos
 - Processo de adequação
 
 **Coinbase**
-- Exchange americana (regulada nos EUA)
+- [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) americana (regulada nos EUA)
 - Disponível para brasileiros
 - Alto padrão de compliance
 
@@ -320,7 +320,7 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 - ❌ Implementação gradual
 
 **El Salvador:**
-- ✅ Bitcoin moeda legal
+- ✅ [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) moeda legal
 - ✅ Sem imposto sobre ganho de capital
 - ❌ Economia pequena
 - ❌ Riscos políticos
@@ -415,8 +415,8 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 - CVM liderando
 - Mercado de trilhões
 
-**3. DeFi Regulado**
-- Protocolos DeFi sob escrutínio
+**3. [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Regulado**
+- Protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) sob escrutínio
 - Possível regulação
 - Desafio: Descentralização vs. Compliance
 
@@ -452,7 +452,7 @@ Neste guia completo, você vai entender todo o cenário regulatório brasileiro:
 ### Para Investidores
 
 **1. Use Exchanges Reguladas**
-- Mercado Bitcoin, Foxbit, BitcoinTrade
+- Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), Foxbit, BitcoinTrade
 - Ou internacionais em processo de regularização
 - Evite exchanges sem compliance
 
@@ -519,7 +519,7 @@ Para investir em criptomoedas em exchanges reguladas e seguras:
 
 ### 1. Criptomoedas são legais no Brasil?
 
-**Resposta:** **Sim**, totalmente legais desde sempre. A Lei 14.478/2022 regulamentou o setor, trazendo regras claras. Bitcoin, Ethereum e outras criptomoedas podem ser compradas, vendidas e usadas livremente. Apenas siga as regras: declare no IR, pague impostos, use exchanges reguladas.
+**Resposta:** **Sim**, totalmente legais desde sempre. A Lei 14.478/2022 regulamentou o setor, trazendo regras claras. [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) e outras criptomoedas podem ser compradas, vendidas e usadas livremente. Apenas siga as regras: declare no IR, pague impostos, use exchanges reguladas.
 
 ### 2. Preciso declarar criptomoedas no Imposto de Renda?
 
@@ -531,7 +531,7 @@ Para investir em criptomoedas em exchanges reguladas e seguras:
 
 ### 4. Exchanges brasileiras são seguras?
 
-**Resposta:** **Sim**, especialmente as reguladas (Mercado Bitcoin, Foxbit, BitcoinTrade). Lei 14.478/2022 exige: segregação patrimonial, segurança cibernética, auditoria. Mas risco zero não existe - para grandes quantias (>R$5.000), use hardware wallet.
+**Resposta:** **Sim**, especialmente as reguladas (Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), Foxbit, BitcoinTrade). Lei 14.478/2022 exige: segregação patrimonial, segurança cibernética, auditoria. Mas risco zero não existe - para grandes quantias (>R$5.000), use [hardware wallet](/artigo/ledger-vs-trezor-review).
 
 ### 5. Posso usar Binance no Brasil?
 
@@ -541,17 +541,17 @@ Para investir em criptomoedas em exchanges reguladas e seguras:
 
 **Resposta:** **CBDC** (Central Bank Digital Currency) do Brasil. Real digital emitido pelo Banco Central, na blockchain. **Não é** criptomoeda descentralizada. Lançamento previsto: 2025-2026. Objetivo: Modernizar sistema financeiro, integrar com cripto, reduzir custos.
 
-### 7. DeFi é legal no Brasil?
+### 7. [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) é legal no Brasil?
 
-**Resposta:** **Sim**, mas área cinzenta. Lei 14.478/2022 foca em exchanges centralizadas. Protocolos DeFi descentralizados (Uniswap, Aave) não são explicitamente regulados. Você pode usar, mas: (1) Declare no IR, (2) Pague impostos, (3) Assuma riscos (sem proteção legal).
+**Resposta:** **Sim**, mas área cinzenta. Lei 14.478/2022 foca em exchanges centralizadas. Protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) descentralizados (Uniswap, Aave) não são explicitamente regulados. Você pode usar, mas: (1) Declare no IR, (2) Pague impostos, (3) Assuma riscos (sem proteção legal).
 
-### 8. Posso aceitar Bitcoin no meu negócio?
+### 8. Posso aceitar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) no meu negócio?
 
 **Resposta:** **Sim**, totalmente legal. Empresas podem aceitar cripto como pagamento. Mas: (1) Declare como receita, (2) Pague impostos (IR, ICMS se aplicável), (3) Converta para real ou mantenha (risco de volatilidade), (4) Mantenha registros contábeis.
 
-### 9. O que acontece se exchange quebrar?
+### 9. O que acontece se [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) quebrar?
 
-**Resposta:** Com Lei 14.478/2022: **Segregação patrimonial** protege seus ativos. Fundos dos clientes são separados dos da empresa. Em caso de falência, você recupera suas criptomoedas. Mas: (1) Processo pode demorar, (2) Use exchanges reguladas, (3) Para grandes quantias, use hardware wallet.
+**Resposta:** Com Lei 14.478/2022: **Segregação patrimonial** protege seus ativos. Fundos dos clientes são separados dos da empresa. Em caso de falência, você recupera suas criptomoedas. Mas: (1) Processo pode demorar, (2) Use exchanges reguladas, (3) Para grandes quantias, use [hardware wallet](/artigo/ledger-vs-trezor-review).
 
 ### 10. Brasil vai proibir criptomoedas como China?
 
@@ -571,7 +571,7 @@ O Brasil estabeleceu um dos marcos regulatórios mais avançados para criptomoed
 - ✅ Declaração no IR obrigatória
 - ✅ Exchanges devem ter autorização do BC
 - ✅ Compliance PLD/FT obrigatório
-- ✅ Futuro: Drex, tokenização, DeFi regulado
+- ✅ Futuro: Drex, tokenização, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) regulado
 
 **Recomendação:** Use exchanges reguladas, declare no IR, pague impostos, mantenha documentação. Regulação traz segurança e legitimidade. Brasil está posicionado para ser líder em cripto na América Latina.
 

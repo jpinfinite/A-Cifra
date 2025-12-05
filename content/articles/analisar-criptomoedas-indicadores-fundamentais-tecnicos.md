@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'analise-cripto-2025'
 title: 'Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos'
 slug: 'analisar-criptomoedas-indicadores-fundamentais-tecnicos'
@@ -89,8 +89,8 @@ Mede o humor do mercado:
 **Exemplo de Avaliação:**
 | Blockchain | Consenso | TPS | Finalidade | Escalabilidade |
 |------------|----------|-----|------------|----------------|
-| Bitcoin | PoW | 7 | 60 min | Baixa |
-| Ethereum | PoS | 15 | 12 min | Média (L2s) |
+| [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) | PoW | 7 | 60 min | Baixa |
+| [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) | PoS | 15 | 12 min | Média (L2s) |
 | Solana | PoS | 65.000 | 2.5s | Alta |
 | Cardano | PoS | 250 | 20s | Média |
 
@@ -174,7 +174,7 @@ Mede o humor do mercado:
 #### Utilidade do Token
 **Tipos de Utilidade:**
 - **Pagamento:** Taxas de transação
-- **Staking:** Segurança da rede
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026):** [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) da rede
 - **Governança:** Votação em propostas
 - **Acesso:** Funcionalidades premium
 - **Queima:** Mecanismos deflacionários
@@ -318,8 +318,8 @@ Mede o humor do mercado:
 **Coeficiente de Gini:**
 - 0 = distribuição perfeita
 - 1 = concentração total
-- Bitcoin: ~0.88 (alta concentração)
-- Ethereum: ~0.85
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): ~0.88 (alta concentração)
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): ~0.85
 
 #### Endereços por Faixa
 **Análise de Baleias:**
@@ -330,26 +330,26 @@ Mede o humor do mercado:
 ### 3. Métricas de Mineração/Validação
 
 #### Hash Rate (PoW)
-- Segurança da rede
+- [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) da rede
 - Crescimento = confiança
 - Queda = possível ataque
 
-#### Staking Ratio (PoS)
-- % de tokens em staking
+#### [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) Ratio (PoS)
+- % de tokens em [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Alto ratio = tokens fora de circulação
 - Baixo ratio = mais liquidez
 
 ### 4. Ferramentas de Análise On-Chain
 
 **Gratuitas:**
-- [Blockchain.info](https://blockchain.info) - Bitcoin
-- [Etherscan](https://etherscan.io) - Ethereum
+- [Blockchain.info](https://blockchain.info) - [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+- [Etherscan](https://etherscan.io) - [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - [CoinMetrics](https://coinmetrics.io) - Múltiplas redes
 
 **Pagas:**
 - [Glassnode](https://glassnode.com) - Análise profissional
 - [Chainalysis](https://chainalysis.com) - Compliance
-- [Nansen](https://nansen.ai) - Ethereum focus
+- [Nansen](https://nansen.ai) - [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) focus
 
 ---
 
@@ -369,7 +369,7 @@ Mede o humor do mercado:
 - Volume/momentum (25%)
 - Redes sociais (15%)
 - Pesquisas Google (10%)
-- Dominância Bitcoin (10%)
+- Dominância [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (10%)
 - Tendências (15%)
 
 ### 2. Redes Sociais
@@ -446,8 +446,8 @@ Mede o humor do mercado:
 #### Fundamentalista (8.5/10)
 - **Tecnologia (9/10):** Proof of History inovador, 65k TPS
 - **Equipe (8/10):** Anatoly Yakovenko (ex-Qualcomm), equipe forte
-- **Caso de Uso (8/10):** DeFi, NFTs, pagamentos, gaming
-- **Tokenomics (8/10):** Inflação decrescente, staking, queima
+- **Caso de Uso (8/10):** [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), NFTs, pagamentos, gaming
+- **Tokenomics (8/10):** Inflação decrescente, [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), queima
 
 #### Técnica (7/10)
 - **Tendência (7/10):** Acima MA 200, tendência de alta
@@ -539,10 +539,10 @@ Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges rec
 ### 2. Análise Fundamentalista
 - [Messari](https://messari.io) - Pesquisa profissional
 - [Token Terminal](https://tokenterminal.com) - Métricas financeiras
-- [DeFiPulse](https://defipulse.com) - TVL e DeFi
+- [DeFiPulse](https://defipulse.com) - TVL e [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 ### 3. Análise On-Chain
-- [Glassnode](https://glassnode.com) - Métricas Bitcoin/Ethereum
+- [Glassnode](https://glassnode.com) - Métricas [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)/Ethereum
 - [Dune Analytics](https://dune.com) - Dashboards customizados
 - [DefiLlama](https://defillama.com) - TVL multi-chain
 

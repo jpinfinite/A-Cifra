@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'optimism-layer2-ethereum-retroativo'
 title: 'Optimism: Layer 2 do Ethereum com Financiamento Retroativo'
 slug: 'optimism-layer2-ethereum-retroativo'
@@ -28,7 +28,7 @@ seo:
     - 'retropgf'
 ---
 
-**Optimism** é uma solução Layer 2 para Ethereum que combina escalabilidade técnica com inovação em financiamento de bens públicos.
+**Optimism** é uma solução Layer 2 para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) que combina escalabilidade técnica com inovação em financiamento de bens públicos.
 
 ## Optimistic Rollups
 
@@ -36,9 +36,9 @@ Processa transações off-chain assumindo que são válidas, com período de des
 
 ### Benefícios
 
-- **Taxas Baixas**: 90% mais barato que Ethereum
+- **Taxas Baixas**: 90% mais barato que [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - **EVM Equivalente**: Compatibilidade total
-- **Segurança**: Ethereum mainnet
+- **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)**: [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) mainnet
 - **Velocidade**: Confirmações rápidas
 
 ## RetroPGF: Inovação em Financiamento
@@ -60,7 +60,7 @@ Optimism financia projetos que já criaram valor para o ecossistema.
 
 ## Ecossistema
 
-### DeFi
+### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 - **Velodrome**: DEX principal
 - **Aave**: Lending

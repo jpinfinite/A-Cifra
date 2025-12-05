@@ -135,13 +135,13 @@ seo:
 - EVM-compatible
 - $450 milhões TVL
 - 200+ dApps
-- Ponte com Ethereum
+- Ponte com [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 **Acala (ACA):**
-- DeFi hub
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) hub
 - $280 milhões TVL
 - Stablecoin aUSD
-- Liquid staking
+- Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 **Astar (ASTR):**
 - Smart contracts
@@ -174,10 +174,10 @@ seo:
 - Dados off-chain confiáveis
 - Expansão de casos de uso
 
-### 4. Staking e Tokenomics
+### 4. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) e Tokenomics
 
-**Métricas de staking:**
-- **52%** do supply em staking
+**Métricas de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026):**
+- **52%** do supply em [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - **APY:** 14-16% (um dos mais altos)
 - **Nominators:** 1,2 milhão
 - **Validators:** 297
@@ -188,7 +188,7 @@ seo:
 - Inflação líquida: 7-8%
 - Tendência: Deflacionária com adoção
 
-**Liquid staking crescendo:**
+**Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) crescendo:**
 - Acala Liquid DOT (LDOT): $420 milhões
 - Lido on Polkadot: $180 milhões
 - Bifrost (vDOT): $95 milhões
@@ -198,7 +198,7 @@ seo:
 
 ### DOT vs ETH (Interoperabilidade)
 
-| Métrica | Polkadot | Ethereum |
+| Métrica | Polkadot | [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) |
 |---------|----------|----------|
 | **Preço** | $10,65 | $4.200 |
 | **Market cap** | $16,8 bi | $505 bi |
@@ -247,35 +247,35 @@ seo:
 <ExchangeAffiliateLinks variant="default" />
 
 **Passo a passo:**
-1. Crie conta em exchange confiável
+1. Crie conta em [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) confiável
 2. Complete KYC
 3. Deposite fundos (PIX, TED)
 4. Compre DOT
 5. Transfira para carteira própria (recomendado)
 
-### 2. Staking de DOT
+### 2. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de DOT
 
-**Opções de staking:**
+**Opções de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 
-**Staking direto (Polkadot.js):**
+**[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) direto (Polkadot.js):**
 - APY: 14-16%
 - Mínimo: 10 DOT (~$100)
 - Unbonding: 28 dias
 - Complexidade: Média
 
-**Liquid staking (Acala, Lido):**
+**Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (Acala, Lido):**
 - APY: 12-14%
 - Mínimo: 1 DOT
 - Liquidez: Imediata (token derivativo)
 - Complexidade: Baixa
 
-**Exchange staking:**
+**[exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) [staking](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 - APY: 10-12%
 - Mínimo: 0,1 DOT
 - Liquidez: Variável
 - Complexidade: Muito baixa
 
-**Recomendação:** Liquid staking para melhor balanço entre rendimento e liquidez.
+**Recomendação:** Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para melhor balanço entre rendimento e liquidez.
 
 ### 3. Exposição via Parachains
 
@@ -298,12 +298,12 @@ seo:
 - **Trezor Model T:** Suporta DOT, $219
 
 **Software:**
-- **Polkadot.js:** Carteira oficial, staking nativo
+- **Polkadot.js:** Carteira oficial, [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) nativo
 - **Talisman:** Multi-chain, fácil de usar
 - **SubWallet:** Mobile + desktop, suporta parachains
 
 **Web:**
-- **Nova Wallet:** Mobile, staking integrado
+- **Nova Wallet:** Mobile, [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) integrado
 - **Fearless Wallet:** iOS + Android, user-friendly
 
 ## Estratégias de Investimento
@@ -314,7 +314,7 @@ seo:
 
 **Estratégia:**
 - Compre DOT e segure por 2-5 anos
-- Faça staking para 14-16% APY
+- Faça [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para 14-16% APY
 - Reinvista recompensas
 - Ignore volatilidade de curto prazo
 
@@ -328,7 +328,7 @@ seo:
 - Compre R$ 500-1.000/mês em DOT
 - Independente do preço
 - Acumule por 12-24 meses
-- Faça staking de tudo
+- Faça [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de tudo
 
 **Vantagens:** Preço médio equilibrado, disciplina
 
@@ -346,7 +346,7 @@ seo:
 
 ### 4. Farming em Parachains
 
-**Perfil:** DeFi enthusiast
+**Perfil:** [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) enthusiast
 
 **Estratégia:**
 - Forneça liquidez em Acala/Moonbeam
@@ -354,14 +354,14 @@ seo:
 - Reinvista recompensas
 - Monitore impermanent loss
 
-**Risco:** Médio-alto, requer conhecimento DeFi
+**Risco:** Médio-alto, requer conhecimento [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 ## Riscos e Considerações
 
 ### 1. Competição Intensa
 
 **Concorrentes fortes:**
-- Ethereum (líder estabelecido)
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (líder estabelecido)
 - Cosmos (mais descentralizado)
 - Avalanche (mais rápido)
 - Solana (mais barato)
@@ -372,7 +372,7 @@ seo:
 
 **Curva de aprendizado:**
 - Conceito de parachains não é intuitivo
-- Staking mais complexo que outras chains
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) mais complexo que outras chains
 - Governança on-chain requer participação
 
 **Mitigação:** Educação, use ferramentas user-friendly (Nova Wallet, Talisman)
@@ -389,13 +389,13 @@ seo:
 
 **DOT é volátil:**
 - Pode cair 40-60% em bear markets
-- Correlação com Bitcoin: 0,75
+- Correlação com [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): 0,75
 - Mais volátil que BTC/ETH
 
 **Gestão de risco:**
 - Não invista mais de 10-15% do portfólio
 - Use DCA
-- Faça staking para renda passiva
+- Faça [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para renda passiva
 
 ## Catalisadores Futuros (2026)
 
@@ -425,7 +425,7 @@ seo:
 
 **Julho-Setembro:**
 - XCM v4 completo
-- Interoperabilidade com Ethereum/Cosmos
+- Interoperabilidade com [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)/Cosmos
 - Pontes descentralizadas
 
 **Outubro-Dezembro:**
@@ -445,7 +445,7 @@ seo:
 
 ### Messari (Relatório Q4 2025)
 
-> "Polkadot está posicionado para capturar valor da tese de interoperabilidade. Com 2.0, pode competir diretamente com Ethereum em casos de uso específicos. Preço alvo: $25-35 em 2026."
+> "Polkadot está posicionado para capturar valor da tese de interoperabilidade. Com 2.0, pode competir diretamente com [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) em casos de uso específicos. Preço alvo: $25-35 em 2026."
 
 ## Conclusão
 
@@ -454,18 +454,18 @@ O rally de **9% do Polkadot** não é apenas um movimento técnico isolado, mas 
 1. **Polkadot 2.0** traz melhorias significativas
 2. **Ecossistema de parachains** crescendo consistentemente
 3. **Parcerias institucionais** validando a tecnologia
-4. **Staking atrativo** (14-16% APY) incentiva holding
+4. **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) atrativo** (14-16% APY) incentiva holding
 
 **Para investidores:**
 - DOT oferece exposição a interoperabilidade blockchain
 - Risco/retorno favorável em $10-11
 - Potencial de 3-5x em 2026 com execução bem-sucedida
-- Staking oferece renda passiva enquanto aguarda valorização
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) oferece renda passiva enquanto aguarda valorização
 
 **Próximos passos:**
 1. Monitore rompimento de $11,50 (confirmação)
 2. Acompanhe lançamento do Polkadot 2.0 (Q1 2026)
-3. Considere DCA + staking para maximizar retornos
+3. Considere DCA + [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para maximizar retornos
 4. Diversifique com parachains promissoras
 
 O rompimento técnico de $10 é apenas o começo. Com catalisadores fortes em 2026, Polkadot pode finalmente realizar seu potencial como "blockchain das blockchains".
@@ -476,7 +476,7 @@ O rompimento técnico de $10 é apenas o começo. Com catalisadores fortes em 20
 
 **1. O que é Polkadot?**
 
-Polkadot é uma blockchain de camada 0 que permite interoperabilidade entre múltiplas blockchains (parachains). Oferece segurança compartilhada, escalabilidade e governança on-chain. Fundado por Gavin Wood, co-fundador do Ethereum.
+Polkadot é uma blockchain de camada 0 que permite interoperabilidade entre múltiplas blockchains (parachains). Oferece segurança compartilhada, escalabilidade e governança on-chain. Fundado por Gavin Wood, co-fundador do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026).
 
 **2. O que são parachains?**
 
@@ -484,19 +484,19 @@ Parachains são blockchains independentes que se conectam à Relay Chain do Polk
 
 **3. DOT é um bom investimento?**
 
-DOT tem fundamentos sólidos: tecnologia inovadora, ecossistema crescente, staking atrativo (14-16% APY) e Polkadot 2.0 chegando. Porém, enfrenta competição forte. Adequado para 5-15% do portfólio cripto.
+DOT tem fundamentos sólidos: tecnologia inovadora, ecossistema crescente, [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) atrativo (14-16% APY) e Polkadot 2.0 chegando. Porém, enfrenta competição forte. Adequado para 5-15% do portfólio cripto.
 
-**4. Como fazer staking de DOT?**
+**4. Como fazer [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de DOT?**
 
-Opções: (1) Staking direto via Polkadot.js (14-16% APY, 10 DOT mínimo), (2) Liquid staking via Acala/Lido (12-14% APY, mais flexível), (3) Exchange staking (10-12% APY, mais fácil).
+Opções: (1) [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) direto via Polkadot.js (14-16% APY, 10 DOT mínimo), (2) Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) via Acala/Lido (12-14% APY, mais flexível), (3) [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (10-12% APY, mais fácil).
 
 **5. Qual o preço alvo de DOT para 2026?**
 
 Conservador: $25-30. Base: $35-45. Otimista: $50-70. Depende de execução do Polkadot 2.0, adoção de parachains e mercado geral de cripto.
 
-**6. Polkadot é melhor que Ethereum?**
+**6. Polkadot é melhor que [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)?**
 
-Não é "melhor", mas diferente. Ethereum é plataforma de smart contracts generalista. Polkadot foca em interoperabilidade e segurança compartilhada. Podem coexistir e até se complementar.
+Não é "melhor", mas diferente. [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) é plataforma de smart contracts generalista. Polkadot foca em interoperabilidade e segurança compartilhada. Podem coexistir e até se complementar.
 
 **7. Quais os principais riscos de investir em DOT?**
 

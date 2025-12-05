@@ -56,7 +56,7 @@ O **Relative Strength Index (RSI)** mede a velocidade e magnitude das mudanças 
 
 ### Estratégia Prática: Divergências RSI
 
-**Exemplo real - Bitcoin em novembro 2025:**
+**Exemplo real - [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em novembro 2025:**
 
 Quando o BTC atingiu $98.000, o RSI marcou 82 (sobrecompra extrema). Traders experientes venderam parcialmente, e o preço corrigiu para $92.000 em 48 horas - **oportunidade de 6% de lucro**.
 
@@ -104,7 +104,7 @@ O **MACD** mostra a relação entre duas médias móveis exponenciais, identific
 
 ### Estratégia: MACD + Tendência
 
-**Exemplo - Ethereum em dezembro 2025:**
+**Exemplo - [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) em dezembro 2025:**
 
 ETH estava em tendência de alta. Quando o MACD cruzou acima da linha de sinal em $3.800, foi um sinal de compra. O preço subiu para $4.200 em uma semana - **lucro de 10,5%**.
 
@@ -175,7 +175,7 @@ Diferente de indicadores de preço, o **Volume Profile** mostra **onde** o volum
 
 Quando o preço se aproxima de um HVN, há grande probabilidade de reação (bounce ou rejeição).
 
-**Exemplo - Bitcoin:**
+**Exemplo - [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):**
 
 BTC tinha um HVN em $85.000 (muito volume negociado nesse nível). Quando o preço caiu de $98.000, encontrou suporte forte em $85.000 e recuperou para $92.000.
 
@@ -206,12 +206,12 @@ A **EMA** dá mais peso aos preços recentes, reagindo mais rápido às mudança
 **Golden Cross (bullish):**
 - EMA 50 cruza acima da EMA 200
 - Sinal de tendência de alta de longo prazo
-- **Exemplo:** Bitcoin em janeiro 2023 - início do bull market
+- **Exemplo:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em janeiro 2023 - início do bull market
 
 **Death Cross (bearish):**
 - EMA 50 cruza abaixo da EMA 200
 - Sinal de tendência de baixa de longo prazo
-- **Exemplo:** Bitcoin em junho 2022 - bear market
+- **Exemplo:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em junho 2022 - bear market
 
 ### Estratégia: Ribbon EMA
 
@@ -243,7 +243,7 @@ Baseado na sequência matemática de Fibonacci, esses níveis identificam **zona
 2. Trace Fibonacci do fundo ao topo
 3. Aguarde correção para comprar nos níveis-chave
 
-**Exemplo - Ethereum:**
+**Exemplo - [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 
 ETH subiu de $3.000 para $4.000. Correção para o nível 61,8% ($3.382) foi oportunidade de compra. Preço voltou para $4.200 - **lucro de 24%**.
 
@@ -468,7 +468,7 @@ Análise de **fluxo de ordens** em tempo real - quem está comprando/vendendo e 
 ### 2. On-Chain Metrics
 
 - **MVRV Ratio:** Market Value / Realized Value
-- **Exchange Netflow:** Fluxo de cripto para/de exchanges
+- **[exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) Netflow:** Fluxo de cripto para/de exchanges
 - **Whale Alerts:** Movimentações grandes (>$1M)
 
 ### 3. Sentiment Indicators
@@ -503,8 +503,8 @@ Sempre busque **mínimo 1:2** (arriscar $1 para ganhar $2).
 ### Diversificação
 
 Não coloque todos os ovos na mesma cesta:
-- **40%:** Bitcoin (menos volátil)
-- **30%:** Ethereum (segunda maior)
+- **40%:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (menos volátil)
+- **30%:** [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (segunda maior)
 - **20%:** Top 10 altcoins
 - **10%:** Altcoins de alto risco/retorno
 
@@ -571,7 +571,7 @@ Depende do seu estilo:
 
 ### 6. Indicadores funcionam em todas as criptomoedas?
 
-Sim, mas **ajuste as configurações**. Bitcoin é menos volátil que altcoins pequenas.
+Sim, mas **ajuste as configurações**. [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é menos volátil que altcoins pequenas.
 
 ### 7. Devo usar indicadores em futuros alavancados?
 

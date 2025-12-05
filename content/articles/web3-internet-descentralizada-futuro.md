@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'web3-internet-descentralizada'
 slug: 'web3-internet-descentralizada-futuro'
 title: "Web3: A Internet Descentralizada do Futuro"
@@ -143,7 +143,7 @@ Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, 
 
 ## Aplicações Web3
 
-### DeFi (Finanças Descentralizadas)
+### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) (Finanças Descentralizadas)
 - Empréstimos sem bancos
 - Trading descentralizado
 - Yield farming
@@ -181,7 +181,7 @@ Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, 
 
 ## Tecnologias Chave
 
-### Ethereum
+### [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Plataforma líder de smart contracts
 - Maior ecossistema dApps
 - EVM padrão
@@ -191,7 +191,7 @@ Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, 
 - Endereçamento por conteúdo
 - Permanente
 
-### ENS (Ethereum Name Service)
+### ENS ([ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) Name Service)
 - Nomes legíveis para endereços
 - Identidade descentralizada
 - Subdomínios
@@ -204,7 +204,7 @@ Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, 
 ### Layer 2s
 - Escalabilidade
 - Taxas baixas
-- Mantém segurança
+- Mantém [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 ## Vantagens da Web3
 
@@ -276,7 +276,7 @@ Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, 
 - Diferentes jurisdições
 - Compliance
 
-### Segurança
+### [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 - Hacks e exploits
 - Phishing
 - Bugs em smart contracts
@@ -312,17 +312,17 @@ Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, 
 
 ### Passo 1: Carteira
 1. Instale MetaMask ou similar
-2. Guarde seed phrase com segurança
-3. Adicione redes (Ethereum, Polygon, etc.)
+2. Guarde seed phrase com [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
+3. Adicione redes ([ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), Polygon, etc.)
 
 ### Passo 2: Obter Cripto
-1. Compre em exchange
+1. Compre em [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 2. Transfira para sua carteira
 3. Mantenha para gas fees
 
 ### Passo 3: Explorar dApps
 1. Conecte carteira
-2. Experimente DeFi, NFTs, jogos
+2. Experimente [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), NFTs, jogos
 3. Participe de comunidades
 
 ### Passo 4: Aprender

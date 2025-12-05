@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'xrp-ripple'
 slug: 'xrp-pagamentos-globais'
 title: "XRP e Ripple: Revolucionando Pagamentos Globais"
@@ -69,25 +69,25 @@ Rede global de instituições financeiras usando tecnologia Ripple.
 - Custos reduzidos
 - Velocidade aumentada
 
-## XRP vs Bitcoin
+## XRP vs [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 ### Diferenças Principais
 
 **Consenso**
 - **XRP**: Protocolo de consenso (não mineração)
-- **Bitcoin**: Proof of Work
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**: Proof of Work
 
 **Velocidade**
 - **XRP**: 3-5 segundos
-- **Bitcoin**: 10+ minutos
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**: 10+ minutos
 
 **Custo**
 - **XRP**: $0.0002 por transação
-- **Bitcoin**: Varia, pode ser alto
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**: Varia, pode ser alto
 
 **Propósito**
 - **XRP**: Pagamentos institucionais
-- **Bitcoin**: Reserva de valor
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**: Reserva de valor
 
 ## Adoção Institucional
 
@@ -160,7 +160,7 @@ Rede global de instituições financeiras usando tecnologia Ripple.
 ### Centralização
 - Ripple controla grande parte do XRP
 - Validadores conhecidos
-- Menos descentralizado que Bitcoin
+- Menos descentralizado que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 ### Dependência da Ripple
 - Sucesso do XRP ligado à empresa
@@ -195,7 +195,7 @@ Rede global de instituições financeiras usando tecnologia Ripple.
 - Parcerias com governos
 - Testes em andamento
 
-### DeFi
+### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Flare Network: Smart contracts para XRP
 - Lending e borrowing
 - Yield farming
@@ -208,21 +208,21 @@ Rede global de instituições financeiras usando tecnologia Ripple.
 ## Como Investir em XRP
 
 ### Comprar XRP
-1. Escolha exchange que lista XRP
+1. Escolha [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) que lista XRP
 2. Complete verificação
 3. Compre XRP
 4. Transfira para carteira própria
 
 ### Carteiras Recomendadas
 - **XUMM**: Carteira móvel oficial
-- **Ledger**: Hardware wallet
+- **Ledger**: [hardware wallet](/artigo/ledger-vs-trezor-review)
 - **Toast Wallet**: Desktop
 - **Exodus**: Multi-moeda
 
 ### Estratégias
 - **Hold**: Exposição ao crescimento
 - **Trading**: Volatilidade
-- **Staking**: Via exchanges (não nativo)
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026)**: Via exchanges (não nativo)
 
 ## Riscos e Considerações
 

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'uniswap-v4-hooks-personalizacao-defi'
 title: 'Uniswap V4 e Hooks: Nova Era de Personalização em DeFi'
 slug: 'uniswap-v4-hooks-personalizacao-defi'
@@ -70,7 +70,7 @@ Todos os pools em um único contrato, reduzindo custos de gas.
 
 ## Conclusão
 
-Uniswap V4 abre possibilidades infinitas para inovação em DeFi através de hooks customizáveis.
+Uniswap V4 abre possibilidades infinitas para inovação em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) através de hooks customizáveis.
 
 ## 🚀 Comece a Investir em Criptomoedas
 

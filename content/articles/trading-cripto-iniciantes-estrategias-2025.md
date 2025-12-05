@@ -396,7 +396,7 @@ Neste guia completo, você vai aprender tudo sobre trading de cripto: análise t
 **Ideal:**
 - 3-5 posições simultâneas
 - Máximo 20% do capital por trade
-- Diferentes setores (BTC, DeFi, L1s)
+- Diferentes setores (BTC, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), L1s)
 
 **Evite:**
 - All-in em um trade
@@ -467,7 +467,7 @@ Position Size = (Capital × Risco%) / (Entrada - Stop)
 
 ### Plataformas de Trading
 
-<InlineAffiliateCTA text="Abra sua conta e comece a tradear hoje" exchange="all" variant="primary" />
+<InlineAffiliateCTA text="Abra sua conta e comece a tradear hoje" [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)="all" variant="primary" />
 
 **1. Binance**
 - Maior liquidez

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'makerdao-dai'
 title: 'MakerDAO e DAI: A Stablecoin Descentralizada'
 slug: 'makerdao-dai-stablecoin'
@@ -31,7 +31,7 @@ seo:
     - 'maker protocol'
 ---
 
-O **MakerDAO** é o protocolo que criou o DAI, a stablecoin descentralizada mais importante do ecossistema DeFi.
+O **MakerDAO** é o protocolo que criou o DAI, a stablecoin descentralizada mais importante do ecossistema [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).
 
 ## O Que é DAI?
 
@@ -60,7 +60,7 @@ Stablecoin atrelada ao dólar ($1):
 ✅ Descentralizado
 ✅ Transparente
 ✅ Resistente à censura
-✅ Aceito em todo DeFi
+✅ Aceito em todo [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 ## Governança (MKR)
 
@@ -77,7 +77,7 @@ Token MKR controla:
 
 ## Conclusão
 
-DAI é a stablecoin mais descentralizada e fundamental para DeFi. Ideal para quem valoriza descentralização.
+DAI é a stablecoin mais descentralizada e fundamental para [defi](/artigo/defi-yield-farming-protocolos-seguros-2026). Ideal para quem valoriza descentralização.
 
 ## 🚀 Comece a Investir em Criptomoedas
 

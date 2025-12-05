@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'dominancia-bitcoin-altseason-timing'
 title: 'Dominância Bitcoin e Altseason: Timing de Mercado'
 slug: 'dominancia-bitcoin-altseason-timing'
@@ -28,7 +28,7 @@ seo:
     - 'timing'
 ---
 
-A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora dominância bitcoin e altseason: timing de mercado.
+A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora dominância [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e altseason: timing de mercado.
 
 ## Fundamentos da Análise
 

@@ -46,13 +46,13 @@ In early November 2025, the privacy-focused cryptocurrency market returned to th
 
 Privacy coins are cryptocurrencies designed to **hide transaction details** — sender, recipient, and/or amount — using advanced cryptography and mixing techniques.
 
-Unlike Bitcoin, where all transactions are public and traceable, projects like Zcash and Dash offer features to protect user identity.
+Unlike [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), where all transactions are public and traceable, projects like Zcash and Dash offer features to protect user identity.
 
 ### Zcash (ZEC): Optional Privacy by Default
 
 Zcash supports two transfer modes:
 
-**Transparent:** Works like Bitcoin, with public transactions.
+**Transparent:** Works like [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), with public transactions.
 
 **Shielded:** Uses zero-knowledge proofs (zk-SNARKs/Halo 2) to validate transactions without exposing sensitive data.
 

@@ -33,7 +33,7 @@ Entre 1 e 3 de dezembro de 2025, o mercado cripto experimentou uma volatilidade 
 - **320.000 traders** afetados globalmente
 - **$850 milhões** em posições long (compradas)
 - **$950 milhões** em posições short (vendidas)
-- **Bitcoin** caiu de $98.500 para $92.000 antes de recuperar para $95.000
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)** caiu de $98.500 para $92.000 antes de recuperar para $95.000
 
 ### Principais Exchanges Afetadas
 
@@ -76,7 +76,7 @@ Vários fatores contribuíram para a queda:
 - Fortalecimento do dólar
 
 **Técnicos:**
-- Bitcoin rejeitado em $98.500 (resistência)
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) rejeitado em $98.500 (resistência)
 - Rompimento de suporte em $95.000
 - Cascata de stop-losses
 
@@ -89,7 +89,7 @@ Vários fatores contribuíram para a queda:
 
 ### Definição
 
-**Liquidação** ocorre quando uma exchange fecha forçadamente sua posição alavancada porque suas perdas atingiram o limite do seu colateral (margem).
+**Liquidação** ocorre quando uma [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) fecha forçadamente sua posição alavancada porque suas perdas atingiram o limite do seu colateral (margem).
 
 ### Como Funciona
 
@@ -104,7 +104,7 @@ Vários fatores contribuíram para a queda:
    - Margem restante: R$ 200
 
 3. **Liquidação**
-   - Exchange fecha sua posição automaticamente
+   - [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) fecha sua posição automaticamente
    - Você perde R$ 800 (80% do capital)
    - Taxa de liquidação: R$ 50
    - Sobra: R$ 150
@@ -112,7 +112,7 @@ Vários fatores contribuíram para a queda:
 ### Tipos de Liquidação
 
 **Liquidação Parcial:**
-- Exchange fecha parte da posição
+- [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) fecha parte da posição
 - Reduz alavancagem
 - Evita liquidação total
 
@@ -212,7 +212,7 @@ Alavancagem alta causa:
 **Stop-Loss Obrigatório:**
 - Defina antes de abrir posição
 - Nunca mova stop-loss para baixo
-- Use stop-loss mental + na exchange
+- Use stop-loss mental + na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 
 **Tamanho de Posição:**
 ```
@@ -235,7 +235,7 @@ Tamanho = (Capital × % Risco) / (Preço Entrada - Stop Loss)
 - Tenha reserva em stablecoins
 
 **Exemplo de portfólio balanceado:**
-- 40% Bitcoin (spot)
+- 40% [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (spot)
 - 30% Altcoins principais (spot)
 - 20% Stablecoins (reserva)
 - 10% Trading alavancado (máx 5x)
@@ -297,10 +297,10 @@ Tamanho = (Capital × % Risco) / (Preço Entrada - Stop Loss)
 - Capital maior necessário
 - Não pode lucrar com quedas
 
-### 2. Staking e Lending
+### 2. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) e Lending
 
 **Rendimentos passivos:**
-- Ethereum: 3-5% ao ano
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): 3-5% ao ano
 - Stablecoins: 5-12% ao ano
 - Altcoins: 10-30% ao ano
 
@@ -313,7 +313,7 @@ Tamanho = (Capital × % Risco) / (Preço Entrada - Stop Loss)
 
 **Estratégia:**
 - Compre valor fixo regularmente
-- Exemplo: R$ 500/mês em Bitcoin
+- Exemplo: R$ 500/mês em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Independente do preço
 - Reduz risco de timing
 
@@ -326,7 +326,7 @@ Tamanho = (Capital × % Risco) / (Preço Entrada - Stop Loss)
 ### 4. Alavancagem Baixa com Hedge
 
 **Estratégia avançada:**
-- Posição long 3x em Bitcoin
+- Posição long 3x em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Posição short 1x em altcoins
 - Hedge parcial contra volatilidade
 - Reduz risco de liquidação
@@ -335,7 +335,7 @@ Tamanho = (Capital × % Risco) / (Preço Entrada - Stop Loss)
 
 ### 1. Mercado Pode Virar Rapidamente
 
-- Bitcoin caiu 6,6% em 4 horas
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) caiu 6,6% em 4 horas
 - Recuperou 3,3% nas 12 horas seguintes
 - Volatilidade é a norma, não exceção
 
@@ -371,11 +371,11 @@ Durante liquidações massivas:
 - Ficou confiante demais
 
 **O que aconteceu:**
-- Abriu posição long em Bitcoin a $97.000
+- Abriu posição long em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) a $97.000
 - Usou alavancagem 20x
 - Capital: R$ 500.000
 - Posição total: R$ 10 milhões
-- Bitcoin caiu para $92.000 (-5,15%)
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) caiu para $92.000 (-5,15%)
 - Liquidação total
 - Perda: R$ 500.000
 
@@ -395,7 +395,7 @@ Durante liquidações massivas:
 - Depositou R$ 10.000
 - Usou alavancagem 50x (máxima)
 - Posição: R$ 500.000
-- Bitcoin caiu 2,5%
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) caiu 2,5%
 - Liquidação em 45 minutos
 - Perda: R$ 10.000
 
@@ -454,7 +454,7 @@ Durante liquidações massivas:
 ### 3. Glassnode
 
 **Métricas on-chain:**
-- Exchange inflows/outflows
+- [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) inflows/outflows
 - Whale movements
 - MVRV ratio
 - Realized price
@@ -487,7 +487,7 @@ Lembre-se: no trading, **não é sobre quanto você ganha quando acerta, mas qua
 
 **1. O que é liquidação em criptomoedas?**
 
-Liquidação ocorre quando uma exchange fecha forçadamente sua posição alavancada porque suas perdas atingiram o limite do seu colateral. É um mecanismo de proteção para a exchange garantir que você não fique devendo dinheiro.
+Liquidação ocorre quando uma [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) fecha forçadamente sua posição alavancada porque suas perdas atingiram o limite do seu colateral. É um mecanismo de proteção para a [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) garantir que você não fique devendo dinheiro.
 
 **2. Qual alavancagem é segura para iniciantes?**
 
@@ -495,7 +495,7 @@ Para iniciantes, recomenda-se começar sem alavancagem (spot trading) ou no máx
 
 **3. Como evitar ser liquidado?**
 
-Use alavancagem baixa (máx 5x), sempre configure stop-loss, não arrisque mais de 2% do capital por trade, monitore indicadores de risco (funding rates, open interest) e mantenha margem de segurança adequada.
+Use alavancagem baixa (máx 5x), sempre configure stop-loss, não arrisque mais de 2% do capital por trade, monitore indicadores de risco (funding rates, open interest) e mantenha margem de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) adequada.
 
 **4. O que são funding rates?**
 

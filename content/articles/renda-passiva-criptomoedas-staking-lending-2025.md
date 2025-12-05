@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'renda-passiva-criptomoedas-2025'
 title: 'Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming'
 slug: 'renda-passiva-criptomoedas-staking-lending-2025'
@@ -64,7 +64,7 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 
 #### Melhores Criptomoedas para Staking
 
-##### Ethereum (ETH) - 3,5% ao ano
+##### [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (ETH) - 3,5% ao ano
 - ✅ Segunda maior criptomoeda
 - ✅ Segurança máxima
 - ✅ Liquidez alta
@@ -126,7 +126,7 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 - ✅ Fácil de usar
 - ✅ Sem mínimo
 - ✅ Liquidez (pode retirar)
-- ⚠️ Exchange controla suas moedas
+- ⚠️ [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) controla suas moedas
 - **Exemplos:** Binance Earn, Coinbase, Kraken
 
 **Descentralizado (Wallet):**
@@ -139,13 +139,13 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 
 #### Liquid Staking - O Melhor dos Dois Mundos
 
-**O que é:** Fazer staking mas receber um token que representa sua posição, permitindo usar em DeFi.
+**O que é:** Fazer staking mas receber um token que representa sua posição, permitindo usar em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).
 
 **Exemplo com Lido (ETH):**
 1. Deposita ETH no Lido
 2. Recebe stETH (1:1)
 3. stETH rende 3,5% ao ano
-4. Pode usar stETH em outros protocolos DeFi
+4. Pode usar stETH em outros protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 5. **Resultado:** Ganha staking + pode usar o capital
 
 **Protocolos de Liquid Staking:**
@@ -172,15 +172,15 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 
 ##### Binance Earn
 - **Stablecoins:** 5-8% ao ano
-- **Bitcoin:** 1-3% ao ano
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** 1-3% ao ano
 - **Altcoins:** 3-10% ao ano
 - ✅ Fácil de usar
-- ✅ Seguro (exchange grande)
+- ✅ Seguro ([exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) grande)
 - ⚠️ Taxas podem variar
 
 ##### Nexo
 - **Stablecoins:** 8-12% ao ano
-- **Bitcoin:** 4-6% ao ano
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** 4-6% ao ano
 - ✅ Juros diários
 - ✅ Seguro de custódia
 - ⚠️ Menos conhecido no Brasil
@@ -193,7 +193,7 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 
 #### Plataformas Descentralizadas (DeFi)
 
-##### Aave - Líder em DeFi Lending
+##### Aave - Líder em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Lending
 - **Stablecoins:** 3-8% ao ano
 - **ETH:** 1-3% ao ano
 - ✅ Protocolo auditado
@@ -220,14 +220,14 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 - ✅ Baixo impermanent loss
 - ✅ Juros + taxas de trading
 
-#### Comparação: CeFi vs DeFi Lending
+#### Comparação: CeFi vs [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Lending
 
-| Aspecto | CeFi (Binance) | DeFi (Aave) |
+| Aspecto | CeFi (Binance) | [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) (Aave) |
 |---------|----------------|-------------|
 | **Facilidade** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| **Controle** | Exchange | Você |
+| **Controle** | [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) | Você |
 | **Retorno** | Médio | Médio-Alto |
-| **Risco** | Risco de exchange | Risco de smart contract |
+| **Risco** | Risco de [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) | Risco de smart contract |
 | **Liquidez** | Alta | Alta |
 | **Mínimo** | Nenhum | Gas fees |
 
@@ -268,7 +268,7 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 - **Retorno:** 15-40% ao ano
 - ✅ Gas fees baixíssimos
 - ✅ Fácil de usar
-- ⚠️ Mais centralizado que Ethereum
+- ⚠️ Mais centralizado que [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ##### Curve Finance (Stablecoins)
 - **Pares:** USDC/USDT/DAI
@@ -419,7 +419,7 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 - Use protocolos auditados (Aave, Curve, Uniswap)
 - Diversifique entre protocolos
 - Comece com valores pequenos
-- Verifique auditorias em DeFi Safety
+- Verifique auditorias em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Safety
 
 ### 2. Risco de Liquidação
 
@@ -443,12 +443,12 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 
 ### 4. Risco de Plataforma (CeFi)
 
-**O que é:** Exchange pode quebrar ou ser hackeada
+**O que é:** [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) pode quebrar ou ser hackeada
 
 **Mitigação:**
 - Use exchanges grandes (Binance, Coinbase)
 - Não deixe tudo em uma plataforma
-- Valores altos em DeFi ou hardware wallet
+- Valores altos em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) ou [hardware wallet](/artigo/ledger-vs-trezor-review)
 - Verifique seguro de custódia
 
 ### 5. Risco de Regulação
@@ -508,13 +508,13 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 3. **Deposite USDC**
 4. **Ganhe 5-8% ao ano**
 
-### Mês 2: DeFi Básico
+### Mês 2: [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Básico
 
 1. **Instale MetaMask**
 2. **Transfira R$ 1.000 em ETH**
 3. **Acesse app.aave.com**
 4. **Deposite ETH ou USDC**
-5. **Ganhe juros em DeFi**
+5. **Ganhe juros em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)**
 
 ### Mês 3: Liquidity Pools
 
@@ -529,16 +529,16 @@ Neste guia completo, você vai aprender **4 formas comprovadas** de gerar renda 
 
 ### Calculadoras
 - **APY.vision** - Calcula retornos de LP
-- **DeFi Llama** - Compara APYs
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Llama** - Compara APYs
 - **Impermanent Loss Calculator** - Calcula IL
 
 ### Trackers
-- **Zapper.fi** - Visualiza todo seu DeFi
+- **Zapper.fi** - Visualiza todo seu [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - **DeBank** - Portfolio tracker
 - **Zerion** - Gerencia múltiplas wallets
 
 ### Segurança
-- **DeFi Safety** - Auditorias de protocolos
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Safety** - Auditorias de protocolos
 - **Rugdoc** - Verifica riscos de rug pull
 - **Token Sniffer** - Analisa contratos
 

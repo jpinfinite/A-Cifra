@@ -55,9 +55,9 @@ Esta revolução digital não é apenas uma tendência passageira - representa u
 
 ### O que são NFTs?
 
-NFT significa **Non-Fungible Token** (Token Não Fungível). Diferentemente de criptomoedas como Bitcoin ou Ethereum, que são fungíveis (intercambiáveis), cada NFT é único e não pode ser substituído por outro idêntico.
+NFT significa **Non-Fungible Token** (Token Não Fungível). Diferentemente de criptomoedas como [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) ou [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), que são fungíveis (intercambiáveis), cada NFT é único e não pode ser substituído por outro idêntico.
 
-> 💡 **Dica:** **Analogia Simples:** Se o Bitcoin é como uma nota de R$ 100 (qualquer nota vale o mesmo), um NFT é como um quadro original - cada um é único e tem valor próprio.
+> 💡 **Dica:** **Analogia Simples:** Se o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é como uma nota de R$ 100 (qualquer nota vale o mesmo), um NFT é como um quadro original - cada um é único e tem valor próprio.
 
 ### Características Fundamentais dos NFTs
 
@@ -73,7 +73,7 @@ NFT significa **Non-Fungible Token** (Token Não Fungível). Diferentemente de c
 
 ### Como Funcionam os NFTs?
 
-Os NFTs funcionam através de contratos inteligentes em blockchains, principalmente Ethereum. O processo básico inclui:
+Os NFTs funcionam através de contratos inteligentes em blockchains, principalmente [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026). O processo básico inclui:
 
 1. **Criação (Minting):** O arquivo digital é "mintado" como NFT
 
@@ -97,7 +97,7 @@ Os NFTs funcionam através de contratos inteligentes em blockchains, principalme
 
 - **Vantagens:** Liquidez alta, variedade de coleções
 
-- **Desvantagens:** Taxas de gas altas no Ethereum
+- **Desvantagens:** Taxas de gas altas no [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ### 2. Blur
 
@@ -125,7 +125,7 @@ Os NFTs funcionam através de contratos inteligentes em blockchains, principalme
 
 - **Vantagens:** Custos baixos, velocidade
 
-- **Desvantagens:** Menor liquidez que Ethereum
+- **Desvantagens:** Menor liquidez que [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ### 4. SuperRare
 
@@ -155,11 +155,11 @@ Os NFTs funcionam através de contratos inteligentes em blockchains, principalme
 
 ### Passo 2: Escolha da Blockchain
 
-- **Ethereum:** Mais estabelecida, maior liquidez
+- **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):** Mais estabelecida, maior liquidez
 
 - **Solana:** Taxas baixas, transações rápidas
 
-- **Polygon:** Layer 2 do Ethereum, custos reduzidos
+- **Polygon:** Layer 2 do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), custos reduzidos
 
 - **Binance Smart Chain:** Alternativa com taxas baixas
 
@@ -347,7 +347,7 @@ Os NFTs funcionam através de contratos inteligentes em blockchains, principalme
 
 - **Governança:** Direitos de voto em DAOs
 
-- **Staking:** Gerar renda passiva
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026):** Gerar renda passiva
 
 - **Gaming:** Funcionalidade em jogos
 
@@ -419,11 +419,11 @@ Os NFTs funcionam através de contratos inteligentes em blockchains, principalme
 
 - **DappRadar:** Estatísticas de NFTs
 
-### Carteiras e Segurança
+### Carteiras e [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 - **MetaMask:** Carteira web mais popular
 
-- **Ledger:** Hardware wallet para segurança
+- **Ledger:** [hardware wallet](/artigo/ledger-vs-trezor-review) para [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 - **Gnosis Safe:** Carteira multi-sig
 

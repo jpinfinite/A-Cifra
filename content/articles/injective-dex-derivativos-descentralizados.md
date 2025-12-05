@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'injective-dex-derivativos-descentralizados'
 title: 'Injective Protocol: DEX de Derivativos Totalmente Descentralizada'
 slug: 'injective-dex-derivativos-descentralizados'
@@ -64,7 +64,7 @@ Trading de opções descentralizado.
 
 ## Token INJ
 
-- **Staking**: 15-20% APY
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026)**: 15-20% APY
 - **Governança**: Votação em propostas
 - **Fee Burning**: Deflacionário
 - **Colateral**: Margin trading
@@ -77,7 +77,7 @@ Trading de opções descentralizado.
 
 ## Conclusão
 
-Injective está trazendo sofisticação de finanças tradicionais para DeFi de forma totalmente descentralizada.
+Injective está trazendo sofisticação de finanças tradicionais para [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) de forma totalmente descentralizada.
 
 ## 🚀 Comece a Investir em Criptomoedas
 

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'impostos-criptomoedas-brasil-2025'
 title: 'Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR'
 slug: 'impostos-criptomoedas-brasil-ir-2025'
@@ -95,7 +95,7 @@ No Brasil, criptomoedas são tratadas como **bens e direitos**, similar a:
 3. Prazo: Até último dia útil do mês seguinte
 
 **Exemplo:**
-- Vendeu R$ 50.000 em Bitcoin em Janeiro
+- Vendeu R$ 50.000 em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em Janeiro
 - Teve lucro de R$ 10.000
 - Deve pagar DARF até 28 de Fevereiro
 
@@ -172,7 +172,7 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 
 ### Exemplo Detalhado
 
-**Compras de Bitcoin:**
+**Compras de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):**
 1. Jan: 0,1 BTC por R$ 20.000 (R$ 200.000/BTC)
 2. Fev: 0,15 BTC por R$ 27.000 (R$ 180.000/BTC)
 3. Mar: 0,05 BTC por R$ 11.000 (R$ 220.000/BTC)
@@ -208,12 +208,12 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 - **Resultado:** Lucro de R$ 50.000 (tributável se > R$ 35k no mês)
 - **Novo custo do ETH:** R$ 150.000 (R$ 7.500/ETH)
 
-### 2. Staking e Rendimentos
+### 2. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) e Rendimentos
 
 **Regra:** Rendimentos são tributáveis como **renda variável**.
 
 **Exemplo:**
-- Fez staking de 10 ETH
+- Fez [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de 10 ETH
 - Recebeu 0,5 ETH de recompensa
 - Valor de mercado: R$ 7.500
 - **Tributação:** 15% sobre R$ 7.500 = R$ 1.125
@@ -264,12 +264,12 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 **Ficha:** Bens e Direitos
 
 **Código:** 
-- **81** - Criptoativos (Bitcoin, Ethereum, etc.)
+- **81** - Criptoativos ([bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), etc.)
 - **82** - Outros criptoativos
 
 **Discriminação (exemplo):**
 ```text
-0,5 Bitcoin (BTC) adquiridos em exchanges Binance e Mercado Bitcoin.
+0,5 [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (BTC) adquiridos em exchanges Binance e Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional).
 Custo médio de aquisição: R$ 114.000 por BTC.
 Carteira: bc1q... (primeiros e últimos caracteres)
 ```
@@ -291,7 +291,7 @@ Carteira: bc1q... (primeiros e últimos caracteres)
 
 **Discriminação:**
 ```text
-Saldo em criptomoedas na exchange Binance (Malta).
+Saldo em criptomoedas na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) Binance (Malta).
 Valor aproximado em 31/12: R$ 25.000
 ```
 
@@ -496,7 +496,7 @@ Valor aproximado em 31/12: R$ 25.000
 
 Declare em "Bens e Direitos" pelo custo de aquisição.
 
-### 2. Comprei R$ 1.000 em Bitcoin. Preciso declarar?
+### 2. Comprei R$ 1.000 em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional). Preciso declarar?
 
 **Não** na declaração anual (abaixo de R$ 5.000).
 
@@ -514,7 +514,7 @@ Declare em "Bens e Direitos" pelo custo de aquisição.
 
 Use cotação do dia da operação (PTAX do Banco Central).
 
-### 5. E se a exchange quebrar?
+### 5. E se a [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) quebrar?
 
 Declare o prejuízo em "Bens e Direitos".
 
@@ -526,7 +526,7 @@ Pode compensar em vendas futuras.
 
 **Sim** para DARF mensal (se vendeu > R$ 35k).
 
-### 7. Staking é tributável?
+### 7. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) é tributável?
 
 **Sim**, quando recebe as recompensas.
 

@@ -46,13 +46,13 @@ O **Zcash (ZEC)** alcançou seu maior valor em sete anos, enquanto o **Dash (DAS
 
 Moedas de privacidade são criptomoedas projetadas para **ocultar detalhes das transações** — remetente, destinatário e/ou valor — utilizando criptografia avançada e técnicas de mistura. 
 
-Diferentemente do Bitcoin, onde todas as transações são públicas e rastreáveis, projetos como Zcash e Dash oferecem funcionalidades para proteger a identidade dos usuários.
+Diferentemente do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), onde todas as transações são públicas e rastreáveis, projetos como Zcash e Dash oferecem funcionalidades para proteger a identidade dos usuários.
 
 ### Zcash (ZEC): Privacidade por Padrão Opcional
 
 Zcash suporta dois modos de transferência:
 
-**Transparente:** Funciona como o Bitcoin, com transações públicas.
+**Transparente:** Funciona como o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), com transações públicas.
 
 **Protegido:** Utiliza provas de conhecimento zero (zk-SNARKs/Halo 2) para validar transações sem expor dados sensíveis.
 
@@ -108,7 +108,7 @@ Essas melhorias tornaram a privacidade mais robusta e fácil de usar — ponto-c
 
 ## Dash: Usabilidade e Privacidade em Equilíbrio
 
-O **CoinJoin** do Dash oferece mistura eficaz sem abrir mão da agilidade nas transações. O **InstantSend** garante finalização quase instantânea, enquanto o **ChainLocks** aumenta a segurança. 
+O **CoinJoin** do Dash oferece mistura eficaz sem abrir mão da agilidade nas transações. O **InstantSend** garante finalização quase instantânea, enquanto o **ChainLocks** aumenta a [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes). 
 
 O modelo prioriza usabilidade, tornando o Dash atraente para pagamentos do dia a dia, com privacidade opcional para quem precisa.
 

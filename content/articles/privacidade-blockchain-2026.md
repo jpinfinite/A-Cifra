@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'privacidade-blockchain-2026'
 title: "Privacidade em Blockchain 2026: Zero-Knowledge, Mixers e o Futuro da Privacidade On-Chain"
 slug: 'privacidade-blockchain-2026'
@@ -55,13 +55,13 @@ Privacidade sem perder verificabilidade e descentralização.
 - Você não mostra extrato bancário para todos
 - Por que blockchain seria diferente?
 
-**2. Segurança**
+**2. [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)**
 - Saldo visível = alvo para hackers
 - Histórico de transações = perfil completo
 - Doxxing e extorsão
 
 **3. Fungibilidade**
-- Bitcoin "sujo" vale menos
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) "sujo" vale menos
 - Discriminação por histórico
 - Moeda precisa ser fungível
 
@@ -150,7 +150,7 @@ Endereços únicos para cada transação.
 
 **Usado por:**
 - Monero
-- Ethereum (EIP-5564)
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (EIP-5564)
 
 **Vantagens:**
 - Privacidade de destinatário
@@ -169,7 +169,7 @@ Ocultar valores de transações.
 
 **Usado por:**
 - Monero
-- Liquid Network (Bitcoin sidechain)
+- Liquid Network ([bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) sidechain)
 
 **Vantagens:**
 - Privacidade de valores
@@ -212,7 +212,7 @@ Serviços que misturam transações de múltiplos usuários.
 - Confidential transactions
 
 **Características:**
-- Mais privado que Bitcoin
+- Mais privado que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Fungível
 - Descentralizado
 - ASIC-resistant (mineração justa)
@@ -230,7 +230,7 @@ Serviços que misturam transações de múltiplos usuários.
 **Desvantagens:**
 - Delisted de exchanges (regulação)
 - Transações maiores
-- Mais lento que Bitcoin
+- Mais lento que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 ### 2. Zcash (ZEC)
 
@@ -290,14 +290,14 @@ Serviços que misturam transações de múltiplos usuários.
 **Smart contracts privados:**
 - Contratos com dados privados
 - Computação criptografada
-- DeFi privado
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) privado
 
 **Tecnologia:**
 - Trusted Execution Environments (TEE)
 - Privacidade programável
 
 **Casos de uso:**
-- DeFi privado
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) privado
 - NFTs privados
 - Votação secreta
 
@@ -316,7 +316,7 @@ Serviços que misturam transações de múltiplos usuários.
 - Menos testado
 - Adoção inicial
 
-## Privacidade em Ethereum
+## Privacidade em [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ### Tornado Cash
 
@@ -343,17 +343,17 @@ Serviços que misturam transações de múltiplos usuários.
 ### Railgun
 
 **O que é:**
-- Sistema de privacidade para Ethereum
+- Sistema de privacidade para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - ZK-SNARKs
-- DeFi privado
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) privado
 
 **Como funciona:**
 - Shield (ocultar) ativos
-- Use em DeFi privadamente
+- Use em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) privadamente
 - Unshield quando quiser
 
 **Vantagens:**
-- Privacidade + DeFi
+- Privacidade + [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Não é mixer (não sancionado)
 - Compliance tools
 
@@ -365,9 +365,9 @@ Serviços que misturam transações de múltiplos usuários.
 ### Aztec Network
 
 **O que é:**
-- Layer 2 privado para Ethereum
+- Layer 2 privado para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - ZK-rollup com privacidade
-- DeFi privado
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) privado
 
 **Tecnologia:**
 - ZK-SNARKs
@@ -376,7 +376,7 @@ Serviços que misturam transações de múltiplos usuários.
 
 **Status (2026):**
 - Mainnet ativo
-- Integrações com DeFi
+- Integrações com [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Adoção crescente
 
 **Casos de uso:**
@@ -400,7 +400,7 @@ Serviços que misturam transações de múltiplos usuários.
 
 **3. Exchanges (KYC)**
 - Você faz KYC
-- Exchange sabe seus endereços
+- [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) sabe seus endereços
 - Rastreamento a partir daí
 
 **4. IP Addresses**
@@ -482,7 +482,7 @@ Serviços que misturam transações de múltiplos usuários.
 - Validação própria
 
 **3. Atomic Swaps**
-- Troque sem exchange
+- Troque sem [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 - Peer-to-peer
 - Sem KYC
 
@@ -506,7 +506,7 @@ Serviços que misturam transações de múltiplos usuários.
 - Proteção
 
 **Conflito:**
-Privacidade vs segurança nacional.
+Privacidade vs [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) nacional.
 
 ### Casos Recentes
 
@@ -588,7 +588,7 @@ Cenário 2 - Equilíbrio tenso.
 **1. Educação**
 - Entenda riscos
 - Aprenda ferramentas
-- Pratique segurança
+- Pratique [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 **2. Ferramentas Básicas**
 - VPN sempre

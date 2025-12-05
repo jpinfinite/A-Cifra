@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'pancakeswap-tutorial'
 title: 'Como Usar o PancakeSwap: Tutorial Completo na BSC'
 slug: 'como-usar-pancakeswap-tutorial'
@@ -80,7 +80,7 @@ O **PancakeSwap** é a maior DEX da Binance Smart Chain. Aprenda a usar todas as
 4. Stake seus LP tokens
 5. Ganhe CAKE como recompensa
 
-## Passo 5: Staking de CAKE
+## Passo 5: [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de CAKE
 
 1. Vá em "Pools"
 2. Escolha pool de CAKE
@@ -103,7 +103,7 @@ O **PancakeSwap** é a maior DEX da Binance Smart Chain. Aprenda a usar todas as
 
 ## Conclusão
 
-PancakeSwap oferece taxas baixas e bons rendimentos. Ideal para quem quer começar em DeFi.
+PancakeSwap oferece taxas baixas e bons rendimentos. Ideal para quem quer começar em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).
 
 ## 🚀 Comece a Investir em Criptomoedas
 

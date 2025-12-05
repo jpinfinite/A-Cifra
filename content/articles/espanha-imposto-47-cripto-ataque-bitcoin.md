@@ -21,9 +21,9 @@ seo:
   keywords: ['espanha imposto cripto', 'imposto 47% bitcoin', 'regulação cripto espanha', 'impostos criptomoedas europa']
 ---
 
-# Espanha Propõe Imposto de 47% sobre Cripto - Ataque ao Bitcoin?
+# Espanha Propõe Imposto de 47% sobre Cripto - Ataque ao [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
-**27 de novembro de 2025** - O partido Sumar, parceiro júnior do governo espanhol, propôs um **imposto de 47% sobre ganhos com criptomoedas**, gerando revolta imediata na comunidade Bitcoin. A proposta, descrita por críticos como um "ataque contra Bitcoin", pode transformar a Espanha em um dos países mais hostis para investidores cripto na Europa.
+**27 de novembro de 2025** - O partido Sumar, parceiro júnior do governo espanhol, propôs um **imposto de 47% sobre ganhos com criptomoedas**, gerando revolta imediata na comunidade [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional). A proposta, descrita por críticos como um "ataque contra [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)", pode transformar a Espanha em um dos países mais hostis para investidores cripto na Europa.
 
 ## A Proposta: 47% de Imposto
 
@@ -31,12 +31,12 @@ seo:
 
 **Imposto sobre ganhos de capital em cripto:**
 - **Taxa:** 47% sobre lucros
-- **Aplicação:** Todas as criptomoedas (Bitcoin, Ethereum, altcoins)
+- **Aplicação:** Todas as criptomoedas ([bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), altcoins)
 - **Quando:** Ao vender ou trocar cripto por fiat
 - **Quem:** Todos os residentes fiscais da Espanha
 
 **Exemplo prático:**
-- Você compra Bitcoin por €10.000
+- Você compra [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) por €10.000
 - Vende por €50.000
 - Lucro: €40.000
 - **Imposto (47%):** €18.800
@@ -61,12 +61,12 @@ Segundo o partido Sumar, o imposto visa:
 
 ## Reação da Comunidade Cripto
 
-### "Ataque Contra Bitcoin"
+### "Ataque Contra [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)"
 
-A proposta foi imediatamente classificada como **"ataque contra Bitcoin"** por:
+A proposta foi imediatamente classificada como **"ataque contra [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)"** por:
 
 **1. Influenciadores cripto:**
-- "Espanha declarou guerra contra Bitcoin" - @BitcoinMagazine
+- "Espanha declarou guerra contra [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)" - @BitcoinMagazine
 - "47% é confisco, não imposto" - @PeterSchiff (ironicamente)
 - "Adeus Espanha, olá Portugal" - @CryptoWhale
 
@@ -148,8 +148,8 @@ A proposta foi imediatamente classificada como **"ataque contra Bitcoin"** por:
 **Problema:** Cripto já é tributado na compra (IVA em alguns casos) e na venda.
 
 **Exemplo:**
-- Compra Bitcoin: Paga taxa de exchange (0,1-1%)
-- Vende Bitcoin: Paga imposto de 47%
+- Compra [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Paga taxa de [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) (0,1-1%)
+- Vende [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Paga imposto de 47%
 - **Total:** ~48% de custo
 
 ### 3. Desincentiva Inovação
@@ -191,12 +191,12 @@ Se investidores pagam 47% de imposto, **menos capital disponível** para investi
 **Estratégia:** Não vender cripto, usar como colateral.
 
 **Como:**
-- Depositar Bitcoin em plataforma de lending (Aave, Compound)
+- Depositar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em plataforma de lending (Aave, Compound)
 - Tomar empréstimo em stablecoin (USDC, DAI)
 - Usar stablecoin para despesas
 - **Não paga imposto** (empréstimo não é venda)
 
-**Risco:** Liquidação se preço de Bitcoin cair muito.
+**Risco:** Liquidação se preço de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) cair muito.
 
 ### 3. Vender Antes da Lei
 
@@ -307,7 +307,7 @@ Se investidores pagam 47% de imposto, **menos capital disponível** para investi
 
 **Improvável.** Maioria dos países está indo na direção oposta (regulação clara, impostos razoáveis).
 
-### 7. Isso vai afetar o preço do Bitcoin?
+### 7. Isso vai afetar o preço do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
 **Minimamente.** Espanha é mercado pequeno (~2% do volume global). Impacto será local, não global.
 

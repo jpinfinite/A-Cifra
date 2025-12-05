@@ -38,7 +38,7 @@ Fan Tokens são ativos digitais (criptomoedas) que rodam em uma blockchain (gera
 
 As principais plataformas para comprar Fan Tokens no Brasil são:
 1.  **Binance:** Maior liquidez e variedade de tokens (Santos, Lazio, Porto, Alpine).
-2.  **Mercado Bitcoin:** Forte presença de tokens brasileiros (Vasco, Corinthians).
+2.  **Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** Forte presença de tokens brasileiros (Vasco, Corinthians).
 3.  **Socios.com:** O app nativo da Chiliz, focado em utilidade e votações.
 
 ### Passo 2: Abra sua Conta e Deposite Reais

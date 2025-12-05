@@ -77,7 +77,7 @@ Render Network cria um marketplace descentralizado:
 
 **Utilidade:**
 - Pagamento por renderização
-- Staking de nós
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de nós
 - Governança da rede
 - Acesso premium
 

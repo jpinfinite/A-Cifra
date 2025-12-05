@@ -28,7 +28,7 @@ monetization:
 
 O brasileiro descobriu o refúgio perfeito contra a inflação e a volatilidade: as **Stablecoins**. Dados recentes de dezembro de 2025 mostram que moedas pareadas ao dólar (como USDT e USDC) já representam impressionantes **90% de todo o volume de negociação de criptoativos no país**.
 
-Mas esse sucesso estrondoso chamou a atenção do regulador. O Banco Central publicou a **Resolução BCB nº 521**, que traz novas diretrizes de segurança, mas também abre a porta para uma cobrança que ninguém queria: o IOF (Imposto sobre Operações Financeiras).
+Mas esse sucesso estrondoso chamou a atenção do regulador. O Banco Central publicou a **Resolução BCB nº 521**, que traz novas diretrizes de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes), mas também abre a porta para uma cobrança que ninguém queria: o IOF (Imposto sobre Operações Financeiras).
 
 ## Por Que Amamos Stablecoins?
 
@@ -36,11 +36,11 @@ A resposta é simples: **Dolarização acessível**.
 Antigamente, ter exposição ao dólar exigia contas internacionais, taxas altas e burocracia. Hoje, qualquer pessoa com um celular pode comprar USDT (Tether) em segundos.
 *   **Proteção:** Blindagem contra a desvalorização do Real.
 *   **Agilidade:** Pagamentos internacionais instantâneos sem passar pelo sistema SWIFT.
-*   **Liquidez:** Facilidade de entrar e sair de posições em Bitcoin.
+*   **Liquidez:** Facilidade de entrar e sair de posições em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional).
 
 ## A Resolução 521 e o Fantasma do IOF
 
-A nova resolução visa, primariamente, aumentar a segurança cibernética e a prevenção à lavagem de dinheiro. No entanto, especialistas apontam que a classificação das stablecoins como "ativos financeiros" sujeitos a câmbio pode atrair a incidência de IOF (1,1% ou mais) a partir de 2026.
+A nova resolução visa, primariamente, aumentar a [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) cibernética e a prevenção à lavagem de dinheiro. No entanto, especialistas apontam que a classificação das stablecoins como "ativos financeiros" sujeitos a câmbio pode atrair a incidência de IOF (1,1% ou mais) a partir de 2026.
 
 ### O Que Pode Mudar?
 1.  **Custo de Envio:** Transferir stablecoins para carteiras no exterior pode ficar mais caro se o governo entender que houve "saída de divisas".

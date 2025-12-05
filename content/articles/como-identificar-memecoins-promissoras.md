@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'identificar-memecoins'
 title: 'Como Identificar Memecoins Promissoras Antes da Explosão'
 slug: 'como-identificar-memecoins-promissoras'
@@ -120,7 +120,7 @@ Identificar **memecoins promissoras** antes que explod am pode gerar retornos ex
 **Melhores Momentos:**
 - Início de bull market
 - Após correções
-- Quando Bitcoin está estável
+- Quando [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está estável
 - Hype de memecoins crescendo
 
 **Evitar:**
@@ -169,7 +169,7 @@ Identificar **memecoins promissoras** antes que explod am pode gerar retornos ex
 - Discord
 - Reddit
 
-**Segurança:**
+**[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes):**
 - Token Sniffer
 - Rugcheck
 - Honeypot.is

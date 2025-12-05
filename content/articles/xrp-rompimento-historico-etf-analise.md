@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'xrp-rompimento-historico-etf'
 slug: 'xrp-rompimento-historico-etf-analise'
 title: "XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mira Alvos Históricos"
@@ -165,13 +165,13 @@ O sentimento positivo se intensifica com o avanço regulatório nos EUA e rumore
 - Atualizou pedido junto à SEC
 - Remoção da cláusula de atraso
 - Possível aprovação em **13 de novembro**
-- Precedente do ETF de Bitcoin favorável
+- Precedente do ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) favorável
 
 **Impacto Potencial**
 - Demanda institucional crescente
 - Legitimação do ativo
 - Liquidez massiva
-- Comparação com ETF de Bitcoin
+- Comparação com ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 ### Clareza Regulatória
 
@@ -322,7 +322,7 @@ Volatilidade típica após grandes rompimentos, realização parcial de lucros p
 
 **Quão impactante pode ser um ETF spot?**
 
-Um ETF pode destravar nova onda institucional, elevando liquidez e legitimidade do ativo — potencialmente catalisando novos topos. O precedente do ETF de Bitcoin mostra o potencial transformador.
+Um ETF pode destravar nova onda institucional, elevando liquidez e legitimidade do ativo — potencialmente catalisando novos topos. O precedente do ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) mostra o potencial transformador.
 
 **XRP pode chegar a US$ 10?**
 

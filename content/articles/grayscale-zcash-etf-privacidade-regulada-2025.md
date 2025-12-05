@@ -47,8 +47,8 @@ seo:
 - **Transações opcionais:** Pode escolher entre transparente (como Bitcoin) ou privada (shielded)
 - **Auditável:** Apesar da privacidade, é possível provar compliance quando necessário
 
-**Diferença do Bitcoin:**
-- **Bitcoin:** Todas as transações são públicas no blockchain
+**Diferença do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):**
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** Todas as transações são públicas no blockchain
 - **Zcash:** Transações podem ser completamente privadas (endereços, valores, metadados)
 
 **Casos de uso:**
@@ -68,7 +68,7 @@ seo:
 **Mudança:** Grayscale conseguiu convencer a SEC de que Zcash pode ser regulado mantendo privacidade.
 
 **Como:**
-- Custódia em exchange regulada (Coinbase)
+- Custódia em [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) regulada (Coinbase)
 - KYC/AML rigoroso para investidores
 - Transparência na gestão do fundo
 - Auditoria de reservas
@@ -166,8 +166,8 @@ Zcash permite "viewing keys" - você pode provar suas transações para auditore
 
 | ETF | Taxa | Mínimo | Status |
 |-----|------|--------|--------|
-| **Grayscale Bitcoin (GBTC)** | 1,5% | $0 | Público |
-| **Grayscale Ethereum (ETHE)** | 2,5% | $0 | Público |
+| **Grayscale [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (GBTC)** | 1,5% | $0 | Público |
+| **Grayscale [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (ETHE)** | 2,5% | $0 | Público |
 | **Grayscale Zcash (ZCSH)** | 2,5% | $25K | Credenciados |
 | **Grayscale Monero** | - | - | Não existe |
 
@@ -265,7 +265,7 @@ Zcash permite "viewing keys" - você pode provar suas transações para auditore
 
 ### 4. Adoção Limitada
 
-**Problema:** Privacy coins têm adoção menor que Bitcoin/Ethereum
+**Problema:** Privacy coins têm adoção menor que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)/Ethereum
 
 **Resultado:** Menos liquidez, mais volatilidade
 
@@ -296,7 +296,7 @@ Zcash permite "viewing keys" - você pode provar suas transações para auditore
 
 ### 4. Vale a pena investir em Zcash?
 
-**Depende.** Se você acredita em privacidade financeira e acha que privacy coins vão crescer, sim. Se busca apenas retorno, Bitcoin/Ethereum podem ser melhores.
+**Depende.** Se você acredita em privacidade financeira e acha que privacy coins vão crescer, sim. Se busca apenas retorno, [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)/Ethereum podem ser melhores.
 
 ### 5. Zcash vai superar Monero?
 
@@ -315,9 +315,9 @@ Zcash permite "viewing keys" - você pode provar suas transações para auditore
 
 **Difícil.** Monero é mais controverso que Zcash. Mas se ZCSH for bem-sucedido, pode abrir caminho.
 
-### 9. Zcash é melhor que Bitcoin?
+### 9. Zcash é melhor que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
-**Para privacidade, sim.** Para adoção, liquidez e segurança, Bitcoin ainda é superior.
+**Para privacidade, sim.** Para adoção, liquidez e [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes), [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) ainda é superior.
 
 ### 10. Isso é bom ou ruim para cripto?
 

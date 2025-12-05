@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'proteger-crypto'
 title: 'Como Proteger Suas Criptomoedas: Guia de Segurança Completo'
 slug: 'proteger-criptomoedas-guia-seguranca-completo'
@@ -89,14 +89,14 @@ Se você não controla as chaves privadas, não possui realmente as criptomoedas
 
 **Melhores Opções:**
 - **Trust Wallet** - Multi-chain, fácil de usar
-- **MetaMask** - Padrão para Ethereum e DeFi
+- **MetaMask** - Padrão para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) e [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - **Phantom** - Especializada em Solana
 - **Exodus** - Interface amigável, múltiplas moedas
 
 **Prós:**
 - Acesso rápido
 - Fácil de usar
-- Suporte a DeFi
+- Suporte a [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 **Contras:**
 - Vulnerável a malware
@@ -106,7 +106,7 @@ Se você não controla as chaves privadas, não possui realmente as criptomoedas
 #### Desktop Wallets
 
 **Melhores Opções:**
-- **Electrum** - Bitcoin, leve e segura
+- **Electrum** - [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), leve e segura
 - **Atomic Wallet** - Multi-currency
 - **Exodus** - Interface bonita
 - **Wasabi** - Foco em privacidade
@@ -440,7 +440,7 @@ Golpista transfere seu número para SIM dele
 ### 1. Modelo de Três Carteiras
 
 #### Hot Wallet (5-10%)
-**Uso:** Transações diárias, DeFi, trading
+**Uso:** Transações diárias, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), trading
 **Exemplos:** MetaMask, Trust Wallet
 **Quantidade:** Apenas o que você pode perder
 
@@ -451,7 +451,7 @@ Golpista transfere seu número para SIM dele
 
 #### Cold Wallet (60-75%)
 **Uso:** Armazenamento de longo prazo
-**Exemplos:** Hardware wallet, paper wallet
+**Exemplos:** [hardware wallet](/artigo/ledger-vs-trezor-review), paper wallet
 **Quantidade:** Maior parte dos fundos
 
 ### 2. Diversificação Geográfica
@@ -603,7 +603,7 @@ Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges rec
 ## ✅ Checklist de Segurança
 
 ### Configuração Inicial
-- [ ] Hardware wallet comprada de fonte oficial
+- [ ] [hardware wallet](/artigo/ledger-vs-trezor-review) comprada de fonte oficial
 - [ ] Seed phrase anotada à mão (2-3 cópias)
 - [ ] Backup armazenado em local seguro
 - [ ] 2FA ativado em todas as contas
@@ -661,10 +661,10 @@ Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges rec
 
 ## 🎯 Perguntas Frequentes
 
-**É seguro deixar cripto na exchange?**
+**É seguro deixar cripto na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)?**
 Para pequenas quantias e trading ativo, sim. Para HODLing, use carteira própria.
 
-**Hardware wallet pode quebrar?**
+**[hardware wallet](/artigo/ledger-vs-trezor-review) pode quebrar?**
 Sim, mas seus fundos estão seguros se você tem backup da seed phrase.
 
 **Posso perder tudo se esquecer a senha?**
@@ -686,7 +686,7 @@ Verifique URL, certificado SSL, reputação online e nunca clique em links suspe
 A segurança em criptomoedas não é um destino, é uma jornada. Cada camada de proteção adicional reduz significativamente seus riscos, mas nenhuma medida é 100% infalível.
 
 **Principais Pontos:**
-- ✅ Use hardware wallet para grandes quantias
+- ✅ Use [hardware wallet](/artigo/ledger-vs-trezor-review) para grandes quantias
 - ✅ Mantenha seed phrase segura e offline
 - ✅ Ative 2FA em todas as contas
 - ✅ Desconfie sempre de ofertas "bom demais"
@@ -701,7 +701,7 @@ A segurança em criptomoedas não é um destino, é uma jornada. Cada camada de 
 
 No mundo cripto, ser seu próprio banco significa ser seu próprio segurança. Com as práticas deste guia, você estará preparado para proteger seus ativos contra a maioria das ameaças.
 
-**Comece hoje:** Configure sua primeira hardware wallet e nunca mais se preocupe com a segurança dos seus investimentos.
+**Comece hoje:** Configure sua primeira [hardware wallet](/artigo/ledger-vs-trezor-review) e nunca mais se preocupe com a segurança dos seus investimentos.
 
 ---
 

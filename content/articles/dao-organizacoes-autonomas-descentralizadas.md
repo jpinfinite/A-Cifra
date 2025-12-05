@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'dao-organizacoes'
 slug: 'dao-organizacoes-autonomas-descentralizadas'
 title: "DAOs: Organizações Autônomas Descentralizadas"
@@ -105,7 +105,7 @@ Uma DAO é uma organização onde decisões são tomadas coletivamente por membr
 ## Tipos de DAOs
 
 ### Protocol DAOs
-Governam protocolos DeFi
+Governam protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 **Exemplos**
 - **MakerDAO**: Governa DAI stablecoin
@@ -287,7 +287,7 @@ Prestam serviços
 
 **Gnosis Safe**
 - Multisig
-- Segurança
+- [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 - Integrações
 
 **Parcel**
@@ -351,7 +351,7 @@ Prestam serviços
 **Descentralize Gradualmente**
 - Comece com controle
 - Transfira poder progressivamente
-- Mantenha segurança
+- Mantenha [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 **Incentive Participação**
 - Recompense votantes

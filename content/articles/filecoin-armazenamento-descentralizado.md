@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'filecoin-armazenamento-descentralizado'
 title: 'Filecoin (FIL): Armazenamento Descentralizado de Dados'
 slug: 'filecoin-armazenamento-descentralizado'
@@ -50,7 +50,7 @@ Prova contínua de armazenamento ao longo do tempo.
 ## Token FIL
 
 - **Pagamento**: Por armazenamento
-- **Staking**: Provedores de armazenamento
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026)**: Provedores de armazenamento
 - **Colateral**: Garantia de serviço
 
 ## IPFS vs Filecoin

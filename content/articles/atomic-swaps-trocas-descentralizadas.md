@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'atomic-swaps-trocas-descentralizadas'
 title: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
 slug: 'atomic-swaps-trocas-descentralizadas'
@@ -56,7 +56,7 @@ Entender este conceito é fundamental para qualquer pessoa envolvida com criptom
 
 ### Aplicações Reais
 
-- **DeFi**: Finanças descentralizadas
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026)**: Finanças descentralizadas
 - **NFTs**: Tokens não fungíveis
 - **DAOs**: Organizações autônomas
 - **Gaming**: Jogos blockchain

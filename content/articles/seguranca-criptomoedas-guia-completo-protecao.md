@@ -47,9 +47,9 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 ### Modelo de Segurança em Camadas
 
 **Camada 1: Carteira**
-- Hardware wallet (mais seguro)
+- [hardware wallet](/artigo/ledger-vs-trezor-review) (mais seguro)
 - Software wallet (conveniente)
-- Exchange (menos seguro)
+- [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) (menos seguro)
 
 **Camada 2: Autenticação**
 - Senha forte
@@ -90,12 +90,12 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 - Prós: Mais seguro (open-source), sem vazamentos
 - Contras: Menos moedas suportadas
 
-**Coldcard (Bitcoin only)**
+**Coldcard ([bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) only)**
 - Preço: $147
-- Suporta: Apenas Bitcoin
+- Suporta: Apenas [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Air-gapped (sem conexão)
 - Prós: Máxima segurança para BTC
-- Contras: Apenas Bitcoin, menos user-friendly
+- Contras: Apenas [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), menos user-friendly
 
 **Quando usar:**
 - Quantias >R$5.000
@@ -118,7 +118,7 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 
 **MetaMask**
 - Tipo: Extensão navegador + mobile
-- Suporta: Ethereum e EVM chains
+- Suporta: [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) e EVM chains
 - Prós: Mais popular, fácil, DeFi-friendly
 - Contras: Alvo de phishing
 
@@ -131,19 +131,19 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 **Exodus**
 - Tipo: Desktop + mobile
 - Suporta: 260+ moedas
-- Prós: Interface bonita, exchange integrada
+- Prós: Interface bonita, [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) integrada
 - Contras: Não open-source
 
 **Phantom (Solana)**
 - Tipo: Extensão + mobile
-- Suporta: Solana, Ethereum
+- Suporta: Solana, [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Prós: Melhor para Solana
 - Contras: Menos chains
 
 **Quando usar:**
 - Quantias pequenas (<R$5.000)
 - Trading frequente
-- DeFi/NFTs
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)/NFTs
 - Conveniência
 
 **Boas práticas:**
@@ -152,9 +152,9 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 - Mantenha software atualizado
 - Backup da seed phrase
 
-### 3. Exchange Wallets (Custodial)
+### 3. [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) Wallets (Custodial)
 
-**O que são:** Carteiras controladas pela exchange
+**O que são:** Carteiras controladas pela [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 
 **Principais exchanges:**
 - Binance
@@ -170,7 +170,7 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 
 **Contras:**
 - ❌ Você não controla as chaves
-- ❌ Risco de hack da exchange
+- ❌ Risco de hack da [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 - ❌ Risco de falência
 - ❌ Pode congelar fundos
 
@@ -183,14 +183,14 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 - Use apenas exchanges reguladas
 - Ative 2FA
 - Whitelist de endereços
-- Não deixe tudo na exchange
+- Não deixe tudo na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 
 ### Estratégia de Alocação
 
 **Modelo 70/20/10:**
-- **70%:** Hardware wallet (holding longo prazo)
-- **20%:** Software wallet (DeFi, NFTs, uso frequente)
-- **10%:** Exchange (trading ativo)
+- **70%:** [hardware wallet](/artigo/ledger-vs-trezor-review) (holding longo prazo)
+- **20%:** Software wallet ([defi](/artigo/defi-yield-farming-protocolos-seguros-2026), NFTs, uso frequente)
+- **10%:** [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) (trading ativo)
 
 **Exemplo com R$50.000:**
 - R$35.000 em Ledger (BTC, ETH)
@@ -406,7 +406,7 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 - Antivírus atualizado
 - Não baixe software pirata
 - Não clique em anexos suspeitos
-- Use hardware wallet
+- Use [hardware wallet](/artigo/ledger-vs-trezor-review)
 - Verifique endereços manualmente
 
 ## 🛡️ Melhores Práticas de Segurança
@@ -441,13 +441,13 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 
 ### Nível Intermediário
 
-**6. Use hardware wallet**
+**6. Use [hardware wallet](/artigo/ledger-vs-trezor-review)**
 - Para quantias >R$5.000
 - Ledger ou Trezor
 
 **7. Carteiras separadas**
 - Uma para holding
-- Uma para DeFi/trading
+- Uma para [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)/trading
 - Uma para NFTs
 
 **8. Whitelist de endereços**
@@ -542,7 +542,7 @@ Para comprar criptomoedas em exchanges seguras e reguladas:
 
 ## ❓ Perguntas Frequentes (FAQs)
 
-### 1. Hardware wallet vale a pena?
+### 1. [hardware wallet](/artigo/ledger-vs-trezor-review) vale a pena?
 
 **Resposta:** **Sim**, se você tem >R$5.000 em cripto. Hardware wallets (Ledger, Trezor) custam R$400-1.000 mas protegem contra 99% dos ataques. Para quantias menores, software wallet bem configurada (MetaMask + 2FA) é suficiente.
 
@@ -550,7 +550,7 @@ Para comprar criptomoedas em exchanges seguras e reguladas:
 
 **Resposta:** Se perdeu seed phrase E não tem acesso à carteira: **fundos perdidos para sempre**. Não há "recuperação de senha". Por isso backup é crítico. Faça 2-3 cópias em papel, guarde em locais diferentes (casa, cofre, família confiável).
 
-### 3. É seguro deixar cripto em exchange?
+### 3. É seguro deixar cripto em [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)?
 
 **Resposta:** Para trading ativo e quantias pequenas (<R$5.000), sim, em exchanges reguladas (Binance, Coinbase, Kraken). Para holding longo prazo ou quantias grandes, **não**. Histórico: Mt. Gox, QuadrigaCX, FTX. "Not your keys, not your coins."
 
@@ -558,7 +558,7 @@ Para comprar criptomoedas em exchanges seguras e reguladas:
 
 **Resposta:** Verifique: (1) **URL exata** (binance.com, não binance-security.com), (2) **Certificado SSL** (cadeado verde), (3) **Erros de português**, (4) **Urgência** ("aja agora"). Sempre digite URL manualmente, nunca clique em links de email.
 
-### 5. Alguém pode hackear minha hardware wallet?
+### 5. Alguém pode hackear minha [hardware wallet](/artigo/ledger-vs-trezor-review)?
 
 **Resposta:** Extremamente difícil. Hardware wallets são projetadas para resistir a ataques físicos e digitais. Único risco real: (1) Comprar usada/modificada (compre direto do fabricante), (2) Revelar seed phrase, (3) Malware no computador (mas wallet protege mesmo assim).
 
@@ -568,7 +568,7 @@ Para comprar criptomoedas em exchanges seguras e reguladas:
 
 ### 7. O que é multisig e preciso usar?
 
-**Resposta:** Multisig = carteira que requer múltiplas assinaturas (ex: 2 de 3). Útil para: (1) Grandes quantias (>R$100k), (2) Empresas, (3) Proteção contra perda de uma chave. Para pessoa física com <R$100k, hardware wallet + backup adequado é suficiente.
+**Resposta:** Multisig = carteira que requer múltiplas assinaturas (ex: 2 de 3). Útil para: (1) Grandes quantias (>R$100k), (2) Empresas, (3) Proteção contra perda de uma chave. Para pessoa física com <R$100k, [hardware wallet](/artigo/ledger-vs-trezor-review) + backup adequado é suficiente.
 
 ### 8. Como proteger contra SIM swap?
 
@@ -580,14 +580,14 @@ Para comprar criptomoedas em exchanges seguras e reguladas:
 
 ### 10. Vale a pena seguro para criptomoedas?
 
-**Resposta:** Existem opções (Nexus Mutual, InsurAce) mas cobertura é limitada e cara. Melhor: **prevenir** com boas práticas de segurança. Seguro cobre alguns hacks de protocolos DeFi, não cobre: perda de seed phrase, phishing, envio para endereço errado.
+**Resposta:** Existem opções (Nexus Mutual, InsurAce) mas cobertura é limitada e cara. Melhor: **prevenir** com boas práticas de segurança. Seguro cobre alguns hacks de protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), não cobre: perda de seed phrase, phishing, envio para endereço errado.
 
 ## 🎯 Conclusão
 
 Segurança em criptomoedas não é opcional - é fundamental. Com **$2,3 bilhões** roubados em 2024, a maioria dos ataques poderia ter sido evitada com práticas básicas. Quando você é seu próprio banco, a responsabilidade é 100% sua.
 
 **Pontos-Chave:**
-- ✅ Use hardware wallet para >R$5.000
+- ✅ Use [hardware wallet](/artigo/ledger-vs-trezor-review) para >R$5.000
 - ✅ Ative 2FA em tudo (app, não SMS)
 - ✅ Backup de seed phrase em papel (2-3 cópias)
 - ✅ Nunca compartilhe seed phrase com ninguém
@@ -598,9 +598,9 @@ Segurança em criptomoedas não é opcional - é fundamental. Com **$2,3 bilhõe
 - ✅ Use senhas únicas e fortes
 - ✅ Mantenha software atualizado
 
-**Recomendação:** Para iniciantes, comece com exchange regulada + 2FA. Quando tiver >R$5.000, compre hardware wallet (Ledger/Trezor). Aprenda gradualmente, implemente camadas de segurança progressivamente.
+**Recomendação:** Para iniciantes, comece com [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) regulada + 2FA. Quando tiver >R$5.000, compre [hardware wallet](/artigo/ledger-vs-trezor-review) (Ledger/Trezor). Aprenda gradualmente, implemente camadas de segurança progressivamente.
 
-Segurança é investimento, não custo. R$500 em hardware wallet protege R$50.000+. Tempo gasto aprendendo evita perda total. Não seja estatística - proteja seus ativos com inteligência.
+Segurança é investimento, não custo. R$500 em [hardware wallet](/artigo/ledger-vs-trezor-review) protege R$50.000+. Tempo gasto aprendendo evita perda total. Não seja estatística - proteja seus ativos com inteligência.
 
 **Disclaimer:** Este artigo é apenas informativo. Segurança é responsabilidade individual. Sempre faça sua própria pesquisa e considere consultoria especializada para grandes quantias.
 

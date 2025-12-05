@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'arbitrum-layer2-ethereum-escalabilidade'
 title: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups'
 slug: 'arbitrum-layer2-ethereum-escalabilidade'
@@ -28,25 +28,25 @@ seo:
     - 'rollups'
 ---
 
-**Arbitrum** é a solução Layer 2 líder para Ethereum, oferecendo transações rápidas e baratas através de Optimistic Rollups.
+**Arbitrum** é a solução Layer 2 líder para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), oferecendo transações rápidas e baratas através de Optimistic Rollups.
 
 ## O que é Arbitrum?
 
-Arbitrum processa transações off-chain e publica provas na Ethereum mainnet, reduzindo custos em até 90%.
+Arbitrum processa transações off-chain e publica provas na [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) mainnet, reduzindo custos em até 90%.
 
 ### Vantagens
 
 - **Compatibilidade EVM**: Deploy direto de contratos
 - **Taxas Baixas**: $0.10-0.50 por transação
 - **Velocidade**: Confirmações instantâneas
-- **Segurança**: Herdada do Ethereum
+- **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)**: Herdada do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ## Arbitrum One vs Nova
 
 ### Arbitrum One
 
-- **Uso Geral**: DeFi e NFTs
-- **Segurança**: Máxima
+- **Uso Geral**: [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) e NFTs
+- **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)**: Máxima
 - **Custo**: Médio-baixo
 
 ### Arbitrum Nova
@@ -57,7 +57,7 @@ Arbitrum processa transações off-chain e publica provas na Ethereum mainnet, r
 
 ## Ecossistema
 
-### DeFi
+### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 - **GMX**: Trading perpétuo
 - **Camelot**: DEX nativo
@@ -74,11 +74,11 @@ Arbitrum processa transações off-chain e publica provas na Ethereum mainnet, r
 
 - **Governança**: DAO decisions
 - **Airdrop**: Distribuição inicial
-- **Staking**: Futuro
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026)**: Futuro
 
 ## Conclusão
 
-Arbitrum está liderando a escalabilidade do Ethereum, oferecendo uma experiência rápida e barata sem comprometer segurança.
+Arbitrum está liderando a escalabilidade do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), oferecendo uma experiência rápida e barata sem comprometer [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes).
 
 ## 🚀 Comece a Investir em Criptomoedas
 

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'slippage-impacto-permanente-defi'
 title: 'Slippage e Impacto de Preço em DeFi'
 slug: 'slippage-impacto-permanente-defi'
@@ -28,7 +28,7 @@ seo:
     - 'trading'
 ---
 
-Este guia completo explora **Slippage e Impacto de Preço em DeFi** de forma detalhada e acessível.
+Este guia completo explora **Slippage e Impacto de Preço em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)** de forma detalhada e acessível.
 
 ## Introdução
 
@@ -56,7 +56,7 @@ Entender este conceito é fundamental para qualquer pessoa envolvida com criptom
 
 ### Aplicações Reais
 
-- **DeFi**: Finanças descentralizadas
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026)**: Finanças descentralizadas
 - **NFTs**: Tokens não fungíveis
 - **DAOs**: Organizações autônomas
 - **Gaming**: Jogos blockchain

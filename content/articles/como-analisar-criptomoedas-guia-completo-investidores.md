@@ -53,7 +53,7 @@ A **análise fundamentalista** avalia o valor intrínseco de uma criptomoeda bas
 
 ### Fatores Tecnológicos
 
-- **Blockchain:** Segurança, escalabilidade e descentralização
+- **Blockchain:** [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes), escalabilidade e descentralização
 
 - **Consenso:** Proof of Work, Proof of Stake, outros
 
@@ -95,9 +95,9 @@ A **análise on-chain** examina dados da blockchain para entender o comportament
 
 - **Volume de Transações:** Atividade da rede
 
-- **Hash Rate:** Segurança da rede (PoW)
+- **Hash Rate:** [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) da rede (PoW)
 
-- **Staking Ratio:** Tokens em staking (PoS)
+- **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) Ratio:** Tokens em [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (PoS)
 
 ## Ferramentas de Análise
 

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'stablecoins-algoritmicas-2026'
 title: "Stablecoins Algorítmicas 2026: O Futuro das Moedas Estáveis Descentralizadas"
 slug: 'stablecoins-algoritmicas-2026'
@@ -270,13 +270,13 @@ Moeda estável descentralizada, sem depender de bancos ou custódia centralizada
 - Delta-neutral (sem risco de preço)
 
 **Inovação:**
-- Gera yield de staking + funding rate
+- Gera yield de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) + funding rate
 - Não depende de peg algorítmico
 - Colateral produtivo
 
 **Yields:**
 - 8-15% APY (sustentável)
-- Vem de staking + funding
+- Vem de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) + funding
 - Não é Ponzi
 
 **Números (2026):**
@@ -366,7 +366,7 @@ Moeda estável descentralizada, sem depender de bancos ou custódia centralizada
 
 ## Casos de Uso
 
-### 1. DeFi
+### 1. [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 **Lending:**
 - Empreste stablecoins
@@ -505,7 +505,7 @@ Moeda estável descentralizada, sem depender de bancos ou custódia centralizada
 **Adoção:**
 - $10+ bilhões em market cap
 - 10+ protocolos viáveis
-- Integração ampla em DeFi
+- Integração ampla em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 
 **Tecnologia:**
 - Modelos híbridos dominam
@@ -548,7 +548,7 @@ Moeda estável descentralizada, sem depender de bancos ou custódia centralizada
 **1. Yield Farming**
 - Pools de liquidez
 - Lending
-- Staking
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 **2. Arbitragem**
 - Aproveite desvios de peg

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'criar-nft-tutorial'
 title: 'Como Criar e Vender Seu Primeiro NFT: Guia Completo'
 slug: 'como-criar-nft-tutorial'
@@ -72,7 +72,7 @@ Criar e vender **NFTs** está mais fácil do que nunca. Este guia mostra o proce
    - Descrição
    - Logo
    - Banner
-4. Escolha blockchain (Ethereum ou Polygon)
+4. Escolha blockchain ([ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) ou Polygon)
 
 ## Passo 5: Mintar NFT
 
@@ -88,7 +88,7 @@ Criar e vender **NFTs** está mais fácil do que nunca. Este guia mostra o proce
 
 **Custo:**
 - Polygon: Grátis
-- Ethereum: Taxa de gas
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Taxa de gas
 
 ## Passo 6: Listar para Venda
 
@@ -111,7 +111,7 @@ Criar e vender **NFTs** está mais fácil do que nunca. Este guia mostra o proce
 
 ## Custos
 
-**Ethereum:**
+**[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 - Primeira venda: ~$50-200 (gas)
 - Vendas seguintes: ~2.5% OpenSea
 

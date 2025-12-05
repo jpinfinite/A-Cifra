@@ -248,7 +248,7 @@ Apenas plataformas com **real capacidade de receita empresarial** e **entrega es
 
 **Funções do ATH:**
 - 💰 Pagamento por serviços de computação
-- 💰 Staking para provedores de GPU
+- 💰 [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para provedores de GPU
 - 💰 Governança da rede
 - 💰 Incentivos para o ecossistema
 - 💰 Recompras pelo DAT
@@ -303,7 +303,7 @@ Apenas plataformas com **real capacidade de receita empresarial** e **entrega es
 **Monetize suas GPUs:**
 - Conecte hardware ocioso à rede
 - Receba pagamentos em ATH
-- Ganhe recompensas de staking
+- Ganhe recompensas de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Contribua para a descentralização
 
 ### Para Investidores
@@ -323,7 +323,7 @@ Apenas plataformas com **real capacidade de receita empresarial** e **entrega es
 **Considerações importantes:**
 - Latência em redes distribuídas
 - Garantia de uptime
-- Segurança de dados
+- [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) de dados
 - Compatibilidade de hardware
 
 ### Riscos de Mercado
@@ -338,7 +338,7 @@ Apenas plataformas com **real capacidade de receita empresarial** e **entrega es
 
 **Como a Aethir está se preparando:**
 - Parcerias com empresas estabelecidas
-- Certificações de segurança
+- Certificações de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 - Diversificação de casos de uso
 - Reserva estratégica (DAT)
 
@@ -362,7 +362,7 @@ A Aethir oferece custos 40-60% menores, escalabilidade instantânea, resistênci
 
 ### 5. Como funciona o token ATH?
 
-O token ATH é usado para pagamentos de serviços, staking por provedores de GPU, governança da rede e é recomprado pelo DAT usando receitas empresariais.
+O token ATH é usado para pagamentos de serviços, [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) por provedores de GPU, governança da rede e é recomprado pelo DAT usando receitas empresariais.
 
 ### 6. A Aethir é segura para uso empresarial?
 

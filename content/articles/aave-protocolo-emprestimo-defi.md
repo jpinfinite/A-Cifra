@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'aave-protocolo'
 title: 'Aave: O Protocolo de Empréstimos DeFi Mais Popular'
 slug: 'aave-protocolo-emprestimo-defi'
@@ -35,7 +35,7 @@ O **Aave** é o maior protocolo de empréstimos descentralizados, permitindo emp
 
 ## O Que é Aave?
 
-Protocolo DeFi que conecta:
+Protocolo [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) que conecta:
 - **Lenders**: Emprestam e ganham juros
 - **Borrowers**: Pegam emprestado pagando juros
 

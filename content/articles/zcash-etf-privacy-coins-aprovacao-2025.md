@@ -82,7 +82,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 **Mas há outro lado:**
 - Privacidade é um direito fundamental
 - Proteção contra vigilância corporativa/governamental
-- Segurança financeira pessoal
+- [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) financeira pessoal
 - Casos de uso legítimos (dissidentes, jornalistas, etc.)
 
 ## 📋 O Pedido da Grayscale: Detalhes
@@ -91,7 +91,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 
 **Data:** Novembro de 2025
 **Produto:** Grayscale Zcash Trust ETF
-**Exchange proposta:** NYSE Arca
+**[exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) proposta:** NYSE Arca
 **Estrutura:** ETF de spot (não futuros)
 
 ### Características do ETF
@@ -107,7 +107,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 - Fundos de pensão e family offices
 
 **Vantagens sobre compra direta:**
-- Não precisa de wallet ou exchange cripto
+- Não precisa de wallet ou [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) cripto
 - Proteção regulatória
 - Facilidade de negociação
 - Tratamento fiscal simplificado
@@ -140,7 +140,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 
 ### Fatores a Favor
 
-✅ **1. Precedente dos ETFs de Bitcoin e Ethereum**
+✅ **1. Precedente dos ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)**
 - SEC já aprovou ETFs de spot de BTC e ETH
 - Framework regulatório estabelecido
 - Mercado maduro para produtos cripto
@@ -175,7 +175,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 ❌ **1. Natureza de Privacy Coin**
 - Preocupações com lavagem de dinheiro
 - Dificuldade de enforcement
-- Pressão de agências de segurança (FBI, DEA)
+- Pressão de agências de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) (FBI, DEA)
 
 ❌ **2. Precedente Perigoso**
 - Aprovar ZEC pode abrir porta para XMR
@@ -289,9 +289,9 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 - Foco em uso real vs especulação
 - **Range: $150-$500**
 
-### Comparação com ETFs de Bitcoin
+### Comparação com ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
-**Quando ETFs de Bitcoin foram aprovados (Jan 2024):**
+**Quando ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) foram aprovados (Jan 2024):**
 - BTC subiu 60% nos 3 meses seguintes
 - Fluxos de $10B+ no primeiro ano
 - Legitimação massiva do ativo
@@ -388,11 +388,11 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 ❌ **Competição**
 - Monero tem comunidade mais forte
 - Outras privacy coins surgindo
-- Bitcoin com Lightning também oferece privacidade
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) com Lightning também oferece privacidade
 
 ❌ **Adoção Limitada**
 - Menos aceito que BTC/ETH
-- Poucas aplicações DeFi
+- Poucas aplicações [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Ecossistema menor
 
 ❌ **Risco Regulatório**
@@ -498,7 +498,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
    - Investimento em R&D
    - Inovação tecnológica
 
-4. **Bitcoin Privacy**
+4. **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Privacy**
    - Mais foco em Lightning Network
    - Desenvolvimento de soluções de privacidade
    - Taproot e futuras upgrades
@@ -533,12 +533,12 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 
 **1. Privacidade por Padrão**
 - Mais blockchains implementando privacidade nativa
-- Ethereum com zk-rollups
-- Bitcoin com Taproot e futuras upgrades
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) com zk-rollups
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) com Taproot e futuras upgrades
 
 **2. Privacidade Programável**
 - Smart contracts privados
-- DeFi com privacidade
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) com privacidade
 - NFTs privados
 
 **3. Interoperabilidade**
@@ -558,7 +558,7 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 - Salários e pagamentos privados
 - B2B com confidencialidade
 
-**2. DeFi Privado**
+**2. [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Privado**
 - Lending/borrowing anônimo
 - Trading sem front-running
 - Yield farming privado
@@ -586,8 +586,8 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 - Compliance cada vez mais complexo
 
 **3. Competição**
-- Bitcoin com privacidade melhorada
-- Ethereum com zk-rollups
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) com privacidade melhorada
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) com zk-rollups
 - Novas tecnologias
 
 **4. Adoção**
@@ -630,11 +630,11 @@ Neste guia completo, vamos analisar todos os ângulos desta notícia bombástica
 - Bitget
 - KuCoin
 
-**Não listam:** Coinbase (em alguns países), Mercado Bitcoin, Foxbit.
+**Não listam:** Coinbase (em alguns países), Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), Foxbit.
 
 ### 7. Zcash é realmente privado?
 
-**Sim, mas apenas se usar transações blindadas (shielded).** Transações transparentes são públicas como Bitcoin. ~15% das transações ZEC são blindadas.
+**Sim, mas apenas se usar transações blindadas (shielded).** Transações transparentes são públicas como [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional). ~15% das transações ZEC são blindadas.
 
 ### 8. Vale a pena minerar Zcash?
 

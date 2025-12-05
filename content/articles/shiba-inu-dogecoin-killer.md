@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'shiba-inu-coin'
 title: 'Shiba Inu (SHIB): O "Dogecoin Killer" e Seu Ecossistema'
 slug: 'shiba-inu-dogecoin-killer'
@@ -48,7 +48,7 @@ Criado anonimamente por "Ryoshi" em agosto de 2020, o SHIB se apresentou como o 
 
 **SHIB**: Token principal
 - Oferta: 1 quadrilhão (muitos já queimados)
-- Usado para transações e staking
+- Usado para transações e [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 **LEASH**: Token de recompensa
 - Oferta limitada: 107.646
@@ -56,13 +56,13 @@ Criado anonimamente por "Ryoshi" em agosto de 2020, o SHIB se apresentou como o 
 
 **BONE**: Token de governança
 - Usado para votação
-- Recompensas de staking
+- Recompensas de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ### 2. ShibaSwap (DEX)
 
-Exchange descentralizada do ecossistema:
+[exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) descentralizada do ecossistema:
 - Swap de tokens
-- Staking (DIG)
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (DIG)
 - Farming (BURY)
 - Pools de liquidez
 
@@ -93,9 +93,9 @@ O SHIB implementou várias formas de queima:
 
 | Aspecto | SHIB | DOGE |
 |---------|------|------|
-| Blockchain | Ethereum/Shibarium | Própria |
+| Blockchain | [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)/Shibarium | Própria |
 | Oferta | Deflacionária | Inflacionária |
-| Ecossistema | Amplo (DeFi, NFT) | Limitado |
+| Ecossistema | Amplo ([defi](/artigo/defi-yield-farming-protocolos-seguros-2026), NFT) | Limitado |
 | Utilidade | Múltipla | Pagamentos |
 
 ## Comunidade SHIBArmy

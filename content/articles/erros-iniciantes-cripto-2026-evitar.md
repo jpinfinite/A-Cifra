@@ -32,17 +32,17 @@ Se você está começando agora, este artigo pode te poupar anos de prejuízo e 
 
 Spoiler: Você provavelmente está cometendo pelo menos 3 deles agora.
 
-## ❌ Erro #1: Deixar Todo Dinheiro na Exchange
+## ❌ Erro #1: Deixar Todo Dinheiro na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 
 ### O Problema:
-"Comprei Bitcoin na Binance e deixei lá. É seguro, né?"
+"Comprei [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) na Binance e deixei lá. É seguro, né?"
 
 **NÃO.** Exchanges são alvos de hackers. Mt.Gox, QuadrigaCX, FTX — todas quebraram e usuários perderam TUDO.
 
 ### A Solução:
 **Regra de Ouro:** Se você não controla as chaves privadas, você não é dono das moedas.
 
-- **Para valores até $1.000:** OK deixar na exchange (risco aceitável)
+- **Para valores até $1.000:** OK deixar na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) (risco aceitável)
 - **Para valores $1k - $10k:** Use uma carteira de software (MetaMask, Trust Wallet)
 - **Para valores acima de $10k:** **OBRIGATÓRIO** comprar uma [Hardware Wallet](/artigo/ledger-vs-trezor-review)
 
@@ -116,9 +116,9 @@ DM no Instagram: "Invista R$ 1.000 e ganhe R$ 10.000 em 7 dias! 100% seguro!"
 ## ❌ Erro #5: Usar Alavancagem Sem Experiência
 
 ### O Problema:
-"Vou usar alavancagem 100x! Se Bitcoin subir 1%, eu ganho 100%!"
+"Vou usar alavancagem 100x! Se [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) subir 1%, eu ganho 100%!"
 
-**Correto.** Mas se Bitcoin **cair** 1%, você perde 100% e é liquidado.
+**Correto.** Mas se [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) **cair** 1%, você perde 100% e é liquidado.
 
 ### Estatística Brutal:
 - **95% dos traders com alavancagem perdem dinheiro**
@@ -128,7 +128,7 @@ DM no Instagram: "Invista R$ 1.000 e ganhe R$ 10.000 em 7 dias! 100% seguro!"
 **Se você é iniciante:**
 - ❌ Nunca use alavancagem
 - ✅ Compre à vista e segure (HODL)
-- ✅ Use staking para renda passiva ([guia completo](/artigo/renda-passiva-cripto-2026-estrategias))
+- ✅ Use [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para renda passiva ([guia completo](/artigo/renda-passiva-cripto-2026-estrategias))
 
 **Se você é trader experiente:**
 - Use no máximo 3x
@@ -140,14 +140,14 @@ DM no Instagram: "Invista R$ 1.000 e ganhe R$ 10.000 em 7 dias! 100% seguro!"
 ## ❌ Erro #6: Não Diversificar (All-in em Uma Moeda)
 
 ### O Problema:
-"Bitcoin é velho. Vou colocar TUDO em [SHITCOIN DA MODA]!"
+"[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é velho. Vou colocar TUDO em [SHITCOIN DA MODA]!"
 
 Moeda despenca 95%. Você perde quase tudo.
 
 ### A Solução:
 **Portfólio Balanceado para Iniciantes:**
-- 50% Bitcoin (segurança)
-- 30% Ethereum (smart contracts)
+- 50% [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (segurança)
+- 30% [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (smart contracts)
 - 15% Altcoins top 20 (SOL, MATIC, AVAX)
 - 5% Especulação (projetos novos)
 
@@ -158,17 +158,17 @@ Moeda despenca 95%. Você perde quase tudo.
 ## ❌ Erro #7: Ignorar Taxas e Custos
 
 ### O Problema:
-Você compra na exchange A, transfere para exchange B, converte para outra moeda, retira para carteira...
+Você compra na [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) A, transfere para [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) B, converte para outra moeda, retira para carteira...
 
 **Perdeu 15% só em taxas.**
 
 ### A Solução:
 **Minimize custos:**
 1. [Compare exchanges](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) e escolha as com menores taxas
-2. Use redes baratas (Polygon, Solana) em vez de Ethereum quando possível
+2. Use redes baratas (Polygon, Solana) em vez de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) quando possível
 3. Consolide transações (uma transferência grande > 10 pequenas)
 
-**Taxa média Ethereum:** $2-50
+**Taxa média [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):** $2-50
 **Taxa média Solana:** $0.001
 
 ---
@@ -207,7 +207,7 @@ Resultado: Compra caro, vende barato. Perde sempre.
 **Declare sempre:**
 - Vendas acima de R$ 35.000/mês: 15-22,5% de IR
 - Vendas abaixo de R$ 35k/mÊS: ISENTO (mas ainda declare na posse)
-- Use ferramentas: Bitcoin.Tax, Cointracking
+- Use ferramentas: [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional).Tax, Cointracking
 
 **Guia completo:** [Impostos Cripto Brasil 2026](/artigo/impostos-criptomoedas-brasil-ir-2025)
 
@@ -237,8 +237,8 @@ Compra moeda porque o influencer X falou. Não sabe o que o projeto faz, quem es
 Antes de investir em cripto, confirme:
 
 - [ ] Li sobre o projeto (não só vi TikTok)
-- [ ] Uso exchange confiável ([veja ranking](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas))
-- [ ] Valores acima de $10k em hardware wallet
+- [ ] Uso [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) confiável ([veja ranking](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas))
+- [ ] Valores acima de $10k em [hardware wallet](/artigo/ledger-vs-trezor-review)
 - [ ] Seed phrase anotada e guardada em cofre
 - [ ] Estou investindo valor que posso perder
 - [ ] Tenho estratégia definida (não trading emocional)

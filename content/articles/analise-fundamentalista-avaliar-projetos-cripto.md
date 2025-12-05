@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'analise-fundamentalista'
 slug: 'analise-fundamentalista-avaliar-projetos-cripto'
 title: "Análise Fundamentalista: Como Avaliar Projetos Cripto"
@@ -60,7 +60,7 @@ Análise fundamentalista avalia o valor intrínseco de um ativo baseado em fator
 **Aspectos Técnicos**
 - Whitepaper detalhado
 - Código open source
-- Auditorias de segurança
+- Auditorias de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 - Diferencial tecnológico
 
 **Perguntas Importantes**
@@ -161,7 +161,7 @@ Análise fundamentalista avalia o valor intrínseco de um ativo baseado em fator
 - Volume de trading
 - Liquidez
 
-### DeFi Específico
+### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Específico
 
 **Total Value Locked (TVL)**
 - Valor total depositado
@@ -202,7 +202,7 @@ Análise fundamentalista avalia o valor intrínseco de um ativo baseado em fator
 
 ## Estudos de Caso
 
-### Projeto Sólido: Ethereum
+### Projeto Sólido: [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 **Pontos Fortes**
 - Equipe experiente e transparente
@@ -228,7 +228,7 @@ Análise fundamentalista avalia o valor intrínseco de um ativo baseado em fator
 - **Token Terminal**: Métricas financeiras
 
 ### On-Chain
-- **Etherscan**: Explorador Ethereum
+- **Etherscan**: Explorador [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - **Dune Analytics**: Dashboards customizados
 - **Nansen**: Inteligência on-chain
 

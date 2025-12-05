@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'staking-eth-tutorial'
 title: 'Como Fazer Staking de Ethereum: Tutorial Passo a Passo'
 slug: 'como-fazer-staking-ethereum'
@@ -31,25 +31,25 @@ seo:
     - 'validador ethereum'
 ---
 
-Fazer **staking de Ethereum** permite ganhar recompensas passivas enquanto ajuda a proteger a rede. Veja como começar.
+Fazer **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)** permite ganhar recompensas passivas enquanto ajuda a proteger a rede. Veja como começar.
 
-## Opções de Staking
+## Opções de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
-### 1. Staking Solo (32 ETH)
+### 1. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) Solo (32 ETH)
 - Requer 32 ETH
 - Você roda um validador
 - Máximo controle e recompensas
 - Técnico
 
-### 2. Staking em Pool
+### 2. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) em Pool
 - Qualquer quantidade
 - Mais fácil
 - Taxas de serviço
 - Recomendado para maioria
 
-### 3. Liquid Staking
+### 3. Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Recebe token líquido (stETH, rETH)
-- Pode usar em DeFi
+- Pode usar em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Flexibilidade
 
 ## Plataformas Recomendadas
@@ -69,7 +69,7 @@ Fazer **staking de Ethereum** permite ganhar recompensas passivas enquanto ajuda
 - Custodial
 - Taxas variadas
 
-## Tutorial: Staking no Lido
+## Tutorial: [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) no Lido
 
 1. Acesse lido.fi
 2. Conecte MetaMask
@@ -88,12 +88,12 @@ Fazer **staking de Ethereum** permite ganhar recompensas passivas enquanto ajuda
 
 ❌ Slashing (penalidades)
 ❌ Risco de smart contract
-❌ Liquidez (staking tradicional)
+❌ Liquidez ([staking](/artigo/staking-ethereum-guia-renda-passiva-2026) tradicional)
 ❌ Volatilidade do ETH
 
 ## Conclusão
 
-Staking de ETH é ótima forma de renda passiva, mas entenda os riscos antes de começar.
+[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de ETH é ótima forma de renda passiva, mas entenda os riscos antes de começar.
 
 ## 🚀 Comece a Investir em Criptomoedas
 

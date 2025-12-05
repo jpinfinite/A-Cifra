@@ -252,7 +252,7 @@ A **descentralização** é a distribuição de poder, controle e tomada de deci
 
 ### Blockchain e Criptomoedas
 
-#### Bitcoin: Descentralização Monetária
+#### [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Descentralização Monetária
 
 - **Sem Banco Central:** Política monetária algorítmica
 
@@ -262,13 +262,13 @@ A **descentralização** é a distribuição de poder, controle e tomada de deci
 
 - **Resistência Ã  Censura:** Difícil de bloquear
 
-#### Ethereum: Computação Descentralizada
+#### [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Computação Descentralizada
 
 - **Smart Contracts:** Execução automática sem intermediários
 
 - **DApps:** Aplicações descentralizadas
 
-- **DeFi:** Finanças sem bancos tradicionais
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026):** Finanças sem bancos tradicionais
 
 - **DAOs:** Organizações autÃ´nomas descentralizadas
 
@@ -308,7 +308,7 @@ A **descentralização** é a distribuição de poder, controle e tomada de deci
 
 - **Exclusão:** Milhões sem acesso bancário
 
-#### DeFi (Descentralizado)
+#### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) (Descentralizado)
 
 - **Protocolos Abertos:** Aave, Uniswap, Compound
 
@@ -372,7 +372,7 @@ A descentralização não é binária - existe um espectro entre totalmente cent
 
 #### 4. Parcialmente Descentralizado
 
-- **Exemplo:** Ethereum (com Ethereum Foundation)
+- **Exemplo:** [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (com [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) Foundation)
 
 - **Controle:** Distribuído mas com influências centrais
 
@@ -380,7 +380,7 @@ A descentralização não é binária - existe um espectro entre totalmente cent
 
 #### 5. Totalmente Descentralizado
 
-- **Exemplo:** Bitcoin (ideal teórico)
+- **Exemplo:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (ideal teórico)
 
 - **Controle:** Completamente distribuído
 
@@ -396,7 +396,7 @@ A descentralização não é binária - existe um espectro entre totalmente cent
 
 - **Interoperabilidade:** Integração entre sistemas
 
-- **Segurança:** Novos vetores de ataque
+- **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes):** Novos vetores de ataque
 
 ### Barreiras Sociais
 
@@ -446,7 +446,7 @@ A descentralização não é binária - existe um espectro entre totalmente cent
 
 - **CBDCs:** Moedas digitais de bancos centrais
 
-- **DeFi 2.0:** Protocolos mais sofisticados
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026) 2.0:** Protocolos mais sofisticados
 
 - **Regulamentação:** Frameworks emergentes
 

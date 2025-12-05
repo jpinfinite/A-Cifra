@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'tokenomics-guia'
 title: 'Tokenomics: Entendendo a Economia dos Tokens'
 slug: 'tokenomics-economia-dos-tokens'
@@ -48,7 +48,7 @@ Tokenomics engloba todos os aspectos econômicos de um token:
 
 **Oferta Total (Total Supply)**
 - Quantidade máxima de tokens que existirá
-- Exemplo: Bitcoin tem 21 milhões
+- Exemplo: [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) tem 21 milhões
 
 **Oferta Circulante (Circulating Supply)**
 - Tokens atualmente em circulação no mercado
@@ -79,7 +79,7 @@ Como os tokens são distribuídos:
 - Marketing e parcerias
 
 **Comunidade/Recompensas**
-- Staking, farming
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), farming
 - Incentivos de uso
 
 ### 3. Utilidade do Token
@@ -95,8 +95,8 @@ Como os tokens são distribuídos:
 - Exemplo: BNB (Binance)
 
 **Security (Segurança)**
-- Staking para validação
-- Exemplo: ETH (Ethereum 2.0)
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) para validação
+- Exemplo: ETH ([ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) 2.0)
 
 **Store of Value (Reserva de Valor)**
 - Proteção contra inflação
@@ -165,14 +165,14 @@ Como os tokens são distribuídos:
 
 ## Exemplos Práticos
 
-### Bitcoin (BTC)
+### [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (BTC)
 - ✅ Oferta fixa: 21 milhões
 - ✅ Distribuição descentralizada
 - ✅ Utilidade: reserva de valor
 - ✅ Deflacionário: halvings
 
-### Ethereum (ETH)
-- ✅ Utilidade: gas fees, staking
+### [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (ETH)
+- ✅ Utilidade: gas fees, [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - ✅ Queima de tokens (EIP-1559)
 - ✅ Múltiplos casos de uso
 - ⚠️ Oferta não limitada

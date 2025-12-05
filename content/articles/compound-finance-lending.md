@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'compound-finance'
 title: 'Compound Finance: Protocolo de Empréstimos Autônomos'
 slug: 'compound-finance-lending'
@@ -31,7 +31,7 @@ seo:
     - 'empréstimos compound'
 ---
 
-O **Compound** é um dos protocolos DeFi pioneiros, permitindo empréstimos e empréstimos de forma totalmente autônoma.
+O **Compound** é um dos protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) pioneiros, permitindo empréstimos e empréstimos de forma totalmente autônoma.
 
 ## Como Funciona?
 
@@ -89,7 +89,7 @@ O **Compound** é um dos protocolos DeFi pioneiros, permitindo empréstimos e em
 
 ## Conclusão
 
-Compound é sólido e confiável para empréstimos DeFi, ideal para quem busca simplicidade e segurança.
+Compound é sólido e confiável para empréstimos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), ideal para quem busca simplicidade e [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes).
 
 ## 🚀 Comece a Investir em Criptomoedas
 

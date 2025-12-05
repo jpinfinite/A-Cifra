@@ -92,7 +92,7 @@ Com volume de trading de **$8 bilhões** em 2024 e crescimento projetado para **
 ### 3. Identidade Digital e Reputação
 
 **Casos de uso:**
-- **ENS (Ethereum Name Service):** vitalik.eth
+- **ENS ([ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) Name Service):** vitalik.eth
 - **Soulbound Tokens:** NFTs não transferíveis
 - **Credenciais:** Diplomas, certificados
 - **Reputação on-chain:** Histórico verificável
@@ -306,7 +306,7 @@ Com volume de trading de **$8 bilhões** em 2024 e crescimento projetado para **
 
 ## 🛒 Como Comprar NFTs (Passo a Passo)
 
-<InlineAffiliateCTA text="Compre ETH para começar no mundo dos NFTs" exchange="all" variant="primary" />
+<InlineAffiliateCTA text="Compre ETH para começar no mundo dos NFTs" [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)="all" variant="primary" />
 
 ### Passo 1: Configure Carteira
 
@@ -359,7 +359,7 @@ Com volume de trading de **$8 bilhões** em 2024 e crescimento projetado para **
 5. Confirme transação na carteira
 6. Pague gas fee
 
-### Passo 6: Armazene com Segurança
+### Passo 6: Armazene com [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 **Opções:**
 - **Hot Wallet:** MetaMask (conveniente)
@@ -400,7 +400,7 @@ Com volume de trading de **$8 bilhões** em 2024 e crescimento projetado para **
 **Mitigação:**
 - Verifique URL (opensea.io, não 0pensea.io)
 - Nunca compartilhe seed phrase
-- Use hardware wallet
+- Use [hardware wallet](/artigo/ledger-vs-trezor-review)
 - Pesquise equipe
 
 ### 4. Direitos Autorais
@@ -443,7 +443,7 @@ Para comprar ETH e começar no mundo dos NFTs, use uma das exchanges recomendada
 
 ### 4. NFTs são seguros?
 
-**Resposta:** A tecnologia blockchain é segura, mas riscos existem: (1) Golpes/phishing, (2) Hacks de carteiras, (3) Rug pulls, (4) Volatilidade. Mitigue usando hardware wallet, pesquisando projetos e investindo apenas o que pode perder.
+**Resposta:** A tecnologia blockchain é segura, mas riscos existem: (1) Golpes/phishing, (2) Hacks de carteiras, (3) Rug pulls, (4) Volatilidade. Mitigue usando [hardware wallet](/artigo/ledger-vs-trezor-review), pesquisando projetos e investindo apenas o que pode perder.
 
 ### 5. Preciso pagar imposto sobre NFTs?
 
@@ -459,11 +459,11 @@ Para comprar ETH e começar no mundo dos NFTs, use uma das exchanges recomendada
 
 ### 8. NFTs são ruins para o meio ambiente?
 
-**Resposta:** **Não mais**. Ethereum migrou para Proof of Stake (2022), reduzindo consumo de energia em 99,95%. Solana e outras blockchains modernas são eficientes. NFTs hoje têm pegada de carbono similar a um email.
+**Resposta:** **Não mais**. [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) migrou para Proof of Stake (2022), reduzindo consumo de energia em 99,95%. Solana e outras blockchains modernas são eficientes. NFTs hoje têm pegada de carbono similar a um email.
 
 ### 9. Qual melhor blockchain para NFTs?
 
-**Resposta:** **Ethereum**: Maior mercado, mais liquidez, blue chips. **Solana**: Fees baixíssimas, rápida, gaming. **Polygon**: L2 do Ethereum, barata. **Bitcoin**: Ordinals (novo). Para iniciantes: Ethereum (OpenSea) ou Solana (Magic Eden).
+**Resposta:** **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)**: Maior mercado, mais liquidez, blue chips. **Solana**: Fees baixíssimas, rápida, gaming. **Polygon**: L2 do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), barata. **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**: Ordinals (novo). Para iniciantes: [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (OpenSea) ou Solana (Magic Eden).
 
 ### 10. NFTs vão substituir arte física?
 
@@ -480,7 +480,7 @@ NFTs em 2025 são muito mais que especulação - eles representam uma mudança f
 - ✅ Blue chips (BAYC, Punks) para conservadores
 - ✅ Gaming NFTs para utilidade e upside
 - ✅ Diversifique entre categorias
-- ✅ Use hardware wallet para NFTs valiosos
+- ✅ Use [hardware wallet](/artigo/ledger-vs-trezor-review) para NFTs valiosos
 - ✅ Pesquise antes de comprar (equipe, utilidade, comunidade)
 - ✅ Comece pequeno ($100-500) para aprender
 - ✅ Declare no IR (ganho de capital)

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'impermanent-loss'
 title: 'Perda Impermanente (Impermanent Loss): O Que É e Como Evitar'
 slug: 'impermanent-loss-explicado'
@@ -31,7 +31,7 @@ seo:
     - 'pools liquidez'
 ---
 
-A **perda impermanente** é um dos conceitos mais importantes (e mal compreendidos) em DeFi. Entenda o que é e como se proteger.
+A **perda impermanente** é um dos conceitos mais importantes (e mal compreendidos) em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026). Entenda o que é e como se proteger.
 
 ## O Que É?
 
@@ -101,7 +101,7 @@ AMMs rebalanceiam automaticamente para manter proporção 50/50, vendendo o ativ
 
 - IL Calculator
 - APY.vision
-- DeFi Llama
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Llama
 
 ## Conclusão
 

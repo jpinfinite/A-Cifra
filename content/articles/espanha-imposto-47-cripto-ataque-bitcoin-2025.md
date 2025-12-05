@@ -21,7 +21,7 @@ seo:
   keywords: ['imposto cripto espanha', 'taxa 47% bitcoin', 'regulação criptomoedas europa', 'tributação bitcoin espanha', 'ataque bitcoin espanha']
 ---
 
-A Espanha pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O **Sumar**, partido júnior da coalizão governista espanhola, propôs um **imposto de 47% sobre ganhos com criptomoedas**, em uma medida que críticos já descrevem como um "ataque direto contra o Bitcoin".
+A Espanha pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O **Sumar**, partido júnior da coalizão governista espanhola, propôs um **imposto de 47% sobre ganhos com criptomoedas**, em uma medida que críticos já descrevem como um "ataque direto contra o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)".
 
 A proposta, anunciada em 26 de novembro de 2025, gerou ondas de choque no mercado cripto europeu e levanta questões importantes sobre o futuro da regulação de ativos digitais no continente.
 
@@ -38,7 +38,7 @@ Segundo fontes do governo espanhol, a medida visa "proteger investidores de ativ
 
 <ExchangeAffiliateLinks variant="default" />
 
-## Por Que Isso É Considerado um "Ataque ao Bitcoin"?
+## Por Que Isso É Considerado um "Ataque ao [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)"?
 
 Críticos da proposta, incluindo membros da comunidade cripto espanhola e europeia, argumentam que:
 
@@ -147,7 +147,7 @@ A proposta surge em um momento específico:
 - Cripto vista como "alvo fácil"
 
 ### **2. Volatilidade Recente**
-- Bitcoin caiu de $108K para $88K em semanas
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) caiu de $108K para $88K em semanas
 - Perdas de investidores de varejo
 - Pressão política para "fazer algo"
 
@@ -242,8 +242,8 @@ Não. É apenas uma proposta do partido Sumar que precisa passar por todo o proc
 ### **2. Quando pode entrar em vigor?**
 Se aprovada, provavelmente não antes de 2026. O processo legislativo leva meses.
 
-### **3. Afeta apenas Bitcoin?**
-Não. A proposta abrange todas as criptomoedas, incluindo Ethereum, altcoins e stablecoins.
+### **3. Afeta apenas [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?**
+Não. A proposta abrange todas as criptomoedas, incluindo [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), altcoins e stablecoins.
 
 ### **4. Investidores podem evitar legalmente?**
 Sim, através de planejamento tributário legal, como holding de longo prazo ou estruturação empresarial.
@@ -262,7 +262,7 @@ Pode reduzir significativamente, mas não eliminar. Investidores encontram forma
 
 ## Conclusão: Um Momento Decisivo Para Cripto na Europa
 
-A proposta espanhola de taxar criptomoedas em 47% representa um dos maiores desafios regulatórios que o setor enfrenta na Europa. Descrita por críticos como um "ataque contra o Bitcoin", a medida pode ter consequências profundas não apenas para a Espanha, mas para todo o continente.
+A proposta espanhola de taxar criptomoedas em 47% representa um dos maiores desafios regulatórios que o setor enfrenta na Europa. Descrita por críticos como um "ataque contra o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)", a medida pode ter consequências profundas não apenas para a Espanha, mas para todo o continente.
 
 **Pontos-chave para lembrar:**
 

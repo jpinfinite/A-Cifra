@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'pepe-coin'
 title: 'PEPE Coin: O Fenômeno Memecoin de 2023'
 slug: 'pepe-coin-fenomeno-meme'
@@ -59,7 +59,7 @@ O PEPE cresceu de forma orgânica:
 ## Características
 
 - **Oferta Total**: 420,69 trilhões
-- **Blockchain**: Ethereum (ERC-20)
+- **Blockchain**: [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (ERC-20)
 - **Taxas**: Sem taxas de transação
 - **Queima**: Mecanismo de queima implementado
 
@@ -83,7 +83,7 @@ O PEPE cresceu de forma orgânica:
 |---------|------|------|------|
 | Ano | 2023 | 2013 | 2020 |
 | Ecossistema | Não | Limitado | Sim |
-| Utilidade | Não | Pagamentos | DeFi |
+| Utilidade | Não | Pagamentos | [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) |
 | Hype | Alto | Médio | Alto |
 
 ## Vale a Pena Investir?

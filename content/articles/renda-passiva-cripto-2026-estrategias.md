@@ -41,7 +41,7 @@ Em cripto, isso significa:
 - Receber recompensas/juros periodicamente
 - Não depender de trading ou "timing de mercado"
 
-## 💰 Estratégia 1: Staking de Ethereum (Mais Seguro)
+## 💰 Estratégia 1: [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (Mais Seguro)
 
 **Rendimento:** 3-4% ao ano
 **Risco:** Baixo
@@ -53,14 +53,14 @@ Você "trava" seu ETH para ajudar a validar transações na rede. Em troca, ganh
 ### Onde Fazer:
 - **Lido Finance:** Melhor opção (você recebe stETH e mantém liquidez)
 - **Binance:** Mais fácil para iniciantes
-- **Solo Staking:** Para experts (requer 32 ETH)
+- **Solo [staking](/artigo/staking-ethereum-guia-renda-passiva-2026):** Para experts (requer 32 ETH)
 
 ### Exemplo Prático:
 - Investe: 10 ETH (~$35.000)
 - Rendimento anual: 3,5%
 - Ganha por ano: 0,35 ETH (~$1.225)
 
-**Para começar:** [Guia de Staking Ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
+**Para começar:** [Guia de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) Ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ---
 
@@ -110,19 +110,19 @@ Você fornece liquidez para DEXs (exchanges descentralizadas). Ganha taxas de tr
 
 ---
 
-## 🔐 Estratégia 4: Staking em Exchanges (Prático)
+## 🔐 Estratégia 4: [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) em Exchanges (Prático)
 
 **Rendimento:** 2-10% (varia por moeda)
-**Risco:** Baixo (se usar exchange confiável)
+**Risco:** Baixo (se usar [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) confiável)
 **Mínimo:** Sem mínimo (algumas exchanges)
 
 ### Como Funciona:
-A exchange faz o staking por você. Você só recebe os rendimentos.
+A [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) faz o [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) por você. Você só recebe os rendimentos.
 
 ### Melhores Exchanges:
 - **Binance Earn:** 100+ moedas, flexível ou bloqueado
 - **Coinbase:** Segura, mas rendimentos menores
-- **Kraken:** Boa para Ethereum
+- **Kraken:** Boa para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ### Exemplo de Rendimentos (Binance Earn - Dez/2025):
 - ETH: 2,7%
@@ -170,7 +170,7 @@ Você roda um nó validador da rede. Ganha recompensas por manter a rede funcion
 ### Projetos Populares:
 - **Dash:** Requer 1000 DASH (~$30k)
 - **PIVX:** Requer 10.000 PIVX (~$3k)
-- **Cosmos (ATOM):** Staking delegado
+- **Cosmos (ATOM):** [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) delegado
 
 ### Para Quem É:
 - Conhecimento técnico
@@ -179,19 +179,19 @@ Você roda um nó validador da rede. Ganha recompensas por manter a rede funcion
 
 ---
 
-## 🎮 Estratégia 7: NFT Staking (Emergente)
+## 🎮 Estratégia 7: NFT [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (Emergente)
 
 **Rendimento:** 10-30% ao ano (em tokens do projeto)
 **Risco:** Muito Alto
 **Mínimo:** Preço do NFT ($100-10k+)
 
 ### Como Funciona:
-Você faz staking de NFTs e ganha tokens do jogo/projeto.
+Você faz [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de NFTs e ganha tokens do jogo/projeto.
 
 ### Projetos em Destaque:
-- **Axie Infinity:** Staking de Axies
-- **The Sandbox:** $SAND Staking
-- **Decentraland:** $MANA Staking
+- **Axie Infinity:** [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de Axies
+- **The Sandbox:** $SAND [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
+- **Decentraland:** $MANA [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 ### Atenção:
 - Muito especulativo
@@ -206,10 +206,10 @@ Assim eu distribuiria $10.000 em 2026:
 
 | Estratégia | Alocação | Rendimento Esperado | Risco |
 |------------|----------|---------------------|-------|
-| Staking ETH (Lido) | 40% ($4000) | 3,5% | Baixo |
+| [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) ETH (Lido) | 40% ($4000) | 3,5% | Baixo |
 | USDC em Aave | 30% ($3000) | 8% | Baixo |
 | Yield Farming (Curve) | 20% ($2000) | 12% | Médio |
-| Staking Altcoins (Binance) | 10% ($1000) | 6% | Médio |
+| [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) Altcoins (Binance) | 10% ($1000) | 6% | Médio |
 | **TOTAL** | **$10.000** | **~7,2% mix** | **Balanceado** |
 
 **Retorno anual esperado:** $720 (conservador)
@@ -226,7 +226,7 @@ Assim eu distribuiria $10.000 em 2026:
 ### Como Mitigar:
 - ✅ Use apenas protocolos auditados ($1B+ TVL)
 - ✅ Diversifique entre estratégias
-- ✅ Nunca coloque mais de 50% do portfolio em DeFi
+- ✅ Nunca coloque mais de 50% do portfolio em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - ✅ Comece pequeno, teste, depois escala
 
 ---
@@ -234,10 +234,10 @@ Assim eu distribuiria $10.000 em 2026:
 ## 🎯 Conclusão: Por Onde Começar?
 
 **Se você tem menos de $1.000:**
-1. Staking de ETH ou SOL em Binance (simples + seguro)
+1. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de ETH ou SOL em Binance (simples + seguro)
 
 **Se você tem $1.000 - $10.000:**
-1. 50% ETH staking (Lido)
+1. 50% ETH [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (Lido)
 2. 30% USDC lending (Aave)
 3. 20% Experimenta yield farming (Curve)
 
@@ -251,12 +251,12 @@ Assim eu distribuiria $10.000 em 2026:
 **Principais pontos:**
 - ✅ Renda passiva cripto é real e acessível em 2026
 - ✅ Rendimentos: 3-20% dependendo do risco
-- ✅ Staking e lending são as formas mais seguras
+- ✅ [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) e lending são as formas mais seguras
 - ✅ Sempre diversifique e gerencie riscos
 
 ## 📚 Próximos Passos
 
-- [Staking de Ethereum: Tutorial Completo](/artigo/staking-ethereum-guia-renda-passiva-2026)
+- [Staking de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Tutorial Completo](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - [DeFi Yield Farming Seguro](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - [Melhores Exchanges para Staking](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 

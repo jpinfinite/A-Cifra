@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'uniswap-tutorial'
 title: 'Como Usar o Uniswap: Tutorial Completo de Swap de Tokens'
 slug: 'como-usar-uniswap-tutorial'
@@ -31,7 +31,7 @@ seo:
     - 'uniswap metamask'
 ---
 
-O **Uniswap** é a maior DEX (exchange descentralizada) do mundo. Este tutorial ensina a usar a plataforma passo a passo.
+O **Uniswap** é a maior DEX ([exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) descentralizada) do mundo. Este tutorial ensina a usar a plataforma passo a passo.
 
 ## O Que Você Precisa
 
@@ -67,7 +67,7 @@ O **Uniswap** é a maior DEX (exchange descentralizada) do mundo. Este tutorial 
 - Use gwei tracker para economizar
 - Evite horários de pico
 
-## Dicas de Segurança
+## Dicas de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 
 ✅ Sempre verifique o endereço do token
 ✅ Use slippage adequado

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'gas-fees-ethereum-como-economizar'
 title: 'Gas Fees no Ethereum: Como Economizar em Transações'
 slug: 'gas-fees-ethereum-como-economizar'
@@ -28,7 +28,7 @@ seo:
     - 'transações'
 ---
 
-Este guia completo explora **Gas Fees no Ethereum** de forma detalhada e acessível.
+Este guia completo explora **Gas Fees no [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)** de forma detalhada e acessível.
 
 ## Introdução
 
@@ -56,7 +56,7 @@ Entender este conceito é fundamental para qualquer pessoa envolvida com criptom
 
 ### Aplicações Reais
 
-- **DeFi**: Finanças descentralizadas
+- **[defi](/artigo/defi-yield-farming-protocolos-seguros-2026)**: Finanças descentralizadas
 - **NFTs**: Tokens não fungíveis
 - **DAOs**: Organizações autônomas
 - **Gaming**: Jogos blockchain

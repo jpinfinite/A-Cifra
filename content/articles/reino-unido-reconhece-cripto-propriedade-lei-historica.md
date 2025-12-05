@@ -55,7 +55,7 @@ seo:
 **Problema:** Casos judiciais não sabiam como tratar cripto
 
 **Exemplos:**
-- **Divórcios:** Como dividir Bitcoin entre cônjuges?
+- **Divórcios:** Como dividir [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) entre cônjuges?
 - **Falências:** Cripto conta como ativo recuperável?
 - **Roubos:** É crime contra propriedade ou fraude eletrônica?
 
@@ -94,7 +94,7 @@ seo:
 ### Ativos Incluídos
 
 **Explicitamente cobertos:**
-- ✅ **Criptomoedas** (Bitcoin, Ethereum, etc.)
+- ✅ **Criptomoedas** ([bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), etc.)
 - ✅ **NFTs** (arte digital, colecionáveis)
 - ✅ **Tokens** (utility, security, governance)
 - ✅ **Ativos tokenizados** (RWA - Real World Assets)
@@ -160,12 +160,12 @@ Alguém hackeia sua carteira e rouba 10 BTC:
 
 **Antes da lei:**
 - Polícia: "Não sabemos se é crime de propriedade"
-- Tribunal: "Status legal de Bitcoin é incerto"
+- Tribunal: "Status legal de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é incerto"
 - Você: Provavelmente perde o dinheiro
 
 **Depois da lei:**
 - Polícia: "É roubo de propriedade, vamos investigar"
-- Tribunal: "Bitcoin é propriedade, deve ser devolvido"
+- Tribunal: "[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é propriedade, deve ser devolvido"
 - Você: Chances reais de recuperar
 
 ### Clareza em Heranças
@@ -173,13 +173,13 @@ Alguém hackeia sua carteira e rouba 10 BTC:
 **Cenário:** Você morre com 50 BTC
 
 **Antes da lei:**
-- Herdeiros: "Temos direito ao Bitcoin?"
+- Herdeiros: "Temos direito ao [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?"
 - Advogados: "Status legal incerto"
 - Tribunal: "Não há precedente claro"
 - Resultado: Disputa legal cara e longa
 
 **Depois da lei:**
-- Herdeiros: "Bitcoin é propriedade, está no testamento"
+- Herdeiros: "[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é propriedade, está no testamento"
 - Advogados: "Lei é clara, vocês têm direito"
 - Tribunal: "Transferência autorizada"
 - Resultado: Processo simples e rápido
@@ -189,13 +189,13 @@ Alguém hackeia sua carteira e rouba 10 BTC:
 **Cenário:** Casal se divorcia, marido tem 100 ETH
 
 **Antes:**
-- Esposa: "Quero metade do Ethereum"
-- Marido: "Ethereum não é propriedade legal"
+- Esposa: "Quero metade do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)"
+- Marido: "[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) não é propriedade legal"
 - Tribunal: "Não temos como decidir"
 - Resultado: Incerteza, possível injustiça
 
 **Depois:**
-- Esposa: "Ethereum é propriedade, quero metade"
+- Esposa: "[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) é propriedade, quero metade"
 - Tribunal: "Lei reconhece, divisão 50/50"
 - Resultado: Justiça e clareza
 
@@ -234,7 +234,7 @@ Você quer empréstimo de £100.000:
 
 ### Custódia Institucional
 
-**Impacto:** Bancos e instituições podem oferecer custódia de cripto com segurança jurídica
+**Impacto:** Bancos e instituições podem oferecer custódia de cripto com [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) jurídica
 
 **Antes:**
 - Bancos: "Não podemos custodiar cripto, status legal incerto"
@@ -259,8 +259,8 @@ Você quer empréstimo de £100.000:
 **Clareza:** 5/10
 
 **Situação:**
-- Bitcoin: Commodity (CFTC)
-- Ethereum: Incerto (SEC diz security, CFTC diz commodity)
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Commodity (CFTC)
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Incerto (SEC diz security, CFTC diz commodity)
 - Altcoins: Maioria considerada securities (SEC)
 
 ### União Europeia
@@ -334,7 +334,7 @@ Você quer empréstimo de £100.000:
 **Twitter/X:**
 - "UK just became the best place for crypto in Europe" - @CryptoWhale
 - "This is HUGE for institutional adoption" - @BitcoinMagazine
-- "Finally, my Bitcoin is legally recognized as MY property" - @UKCryptoInvestor
+- "Finally, my [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) is legally recognized as MY property" - @UKCryptoInvestor
 
 ## Casos de Uso Práticos
 
@@ -358,28 +358,28 @@ Você quer empréstimo de £100.000:
 **Situação:** Casal se divorcia, marido esconde 200 ETH
 
 **Antes da lei:**
-- Esposa: "Ele tem Ethereum escondido"
+- Esposa: "Ele tem [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) escondido"
 - Tribunal: "Não podemos ordenar revelação, status legal incerto"
 - Resultado: Marido mantém ETH escondido
 
 **Depois da lei:**
-- Esposa: "Ele tem Ethereum, é propriedade conjugal"
+- Esposa: "Ele tem [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), é propriedade conjugal"
 - Tribunal: "Revele todos os ativos cripto ou contempt of court"
 - Resultado: ETH dividido justamente
 
-### Caso 3: Herança de Bitcoin
+### Caso 3: Herança de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 **Situação:** Pai morre com 50 BTC, sem testamento
 
 **Antes da lei:**
-- Filhos: "Queremos o Bitcoin do pai"
+- Filhos: "Queremos o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) do pai"
 - Advogados: "Status legal incerto, pode ser complicado"
 - Processo: 2-3 anos de disputa legal
 - Resultado: Caro e demorado
 
 **Depois da lei:**
-- Filhos: "Bitcoin é propriedade, temos direito por lei de sucessão"
-- Tribunal: "Aprovado, Bitcoin dividido entre herdeiros"
+- Filhos: "[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é propriedade, temos direito por lei de sucessão"
+- Tribunal: "Aprovado, [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) dividido entre herdeiros"
 - Processo: 3-6 meses
 - Resultado: Rápido e justo
 
@@ -406,7 +406,7 @@ Você quer empréstimo de £100.000:
 
 **Próximas leis possíveis:**
 - Regulação de stablecoins
-- Framework para DeFi
+- Framework para [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Regras para DAOs
 - Tributação clarificada
 
@@ -431,7 +431,7 @@ Você quer empréstimo de £100.000:
 
 1. **Documente seus ativos:**
    - Liste todos os cripto que possui
-   - Guarde chaves privadas com segurança
+   - Guarde chaves privadas com [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
    - Considere testamento incluindo cripto
 
 2. **Atualize seguros:**
@@ -506,7 +506,7 @@ Você quer empréstimo de £100.000:
 
 **Provável.** UK estabeleceu modelo equilibrado que outros podem seguir. Austrália, Canadá e Singapura já demonstraram interesse.
 
-### 8. Isso é bom para o preço do Bitcoin?
+### 8. Isso é bom para o preço do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
 **Indiretamente, sim.** Clareza legal → mais adoção institucional → mais demanda → preço sobe. Mas é efeito de longo prazo.
 
@@ -514,9 +514,9 @@ Você quer empréstimo de £100.000:
 
 **Não imediatamente.** Lei afeta principalmente relações entre indivíduos e tribunais. Exchanges já operavam legalmente.
 
-### 10. Como isso afeta DeFi?
+### 10. Como isso afeta [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)?
 
-**Ainda incerto.** Lei cobre ativos, mas DeFi (protocolos descentralizados) pode precisar de regulação adicional no futuro.
+**Ainda incerto.** Lei cobre ativos, mas [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) (protocolos descentralizados) pode precisar de regulação adicional no futuro.
 
 ## Conclusão: Marco Histórico para Cripto
 
@@ -528,7 +528,7 @@ A aprovação do **Property (Digital Assets) Act** no Reino Unido é um **moment
 - ✅ Direitos de propriedade garantidos
 
 **Para empresas:**
-- ✅ Segurança jurídica para adotar cripto
+- ✅ [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) jurídica para adotar cripto
 - ✅ Novos produtos e serviços possíveis
 - ✅ Adoção institucional facilitada
 

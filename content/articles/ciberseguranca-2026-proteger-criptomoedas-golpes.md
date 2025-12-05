@@ -39,7 +39,7 @@ Para se defender, você precisa saber como é atacado.
 ### 1. Deepfakes de Voz e Vídeo
 Imagine receber uma videochamada no WhatsApp ou Telegram. É o rosto do seu amigo, é a voz dele, pedindo uma transferência urgente em cripto porque foi assaltado. Você transfere. Era um golpe.
 A IA generativa agora consegue clonar voz e rosto com poucos segundos de amostra.
-*   **A Defesa:** Combine uma "palavra de segurança" secreta com seus familiares e amigos próximos. Se alguém pedir dinheiro, pergunte a palavra. Se não souberem, desligue.
+*   **A Defesa:** Combine uma "palavra de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)" secreta com seus familiares e amigos próximos. Se alguém pedir dinheiro, pergunte a palavra. Se não souberem, desligue.
 
 ### 2. Phishing 2.0 (Spear Phishing com IA)
 Antigamente, e-mails de golpe tinham erros de português. Agora, a IA analisa suas redes sociais, descobre que você acabou de comprar uma Ledger, e te envia um e-mail perfeito, com o logo oficial, dizendo que "sua Ledger precisa de uma atualização de firmware urgente". O link leva a um site idêntico ao original.
@@ -50,9 +50,9 @@ Golpistas enviam transações de valor zero (ou ínfimo) para sua carteira, vind
 Eles esperam que, na pressa, você copie o endereço do histórico de transações ("Ah, vou mandar para aquele endereço que mandei ontem") e acabe copiando o endereço do golpista por engano.
 *   **A Defesa:** Verifique SEMPRE cada caractere do endereço, não apenas o começo e o fim. Ou melhor, use a agenda de contatos da sua wallet (Whitelist).
 
-## 🛡️ A Tríade da Segurança Cripto
+## 🛡️ A Tríade da [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) Cripto
 
-Não existe segurança 100%, mas podemos chegar a 99,9% com camadas de proteção.
+Não existe [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) 100%, mas podemos chegar a 99,9% com camadas de proteção.
 
 ### Camada 1: Cold Wallets (Armazenamento Frio)
 Para valores significativos (aquilo que você não pode perder), a regra é clara: **Offline**.
@@ -64,7 +64,7 @@ Dispositivos como Ledger, Trezor ou a nova geração de cartões NFC mantêm sua
 *   **Gerenciadores de Senha:** Use Bitwarden ou 1Password. Senhas únicas e complexas para cada site. "123456" ou "Data de Nascimento" é pedir para ser hackeado.
 
 ### Camada 3: Verificação de Contratos
-Antes de conectar sua carteira em um site DeFi ou mintar um NFT:
+Antes de conectar sua carteira em um site [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) ou mintar um NFT:
 *   Use extensões de navegador como **Pocket Universe** ou **Wallet Guard**. Elas simulam a transação e te avisam: "Cuidado! Essa transação vai dar permissão para drenar todos os seus USDT".
 *   Revogue permissões antigas regularmente (sites como Revoke.cash).
 
@@ -100,4 +100,4 @@ Seu patrimônio é o fruto do seu tempo de vida. Protegê-lo não é uma opção
 
 **Última atualização:** 05 de dezembro de 2025
 
-*Disclaimer: Segurança é um processo contínuo. Mantenha-se sempre atualizado sobre novas ameaças.*
+*Disclaimer: [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) é um processo contínuo. Mantenha-se sempre atualizado sobre novas ameaças.*

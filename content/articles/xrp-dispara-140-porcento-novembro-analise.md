@@ -23,7 +23,7 @@ seo:
 
 # XRP Dispara 140% em Novembro - Análise do Rally e Próximos Alvos
 
-**30 de novembro de 2025** - XRP protagonizou um dos rallies mais impressionantes de novembro, **disparando 140%** e saindo de $0,58 no início do mês para $1,40 hoje. O token da Ripple superou Bitcoin (+8%) e Ethereum (+12%) em performance, reconquistando a posição de **3ª maior criptomoeda** por market cap.
+**30 de novembro de 2025** - XRP protagonizou um dos rallies mais impressionantes de novembro, **disparando 140%** e saindo de $0,58 no início do mês para $1,40 hoje. O token da Ripple superou [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (+8%) e [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (+12%) em performance, reconquistando a posição de **3ª maior criptomoeda** por market cap.
 
 ## O Rally em Números
 
@@ -42,8 +42,8 @@ seo:
 | **XRP** | $0,58 | $1,40 | **+140,7%** |
 | **Solana** | $210 | $240 | +14,3% |
 | **BNB** | $610 | $650 | +6,6% |
-| **Ethereum** | $3.280 | $3.680 | +12,2% |
-| **Bitcoin** | $89.500 | $97.200 | +8,6% |
+| **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)** | $3.280 | $3.680 | +12,2% |
+| **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)** | $89.500 | $97.200 | +8,6% |
 
 **XRP foi o grande vencedor de novembro entre as top 10.**
 
@@ -189,7 +189,7 @@ seo:
 
 **Impacto limitado.** XRP tem utilidade independente via RippleNet.
 
-### 4. XRP vai superar Ethereum?
+### 4. XRP vai superar [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)?
 
 **Improvável em market cap.** Mas pode ter melhor performance percentual.
 
@@ -202,7 +202,7 @@ seo:
 
 **Parcialmente.** Ripple tem influência, mas rede tem 150+ validadores independentes.
 
-### 7. Qual exchange usar?
+### 7. Qual [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) usar?
 
 **Principais:** Binance, Bitget, Coinbase, Kraken
 
@@ -210,9 +210,9 @@ seo:
 
 **Improvável no curto prazo.** Suporte forte em $1,00.
 
-### 9. XRP é melhor que Bitcoin?
+### 9. XRP é melhor que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
-**Casos de uso diferentes.** Bitcoin = reserva de valor, XRP = pagamentos.
+**Casos de uso diferentes.** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) = reserva de valor, XRP = pagamentos.
 
 ### 10. Vale a pena investir agora?
 

@@ -25,11 +25,11 @@ seo:
 
 A Receita Federal brasileira está cada vez mais atenta às operações com criptomoedas. Em 2025, as regras estão mais claras e a fiscalização mais rigorosa. **Não declarar criptomoedas pode resultar em multas de até 225% do imposto devido**, além de processos criminais por sonegação.
 
-Neste guia completo e atualizado, você vai aprender tudo sobre como declarar Bitcoin, altcoins, DeFi, staking, NFTs e outras operações com criptomoedas no Imposto de Renda 2025. Vamos cobrir desde o básico até situações complexas, sempre com exemplos práticos.
+Neste guia completo e atualizado, você vai aprender tudo sobre como declarar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), altcoins, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), NFTs e outras operações com criptomoedas no Imposto de Renda 2025. Vamos cobrir desde o básico até situações complexas, sempre com exemplos práticos.
 
 ## 📋 Regras Básicas da Receita Federal
 
-<InlineAffiliateCTA text="Invista em cripto de forma legal e declare corretamente" exchange="all" variant="secondary" />
+<InlineAffiliateCTA text="Invista em cripto de forma legal e declare corretamente" [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)="all" variant="secondary" />
 
 ### Quem Precisa Declarar?
 
@@ -44,14 +44,14 @@ Neste guia completo e atualizado, você vai aprender tudo sobre como declarar Bi
 ### O Que Deve Ser Declarado?
 
 **Obrigatório declarar:**
-- Bitcoin, Ethereum e todas altcoins
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) e todas altcoins
 - Stablecoins (USDT, USDC, DAI)
 - NFTs (Non-Fungible Tokens)
-- Tokens DeFi
+- Tokens [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Criptomoedas em exchanges brasileiras
 - Criptomoedas em exchanges estrangeiras
 - Criptomoedas em carteiras próprias (cold/hot wallets)
-- Staking, lending, yield farming
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), lending, yield farming
 - Airdrops e forks
 
 ### Tributação: Alíquotas e Isenções
@@ -85,7 +85,7 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 ```
 
 **Custos dedutíveis:**
-- Taxas de exchange (trading fees)
+- Taxas de [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) (trading fees)
 - Taxas de rede (gas fees)
 - Custos de transferência
 
@@ -94,7 +94,7 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 **Operação:**
 - Comprou 1 BTC por R$100.000 (janeiro)
 - Vendeu 1 BTC por R$150.000 (março)
-- Taxa da exchange: R$300
+- Taxa da [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas): R$300
 
 **Cálculo:**
 - Ganho = R$150.000 - R$100.000 - R$300
@@ -149,20 +149,20 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 **Localização no programa:**
 - Ficha: "Bens e Direitos"
 - Grupo: "08 - Criptoativos"
-- Código: "01 - Criptoativo Bitcoin (BTC)"
+- Código: "01 - Criptoativo [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (BTC)"
 - Código: "02 - Outros criptoativos (altcoins)"
 
 **Como preencher:**
 
-**Exemplo Bitcoin:**
-- Código: 08 - Criptoativos / 01 - Bitcoin
+**Exemplo [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):**
+- Código: 08 - Criptoativos / 01 - [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Localização: Brasil ou Exterior (onde está custodiado)
-- CNPJ: Da exchange (se aplicável)
+- CNPJ: Da [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) (se aplicável)
 - Discriminação: "1,5 BTC custodiados na Binance"
 - Situação em 31/12/2023: R$150.000
 - Situação em 31/12/2024: R$180.000
 
-**Exemplo Ethereum:**
+**Exemplo [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 - Código: 08 - Criptoativos / 02 - Outros
 - Discriminação: "10 ETH custodiados em carteira própria (cold wallet)"
 - Situação em 31/12/2023: R$75.000
@@ -191,24 +191,24 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 
 ### Passo 4: Declare Rendimentos (se aplicável)
 
-**Para staking, lending, airdrops:**
+**Para [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), lending, airdrops:**
 
 **Localização:**
 - Ficha: "Rendimentos Tributáveis Recebidos de PF/Exterior"
 
 **Como preencher:**
-- Fonte pagadora: Exchange ou protocolo
+- Fonte pagadora: [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) ou protocolo
 - Valor: Total recebido no ano
 - Tributação: Tabela progressiva (0-27,5%)
 
 **Exemplo:**
-- Recebeu R$5.000 em rewards de staking
+- Recebeu R$5.000 em rewards de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Declare como rendimento tributável
 - Será tributado conforme tabela progressiva
 
 ## 🔄 Situações Especiais
 
-### DeFi (Finanças Descentralizadas)
+### [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) (Finanças Descentralizadas)
 
 **Como declarar:**
 - **Tokens em protocolos:** Bens e Direitos (código 02)
@@ -216,13 +216,13 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 - **Impermanent Loss:** Pode ser considerado prejuízo
 - **Swaps:** Cada swap é uma venda + compra
 
-**Exemplo DeFi:**
+**Exemplo [defi](/artigo/defi-yield-farming-protocolos-seguros-2026):**
 - Depositou R$10.000 USDC no Aave
 - Ganhou R$500 em juros
 - Declare: R$500 como rendimento tributável
 - Declare: Saldo de USDC em Bens e Direitos
 
-### Staking
+### [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
 **Tributação:**
 - **Rewards:** Rendimento tributável (tabela progressiva)
@@ -397,7 +397,7 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 **CoinTracker:**
 - Similar ao Koinly
 - Interface amigável
-- Suporte a DeFi
+- Suporte a [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
 - Custo: $59-199/ano
 
 **BitcoinTaxes:**
@@ -434,11 +434,11 @@ Para comprar criptomoedas de forma legal e declarar corretamente, use exchanges 
 
 ### 3. Como declarar criptomoedas em exchanges estrangeiras?
 
-**Resposta:** Igual às brasileiras. Em "Bens e Direitos", código 08, marque "Localização: Exterior", informe o país da exchange e descreva: "X BTC na Binance (Malta)". Use cotação em reais na data 31/12.
+**Resposta:** Igual às brasileiras. Em "Bens e Direitos", código 08, marque "Localização: Exterior", informe o país da [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) e descreva: "X BTC na Binance (Malta)". Use cotação em reais na data 31/12.
 
-### 4. Staking e DeFi são tributados?
+### 4. [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) e [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) são tributados?
 
-**Resposta:** **Sim**. Rewards de staking, juros de lending e ganhos de yield farming são considerados **rendimentos tributáveis** (tabela progressiva 0-27,5%). Declare na ficha "Rendimentos Tributáveis Recebidos de PF/Exterior".
+**Resposta:** **Sim**. Rewards de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), juros de lending e ganhos de yield farming são considerados **rendimentos tributáveis** (tabela progressiva 0-27,5%). Declare na ficha "Rendimentos Tributáveis Recebidos de PF/Exterior".
 
 ### 5. Posso compensar prejuízos de anos anteriores?
 
@@ -462,7 +462,7 @@ Para comprar criptomoedas de forma legal e declarar corretamente, use exchanges 
 
 ### 10. Vale a pena contratar contador especializado?
 
-**Resposta:** **Sim**, se: (1) Movimenta valores altos (>R$100k), (2) Faz muitas operações, (3) Usa DeFi/staking, (4) Tem dúvidas. Custo: R$500-2.000. Evita erros que podem custar muito mais.
+**Resposta:** **Sim**, se: (1) Movimenta valores altos (>R$100k), (2) Faz muitas operações, (3) Usa [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)/staking, (4) Tem dúvidas. Custo: R$500-2.000. Evita erros que podem custar muito mais.
 
 ## 🎯 Conclusão
 
@@ -474,7 +474,7 @@ Declarar criptomoedas no Imposto de Renda 2025 não é complicado se você segui
 - ✅ Ganhos acima: 15-22,5% de imposto
 - ✅ Pague DARF mensal se necessário
 - ✅ Declare em "Bens e Direitos" (código 08)
-- ✅ Staking/DeFi: rendimentos tributáveis
+- ✅ [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)/DeFi: rendimentos tributáveis
 - ✅ Guarde todos comprovantes por 5 anos
 - ✅ Use ferramentas para facilitar cálculos
 - ✅ Considere contador especializado

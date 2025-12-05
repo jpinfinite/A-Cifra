@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'analise-tecnica-indicadores'
 slug: 'analise-tecnica-indicadores-essenciais-cripto'
 title: "Análise Técnica: Indicadores Essenciais para Cripto"
@@ -365,7 +365,7 @@ Análise técnica estuda movimentos de preço históricos para prever movimentos
 
 ### Plataformas de Gráficos
 - **TradingView**: Mais popular
-- **Coinigy**: Multi-exchange
+- **Coinigy**: Multi-[exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
 - **CryptoWatch**: Profissional
 
 ### Indicadores Customizados

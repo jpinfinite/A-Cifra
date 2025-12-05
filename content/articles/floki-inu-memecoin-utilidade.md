@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'floki-inu'
 title: 'Floki Inu: A Memecoin Com Utilidade Real'
 slug: 'floki-inu-memecoin-utilidade'
@@ -54,7 +54,7 @@ Jogo play-to-earn no metaverso:
 - Serviço para outros projetos
 - Gera receita para o ecossistema
 
-**Staking:**
+**[staking](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 - Stake de FLOKI
 - Recompensas em tokens
 

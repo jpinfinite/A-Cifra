@@ -21,7 +21,7 @@ seo:
   keywords: ['microstrategy msci', 'mstr remoção', 'michael saylor', 'bitcoin treasury', 'msci index']
 ---
 
-**3 de dezembro de 2025** - A **MicroStrategy (MSTR)** enfrenta uma ameaça significativa: possível **remoção do índice MSCI**, o que poderia desencadear **saídas de até $8,8 bilhões** de fundos passivos que rastreiam o índice. A notícia, reportada pela Reuters, coloca em risco a estratégia agressiva de acumulação de Bitcoin da empresa liderada por Michael Saylor.
+**3 de dezembro de 2025** - A **MicroStrategy (MSTR)** enfrenta uma ameaça significativa: possível **remoção do índice MSCI**, o que poderia desencadear **saídas de até $8,8 bilhões** de fundos passivos que rastreiam o índice. A notícia, reportada pela Reuters, coloca em risco a estratégia agressiva de acumulação de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) da empresa liderada por Michael Saylor.
 
 ## O Que Está Acontecendo?
 
@@ -105,7 +105,7 @@ seo:
 - Rally de alívio: +10-15%
 - Preço alvo: $420-$440
 
-### Estratégia de Bitcoin
+### Estratégia de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 **MicroStrategy possui:**
 - 386.700 BTC
@@ -136,7 +136,7 @@ seo:
 
 **1. Não é negócio tradicional**
 - MicroStrategy era empresa de software
-- Agora é basicamente fundo de Bitcoin
+- Agora é basicamente fundo de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Não se encaixa em categoria "tech"
 
 **2. Volatilidade extrema**
@@ -145,13 +145,13 @@ seo:
 - Risco para fundos passivos
 
 **3. Risco de concentração**
-- 90%+ do valor é Bitcoin
+- 90%+ do valor é [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Se BTC cai, MSTR despenca
 - Não é diversificação
 
 **4. Precedente perigoso**
 - Se permitir MSTR, outras empresas podem copiar
-- "Vamos comprar Bitcoin e entrar no S&P 500"
+- "Vamos comprar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e entrar no S&P 500"
 - Índices perdem significado
 
 ### Contra-Argumentos
@@ -159,21 +159,21 @@ seo:
 **1. MicroStrategy ainda tem negócio de software**
 - Receita anual: $500M
 - Lucro operacional: $100M
-- Não é apenas holding de Bitcoin
+- Não é apenas holding de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
-**2. Investidores querem exposição a Bitcoin**
+**2. Investidores querem exposição a [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)**
 - MSTR é forma de investir em BTC via ações
 - Demanda é real
 - Por que MSCI deve decidir?
 
 **3. Precedente de outras empresas**
-- Tesla tem $1B em Bitcoin
-- Square (Block) tem Bitcoin
+- Tesla tem $1B em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+- Square (Block) tem [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Por que só MSTR é penalizada?
 
 **4. Discriminação contra cripto**
 - MSCI permite empresas de ouro, petróleo
-- Por que Bitcoin é diferente?
+- Por que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é diferente?
 - Parece viés anti-cripto
 
 ## Reação de Michael Saylor
@@ -187,7 +187,7 @@ seo:
 > "Se fundos passivos não querem MSTR, fundos ativos vão comprar. Não estamos preocupados."
 
 **Podcast (1 de dezembro):**
-> "Bitcoin é o melhor ativo de tesouraria. Empresas que não entendem isso vão ficar para trás."
+> "[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é o melhor ativo de tesouraria. Empresas que não entendem isso vão ficar para trás."
 
 ### Estratégia de Resposta
 
@@ -200,7 +200,7 @@ seo:
 
 2. **Comunicação com investidores**
    - Explicar estratégia de longo prazo
-   - Reforçar convicção em Bitcoin
+   - Reforçar convicção em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
    - Tranquilizar sobre volatilidade
 
 3. **Preparar para saídas**
@@ -208,7 +208,7 @@ seo:
    - Possível buyback de ações
    - Fortalecer balanço
 
-## Impacto no Bitcoin
+## Impacto no [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
 ### Correlação MSTR-BTC
 
@@ -218,7 +218,7 @@ seo:
 - Correlação: 0,85 (muito alta)
 
 **Se MSTR cair 20%:**
-- Bitcoin pode cair 5-10%
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) pode cair 5-10%
 - Efeito psicológico negativo
 - "MicroStrategy em problemas" = FUD
 
@@ -226,10 +226,10 @@ seo:
 
 **Cenário extremo:**
 
-Se MSTR for forçada a vender Bitcoin:
+Se MSTR for forçada a vender [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):
 - 386.700 BTC no mercado
 - Supply shock negativo
-- Bitcoin pode cair 30-50%
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) pode cair 30-50%
 
 **Probabilidade:** <5% (muito improvável)
 
@@ -237,7 +237,7 @@ Se MSTR for forçada a vender Bitcoin:
 
 ### Oportunidade de Compra?
 
-**Se Bitcoin cair por FUD de MSTR:**
+**Se [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) cair por FUD de MSTR:**
 
 **Argumentos bull:**
 - Fundamentos de BTC intactos
@@ -315,7 +315,7 @@ Se MSTR for forçada a vender Bitcoin:
 **Cenário 2: MSTR é mantida (35%)**
 - Rally de alívio +15%
 - Continua em índices
-- Estratégia de Bitcoin continua
+- Estratégia de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) continua
 
 **Cenário 3: Categoria especial (25%)**
 - MSCI cria categoria "Digital Asset Treasury"
@@ -339,8 +339,8 @@ Se MSTR for forçada a vender Bitcoin:
 
 **Opção 3: Venda total**
 - Se não aguenta volatilidade
-- Compre Bitcoin diretamente
-- Ou ETF de Bitcoin (IBIT)
+- Compre [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) diretamente
+- Ou ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (IBIT)
 
 ### Se Quer Comprar MSTR
 
@@ -354,12 +354,12 @@ Se MSTR for forçada a vender Bitcoin:
 
 ### Alternativas a MSTR
 
-**1. ETF de Bitcoin (IBIT)**
+**1. ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (IBIT)**
 - Exposição direta a BTC
 - Sem risco de índice
 - Taxa: 0,25%
 
-**2. Bitcoin direto**
+**2. [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) direto**
 - Custódia própria
 - Sem risco de empresa
 - Mais controle
@@ -377,7 +377,7 @@ Se MSTR for forçada a vender Bitcoin:
 
 **Não é certo.** MSCI está consultando, decisão final em janeiro. Probabilidade: 40-50%.
 
-### 2. Se removida, MSTR vai vender Bitcoin?
+### 2. Se removida, MSTR vai vender [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
 **Muito improvável.** Saylor é convicto holder. Não há obrigação legal de vender.
 
@@ -385,7 +385,7 @@ Se MSTR for forçada a vender Bitcoin:
 
 **Se removida:** 20-30% no curto prazo. **Recuperação:** 6-12 meses.
 
-### 4. Isso afeta o preço do Bitcoin?
+### 4. Isso afeta o preço do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 
 **Sim, mas temporariamente.** FUD pode causar queda de 5-10%. Fundamentos intactos.
 
@@ -399,7 +399,7 @@ Se MSTR for forçada a vender Bitcoin:
 
 ### 7. Outras empresas serão afetadas?
 
-**Sim.** MARA, RIOT e outras mineradoras com Bitcoin podem ser removidas também.
+**Sim.** MARA, RIOT e outras mineradoras com [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) podem ser removidas também.
 
 ### 8. Por que MSCI está fazendo isso?
 
@@ -407,11 +407,11 @@ Se MSTR for forçada a vender Bitcoin:
 
 ### 9. Saylor vai mudar estratégia?
 
-**Improvável.** Ele é extremamente convicto em Bitcoin. Pode pausar compras temporariamente, mas não vai vender.
+**Improvável.** Ele é extremamente convicto em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional). Pode pausar compras temporariamente, mas não vai vender.
 
-### 10. Vale mais a pena MSTR ou Bitcoin direto?
+### 10. Vale mais a pena MSTR ou [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) direto?
 
-**Bitcoin direto** tem menos risco corporativo. **MSTR** oferece leverage (sobe mais em bull market). Depende do perfil.
+**[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) direto** tem menos risco corporativo. **MSTR** oferece leverage (sobe mais em bull market). Depende do perfil.
 
 ## Conclusão: Tempestade Temporária
 
@@ -425,9 +425,9 @@ A possível remoção do MSCI é um **desafio significativo** para MicroStrategy
 **Oportunidades:**
 - ✅ Fundos ativos podem comprar
 - ✅ Preço mais baixo = oportunidade
-- ✅ Estratégia de Bitcoin intacta
+- ✅ Estratégia de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) intacta
 
-**Nossa opinião:** Tempestade temporária. Saylor não vai mudar estratégia. MSTR pode cair no curto prazo, mas se recupera no longo prazo. Para holders de Bitcoin, é ruído.
+**Nossa opinião:** Tempestade temporária. Saylor não vai mudar estratégia. MSTR pode cair no curto prazo, mas se recupera no longo prazo. Para holders de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), é ruído.
 
 **MicroStrategy sobreviveu a coisas piores. Vai sobreviver a isso também.** 💪
 
@@ -438,7 +438,7 @@ A possível remoção do MSCI é um **desafio significativo** para MicroStrategy
 ---
 
 **Leia também:**
-- [Michael Saylor e a Estratégia Bitcoin da MicroStrategy](/categoria/bitcoin)
-- [Como Investir em Bitcoin: Direto vs ETF vs MSTR](/categoria/educacao)
-- [Mineradoras de Bitcoin: Análise e Comparação](/categoria/bitcoin)
+- [Michael Saylor e a Estratégia [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) da MicroStrategy](/categoria/bitcoin)
+- [Como Investir em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Direto vs ETF vs MSTR](/categoria/educacao)
+- [Mineradoras de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Análise e Comparação](/categoria/bitcoin)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'cripto-gaming-gamefi-2026'
 title: "Cripto Gaming e GameFi 2026: Jogos Blockchain Finalmente Mainstream"
 slug: 'cripto-gaming-gamefi-2026'
@@ -31,7 +31,7 @@ seo:
 
 **CryptoKitties (2017):**
 - Primeiro jogo blockchain viral
-- Congestionou Ethereum
+- Congestionou [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Provou conceito de NFTs
 
 **Axie Infinity (2020-2021):**
@@ -171,7 +171,7 @@ Valor vem de demanda real, não de novos jogadores.
 ### 2. Illuvium
 
 **Gênero:** RPG Open-World + Auto-battler
-**Blockchain:** Immutable X (Ethereum L2)
+**Blockchain:** Immutable X ([ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) L2)
 **Estilo:** Pokémon meets Skyrim
 
 **Características:**
@@ -185,7 +185,7 @@ Valor vem de demanda real, não de novos jogadores.
 - Illuvials são NFTs
 - Terras são NFTs
 - Token ILV para governança
-- Staking de ILV
+- [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de ILV
 
 **Números:**
 - $100+ milhões investidos
@@ -195,7 +195,7 @@ Valor vem de demanda real, não de novos jogadores.
 ### 3. Big Time
 
 **Gênero:** MMO Action RPG
-**Blockchain:** Ethereum + Polygon
+**Blockchain:** [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) + Polygon
 **Estilo:** World of Warcraft meets Fortnite
 
 **Características:**
@@ -218,7 +218,7 @@ Valor vem de demanda real, não de novos jogadores.
 ### 4. Parallel
 
 **Gênero:** Card Game (TCG)
-**Blockchain:** Ethereum
+**Blockchain:** [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 **Estilo:** Magic: The Gathering + Hearthstone
 
 **Características:**
@@ -264,7 +264,7 @@ Valor vem de demanda real, não de novos jogadores.
 ### 6. The Sandbox
 
 **Gênero:** Metaverso / Criação
-**Blockchain:** Ethereum + Polygon
+**Blockchain:** [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) + Polygon
 **Estilo:** Minecraft + Roblox
 
 **Características:**
@@ -360,7 +360,7 @@ Meritocrático, não pay-to-win.
 ### Blockchains para Jogos
 
 **1. Immutable X**
-- Layer 2 do Ethereum
+- Layer 2 do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Zero gas fees
 - 9.000+ TPS
 - Foco em gaming e NFTs
@@ -371,7 +371,7 @@ Meritocrático, não pay-to-win.
 - Guild of Guardians
 
 **2. Ronin**
-- Sidechain do Ethereum
+- Sidechain do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Criada para Axie Infinity
 - Baixas taxas
 - Rápida
@@ -382,9 +382,9 @@ Meritocrático, não pay-to-win.
 - Apeiron
 
 **3. Polygon**
-- Layer 2 do Ethereum
+- Layer 2 do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Baixas taxas ($0.01)
-- Compatível com Ethereum
+- Compatível com [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 - Ampla adoção
 
 **Jogos:**
@@ -459,7 +459,7 @@ Jogador nem sabe que está usando blockchain.
 ### Desafio 2: Escalabilidade
 
 **Problema:**
-- Ethereum lento (15 TPS)
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) lento (15 TPS)
 - Caro ($10-50 por transação)
 - Não suporta jogos
 

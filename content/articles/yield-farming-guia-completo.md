@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'yield-farming-guia'
 title: 'Yield Farming: Guia Completo para Maximizar Rendimentos em DeFi'
 slug: 'yield-farming-guia-completo'
@@ -31,11 +31,11 @@ seo:
     - 'farming estratégias'
 ---
 
-**Yield Farming** é uma das formas mais populares de ganhar rendimentos passivos em DeFi, mas requer conhecimento e gestão de riscos.
+**Yield Farming** é uma das formas mais populares de ganhar rendimentos passivos em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), mas requer conhecimento e gestão de riscos.
 
 ## O Que é Yield Farming?
 
-Yield farming é o processo de emprestar ou fornecer liquidez para protocolos DeFi em troca de recompensas, geralmente em forma de tokens.
+Yield farming é o processo de emprestar ou fornecer liquidez para protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) em troca de recompensas, geralmente em forma de tokens.
 
 ## Como Funciona?
 
@@ -46,7 +46,7 @@ Yield farming é o processo de emprestar ou fornecer liquidez para protocolos De
 
 ## Principais Plataformas
 
-**Ethereum:**
+**[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):**
 - Uniswap
 - Curve Finance
 - Aave
@@ -157,7 +157,7 @@ Yield farming é o processo de emprestar ou fornecer liquidez para protocolos De
 - Autofarm
 
 **Trackers:**
-- DeFi Llama
+- [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Llama
 - APY.vision
 - Zapper.fi
 

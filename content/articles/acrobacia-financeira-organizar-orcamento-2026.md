@@ -85,7 +85,7 @@ Se você tem dívidas, elas são sua prioridade número zero. Juros compostos co
 
 ## 🛡️ Passo 4: Construindo a Muralha (Reserva de Emergência)
 
-Você saiu do vermelho? Ótimo. Antes de pensar em investir em Bitcoin ou ações, você precisa de proteção.
+Você saiu do vermelho? Ótimo. Antes de pensar em investir em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) ou ações, você precisa de proteção.
 
 A Reserva de Emergência deve cobrir de 3 a 6 meses do seu custo de vida (aquele que calculamos no Passo 1).
 *   **Onde guardar:** Tesouro Selic, CDB com liquidez diária (100% do CDI) ou contas digitais remuneradas.
@@ -102,9 +102,9 @@ Uma sugestão de divisão do orçamento para 2026:
 *   **20% Investimentos:** O dinheiro do seu "eu do futuro".
 
 ### O Papel das Criptomoedas
-Criptomoedas, como Bitcoin, podem ser um acelerador de patrimônio, mas exigem cautela.
+Criptomoedas, como [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), podem ser um acelerador de patrimônio, mas exigem cautela.
 *   **Diversificação:** Não coloque todos os ovos na mesma cesta. Tenha Renda Fixa, Ações e Cripto.
-*   **Dollar Cost Averaging (DCA):** Em vez de tentar acertar a hora de comprar, compre um pouco todo mês. R$ 100 em Bitcoin todo mês, faça chuva ou faça sol. Isso suaviza a volatilidade.
+*   **Dollar Cost Averaging (DCA):** Em vez de tentar acertar a hora de comprar, compre um pouco todo mês. R$ 100 em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) todo mês, faça chuva ou faça sol. Isso suaviza a volatilidade.
 
 ## ⚠️ Erros Comuns para Evitar em 2026
 
@@ -129,7 +129,7 @@ Comece hoje. Não espere a segunda-feira, não espere 2026. Abra sua planilha, e
 
 ## 📚 Próximos Passos
 
-- [Como Começar a Investir em Bitcoin com R$ 50](/artigo/como-comecar-investir-bitcoin)
+- [Como Começar a Investir em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) com R$ 50](/artigo/como-comecar-investir-bitcoin)
 - [Melhores Apps de Controle Financeiro](/artigo/melhores-apps-controle-financeiro)
 - [O Que é Reserva de Emergência e Onde Investir](/artigo/reserva-emergencia-onde-investir)
 

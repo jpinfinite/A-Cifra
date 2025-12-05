@@ -58,7 +58,7 @@ Segundo análise divulgada pelo **Trading Desk**, o mais recente relatório do G
 Dentre os elementos que aceleram a pressão por uma solução estão:
 
 #### 1. Prejuízos a Serviços Essenciais
-**Controladores de tráfego aéreo** e **agentes de segurança dos aeroportos** já perderam o primeiro pagamento em **28 de outubro**, elevando o risco de atrasos massivos em viagens aéreas. 
+**Controladores de tráfego aéreo** e **agentes de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) dos aeroportos** já perderam o primeiro pagamento em **28 de outubro**, elevando o risco de atrasos massivos em viagens aéreas. 
 
 A experiência do *shutdown* de **2018-2019** mostrou que atrasos desse tipo são forte catalisador para a retomada das atividades governamentais — naquela ocasião, o caos nos aeroportos foi decisivo para o fim do impasse.
 
@@ -184,7 +184,7 @@ Todos os *shutdowns* modernos seguem um padrão:
 - **Commodities:** Ouro e petróleo tendem a subir
 
 ### Criptomoedas
-- **Bitcoin:** Historicamente se beneficia de cortes de juros
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** Historicamente se beneficia de cortes de juros
 - **Liquidez:** Mais dinheiro no sistema favorece ativos de risco
 - **Correlação:** BTC tem seguido mercado de ações recentemente
 

@@ -34,7 +34,7 @@ Até agora, lucros com cripto no Japão eram taxados como "renda diversa", com a
 
 O Japão é a terceira maior economia do mundo e tem uma população altamente tecnificada. A alta carga tributária mantinha trilhões de ienes fora do mercado cripto.
 
-1.  **Fluxo de Capital:** Analistas estimam que bilhões de dólares em poupança japonesa podem migrar para o Bitcoin e Ethereum agora que a penalidade fiscal foi removida.
+1.  **Fluxo de Capital:** Analistas estimam que bilhões de dólares em poupança japonesa podem migrar para o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) agora que a penalidade fiscal foi removida.
 2.  **Sinal Verde Institucional:** Empresas japonesas (como a Sony e a Metaplanet) já estavam investindo em Web3. Agora, o caminho está livre para corporações manterem cripto em balanço sem medo do leão japonês.
 
 ## O Efeito Contágio

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 'dogecoin-historia'
 title: 'Dogecoin: A História da Memecoin Que Virou Fenômeno Global'
 slug: 'dogecoin-historia-e-futuro'
@@ -35,11 +35,11 @@ O **Dogecoin (DOGE)** começou como uma piada em 2013 e se tornou uma das cripto
 
 ## A Origem (2013)
 
-Criado por Billy Markus e Jackson Palmer como sátira ao Bitcoin, o Dogecoin usava o meme do cachorro Shiba Inu que era viral na época.
+Criado por Billy Markus e Jackson Palmer como sátira ao [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), o Dogecoin usava o meme do cachorro Shiba Inu que era viral na época.
 
 **Objetivo Original:**
 - Ser uma criptomoeda "divertida"
-- Mais acessível que Bitcoin
+- Mais acessível que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 - Comunidade amigável
 
 ## A Ascensão
