@@ -1,0 +1,46 @@
+{
+  "date": "2025-12-05T17:13:57.187Z",
+  "trending": [
+    {
+      "keyword": "Bitcoin previsão 2026",
+      "searchVolume": 12500,
+      "trend": "rising",
+      "category": "bitcoin",
+      "relevance": 95
+    },
+    {
+      "keyword": "Melhores altcoins para investir",
+      "searchVolume": 8900,
+      "trend": "stable",
+      "category": "altcoins",
+      "relevance": 88
+    },
+    {
+      "keyword": "Como comprar criptomoedas",
+      "searchVolume": 15600,
+      "trend": "rising",
+      "category": "educacao",
+      "relevance": 92
+    },
+    {
+      "keyword": "Staking Ethereum rendimento",
+      "searchVolume": 5400,
+      "trend": "rising",
+      "category": "defi",
+      "relevance": 85
+    },
+    {
+      "keyword": "Regulação cripto Brasil 2026",
+      "searchVolume": 3200,
+      "trend": "explosive",
+      "category": "regulacao",
+      "relevance": 78
+    }
+  ],
+  "suggestions": [],
+  "stats": {
+    "totalTrending": 5,
+    "totalExisting": 195,
+    "newSuggestions": 0
+  }
+}
