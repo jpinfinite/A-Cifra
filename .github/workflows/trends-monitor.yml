@@ -1,0 +1,51 @@
+# Workflow de Monitoramento de Tendências
+#Executa o monitor de tendências diariamente e cria issue com sugestões
+
+name: Daily Trends Monitor
+
+on:
+  schedule:
+    # Roda todo dia às 8h AM (horário de Brasília)
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+jobs:
+  monitor-trends:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run trends monitor
+        run: |
+          node scripts/monitor-tendencias.js
+
+      - name: Create suggestions issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('data/trending-report.json', 'utf8'));
+
+            const suggestions = report.suggestions.map((sug, idx) =>
+              `${idx + 1}. **${sug.title}**\n   - Categoria: ${sug.category}\n   - Prioridade: ${sug.priority}\n   - Tráfego estimado: ${sug.estimatedTraffic.toLocaleString()}`
+            ).join('\n\n');
+
+            const issueBody = `## 💡 Sugestões de Artigos (${new Date().toLocaleDateString('pt-BR')})\n\n${suggestions}\n\n---\n\nPara gerar automaticamente, execute:\n\`\`\`bash\nnode scripts/gerar-artigos-batch.js\n\`\`\``;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📊 Sugestões de Artigos - ${new Date().toLocaleDateString('pt-BR')}`,
+              body: issueBody,
+              labels: ['content-suggestions', 'automation']
+            });

@@ -1,0 +1,81 @@
+# Workflow de Otimização SEO Semanal
+# Otimiza SEO de todos os artigos semanalmente
+
+name: Weekly SEO Optimization
+
+on:
+  schedule:
+    # Roda toda segunda-feira às 9h AM
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+
+jobs:
+  optimize-seo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run SEO optimizer
+        run: |
+          node scripts/otimizar-seo-batch.js
+
+      - name: Check for changes
+        id: check
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          if git diff --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check.outputs.has_changes == 'true'
+        run: |
+          git add content/articles/*.md
+          git add data/seo-optimization-report.json
+          git commit -m "chore: Otimização automática de SEO [skip ci]"
+          git push
+
+      - name: Create report comment
+        if: steps.check.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('data/seo-optimization-report.json', 'utf8'));
+
+            const comment = `## 🔍 Relatório de Otimização SEO\n\n` +
+              `✅ ${report.totalArticles} artigos analisados\n` +
+              `🔗 ${report.totalLinksAdded} links internos adicionados\n` +
+              `⚠️ ${report.totalIssues} problemas identificados\n` +
+              `💡 ${report.totalSuggestions} sugestões de melhoria\n\n` +
+              `📄 Relatório completo: \`data/seo-optimization-report.json\``;
+
+            // Find the latest commit
+            const commits = await github.rest.repos.listCommits({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 1
+            });
+
+            await github.rest.repos.createCommitComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              commit_sha: commits.data[0].sha,
+              body: comment
+            });

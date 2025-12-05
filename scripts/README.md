@@ -1,92 +1,161 @@
-# 🛠️ Scripts do A Cifra
+# 🤖 Sistema de Automação - A Cifra
 
-Coleção completa de scripts utilitários para automação, validação e otimização do projeto A Cifra.
+Este diretório contém scripts de automação para geração e otimização de conteúdo.
 
-## 📋 Índice
+## 📋 Scripts Disponíveis
 
-- [Scripts de Validação](#scripts-de-validação)
-- [Scripts de Otimização](#scripts-de-otimização)
-- [Scripts de Automação](#scripts-de-automação)
-- [Como Usar](#como-usar)
+### 1. Monitor de Tendências
+```bash
+node scripts/monitor-tendencias.js
+```
+**O que faz:**
+- Pesquisa tópicos em alta no mercado cripto
+- Analisa artigos existentes
+- Sugere novos artigos baseados em gaps de conteúdo
+- Gera relatório em `data/trending-report.json`
+
+**Quando usar:** Diariamente ou quando precisar de ideias de conteúdo
 
 ---
 
-## 🔍 Scripts de Validação
-
-### kiroArticleProcessor.js
-**Processador avançado de artigos com validação completa**
-
+### 2. Gerador de Artigos em Lote
 ```bash
-node scripts/kiroArticleProcessor.js content/articles/meu-artigo.md
+node scripts/gerar-artigos-batch.js
 ```
+**O que faz:**
+- Lê sugestões do monitor de tendências
+- Gera múltiplos artigos automaticamente (estrutura base)
+- Cria imagens de capa
+- Salva relatório em `data/batch-report.json`
 
-**Funcionalidades:**
-- ✅ Validação completa de frontmatter
-- ✅ Análise SEO profunda (títulos, meta descriptions, keywords)
-- ✅ Verificação de estrutura (H1, H2, H3)
-- ✅ Contagem de palavras (mínimo 1500)
-- ✅ Validação de links internos (3-5 por artigo)
-- ✅ Verificação de ExchangeAffiliateLinks
-- ✅ Checagem de FAQ e Disclaimer
-- ✅ Análise de imagens com alt text
-- ✅ Relatório detalhado com sugestões
+**Quando usar:** Após executar o monitor de tendências
 
 ---
 
-## 🎯 Scripts de Otimização
-
-### auto-seo-checker.js
-**Verifica SEO de todos os artigos automaticamente**
-
+### 3. Otimizador de SEO
 ```bash
-node scripts/auto-seo-checker.js
+node scripts/otimizar-seo-batch.js
 ```
+**O que faz:**
+- Analisa todos os artigos existentes
+- Adiciona links internos automaticamente
+- Identifica problemas de SEO
+- Gera relatório em `data/seo-optimization-report.json`
 
-**Funcionalidades:**
-- 📊 Análise em massa de todos os artigos
-- 📈 Taxa de aprovação geral
-- 🚨 Lista de artigos com erros críticos
-- ⚠️ Lista de artigos com avisos
+**Quando usar:** Semanalmente ou após adicionar vários artigos novos
 
 ---
 
-### suggest-internal-links.js
-**Sugere links internos relevantes para artigos**
-
+### 4. Gerador de Newsletter
 ```bash
-node scripts/suggest-internal-links.js content/articles/meu-artigo.md
+node scripts/gerar-newsletter.js
 ```
+**O que faz:**
+- Compila artigos da última semana
+- Gera HTML de newsletter pronto para envio
+- Salva em `newsletters/newsletter-YYYY-MM-DD.html`
 
-**Funcionalidades:**
-- 🔗 Análise de keywords e categorias
-- 🎯 Score de relevância
-- 📝 Top 10 sugestões de links
-- 📋 Markdown pronto para copiar
+**Quando usar:** Toda sexta-feira para envio semanal
 
 ---
 
-## 🚀 Como Usar
+## ⚙️ GitHub Actions (Automatização CI/CD)
 
-### Workflow Recomendado
+### Auto Publish
+- **Quando roda:** Todo dia às 8h AM
+- **O que faz:** Publica artigos agendados automaticamente
+- **Arquivo:** `.github/workflows/auto-publish.yml`
 
-#### 1. Ao criar um novo artigo:
+### Trends Monitor
+- **Quando roda:** Todo dia às 8h AM
+- **O que faz:** Executa monitor de tendências e cria issue com sugestões
+- **Arquivo:** `.github/workflows/trends-monitor.yml`
 
+### SEO Optimization
+- **Quando roda:** Toda segunda-feira às 9h AM
+- **O que faz:** Otimiza SEO de todos os artigos e commita mudanças
+- **Arquivo:** `.github/workflows/seo-optimization.yml`
+
+---
+
+## 🚀 Fluxo de Trabalho Recomendado
+
+### Diário (Automático via GitHub Actions):
+1. **8h AM** - Monitor de tendências roda e cria issue com sugestões
+2. **Você revisa** as sugestões na issue
+
+### Quando quiser gerar conteúdo:
 ```bash
-# 1. Validar o artigo
-node scripts/kiroArticleProcessor.js content/articles/novo-artigo.md
+# 1 Verificar tendências
+node scripts/monitor-tendencias.js
 
-# 2. Sugerir links internos
-node scripts/suggest-internal-links.js content/articles/novo-artigo.md
+# 2. Gerar artigos em lote
+node scripts/gerar-artigos-batch.js
+
+# 3. Revisar e editar os artigos gerados
+
+# 4. Otimizar SEO
+node scripts/otimizar-seo-batch.js
+
+# 5. Deploy
+git add .
+git commit -m "feat: Adiciona novos artigos"
+git push
 ```
 
-#### 2. Auditoria semanal:
-
+### Semanal:
 ```bash
-# Verificar SEO de todos os artigos
-node scripts/auto-seo-checker.js
+# Sexta-feira: Gerar newsletter
+node scripts/gerar-newsletter.js
+
+# Newsletter será salva em newsletters/
+# Enviar via Resend, SendGrid, etc.
 ```
 
 ---
 
-**Última atualização:** 26 de novembro de 2025
-**Mantido por:** Equipe A Cifra
+## 📊 Estrutura de Dados
+
+### `data/trending-report.json`
+Relatório do monitor de tendências com sugestões de artigos.
+
+### `data/batch-report.json`
+Relatório de artigos gerados em lote.
+
+### `data/seo-optimization-report.json`
+Relatório detalhado de otimizações de SEO realizadas.
+
+### `newsletters/`
+Diretório com newsletters geradas em HTML.
+
+---
+
+## 🔧 Configuração
+
+### Variáveis de Ambiente (opcional)
+```env
+CLOUDFLARE_API_TOKEN=xxx
+CLOUDFLARE_ACCOUNT_ID=xxx
+GITHUB_TOKEN=xxx # Para GitHub Actions
+```
+
+### Dependências
+Todas as dependências já estão no `package.json`. Execute:
+```bash
+npm install
+```
+
+---
+
+## 💡 Dicas
+
+1. **Execute o monitor diariamente** para manter lista de sugestões atualizada
+2. **Revise artigos gerados** antes de publicar - eles são estruturas base
+3. **Otimize SEO regularmente** para melhorar ranqueamento
+4. **Gere newsletter toda semana** para engajamento com audiência
+
+---
+
+## 📞 Suporte
+
+Qualquer dúvida sobre os scripts, consulte o código-fonte ou abra uma issue no repositório.

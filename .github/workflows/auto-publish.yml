@@ -1,0 +1,53 @@
+# Workflow de Publicação Automatizada
+# Publica artigos agendados automaticamente
+
+name: Auto Publish Scheduled Articles
+
+on:
+  schedule:
+    # Roda todo dia às 8h AM (horário de Brasília = 11h UTC)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  publish-articles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for scheduled articles
+        id: check
+        run: |
+          # Verifica se há artigos com publishedAt = hoje
+          TODAY=$(date +%Y-%m-%d)
+          ARTICLES=$(find content/articles -name "*.md" -exec grep -l "publishedAt: '$TODAY'" {} \;)
+
+          if [ -z "$ARTICLES" ]; then
+            echo "has_articles=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_articles=true" >> $GITHUB_OUTPUT
+            echo "Articles to publish:"
+            echo "$ARTICLES"
+          fi
+
+      - name: Build and deploy
+        if: steps.check.outputs.has_articles == 'true'
+        run: |
+          echo "✅ Novos artigos detectados. Fazendo deploy..."
+          npm run build
+
+      - name: Notify success
+        if: steps.check.outputs.has_articles == 'true'
+        run: |
+          echo "🎉 Artigos publicados com sucesso!"
+          # Aqui você pode adicionar notificação via Telegram/Discord
