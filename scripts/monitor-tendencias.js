@@ -16,39 +16,39 @@ async function fetchTrendingTopics() {
   // Em produção, use Google Trends API, CoinGecko API, ou scraping
   const topics = [
     {
-      keyword: 'Bitcoin previsão 2026',
-      searchVolume: 12500,
+      keyword: 'Agentes de IA em Crypto',
+      searchVolume: 25000,
+      trend: 'explosive',
+      category: 'analises',
+      relevance: 98
+    },
+    {
+      keyword: 'Tokenização de Ativos Reais RWA 2026',
+      searchVolume: 18000,
       trend: 'rising',
-      category: 'bitcoin',
+      category: 'defi',
       relevance: 95
     },
     {
-      keyword: 'Melhores altcoins para investir',
-      searchVolume: 8900,
-      trend: 'stable',
-      category: 'altcoins',
-      relevance: 88
-    },
-    {
-      keyword: 'Como comprar criptomoedas',
+      keyword: 'Solana vs Ethereum 2026 Guerra das L1s',
       searchVolume: 15600,
-      trend: 'rising',
-      category: 'educacao',
+      trend: 'stable',
+      category: 'analises',
       relevance: 92
     },
     {
-      keyword: 'Staking Ethereum rendimento',
-      searchVolume: 5400,
+      keyword: 'Melhores Carteiras de Hardware 2026',
+      searchVolume: 12400,
       trend: 'rising',
-      category: 'defi',
-      relevance: 85
+      category: 'educacao',
+      relevance: 90
     },
     {
-      keyword: 'Regulação cripto Brasil 2026',
-      searchVolume: 3200,
+      keyword: 'Airdrops Confirmados 2026 Lista Completa',
+      searchVolume: 35000,
       trend: 'explosive',
-      category: 'regulacao',
-      relevance: 78
+      category: 'educacao',
+      relevance: 99
     }
   ];
 

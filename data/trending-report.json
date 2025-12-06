@@ -1,75 +1,82 @@
 {
-  "date": "2025-12-06T12:59:14.875Z",
+  "date": "2025-12-06T16:45:06.405Z",
   "trending": [
     {
-      "keyword": "Bitcoin previsão 2026",
-      "searchVolume": 12500,
+      "keyword": "Agentes de IA em Crypto",
+      "searchVolume": 25000,
+      "trend": "explosive",
+      "category": "analises",
+      "relevance": 98
+    },
+    {
+      "keyword": "Tokenização de Ativos Reais RWA 2026",
+      "searchVolume": 18000,
       "trend": "rising",
-      "category": "bitcoin",
+      "category": "defi",
       "relevance": 95
     },
     {
-      "keyword": "Melhores altcoins para investir",
-      "searchVolume": 8900,
-      "trend": "stable",
-      "category": "altcoins",
-      "relevance": 88
-    },
-    {
-      "keyword": "Como comprar criptomoedas",
+      "keyword": "Solana vs Ethereum 2026 Guerra das L1s",
       "searchVolume": 15600,
-      "trend": "rising",
-      "category": "educacao",
+      "trend": "stable",
+      "category": "analises",
       "relevance": 92
     },
     {
-      "keyword": "Staking Ethereum rendimento",
-      "searchVolume": 5400,
+      "keyword": "Melhores Carteiras de Hardware 2026",
+      "searchVolume": 12400,
       "trend": "rising",
-      "category": "defi",
-      "relevance": 85
+      "category": "educacao",
+      "relevance": 90
     },
     {
-      "keyword": "Regulação cripto Brasil 2026",
-      "searchVolume": 3200,
+      "keyword": "Airdrops Confirmados 2026 Lista Completa",
+      "searchVolume": 35000,
       "trend": "explosive",
-      "category": "regulacao",
-      "relevance": 78
+      "category": "educacao",
+      "relevance": 99
     }
   ],
   "suggestions": [
     {
-      "title": "Bitcoin previsão 2026: Análise Completa e Previsões",
-      "category": "bitcoin",
-      "priority": "medium",
-      "estimatedTraffic": 12500,
-      "keyword": "Bitcoin previsão 2026"
+      "title": "Agentes de IA em Crypto: Guia Completo 2026",
+      "category": "analises",
+      "priority": "high",
+      "estimatedTraffic": 25000,
+      "keyword": "Agentes de IA em Crypto"
     },
     {
-      "title": "Como comprar criptomoedas: Tutorial Passo a Passo para Iniciantes",
-      "category": "educacao",
-      "priority": "medium",
-      "estimatedTraffic": 15600,
-      "keyword": "Como comprar criptomoedas"
-    },
-    {
-      "title": "Staking Ethereum rendimento: Maximize Seus Ganhos com Segurança",
+      "title": "Tokenização de Ativos Reais RWA 2026: Maximize Seus Ganhos com Segurança",
       "category": "defi",
       "priority": "medium",
-      "estimatedTraffic": 5400,
-      "keyword": "Staking Ethereum rendimento"
+      "estimatedTraffic": 18000,
+      "keyword": "Tokenização de Ativos Reais RWA 2026"
     },
     {
-      "title": "Regulação cripto Brasil 2026: O Que Muda e Como Se Preparar",
-      "category": "regulacao",
+      "title": "Solana vs Ethereum 2026 Guerra das L1s: Guia Completo 2026",
+      "category": "analises",
+      "priority": "medium",
+      "estimatedTraffic": 15600,
+      "keyword": "Solana vs Ethereum 2026 Guerra das L1s"
+    },
+    {
+      "title": "Melhores Carteiras de Hardware 2026: Tutorial Passo a Passo para Iniciantes",
+      "category": "educacao",
+      "priority": "medium",
+      "estimatedTraffic": 12400,
+      "keyword": "Melhores Carteiras de Hardware 2026"
+    },
+    {
+      "title": "Airdrops Confirmados 2026 Lista Completa: Tutorial Passo a Passo para Iniciantes",
+      "category": "educacao",
       "priority": "high",
-      "estimatedTraffic": 3200,
-      "keyword": "Regulação cripto Brasil 2026"
+      "estimatedTraffic": 35000,
+      "keyword": "Airdrops Confirmados 2026 Lista Completa"
     }
   ],
   "stats": {
     "totalTrending": 5,
-    "totalExisting": 198,
-    "newSuggestions": 4
+    "totalExisting": 202,
+    "newSuggestions": 5
   }
 }
