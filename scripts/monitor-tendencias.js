@@ -79,9 +79,10 @@ function suggestNewArticles(trending, existing) {
   const suggestions = [];
 
   trending.forEach(topic => {
-    // Verifica se já não existe artigo similar
+    // Verifica se já não existe artigo similar (busca exata da keyword ou slug)
     const exists = existing.some(article =>
-      article.title.toLowerCase().includes(topic.keyword.toLowerCase().split(' ')[0])
+      article.title.toLowerCase().includes(topic.keyword.toLowerCase()) ||
+      article.slug.includes(topic.keyword.toLowerCase().replace(/ /g, '-'))
     );
 
     if (!exists && topic.relevance >= 75) {

@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-05T17:13:57.187Z",
+  "date": "2025-12-06T12:59:14.875Z",
   "trending": [
     {
       "keyword": "Bitcoin previsão 2026",
@@ -37,10 +37,39 @@
       "relevance": 78
     }
   ],
-  "suggestions": [],
+  "suggestions": [
+    {
+      "title": "Bitcoin previsão 2026: Análise Completa e Previsões",
+      "category": "bitcoin",
+      "priority": "medium",
+      "estimatedTraffic": 12500,
+      "keyword": "Bitcoin previsão 2026"
+    },
+    {
+      "title": "Como comprar criptomoedas: Tutorial Passo a Passo para Iniciantes",
+      "category": "educacao",
+      "priority": "medium",
+      "estimatedTraffic": 15600,
+      "keyword": "Como comprar criptomoedas"
+    },
+    {
+      "title": "Staking Ethereum rendimento: Maximize Seus Ganhos com Segurança",
+      "category": "defi",
+      "priority": "medium",
+      "estimatedTraffic": 5400,
+      "keyword": "Staking Ethereum rendimento"
+    },
+    {
+      "title": "Regulação cripto Brasil 2026: O Que Muda e Como Se Preparar",
+      "category": "regulacao",
+      "priority": "high",
+      "estimatedTraffic": 3200,
+      "keyword": "Regulação cripto Brasil 2026"
+    }
+  ],
   "stats": {
     "totalTrending": 5,
-    "totalExisting": 195,
-    "newSuggestions": 0
+    "totalExisting": 198,
+    "newSuggestions": 4
   }
 }

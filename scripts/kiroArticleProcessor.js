@@ -59,7 +59,7 @@ function log(message, color = 'reset') {
 }
 
 function extractFrontmatter(content) {
-  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  const frontmatterMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!frontmatterMatch) return null;
   return frontmatterMatch[1];
 }

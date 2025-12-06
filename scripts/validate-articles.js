@@ -52,14 +52,14 @@ function validateArticle(filePath) {
   const stats = {};
 
   // Extrair frontmatter
-  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  const frontmatterMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!frontmatterMatch) {
     errors.push('Frontmatter não encontrado');
     return { errors, warnings, stats };
   }
 
   const frontmatter = frontmatterMatch[1];
-  const contentBody = content.replace(/^---\n[\s\S]*?\n---\n/, '');
+  const contentBody = content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '');
 
   // Validar campos obrigatórios do frontmatter
   const requiredFields = [
