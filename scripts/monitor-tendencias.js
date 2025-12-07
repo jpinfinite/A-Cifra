@@ -1,170 +1,71 @@
 /**
- * Monitor de Tendências Diário
- * Pesquisa tópicos em alta e sugere artigos
- * Execute: node scripts/monitor-tendencias.js
+ * Monitor de Tendências 2026
+ * Define os tópicos quentes para o gerador de artigos
  */
 
 const fs = require('fs');
 const path = require('path');
 
-const TRENDING_TOPICS_FILE = 'data/trending-topics.json';
+const TRENDING_TOPICS = [
+  {
+    keyword: 'Agentes de IA em Crypto',
+    title: 'Agentes Autônomos de IA: A Próxima Grande Narrativa Crypto de 2026',
+    searchVolume: 55000,
+    trend: 'explosive',
+    category: 'analises',
+    relevance: 99
+  },
+  {
+    keyword: 'RWA Tokenização Imobiliária',
+    title: 'RWA em 2026: Como a Tokenização de Imóveis Vai Mudar o Mercado',
+    searchVolume: 42000,
+    trend: 'rising',
+    category: 'defi',
+    relevance: 95
+  },
+  {
+    keyword: 'Ethereum Pectra Upgrade',
+    title: 'Atualização Pectra do Ethereum: O Que Esperar em 2026?',
+    searchVolume: 35000,
+    trend: 'rising',
+    category: 'ethereum',
+    relevance: 92
+  },
+  {
+    keyword: 'Jogos Web3 Play-to-Earn 2.0',
+    title: 'GameFi 2.0: Os Jogos Web3 que Vão Dominar em 2026',
+    searchVolume: 60000,
+    trend: 'stable',
+    category: 'games',
+    relevance: 88
+  },
+  {
+    keyword: 'Privacidade On-Chain Zero Knowledge',
+    title: 'Zero-Knowledge Proofs (ZK): O Futuro da Privacidade em 2026',
+    searchVolume: 28000,
+    trend: 'rising',
+    category: 'educacao',
+    relevance: 90
+  }
+];
 
-// Simulação de pesquisa de tendências (você pode integrar com Google Trends API)
-async function fetchTrendingTopics() {
-  console.log('🔍 Pesquisando tendências em cripto...\n');
+function main() {
+  console.log('📊 Gerando lista de tendências 2026...');
 
-  // Em produção, use Google Trends API, CoinGecko API, ou scraping
-  const topics = [
-    {
-      keyword: 'Prediction Markets Polymarket 2026',
-      searchVolume: 45000,
-      trend: 'explosive',
-      category: 'defi',
-      relevance: 99
-    },
-    {
-      keyword: 'Bitcoin Layer 2 Stacks Ordinals',
-      searchVolume: 32000,
-      trend: 'rising',
-      category: 'bitcoin',
-      relevance: 96
-    },
-    {
-      keyword: 'Web3 Banking Cartão Cripto 2026',
-      searchVolume: 21000,
-      trend: 'rising',
-      category: 'educacao',
-      relevance: 94
-    },
-    {
-      keyword: 'Regulação SEC Innovation Exemption 2026',
-      searchVolume: 28000,
-      trend: 'explosive',
-      category: 'regulacao',
-      relevance: 98
-    },
-    {
-      keyword: 'DePIN Infraestrutura Descentralizada 2026',
-      searchVolume: 19500,
-      trend: 'rising',
-      category: 'altcoins',
-      relevance: 92
-    }
-  ];
+  const dataDir = path.join(__dirname, '../data');
+  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
 
-  return topics;
-}
-
-// Analisa quais artigos já existem
-function getExistingArticles() {
-  const articlesDir = path.join(__dirname, '../content/articles');
-  const files = fs.readdirSync(articlesDir);
-
-  return files
-    .filter(f => f.endsWith('.md'))
-    .map(f => {
-      const content = fs.readFileSync(path.join(articlesDir, f), 'utf8');
-      const titleMatch = content.match(/title:\s*['"](.+)['"]/);
-      const slugMatch = content.match(/slug:\s*['"](.+)['"]/);
-      return {
-        filename: f,
-        title: titleMatch ? titleMatch[1] : '',
-        slug: slugMatch ? slugMatch[1] : ''
-      };
-    });
-}
-
-// Sugere novos artigos baseado em gaps
-function suggestNewArticles(trending, existing) {
-  const suggestions = [];
-
-  trending.forEach(topic => {
-    // Verifica se já não existe artigo similar (busca exata da keyword ou slug)
-    const exists = existing.some(article =>
-      article.title.toLowerCase().includes(topic.keyword.toLowerCase()) ||
-      article.slug.includes(topic.keyword.toLowerCase().replace(/ /g, '-'))
-    );
-
-    if (!exists && topic.relevance >= 75) {
-      suggestions.push({
-        title: generateArticleTitle(topic),
-        category: topic.category,
-        priority: topic.trend === 'explosive' ? 'high' : 'medium',
-        estimatedTraffic: topic.searchVolume,
-        keyword: topic.keyword
-      });
-    }
-  });
-
-  return suggestions.slice(0, 10); // Top 10 sugestões
-}
-
-function generateArticleTitle(topic) {
-  const templates = {
-    bitcoin: `${topic.keyword}: Análise Completa e Previsões`,
-    altcoins: `${topic.keyword} em 2026: Guia Definitivo`,
-    educacao: `${topic.keyword}: Tutorial Passo a Passo para Iniciantes`,
-    defi: `${topic.keyword}: Maximize Seus Ganhos com Segurança`,
-    regulacao: `${topic.keyword}: O Que Muda e Como Se Preparar`
-  };
-
-  return templates[topic.category] || `${topic.keyword}: Guia Completo 2026`;
-}
-
-async function main() {
-  console.log('📊 Monitor de Tendências - A Cifra\n');
-  console.log('═'.repeat(50));
-
-  // 1. Buscar tendências
-  const trending = await fetchTrendingTopics();
-  console.log(`\n✅ ${trending.length} tópicos em alta identificados\n`);
-
-  // 2. Verificar artigos existentes
-  const existing = getExistingArticles();
-  console.log(`📚 ${existing.length} artigos já publicados\n`);
-
-  // 3. Gerar sugestões
-  const suggestions = suggestNewArticles(trending, existing);
-
-  // 4. Salvar relatório
   const report = {
     date: new Date().toISOString(),
-    trending: trending,
-    suggestions: suggestions,
-    stats: {
-      totalTrending: trending.length,
-      totalExisting: existing.length,
-      newSuggestions: suggestions.length
-    }
+    suggestions: TRENDING_TOPICS
   };
-
-  // Criar diretório se não existir
-  const dataDir = path.join(__dirname, '../data');
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
 
   fs.writeFileSync(
     path.join(dataDir, 'trending-report.json'),
     JSON.stringify(report, null, 2)
   );
 
-  // 5. Exibir sugestões
-  console.log('💡 SUGESTÕES DE NOVOS ARTIGOS:\n');
-  console.log('═'.repeat(50));
-
-  suggestions.forEach((sug, idx) => {
-    console.log(`\n${idx + 1}. ${sug.title}`);
-    console.log(`   📂 Categoria: ${sug.category}`);
-    console.log(`   🔥 Prioridade: ${sug.priority}`);
-    console.log(`   📈 Tráfego estimado: ${sug.estimatedTraffic.toLocaleString()} buscas/mês`);
-    console.log(`   🔑 Keyword: ${sug.keyword}`);
-  });
-
-  console.log('\n' + '═'.repeat(50));
-  console.log(`\n📄 Relatório completo salvo em: data/trending-report.json`);
-  console.log('\n✨ Para gerar artigos automaticamente, execute:');
-  console.log('   node scripts/gerar-artigos-batch.js\n');
+  console.log(`✅ ${TRENDING_TOPICS.length} tópicos salvos em data/trending-report.json`);
 }
 
-main().catch(console.error);
+main();
