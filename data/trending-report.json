@@ -1,82 +1,82 @@
 {
-  "date": "2025-12-06T16:45:06.405Z",
+  "date": "2025-12-07T00:02:10.850Z",
   "trending": [
     {
-      "keyword": "Agentes de IA em Crypto",
-      "searchVolume": 25000,
+      "keyword": "Prediction Markets Polymarket 2026",
+      "searchVolume": 45000,
       "trend": "explosive",
-      "category": "analises",
+      "category": "defi",
+      "relevance": 99
+    },
+    {
+      "keyword": "Bitcoin Layer 2 Stacks Ordinals",
+      "searchVolume": 32000,
+      "trend": "rising",
+      "category": "bitcoin",
+      "relevance": 96
+    },
+    {
+      "keyword": "Web3 Banking Cartão Cripto 2026",
+      "searchVolume": 21000,
+      "trend": "rising",
+      "category": "educacao",
+      "relevance": 94
+    },
+    {
+      "keyword": "Regulação SEC Innovation Exemption 2026",
+      "searchVolume": 28000,
+      "trend": "explosive",
+      "category": "regulacao",
       "relevance": 98
     },
     {
-      "keyword": "Tokenização de Ativos Reais RWA 2026",
-      "searchVolume": 18000,
+      "keyword": "DePIN Infraestrutura Descentralizada 2026",
+      "searchVolume": 19500,
       "trend": "rising",
-      "category": "defi",
-      "relevance": 95
-    },
-    {
-      "keyword": "Solana vs Ethereum 2026 Guerra das L1s",
-      "searchVolume": 15600,
-      "trend": "stable",
-      "category": "analises",
+      "category": "altcoins",
       "relevance": 92
-    },
-    {
-      "keyword": "Melhores Carteiras de Hardware 2026",
-      "searchVolume": 12400,
-      "trend": "rising",
-      "category": "educacao",
-      "relevance": 90
-    },
-    {
-      "keyword": "Airdrops Confirmados 2026 Lista Completa",
-      "searchVolume": 35000,
-      "trend": "explosive",
-      "category": "educacao",
-      "relevance": 99
     }
   ],
   "suggestions": [
     {
-      "title": "Agentes de IA em Crypto: Guia Completo 2026",
-      "category": "analises",
-      "priority": "high",
-      "estimatedTraffic": 25000,
-      "keyword": "Agentes de IA em Crypto"
-    },
-    {
-      "title": "Tokenização de Ativos Reais RWA 2026: Maximize Seus Ganhos com Segurança",
+      "title": "Prediction Markets Polymarket 2026: Maximize Seus Ganhos com Segurança",
       "category": "defi",
-      "priority": "medium",
-      "estimatedTraffic": 18000,
-      "keyword": "Tokenização de Ativos Reais RWA 2026"
-    },
-    {
-      "title": "Solana vs Ethereum 2026 Guerra das L1s: Guia Completo 2026",
-      "category": "analises",
-      "priority": "medium",
-      "estimatedTraffic": 15600,
-      "keyword": "Solana vs Ethereum 2026 Guerra das L1s"
-    },
-    {
-      "title": "Melhores Carteiras de Hardware 2026: Tutorial Passo a Passo para Iniciantes",
-      "category": "educacao",
-      "priority": "medium",
-      "estimatedTraffic": 12400,
-      "keyword": "Melhores Carteiras de Hardware 2026"
-    },
-    {
-      "title": "Airdrops Confirmados 2026 Lista Completa: Tutorial Passo a Passo para Iniciantes",
-      "category": "educacao",
       "priority": "high",
-      "estimatedTraffic": 35000,
-      "keyword": "Airdrops Confirmados 2026 Lista Completa"
+      "estimatedTraffic": 45000,
+      "keyword": "Prediction Markets Polymarket 2026"
+    },
+    {
+      "title": "Bitcoin Layer 2 Stacks Ordinals: Análise Completa e Previsões",
+      "category": "bitcoin",
+      "priority": "medium",
+      "estimatedTraffic": 32000,
+      "keyword": "Bitcoin Layer 2 Stacks Ordinals"
+    },
+    {
+      "title": "Web3 Banking Cartão Cripto 2026: Tutorial Passo a Passo para Iniciantes",
+      "category": "educacao",
+      "priority": "medium",
+      "estimatedTraffic": 21000,
+      "keyword": "Web3 Banking Cartão Cripto 2026"
+    },
+    {
+      "title": "Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar",
+      "category": "regulacao",
+      "priority": "high",
+      "estimatedTraffic": 28000,
+      "keyword": "Regulação SEC Innovation Exemption 2026"
+    },
+    {
+      "title": "DePIN Infraestrutura Descentralizada 2026 em 2026: Guia Definitivo",
+      "category": "altcoins",
+      "priority": "medium",
+      "estimatedTraffic": 19500,
+      "keyword": "DePIN Infraestrutura Descentralizada 2026"
     }
   ],
   "stats": {
     "totalTrending": 5,
-    "totalExisting": 202,
+    "totalExisting": 207,
     "newSuggestions": 5
   }
 }

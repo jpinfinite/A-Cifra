@@ -16,39 +16,39 @@ async function fetchTrendingTopics() {
   // Em produção, use Google Trends API, CoinGecko API, ou scraping
   const topics = [
     {
-      keyword: 'Agentes de IA em Crypto',
-      searchVolume: 25000,
+      keyword: 'Prediction Markets Polymarket 2026',
+      searchVolume: 45000,
       trend: 'explosive',
-      category: 'analises',
+      category: 'defi',
+      relevance: 99
+    },
+    {
+      keyword: 'Bitcoin Layer 2 Stacks Ordinals',
+      searchVolume: 32000,
+      trend: 'rising',
+      category: 'bitcoin',
+      relevance: 96
+    },
+    {
+      keyword: 'Web3 Banking Cartão Cripto 2026',
+      searchVolume: 21000,
+      trend: 'rising',
+      category: 'educacao',
+      relevance: 94
+    },
+    {
+      keyword: 'Regulação SEC Innovation Exemption 2026',
+      searchVolume: 28000,
+      trend: 'explosive',
+      category: 'regulacao',
       relevance: 98
     },
     {
-      keyword: 'Tokenização de Ativos Reais RWA 2026',
-      searchVolume: 18000,
+      keyword: 'DePIN Infraestrutura Descentralizada 2026',
+      searchVolume: 19500,
       trend: 'rising',
-      category: 'defi',
-      relevance: 95
-    },
-    {
-      keyword: 'Solana vs Ethereum 2026 Guerra das L1s',
-      searchVolume: 15600,
-      trend: 'stable',
-      category: 'analises',
+      category: 'altcoins',
       relevance: 92
-    },
-    {
-      keyword: 'Melhores Carteiras de Hardware 2026',
-      searchVolume: 12400,
-      trend: 'rising',
-      category: 'educacao',
-      relevance: 90
-    },
-    {
-      keyword: 'Airdrops Confirmados 2026 Lista Completa',
-      searchVolume: 35000,
-      trend: 'explosive',
-      category: 'educacao',
-      relevance: 99
     }
   ];
 
