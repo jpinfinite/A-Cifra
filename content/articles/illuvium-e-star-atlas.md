@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Jonatha Pereira'
   avatar: '/Jonatha-Pereira-SEO.png'
-publishedAt: '2025-12-12'
-updatedAt: '2025-12-12'
+publishedAt: '2025-12-08'
+updatedAt: '2025-12-08'
 categorySlug: 'games'
 tags: ["games", "tendencias-2026", "tecnologia"]
 seo:

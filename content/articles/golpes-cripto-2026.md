@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Jonatha Pereira'
   avatar: '/Jonatha-Pereira-SEO.png'
-publishedAt: '2025-12-13'
-updatedAt: '2025-12-13'
+publishedAt: '2025-12-08'
+updatedAt: '2025-12-08'
 categorySlug: 'educacao'
 tags: ["educacao", "tendencias-2026", "tecnologia"]
 seo:

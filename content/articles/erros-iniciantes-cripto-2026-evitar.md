@@ -11,8 +11,8 @@ coverImage:
 author:
   name: 'Jonatha Pereira'
   avatar: '/Jonatha-Pereira-SEO.png'
-publishedAt: '2025-12-09'
-updatedAt: '2025-12-09'
+publishedAt: '2025-12-08'
+updatedAt: '2025-12-08'
 categorySlug: 'educacao'
 tags: ['iniciantes', 'educacao', 'seguranca', 'erros comuns', 'guia']
 seo:
