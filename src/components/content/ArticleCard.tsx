@@ -20,7 +20,8 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
     return new Intl.DateTimeFormat('pt-BR', {
       day: 'numeric',
       month: 'long',
-      year: 'numeric'
+      year: 'numeric',
+      timeZone: 'America/Sao_Paulo'
     }).format(date)
   }
 
