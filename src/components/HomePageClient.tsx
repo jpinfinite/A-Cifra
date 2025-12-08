@@ -157,32 +157,66 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
             </Text>
           </div>
 
-          {/* Featured Article */}
-          {featuredWithDate && (
-            <div className="mb-16 scroll-reveal">
-              <FeaturedArticleCard article={featuredWithDate} />
-            </div>
-          )}
+          {/* Layout de 2 colunas: Artigos + Anúncios */}
+          <div className="lg:grid lg:grid-cols-12 lg:gap-8">
+            {/* Coluna Principal - Artigos (70%) */}
+            <div className="lg:col-span-8 xl:col-span-9">
+              {/* Featured Article */}
+              {featuredWithDate && (
+                <div className="mb-16 scroll-reveal">
+                  <FeaturedArticleCard article={featuredWithDate} />
+                </div>
+              )}
 
-          {/* Other Recent Articles */}
-          {recentWithDates && recentWithDates.length > 1 && (
-            <div className="scroll-reveal">
-              <ArticleGrid
-                articles={recentWithDates.slice(1)}
-              />
-            </div>
-          )}
+              {/* Other Recent Articles */}
+              {recentWithDates && recentWithDates.length > 1 && (
+                <div className="scroll-reveal">
+                  <ArticleGrid
+                    articles={recentWithDates.slice(1)}
+                  />
+                </div>
+              )}
 
-          <div className="text-center mt-16 scroll-reveal">
-            <a
-              href="/artigos"
-              className="btn-gradient text-lg px-8 py-4 min-h-touch group inline-flex items-center space-x-2"
-            >
-              <span>Ver Todos os Artigos</span>
-              <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
-            </a>
+              <div className="text-center mt-16 scroll-reveal">
+                <a
+                  href="/artigos"
+                  className="btn-gradient text-lg px-8 py-4 min-h-touch group inline-flex items-center space-x-2"
+                >
+                  <span>Ver Todos os Artigos</span>
+                  <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+            {/* Coluna Lateral - Anúncios Verticais (30%) */}
+            <aside className="hidden lg:block lg:col-span-4 xl:col-span-3">
+              <div className="sticky top-24 space-y-6">
+                {/* Anúncio Vertical 1 - 300x600 */}
+                <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl border-2 border-dashed border-gray-300 p-6 text-center min-h-[600px] flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow duration-200">
+                  <div className="text-gray-400 mb-3">
+                    <svg className="w-16 h-16 mx-auto" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" />
+                    </svg>
+                  </div>
+                  <p className="text-gray-500 font-medium mb-2">Espaço para Anúncio</p>
+                  <p className="text-sm text-gray-400">300 x 600</p>
+                  <p className="text-xs text-gray-400 mt-2">Vertical Banner</p>
+                </div>
+
+                {/* Anúncio Vertical 2 - 300x250 */}
+                <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl border-2 border-dashed border-gray-300 p-6 text-center min-h-[250px] flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow duration-200">
+                  <div className="text-gray-400 mb-3">
+                    <svg className="w-12 h-12 mx-auto" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" />
+                    </svg>
+                  </div>
+                  <p className="text-gray-500 font-medium mb-2">Espaço para Anúncio</p>
+                  <p className="text-sm text-gray-400">300 x 250</p>
+                </div>
+              </div>
+            </aside>
           </div>
         </Container>
       </section>

@@ -13,7 +13,7 @@ export const metadata = generateMetadata({
 
 export default async function HomePage() {
   const featuredArticle = await getFeaturedArticle()
-  const recentArticles = await getRecentArticles(6)
+  const recentArticles = await getRecentArticles(12)
 
   // Get featured article, fallback to first from recent articles
   let displayFeaturedArticle = featuredArticle
