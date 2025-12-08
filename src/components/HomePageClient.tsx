@@ -8,6 +8,7 @@ import NewsletterForm from '@/components/content/NewsletterForm'
 import type { Article } from '@/types'
 
 // import { DisplayAd } from '@/components/ads' // Removido - usando apenas anúncios automáticos
+import { SidebarAd } from '@/components/ads/SidebarAd'
 
 interface HomePageClientProps {
   featuredArticle: Article
@@ -192,28 +193,23 @@ export function HomePageClient({ featuredArticle, recentArticles }: HomePageClie
 
             {/* Coluna Lateral - Anúncios Verticais (30%) */}
             <aside className="hidden lg:block lg:col-span-4 xl:col-span-3">
-              <div className="sticky top-24 space-y-6">
-                {/* Anúncio Vertical 1 - 300x600 */}
-                <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl border-2 border-dashed border-gray-300 p-6 text-center min-h-[600px] flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow duration-200">
-                  <div className="text-gray-400 mb-3">
-                    <svg className="w-16 h-16 mx-auto" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" />
-                    </svg>
-                  </div>
-                  <p className="text-gray-500 font-medium mb-2">Espaço para Anúncio</p>
-                  <p className="text-sm text-gray-400">300 x 600</p>
-                  <p className="text-xs text-gray-400 mt-2">Vertical Banner</p>
-                </div>
+              <div className="space-y-6">
+                {/* Anúncio Vertical 1 - Sidebar Display */}
+                <div className="sticky top-24">
+                  <SidebarAd
+                    slot="4860266399"
+                    sticky={false}
+                    className="min-h-[600px]"
+                  />
 
-                {/* Anúncio Vertical 2 - 300x250 */}
-                <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl border-2 border-dashed border-gray-300 p-6 text-center min-h-[250px] flex flex-col items-center justify-center shadow-sm hover:shadow-md transition-shadow duration-200">
-                  <div className="text-gray-400 mb-3">
-                    <svg className="w-12 h-12 mx-auto" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" />
-                    </svg>
+                  {/* Anúncio Vertical 2 - Display Responsivo (Aparece abaixo ao rolar) */}
+                  <div className="mt-6">
+                    <SidebarAd
+                      slot="7243051452"
+                      sticky={false}
+                      className="min-h-[250px]"
+                    />
                   </div>
-                  <p className="text-gray-500 font-medium mb-2">Espaço para Anúncio</p>
-                  <p className="text-sm text-gray-400">300 x 250</p>
                 </div>
               </div>
             </aside>
