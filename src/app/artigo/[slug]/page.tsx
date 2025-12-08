@@ -5,6 +5,7 @@ import { ArticleLayout } from '@/components/content'
 import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
 import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
 import { NewsletterCTA } from '@/components/newsletter'
+import { SidebarAd } from '@/components/ads/SidebarAd'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
 import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
@@ -149,9 +150,25 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           </article>
 
           {/* Sidebar */}
-          <aside className="lg:col-span-4 space-y-6">
-            {/* Newsletter Sidebar */}
-            <NewsletterCTA variant="sidebar" />
+          <aside className="lg:col-span-4 space-y-8">
+            {/* Anúncio Superior Sidebar Artigo */}
+            <div className="sticky top-24 space-y-8">
+              <SidebarAd
+                slot="4860266399"
+                sticky={false}
+                className="min-h-[600px]"
+              />
+
+              {/* Newsletter Sidebar */}
+              <NewsletterCTA variant="sidebar" />
+
+              {/* Anúncio Inferior Sidebar Artigo */}
+              <SidebarAd
+                slot="7243051452"
+                sticky={false}
+                className="min-h-[250px]"
+              />
+            </div>
           </aside>
         </div>
       </Container>

@@ -7,11 +7,11 @@ interface ExchangeAffiliateLinksProps {
   className?: string
 }
 
-export function ExchangeAffiliateLinks({ 
+export function ExchangeAffiliateLinks({
   variant = 'default',
   className = ''
 }: ExchangeAffiliateLinksProps) {
-  
+
   if (variant === 'compact') {
     return (
       <div className={`my-6 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-lg border border-blue-200 dark:border-blue-800 ${className}`}>
@@ -25,11 +25,11 @@ export function ExchangeAffiliateLinks({
             rel="noopener noreferrer sponsored"
             className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-sm"
           >
-            <Image 
-              src="/images/bitget.png" 
-              alt="Bitget" 
-              width={20} 
-              height={20} 
+            <Image
+              src="/images/logos/favcoin.png"
+              alt="Bitget"
+              width={20}
+              height={20}
               className="rounded"
             />
             Bitget - Até $5.000
@@ -40,11 +40,11 @@ export function ExchangeAffiliateLinks({
             rel="noopener noreferrer sponsored"
             className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-yellow-500 hover:bg-yellow-600 text-white font-medium rounded-lg transition-colors text-sm"
           >
-            <Image 
-              src="/images/binance.png" 
-              alt="Binance" 
-              width={20} 
-              height={20} 
+            <Image
+              src="/images/exchanges/binance-logo.png"
+              alt="Binance"
+              width={20}
+              height={20}
               className="rounded"
             />
             Binance - Cashback
@@ -55,11 +55,11 @@ export function ExchangeAffiliateLinks({
             rel="noopener noreferrer sponsored"
             className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors text-sm"
           >
-            <Image 
-              src="/images/Coinbase Icon.png" 
-              alt="Coinbase" 
-              width={20} 
-              height={20} 
+            <Image
+              src="/images/exchanges/coinbase-logo.png"
+              alt="Coinbase"
+              width={20}
+              height={20}
               className="rounded"
             />
             Coinbase - $10
@@ -86,11 +86,11 @@ export function ExchangeAffiliateLinks({
             className="block w-full px-4 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-center"
           >
             <div className="flex items-center justify-center gap-2 mb-1">
-              <Image 
-                src="/images/bitget.png" 
-                alt="Bitget" 
-                width={20} 
-                height={20} 
+              <Image
+                src="/images/logos/favcoin.png"
+                alt="Bitget"
+                width={20}
+                height={20}
                 className="rounded"
               />
               <div className="font-bold">Bitget</div>
@@ -104,11 +104,11 @@ export function ExchangeAffiliateLinks({
             className="block w-full px-4 py-3 bg-yellow-500 hover:bg-yellow-600 text-white font-medium rounded-lg transition-colors text-center"
           >
             <div className="flex items-center justify-center gap-2 mb-1">
-              <Image 
-                src="/images/binance.png" 
-                alt="Binance" 
-                width={20} 
-                height={20} 
+              <Image
+                src="/images/exchanges/binance-logo.png"
+                alt="Binance"
+                width={20}
+                height={20}
                 className="rounded"
               />
               <div className="font-bold">Binance</div>
@@ -122,11 +122,11 @@ export function ExchangeAffiliateLinks({
             className="block w-full px-4 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors text-center"
           >
             <div className="flex items-center justify-center gap-2 mb-1">
-              <Image 
-                src="/images/Coinbase Icon.png" 
-                alt="Coinbase" 
-                width={20} 
-                height={20} 
+              <Image
+                src="/images/exchanges/coinbase-logo.png"
+                alt="Coinbase"
+                width={20}
+                height={20}
                 className="rounded"
               />
               <div className="font-bold">Coinbase</div>
@@ -158,11 +158,11 @@ export function ExchangeAffiliateLinks({
         <div className="bg-white dark:bg-gray-800 p-5 rounded-lg border border-gray-200 dark:border-gray-700">
           <div className="flex items-center mb-3">
             <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
-              <Image 
-                src="/images/bitget.png" 
-                alt="Bitget" 
-                width={32} 
-                height={32} 
+              <Image
+                src="/images/logos/favcoin.png"
+                alt="Bitget"
+                width={32}
+                height={32}
                 className="rounded"
               />
             </div>
@@ -191,11 +191,11 @@ export function ExchangeAffiliateLinks({
         <div className="bg-white dark:bg-gray-800 p-5 rounded-lg border border-gray-200 dark:border-gray-700">
           <div className="flex items-center mb-3">
             <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
-              <Image 
-                src="/images/binance.png" 
-                alt="Binance" 
-                width={32} 
-                height={32} 
+              <Image
+                src="/images/exchanges/binance-logo.png"
+                alt="Binance"
+                width={32}
+                height={32}
                 className="rounded"
               />
             </div>
@@ -224,11 +224,11 @@ export function ExchangeAffiliateLinks({
         <div className="bg-white dark:bg-gray-800 p-5 rounded-lg border border-gray-200 dark:border-gray-700">
           <div className="flex items-center mb-3">
             <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
-              <Image 
-                src="/images/Coinbase Icon.png" 
-                alt="Coinbase" 
-                width={32} 
-                height={32} 
+              <Image
+                src="/images/exchanges/coinbase-logo.png"
+                alt="Coinbase"
+                width={32}
+                height={32}
                 className="rounded"
               />
             </div>
