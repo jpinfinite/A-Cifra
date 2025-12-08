@@ -26,7 +26,7 @@ export function ExchangeAffiliateLinks({
             className="flex-1 inline-flex items-center justify-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors text-sm"
           >
             <Image
-              src="/images/logos/favcoin.png"
+              src="/images/logos/Bitget-Exchange-Brand-Logo-PNG.png"
               alt="Bitget"
               width={20}
               height={20}
@@ -87,7 +87,7 @@ export function ExchangeAffiliateLinks({
           >
             <div className="flex items-center justify-center gap-2 mb-1">
               <Image
-                src="/images/logos/favcoin.png"
+                src="/images/logos/Bitget-Exchange-Brand-Logo-PNG.png"
                 alt="Bitget"
                 width={20}
                 height={20}
@@ -159,7 +159,7 @@ export function ExchangeAffiliateLinks({
           <div className="flex items-center mb-3">
             <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 border border-gray-200">
               <Image
-                src="/images/logos/favcoin.png"
+                src="/images/logos/Bitget-Exchange-Brand-Logo-PNG.png"
                 alt="Bitget"
                 width={32}
                 height={32}
