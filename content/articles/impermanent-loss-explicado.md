@@ -35,7 +35,7 @@ seo:
     - pools liquidez
 alternateLanguages:
   en: permanent-impermanent-loss-what-it-is-and-how-to-avoid-it
-  es: perdida-impermanente-prdida-impermante-qu-es-y-cmo-evitarla
+  es: perdida-impermante-prdida-impermante-qu-es-y-cmo-evitarla
 ---
 
 A **perda impermanente** é um dos conceitos mais importantes (e mal compreendidos) em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026). Entenda o que é e como se proteger.

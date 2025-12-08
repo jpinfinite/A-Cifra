@@ -35,7 +35,7 @@ seo:
     - previsão bitcoin
     - cathie wood previsão
 alternateLanguages:
-  en: cathie-wood-maintains-bitcoin-forecast-to-15-million---ark-invest-analysis
+  en: cathie-wood-maintains-bitcoin-prediction-at-15-million---ark-invest-analysis
   es: cathie-wood-mantiene-prediccin-de-bitcoin-a-15-milln---anlisis-ark-invest
 ---
 

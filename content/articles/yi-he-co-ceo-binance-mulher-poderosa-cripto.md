@@ -1,24 +1,44 @@
 ---
-id: 'yi-he-co-ceo-ce-mulher-poderosa-cripto'
-title: 'Yi He se Torna Co-CEO da Binance - A Mulher Mais Poderosa do Cripto em 2025'
-slug: 'yi-he-co-ceo-binance-mulher-poderosa-cripto'
-excerpt: 'Yi He, co-fundadora da Binance, é nomeada Co-CEO ao lado de Richard Teng. Conheça a trajetória da mulher mais influente do mercado cripto e o que muda na maior exchange do mundo.'
+id: yi-he-co-ceo-ce-mulher-poderosa-cripto
+title: Yi He se Torna Co-CEO da Binance - A Mulher Mais Poderosa do Cripto em 2025
+slug: yi-he-co-ceo-binance-mulher-poderosa-cripto
+excerpt: >-
+  Yi He, co-fundadora da Binance, é nomeada Co-CEO ao lado de Richard Teng.
+  Conheça a trajetória da mulher mais influente do mercado cripto e o que muda
+  na maior exchange do mundo.
 coverImage:
-  src: '/images/yi-he-binance-ceo-2025.jpg'
-  alt: 'Yi He nomeada Co-CEO da Binance - Mulher mais poderosa do cripto'
+  src: /images/yi-he-binance-ceo-2025.jpg
+  alt: Yi He nomeada Co-CEO da Binance - Mulher mais poderosa do cripto
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'regulacao'
-tags: ['binance', 'yi he', 'ceo', 'liderança', 'mulheres no cripto']
+categorySlug: regulacao
+tags:
+  - binance
+  - yi he
+  - ceo
+  - liderança
+  - mulheres no cripto
 seo:
   metaTitle: 'Yi He Co-CEO Binance: Mulher Mais Poderosa do Cripto 2025 | A Cifra'
-  metaDescription: 'Yi He, co-fundadora da Binance, assume como Co-CEO. Conheça a trajetória da executiva mais influente do mercado cripto e o futuro da maior exchange do mundo.'
-  keywords: ['yi he binance', 'co-ceo binance', 'mulheres cripto', 'binance liderança', 'richard teng']
+  metaDescription: >-
+    Yi He, co-fundadora da Binance, assume como Co-CEO. Conheça a trajetória da
+    executiva mais influente do mercado cripto e o futuro da maior exchange do
+    mundo.
+  keywords:
+    - yi he binance
+    - co-ceo binance
+    - mulheres cripto
+    - binance liderança
+    - richard teng
+alternateLanguages:
+  en: yi-he-becomes-co-ceo-of-binance---the-most-powerful-woman-in-crypto-in-2025
+  es: >-
+    yi-he-se-convierte-en-co-ceo-de-binance---la-mujer-ms-poderosa-del-cripto-en-2025
 ---
 
 **3 de dezembro de 2025** - Em um movimento histórico anunciado durante a Binance Blockchain Week em Dubai, **Yi He**, co-fundadora da Binance, foi nomeada **Co-CEO** da maior [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) de criptomoedas do mundo, dividindo a liderança com **Richard Teng**. A decisão consolida Yi He como **a mulher mais poderosa do mercado cripto** e marca uma nova era para a Binance.

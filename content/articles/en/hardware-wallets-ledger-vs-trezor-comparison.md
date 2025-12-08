@@ -29,7 +29,7 @@ seo:
 language: en
 alternateLanguages:
   pt: hardware-wallets-comparacao-ledger-trezor
-  es: dispositivos-de-hardware-ledger-vs-trezor-comparacin
+  es: billeteras-de-hardware-ledger-vs-trezor-comparacin
 ---
 Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses hardware wallets: ledger vs trezor comparison.
 

@@ -38,7 +38,7 @@ seo:
 language: es
 alternateLanguages:
   pt: grayscale-zcash-etf-privacidade-regulada-2025
-  en: zcash-grayscale-etf---regulated-privacy-or-just-in-name
+  en: zcash-grayscale-etf---regulated-privacy-or-just-a-name
 ---
 Grayscale Lança ETF de Zcash - Privacidade Regulada ou Apenas no Nome?
 

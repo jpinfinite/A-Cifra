@@ -1,31 +1,38 @@
 ---
-id: 'vpn-tor-privacidade-transacoes-cripto'
+id: vpn-tor-privacidade-transacoes-cripto
 title: 'VPN e Tor: Aumentando Privacidade em Transações Cripto'
-slug: 'vpn-tor-privacidade-transacoes-cripto'
-excerpt: 'Aprenda a usar VPN e Tor para proteger sua privacidade em transações de criptomoedas.'
+slug: vpn-tor-privacidade-transacoes-cripto
+excerpt: >-
+  Aprenda a usar VPN e Tor para proteger sua privacidade em transações de
+  criptomoedas.
 coverImage:
-  src: '/images/crypto-security-shield-styled.jpg'
+  src: /images/crypto-security-shield-styled.jpg
   alt: 'VPN e Tor: Aumentando Privacidade em Transações Cripto'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'vpn'
-  - 'tor'
-  - 'privacidade'
-  - 'anonimato'
+  - vpn
+  - tor
+  - privacidade
+  - anonimato
 seo:
   metaTitle: 'VPN e Tor: Aumentando Privacidade em Transações Cripto | A Cifra'
-  metaDescription: 'Aprenda a usar VPN e Tor para proteger sua privacidade em transações de criptomoedas.'
+  metaDescription: >-
+    Aprenda a usar VPN e Tor para proteger sua privacidade em transações de
+    criptomoedas.
   keywords:
-    - 'vpn'
-    - 'tor'
-    - 'privacidade'
-    - 'anonimato'
+    - vpn
+    - tor
+    - privacidade
+    - anonimato
+alternateLanguages:
+  en: vpn-and-tor-increasing-privacy-in-crypto-transactions
+  es: vpn-y-tor-incrementando-la-privacidad-en-transacciones-criptogrficas
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda vpn e tor: aumentando privacidade em transações cripto.

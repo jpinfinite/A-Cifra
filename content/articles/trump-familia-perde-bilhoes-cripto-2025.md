@@ -1,24 +1,44 @@
 ---
-id: 'trump-familia-perde-bilhoes-cripto-2025'
+id: trump-familia-perde-bilhoes-cripto-2025
 title: 'Família Trump Perde US$ 1 Bilhão em Cripto: A Lição Brutal da Volatilidade'
-slug: 'trump-familia-perde-bilhoes-cripto-2025'
-excerpt: 'A família Trump perdeu mais de US$ 1 bilhão com a queda das criptomoedas. Entenda como até os mais poderosos não escapam da volatilidade do mercado cripto.'
+slug: trump-familia-perde-bilhoes-cripto-2025
+excerpt: >-
+  A família Trump perdeu mais de US$ 1 bilhão com a queda das criptomoedas.
+  Entenda como até os mais poderosos não escapam da volatilidade do mercado
+  cripto.
 coverImage:
-  src: '/images/219.jpg'
-  alt: 'Gráfico mostrando queda das criptomoedas da família Trump'
+  src: /images/219.jpg
+  alt: Gráfico mostrando queda das criptomoedas da família Trump
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-24'
 updatedAt: '2025-11-24'
-categorySlug: 'analises'
-tags: ['Trump', 'Volatilidade', 'Memecoins', 'Bitcoin', 'Perdas', 'Análise']
+categorySlug: analises
+tags:
+  - Trump
+  - Volatilidade
+  - Memecoins
+  - Bitcoin
+  - Perdas
+  - Análise
 seo:
   metaTitle: 'Família Trump Perde US$ 1 Bilhão em Cripto: Lição da Volatilidade | A Cifra'
-  metaDescription: 'A família Trump perdeu mais de US$ 1 bilhão com a queda das criptomoedas. Análise completa das perdas e lições sobre volatilidade do mercado cripto.'
-  keywords: ['Trump cripto', 'volatilidade', 'memecoins', 'perdas bitcoin', 'família Trump']
+  metaDescription: >-
+    A família Trump perdeu mais de US$ 1 bilhão com a queda das criptomoedas.
+    Análise completa das perdas e lições sobre volatilidade do mercado cripto.
+  keywords:
+    - Trump cripto
+    - volatilidade
+    - memecoins
+    - perdas bitcoin
+    - família Trump
+alternateLanguages:
+  en: the-trump-family-loses-1-billion-in-crypto-a-brutal-lesson-in-volatility
+  es: >-
+    familia-trump-pierde-us-1-mil-millones-en-cripto-la-leccin-bruta-de-la-volatilidad
 ---
 
 # Família Trump Perde US$ 1 Bilhão em Cripto: A Lição Brutal da Volatilidade

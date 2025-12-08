@@ -42,7 +42,7 @@ seo:
     - backup cripto
 categorySlug: seguranca
 alternateLanguages:
-  en: how-to-protect-your-cryptocurrencies-the-complete-security-guide
+  en: how-to-protect-your-cryptocurrencies-a-comprehensive-security-guide
   es: cmo-proteger-sus-criptomonedas-gua-completa-de-seguridad
 ---
 

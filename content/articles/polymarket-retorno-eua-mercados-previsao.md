@@ -42,7 +42,7 @@ seo:
     - apostas descentralizadas
 alternateLanguages:
   en: >-
-    polymarket-puts-bad-bets-to-return-to-the-us-billion-dollar-bet-could-change-the-game-of-prediction
+    polymarket-makes-bad-bets-to-return-to-the-us-billion-dollar-bet-could-change-the-game-of-prediction
   es: >-
     polymarket-hace-las-malas-para-regresar-a-los-eua-apuesta-billonaria-puede-cambiar-el-juego-de-los-m
 ---

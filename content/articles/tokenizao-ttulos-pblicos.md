@@ -1,27 +1,42 @@
 ---
-id: 'tokenizao-ttulos-pblicos-2025-12-11'
+id: tokenizao-ttulos-pblicos-2025-12-11
 title: 'Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain'
-slug: 'tokenizao-ttulos-pblicos'
-excerpt: 'Análise completa sobre Tokenização Títulos Públicos. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: tokenizao-ttulos-pblicos
+excerpt: >-
+  Análise completa sobre Tokenização Títulos Públicos. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/defi/2025-12/tokenizao-ttulos-pblicos.webp'
+  src: /images/defi/2025-12/tokenizao-ttulos-pblicos.webp
   alt: 'Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'defi'
-tags: ["defi", "tendencias-2026", "tecnologia"]
+categorySlug: defi
+tags:
+  - defi
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Tokenização Títulos Públicos. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Tokenização Títulos Públicos", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Tokenização Títulos Públicos. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Tokenização Títulos Públicos
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: treasury-tokenized-titles-fixed-income-on-the-blockchain
+  es: ttulos-del-tesoro-tokenizados-renta-fija-en-blockchain
 ---
 
 # Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain

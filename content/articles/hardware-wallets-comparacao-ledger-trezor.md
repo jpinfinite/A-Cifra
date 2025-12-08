@@ -28,7 +28,7 @@ seo:
     - segurança
 alternateLanguages:
   en: hardware-wallets-ledger-vs-trezor-comparison
-  es: dispositivos-de-hardware-ledger-vs-trezor-comparacin
+  es: billeteras-de-hardware-ledger-vs-trezor-comparacin
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda hardware wallets: ledger vs trezor comparação.

@@ -34,7 +34,7 @@ seo:
     - dex tutorial
     - uniswap metamask
 alternateLanguages:
-  en: how-to-use-uniswap-complete-tutorial-on-token-swapping
+  en: how-to-use-uniswap-a-comprehensive-token-swap-tutorial
   es: cmo-usar-uniswap-tutorial-completo-de-swap-de-tokens
 ---
 

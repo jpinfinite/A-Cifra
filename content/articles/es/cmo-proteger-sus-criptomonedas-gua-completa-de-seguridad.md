@@ -45,7 +45,7 @@ categorySlug: seguranca
 language: es
 alternateLanguages:
   pt: como-proteger-criptomoedas-guia-completo-seguranca
-  en: how-to-protect-your-cryptocurrencies-the-complete-security-guide
+  en: how-to-protect-your-cryptocurrencies-a-comprehensive-security-guide
 ---
 A seguridad de criptomoedas es fundamental para cualquier inversor en el mercado cripto. Con el aumento de hacks, golpes y ataques, saber cómo proteger adecuadamente sus activos digitales puede ser la diferencia entre preservar y perder sus inversiones.
 

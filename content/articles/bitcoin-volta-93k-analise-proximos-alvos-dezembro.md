@@ -35,9 +35,10 @@ seo:
     - análise bitcoin
     - bitcoin 100k
 alternateLanguages:
-  en: bitcoin-hits-93k-after-correction---next-targets-and-december-2025-analysis
+  en: >-
+    bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis
   es: >-
-    bitcoin-volta-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025
+    bitcoin-vuelve-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025

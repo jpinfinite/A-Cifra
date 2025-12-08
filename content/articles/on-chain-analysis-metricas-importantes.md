@@ -28,7 +28,7 @@ seo:
     - blockchain
 alternateLanguages:
   en: on-chain-analysis-key-metrics-for-investors
-  es: anlisis-en-chain-mtricas-importantes-para-inversores
+  es: anlisis-en-chain-mtricas-importantes-para-inversionistas
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora análise on-chain: métricas importantes para investidores.

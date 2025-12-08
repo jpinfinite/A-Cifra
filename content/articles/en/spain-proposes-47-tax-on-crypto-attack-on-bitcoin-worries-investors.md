@@ -42,7 +42,7 @@ language: en
 alternateLanguages:
   pt: espanha-imposto-47-cripto-ataque-bitcoin-2025
   es: >-
-    espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas
+    espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversores
 ---
 A Espanha pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O Sumar, partido júnior da coalizão governista espanhola, propôs um imposto de 47% sobre ganhos com criptomoedas, em uma medida que críticos já descrevem como um "ataque direto contra o bitcoin".
 

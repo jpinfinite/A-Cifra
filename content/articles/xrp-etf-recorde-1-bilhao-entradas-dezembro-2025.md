@@ -1,24 +1,47 @@
 ---
-id: 'xrp-etf-recorde-1-bilhao-entradas-dezembro-2025'
+id: xrp-etf-recorde-1-bilhao-entradas-dezembro-2025
 title: 'XRP ETF Bate Recorde com $1 Bilhão em Entradas: Nova Era para Ripple'
-slug: 'xrp-etf-recorde-1-bilhao-entradas-dezembro-2025'
-excerpt: 'ETF de XRP registra entrada histórica de $1 bilhão em dezembro 2025, sinalizando forte demanda institucional e possível aprovação da SEC. Análise completa do impacto.'
+slug: xrp-etf-recorde-1-bilhao-entradas-dezembro-2025
+excerpt: >-
+  ETF de XRP registra entrada histórica de $1 bilhão em dezembro 2025,
+  sinalizando forte demanda institucional e possível aprovação da SEC. Análise
+  completa do impacto.
 coverImage:
-  src: '/images/028.jpg'
-  alt: 'Gráfico mostrando entradas recordes no ETF de XRP'
+  src: /images/028.jpg
+  alt: Gráfico mostrando entradas recordes no ETF de XRP
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'altcoins'
-tags: ['XRP', 'ETF', 'Ripple', 'institucional', 'SEC', 'regulação']
+categorySlug: altcoins
+tags:
+  - XRP
+  - ETF
+  - Ripple
+  - institucional
+  - SEC
+  - regulação
 seo:
-  metaTitle: 'XRP ETF Recorde $1 Bilhão em Entradas Dezembro 2025 | Análise Completa | A Cifra'
-  metaDescription: 'ETF de XRP bate recorde com $1 bilhão em entradas. Análise do impacto institucional, perspectivas de aprovação da SEC e o que isso significa para o preço do XRP.'
-  keywords: ['XRP ETF', 'Ripple', 'ETF criptomoedas', 'investimento institucional', 'SEC', 'XRP preço']
+  metaTitle: >-
+    XRP ETF Recorde $1 Bilhão em Entradas Dezembro 2025 | Análise Completa | A
+    Cifra
+  metaDescription: >-
+    ETF de XRP bate recorde com $1 bilhão em entradas. Análise do impacto
+    institucional, perspectivas de aprovação da SEC e o que isso significa para
+    o preço do XRP.
+  keywords:
+    - XRP ETF
+    - Ripple
+    - ETF criptomoedas
+    - investimento institucional
+    - SEC
+    - XRP preço
+alternateLanguages:
+  en: ripples-xrp-etf-breaks-record-with-1-billion-in-inflows-new-era-for-ripple
+  es: xrp-etf-rompe-rcord-con-1-mil-millones-en-ingresos-nueva-era-para-ripple
 ---
 
 # XRP ETF Bate Recorde com $1 Bilhão em Entradas: Nova Era para Ripple

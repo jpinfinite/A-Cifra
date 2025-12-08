@@ -40,7 +40,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: depin-infraestrutura-descentralizada-2026
-  en: decentralized-infrastructure-by-depin-2026-in-2026-the-definitive-guide
+  en: decentralized-infrastructure-2026-in-2026-the-definitive-guide
 ---
 # DePIN Infraestrutura Descentralizada 2026 em 2026: Guia Definitivo
 

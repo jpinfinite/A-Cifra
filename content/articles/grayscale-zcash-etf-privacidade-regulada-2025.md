@@ -36,7 +36,7 @@ seo:
     - moedas privacidade
     - zcash regulado
 alternateLanguages:
-  en: zcash-grayscale-etf---regulated-privacy-or-just-in-name
+  en: zcash-grayscale-etf---regulated-privacy-or-just-a-name
   es: grayscale-etf-de-zcash---privacidad-regulada-o-solo-en-el-nombre
 ---
 

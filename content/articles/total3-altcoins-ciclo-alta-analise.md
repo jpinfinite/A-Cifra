@@ -1,24 +1,54 @@
 ---
-id: 'total3-altcoins-ciclo-alta'
-slug: 'total3-altcoins-ciclo-alta-analise'
-title: "TOTAL3: Altcoins Confirmam Força Estrutural e Preparam Terreno para Novo Ciclo de Alta"
-excerpt: "Análise macro do índice TOTAL3 e das principais altcoins que sinalizam renovada confiança e potencial de valorização no mercado cripto."
+id: total3-altcoins-ciclo-alta
+slug: total3-altcoins-ciclo-alta-analise
+title: >-
+  TOTAL3: Altcoins Confirmam Força Estrutural e Preparam Terreno para Novo Ciclo
+  de Alta
+excerpt: >-
+  Análise macro do índice TOTAL3 e das principais altcoins que sinalizam
+  renovada confiança e potencial de valorização no mercado cripto.
 coverImage:
-  src: '/images/188.jpg'
-  alt: 'TOTAL3 - Índice de Altcoins em Alta'
+  src: /images/188.jpg
+  alt: TOTAL3 - Índice de Altcoins em Alta
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-11-02"
-updatedAt: "2025-11-02"
-categorySlug: "analises"
-tags: ["total3", "altcoins", "análise técnica", "ena", "crv", "inj", "vet", "op", "xtz"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-11-02'
+updatedAt: '2025-11-02'
+categorySlug: analises
+tags:
+  - total3
+  - altcoins
+  - análise técnica
+  - ena
+  - crv
+  - inj
+  - vet
+  - op
+  - xtz
 seo:
-  metaTitle: "TOTAL3 Confirma Ciclo de Alta: Altcoins Mostram Força Estrutural | A Cifra"
-  metaDescription: "Análise completa do índice TOTAL3 e das principais altcoins (ENA, CRV, INJ, VET, OP, XTZ) que sinalizam novo ciclo de alta no mercado cripto."
-  keywords: ["total3", "altcoins", "análise técnica", "ciclo de alta", "ena", "crv", "injective", "vechain", "optimism", "tezos"]
+  metaTitle: 'TOTAL3 Confirma Ciclo de Alta: Altcoins Mostram Força Estrutural | A Cifra'
+  metaDescription: >-
+    Análise completa do índice TOTAL3 e das principais altcoins (ENA, CRV, INJ,
+    VET, OP, XTZ) que sinalizam novo ciclo de alta no mercado cripto.
+  keywords:
+    - total3
+    - altcoins
+    - análise técnica
+    - ciclo de alta
+    - ena
+    - crv
+    - injective
+    - vechain
+    - optimism
+    - tezos
+alternateLanguages:
+  en: >-
+    total3-altcoins-confirm-structural-strength-and-prepare-ground-for-new-high-cycle
+  es: >-
+    total3-las-altcoins-confirman-su-fuerza-estructural-y-preparan-el-terreno-para-un-nuevo-ciclo-de-alt
 ---
 
 # TOTAL3 Confirma Ciclo de Alta: Altcoins Mostram Resiliência e Liderança Técnica

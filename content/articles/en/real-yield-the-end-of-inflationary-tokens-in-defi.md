@@ -37,7 +37,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: defi-20-real-yield
-  es: real-rentabilidad-el-fin-de-los-tokens-inflacionarios-en-defi
+  es: real-rendimiento-el-fin-de-los-tokens-inflacionarios-en-defi
 ---
 The End of Inflationary Tokens in DeFi: A New Era of Real Yield
 

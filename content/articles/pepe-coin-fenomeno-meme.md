@@ -34,7 +34,7 @@ seo:
     - memecoins 2023
     - investir pepe
 alternateLanguages:
-  en: pepe-coin-the-2023-memecoin-phenomenon
+  en: pepe-coin-the-memecoin-phenomenon-of-2023
   es: pepe-coin-el-fenmeno-memecoin-de-2023
 ---
 

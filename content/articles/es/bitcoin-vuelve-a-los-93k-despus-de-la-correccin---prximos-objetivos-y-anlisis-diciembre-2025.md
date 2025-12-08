@@ -41,7 +41,7 @@ seo:
 alternateLanguages:
   pt: bitcoin-volta-93k-analise-proximos-alvos-dezembro
   en: >-
-    bitcoin-reaches-93k-after-correction---next-targets-and-december-2025-analysis
+    bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis
 language: es
 ---
 # Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025

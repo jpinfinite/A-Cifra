@@ -1,24 +1,48 @@
 ---
-id: 'trading-cripto-iniciantes-estrategias-2025'
-title: 'Trading de Criptomoedas para Iniciantes: Guia Completo 2025 -ias, Indicadores e Gestão de Risco'
-slug: 'trading-cripto-iniciantes-estrategias-2025'
-excerpt: 'Aprenda trading de cripto do zero: análise técnica, indicadores (RSI, MACD, Fibonacci), estratégias comprovadas, gestão de risco e como evitar erros comuns em 2025.'
+id: trading-cripto-iniciantes-estrategias-2025
+title: >-
+  Trading de Criptomoedas para Iniciantes: Guia Completo 2025 -ias, Indicadores
+  e Gestão de Risco
+slug: trading-cripto-iniciantes-estrategias-2025
+excerpt: >-
+  Aprenda trading de cripto do zero: análise técnica, indicadores (RSI, MACD,
+  Fibonacci), estratégias comprovadas, gestão de risco e como evitar erros
+  comuns em 2025.
 coverImage:
-  src: '/images/trading-cripto-iniciantes-2025.jpg'
-  alt: 'Trading de criptomoedas para iniciantes guia completo 2025'
+  src: /images/trading-cripto-iniciantes-2025.jpg
+  alt: Trading de criptomoedas para iniciantes guia completo 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'trading'
-tags: ['trading', 'análise técnica', 'day trade', 'swing trade', 'indicadores', 'estratégias']
+categorySlug: trading
+tags:
+  - trading
+  - análise técnica
+  - day trade
+  - swing trade
+  - indicadores
+  - estratégias
 seo:
   metaTitle: 'Trading de Cripto para Iniciantes: Guia Completo 2025 | A Cifra'
-  metaDescription: 'Guia completo de trading de criptomoedas: análise técnica, indicadores (RSI, MACD), estratégias comprovadas, gestão de risco. Aprenda a tradear com segurança.'
-  keywords: ['trading cripto', 'day trade bitcoin', 'análise técnica', 'indicadores trading', 'estratégias cripto']
+  metaDescription: >-
+    Guia completo de trading de criptomoedas: análise técnica, indicadores (RSI,
+    MACD), estratégias comprovadas, gestão de risco. Aprenda a tradear com
+    segurança.
+  keywords:
+    - trading cripto
+    - day trade bitcoin
+    - análise técnica
+    - indicadores trading
+    - estratégias cripto
+alternateLanguages:
+  en: >-
+    cryptocurrency-trading-for-beginners-complete-guide-2025---indicators-and-risk-management
+  es: >-
+    trading-de-criptomonedas-para-iniciantes-gua-completa-2025---ndices-e-gestin-de-riesgo
 ---
 
 # Trading de Criptomoedas para Iniciantes: Guia Completo 2025

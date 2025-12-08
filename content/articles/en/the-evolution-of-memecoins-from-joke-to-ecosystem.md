@@ -37,7 +37,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: memecoins-utilitrias
-  es: la-evolucin-de-las-memecoins-de-chiste-para-ecossistema
+  es: la-evolucin-de-las-memecoins-de-piada-para-ecossistema
 ---
 The Evolution of Memecoins: From Joke to Ecosystem
 

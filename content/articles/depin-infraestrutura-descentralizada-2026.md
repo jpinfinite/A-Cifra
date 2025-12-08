@@ -37,7 +37,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: decentralized-infrastructure-by-depin-2026-in-2026-the-definitive-guide
+  en: decentralized-infrastructure-2026-in-2026-the-definitive-guide
   es: depin-infraestructura-descentralizada-2026-en-2026-gua-definitiva
 ---
 

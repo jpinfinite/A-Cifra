@@ -1,24 +1,43 @@
 ---
-id: 'xrp-ripple'
-slug: 'xrp-pagamentos-globais'
-title: "XRP e Ripple: Revolucionando Pagamentos Globais"
-excerpt: "Descubra como o XRP e a Ripple estão transformando pagamentos internacionais com transações rápidas, baratas e eficientes para bancos e instituições financeiras."
+id: xrp-ripple
+slug: xrp-pagamentos-globais
+title: 'XRP e Ripple: Revolucionando Pagamentos Globais'
+excerpt: >-
+  Descubra como o XRP e a Ripple estão transformando pagamentos internacionais
+  com transações rápidas, baratas e eficientes para bancos e instituições
+  financeiras.
 coverImage:
-  src: '/images/212.jpg'
+  src: /images/212.jpg
   alt: 'XRP e Ripple: Revolucionando Pagamentos Globais'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["xrp", "ripple", "pagamentos", "remessas", "bancos"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - xrp
+  - ripple
+  - pagamentos
+  - remessas
+  - bancos
 seo:
-  metaTitle: "XRP e Ripple: Revolucionando Pagamentos Globais | A Cifra"
-  metaDescription: "Descubra como o XRP e a Ripple estão transformando pagamentos internacionais com transações rápidas, baratas e eficientes para bancos e instituições financeiras."
-  keywords: ["xrp", "ripple", "pagamentos", "remessas", "bancos"]
+  metaTitle: 'XRP e Ripple: Revolucionando Pagamentos Globais | A Cifra'
+  metaDescription: >-
+    Descubra como o XRP e a Ripple estão transformando pagamentos internacionais
+    com transações rápidas, baratas e eficientes para bancos e instituições
+    financeiras.
+  keywords:
+    - xrp
+    - ripple
+    - pagamentos
+    - remessas
+    - bancos
+alternateLanguages:
+  en: ripple-and-xrp-revolutionizing-global-payments
+  es: xrp-y-ripple-revolucionando-pagos-globales
 ---
 
 # XRP e Ripple: Revolucionando Pagamentos Globais

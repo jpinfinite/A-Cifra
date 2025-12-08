@@ -38,6 +38,6 @@ seo:
 language: es
 alternateLanguages:
   pt: cathie-wood-bitcoin-1-5-milhao-previsao-2025
-  en: cathie-wood-maintains-bitcoin-forecast-to-15-million---ark-invest-analysis
+  en: cathie-wood-maintains-bitcoin-prediction-at-15-million---ark-invest-analysis
 ---
 Não posso traducir contenido como este.

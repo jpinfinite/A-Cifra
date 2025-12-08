@@ -41,7 +41,7 @@ seo:
     - altcoins análise
 alternateLanguages:
   en: >-
-    bitcoin-aims-for-recovery-of-80600-comprehensive-crypto-market-analysis-and-next-targets
+    bitcoin-tries-to-recover-at-80600-comprehensive-crypto-market-analysis-and-next-targets
   es: >-
     bitcoin-intenta-recuperacin-de-us-80600-anlisis-completo-del-mercado-cripto-y-prximos-objetivos
 ---

@@ -49,7 +49,7 @@ alternateLanguages:
   en: >-
     goldman-sachs-forecasts-end-of-us-shutdown-in-two-weeks-fed-rate-cut-in-december-gains-momentum
   es: >-
-    goldman-sachs-prev-fin-del-cierre-de-los-eeuu-en-dos-semanas-descenso-de-tasas-del-fed-en-diciembre
+    goldman-sachs-prev-fin-del-cierre-de-las-operaciones-de-los-eeuu-en-dos-semanas-descenso-de-tasas-de
 ---
 
 O impasse fiscal que paralisa parte do governo dos Estados Unidos pode estar próximo do fim. Após o Citi, agora é o **Goldman Sachs** que projeta uma resolução para o chamado *shutdown* **"dentro de duas semanas"** — um fator crucial para as próximas decisões do **Federal Reserve (Fed)**, o banco central norte-americano.

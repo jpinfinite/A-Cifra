@@ -1,24 +1,44 @@
 ---
-id: 'xrp-rompimento-historico-etf'
-slug: 'xrp-rompimento-historico-etf-analise'
-title: "XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mira Alvos Históricos"
-excerpt: "Análise técnica e macro do rompimento estrutural da XRP após 7 anos, projeções de preço e impacto do possível ETF no mercado."
+id: xrp-rompimento-historico-etf
+slug: xrp-rompimento-historico-etf-analise
+title: 'XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mira Alvos Históricos'
+excerpt: >-
+  Análise técnica e macro do rompimento estrutural da XRP após 7 anos, projeções
+  de preço e impacto do possível ETF no mercado.
 coverImage:
-  src: '/images/211.jpg'
-  alt: 'XRP - Rompimento Histórico'
+  src: /images/211.jpg
+  alt: XRP - Rompimento Histórico
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-11-02"
-updatedAt: "2025-11-02"
-categorySlug: "altcoins"
-tags: ["xrp", "ripple", "análise técnica", "etf", "rompimento", "altcoins"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-11-02'
+updatedAt: '2025-11-02'
+categorySlug: altcoins
+tags:
+  - xrp
+  - ripple
+  - análise técnica
+  - etf
+  - rompimento
+  - altcoins
 seo:
-  metaTitle: "XRP Rompe Padrão de 7 Anos: Análise do Rompimento e ETF | A Cifra"
-  metaDescription: "Análise completa do rompimento histórico da XRP após 7 anos, nova base de acumulação, projeções de preço e impacto do possível ETF spot."
-  keywords: ["xrp", "ripple", "rompimento", "análise técnica", "etf xrp", "projeções xrp", "altcoins"]
+  metaTitle: 'XRP Rompe Padrão de 7 Anos: Análise do Rompimento e ETF | A Cifra'
+  metaDescription: >-
+    Análise completa do rompimento histórico da XRP após 7 anos, nova base de
+    acumulação, projeções de preço e impacto do possível ETF spot.
+  keywords:
+    - xrp
+    - ripple
+    - rompimento
+    - análise técnica
+    - etf xrp
+    - projeções xrp
+    - altcoins
+alternateLanguages:
+  en: xrp-breaks-7-year-pattern-builds-new-base-and-market-eyes-historic-targets
+  es: xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos
 ---
 
 # XRP: Rompimento Histórico, Acumulação Forte e Novo Ciclo à Vista

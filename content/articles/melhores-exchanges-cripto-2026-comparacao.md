@@ -34,7 +34,7 @@ seo:
     - Bitget
 alternateLanguages:
   en: best-crypto-exchanges-2026-complete-comparison
-  es: mejores-exchanges-de-cripto-2026-comparacin-completa
+  es: mejores-intercambios-de-criptomonedas-2026-comparacin-completa
 ---
 
 # Melhores Exchanges de Cripto 2026: Comparação Completa

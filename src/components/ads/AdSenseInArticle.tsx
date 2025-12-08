@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 
 interface AdSenseInArticleProps {
   slot?: string
@@ -11,19 +11,37 @@ interface AdSenseInArticleProps {
  * Anúncio In-Article - Melhor performance (RPM $8-12)
  * Posicionar no meio do conteúdo do artigo
  */
-export function AdSenseInArticle({ 
+export function AdSenseInArticle({
   slot = '2401624018', // Slot In-Article 1 configurado
-  className = '' 
+  className = ''
 }: AdSenseInArticleProps) {
+  const [isMounted, setIsMounted] = useState(false)
+
   useEffect(() => {
-    try {
-      if (typeof window !== 'undefined') {
-        (window.adsbygoogle = window.adsbygoogle || []).push({})
-      }
-    } catch {
-      // AdSense error handled silently
-    }
+    setIsMounted(true)
   }, [])
+
+  useEffect(() => {
+    if (isMounted) {
+      try {
+        if (typeof window !== 'undefined') {
+          (window.adsbygoogle = window.adsbygoogle || []).push({})
+        }
+      } catch {
+        // AdSense error handled silently
+      }
+    }
+  }, [isMounted])
+
+  if (!isMounted) {
+    return (
+      <div className={`my-8 ${className}`}>
+        <div className="bg-gray-100 dark:bg-gray-800 rounded-lg h-[280px] w-full flex items-center justify-center animate-pulse">
+          <span className="text-xs text-gray-400">Publicidade</span>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className={`my-8 ${className}`}>

@@ -1,24 +1,51 @@
 ---
-id: 'top-10-altcoins-dezembro-2025-investir'
-title: 'Top 10 Altcoins para Investir em Dezembro 2025: Análise Fundamentalista Completa'
-slug: 'top-10-altcoins-dezembro-2025-investir'
-excerpt: 'Descubra as 10 altcoins mais promissoras para investir em dezembro 2025. Análise fundamentalista completa, potencial de valorização, riscos e estratégias de portfolio para maximizar seus ganhos.'
+id: top-10-altcoins-dezembro-2025-investir
+title: >-
+  Top 10 Altcoins para Investir em Dezembro 2025: Análise Fundamentalista
+  Completa
+slug: top-10-altcoins-dezembro-2025-investir
+excerpt: >-
+  Descubra as 10 altcoins mais promissoras para investir em dezembro 2025.
+  Análise fundamentalista completa, potencial de valorização, riscos e
+  estratégias de portfolio para maximizar seus ganhos.
 coverImage:
-  src: '/images/articles/top-10-altcoins-dezembro-2025.jpg'
-  alt: 'Smartphone displaying cryptocurrency data next to Bitcoin on a calendar offers finance and technology insights.'
+  src: /images/articles/top-10-altcoins-dezembro-2025.jpg
+  alt: >-
+    Smartphone displaying cryptocurrency data next to Bitcoin on a calendar
+    offers finance and technology insights.
   width: 6016
   height: 4016
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/avatar.png'
+  name: Jonatha Pereira
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'altcoins'
-tags: ['altcoins', 'investimento', 'análise fundamentalista', 'dezembro 2025', 'portfolio', 'trading', 'criptomoedas']
+categorySlug: altcoins
+tags:
+  - altcoins
+  - investimento
+  - análise fundamentalista
+  - dezembro 2025
+  - portfolio
+  - trading
+  - criptomoedas
 seo:
-  metaTitle: 'Top 10 Altcoins para Investir em Dezembro 2025 | Análise Completa'
-  metaDescription: 'Descubra as 10 altcoins mais promissoras para dezembro 2025. Análise fundamentalista, potencial de valorização, riscos e estratégias de portfolio. Guia completo para investidores.'
-  keywords: ['altcoins promissoras', 'investir altcoins', 'melhores altcoins 2025', 'análise fundamentalista', 'portfolio cripto', 'altcoins dezembro 2025']
+  metaTitle: Top 10 Altcoins para Investir em Dezembro 2025 | Análise Completa
+  metaDescription: >-
+    Descubra as 10 altcoins mais promissoras para dezembro 2025. Análise
+    fundamentalista, potencial de valorização, riscos e estratégias de
+    portfolio. Guia completo para investidores.
+  keywords:
+    - altcoins promissoras
+    - investir altcoins
+    - melhores altcoins 2025
+    - análise fundamentalista
+    - portfolio cripto
+    - altcoins dezembro 2025
+alternateLanguages:
+  en: top-10-altcoins-to-invest-in-december-2025-complete-fundamental-analysis
+  es: >-
+    top-10-monedas-alternativas-para-invertir-en-diciembre-2025-anlisis-fundamentalista-completo
 ---
 
 Dezembro de 2025 está chegando e o mercado de altcoins está **aquecido**. Com o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) testando os $90K e o mercado cripto em recuperação, este é o momento ideal para posicionar seu portfolio nas altcoins certas.

@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 
 interface SidebarAdProps {
   slot?: string
@@ -14,18 +14,38 @@ declare global {
   }
 }
 
-export function SidebarAd({ 
+export function SidebarAd({
   slot,
   sticky = false,
-  className = '' 
+  className = ''
 }: SidebarAdProps) {
+  const [isMounted, setIsMounted] = useState(false)
+
   useEffect(() => {
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({})
-    } catch {
-      // AdSense error handled silently
-    }
+    setIsMounted(true)
   }, [])
+
+  useEffect(() => {
+    if (isMounted) {
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({})
+      } catch {
+        // AdSense error handled silently
+      }
+    }
+  }, [isMounted])
+
+  if (!isMounted) {
+    return (
+      <div className={`sidebar-ad-container ${sticky ? 'lg:sticky lg:top-24' : ''} ${className}`}>
+        <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 h-full flex items-center justify-center min-h-[250px] animate-pulse">
+          <p className="text-xs text-gray-400 dark:text-gray-500">
+            Publicidade
+          </p>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className={`sidebar-ad-container ${sticky ? 'lg:sticky lg:top-24' : ''} ${className}`}>

@@ -1,24 +1,53 @@
 ---
-id: 'usdt-rebaixamento-sp-stablecoins-seguras-2025'
-title: 'USDT em Risco? S&P Rebaixa Rating para Nota Mais Baixa - Guia Completo de Stablecoins Seguras 2025'
-slug: 'usdt-rebaixamento-sp-stablecoins-seguras-2025'
-excerpt: 'S&P Global rebaixou o rating do USDT para a nota mais baixa. Entenda o que isso significa, os riscos envolvidos e quais são as stablecoins mais seguras para proteger seu patrimônio em 2025.'
+id: usdt-rebaixamento-sp-stablecoins-seguras-2025
+title: >-
+  USDT em Risco? S&P Rebaixa Rating para Nota Mais Baixa - Guia Completo de
+  Stablecoins Seguras 2025
+slug: usdt-rebaixamento-sp-stablecoins-seguras-2025
+excerpt: >-
+  S&P Global rebaixou o rating do USDT para a nota mais baixa. Entenda o que
+  isso significa, os riscos envolvidos e quais são as stablecoins mais seguras
+  para proteger seu patrimônio em 2025.
 coverImage:
-  src: '/images/usdt.jpg'
+  src: /images/usdt.jpg
   alt: 'Análise de stablecoins e segurança - USDT, USDC, DAI'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/avatar.png'
+  name: Jonatha Pereira
+  avatar: /avatar.png
 publishedAt: '2025-11-26'
 updatedAt: '2025-11-26'
-categorySlug: 'defi'
-tags: ['USDT', 'Tether', 'stablecoins', 'USDC', 'DAI', 'segurança', 'S&P', 'regulação']
+categorySlug: defi
+tags:
+  - USDT
+  - Tether
+  - stablecoins
+  - USDC
+  - DAI
+  - segurança
+  - S&P
+  - regulação
 seo:
   metaTitle: 'USDT Rebaixado pela S&P: Stablecoins Seguras 2025 | A Cifra'
-  metaDescription: 'S&P rebaixou USDT para nota mais baixa. Descubra os riscos, alternativas seguras (USDC, DAI) e como proteger seu patrimônio com stablecoins confiáveis em 2025.'
-  keywords: ['USDT', 'Tether', 'stablecoin segura', 'USDC', 'DAI', 'S&P rating', 'criptomoedas seguras', 'stablecoins 2025']
+  metaDescription: >-
+    S&P rebaixou USDT para nota mais baixa. Descubra os riscos, alternativas
+    seguras (USDC, DAI) e como proteger seu patrimônio com stablecoins
+    confiáveis em 2025.
+  keywords:
+    - USDT
+    - Tether
+    - stablecoin segura
+    - USDC
+    - DAI
+    - S&P rating
+    - criptomoedas seguras
+    - stablecoins 2025
+alternateLanguages:
+  en: >-
+    usdt-at-risk-sp-downgrades-rating-to-lowest-note---complete-guide-to-safe-stablecoins-2025
+  es: >-
+    usdt-en-riesgo-sp-baja-calificacin-para-nota-ms-baja---gua-completa-de-stablecoins-seguras-2025
 ---
 
 A S&P Global Ratings, uma das mais respeitadas agências de classificação de risco do mundo, acaba de rebaixar o rating de estabilidade do USDT (Tether) para sua **nota mais baixa**, levantando preocupações sérias sobre a capacidade da stablecoin de manter sua paridade com o dólar americano.

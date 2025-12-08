@@ -1,34 +1,41 @@
 ---
-id: 'tokenomics-guia'
+id: tokenomics-guia
 title: 'Tokenomics: Entendendo a Economia dos Tokens'
-slug: 'tokenomics-economia-dos-tokens'
-excerpt: 'Aprenda o que é tokenomics, como analisar a economia de um token e identificar projetos com fundamentos sólidos no mercado cripto.'
+slug: tokenomics-economia-dos-tokens
+excerpt: >-
+  Aprenda o que é tokenomics, como analisar a economia de um token e identificar
+  projetos com fundamentos sólidos no mercado cripto.
 coverImage:
-  src: '/images/075.jpg'
-  alt: 'Gráficos e análise de tokenomics'
+  src: /images/075.jpg
+  alt: Gráficos e análise de tokenomics
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'tokenomics'
-  - 'análise'
-  - 'tokens'
-  - 'economia cripto'
-  - 'investimento'
+  - tokenomics
+  - análise
+  - tokens
+  - economia cripto
+  - investimento
 seo:
   metaTitle: 'Tokenomics: Guia Completo da Economia dos Tokens | A Cifra'
-  metaDescription: 'Entenda tokenomics: oferta, distribuição, utilidade e como analisar a economia de tokens para tomar decisões de investimento informadas.'
+  metaDescription: >-
+    Entenda tokenomics: oferta, distribuição, utilidade e como analisar a
+    economia de tokens para tomar decisões de investimento informadas.
   keywords:
-    - 'tokenomics'
-    - 'economia de tokens'
-    - 'análise cripto'
-    - 'oferta circulante'
-    - 'distribuição tokens'
+    - tokenomics
+    - economia de tokens
+    - análise cripto
+    - oferta circulante
+    - distribuição tokens
+alternateLanguages:
+  en: tokenomics-understanding-token-economics
+  es: tokenomics-entendiendo-la-economa-de-los-tokens
 ---
 
 **Tokenomics** (Token + Economics) é o estudo da economia de um token ou criptomoeda. Entender tokenomics é essencial para avaliar o potencial de um projeto cripto.

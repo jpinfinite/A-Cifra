@@ -52,7 +52,7 @@ language: en
 alternateLanguages:
   pt: goldman-sachs-shutdown-eua-corte-juros-fed
   es: >-
-    goldman-sachs-prev-fin-del-cierre-de-los-eeuu-en-dos-semanas-descenso-de-tasas-del-fed-en-diciembre
+    goldman-sachs-prev-fin-del-cierre-de-las-operaciones-de-los-eeuu-en-dos-semanas-descenso-de-tasas-de
 ---
 The impasse that has paralyzed part of the US government may be near its end. Following Citi, it is now Goldman Sachs that projects a resolution to the so-called shutdown within two weeks - a crucial factor for the Federal Reserve's (Fed) next decisions, the North American central bank.
 

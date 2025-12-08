@@ -33,7 +33,7 @@ seo:
 language: en
 alternateLanguages:
   pt: ciclos-mercado-cripto-bull-bear
-  es: ciclos-de-mercado-cripto-mercados-alcistas-y-bajistas
+  es: ciclos-de-mercado-cripto-mercados-buey-y-oso
 ---
 Market Analysis is fundamental for making informed decisions. This guide explores crypto market cycles: bull and bear markets.
 

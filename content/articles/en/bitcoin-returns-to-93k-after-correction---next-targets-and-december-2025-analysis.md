@@ -42,7 +42,7 @@ language: en
 alternateLanguages:
   pt: bitcoin-volta-93k-analise-proximos-alvos-dezembro
   es: >-
-    bitcoin-volta-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025
+    bitcoin-vuelve-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025
 

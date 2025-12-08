@@ -1,27 +1,48 @@
 ---
-id: 'tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana-2025-12-06'
+id: >-
+  tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana-2025-12-06
 title: 'Tokenização de Ativos Reais RWA 2026: Maximize Seus Ganhos com Segurança'
-slug: 'tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana'
-excerpt: 'Tokenização de Ativos Reais RWA 2026. Guia completo com análise detalhada, dicas práticas e tudo que você precisa saber para tomar decisões informadas.'
+slug: tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana
+excerpt: >-
+  Tokenização de Ativos Reais RWA 2026. Guia completo com análise detalhada,
+  dicas práticas e tudo que você precisa saber para tomar decisões informadas.
 coverImage:
-  src: '/images/defi/2025-12/tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana.webp'
-  alt: 'Ilustração conceitual sobre Tokenização de Ativos Reais RWA 2026'
+  src: >-
+    /images/defi/2025-12/tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana.webp
+  alt: Ilustração conceitual sobre Tokenização de Ativos Reais RWA 2026
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-06'
 updatedAt: '2025-12-06'
-categorySlug: 'defi'
-tags: ["defi","tokenização","de","ativos"]
+categorySlug: defi
+tags:
+  - defi
+  - tokenização
+  - de
+  - ativos
 seo:
   metaTitle: 'Tokenização de Ativos Reais RWA 2026: Maximize Seus Ganhos c'
-  metaDescription: 'Tokenização de Ativos Reais RWA 2026. Análise completa, previsões e guia prático para investidores.'
-  keywords: ["Tokenização","de","Ativos","Reais","RWA","2026"]
+  metaDescription: >-
+    Tokenização de Ativos Reais RWA 2026. Análise completa, previsões e guia
+    prático para investidores.
+  keywords:
+    - Tokenização
+    - de
+    - Ativos
+    - Reais
+    - RWA
+    - '2026'
 monetization:
-  priority: 'medium'
-  affiliateLinks: ["binance","bitget"]
+  priority: medium
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: asset-tokenization-rwa-2026-maximize-your-gains-with-security
+  es: tokenizacin-de-activos-reales-rwa-2026-maximize-sus-ganancias-con-seguridad
 ---
 
 # Tokenização de Ativos Reais RWA 2026: Maximize Seus Ganhos com Segurança

@@ -35,7 +35,7 @@ seo:
     - como escolher memecoin
 alternateLanguages:
   en: how-to-identify-promising-memecoins-before-the-explosion
-  es: cmo-identificar-monedas-memecoins-prometedoras-antes-de-la-explosin
+  es: cmo-identificar-monedas-memticas-prometedoras-antes-de-la-explosin
 ---
 
 Identificar **memecoins promissoras** antes que explod am pode gerar retornos extraordinários, mas requer análise cuidadosa e gestão de risco.

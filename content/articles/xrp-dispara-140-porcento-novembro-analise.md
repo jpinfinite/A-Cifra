@@ -1,24 +1,42 @@
 ---
-id: 'xrp-dispara-140-porcento-novembro-analise'
-title: 'XRP Dispara 140% em Novembro - Análise do Rally e Próximos Alvos'
-slug: 'xrp-dispara-140-porcento-novembro-analise'
-excerpt: 'XRP explode 140% ero 2025, saindo de $0.58 para $1.40. Análise completa do rally, catalisadores fundamentais e por que $3-5 pode ser o próximo alvo.'
+id: xrp-dispara-140-porcento-novembro-analise
+title: XRP Dispara 140% em Novembro - Análise do Rally e Próximos Alvos
+slug: xrp-dispara-140-porcento-novembro-analise
+excerpt: >-
+  XRP explode 140% ero 2025, saindo de $0.58 para $1.40. Análise completa do
+  rally, catalisadores fundamentais e por que $3-5 pode ser o próximo alvo.
 coverImage:
-  src: '/images/xrp-price-surge-2025-styled.jpg'
-  alt: 'XRP disparando 140% em novembro 2025'
+  src: /images/xrp-price-surge-2025-styled.jpg
+  alt: XRP disparando 140% em novembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-30'
 updatedAt: '2025-11-30'
-categorySlug: 'altcoins'
-tags: ['xrp', 'ripple', 'rally', 'análise', 'pagamentos']
+categorySlug: altcoins
+tags:
+  - xrp
+  - ripple
+  - rally
+  - análise
+  - pagamentos
 seo:
   metaTitle: 'XRP +140% em Novembro: Análise do Rally e Próximos Alvos | A Cifra'
-  metaDescription: 'XRP explode 140% em novembro, de $0.58 para $1.40. Análise dos catalisadores, momentum técnico e por que $3-5 pode ser o próximo alvo para XRP.'
-  keywords: ['xrp rally', 'xrp 140%', 'ripple novembro', 'xrp análise', 'xrp previsão']
+  metaDescription: >-
+    XRP explode 140% em novembro, de $0.58 para $1.40. Análise dos
+    catalisadores, momentum técnico e por que $3-5 pode ser o próximo alvo para
+    XRP.
+  keywords:
+    - xrp rally
+    - xrp 140%
+    - ripple novembro
+    - xrp análise
+    - xrp previsão
+alternateLanguages:
+  en: xrp-surges-140-in-november---rally-analysis-and-next-targets
+  es: xrp-dispara-140-en-noviembre---anlisis-del-rally-y-prximos-objetivos
 ---
 
 # XRP Dispara 140% em Novembro - Análise do Rally e Próximos Alvos

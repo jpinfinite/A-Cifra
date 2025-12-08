@@ -36,7 +36,7 @@ seo:
 language: es
 alternateLanguages:
   pt: pepe-coin-fenomeno-meme
-  en: pepe-coin-the-2023-memecoin-phenomenon
+  en: pepe-coin-the-memecoin-phenomenon-of-2023
 ---
 O PEPE surgiu em abril de 2023 y rápidamente se tornou una de las memecoins más comentadas, generando retornos de milhares de por ciento para inversores iniciales.
 

@@ -1,31 +1,34 @@
-﻿---
-id: 'tokenomics-avaliar-economia-token'
+---
+id: tokenomics-avaliar-economia-token
 title: 'Tokenomics: Como Avaliar a Economia de um Token'
-slug: 'tokenomics-avaliar-economia-token'
-excerpt: 'Guia completo para analisar tokenomics e economia de projetos cripto.'
+slug: tokenomics-avaliar-economia-token
+excerpt: Guia completo para analisar tokenomics e economia de projetos cripto.
 coverImage:
-  src: '/images/crypto-tokenomics-economy-styled.jpg'
+  src: /images/crypto-tokenomics-economy-styled.jpg
   alt: 'Tokenomics: Como Avaliar a Economia de um Token'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'tokenomics'
-  - 'economia'
-  - 'tokens'
-  - 'análise'
+  - tokenomics
+  - economia
+  - tokens
+  - análise
 seo:
   metaTitle: 'Tokenomics: Como Avaliar a Economia de um Token | A Cifra'
-  metaDescription: 'Guia completo para analisar tokenomics e economia de projetos cripto.'
+  metaDescription: Guia completo para analisar tokenomics e economia de projetos cripto.
   keywords:
-    - 'tokenomics'
-    - 'economia'
-    - 'tokens'
-    - 'análise'
+    - tokenomics
+    - economia
+    - tokens
+    - análise
+alternateLanguages:
+  en: tokenomics-how-to-evaluate-the-economy-of-a-token
+  es: tokenomics-cmo-evaluar-la-economa-de-un-token
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora tokenomics: como avaliar a economia de um token.

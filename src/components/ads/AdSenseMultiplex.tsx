@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 
 interface AdSenseMultiplexProps {
   slot?: string
@@ -10,20 +10,38 @@ interface AdSenseMultiplexProps {
 /**
  * Anúncio Multiplex - Artigos relacionados com anúncios (RPM $4-6)
  * Posicionar no final do artigo
- */
-export function AdSenseMultiplex({ 
+  */
+export function AdSenseMultiplex({
   slot = '5064156814', // Slot Footer/Multiplex configurado
-  className = '' 
+  className = ''
 }: AdSenseMultiplexProps) {
+  const [isMounted, setIsMounted] = useState(false)
+
   useEffect(() => {
-    try {
-      if (typeof window !== 'undefined') {
-        (window.adsbygoogle = window.adsbygoogle || []).push({})
-      }
-    } catch {
-      // AdSense error handled silently
-    }
+    setIsMounted(true)
   }, [])
+
+  useEffect(() => {
+    if (isMounted) {
+      try {
+        if (typeof window !== 'undefined') {
+          (window.adsbygoogle = window.adsbygoogle || []).push({})
+        }
+      } catch {
+        // AdSense error handled silently
+      }
+    }
+  }, [isMounted])
+
+  if (!isMounted) {
+    return (
+      <div className={`my-8 ${className}`}>
+        <div className="bg-gray-100 dark:bg-gray-800 rounded-lg min-h-[400px] w-full flex items-center justify-center animate-pulse">
+          <span className="text-xs text-gray-400">Publicidade Recomendada</span>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className={`my-8 ${className}`}>

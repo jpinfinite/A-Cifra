@@ -1,31 +1,38 @@
 ---
-id: 'uniswap-v4-hooks-personalizacao-defi'
+id: uniswap-v4-hooks-personalizacao-defi
 title: 'Uniswap V4 e Hooks: Nova Era de Personalização em DeFi'
-slug: 'uniswap-v4-hooks-personalizacao-defi'
-excerpt: 'Descubra como Uniswap V4 está revolucionando DeFi com hooks customizáveis e arquitetura singleton.'
+slug: uniswap-v4-hooks-personalizacao-defi
+excerpt: >-
+  Descubra como Uniswap V4 está revolucionando DeFi com hooks customizáveis e
+  arquitetura singleton.
 coverImage:
-  src: '/images/defi-uniswap-dex-styled.jpg'
+  src: /images/defi-uniswap-dex-styled.jpg
   alt: 'Uniswap V4 e Hooks: Nova Era de Personalização em DeFi'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'uniswap'
-  - 'defi'
-  - 'hooks'
-  - 'amm'
+  - uniswap
+  - defi
+  - hooks
+  - amm
 seo:
   metaTitle: 'Uniswap V4 e Hooks: Nova Era de Personalização em DeFi | A Cifra'
-  metaDescription: 'Descubra como Uniswap V4 está revolucionando DeFi com hooks customizáveis e arquitetura singleton.'
+  metaDescription: >-
+    Descubra como Uniswap V4 está revolucionando DeFi com hooks customizáveis e
+    arquitetura singleton.
   keywords:
-    - 'uniswap'
-    - 'defi'
-    - 'hooks'
-    - 'amm'
+    - uniswap
+    - defi
+    - hooks
+    - amm
+alternateLanguages:
+  en: uniswap-v4-and-hooks-a-new-era-of-personalization-in-defi
+  es: uniswap-v4-y-hooks-nueva-era-de-personalizacin-en-defi
 ---
 
 **Uniswap V4** introduz hooks customizáveis que permitem desenvolvedores criarem pools de liquidez com lógica personalizada.

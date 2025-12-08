@@ -36,7 +36,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: the-evolution-of-memecoins-from-joke-to-ecosystem
-  es: la-evolucin-de-las-memecoins-de-chiste-para-ecossistema
+  es: la-evolucin-de-las-memecoins-de-piada-para-ecossistema
 ---
 
 # A Evolução das Memecoins: De Piada para Ecossistema
