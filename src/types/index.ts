@@ -12,7 +12,7 @@ export interface Article {
   tags: string[]
   seo?: SEOData
   monetization?: MonetizationData
-  language?: 'pt-BR' | 'en'
+  language?: 'pt-BR' | 'en' | 'es'
   alternateLanguages?: {
     [key: string]: string
   }
@@ -143,7 +143,7 @@ export interface TableOfContentsItem {
 export interface ArticleStructureProps {
   frontmatter: {
     title: string
-    excerpt: string 
+    excerpt: string
     coverImage: ImageData
     author: AuthorData
     publishedAt: string
@@ -161,7 +161,7 @@ export interface AffiliateConfig {
   }
   binance: {
     link: string
-    bonus: string 
+    bonus: string
     features: string[]
   }
   coinbase: {

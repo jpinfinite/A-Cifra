@@ -6,16 +6,16 @@ import { HomePageClient } from '@/components/HomePageClient'
 import { getTranslations } from '@/i18n'
 
 export const metadata = generateMetadata({
-  title: 'A Cifra - Seu guia completo sobre criptomoedas | Análises & Educação Crypto',
-  description: 'Descubra análises profundas, notícias atualizadas e educação de qualidade sobre Bitcoin, Ethereum, DeFi, NFTs e o futuro das finanças digitais. Conteúdo especializado para investidores e entusiastas.',
-  keywords: ['criptomoedas', 'bitcoin', 'ethereum', 'blockchain', 'investimentos', 'finanças', 'defi', 'nfts', 'análises crypto', 'educação blockchain', 'trading'],
-  url: '/'
+  title: 'A Cifra - Your Complete Crypto Guide | Analysis & Education',
+  description: 'Discover in-depth analysis, breaking news and quality education about Bitcoin, Ethereum, DeFi, NFTs and the future of digital finance.',
+  keywords: ['cryptocurrency', 'bitcoin', 'ethereum', 'blockchain', 'investing', 'finance', 'defi', 'nfts', 'crypto analysis', 'blockchain education', 'trading'],
+  url: '/en'
 })
 
 export default async function HomePage() {
-  const featuredArticle = await getFeaturedArticle('pt-BR')
-  const recentArticles = await getRecentArticles(12, 'pt-BR')
-  const dictionary = getTranslations('pt')
+  const featuredArticle = await getFeaturedArticle('en')
+  const recentArticles = await getRecentArticles(12, 'en')
+  const dictionary = getTranslations('en')
 
   // Get featured article, fallback to first from recent articles
   let displayFeaturedArticle = featuredArticle
@@ -28,7 +28,7 @@ export default async function HomePage() {
     return (
       <MainLayout>
         <div className="text-center py-20">
-          <p>Nenhum artigo disponível no momento.</p>
+          <p>No articles available at the moment.</p>
         </div>
       </MainLayout>
     )
@@ -48,12 +48,12 @@ export default async function HomePage() {
   }))
 
   return (
-    <MainLayout dictionary={dictionary} locale="pt-BR">
+    <MainLayout dictionary={dictionary} locale="en">
       <HomePageClient
         featuredArticle={serializedFeatured as unknown as Article}
         recentArticles={serializedRecent as unknown as Article[]}
         dictionary={dictionary}
-        locale="pt-BR"
+        locale="en"
       />
     </MainLayout>
   )

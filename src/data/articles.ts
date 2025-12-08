@@ -46,12 +46,26 @@ function sortArticlesByDate(articles: Article[]): Article[] {
  * 1. Markdown files em content/articles/ (se existirem)
  * 2. Configuração em articlesConfig.ts (fallback e override)
  */
-export async function getAllArticles(): Promise<Article[]> {
+/**
+ * Carrega todos os artigos (de arquivos + configuração em memória)
+ * Artigos são carregados de duas fontes:
+ * 1. Markdown files em content/articles/ (se existirem)
+ * 2. Configuração em articlesConfig.ts (fallback e override)
+ */
+export async function getAllArticles(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Promise<Article[]> {
   try {
-    const fileArticles = loadAllArticlesFromFiles('pt-BR')
+    const fileArticles = loadAllArticlesFromFiles(language)
 
-    // Mesclar artigos de arquivo com artigos em memória
-    // Artigos de arquivo têm prioridade sobre os em memória (mesmo slug)
+    // Mesclar artigos de arquivo com artigos em memória (apenas para pt-BR ou se decidirmos ter config multilíngue)
+    // Por enquanto, inMemoryArticles são primariamente pt-BR.
+    // Se language != pt-BR, talvez devêssemos retornar apenas fileArticles se inMemory não tiver suporte.
+    // Mas mantendo lógica original de fallback:
+
+    // Se não for PT-BR, vamos priorizar apenas os arquivos carregados da pasta específica
+    if (language !== 'pt-BR') {
+       return sortArticlesByDate(fileArticles)
+    }
+
     const fileArticleSlugs = new Set(fileArticles.map(a => a.slug))
     const configArticles = inMemoryArticles.filter(a => !fileArticleSlugs.has(a.slug))
 
@@ -61,35 +75,42 @@ export async function getAllArticles(): Promise<Article[]> {
     if (process.env.NODE_ENV === 'development') {
       console.error('Error loading all articles:', error)
     }
-    return sortArticlesByDate(inMemoryArticles)
+    // Fallback apenas se for pt-BR
+    return language === 'pt-BR' ? sortArticlesByDate(inMemoryArticles) : []
   }
 }
 
 /**
  * Busca um artigo pelo slug
  */
-export async function getArticleBySlug(slug: string): Promise<Article | undefined> {
+export async function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Promise<Article | undefined> {
   try {
-    // Tenta carregar de arquivo primeiro (português)
-    const fileArticle = loadArticleBySlug(slug, 'pt-BR')
+    // Tenta carregar de arquivo primeiro
+    const fileArticle = loadArticleBySlug(slug, language)
     if (fileArticle) return fileArticle
 
-    // Fallback para artigos em memória
-    return inMemoryArticles.find(article => article.slug === slug)
+    // Fallback para artigos em memória (apenas se PT)
+    if (language === 'pt-BR') {
+       return inMemoryArticles.find(article => article.slug === slug)
+    }
+    return undefined
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
       console.error(`Error loading article by slug ${slug}:`, error)
     }
-    return inMemoryArticles.find(article => article.slug === slug)
+    if (language === 'pt-BR') {
+       return inMemoryArticles.find(article => article.slug === slug)
+    }
+    return undefined
   }
 }
 
 /**
  * Busca artigos por categoria
  */
-export async function getArticlesByCategory(categorySlug: string): Promise<Article[]> {
+export async function getArticlesByCategory(categorySlug: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Promise<Article[]> {
   try {
-    const allArticles = await getAllArticles()
+    const allArticles = await getAllArticles(language)
     return allArticles
       .filter(article => article.category.slug === categorySlug)
       .sort((a, b) => {
@@ -108,30 +129,30 @@ export async function getArticlesByCategory(categorySlug: string): Promise<Artic
 /**
  * Retorna o artigo em destaque (mais recente)
  */
-export async function getFeaturedArticle(): Promise<Article | undefined> {
+export async function getFeaturedArticle(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Promise<Article | undefined> {
   try {
-    const allArticles = await getAllArticles()
+    const allArticles = await getAllArticles(language)
     return allArticles[0]
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
       console.error('Error loading featured article:', error)
     }
-    return inMemoryArticles[0]
+    return language === 'pt-BR' ? inMemoryArticles[0] : undefined
   }
 }
 
 /**
  * Retorna os artigos mais recentes
  */
-export async function getRecentArticles(limit: number = 6): Promise<Article[]> {
+export async function getRecentArticles(limit: number = 6, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Promise<Article[]> {
   try {
-    const allArticles = await getAllArticles()
+    const allArticles = await getAllArticles(language)
     return allArticles.slice(0, limit)
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
       console.error('Error loading recent articles:', error)
     }
-    return sortArticlesByDate(inMemoryArticles).slice(0, limit)
+    return language === 'pt-BR' ? sortArticlesByDate(inMemoryArticles).slice(0, limit) : []
   }
 }
 

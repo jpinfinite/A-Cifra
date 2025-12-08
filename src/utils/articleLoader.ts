@@ -36,10 +36,13 @@ interface ArticleFromFile {
   }
 }
 
-export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): ArticleFromFile[] {
-  const articlesDirectory = language === 'en'
-    ? path.join(process.cwd(), 'content/articles/en')
-    : path.join(process.cwd(), 'content/articles')
+export function getArticlesByLanguage(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): ArticleFromFile[] {
+  let articlesDirectory = path.join(process.cwd(), 'content/articles')
+  if (language === 'en') {
+    articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+  } else if (language === 'es') {
+    articlesDirectory = path.join(process.cwd(), 'content/articles/es')
+  }
 
   if (!fs.existsSync(articlesDirectory)) {
     return []
@@ -68,11 +71,14 @@ export function getArticlesByLanguage(language: 'pt-BR' | 'en' = 'pt-BR'): Artic
   return articles
 }
 
-export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): ArticleFromFile | null {
+export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): ArticleFromFile | null {
   try {
-    const articlesDirectory = language === 'en'
-      ? path.join(process.cwd(), 'content/articles/en')
-      : path.join(process.cwd(), 'content/articles')
+    let articlesDirectory = path.join(process.cwd(), 'content/articles')
+    if (language === 'en') {
+      articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+    } else if (language === 'es') {
+      articlesDirectory = path.join(process.cwd(), 'content/articles/es')
+    }
 
     const fullPath = path.join(articlesDirectory, `${slug}.md`)
 
@@ -97,11 +103,14 @@ export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR
   }
 }
 
-export function getAllArticleSlugs(language?: 'pt-BR' | 'en'): string[] {
+export function getAllArticleSlugs(language?: 'pt-BR' | 'en' | 'es'): string[] {
   if (language) {
-    const articlesDirectory = language === 'en'
-      ? path.join(process.cwd(), 'content/articles/en')
-      : path.join(process.cwd(), 'content/articles')
+    let articlesDirectory = path.join(process.cwd(), 'content/articles')
+    if (language === 'en') {
+      articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+    } else if (language === 'es') {
+      articlesDirectory = path.join(process.cwd(), 'content/articles/es')
+    }
 
     if (!fs.existsSync(articlesDirectory)) {
       return []
@@ -112,20 +121,21 @@ export function getAllArticleSlugs(language?: 'pt-BR' | 'en'): string[] {
       .map(fileName => fileName.replace(/\.md$/, ''))
   }
 
-  // Get slugs from both languages
+  // Get slugs from all languages
   const ptSlugs = getAllArticleSlugs('pt-BR')
   const enSlugs = getAllArticleSlugs('en')
+  const esSlugs = getAllArticleSlugs('es')
 
-  const allSlugs = [...ptSlugs, ...enSlugs]
+  const allSlugs = [...ptSlugs, ...enSlugs, ...esSlugs]
   return Array.from(new Set(allSlugs))
 }
 
 // Aliases para compatibilidade com código existente - retornam Article[]
-export function loadAllArticlesFromFiles(language: 'pt-BR' | 'en' = 'pt-BR'): Article[] {
+export function loadAllArticlesFromFiles(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Article[] {
   return getArticlesAsArticleType(language)
 }
 
-export function loadArticleBySlug(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): Article | null {
+export function loadArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Article | null {
   return getArticleAsArticleType(slug, language)
 }
 
@@ -166,7 +176,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       metaDescription: fileArticle.seo.metaDescription || fileArticle.excerpt,
       keywords: fileArticle.seo.keywords || []
     } : undefined,
-    language: (fileArticle.language === 'pt-BR' || fileArticle.language === 'en')
+    language: (fileArticle.language === 'pt-BR' || fileArticle.language === 'en' || fileArticle.language === 'es')
       ? fileArticle.language
       : undefined,
     alternateLanguages: fileArticle.alternateLanguages
@@ -174,7 +184,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
 }
 
 // Funções públicas que retornam Article[]
-export function getArticlesAsArticleType(language: 'pt-BR' | 'en' = 'pt-BR'): Article[] {
+export function getArticlesAsArticleType(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Article[] {
   const fileArticles = getArticlesByLanguage(language)
   return fileArticles.map(article => {
     try {
@@ -188,7 +198,7 @@ export function getArticlesAsArticleType(language: 'pt-BR' | 'en' = 'pt-BR'): Ar
   }).filter((article): article is Article => article !== null)
 }
 
-export function getArticleAsArticleType(slug: string, language: 'pt-BR' | 'en' = 'pt-BR'): Article | null {
+export function getArticleAsArticleType(slug: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Article | null {
   const fileArticle = getArticleBySlug(slug, language)
   if (!fileArticle) return null
   try {

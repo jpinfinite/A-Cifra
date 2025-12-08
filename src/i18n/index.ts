@@ -1,10 +1,12 @@
 import { Locale, defaultLocale } from './config'
 import ptTranslations from './locales/pt.json'
 import enTranslations from './locales/en.json'
+import esTranslations from './locales/es.json'
 
 const translations = {
   pt: ptTranslations,
-  en: enTranslations
+  en: enTranslations,
+  es: esTranslations
 }
 
 export function getTranslations(locale: Locale = defaultLocale) {
@@ -14,7 +16,7 @@ export function getTranslations(locale: Locale = defaultLocale) {
 export function translate(locale: Locale, key: string): string {
   const t = getTranslations(locale)
   const keys = key.split('.')
-  
+
   let value: unknown = t
   for (const k of keys) {
     if (value && typeof value === 'object' && k in value) {
@@ -24,7 +26,7 @@ export function translate(locale: Locale, key: string): string {
       break
     }
   }
-  
+
   return typeof value === 'string' ? value : key
 }
 

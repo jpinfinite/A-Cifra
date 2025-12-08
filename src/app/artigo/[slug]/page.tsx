@@ -96,14 +96,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <Breadcrumbs items={breadcrumbItems} className="mb-6" />
 
         {/* Language Toggle */}
-        {'alternateLanguages' in article && article.alternateLanguages && 'en' in article.alternateLanguages && (
-          <div className="mb-6">
-            <LanguageToggle
-              currentLang="pt-BR"
-              alternateSlug={article.alternateLanguages.en as string}
-            />
-          </div>
-        )}
+        {/* Language Toggle */}
+        <div className="mb-6">
+          <LanguageToggle
+            currentLang="pt-BR"
+            alternateSlugEn={article.alternateLanguages?.en}
+            alternateSlugEs={article.alternateLanguages?.es}
+          />
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Main Content */}

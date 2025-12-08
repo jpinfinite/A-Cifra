@@ -18,9 +18,9 @@ interface ArticlePageProps {
   }
 }
 
-// Gerar paths estáticos para todos os artigos em inglês
+// Gerar paths estáticos para todos os artigos em espanhol
 export async function generateStaticParams() {
-  const articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+  const articlesDirectory = path.join(process.cwd(), 'content/articles/es')
 
   if (!fs.existsSync(articlesDirectory)) {
     return []
@@ -37,7 +37,7 @@ export async function generateStaticParams() {
 
 async function getArticle(slug: string): Promise<ArticleFromFile | null> {
   try {
-    const articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+    const articlesDirectory = path.join(process.cwd(), 'content/articles/es')
     const filePath = path.join(articlesDirectory, `${slug}.md`)
 
     if (!fs.existsSync(filePath)) {
@@ -51,7 +51,7 @@ async function getArticle(slug: string): Promise<ArticleFromFile | null> {
       ...data,
       content,
       slug,
-      language: 'en'
+      language: 'es'
     } as ArticleFromFile
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
@@ -66,7 +66,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   if (!article) {
     return {
-      title: 'Article Not Found | A Cifra'
+      title: 'Artículo no encontrado | A Cifra'
     }
   }
 
@@ -78,7 +78,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       title: article.title,
       description: article.excerpt,
       images: [article.coverImage?.src || '/images/default-og.jpg'],
-      locale: 'en_US',
+      locale: 'es_ES',
       alternateLocale: 'pt_BR'
     }
   }
@@ -95,13 +95,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     <main className="min-h-screen bg-gray-50">
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Language Toggle */}
-        {/* Language Toggle */}
         <div className="mb-6">
           <LanguageToggle
-            currentLang="en"
+            currentLang="es"
             alternateSlugPt={article.alternateLanguages?.pt}
-            alternateSlugEs={article.alternateLanguages?.es}
-          // fallback for backward compatibility if needed, but preferred new props
+            alternateSlugEn={article.alternateLanguages?.en}
           />
         </div>
 
@@ -119,11 +117,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           <div className="flex items-center gap-4 text-sm text-gray-500">
             {article.author && (
-              <span>By {article.author.name}</span>
+              <span>Por {article.author.name}</span>
             )}
             {article.publishedAt && (
               <time dateTime={article.publishedAt}>
-                {new Date(article.publishedAt).toLocaleDateString('en-US', {
+                {new Date(article.publishedAt).toLocaleDateString('es-ES', {
                   year: 'numeric',
                   month: 'long',
                   day: 'numeric'

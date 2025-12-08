@@ -2,47 +2,52 @@ import Link from 'next/link'
 import { Twitter, Instagram } from 'lucide-react'
 import { Text, Logo } from '@/components/ui'
 
-const footerLinks = {
-  categorias: [
-    { label: 'Bitcoin', href: '/categoria/bitcoin' },
-    { label: 'Altcoins', href: '/categoria/altcoins' },
-    { label: 'DeFi', href: '/categoria/defi' },
-    { label: 'NFTs', href: '/categoria/nfts' },
-  ],
-  recursos: [
-    { label: 'Análises', href: '/categoria/analises' },
-    { label: 'Educação', href: '/categoria/educacao' },
-    { label: 'Glossário', href: '/glossario' },
-    { label: 'Calculadoras', href: '/ferramentas' },
-  ],
-  empresa: [
-    { label: 'Sobre Nós', href: '/sobre' },
-    { label: 'Contato', href: '/contatos' },
-    { label: 'Política de Privacidade', href: '/privacidade' },
-    { label: 'Termos de Uso', href: '/termos' },
-  ],
-  parceiros: [
-    { label: 'Detailing Prime', href: 'https://detailingprime.com.br', external: true },
-    { label: 'Cronixverso', href: 'https://www.cronixverso.com.br', external: true },
-  ]
+interface FooterProps {
+  dictionary?: any
 }
 
-const socialLinks = [
-  {
-    name: 'X (Twitter)',
-    href: 'https://x.com/acifra_btc',
-    icon: Twitter,
-    ariaLabel: 'Seguir no X (Twitter)'
-  },
-  {
-    name: 'Instagram',
-    href: 'https://www.instagram.com/cifras_coins',
-    icon: Instagram,
-    ariaLabel: 'Seguir no Instagram'
-  }
-]
+export function Footer({ dictionary }: FooterProps) {
+  const navDict = dictionary?.nav || {}
 
-export function Footer() {
+  const footerLinks = {
+    categorias: [
+      { label: 'Bitcoin', href: '/categoria/bitcoin' },
+      { label: 'Altcoins', href: '/categoria/altcoins' },
+      { label: 'DeFi', href: '/categoria/defi' },
+      { label: 'NFTs', href: '/categoria/nfts' },
+    ],
+    recursos: [
+      { label: navDict.analysis || 'Análises', href: '/categoria/analises' },
+      { label: navDict.education || 'Educação', href: '/categoria/educacao' },
+      { label: 'Glossário', href: '/glossario' },
+      { label: 'Calculadoras', href: '/ferramentas' },
+    ],
+    empresa: [
+      { label: navDict.about || 'Sobre Nós', href: '/sobre' },
+      { label: navDict.contact || 'Contato', href: '/contatos' },
+      { label: 'Política de Privacidade', href: '/privacidade' },
+      { label: 'Termos de Uso', href: '/termos' },
+    ],
+    parceiros: [
+      { label: 'Detailing Prime', href: 'https://detailingprime.com.br', external: true },
+      { label: 'Cronixverso', href: 'https://www.cronixverso.com.br', external: true },
+    ]
+  }
+
+  const socialLinks = [
+    {
+      name: 'X (Twitter)',
+      href: 'https://x.com/acifra_btc',
+      icon: Twitter,
+      ariaLabel: 'Seguir no X (Twitter)'
+    },
+    {
+      name: 'Instagram',
+      href: 'https://www.instagram.com/cifras_coins',
+      icon: Instagram,
+      ariaLabel: 'Seguir no Instagram'
+    }
+  ]
   const currentYear = new Date().getFullYear()
 
   return (

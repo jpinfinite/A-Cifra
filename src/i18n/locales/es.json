@@ -1,0 +1,72 @@
+{
+  "common": {
+    "readMore": "Leer más",
+    "readTime": "min de lectura",
+    "by": "Por",
+    "share": "Compartir",
+    "shareOn": "Compartir en:",
+    "likedShare": "¿Te gustó? Comparte:",
+    "lastUpdate": "Última actualización:",
+    "loading": "Cargando...",
+    "error": "Error al cargar"
+  },
+  "nav": {
+    "home": "Inicio",
+    "articles": "Artículos",
+    "categories": "Categorías",
+    "tools": "Herramientas",
+    "glossary": "Glosario",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos"
+  },
+  "home": {
+    "badge": "Tu Portal Cripto de Confianza",
+    "title": "Tu guía completa sobre criptomonedas",
+    "subtitle": "Descubre análisis profundos, noticias actualizadas y educación de calidad sobre Bitcoin, Ethereum, DeFi, NFTs y el futuro de las finanzas digitales.",
+    "exploreArticles": "Explorar Artículos",
+    "startLearning": "Comenzar a Aprender",
+    "categoriesTitle": "Explora por Categoría",
+    "categoriesSubtitle": "Encuentra contenido especializado sobre los temas que más te interesan",
+    "recentArticlesTitle": "Artículos Recientes",
+    "recentArticlesSubtitle": "Mantente al día con las últimas novedades y análisis del mercado de criptomonedas",
+    "viewAllArticles": "Ver Todos los Artículos",
+    "viewArticles": "Ver artículos"
+  },
+  "categories": {
+    "bitcoin": "Bitcoin",
+    "ethereum": "Ethereum",
+    "altcoins": "Altcoins",
+    "defi": "DeFi",
+    "nfts": "NFTs",
+    "security": "Seguridad",
+    "analysis": "Análisis",
+    "education": "Educación"
+  },
+  "newsletter": {
+    "title": "Mantente informado",
+    "subtitle": "Recibe análisis exclusivos y las últimas noticias del mundo cripto directamente en tu correo",
+    "emailPlaceholder": "Tu mejor correo",
+    "subscribe": "Suscribirse",
+    "subscribing": "Suscribiendo...",
+    "success": "¡Suscripción realizada con éxito!",
+    "error": "Error al suscribir. Inténtalo de nuevo."
+  },
+  "tools": {
+    "title": "Calculadoras y Herramientas",
+    "subtitle": "Herramientas esenciales para planificar y analizar tus inversiones en criptomonedas. Calcula DCA, ganancias, staking y mucho más.",
+    "dcaCalculator": "Calculadora DCA",
+    "profitLossCalculator": "Calculadora Ganancia/Pérdida",
+    "stakingCalculator": "Calculadora Staking",
+    "cryptoTicker": "Cotizaciones en Tiempo Real"
+  },
+  "footer": {
+    "description": "Tu guía completa sobre criptomonedas, blockchain y el futuro de las finanzas digitales.",
+    "quickLinks": "Enlaces Rápidos",
+    "categories": "Categorías",
+    "legal": "Legal",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados."
+  }
+}

@@ -12,30 +12,37 @@ import { NavigationItem } from '@/types'
 
 
 // Navegação otimizada com novas categorias
-const navigation: NavigationItem[] = [
-  { label: 'Início', href: '/' },
-  {
-    label: 'Tokens',
-    href: '#',
-    children: [
-      { label: 'Bitcoin', href: '/categoria/bitcoin' },
-      { label: 'Ethereum', href: '/categoria/ethereum' },
-      { label: 'Altcoins', href: '/categoria/altcoins' },
-      { label: 'DeFi', href: '/categoria/defi' },
-      { label: 'NFTs', href: '/categoria/nfts' },
-      { label: 'Memecoin', href: '/categoria/memecoin' },
-    ]
-  },
-  { label: 'Tutoriais', href: '/categoria/tutoriais' },
-  { label: 'Segurança', href: '/categoria/seguranca' },
-  { label: 'Análises', href: '/categoria/analises' },
-  { label: 'Educação', href: '/categoria/educacao' },
-  { label: 'Sobre Nós', href: '/sobre' },
-  { label: 'Contatos', href: '/contatos' },
-]
+interface HeaderProps {
+  dictionary?: any
+  locale?: string
+}
 
-export function Header() {
+export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const navDict = dictionary?.nav || {}
+
+  // Create navigation based on locale/dictionary
+  const navigation: NavigationItem[] = [
+    { label: navDict.home || 'Início', href: locale === 'pt-BR' ? '/' : (locale === 'en' ? '/en' : '/es') },
+    {
+      label: 'Tokens', // TODO: Add to dictionary
+      href: '#',
+      children: [
+        { label: 'Bitcoin', href: '/categoria/bitcoin' },
+        { label: 'Ethereum', href: '/categoria/ethereum' },
+        { label: 'Altcoins', href: '/categoria/altcoins' },
+        { label: 'DeFi', href: '/categoria/defi' },
+        { label: 'NFTs', href: '/categoria/nfts' },
+        { label: 'Memecoin', href: '/categoria/memecoin' },
+      ]
+    },
+    { label: navDict.articles || 'Artigos', href: locale === 'pt-BR' ? '/artigos' : '/artigos' },
+    { label: navDict.security || 'Segurança', href: '/categoria/seguranca' },
+    { label: navDict.analysis || 'Análises', href: '/categoria/analises' },
+    { label: navDict.education || 'Educação', href: '/categoria/educacao' },
+    { label: navDict.about || 'Sobre Nós', href: '/sobre' },
+    { label: navDict.contact || 'Contatos', href: '/contatos' },
+  ]
   const [isScrolled, setIsScrolled] = useState(false)
   const [isSearchOpen, setIsSearchOpen] = useState(false)
   const [openDropdown, setOpenDropdown] = useState<string | null>(null)
