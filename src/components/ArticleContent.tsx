@@ -35,15 +35,17 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       .replace(/<UrgencyCTA\s+([^>]+)\/>/g, '<div data-component="UrgencyCTA" $1></div>')
       .replace(/<ExchangeAffiliateLinks\s+([^>]+)\/>/g, '<div data-component="ExchangeAffiliateLinks" $1></div>')
 
-    // Divide o conteúdo em 3 partes para inserir anúncios
-    const sections = processedContent.split('##')
+    // Divide o conteúdo em partes baseadas em cabeçalhos (H2, H3 ou Bold no início da linha)
+    // Usa regex com lookahead para manter o delimitador na parte seguinte
+    const sectionRegex = /(?=\n(?:##|###|\*\*) )/
+    const sections = processedContent.split(sectionRegex)
     const totalSections = sections.length
 
     if (totalSections <= 3) {
       // Conteúdo curto - apenas 1 anúncio no meio
       return {
-        firstPart: sections.slice(0, Math.ceil(totalSections / 2)).join('##'),
-        middlePart: sections.slice(Math.ceil(totalSections / 2)).join('##'),
+        firstPart: sections.slice(0, Math.ceil(totalSections / 2)).join(''),
+        middlePart: sections.slice(Math.ceil(totalSections / 2)).join(''),
         lastPart: ''
       }
     }
@@ -53,9 +55,9 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
     const secondBreak = Math.floor(totalSections * 0.8)
 
     return {
-      firstPart: sections.slice(0, firstBreak).join('##'),
-      middlePart: sections.slice(firstBreak, secondBreak).join('##'),
-      lastPart: sections.slice(secondBreak).join('##')
+      firstPart: sections.slice(0, firstBreak).join(''),
+      middlePart: sections.slice(firstBreak, secondBreak).join(''),
+      lastPart: sections.slice(secondBreak).join('')
     }
   }, [content, relatedArticles])
 

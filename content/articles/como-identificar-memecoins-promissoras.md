@@ -1,34 +1,41 @@
 ---
-id: 'identificar-memecoins'
-title: 'Como Identificar Memecoins Promissoras Antes da Explosão'
-slug: 'como-identificar-memecoins-promissoras'
-excerpt: 'Aprenda a identificar memecoins com potencial antes que explod am, analisando comunidade, liquidez, holders e outros indicadores-chave.'
+id: identificar-memecoins
+title: Como Identificar Memecoins Promissoras Antes da Explosão
+slug: como-identificar-memecoins-promissoras
+excerpt: >-
+  Aprenda a identificar memecoins com potencial antes que explod am, analisando
+  comunidade, liquidez, holders e outros indicadores-chave.
 coverImage:
-  src: '/images/136.jpg'
-  alt: 'Análise de memecoins promissoras'
+  src: /images/136.jpg
+  alt: Análise de memecoins promissoras
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'memecoin'
+categorySlug: memecoin
 tags:
-  - 'memecoins'
-  - 'análise'
-  - 'investimento'
-  - 'estratégia'
-  - 'identificação'
+  - memecoins
+  - análise
+  - investimento
+  - estratégia
+  - identificação
 seo:
   metaTitle: 'Como Identificar Memecoins Promissoras: Guia Completo | A Cifra'
-  metaDescription: 'Guia completo para identificar memecoins com potencial: análise de comunidade, liquidez, holders, contratos e sinais de alerta.'
+  metaDescription: >-
+    Guia completo para identificar memecoins com potencial: análise de
+    comunidade, liquidez, holders, contratos e sinais de alerta.
   keywords:
-    - 'identificar memecoins'
-    - 'memecoins promissoras'
-    - 'análise memecoins'
-    - 'investir memecoins'
-    - 'como escolher memecoin'
+    - identificar memecoins
+    - memecoins promissoras
+    - análise memecoins
+    - investir memecoins
+    - como escolher memecoin
+alternateLanguages:
+  en: how-to-identify-promising-memecoins-before-the-explosion
+  es: cmo-identificar-monedas-memecoins-prometedoras-antes-de-la-explosin
 ---
 
 Identificar **memecoins promissoras** antes que explod am pode gerar retornos extraordinários, mas requer análise cuidadosa e gestão de risco.

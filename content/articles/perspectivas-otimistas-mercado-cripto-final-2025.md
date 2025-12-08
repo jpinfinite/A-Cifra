@@ -46,6 +46,9 @@ seo:
     - DeFi tendências
     - adoção institucional
 categorySlug: bitcoin
+alternateLanguages:
+  en: optimistic-perspectives-for-the-crypto-market-at-the-end-of-2025
+  es: perspectivas-otimistas-para-el-mercado-cripto-al-final-de-2025
 ---
 
 À medida que o quarto trimestre de 2025 se aproxima, o mercado de **criptomoedas exibe um otimismo crescente**, impulsionado por um cenário macroeconômico favorável, maior presença institucional e amadurecimento tecnológico. Após um ano de valorização do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e evolução da infraestrutura do setor, as expectativas apontam para um ciclo de alta mais maduro, sustentável â€” e integrado ao universo financeiro global.

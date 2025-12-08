@@ -1,24 +1,46 @@
 ---
-id: 'bitcoin-recupera-93-mil-analise-dezembro-2025'
-title: 'Bitcoin Recupera $93 Mil Após Correção: Analistas Preveem Retorno aos $100k em Dezembro'
-slug: 'bitcoin-recupera-93-mil-analise-dezembro-2025'
-excerpt: 'Bitcoin volta aos $93 mil após correção para $90k. Analistas apontam fundamentos sólidos e preveem retorno aos $100 mil ainda em dezembro de 2025. Veja a análise completa.'
+id: bitcoin-recupera-93-mil-analise-dezembro-2025
+title: >-
+  Bitcoin Recupera $93 Mil Após Correção: Analistas Preveem Retorno aos $100k em
+  Dezembro
+slug: bitcoin-recupera-93-mil-analise-dezembro-2025
+excerpt: >-
+  Bitcoin volta aos $93 mil após correção para $90k. Analistas apontam
+  fundamentos sólidos e preveem retorno aos $100 mil ainda em dezembro de 2025.
+  Veja a análise completa.
 coverImage:
-  src: '/images/bitcoin-93k-recuperacao.jpg'
-  alt: 'Bitcoin Recupera $93 Mil - Análise Dezembro 2025'
+  src: /images/bitcoin-93k-recuperacao.jpg
+  alt: Bitcoin Recupera $93 Mil - Análise Dezembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'análise', 'preço btc', 'mercado cripto', 'dezembro 2025']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - análise
+  - preço btc
+  - mercado cripto
+  - dezembro 2025
 seo:
   metaTitle: 'Bitcoin Recupera $93k: Análise e Previsão Dezembro 2025 | A Cifra'
-  metaDescription: 'Bitcoin volta aos $93 mil após correção. Análise técnica, fundamentalista e previsões de especialistas para dezembro. BTC pode atingir $100k?'
-  keywords: ['bitcoin 93 mil', 'btc dezembro 2025', 'preço bitcoin', 'análise bitcoin', 'bitcoin 100k']
+  metaDescription: >-
+    Bitcoin volta aos $93 mil após correção. Análise técnica, fundamentalista e
+    previsões de especialistas para dezembro. BTC pode atingir $100k?
+  keywords:
+    - bitcoin 93 mil
+    - btc dezembro 2025
+    - preço bitcoin
+    - análise bitcoin
+    - bitcoin 100k
+alternateLanguages:
+  en: >-
+    bitcoin-recovers-93-million-after-correction-analysts-predict-return-to-100k-in-december
+  es: >-
+    bitcoin-recupera-93-mil-despus-de-la-correccin-analistas-prevn-regreso-a-los-100k-en-diciembre
 ---
 
 O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) demonstrou mais uma vez sua resiliência ao recuperar o nível dos $93.000 após uma correção técnica que levou o preço até $90.000 no início desta semana. A recuperação rápida reforça a tese bullish e analistas apontam que o caminho para os $100.000 permanece aberto, com possibilidade de atingir esse marco histórico ainda em dezembro de 2025.

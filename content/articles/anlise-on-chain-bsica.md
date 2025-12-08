@@ -1,27 +1,44 @@
 ---
-id: 'anlise-on-chain-bsica-2025-12-13'
+id: anlise-on-chain-bsica-2025-12-13
 title: 'Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes'
-slug: 'anlise-on-chain-bsica'
-excerpt: 'Análise completa sobre Análise On-Chain Básica. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: anlise-on-chain-bsica
+excerpt: >-
+  Análise completa sobre Análise On-Chain Básica. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/educacao/2025-12/anlise-on-chain-bsica.webp'
+  src: /images/educacao/2025-12/anlise-on-chain-bsica.webp
   alt: 'Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'educacao'
-tags: ["educacao", "tendencias-2026", "tecnologia"]
+categorySlug: educacao
+tags:
+  - educacao
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Análise On-Chain Básica. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Análise On-Chain Básica", "criptomoedas 2026", "investimento"]
+  metaTitle: >-
+    Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes | Análise
+    2026
+  metaDescription: >-
+    Guia definitivo sobre Análise On-Chain Básica. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Análise On-Chain Básica
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: how-to-read-a-blockchain-on-chain-analysis-guide-for-beginners
+  es: cmo-leer-la-blockchain-gua-de-anlisis-on-chain-para-principiantes
 ---
 
 # Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes

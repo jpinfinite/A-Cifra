@@ -1,27 +1,42 @@
 ---
-id: 'bitcoin-halving-2028-2025-12-09'
+id: bitcoin-halving-2028-2025-12-09
 title: 'Ciclos do Bitcoin: O Que Esperar do Halving de 2028?'
-slug: 'bitcoin-halving-2028'
-excerpt: 'Análise completa sobre Bitcoin Halving 2028. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: bitcoin-halving-2028
+excerpt: >-
+  Análise completa sobre Bitcoin Halving 2028. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/bitcoin/2025-12/bitcoin-halving-2028.webp'
+  src: /images/bitcoin/2025-12/bitcoin-halving-2028.webp
   alt: 'Ciclos do Bitcoin: O Que Esperar do Halving de 2028?'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'bitcoin'
-tags: ["bitcoin", "tendencias-2026", "tecnologia"]
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Ciclos do Bitcoin: O Que Esperar do Halving de 2028? | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Bitcoin Halving 2028. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Bitcoin Halving 2028", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Bitcoin Halving 2028. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Bitcoin Halving 2028
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: bitcoin-cycles-what-to-expect-from-the-2028-halving
+  es: ciclos-del-bitcoin-lo-que-esperar-del-halving-de-2028
 ---
 
 # Ciclos do Bitcoin: O Que Esperar do Halving de 2028?

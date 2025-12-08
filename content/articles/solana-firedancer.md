@@ -1,27 +1,44 @@
 ---
-id: 'solana-firedancer-2025-12-12'
+id: solana-firedancer-2025-12-12
 title: 'Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS'
-slug: 'solana-firedancer'
-excerpt: 'Análise completa sobre Solana Firedancer. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: solana-firedancer
+excerpt: >-
+  Análise completa sobre Solana Firedancer. Descubra as previsões, tecnologias e
+  oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/altcoins/2025-12/solana-firedancer.webp'
+  src: /images/altcoins/2025-12/solana-firedancer.webp
   alt: 'Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'altcoins'
-tags: ["altcoins", "tendencias-2026", "tecnologia"]
+categorySlug: altcoins
+tags:
+  - altcoins
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Solana Firedancer. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Solana Firedancer", "criptomoedas 2026", "investimento"]
+  metaTitle: >-
+    Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS | Análise
+    2026
+  metaDescription: >-
+    Guia definitivo sobre Solana Firedancer. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Solana Firedancer
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: solana-firedancer-the-client-that-can-process-1-million-tps
+  es: solana-firedancer-el-cliente-que-puede-procesar-1-milln-de-tps
 ---
 
 # Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS

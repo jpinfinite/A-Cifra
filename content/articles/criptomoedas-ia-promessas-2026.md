@@ -1,27 +1,50 @@
 ---
-id: 'criptomoedas-ia-promessas-2026-2025-12-05'
+id: criptomoedas-ia-promessas-2026-2025-12-05
 title: 'Criptomoedas de IA: A Nova Onda de 2026 (DeepSnitch, IPO Genie e Mais)'
-slug: 'criptomoedas-ia-promessas-2026'
-excerpt: 'A fusão de Inteligência Artificial e Blockchain é a narrativa mais forte para 2026. Conheça os projetos que estão liderando essa revolução.'
+slug: criptomoedas-ia-promessas-2026
+excerpt: >-
+  A fusão de Inteligência Artificial e Blockchain é a narrativa mais forte para
+  2026. Conheça os projetos que estão liderando essa revolução.
 coverImage:
-  src: '/images/altcoins/2025-12/cripto-ia-2026.webp'
-  alt: 'Cérebro digital futurista conectado a nós de blockchain, representando a fusão de IA e Cripto'
+  src: /images/altcoins/2025-12/cripto-ia-2026.webp
+  alt: >-
+    Cérebro digital futurista conectado a nós de blockchain, representando a
+    fusão de IA e Cripto
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'altcoins'
-tags: ['inteligencia artificial', 'ia', 'deepsnitch', 'ipo genie', 'altcoins', 'tendencias 2026']
+categorySlug: altcoins
+tags:
+  - inteligencia artificial
+  - ia
+  - deepsnitch
+  - ipo genie
+  - altcoins
+  - tendencias 2026
 seo:
   metaTitle: 'Top Criptomoedas de IA para 2026: DeepSnitch e IPO Genie | A Cifra'
-  metaDescription: 'Descubra as criptomoedas de Inteligência Artificial que estão em alta. Análise de DeepSnitch, IPO Genie e a narrativa de IA x Blockchain.'
-  keywords: ['criptomoedas ia', 'deepsnitch ai', 'ipo genie token', 'melhores criptos ia 2026', 'investir em ia']
+  metaDescription: >-
+    Descubra as criptomoedas de Inteligência Artificial que estão em alta.
+    Análise de DeepSnitch, IPO Genie e a narrativa de IA x Blockchain.
+  keywords:
+    - criptomoedas ia
+    - deepsnitch ai
+    - ipo genie token
+    - melhores criptos ia 2026
+    - investir em ia
 monetization:
-  priority: 'high'
-  affiliateLinks: ['binance', 'bitget', 'gate.io']
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+    - gate.io
+alternateLanguages:
+  en: ai-cryptocurrencies-the-new-wave-of-2026-deepsnitch-ipo-genie-and-more
+  es: criptomonedas-de-ia-la-nueva-ola-de-2026-deepsnitch-ipo-genie-y-ms
 ---
 
 # Criptomoedas de IA: A Nova Onda de 2026 (DeepSnitch, IPO Genie e Mais)

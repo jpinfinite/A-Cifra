@@ -41,6 +41,9 @@ seo:
     - 2fa
     - backup cripto
 categorySlug: seguranca
+alternateLanguages:
+  en: how-to-protect-your-cryptocurrencies-the-complete-security-guide
+  es: cmo-proteger-sus-criptomonedas-gua-completa-de-seguridad
 ---
 
 <p>A <strong>[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) de criptomoedas</strong> é fundamental para qualquer investidor no mercado cripto. Com o aumento de hacks, golpes e ataques, saber como proteger adequadamente seus ativos digitais pode ser a diferença entre preservar e perder seus investimentos.</p>

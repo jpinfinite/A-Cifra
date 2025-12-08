@@ -1,28 +1,42 @@
 ---
-id: 'stablecoins-algoritmicas-2026'
-title: "Stablecoins Algorítmicas 2026: O Futuro das Moedas Estáveis Descentralizadas"
-slug: 'stablecoins-algoritmicas-2026'
-excerpt: "Descubra stablecoins algorítmicas em 2026: como funcionam, lições do colapso da UST, novos modelos e o futuro das moedas estáveis descentralizadas."
+id: stablecoins-algoritmicas-2026
+title: 'Stablecoins Algorítmicas 2026: O Futuro das Moedas Estáveis Descentralizadas'
+slug: stablecoins-algoritmicas-2026
+excerpt: >-
+  Descubra stablecoins algorítmicas em 2026: como funcionam, lições do colapso
+  da UST, novos modelos e o futuro das moedas estáveis descentralizadas.
 coverImage:
-  src: '/images/033.jpg'
-  alt: 'Stablecoins Algorítmicas 2026'
+  src: /images/033.jpg
+  alt: Stablecoins Algorítmicas 2026
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-23'
 updatedAt: '2025-11-23'
-categorySlug: 'defi'
-tags: ["Stablecoins", "Algorítmicas", "DeFi", "UST", "DAI", "2026"]
+categorySlug: defi
+tags:
+  - Stablecoins
+  - Algorítmicas
+  - DeFi
+  - UST
+  - DAI
+  - '2026'
 seo:
   metaTitle: 'Stablecoins Algorítmicas 2026: Futuro das Moedas Estáveis | A Cifra'
-  metaDescription: 'Descubra stablecoins algorítmicas em 2026: como funcionam, lições do colapso da UST, novos modelos e o futuro das moedas estáveis descentralizadas.'
+  metaDescription: >-
+    Descubra stablecoins algorítmicas em 2026: como funcionam, lições do colapso
+    da UST, novos modelos e o futuro das moedas estáveis descentralizadas.
   keywords:
-    - 'stablecoins algorítmicas'
-    - 'UST'
-    - 'DAI'
-    - 'moedas estáveis'
+    - stablecoins algorítmicas
+    - UST
+    - DAI
+    - moedas estáveis
+alternateLanguages:
+  en: algorithmic-stablecoins-2026-the-future-of-decentralized-stablecoins
+  es: >-
+    monedas-de-estabilidad-algortmicas-2026-el-futuro-de-las-monedas-estables-descentralizadas
 ---
 
 # Stablecoins Algorítmicas 2026: O Futuro das Moedas Estáveis Descentralizadas

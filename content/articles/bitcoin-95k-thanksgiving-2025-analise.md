@@ -1,24 +1,44 @@
 ---
-id: 'bitcoin-95k-thanksgiving-2025-analise'
-title: 'Bitcoin Busca Romper $95K no Thanksgiving 2025 - Análise do Rally'
-slug: 'bitcoin-95k-thanksgiving-2025-analise'
-excerpt: 'Bitcoin oscila perto de $95K enquanto traders aguardam o rompimento histórico no Thanksgiving. Análise técnica mostra níveis-chave e o que esperar nas próximas horas.'
+id: bitcoin-95k-thanksgiving-2025-analise
+title: Bitcoin Busca Romper $95K no Thanksgiving 2025 - Análise do Rally
+slug: bitcoin-95k-thanksgiving-2025-analise
+excerpt: >-
+  Bitcoin oscila perto de $95K enquanto traders aguardam o rompimento histórico
+  no Thanksgiving. Análise técnica mostra níveis-chave e o que esperar nas
+  próximas horas.
 coverImage:
-  src: '/images/bitcoin-95k-rally-2025-styled.jpg'
-  alt: 'Bitcoin buscando romper $95.000 no Thanksgiving 2025'
+  src: /images/bitcoin-95k-rally-2025-styled.jpg
+  alt: Bitcoin buscando romper $95.000 no Thanksgiving 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'análise', 'thanksgiving', '$95k', 'rally']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - análise
+  - thanksgiving
+  - $95k
+  - rally
 seo:
-  metaTitle: 'Bitcoin $95K no Thanksgiving 2025? Análise do Rally | A Cifra'
-  metaDescription: 'Bitcoin oscila perto de $95K no Thanksgiving. Análise técnica completa mostra níveis-chave, resistências e o que esperar do rally nas próximas horas.'
-  keywords: ['bitcoin 95k', 'bitcoin thanksgiving', 'btc rally 2025', 'análise bitcoin', 'preço bitcoin hoje']
+  metaTitle: Bitcoin $95K no Thanksgiving 2025? Análise do Rally | A Cifra
+  metaDescription: >-
+    Bitcoin oscila perto de $95K no Thanksgiving. Análise técnica completa
+    mostra níveis-chave, resistências e o que esperar do rally nas próximas
+    horas.
+  keywords:
+    - bitcoin 95k
+    - bitcoin thanksgiving
+    - btc rally 2025
+    - análise bitcoin
+    - preço bitcoin hoje
+alternateLanguages:
+  en: bitcoin-seeks-to-break-95k-by-thanksgiving-2025---rally-analysis
+  es: >-
+    bitcoin-busca-romper-95k-en-accin-de-accin-de-gracias-2025---anlisis-del-rally
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Busca Romper $95K no Thanksgiving 2025 - Análise do Rally

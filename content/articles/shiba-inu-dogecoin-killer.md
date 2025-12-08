@@ -1,34 +1,41 @@
 ---
-id: 'shiba-inu-coin'
+id: shiba-inu-coin
 title: 'Shiba Inu (SHIB): O "Dogecoin Killer" e Seu Ecossistema'
-slug: 'shiba-inu-dogecoin-killer'
-excerpt: 'Conheça o Shiba Inu, a memecoin que se autodenomina "Dogecoin Killer", seu ecossistema DeFi e o potencial de valorização do SHIB.'
+slug: shiba-inu-dogecoin-killer
+excerpt: >-
+  Conheça o Shiba Inu, a memecoin que se autodenomina "Dogecoin Killer", seu
+  ecossistema DeFi e o potencial de valorização do SHIB.
 coverImage:
-  src: '/images/171.jpg'
-  alt: 'Shiba Inu - O Dogecoin Killer'
+  src: /images/171.jpg
+  alt: Shiba Inu - O Dogecoin Killer
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'memecoin'
+categorySlug: memecoin
 tags:
-  - 'shiba inu'
-  - 'shib'
-  - 'memecoins'
-  - 'defi'
-  - 'shibarium'
+  - shiba inu
+  - shib
+  - memecoins
+  - defi
+  - shibarium
 seo:
   metaTitle: 'Shiba Inu (SHIB): Guia Completo do Dogecoin Killer | A Cifra'
-  metaDescription: 'Tudo sobre Shiba Inu: história, ecossistema, Shibarium, ShibaSwap e se vale a pena investir no SHIB em 2025.'
+  metaDescription: >-
+    Tudo sobre Shiba Inu: história, ecossistema, Shibarium, ShibaSwap e se vale
+    a pena investir no SHIB em 2025.
   keywords:
-    - 'shiba inu'
-    - 'shib'
-    - 'dogecoin killer'
-    - 'shibarium'
-    - 'shibaswap'
+    - shiba inu
+    - shib
+    - dogecoin killer
+    - shibarium
+    - shibaswap
+alternateLanguages:
+  en: shiba-inu-shib-the-dogecoin-killer-and-its-ecosystem
+  es: shiba-inu-shib-el-asesino-de-dogecoin-y-su-ecosistema
 ---
 
 O **Shiba Inu (SHIB)** surgiu em 2020 como uma alternativa ao Dogecoin, mas evoluiu para muito mais que uma simples memecoin.

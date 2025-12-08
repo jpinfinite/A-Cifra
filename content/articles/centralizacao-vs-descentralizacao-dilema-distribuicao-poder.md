@@ -48,6 +48,9 @@ seo:
     - bitcoin
     - defi
 categorySlug: bitcoin
+alternateLanguages:
+  en: centralization-vs-decentralization-the-dilemma-of-power-distribution
+  es: centralizacin-vs-descentralizacin-el-dilema-de-la-distribucin-de-poder
 ---
 
 A discussão sobre **centralização versus descentralização** é um tema recorrente e fundamental em diversas áreas, desde política e economia até tecnologia e organização social. Este debate ganhou nova relevÃ¢ncia com o surgimento da blockchain e das criptomoedas, que propõem alternativas descentralizadas aos sistemas tradicionais centralizados.

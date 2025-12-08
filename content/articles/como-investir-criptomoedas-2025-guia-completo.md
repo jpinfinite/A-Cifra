@@ -1,36 +1,42 @@
 ---
-id: 'como-investir-criptomoedas-2025'
+id: como-investir-criptomoedas-2025
 title: 'Como Investir em Criptomoedas em 2025: Guia Completo do Zero ao Avançado'
-slug: 'como-investir-criptomoedas-2025-guia-completo'
-excerpt: 'Aprenda passo a passo como começar a investir em criptomoedas com segurança, desde a escolha da exchange até estratégias avançadas de diversificação.'
+slug: como-investir-criptomoedas-2025-guia-completo
+excerpt: >-
+  Aprenda passo a passo como começar a investir em criptomoedas com segurança,
+  desde a escolha da exchange até estratégias avançadas de diversificação.
 coverImage:
-  src: '/images/131.png'
-  alt: 'Como investir em criptomoedas em 2025 - Guia completo'
+  src: /images/131.png
+  alt: Como investir em criptomoedas em 2025 - Guia completo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'educacao'
-language: 'pt-BR'
+categorySlug: educacao
+language: pt-BR
 alternateLanguages:
-  en: 'how-invest-cryptocurrency-2025-complete-guide'
+  en: >-
+    how-to-invest-in-cryptocurrencies-in-2025-a-complete-guide-from-zero-to-advanced
+  es: cmo-invertir-en-criptomonedas-en-2025-gua-completa-de-cero-a-avanzado
 tags:
-  - 'investimento'
-  - 'iniciantes'
-  - 'guia completo'
-  - 'estratégia'
+  - investimento
+  - iniciantes
+  - guia completo
+  - estratégia
 seo:
   metaTitle: 'Como Investir em Criptomoedas em 2025: Guia Completo | A Cifra'
-  metaDescription: 'Guia definitivo para investir em criptomoedas: passo a passo, melhores exchanges, estratégias de diversificação e segurança. Comece do zero hoje!'
+  metaDescription: >-
+    Guia definitivo para investir em criptomoedas: passo a passo, melhores
+    exchanges, estratégias de diversificação e segurança. Comece do zero hoje!
   keywords:
-    - 'como investir em criptomoedas'
-    - 'investir em bitcoin'
-    - 'comprar criptomoedas'
-    - 'investimento cripto 2025'
-    - 'guia investimento criptomoedas'
+    - como investir em criptomoedas
+    - investir em bitcoin
+    - comprar criptomoedas
+    - investimento cripto 2025
+    - guia investimento criptomoedas
 ---
 
 # Como Investir em Criptomoedas em 2025: Guia Completo do Zero ao Avançado

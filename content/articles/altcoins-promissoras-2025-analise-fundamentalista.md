@@ -1,34 +1,41 @@
 ---
-id: 'altcoins-2025'
+id: altcoins-2025
 title: 'Altcoins Promissoras para 2025: Análise Fundamentalista'
-slug: 'altcoins-promissoras-2025-analise-fundamentalista'
-excerpt: 'Descubra as altcoins com maior potencial para 2025, analisando fundamentos, tecnologia e adoção real.'
+slug: altcoins-promissoras-2025-analise-fundamentalista
+excerpt: >-
+  Descubra as altcoins com maior potencial para 2025, analisando fundamentos,
+  tecnologia e adoção real.
 coverImage:
-  src: '/images/altcoin-investment-unique-styled.jpg'
-  alt: 'Gráfico com principais altcoins e suas redes'
+  src: /images/altcoin-investment-unique-styled.jpg
+  alt: Gráfico com principais altcoins e suas redes
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-01-05'
 updatedAt: '2025-11-23'
-categorySlug: 'altcoins'
+categorySlug: altcoins
 tags:
-  - 'altcoins'
-  - 'solana'
-  - 'polygon'
-  - 'chainlink'
-  - 'avalanche'
-  - 'análise fundamentalista'
+  - altcoins
+  - solana
+  - polygon
+  - chainlink
+  - avalanche
+  - análise fundamentalista
 seo:
   metaTitle: 'Altcoins Promissoras 2025: Análise Fundamentalista Completa'
-  metaDescription: 'Análise detalhada das altcoins com maior potencial para 2025: Solana, Polygon, Chainlink, Avalanche e mais.'
+  metaDescription: >-
+    Análise detalhada das altcoins com maior potencial para 2025: Solana,
+    Polygon, Chainlink, Avalanche e mais.
   keywords:
-    - 'altcoins'
-    - 'criptomoedas 2025'
-    - 'solana'
-    - 'polygon'
-    - 'análise fundamentalista'
+    - altcoins
+    - criptomoedas 2025
+    - solana
+    - polygon
+    - análise fundamentalista
+alternateLanguages:
+  en: promising-altcoins-for-2025-fundamental-analysis
+  es: monedas-alternativas-prometedoras-para-2025-anlisis-fundamentalista
 ---
 
 # Altcoins Promissoras para 2025: Análise Fundamentalista

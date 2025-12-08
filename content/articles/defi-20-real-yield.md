@@ -1,27 +1,42 @@
 ---
-id: 'defi-20-real-yield-2025-12-11'
+id: defi-20-real-yield-2025-12-11
 title: 'Real Yield: O Fim dos Tokens Inflacionários no DeFi'
-slug: 'defi-20-real-yield'
-excerpt: 'Análise completa sobre DeFi 2.0 Real Yield. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: defi-20-real-yield
+excerpt: >-
+  Análise completa sobre DeFi 2.0 Real Yield. Descubra as previsões, tecnologias
+  e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/defi/2025-12/defi-20-real-yield.webp'
+  src: /images/defi/2025-12/defi-20-real-yield.webp
   alt: 'Real Yield: O Fim dos Tokens Inflacionários no DeFi'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'defi'
-tags: ["defi", "tendencias-2026", "tecnologia"]
+categorySlug: defi
+tags:
+  - defi
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Real Yield: O Fim dos Tokens Inflacionários no DeFi | Análise 2026'
-  metaDescription: 'Guia definitivo sobre DeFi 2.0 Real Yield. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["DeFi 2.0 Real Yield", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre DeFi 2.0 Real Yield. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - DeFi 2.0 Real Yield
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: real-yield-the-end-of-inflationary-tokens-in-defi
+  es: real-rentabilidad-el-fin-de-los-tokens-inflacionarios-en-defi
 ---
 
 # Real Yield: O Fim dos Tokens Inflacionários no DeFi

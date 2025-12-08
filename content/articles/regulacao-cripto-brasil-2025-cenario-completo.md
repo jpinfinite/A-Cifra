@@ -1,24 +1,47 @@
 ---
-id: 'regulacao-cripto-brasil-2025-cenario-completo'
-title: 'Regulação de Criptomoedas no Brasil 2025: Cenário Completo, Leis e Impacto no Mercado'
-slug: 'regulacao-cripto-brasil-2025-cenario-completo'
-excerpt: 'Entenda a regulação cripto no Brasil: Lei 14.478/22, Banco Central, CVM, tributação, exchanges reguladas, impacto no mercado e futuro da legislação em 2025.'
+id: regulacao-cripto-brasil-2025-cenario-completo
+title: >-
+  Regulação de Criptomoedas no Brasil 2025: Cenário Completo, Leis e Impacto no
+  Mercado
+slug: regulacao-cripto-brasil-2025-cenario-completo
+excerpt: >-
+  Entenda a regulação cripto no Brasil: Lei 14.478/22, Banco Central, CVM,
+  tributação, exchanges reguladas, impacto no mercado e futuro da legislação em
+  2025.
 coverImage:
-  src: '/images/regulacao-cripto-brasil-2025.jpg'
-  alt: 'Regulação de criptomoedas no Brasil 2025'
+  src: /images/regulacao-cripto-brasil-2025.jpg
+  alt: Regulação de criptomoedas no Brasil 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'regulacao'
-tags: ['regulação', 'lei cripto brasil', 'banco central', 'cvm', 'compliance', 'legislação']
+categorySlug: regulacao
+tags:
+  - regulação
+  - lei cripto brasil
+  - banco central
+  - cvm
+  - compliance
+  - legislação
 seo:
   metaTitle: 'Regulação Cripto Brasil 2025: Leis, Impacto e Futuro | Afra'
-  metaDescription: 'Guia completo da regulação cripto no Brasil: Lei 14.478/22, Banco Central, CVM, tributação, exchanges reguladas, compliance e impacto no mercado 2025.'
-  keywords: ['regulação cripto brasil', 'lei criptomoedas', 'banco central cripto', 'cvm bitcoin', 'legislação cripto']
+  metaDescription: >-
+    Guia completo da regulação cripto no Brasil: Lei 14.478/22, Banco Central,
+    CVM, tributação, exchanges reguladas, compliance e impacto no mercado 2025.
+  keywords:
+    - regulação cripto brasil
+    - lei criptomoedas
+    - banco central cripto
+    - cvm bitcoin
+    - legislação cripto
+alternateLanguages:
+  en: >-
+    cryptocurrency-regulation-in-brazil-2025-complete-scenario-laws-and-market-impact
+  es: >-
+    regulacin-de-criptomonedas-en-brasil-2025-escenario-completo-leyes-y-impacto-en-el-mercado
 ---
 
 # Regulação de Criptomoedas no Brasil 2025: Cenário Completo, Leis e Impacto no Mercado

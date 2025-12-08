@@ -1,31 +1,34 @@
 ---
-id: 'dusting-attacks-protecao-rastreamento'
+id: dusting-attacks-protecao-rastreamento
 title: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
-slug: 'dusting-attacks-protecao-rastreamento'
-excerpt: 'Entenda o que são dusting attacks e como se proteger contra rastreamento.'
+slug: dusting-attacks-protecao-rastreamento
+excerpt: Entenda o que são dusting attacks e como se proteger contra rastreamento.
 coverImage:
-  src: '/images/064.jpg'
+  src: /images/064.jpg
   alt: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'dusting attack'
-  - 'privacidade'
-  - 'rastreamento'
-  - 'segurança'
+  - dusting attack
+  - privacidade
+  - rastreamento
+  - segurança
 seo:
   metaTitle: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras | A Cifra'
-  metaDescription: 'Entenda o que são dusting attacks e como se proteger contra rastreamento.'
+  metaDescription: Entenda o que são dusting attacks e como se proteger contra rastreamento.
   keywords:
-    - 'dusting attack'
-    - 'privacidade'
-    - 'rastreamento'
-    - 'segurança'
+    - dusting attack
+    - privacidade
+    - rastreamento
+    - segurança
+alternateLanguages:
+  en: dusting-attacks-protection-against-wallet-tracking
+  es: ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-carteras
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda dusting attacks: proteção contra rastreamento de carteiras.

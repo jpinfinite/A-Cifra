@@ -36,6 +36,11 @@ seo:
     Bitcoin, BTC, análise técnica, MVRV, bandas MVRV, previsão Bitcoin 2025,
     baleias Bitcoin, Wall Street
 categorySlug: bitcoin
+alternateLanguages:
+  en: >-
+    bitcoin-could-fall-to-75-million-but-analysts-predict-a-40-rally-by-the-end-of-2025
+  es: >-
+    bitcoin-podra-caer-hasta-los-us-75-mil-pero-los-analistas-prevn-un-rally-de-40-hasta-finales-de-2025
 ---
 
 ## O Cenário Atual: [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Rompe Suporte Crítico

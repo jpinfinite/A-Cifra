@@ -1,31 +1,34 @@
 ---
-id: 'slippage-impacto-permanente-defi'
-title: 'Slippage e Impacto de Preço em DeFi'
-slug: 'slippage-impacto-permanente-defi'
+id: slippage-impacto-permanente-defi
+title: Slippage e Impacto de Preço em DeFi
+slug: slippage-impacto-permanente-defi
 excerpt: 'Entenda slippage, impacto de preço e como minimizar perdas em trocas DeFi.'
 coverImage:
-  src: '/images/025.jpg'
-  alt: 'Slippage e Impacto de Preço em DeFi'
+  src: /images/025.jpg
+  alt: Slippage e Impacto de Preço em DeFi
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'slippage'
-  - 'defi'
-  - 'amm'
-  - 'trading'
+  - slippage
+  - defi
+  - amm
+  - trading
 seo:
-  metaTitle: 'Slippage e Impacto de Preço em DeFi | A Cifra'
+  metaTitle: Slippage e Impacto de Preço em DeFi | A Cifra
   metaDescription: 'Entenda slippage, impacto de preço e como minimizar perdas em trocas DeFi.'
   keywords:
-    - 'slippage'
-    - 'defi'
-    - 'amm'
-    - 'trading'
+    - slippage
+    - defi
+    - amm
+    - trading
+alternateLanguages:
+  en: slippage-and-price-impact-in-defi
+  es: slippage-e-impacto-de-precio-en-defi
 ---
 
 Este guia completo explora **Slippage e Impacto de Preço em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)** de forma detalhada e acessível.

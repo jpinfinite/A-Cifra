@@ -1,24 +1,49 @@
 ---
-id: 'aave-app-momento-iphone-defi-2025'
+id: aave-app-momento-iphone-defi-2025
 title: 'Aave App: O "Momento iPhone" do DeFi Chegou - Review Completo 2025'
-slug: 'aave-app-momento-iphone-defi-2025'
-excerpt: 'Aave lança app mobile revolucionário com experiência bancária tradicional, proteção de $1 milhão e rendimento de até 15%. O "momento iPhone" das finanças descentralizadas finalmente chegou. Review completo.'
+slug: aave-app-momento-iphone-defi-2025
+excerpt: >-
+  Aave lança app mobile revolucionário com experiência bancária tradicional,
+  proteção de $1 milhão e rendimento de até 15%. O "momento iPhone" das finanças
+  descentralizadas finalmente chegou. Review completo.
 coverImage:
-  src: '/images/articles/aave-app-momento-iphone-defi.jpg'
-  alt: 'Two professionals analyzing data and graphs with smartphones on a white table.'
+  src: /images/articles/aave-app-momento-iphone-defi.jpg
+  alt: >-
+    Two professionals analyzing data and graphs with smartphones on a white
+    table.
   width: 6000
   height: 4000
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/avatar.png'
+  name: Jonatha Pereira
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'defi'
-tags: ['Aave', 'DeFi', 'app mobile', 'rendimento', 'staking', 'lending', 'finanças descentralizadas']
+categorySlug: defi
+tags:
+  - Aave
+  - DeFi
+  - app mobile
+  - rendimento
+  - staking
+  - lending
+  - finanças descentralizadas
 seo:
   metaTitle: 'Aave App: O "Momento iPhone" do DeFi - Review Completo 2025'
-  metaDescription: 'Review completo do Aave App: experiência bancária tradicional, proteção de $1M, rendimento até 15%. O DeFi finalmente ficou fácil. Guia passo a passo para começar.'
-  keywords: ['Aave app', 'DeFi mobile', 'rendimento cripto', 'Aave review', 'finanças descentralizadas', 'lending cripto', 'staking']
+  metaDescription: >-
+    Review completo do Aave App: experiência bancária tradicional, proteção de
+    $1M, rendimento até 15%. O DeFi finalmente ficou fácil. Guia passo a passo
+    para começar.
+  keywords:
+    - Aave app
+    - DeFi mobile
+    - rendimento cripto
+    - Aave review
+    - finanças descentralizadas
+    - lending cripto
+    - staking
+alternateLanguages:
+  en: aave-app-the-iphone-moment-of-defi-has-arrived---2025-complete-review
+  es: aave-app-el-momento-iphone-del-defi-ha-llegado---revisin-completa-2025
 ---
 
 O [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) sempre teve um problema: **é complicado demais**. Wallets confusas, gas fees imprevisíveis, interfaces técnicas que assustam qualquer pessoa normal. Mas isso acabou.

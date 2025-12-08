@@ -1,24 +1,47 @@
 ---
-id: 'carteira-fria-vs-quente-guia-seguranca-2025'
-title: 'Carteira Fria vs Quente - Guia Definitivo de Segurança Cripto 2025'
-slug: 'carteira-fria-vs-quente-guia-seguranca-2025'
-excerpt: 'Descubra as diferenças entre carteiras frias e quentes, qual é a mais segura para suas criptomoedas e como proteger seus ativos de hackers. Guia completo com comparações, recomendações e melhores práticas.'
+id: carteira-fria-vs-quente-guia-seguranca-2025
+title: Carteira Fria vs Quente - Guia Definitivo de Segurança Cripto 2025
+slug: carteira-fria-vs-quente-guia-seguranca-2025
+excerpt: >-
+  Descubra as diferenças entre carteiras frias e quentes, qual é a mais segura
+  para suas criptomoedas e como proteger seus ativos de hackers. Guia completo
+  com comparações, recomendações e melhores práticas.
 coverImage:
-  src: '/images/cold-hot-wallet-security-2025.jpg'
-  alt: 'Comparação entre carteira fria hardware e carteira quente mobile'
+  src: /images/cold-hot-wallet-security-2025.jpg
+  alt: Comparação entre carteira fria hardware e carteira quente mobile
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'seguranca'
-tags: ['segurança', 'carteiras', 'cold wallet', 'hot wallet', 'proteção']
+categorySlug: seguranca
+tags:
+  - segurança
+  - carteiras
+  - cold wallet
+  - hot wallet
+  - proteção
 seo:
   metaTitle: 'Carteira Fria vs Quente: Qual Mais Segura? Guia 2025 | A Cifra'
-  metaDescription: 'Entenda as diferenças entre carteiras frias e quentes. Comparação completa, recomendações de hardware wallets e como proteger suas criptomoedas de hackers.'
-  keywords: ['carteira fria', 'carteira quente', 'cold wallet', 'hot wallet', 'segurança cripto', 'hardware wallet', 'ledger', 'trezor', 'metamask']
+  metaDescription: >-
+    Entenda as diferenças entre carteiras frias e quentes. Comparação completa,
+    recomendações de hardware wallets e como proteger suas criptomoedas de
+    hackers.
+  keywords:
+    - carteira fria
+    - carteira quente
+    - cold wallet
+    - hot wallet
+    - segurança cripto
+    - hardware wallet
+    - ledger
+    - trezor
+    - metamask
+alternateLanguages:
+  en: cold-wallet-vs-hot-wallet---definitive-crypto-security-guide-2025
+  es: carteira-fria-vs-quente---gua-definitiva-de-seguridad-cripto-2025
 ---
 
 # Carteira Fria vs Quente: Guia Definitivo de Segurança Cripto 2025

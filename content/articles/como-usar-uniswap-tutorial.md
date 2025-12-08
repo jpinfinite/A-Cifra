@@ -1,34 +1,41 @@
 ---
-id: 'uniswap-tutorial'
+id: uniswap-tutorial
 title: 'Como Usar o Uniswap: Tutorial Completo de Swap de Tokens'
-slug: 'como-usar-uniswap-tutorial'
-excerpt: 'Aprenda a usar o Uniswap passo a passo: conectar carteira, fazer swap de tokens, adicionar liquidez e evitar erros comuns na DEX mais popular.'
+slug: como-usar-uniswap-tutorial
+excerpt: >-
+  Aprenda a usar o Uniswap passo a passo: conectar carteira, fazer swap de
+  tokens, adicionar liquidez e evitar erros comuns na DEX mais popular.
 coverImage:
-  src: '/images/195.jpg'
-  alt: 'Tutorial Uniswap - Como fazer swap'
+  src: /images/195.jpg
+  alt: Tutorial Uniswap - Como fazer swap
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'tutoriais'
+categorySlug: tutoriais
 tags:
-  - 'uniswap'
-  - 'dex'
-  - 'swap'
-  - 'defi'
-  - 'tutorial'
+  - uniswap
+  - dex
+  - swap
+  - defi
+  - tutorial
 seo:
   metaTitle: 'Como Usar o Uniswap: Tutorial Completo Passo a Passo | A Cifra'
-  metaDescription: 'Guia completo para usar o Uniswap: conectar MetaMask, fazer swap de tokens, entender slippage e evitar erros comuns.'
+  metaDescription: >-
+    Guia completo para usar o Uniswap: conectar MetaMask, fazer swap de tokens,
+    entender slippage e evitar erros comuns.
   keywords:
-    - 'como usar uniswap'
-    - 'uniswap tutorial'
-    - 'swap tokens'
-    - 'dex tutorial'
-    - 'uniswap metamask'
+    - como usar uniswap
+    - uniswap tutorial
+    - swap tokens
+    - dex tutorial
+    - uniswap metamask
+alternateLanguages:
+  en: how-to-use-uniswap-complete-tutorial-on-token-swapping
+  es: cmo-usar-uniswap-tutorial-completo-de-swap-de-tokens
 ---
 
 O **Uniswap** é a maior DEX ([exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) descentralizada) do mundo. Este tutorial ensina a usar a plataforma passo a passo.

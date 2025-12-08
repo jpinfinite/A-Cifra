@@ -1,24 +1,44 @@
 ---
-id: 'melhores-indicadores-trading-cripto-2025'
-title: 'Os 7 Melhores Indicadores de Trading para Criptomoedas em 2025'
-slug: 'melhores-indicadores-trading-cripto-2025'
-excerpt: 'Descubra os indicadores técnicos mais eficazes para trading de criptomoedas em 2025. Guia completo com estratégias práticas, exemplos reais e configurações otimizadas para maximizar seus lucros.'
+id: melhores-indicadores-trading-cripto-2025
+title: Os 7 Melhores Indicadores de Trading para Criptomoedas em 2025
+slug: melhores-indicadores-trading-cripto-2025
+excerpt: >-
+  Descubra os indicadores técnicos mais eficazes para trading de criptomoedas em
+  2025. Guia completo com estratégias práticas, exemplos reais e configurações
+  otimizadas para maximizar seus lucros.
 coverImage:
-  src: '/images/trading-indicators-crypto-2025.jpg'
-  alt: 'Gráficos de trading com indicadores técnicos para criptomoedas'
+  src: /images/trading-indicators-crypto-2025.jpg
+  alt: Gráficos de trading com indicadores técnicos para criptomoedas
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'trading'
-tags: ['trading', 'análise técnica', 'indicadores', 'estratégias', 'lucro']
+categorySlug: trading
+tags:
+  - trading
+  - análise técnica
+  - indicadores
+  - estratégias
+  - lucro
 seo:
-  metaTitle: '7 Melhores Indicadores de Trading Cripto 2025 | Guia Completo | A Cifra'
-  metaDescription: 'Descubra os indicadores técnicos mais eficazes para trading de criptomoedas. RSI, MACD, Bollinger Bands e mais. Estratégias práticas com exemplos reais.'
-  keywords: ['indicadores trading cripto', 'análise técnica criptomoedas', 'RSI Bitcoin', 'MACD Ethereum', 'estratégias trading', 'indicadores técnicos', 'trading criptomoedas']
+  metaTitle: 7 Melhores Indicadores de Trading Cripto 2025 | Guia Completo | A Cifra
+  metaDescription: >-
+    Descubra os indicadores técnicos mais eficazes para trading de criptomoedas.
+    RSI, MACD, Bollinger Bands e mais. Estratégias práticas com exemplos reais.
+  keywords:
+    - indicadores trading cripto
+    - análise técnica criptomoedas
+    - RSI Bitcoin
+    - MACD Ethereum
+    - estratégias trading
+    - indicadores técnicos
+    - trading criptomoedas
+alternateLanguages:
+  en: the-7-best-trading-indicators-for-cryptocurrencies-in-2025
+  es: los-7-mejores-indicadores-de-trading-para-criptomonedas-en-2025
 ---
 
 # Os 7 Melhores Indicadores de Trading para Criptomoedas em 2025

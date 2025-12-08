@@ -1,38 +1,46 @@
 ---
-id: 'proteger-crypto'
+id: proteger-crypto
 title: 'Como Proteger Suas Criptomoedas: Guia de Segurança Completo'
-slug: 'proteger-criptomoedas-guia-seguranca-completo'
-excerpt: 'Aprenda as melhores práticas de segurança para proteger suas criptomoedas contra hacks, golpes e perdas. Guia completo com carteiras hardware, backups e proteção digital.'
+slug: proteger-criptomoedas-guia-seguranca-completo
+excerpt: >-
+  Aprenda as melhores práticas de segurança para proteger suas criptomoedas
+  contra hacks, golpes e perdas. Guia completo com carteiras hardware, backups e
+  proteção digital.
 coverImage:
-  src: '/images/crypto-wallet-protection-styled.jpg'
-  alt: 'Cadeado digital protegendo criptomoedas com ícones de segurança'
+  src: /images/crypto-wallet-protection-styled.jpg
+  alt: Cadeado digital protegendo criptomoedas com ícones de segurança
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-10-26'
 updatedAt: '2025-10-26'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'segurança'
-  - 'carteiras'
-  - 'hardware wallet'
-  - 'backup'
-  - 'phishing'
-  - 'golpes'
-  - 'proteção'
-  - 'cold storage'
+  - segurança
+  - carteiras
+  - hardware wallet
+  - backup
+  - phishing
+  - golpes
+  - proteção
+  - cold storage
 seo:
   metaTitle: 'Como Proteger Suas Criptomoedas: Guia de Segurança Completo | A Cifra'
-  metaDescription: 'Guia completo de segurança para criptomoedas: carteiras hardware, cold storage, backups, proteção contra phishing e melhores práticas.'
+  metaDescription: >-
+    Guia completo de segurança para criptomoedas: carteiras hardware, cold
+    storage, backups, proteção contra phishing e melhores práticas.
   keywords:
-    - 'segurança criptomoedas'
-    - 'proteger crypto'
-    - 'hardware wallet'
-    - 'cold storage'
-    - 'backup carteira'
-    - 'phishing crypto'
-    - 'golpes cripto'
+    - segurança criptomoedas
+    - proteger crypto
+    - hardware wallet
+    - cold storage
+    - backup carteira
+    - phishing crypto
+    - golpes cripto
+alternateLanguages:
+  en: how-to-protect-your-cryptocurrencies-complete-security-guide
+  es: cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa
 ---
 
 # Como Proteger Suas Criptomoedas: Guia de Segurança Completo

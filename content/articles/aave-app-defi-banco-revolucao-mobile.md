@@ -36,6 +36,11 @@ seo:
     Aave, DeFi, aplicativo DeFi, rendimento stablecoin, proteção DeFi, MiCA,
     abstração de conta, banco descentralizado
 categorySlug: defi
+alternateLanguages:
+  en: >-
+    aave-launches-app-that-looks-like-a-real-bank-the-revolution-that-could-bring-defi-to-1-billion-peop
+  es: >-
+    aave-lanza-aplicacin-que-parece-un-banco-real-la-revolucin-que-puede-llevar-defi-a-1-mil-millones-de
 ---
 
 ## A Promessa Quebrada do [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)

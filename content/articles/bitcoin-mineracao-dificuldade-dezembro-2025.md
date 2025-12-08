@@ -1,24 +1,46 @@
 ---
-id: 'bitcoin-mineracao-dificuldade-dezembro-2025'
-title: 'Dificuldade de Mineração Bitcoin Deve Subir em Dezembro - Hashprice em Mínima Histórica'
-slug: 'bitcoin-mineracao-dificuldade-dezembro-2025'
-excerpt: 'Mineradores de Bitcoin tiveram alívio temporário com queda na dificuldade, mas previsões indicam aumento em dezembro enquanto hashprice atinge mínimas históricas. Análise completa do impacto.'
+id: bitcoin-mineracao-dificuldade-dezembro-2025
+title: >-
+  Dificuldade de Mineração Bitcoin Deve Subir em Dezembro - Hashprice em Mínima
+  Histórica
+slug: bitcoin-mineracao-dificuldade-dezembro-2025
+excerpt: >-
+  Mineradores de Bitcoin tiveram alívio temporário com queda na dificuldade, mas
+  previsões indicam aumento em dezembro enquanto hashprice atinge mínimas
+  históricas. Análise completa do impacto.
 coverImage:
-  src: '/images/bitcoin-mining-difficulty-2025-styled.jpg'
-  alt: 'Dificuldade de mineração Bitcoin e hashprice em dezembro 2025'
+  src: /images/bitcoin-mining-difficulty-2025-styled.jpg
+  alt: Dificuldade de mineração Bitcoin e hashprice em dezembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-30'
 updatedAt: '2025-11-30'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'mineração', 'dificuldade', 'hashrate', 'mineradores']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - mineração
+  - dificuldade
+  - hashrate
+  - mineradores
 seo:
   metaTitle: 'Bitcoin: Dificuldade de Mineração Sobe em Dezembro 2025 | A Cifra'
-  metaDescription: 'Dificuldade de mineração Bitcoin deve aumentar em dezembro apesar de hashprice em mínima histórica. Análise completa do impacto para mineradores e o mercado.'
-  keywords: ['bitcoin mineração', 'dificuldade mineração', 'hashprice', 'mineradores bitcoin', 'hashrate bitcoin']
+  metaDescription: >-
+    Dificuldade de mineração Bitcoin deve aumentar em dezembro apesar de
+    hashprice em mínima histórica. Análise completa do impacto para mineradores
+    e o mercado.
+  keywords:
+    - bitcoin mineração
+    - dificuldade mineração
+    - hashprice
+    - mineradores bitcoin
+    - hashrate bitcoin
+alternateLanguages:
+  en: bitcoin-mining-difficulty-should-rise-in-december---all-time-low-hashprice
+  es: >-
+    dificultad-de-minera-de-bitcoin-debe-subir-en-diciembre---hashprice-en-mnima-histrica
 ---
 
 # Dificuldade de Mineração [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Deve Subir em Dezembro - Hashprice em Mínima Histórica

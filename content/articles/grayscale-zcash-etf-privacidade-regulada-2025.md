@@ -1,24 +1,43 @@
 ---
-id: 'grayscale-zcash-etf-privacidade-regulada-2025'
-title: 'Grayscale ETF de Zcash - Privacidade Regulada ou Apenas no Nome?'
-slug: 'grayscale-zcash-etf-privacidade-regulada-2025'
-excerpt: 'Grayscale lança primeiro ETF de Zcash nos EUA, mas especialistas questionam se privacidade regulada é realmente privacidade. Análise completa do impacto para privacy coins e investidores.'
+id: grayscale-zcash-etf-privacidade-regulada-2025
+title: Grayscale ETF de Zcash - Privacidade Regulada ou Apenas no Nome?
+slug: grayscale-zcash-etf-privacidade-regulada-2025
+excerpt: >-
+  Grayscale lança primeiro ETF de Zcash nos EUA, mas especialistas questionam se
+  privacidade regulada é realmente privacidade. Análise completa do impacto para
+  privacy coins e investidores.
 coverImage:
-  src: '/images/zcash-grayscale-etf-privacy-styled.jpg'
-  alt: 'Grayscale ETF de Zcash - privacidade regulada'
+  src: /images/zcash-grayscale-etf-privacy-styled.jpg
+  alt: Grayscale ETF de Zcash - privacidade regulada
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-30'
 updatedAt: '2025-11-30'
-categorySlug: 'regulacao'
-tags: ['zcash', 'etf', 'privacidade', 'grayscale', 'privacy coins']
+categorySlug: regulacao
+tags:
+  - zcash
+  - etf
+  - privacidade
+  - grayscale
+  - privacy coins
 seo:
   metaTitle: 'Grayscale ETF Zcash: Privacidade Regulada Funciona? | A Cifra'
-  metaDescription: 'Grayscale lança ETF de Zcash, primeira privacy coin regulada nos EUA. Análise completa sobre privacidade regulada, impacto no mercado e futuro das moedas de privacidade.'
-  keywords: ['grayscale zcash etf', 'zcash etf', 'privacy coins', 'moedas privacidade', 'zcash regulado']
+  metaDescription: >-
+    Grayscale lança ETF de Zcash, primeira privacy coin regulada nos EUA.
+    Análise completa sobre privacidade regulada, impacto no mercado e futuro das
+    moedas de privacidade.
+  keywords:
+    - grayscale zcash etf
+    - zcash etf
+    - privacy coins
+    - moedas privacidade
+    - zcash regulado
+alternateLanguages:
+  en: zcash-grayscale-etf---regulated-privacy-or-just-in-name
+  es: grayscale-etf-de-zcash---privacidad-regulada-o-solo-en-el-nombre
 ---
 
 # Grayscale Lança ETF de Zcash - Privacidade Regulada ou Apenas no Nome?

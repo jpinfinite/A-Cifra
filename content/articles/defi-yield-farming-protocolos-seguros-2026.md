@@ -1,27 +1,50 @@
 ---
-id: 'defi-yield-farming-protocolos-seguros-2026-2025-12-05'
+id: defi-yield-farming-protocolos-seguros-2026-2025-12-05
 title: 'DeFi Yield Farming 2026: Protocolos Seguros para Multiplicar seu Patrimônio'
-slug: 'defi-yield-farming-protocolos-seguros-2026'
-excerpt: 'Renda de 15% ao ano é possível no DeFi? Sim, mas com estratégia. Descubra os protocolos auditados, como evitar rug pulls e maximizar ganhos com segurança.'
+slug: defi-yield-farming-protocolos-seguros-2026
+excerpt: >-
+  Renda de 15% ao ano é possível no DeFi? Sim, mas com estratégia. Descubra os
+  protocolos auditados, como evitar rug pulls e maximizar ganhos com segurança.
 coverImage:
-  src: '/images/defi/2025-12/yield-farming-seguro.webp'
-  alt: 'Fazenda digital conceitual com pools de liquidez e moedas crescendo como plantações'
+  src: /images/defi/2025-12/yield-farming-seguro.webp
+  alt: >-
+    Fazenda digital conceitual com pools de liquidez e moedas crescendo como
+    plantações
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'defi'
-tags: ['defi', 'yield farming', 'liquidity pools', 'aave', 'curve', 'uniswap']
+categorySlug: defi
+tags:
+  - defi
+  - yield farming
+  - liquidity pools
+  - aave
+  - curve
+  - uniswap
 seo:
   metaTitle: 'Yield Farming Seguro 2026: Melhores Protocolos DeFi | Guia Completo'
-  metaDescription: 'Aprenda yield farming na prática com os protocolos mais seguros de 2026. Aave, Curve, Uniswap e estratégias para 15%+ ao ano.'
-  keywords: ['yield farming', 'defi seguro', 'liquidity pools', 'aave farming', 'curve finance']
+  metaDescription: >-
+    Aprenda yield farming na prática com os protocolos mais seguros de 2026.
+    Aave, Curve, Uniswap e estratégias para 15%+ ao ano.
+  keywords:
+    - yield farming
+    - defi seguro
+    - liquidity pools
+    - aave farming
+    - curve finance
 monetization:
-  priority: 'high'
-  affiliateLinks: ['binance', 'uniswap', 'aave']
+  priority: high
+  affiliateLinks:
+    - binance
+    - uniswap
+    - aave
+alternateLanguages:
+  en: defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth
+  es: defi-yield-farming-2026-protocolos-seguros-para-multiplicar-su-patrimonio
 ---
 
 # [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Yield Farming 2026: Protocolos Seguros para Multiplicar seu Patrimônio

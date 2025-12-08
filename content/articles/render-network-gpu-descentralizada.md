@@ -1,31 +1,38 @@
 ---
-id: 'render-network-gpu-descentralizada'
+id: render-network-gpu-descentralizada
 title: 'Render Network (RNDR): Revolução na Renderização GPU Descentralizada'
-slug: 'render-network-gpu-descentralizada'
-excerpt: 'Descubra como Render Network está democratizando acesso a poder computacional GPU através de blockchain, revolucionando indústrias criativas e IA.'
+slug: render-network-gpu-descentralizada
+excerpt: >-
+  Descubra como Render Network está democratizando acesso a poder computacional
+  GPU através de blockchain, revolucionando indústrias criativas e IA.
 coverImage:
-  src: '/images/015.jpg'
+  src: /images/015.jpg
   alt: 'Render Network (RNDR): Renderização GPU Descentralizada'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
 updatedAt: '2025-12-03'
-categorySlug: 'altcoins'
+categorySlug: altcoins
 tags:
-  - 'render'
-  - 'rndr'
-  - 'gpu'
-  - 'computação descentralizada'
+  - render
+  - rndr
+  - gpu
+  - computação descentralizada
 seo:
   metaTitle: 'Render Network (RNDR): Renderização GPU Descentralizada | A Cifra'
-  metaDescription: 'Guia completo sobre Render Network: como funciona, tokenomics, casos de uso e por que RNDR está revolucionando computação GPU descentralizada.'
+  metaDescription: >-
+    Guia completo sobre Render Network: como funciona, tokenomics, casos de uso
+    e por que RNDR está revolucionando computação GPU descentralizada.
 s:
-    - 'render network'
-    - 'rndr token'
-    - 'gpu descentralizada'
+  - render network
+  - rndr token
+  - gpu descentralizada
+alternateLanguages:
+  en: render-network-rndr-revolution-in-decentralized-gpu-rendering
+  es: render-network-rndr-revolucin-en-renderizacin-gpu-descentralizada
 ---
 
 # Render Network (RNDR): Revolução na Renderização GPU Descentralizada

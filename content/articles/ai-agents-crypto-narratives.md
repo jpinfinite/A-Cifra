@@ -1,27 +1,45 @@
 ---
-id: 'ai-agents-crypto-narratives-2025-12-08'
+id: ai-agents-crypto-narratives-2025-12-08
 title: 'Agentes de IA na Blockchain: O Futuro da Automação Descentralizada'
-slug: 'ai-agents-crypto-narratives'
-excerpt: 'Análise aprofundada (Long-Form) sobre AI Agents Crypto Narratives. Um guia técnico e financeiro completo para o ciclo de 2026.'
+slug: ai-agents-crypto-narratives
+excerpt: >-
+  Análise aprofundada (Long-Form) sobre AI Agents Crypto Narratives. Um guia
+  técnico e financeiro completo para o ciclo de 2026.
 coverImage:
-  src: '/images/tecnologia/2025-12/ai-agents-crypto-narratives.webp'
+  src: /images/tecnologia/2025-12/ai-agents-crypto-narratives.webp
   alt: 'Agentes de IA na Blockchain: O Futuro da Automação Descentralizada'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'tecnologia'
-tags: ["tecnologia", "deep-dive", "tendencias-2026"]
+categorySlug: tecnologia
+tags:
+  - tecnologia
+  - deep-dive
+  - tendencias-2026
 seo:
-  metaTitle: 'Agentes de IA na Blockchain: O Futuro da Automação Descentralizada | Análise Completa 2026'
-  metaDescription: 'Artigo técnico sobre AI Agents Crypto Narratives. Entenda os fundamentos, tecnologia e potencial de valorização para 2026.'
-  keywords: ["AI Agents Crypto Narratives", "bull run 2026", "cripto analise"]
+  metaTitle: >-
+    Agentes de IA na Blockchain: O Futuro da Automação Descentralizada | Análise
+    Completa 2026
+  metaDescription: >-
+    Artigo técnico sobre AI Agents Crypto Narratives. Entenda os fundamentos,
+    tecnologia e potencial de valorização para 2026.
+  keywords:
+    - AI Agents Crypto Narratives
+    - bull run 2026
+    - cripto analise
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: >-
+    artificial-intelligence-agents-on-blockchain-the-future-of-decentralized-automation
+  es: agentes-de-ia-en-la-blockchain-el-futuro-de-la-automao-descentralizada
 ---
 
 # Agentes de IA na Blockchain: O Futuro da Automação Descentralizada

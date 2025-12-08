@@ -1,34 +1,41 @@
 ---
-id: 'floki-inu'
+id: floki-inu
 title: 'Floki Inu: A Memecoin Com Utilidade Real'
-slug: 'floki-inu-memecoin-utilidade'
-excerpt: 'Conheça o Floki Inu, a memecoin inspirada no cachorro de Elon Musk que está construindo um ecossistema com utilidade real: metaverso, DeFi e NFTs.'
+slug: floki-inu-memecoin-utilidade
+excerpt: >-
+  Conheça o Floki Inu, a memecoin inspirada no cachorro de Elon Musk que está
+  construindo um ecossistema com utilidade real: metaverso, DeFi e NFTs.
 coverImage:
-  src: '/images/120.jpg'
-  alt: 'Floki Inu - Memecoin com utilidade'
+  src: /images/120.jpg
+  alt: Floki Inu - Memecoin com utilidade
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'memecoin'
+categorySlug: memecoin
 tags:
-  - 'floki inu'
-  - 'floki'
-  - 'memecoins'
-  - 'metaverso'
-  - 'defi'
+  - floki inu
+  - floki
+  - memecoins
+  - metaverso
+  - defi
 seo:
   metaTitle: 'Floki Inu: Memecoin com Utilidade Real e Ecossistema | A Cifra'
-  metaDescription: 'Guia completo sobre Floki Inu: ecossistema, Valhalla (metaverso), FlokiFi, utilidade real e se vale a pena investir em FLOKI.'
+  metaDescription: >-
+    Guia completo sobre Floki Inu: ecossistema, Valhalla (metaverso), FlokiFi,
+    utilidade real e se vale a pena investir em FLOKI.
   keywords:
-    - 'floki inu'
-    - 'floki'
-    - 'valhalla'
-    - 'flokifi'
-    - 'memecoin utilidade'
+    - floki inu
+    - floki
+    - valhalla
+    - flokifi
+    - memecoin utilidade
+alternateLanguages:
+  en: floki-inu-a-memecoin-with-real-utility
+  es: floki-inu-una-memecoin-con-utilidad-real
 ---
 
 O **Floki Inu (FLOKI)** se destaca entre as memecoins por estar construindo um ecossistema real com múltiplas utilidades além da especulação.

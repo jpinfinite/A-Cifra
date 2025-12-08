@@ -1,27 +1,51 @@
 ---
-id: 'bitcoin-queda-ciclos-mercado-oportunidades-2025-12-05'
-title: 'Bitcoin em Queda? Entenda os Ciclos de Mercado e Oportunidades de Compra'
-slug: 'bitcoin-queda-ciclos-mercado-oportunidades'
-excerpt: 'O Bitcoin caiu 7% e o pânico se instalou? Calma. Analisamos os ciclos históricos do mercado para te mostrar por que correções são saudáveis e onde estão as oportunidades.'
+id: bitcoin-queda-ciclos-mercado-oportunidades-2025-12-05
+title: Bitcoin em Queda? Entenda os Ciclos de Mercado e Oportunidades de Compra
+slug: bitcoin-queda-ciclos-mercado-oportunidades
+excerpt: >-
+  O Bitcoin caiu 7% e o pânico se instalou? Calma. Analisamos os ciclos
+  históricos do mercado para te mostrar por que correções são saudáveis e onde
+  estão as oportunidades.
 coverImage:
-  src: '/images/bitcoin/2025-12/bitcoin-queda-ciclos.webp'
-  alt: 'Gráfico de velas do Bitcoin mostrando uma queda vermelha seguida de uma recuperação verde, com um fundo de análise técnica'
+  src: /images/bitcoin/2025-12/bitcoin-queda-ciclos.webp
+  alt: >-
+    Gráfico de velas do Bitcoin mostrando uma queda vermelha seguida de uma
+    recuperação verde, com um fundo de análise técnica
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'analise de mercado', 'trading', 'ciclos de mercado', 'halving', 'investimentos']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - analise de mercado
+  - trading
+  - ciclos de mercado
+  - halving
+  - investimentos
 seo:
   metaTitle: 'Bitcoin Caiu: Análise de Ciclos e Oportunidades de Compra | A Cifra'
-  metaDescription: 'Entenda a recente queda do Bitcoin. Análise profunda dos ciclos de mercado, Halving e indicadores on-chain. É hora de comprar ou vender?'
-  keywords: ['bitcoin caiu', 'preco do bitcoin hoje', 'ciclo do bitcoin', 'halving bitcoin', 'comprar bitcoin agora']
+  metaDescription: >-
+    Entenda a recente queda do Bitcoin. Análise profunda dos ciclos de mercado,
+    Halving e indicadores on-chain. É hora de comprar ou vender?
+  keywords:
+    - bitcoin caiu
+    - preco do bitcoin hoje
+    - ciclo do bitcoin
+    - halving bitcoin
+    - comprar bitcoin agora
 monetization:
-  priority: 'high'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: high
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: bitcoin-in-decline-understand-market-cycles-and-buying-opportunities
+  es: bitcoin-en-queda-entienda-los-ciclos-de-mercado-y-oportunidades-de-compra
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em Queda? Entenda os Ciclos de Mercado e Oportunidades de Compra

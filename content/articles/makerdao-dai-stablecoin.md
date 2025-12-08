@@ -1,34 +1,41 @@
 ---
-id: 'makerdao-dai'
+id: makerdao-dai
 title: 'MakerDAO e DAI: A Stablecoin Descentralizada'
-slug: 'makerdao-dai-stablecoin'
-excerpt: 'Entenda o MakerDAO, o protocolo por trás do DAI, a stablecoin descentralizada mais importante do DeFi e como ela mantém paridade com o dólar.'
+slug: makerdao-dai-stablecoin
+excerpt: >-
+  Entenda o MakerDAO, o protocolo por trás do DAI, a stablecoin descentralizada
+  mais importante do DeFi e como ela mantém paridade com o dólar.
 coverImage:
-  src: '/images/093.jpg'
-  alt: 'MakerDAO e DAI - Stablecoin descentralizada'
+  src: /images/093.jpg
+  alt: MakerDAO e DAI - Stablecoin descentralizada
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'makerdao'
-  - 'dai'
-  - 'stablecoin'
-  - 'defi'
-  - 'cdp'
+  - makerdao
+  - dai
+  - stablecoin
+  - defi
+  - cdp
 seo:
   metaTitle: 'MakerDAO e DAI: Guia da Stablecoin Descentralizada | A Cifra'
-  metaDescription: 'Guia completo sobre MakerDAO e DAI: como funciona, como gerar DAI, vaults, governança e por que é a stablecoin mais descentralizada.'
+  metaDescription: >-
+    Guia completo sobre MakerDAO e DAI: como funciona, como gerar DAI, vaults,
+    governança e por que é a stablecoin mais descentralizada.
   keywords:
-    - 'makerdao'
-    - 'dai stablecoin'
-    - 'dai cripto'
-    - 'stablecoin descentralizada'
-    - 'maker protocol'
+    - makerdao
+    - dai stablecoin
+    - dai cripto
+    - stablecoin descentralizada
+    - maker protocol
+alternateLanguages:
+  en: makerdao-and-dai-the-decentralized-stablecoin
+  es: makerdao-y-dai-la-establecambiada-descentralizada
 ---
 
 O **MakerDAO** é o protocolo que criou o DAI, a stablecoin descentralizada mais importante do ecossistema [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).

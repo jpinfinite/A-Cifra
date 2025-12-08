@@ -1,27 +1,44 @@
 ---
-id: 'rwa-depin-convergence-2025-12-08'
+id: rwa-depin-convergence-2025-12-08
 title: 'RWA + DePIN: A Mega Tendência de 2026 Que Une o Mundo Real e Digital'
-slug: 'rwa-depin-convergence'
-excerpt: 'Análise aprofundada (Long-Form) sobre RWA DePIN Convergence. Um guia técnico e financeiro completo para o ciclo de 2026.'
+slug: rwa-depin-convergence
+excerpt: >-
+  Análise aprofundada (Long-Form) sobre RWA DePIN Convergence. Um guia técnico e
+  financeiro completo para o ciclo de 2026.
 coverImage:
-  src: '/images/defi/2025-12/rwa-depin-convergence.webp'
+  src: /images/defi/2025-12/rwa-depin-convergence.webp
   alt: 'RWA + DePIN: A Mega Tendência de 2026 Que Une o Mundo Real e Digital'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'defi'
-tags: ["defi", "deep-dive", "tendencias-2026"]
+categorySlug: defi
+tags:
+  - defi
+  - deep-dive
+  - tendencias-2026
 seo:
-  metaTitle: 'RWA + DePIN: A Mega Tendência de 2026 Que Une o Mundo Real e Digital | Análise Completa 2026'
-  metaDescription: 'Artigo técnico sobre RWA DePIN Convergence. Entenda os fundamentos, tecnologia e potencial de valorização para 2026.'
-  keywords: ["RWA DePIN Convergence", "bull run 2026", "cripto analise"]
+  metaTitle: >-
+    RWA + DePIN: A Mega Tendência de 2026 Que Une o Mundo Real e Digital |
+    Análise Completa 2026
+  metaDescription: >-
+    Artigo técnico sobre RWA DePIN Convergence. Entenda os fundamentos,
+    tecnologia e potencial de valorização para 2026.
+  keywords:
+    - RWA DePIN Convergence
+    - bull run 2026
+    - cripto analise
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: rwa-depin-the-mega-trend-of-2026-that-unites-the-real-and-digital-world
+  es: rwa-depin-la-mega-tendencia-de-2026-que-une-el-mundo-real-y-digital
 ---
 
 # RWA + DePIN: A Mega Tendência de 2026 Que Une o Mundo Real e Digital

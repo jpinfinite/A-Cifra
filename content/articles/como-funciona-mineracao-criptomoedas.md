@@ -1,34 +1,41 @@
 ---
-id: 'mineracao-cripto'
-title: 'Como Funciona a Mineração de Criptomoedas?'
-slug: 'como-funciona-mineracao-criptomoedas'
-excerpt: 'Entenda o processo de mineração de criptomoedas, como os mineradores validam transações e ganham recompensas na rede blockchain.'
+id: mineracao-cripto
+title: Como Funciona a Mineração de Criptomoedas?
+slug: como-funciona-mineracao-criptomoedas
+excerpt: >-
+  Entenda o processo de mineração de criptomoedas, como os mineradores validam
+  transações e ganham recompensas na rede blockchain.
 coverImage:
-  src: '/images/141.jpg'
-  alt: 'Equipamento de mineração de criptomoedas'
+  src: /images/141.jpg
+  alt: Equipamento de mineração de criptomoedas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'mineração'
-  - 'bitcoin'
-  - 'proof of work'
-  - 'blockchain'
-  - 'validação'
+  - mineração
+  - bitcoin
+  - proof of work
+  - blockchain
+  - validação
 seo:
-  metaTitle: 'Como Funciona a Mineração de Criptomoedas? Guia Completo | A Cifra'
-  metaDescription: 'Guia completo sobre mineração de criptomoedas: o que é, como funciona, equipamentos necessários, custos e se ainda vale a pena minerar.'
+  metaTitle: Como Funciona a Mineração de Criptomoedas? Guia Completo | A Cifra
+  metaDescription: >-
+    Guia completo sobre mineração de criptomoedas: o que é, como funciona,
+    equipamentos necessários, custos e se ainda vale a pena minerar.
   keywords:
-    - 'mineração de criptomoedas'
-    - 'como minerar bitcoin'
-    - 'proof of work'
-    - 'mineração cripto'
-    - 'equipamento mineração'
+    - mineração de criptomoedas
+    - como minerar bitcoin
+    - proof of work
+    - mineração cripto
+    - equipamento mineração
+alternateLanguages:
+  en: how-does-cryptocurrency-mining-work
+  es: cmo-funciona-la-minera-de-criptomonedas
 ---
 
 A **mineração de criptomoedas** é o processo pelo qual novas moedas são criadas e transações são validadas na blockchain. É fundamental para a [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) e funcionamento de redes como [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional).

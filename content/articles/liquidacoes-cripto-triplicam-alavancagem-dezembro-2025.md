@@ -1,24 +1,49 @@
 ---
-id: 'liquidacoes-cripto-triplicam-alavancagem-dezembro-2025'
-title: 'Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavancagem Excessiva'
-slug: 'liquidacoes-cripto-triplicam-alavancagem-dezembro-2025'
-excerpt: 'Mercado cripto registra $1,8 bilhão em liquidações em 48 horas. Entenda os riscos da alavancagem e como proteger seus investimentos da volatilidade extrema.'
+id: liquidacoes-cripto-triplicam-alavancagem-dezembro-2025
+title: >-
+  Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavancagem
+  Excessiva
+slug: liquidacoes-cripto-triplicam-alavancagem-dezembro-2025
+excerpt: >-
+  Mercado cripto registra $1,8 bilhão em liquidações em 48 horas. Entenda os
+  riscos da alavancagem e como proteger seus investimentos da volatilidade
+  extrema.
 coverImage:
-  src: '/images/027.jpg'
-  alt: 'Gráfico mostrando liquidações massivas no mercado de criptomoedas'
+  src: /images/027.jpg
+  alt: Gráfico mostrando liquidações massivas no mercado de criptomoedas
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'trading'
-tags: ['liquidações', 'alavancagem', 'trading', 'gestão de risco', 'volatilidade']
+categorySlug: trading
+tags:
+  - liquidações
+  - alavancagem
+  - trading
+  - gestão de risco
+  - volatilidade
 seo:
-  metaTitle: 'Liquidações Cripto Triplicam em Dezembro 2025 | Perigos da Alavancagem | A Cifra'
-  metaDescription: 'Análise completa das liquidações massivas de $1,8 bilhão em cripto. Entenda os riscos da alavancagem excessiva e como proteger seus investimentos.'
-  keywords: ['liquidações cripto', 'alavancagem', 'trading cripto', 'gestão de risco', 'volatilidade', 'futures cripto']
+  metaTitle: >-
+    Liquidações Cripto Triplicam em Dezembro 2025 | Perigos da Alavancagem | A
+    Cifra
+  metaDescription: >-
+    Análise completa das liquidações massivas de $1,8 bilhão em cripto. Entenda
+    os riscos da alavancagem excessiva e como proteger seus investimentos.
+  keywords:
+    - liquidações cripto
+    - alavancagem
+    - trading cripto
+    - gestão de risco
+    - volatilidade
+    - futures cripto
+alternateLanguages:
+  en: >-
+    cryptocurrency-liquidations-triple-in-december-2025-the-dangers-of-excessive-leverage
+  es: >-
+    liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancamiento-excesivo
 ---
 
 # Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavancagem Excessiva

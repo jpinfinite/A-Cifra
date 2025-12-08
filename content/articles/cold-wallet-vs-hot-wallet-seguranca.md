@@ -1,31 +1,38 @@
 ---
-id: 'cold-wallet-vs-hot-wallet-seguranca'
+id: cold-wallet-vs-hot-wallet-seguranca
 title: 'Cold Wallet vs Hot Wallet: Qual é Mais Segura?'
-slug: 'cold-wallet-vs-hot-wallet-seguranca'
-excerpt: 'Comparação completa entre carteiras frias e quentes para armazenamento seguro de criptomoedas.'
+slug: cold-wallet-vs-hot-wallet-seguranca
+excerpt: >-
+  Comparação completa entre carteiras frias e quentes para armazenamento seguro
+  de criptomoedas.
 coverImage:
-  src: '/images/026.jpg'
+  src: /images/026.jpg
   alt: 'Cold Wallet vs Hot Wallet: Qual é Mais Segura?'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'carteiras'
-  - 'segurança'
-  - 'cold wallet'
-  - 'hot wallet'
+  - carteiras
+  - segurança
+  - cold wallet
+  - hot wallet
 seo:
   metaTitle: 'Cold Wallet vs Hot Wallet: Qual é Mais Segura? | A Cifra'
-  metaDescription: 'Comparação completa entre carteiras frias e quentes para armazenamento seguro de criptomoedas.'
+  metaDescription: >-
+    Comparação completa entre carteiras frias e quentes para armazenamento
+    seguro de criptomoedas.
   keywords:
-    - 'carteiras'
-    - 'segurança'
-    - 'cold wallet'
-    - 'hot wallet'
+    - carteiras
+    - segurança
+    - cold wallet
+    - hot wallet
+alternateLanguages:
+  en: cold-wallet-vs-hot-wallet-which-is-more-secure
+  es: billetera-fra-vs-billetera-caliente-cul-es-la-ms-segura
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda cold wallet vs hot wallet: qual é mais segura?.

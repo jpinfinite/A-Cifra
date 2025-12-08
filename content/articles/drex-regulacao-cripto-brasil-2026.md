@@ -1,27 +1,51 @@
 ---
-id: 'drex-regulacao-cripto-brasil-2026-2025-12-05'
+id: drex-regulacao-cripto-brasil-2026-2025-12-05
 title: 'Drex e a Regulação Cripto 2026: O Que Muda para o Investidor Brasileiro?'
-slug: 'drex-regulacao-cripto-brasil-2026'
-excerpt: 'O Real Digital (Drex) está chegando e novas regras da Receita Federal entram em vigor em 2026. Entenda o impacto na sua privacidade, impostos e investimentos.'
+slug: drex-regulacao-cripto-brasil-2026
+excerpt: >-
+  O Real Digital (Drex) está chegando e novas regras da Receita Federal entram
+  em vigor em 2026. Entenda o impacto na sua privacidade, impostos e
+  investimentos.
 coverImage:
-  src: '/images/regulacao/2025-12/drex-regulacao.webp'
-  alt: 'Conceito visual do Drex (Real Digital) conectado à blockchain e documentos regulatórios do Brasil'
+  src: /images/regulacao/2025-12/drex-regulacao.webp
+  alt: >-
+    Conceito visual do Drex (Real Digital) conectado à blockchain e documentos
+    regulatórios do Brasil
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'regulacao'
-tags: ['drex', 'regulacao', 'receita federal', 'imposto de renda', 'banco central', 'cbdc']
+categorySlug: regulacao
+tags:
+  - drex
+  - regulacao
+  - receita federal
+  - imposto de renda
+  - banco central
+  - cbdc
 seo:
   metaTitle: 'Drex e Regulação Cripto 2026: Guia Completo para Investidores | A Cifra'
-  metaDescription: 'Tudo sobre o Drex e as novas leis de criptomoedas para 2026. Saiba como declarar, o que muda nos impostos e o futuro do dinheiro no Brasil.'
-  keywords: ['o que é drex', 'imposto criptomoedas 2026', 'lei das criptomoedas', 'declarar bitcoin', 'real digital']
+  metaDescription: >-
+    Tudo sobre o Drex e as novas leis de criptomoedas para 2026. Saiba como
+    declarar, o que muda nos impostos e o futuro do dinheiro no Brasil.
+  keywords:
+    - o que é drex
+    - imposto criptomoedas 2026
+    - lei das criptomoedas
+    - declarar bitcoin
+    - real digital
 monetization:
-  priority: 'high'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: high
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: drex-and-crypto-regulation-2026-what-changes-for-the-brazilian-investor
+  es: drex-y-la-regulacin-cripto-2026-qu-cambia-para-el-inversor-brasileo
 ---
 
 # Drex e a Regulação Cripto 2026: O Que Muda para o Investidor Brasileiro?

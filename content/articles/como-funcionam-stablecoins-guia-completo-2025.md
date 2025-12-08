@@ -1,24 +1,45 @@
 ---
-id: 'como-funcionam-stablecoins-guia-completo-2025'
+id: como-funcionam-stablecoins-guia-completo-2025
 title: 'Como Funcionam as Stablecoins: Guia Completo para Iniciantes 2025'
-slug: 'como-funcionam-stablecoins-guia-completo-2025'
-excerpt: 'Descubra como as stablecoins mantêm seu valor estável, quais são as mais seguras e como usá-las para proteger seu patrimônio da volatilidade cripto.'
+slug: como-funcionam-stablecoins-guia-completo-2025
+excerpt: >-
+  Descubra como as stablecoins mantêm seu valor estável, quais são as mais
+  seguras e como usá-las para proteger seu patrimônio da volatilidade cripto.
 coverImage:
-  src: '/images/227.jpg'
-  alt: 'Stablecoins e moedas fiduciárias representando estabilidade no mercado cripto'
+  src: /images/227.jpg
+  alt: >-
+    Stablecoins e moedas fiduciárias representando estabilidade no mercado
+    cripto
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-26'
 updatedAt: '2025-11-26'
-categorySlug: 'educacao'
-tags: ['stablecoins', 'usdt', 'usdc', 'educacao', 'iniciantes']
+categorySlug: educacao
+tags:
+  - stablecoins
+  - usdt
+  - usdc
+  - educacao
+  - iniciantes
 seo:
   metaTitle: 'Como Funcionam Stablecoins: Guia Completo 2025 | A Cifra'
-  metaDescription: 'Aprenda tudo sobre stablecoins: como funcionam, tipos, segurança e como usar USDT, USDC e outras para proteger seu patrimônio da volatilidade.'
-  keywords: ['stablecoins', 'usdt', 'usdc', 'como funcionam stablecoins', 'criptomoedas estáveis', 'tether', 'circle']
+  metaDescription: >-
+    Aprenda tudo sobre stablecoins: como funcionam, tipos, segurança e como usar
+    USDT, USDC e outras para proteger seu patrimônio da volatilidade.
+  keywords:
+    - stablecoins
+    - usdt
+    - usdc
+    - como funcionam stablecoins
+    - criptomoedas estáveis
+    - tether
+    - circle
+alternateLanguages:
+  en: how-stablecoins-work-a-comprehensive-guide-for-beginners-2025
+  es: cmo-funcionan-las-stablecoins-gua-completa-para-principiantes-2025
 ---
 
 # Como Funcionam as Stablecoins: Guia Completo para Iniciantes 2025

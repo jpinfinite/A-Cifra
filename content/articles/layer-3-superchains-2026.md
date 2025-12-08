@@ -1,28 +1,40 @@
 ---
-id: 'layer-3-superchains-2026'
-title: "Layer 3 e Superchains 2026: A Próxima Evolução da Escalabilidade Blockchain"
-slug: 'layer-3-superchains-2026'
-excerpt: "Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em 2026: milhões de TPS, custos de centavos e aplicações impossíveis antes."
+id: layer-3-superchains-2026
+title: 'Layer 3 e Superchains 2026: A Próxima Evolução da Escalabilidade Blockchain'
+slug: layer-3-superchains-2026
+excerpt: >-
+  Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em
+  2026: milhões de TPS, custos de centavos e aplicações impossíveis antes.
 coverImage:
-  src: '/images/133.jpg'
-  alt: 'Layer 3 e Superchains 2026'
+  src: /images/133.jpg
+  alt: Layer 3 e Superchains 2026
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-23'
 updatedAt: '2025-11-23'
-categorySlug: 'ethereum'
-tags: ["Layer 3", "Superchains", "Escalabilidade", "Blockchain", "2026"]
+categorySlug: ethereum
+tags:
+  - Layer 3
+  - Superchains
+  - Escalabilidade
+  - Blockchain
+  - '2026'
 seo:
   metaTitle: 'Layer 3 e Superchains 2026: Nova Era de Escalabilidade | A Cifra'
-  metaDescription: 'Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em 2026: milhões de TPS, custos de centavos e aplicações impossíveis antes.'
+  metaDescription: >-
+    Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em
+    2026: milhões de TPS, custos de centavos e aplicações impossíveis antes.
   keywords:
-    - 'Layer 3'
-    - 'Superchains'
-    - 'escalabilidade blockchain'
-    - 'Ethereum L3'
+    - Layer 3
+    - Superchains
+    - escalabilidade blockchain
+    - Ethereum L3
+alternateLanguages:
+  en: layer-3-and-superchains-2026-the-next-evolution-of-blockchain-scalability
+  es: layer-3-y-superchains-2026-la-prxima-evolucin-de-la-escalabilidad-blockchain
 ---
 
 # Layer 3 e Superchains 2026: A Próxima Evolução da Escalabilidade Blockchain

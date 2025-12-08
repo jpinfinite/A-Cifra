@@ -1,31 +1,38 @@
 ---
-id: 'rug-pulls-como-identificar-evitar'
+id: rug-pulls-como-identificar-evitar
 title: 'Rug Pulls: Como Identificar e Evitar Golpes em DeFi'
-slug: 'rug-pulls-como-identificar-evitar'
-excerpt: 'Aprenda a identificar sinais de rug pulls e proteger seus investimentos em DeFi.'
+slug: rug-pulls-como-identificar-evitar
+excerpt: >-
+  Aprenda a identificar sinais de rug pulls e proteger seus investimentos em
+  DeFi.
 coverImage:
-  src: '/images/091.jpg'
+  src: /images/091.jpg
   alt: 'Rug Pulls: Como Identificar e Evitar Golpes em DeFi'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'rug pull'
-  - 'golpes'
-  - 'defi'
-  - 'segurança'
+  - rug pull
+  - golpes
+  - defi
+  - segurança
 seo:
   metaTitle: 'Rug Pulls: Como Identificar e Evitar Golpes em DeFi | A Cifra'
-  metaDescription: 'Aprenda a identificar sinais de rug pulls e proteger seus investimentos em DeFi.'
+  metaDescription: >-
+    Aprenda a identificar sinais de rug pulls e proteger seus investimentos em
+    DeFi.
   keywords:
-    - 'rug pull'
-    - 'golpes'
-    - 'defi'
-    - 'segurança'
+    - rug pull
+    - golpes
+    - defi
+    - segurança
+alternateLanguages:
+  en: rug-pulls-how-to-identify-and-avoid-scams-in-defi
+  es: rug-pulls-cmo-identificar-y-evitar-estafas-en-defi
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda rug pulls: como identificar e evitar golpes em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).

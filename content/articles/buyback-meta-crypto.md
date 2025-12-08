@@ -1,27 +1,44 @@
 ---
-id: 'buyback-meta-crypto-2025-12-08'
+id: buyback-meta-crypto-2025-12-08
 title: 'O Fenômeno Buyback: Por Que Projetos Deflacionários Vão Liderar 2026?'
-slug: 'buyback-meta-crypto'
-excerpt: 'Análise aprofundada (Long-Form) sobre Buyback Meta Crypto. Um guia técnico e financeiro completo para o ciclo de 2026.'
+slug: buyback-meta-crypto
+excerpt: >-
+  Análise aprofundada (Long-Form) sobre Buyback Meta Crypto. Um guia técnico e
+  financeiro completo para o ciclo de 2026.
 coverImage:
-  src: '/images/analises/2025-12/buyback-meta-crypto.webp'
+  src: /images/analises/2025-12/buyback-meta-crypto.webp
   alt: 'O Fenômeno Buyback: Por Que Projetos Deflacionários Vão Liderar 2026?'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'analises'
-tags: ["analises", "deep-dive", "tendencias-2026"]
+categorySlug: analises
+tags:
+  - analises
+  - deep-dive
+  - tendencias-2026
 seo:
-  metaTitle: 'O Fenômeno Buyback: Por Que Projetos Deflacionários Vão Liderar 2026? | Análise Completa 2026'
-  metaDescription: 'Artigo técnico sobre Buyback Meta Crypto. Entenda os fundamentos, tecnologia e potencial de valorização para 2026.'
-  keywords: ["Buyback Meta Crypto", "bull run 2026", "cripto analise"]
+  metaTitle: >-
+    O Fenômeno Buyback: Por Que Projetos Deflacionários Vão Liderar 2026? |
+    Análise Completa 2026
+  metaDescription: >-
+    Artigo técnico sobre Buyback Meta Crypto. Entenda os fundamentos, tecnologia
+    e potencial de valorização para 2026.
+  keywords:
+    - Buyback Meta Crypto
+    - bull run 2026
+    - cripto analise
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: the-buyback-phenomenon-why-deflationary-projects-will-lead-in-2026
+  es: el-fenmeno-buyback-por-qu-proyectos-deflacionarios-liderarn-2026
 ---
 
 # O Fenômeno Buyback: Por Que Projetos Deflacionários Vão Liderar 2026?

@@ -39,6 +39,9 @@ seo:
     - ethereum wallet
     - segurança cripto
 categorySlug: ethereum
+alternateLanguages:
+  en: metamask-the-complete-guide-to-the-most-popular-crypto-wallet-in-the-world
+  es: metamask-gua-completa-de-la-cartera-cripto-ms-popular-del-mundo
 ---
 
 A **MetaMask** é muito mais que uma simples carteira de criptomoedas - é a porta de entrada para o universo Web3, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) e aplicações descentralizadas. Com mais de 100 milhões de usuários ativos, ela se tornou a carteira mais popular e confiável para interagir com a blockchain [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) e suas redes compatíveis.

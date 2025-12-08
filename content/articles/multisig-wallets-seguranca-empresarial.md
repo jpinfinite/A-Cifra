@@ -1,31 +1,38 @@
 ---
-id: 'multisig-wallets-seguranca-empresarial'
+id: multisig-wallets-seguranca-empresarial
 title: 'Carteiras Multisig: Segurança para Empresas e DAOs'
-slug: 'multisig-wallets-seguranca-empresarial'
-excerpt: 'Descubra como carteiras multisig aumentam segurança através de múltiplas assinaturas.'
+slug: multisig-wallets-seguranca-empresarial
+excerpt: >-
+  Descubra como carteiras multisig aumentam segurança através de múltiplas
+  assinaturas.
 coverImage:
-  src: '/images/050.jpg'
+  src: /images/050.jpg
   alt: 'Carteiras Multisig: Segurança para Empresas e DAOs'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'multisig'
-  - 'segurança'
-  - 'empresas'
-  - 'dao'
+  - multisig
+  - segurança
+  - empresas
+  - dao
 seo:
   metaTitle: 'Carteiras Multisig: Segurança para Empresas e DAOs | A Cifra'
-  metaDescription: 'Descubra como carteiras multisig aumentam segurança através de múltiplas assinaturas.'
+  metaDescription: >-
+    Descubra como carteiras multisig aumentam segurança através de múltiplas
+    assinaturas.
   keywords:
-    - 'multisig'
-    - 'segurança'
-    - 'empresas'
-    - 'dao'
+    - multisig
+    - segurança
+    - empresas
+    - dao
+alternateLanguages:
+  en: multisig-wallets-security-for-businesses-and-daos
+  es: carteiras-multisig-seguridad-para-empresas-y-daos
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda carteiras multisig: [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) para empresas e daos.

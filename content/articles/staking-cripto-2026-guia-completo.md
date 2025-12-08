@@ -1,28 +1,39 @@
 ---
-id: 'staking-cripto-2026-guia-completo'
-title: "Staking de Cripto 2026: Guia Completo para Renda Passiva"
-slug: 'staking-cripto-2026-guia-completo'
-excerpt: "Aprenda tudo sobre staking de criptomoedas: melhores moedas, retornos, riscos e como ganhar renda passiva com seus investimentos em 2026."
+id: staking-cripto-2026-guia-completo
+title: 'Staking de Cripto 2026: Guia Completo para Renda Passiva'
+slug: staking-cripto-2026-guia-completo
+excerpt: >-
+  Aprenda tudo sobre staking de criptomoedas: melhores moedas, retornos, riscos
+  e como ganhar renda passiva com seus investimentos em 2026.
 coverImage:
-  src: '/images/181.jpg'
-  alt: 'Staking Cripto 2026'
+  src: /images/181.jpg
+  alt: Staking Cripto 2026
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-23'
 updatedAt: '2025-11-23'
-categorySlug: 'defi'
-tags: ["Staking", "Renda Passiva", "DeFi", "Investimento"]
+categorySlug: defi
+tags:
+  - Staking
+  - Renda Passiva
+  - DeFi
+  - Investimento
 seo:
   metaTitle: 'Staking de Cripto 2026: Guia Completo para Renda Passiva | A Cifra'
-  metaDescription: 'Aprenda tudo sobre staking de criptomoedas: melhores moedas, retornos, riscos e como ganhar renda passiva com seus investimentos em 2026.'
+  metaDescription: >-
+    Aprenda tudo sobre staking de criptomoedas: melhores moedas, retornos,
+    riscos e como ganhar renda passiva com seus investimentos em 2026.
   keywords:
-    - 'staking cripto'
-    - 'renda passiva'
-    - 'staking 2026'
-    - 'investimento cripto'
+    - staking cripto
+    - renda passiva
+    - staking 2026
+    - investimento cripto
+alternateLanguages:
+  en: crypto-staking-2026-a-comprehensive-guide-to-passive-income
+  es: staking-de-criptomoneda-2026-gua-completa-para-renta-pasiva
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de Cripto 2026: Guia Completo para Renda Passiva

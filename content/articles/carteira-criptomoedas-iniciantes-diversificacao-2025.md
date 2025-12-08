@@ -1,33 +1,40 @@
 ---
-id: 'carteira-criptomoedas-iniciantes-2025'
+id: carteira-criptomoedas-iniciantes-2025
 title: 'Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia'
-slug: 'carteira-criptomoedas-iniciantes-diversificacao-2025'
-excerpt: 'Monte sua carteira de criptomoedas ideal: estratégias de diversificação, alocação por perfil de risco e rebalanceamento. Guia completo para iniciantes.'
+slug: carteira-criptomoedas-iniciantes-diversificacao-2025
+excerpt: >-
+  Monte sua carteira de criptomoedas ideal: estratégias de diversificação,
+  alocação por perfil de risco e rebalanceamento. Guia completo para iniciantes.
 coverImage:
-  src: '/images/063.png'
-  alt: 'Carteira de criptomoedas para iniciantes - Diversificação'
+  src: /images/063.png
+  alt: Carteira de criptomoedas para iniciantes - Diversificação
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'carteira'
-  - 'diversificação'
-  - 'estratégia'
-  - 'iniciantes'
+  - carteira
+  - diversificação
+  - estratégia
+  - iniciantes
 seo:
   metaTitle: 'Carteira de Criptomoedas para Iniciantes 2025: Guia Completo | A Cifra'
-  metaDescription: 'Aprenda a montar sua carteira de criptomoedas: diversificação inteligente, alocação por perfil de risco, rebalanceamento e estratégias comprovadas.'
+  metaDescription: >-
+    Aprenda a montar sua carteira de criptomoedas: diversificação inteligente,
+    alocação por perfil de risco, rebalanceamento e estratégias comprovadas.
   keywords:
-    - 'carteira de criptomoedas'
-    - 'diversificação cripto'
-    - 'portfolio bitcoin'
-    - 'investir em criptomoedas'
-    - 'alocação de ativos'
+    - carteira de criptomoedas
+    - diversificação cripto
+    - portfolio bitcoin
+    - investir em criptomoedas
+    - alocação de ativos
+alternateLanguages:
+  en: cryptocurrency-portfolio-for-beginners-2025-diversification-and-strategy
+  es: carteira-de-criptomonedas-para-iniciantes-2025-diversificacin-y-estrategia
 ---
 
 # Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia

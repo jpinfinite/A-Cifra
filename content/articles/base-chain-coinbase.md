@@ -1,27 +1,42 @@
 ---
-id: 'base-chain-coinbase-2025-12-10'
+id: base-chain-coinbase-2025-12-10
 title: 'Base Chain: O Gigante da Coinbase Dominando o DeFi'
-slug: 'base-chain-coinbase'
-excerpt: 'Análise completa sobre Base Chain Coinbase. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: base-chain-coinbase
+excerpt: >-
+  Análise completa sobre Base Chain Coinbase. Descubra as previsões, tecnologias
+  e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/altcoins/2025-12/base-chain-coinbase.webp'
+  src: /images/altcoins/2025-12/base-chain-coinbase.webp
   alt: 'Base Chain: O Gigante da Coinbase Dominando o DeFi'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'altcoins'
-tags: ["altcoins", "tendencias-2026", "tecnologia"]
+categorySlug: altcoins
+tags:
+  - altcoins
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Base Chain: O Gigante da Coinbase Dominando o DeFi | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Base Chain Coinbase. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Base Chain Coinbase", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Base Chain Coinbase. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Base Chain Coinbase
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: base-chain-the-coinbase-giant-dominating-defi
+  es: base-chain-el-gigante-de-coinbase-dominando-el-defi
 ---
 
 # Base Chain: O Gigante da Coinbase Dominando o DeFi

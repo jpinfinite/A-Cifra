@@ -1,27 +1,45 @@
 ---
-id: 'regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar-2025-12-06'
+id: regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar-2025-12-06
 title: 'Regulação cripto Brasil 2026: O Que Muda e Como Se Preparar'
-slug: 'regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar'
-excerpt: 'Regulação cripto Brasil 2026. Guia completo com análise detalhada, dicas práticas e tudo que você precisa saber para tomar decisões informadas.'
+slug: regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar
+excerpt: >-
+  Regulação cripto Brasil 2026. Guia completo com análise detalhada, dicas
+  práticas e tudo que você precisa saber para tomar decisões informadas.
 coverImage:
-  src: '/images/regulacao/2025-12/regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar.webp'
-  alt: 'Ilustração conceitual sobre Regulação cripto Brasil 2026'
+  src: >-
+    /images/regulacao/2025-12/regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar.webp
+  alt: Ilustração conceitual sobre Regulação cripto Brasil 2026
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-06'
 updatedAt: '2025-12-06'
-categorySlug: 'regulacao'
-tags: ["regulacao","regulação","cripto","brasil"]
+categorySlug: regulacao
+tags:
+  - regulacao
+  - regulação
+  - cripto
+  - brasil
 seo:
   metaTitle: 'Regulação cripto Brasil 2026: O Que Muda e Como Se Preparar'
-  metaDescription: 'Regulação cripto Brasil 2026. Análise completa, previsões e guia prático para investidores.'
-  keywords: ["Regulação","cripto","Brasil","2026"]
+  metaDescription: >-
+    Regulação cripto Brasil 2026. Análise completa, previsões e guia prático
+    para investidores.
+  keywords:
+    - Regulação
+    - cripto
+    - Brasil
+    - '2026'
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance","bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: brazil-crypto-regulation-2026-whats-changing-and-how-to-prepare
+  es: regulacin-cripto-brasil-2026-lo-que-cambia-y-cmo-prepararse
 ---
 
 # Regulação cripto Brasil 2026: O Que Muda e Como Se Preparar

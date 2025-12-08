@@ -1,24 +1,41 @@
 ---
-id: 'polkadot-parachains'
-slug: 'polkadot-parachain-interoperabilidade-blockchain'
-title: "Polkadot: Parachains e Interoperabilidade Blockchain"
-excerpt: "Descubra como o Polkadot está revolucionando a interoperabilidade blockchain com parachains, relay chain e o token DOT."
+id: polkadot-parachains
+slug: polkadot-parachain-interoperabilidade-blockchain
+title: 'Polkadot: Parachains e Interoperabilidade Blockchain'
+excerpt: >-
+  Descubra como o Polkadot está revolucionando a interoperabilidade blockchain
+  com parachains, relay chain e o token DOT.
 coverImage:
-  src: '/images/159.jpg'
-  alt: 'Polkadot - Parachains e Interoperabilidade'
+  src: /images/159.jpg
+  alt: Polkadot - Parachains e Interoperabilidade
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["polkadot", "dot", "parachains", "interoperabilidade", "web3"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - polkadot
+  - dot
+  - parachains
+  - interoperabilidade
+  - web3
 seo:
-  metaTitle: "Polkadot: Parachains e Interoperabilidade Blockchain | A Cifra"
-  metaDescription: "Guia completo sobre Polkadot: parachains, relay chain, DOT token e como está revolucionando a interoperabilidade blockchain."
-  keywords: ["polkadot", "dot", "parachains", "interoperabilidade", "web3"]
+  metaTitle: 'Polkadot: Parachains e Interoperabilidade Blockchain | A Cifra'
+  metaDescription: >-
+    Guia completo sobre Polkadot: parachains, relay chain, DOT token e como está
+    revolucionando a interoperabilidade blockchain.
+  keywords:
+    - polkadot
+    - dot
+    - parachains
+    - interoperabilidade
+    - web3
+alternateLanguages:
+  en: polkadot-parachains-and-blockchain-interoperability
+  es: polkadot-parachains-e-interoperabilidad-blockchain
 ---
 
 # Polkadot: Parachains e Interoperabilidade Blockchain

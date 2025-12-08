@@ -1,34 +1,39 @@
 ---
-id: 'bitcoin-guide-2025'
+id: bitcoin-guide-2025
 title: 'Bitcoin: Guia Completo para Iniciantes em 2025'
-slug: 'bitcoin-guia-completo-iniciantes-2025'
-excerpt: 'Tudo que você precisa saber sobre Bitcoin para começar seus investimentos em criptomoedas.'
+slug: bitcoin-guia-completo-iniciantes-2025
+excerpt: >-
+  Tudo que você precisa saber sobre Bitcoin para começar seus investimentos em
+  criptomoedas.
 coverImage:
-  src: '/images/bitcoin/bitcoin-guide.jpg'
-  alt: 'Bitcoin - Guia para Iniciantes'
+  src: /images/bitcoin/bitcoin-guide.jpg
+  alt: Bitcoin - Guia para Iniciantes
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-15'
 updatedAt: '2025-11-23'
-categorySlug: 'bitcoin'
-language: 'pt-BR'
+categorySlug: bitcoin
+language: pt-BR
 alternateLanguages:
-  en: 'bitcoin-complete-guide-beginners-2025'
+  en: bitcoin-a-comprehensive-guide-for-beginners-in-2025
+  es: bitcoin-gua-completa-para-principiantes-en-2025
 tags:
-  - 'bitcoin'
-  - 'guia'
-  - 'iniciantes'
+  - bitcoin
+  - guia
+  - iniciantes
 seo:
   metaTitle: 'Bitcoin: Guia Completo para Iniciantes em 2025'
-  metaDescription: 'Aprenda tudo sobre Bitcoin: história, funcionamento, mineração e investimento seguro.'
+  metaDescription: >-
+    Aprenda tudo sobre Bitcoin: história, funcionamento, mineração e
+    investimento seguro.
   keywords:
-    - 'bitcoin'
-    - 'criptomoeda'
-    - 'guia iniciantes'
-    - 'investimento cripto'
+    - bitcoin
+    - criptomoeda
+    - guia iniciantes
+    - investimento cripto
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Guia Completo para Iniciantes em 2025

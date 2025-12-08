@@ -1,24 +1,49 @@
 ---
-id: 'bitcoin-recuperacao-80600-analise-mercado-cripto-novembro-2025'
-title: 'Bitcoin Tenta Recuperação de US$ 80.600: Análise Completa do Mercado Cripto e Próximos Alvos'
-slug: 'bitcoin-recuperacao-80600-analise-mercado-cripto-novembro-2025'
-excerpt: 'Bitcoin busca recuperação após tocar US$ 80.600. Análise técnica completa das 10 principais criptomoedas, níveis de suporte e resistência para as próximas semanas.'
+id: bitcoin-recuperacao-80600-analise-mercado-cripto-novembro-2025
+title: >-
+  Bitcoin Tenta Recuperação de US$ 80.600: Análise Completa do Mercado Cripto e
+  Próximos Alvos
+slug: bitcoin-recuperacao-80600-analise-mercado-cripto-novembro-2025
+excerpt: >-
+  Bitcoin busca recuperação após tocar US$ 80.600. Análise técnica completa das
+  10 principais criptomoedas, níveis de suporte e resistência para as próximas
+  semanas.
 coverImage:
-  src: '/images/221.jpg'
-  alt: 'Bitcoin recuperação US$ 80.600 análise técnica mercado cripto'
+  src: /images/221.jpg
+  alt: Bitcoin recuperação US$ 80.600 análise técnica mercado cripto
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-24'
 updatedAt: '2025-11-24'
-categorySlug: 'analises'
-tags: ['bitcoin', 'análise técnica', 'altcoins', 'ethereum', 'mercado cripto', 'trading']
+categorySlug: analises
+tags:
+  - bitcoin
+  - análise técnica
+  - altcoins
+  - ethereum
+  - mercado cripto
+  - trading
 seo:
   metaTitle: 'Bitcoin Recuperação US$ 80.600: Análise Técnica Completa Nov 2025 | A Cifra'
-  metaDescription: 'Bitcoin tenta recuperação de US$ 80.600 com entrada de US$ 238M em ETFs. Análise técnica das top 10 criptos, níveis críticos e próximos alvos de preço.'
-  keywords: ['bitcoin recuperação', 'bitcoin 80600', 'análise técnica bitcoin', 'mercado cripto novembro', 'ethereum preço', 'altcoins análise']
+  metaDescription: >-
+    Bitcoin tenta recuperação de US$ 80.600 com entrada de US$ 238M em ETFs.
+    Análise técnica das top 10 criptos, níveis críticos e próximos alvos de
+    preço.
+  keywords:
+    - bitcoin recuperação
+    - bitcoin 80600
+    - análise técnica bitcoin
+    - mercado cripto novembro
+    - ethereum preço
+    - altcoins análise
+alternateLanguages:
+  en: >-
+    bitcoin-aims-for-recovery-of-80600-comprehensive-crypto-market-analysis-and-next-targets
+  es: >-
+    bitcoin-intenta-recuperacin-de-us-80600-anlisis-completo-del-mercado-cripto-y-prximos-objetivos
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Tenta Recuperação de US$ 80.600: Análise Completa do Mercado Cripto e Próximos Alvos

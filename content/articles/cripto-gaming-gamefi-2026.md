@@ -1,24 +1,43 @@
 ---
-id: 'cripto-gaming-gamefi-2026'
-title: "Cripto Gaming e GameFi 2026: Jogos Blockchain Finalmente Mainstream"
-slug: 'cripto-gaming-gamefi-2026'
-excerpt: "Descubra como jogos blockchain e GameFi estão revolucionando a indústria de games em 2026: play-to-earn, NFTs, economia player-owned e AAA on-chain."
+id: cripto-gaming-gamefi-2026
+title: 'Cripto Gaming e GameFi 2026: Jogos Blockchain Finalmente Mainstream'
+slug: cripto-gaming-gamefi-2026
+excerpt: >-
+  Descubra como jogos blockchain e GameFi estão revolucionando a indústria de
+  games em 2026: play-to-earn, NFTs, economia player-owned e AAA on-chain.
 coverImage:
-  src: '/images/084.jpg'
-  alt: 'Cripto Gaming e GameFi 2026'
+  src: /images/084.jpg
+  alt: Cripto Gaming e GameFi 2026
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-23'
 updatedAt: '2025-11-23'
-categorySlug: 'nfts'
-tags: ["Gaming", "GameFi", "Play-to-Earn", "NFTs", "Blockchain", "2026"]
+categorySlug: nfts
+tags:
+  - Gaming
+  - GameFi
+  - Play-to-Earn
+  - NFTs
+  - Blockchain
+  - '2026'
 seo:
   metaTitle: 'Cripto Gaming e GameFi 2026: Jogos Blockchain Mainstream | A Cifra'
-  metaDescription: 'Descubra como jogos blockchain e GameFi estão revolucionando a indústria de games em 2026: play-to-earn, NFTs, economia player-owned.'
-  keywords: ['Gaming', 'GameFi', 'Play-to-Earn', 'NFTs', 'Blockchain', '2026']
+  metaDescription: >-
+    Descubra como jogos blockchain e GameFi estão revolucionando a indústria de
+    games em 2026: play-to-earn, NFTs, economia player-owned.
+  keywords:
+    - Gaming
+    - GameFi
+    - Play-to-Earn
+    - NFTs
+    - Blockchain
+    - '2026'
+alternateLanguages:
+  en: crypto-gaming-and-gamefi-2026-blockchain-games-finally-mainstream
+  es: cripto-gaming-y-gamefi-2026-juegos-blockchain-finalmente-de-masas
 ---
 
 # Cripto Gaming e GameFi 2026: Jogos Blockchain Finalmente Mainstream

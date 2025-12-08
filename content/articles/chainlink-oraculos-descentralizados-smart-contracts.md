@@ -1,24 +1,41 @@
 ---
-id: 'chainlink-oraculos'
-slug: 'chainlink-oraculos-descentralizados-smart-contracts'
-title: "Chainlink: Oráculos Descentralizados para Smart Contracts"
-excerpt: "Entenda como o Chainlink conecta smart contracts a dados do mundo real através de oráculos descentralizados e por que é essencial para DeFi."
+id: chainlink-oraculos
+slug: chainlink-oraculos-descentralizados-smart-contracts
+title: 'Chainlink: Oráculos Descentralizados para Smart Contracts'
+excerpt: >-
+  Entenda como o Chainlink conecta smart contracts a dados do mundo real através
+  de oráculos descentralizados e por que é essencial para DeFi.
 coverImage:
-  src: '/images/066.jpg'
-  alt: 'Chainlink - Oráculos Descentralizados'
+  src: /images/066.jpg
+  alt: Chainlink - Oráculos Descentralizados
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["chainlink", "link", "oráculos", "smart contracts", "defi"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - chainlink
+  - link
+  - oráculos
+  - smart contracts
+  - defi
 seo:
-  metaTitle: "Chainlink: Oráculos Descentralizados para Smart Contracts | A Cifra"
-  metaDescription: "Guia completo sobre Chainlink: como funciona a rede de oráculos, LINK token e por que é essencial para DeFi e smart contracts."
-  keywords: ["chainlink", "link", "oráculos", "smart contracts", "defi"]
+  metaTitle: 'Chainlink: Oráculos Descentralizados para Smart Contracts | A Cifra'
+  metaDescription: >-
+    Guia completo sobre Chainlink: como funciona a rede de oráculos, LINK token
+    e por que é essencial para DeFi e smart contracts.
+  keywords:
+    - chainlink
+    - link
+    - oráculos
+    - smart contracts
+    - defi
+alternateLanguages:
+  en: chainlink-decentralized-oracles-for-smart-contracts
+  es: chainlink-orculos-descentralizados-para-contratos-inteligentes
 ---
 
 # Chainlink: Oráculos Descentralizados para Smart Contracts

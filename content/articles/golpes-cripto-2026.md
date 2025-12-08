@@ -1,27 +1,42 @@
 ---
-id: 'golpes-cripto-2026-2025-12-13'
-title: 'Os 5 Novos Golpes de Phishing em 2026 e Como Evitar'
-slug: 'golpes-cripto-2026'
-excerpt: 'Análise completa sobre Golpes Cripto 2026. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+id: golpes-cripto-2026-2025-12-13
+title: Os 5 Novos Golpes de Phishing em 2026 e Como Evitar
+slug: golpes-cripto-2026
+excerpt: >-
+  Análise completa sobre Golpes Cripto 2026. Descubra as previsões, tecnologias
+  e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/educacao/2025-12/golpes-cripto-2026.webp'
-  alt: 'Os 5 Novos Golpes de Phishing em 2026 e Como Evitar'
+  src: /images/educacao/2025-12/golpes-cripto-2026.webp
+  alt: Os 5 Novos Golpes de Phishing em 2026 e Como Evitar
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'educacao'
-tags: ["educacao", "tendencias-2026", "tecnologia"]
+categorySlug: educacao
+tags:
+  - educacao
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Os 5 Novos Golpes de Phishing em 2026 e Como Evitar | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Golpes Cripto 2026. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Golpes Cripto 2026", "criptomoedas 2026", "investimento"]
+  metaTitle: Os 5 Novos Golpes de Phishing em 2026 e Como Evitar | Análise 2026
+  metaDescription: >-
+    Guia definitivo sobre Golpes Cripto 2026. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Golpes Cripto 2026
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: the-5-new-phishing-scams-in-2026-and-how-to-avoid-them
+  es: los-5-nuevos-golpes-de-phishing-en-2026-y-cmo-evitarlos
 ---
 
 # Os 5 Novos Golpes de Phishing em 2026 e Como Evitar

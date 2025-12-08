@@ -1,31 +1,34 @@
 ---
-id: 'hardware-wallets-comparacao-ledger-trezor'
+id: hardware-wallets-comparacao-ledger-trezor
 title: 'Hardware Wallets: Ledger vs Trezor Comparação'
-slug: 'hardware-wallets-comparacao-ledger-trezor'
-excerpt: 'Comparação detalhada entre as principais hardware wallets do mercado.'
+slug: hardware-wallets-comparacao-ledger-trezor
+excerpt: Comparação detalhada entre as principais hardware wallets do mercado.
 coverImage:
-  src: '/images/051.jpg'
+  src: /images/051.jpg
   alt: 'Hardware Wallets: Ledger vs Trezor Comparação'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'hardware wallet'
-  - 'ledger'
-  - 'trezor'
-  - 'segurança'
+  - hardware wallet
+  - ledger
+  - trezor
+  - segurança
 seo:
   metaTitle: 'Hardware Wallets: Ledger vs Trezor Comparação | A Cifra'
-  metaDescription: 'Comparação detalhada entre as principais hardware wallets do mercado.'
+  metaDescription: Comparação detalhada entre as principais hardware wallets do mercado.
   keywords:
-    - 'hardware wallet'
-    - 'ledger'
-    - 'trezor'
-    - 'segurança'
+    - hardware wallet
+    - ledger
+    - trezor
+    - segurança
+alternateLanguages:
+  en: hardware-wallets-ledger-vs-trezor-comparison
+  es: dispositivos-de-hardware-ledger-vs-trezor-comparacin
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda hardware wallets: ledger vs trezor comparação.

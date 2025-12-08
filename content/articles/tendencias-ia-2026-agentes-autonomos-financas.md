@@ -1,27 +1,50 @@
 ---
-id: 'tendencias-ia-2026-agentes-autonomos-financas-2025-12-05'
+id: tendencias-ia-2026-agentes-autonomos-financas-2025-12-05
 title: 'Tendências de IA para 2026: Agentes Autônomos e o Futuro das Finanças'
-slug: 'tendencias-ia-2026-agentes-autonomos-financas'
-excerpt: 'Esqueça os chatbots simples. 2026 será o ano dos Agentes Autônomos de IA que negociam, investem e gerenciam seu dinheiro sozinhos. Estamos prontos?'
+slug: tendencias-ia-2026-agentes-autonomos-financas
+excerpt: >-
+  Esqueça os chatbots simples. 2026 será o ano dos Agentes Autônomos de IA que
+  negociam, investem e gerenciam seu dinheiro sozinhos. Estamos prontos?
 coverImage:
-  src: '/images/analises/2025-12/ia-agentes-2026.webp'
-  alt: 'Representação futurista de um agente de IA digital gerenciando múltiplos fluxos de dados financeiros e moedas'
+  src: /images/analises/2025-12/ia-agentes-2026.webp
+  alt: >-
+    Representação futurista de um agente de IA digital gerenciando múltiplos
+    fluxos de dados financeiros e moedas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'analises'
-tags: ['inteligencia artificial', 'agentes autonomos', 'fintech', 'trading ia', 'futuro do dinheiro']
+categorySlug: analises
+tags:
+  - inteligencia artificial
+  - agentes autonomos
+  - fintech
+  - trading ia
+  - futuro do dinheiro
 seo:
   metaTitle: 'IA em 2026: Agentes Autônomos Revolucionando as Finanças | A Cifra'
-  metaDescription: 'Descubra como os Agentes Autônomos de IA vão mudar o mercado financeiro em 2026. Trading automatizado, gestão de patrimônio e o fim dos bancos tradicionais.'
-  keywords: ['agentes ia autonomos', 'futuro da ia 2026', 'ia nas financas', 'trading automatizado ia', 'fintech trends']
+  metaDescription: >-
+    Descubra como os Agentes Autônomos de IA vão mudar o mercado financeiro em
+    2026. Trading automatizado, gestão de patrimônio e o fim dos bancos
+    tradicionais.
+  keywords:
+    - agentes ia autonomos
+    - futuro da ia 2026
+    - ia nas financas
+    - trading automatizado ia
+    - fintech trends
 monetization:
-  priority: 'medium'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: medium
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: ai-trends-for-2026-autonomous-agents-and-the-future-of-finance
+  es: tendencias-de-ia-para-2026-agentes-autnomos-y-el-futuro-de-las-finanzas
 ---
 
 # Tendências de IA para 2026: Agentes Autônomos e o Futuro das Finanças

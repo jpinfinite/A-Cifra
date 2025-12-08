@@ -1,24 +1,47 @@
 ---
-id: 'staking-criptomoedas-guia-renda-passiva-2025'
-title: 'Staking de Criptomoedas: Guia Completo 2025 - Como Ganhar Renda Passiva de 3% a 20% ao Ano'
-ug: 'staking-criptomoedas-guia-renda-passiva-2025'
-excerpt: 'Aprenda tudo sobre staking de criptomoedas: melhores moedas (ETH, SOL, ADA), plataformas confiáveis, APYs, riscos e estratégias para gerar renda passiva em 2025.'
+id: staking-criptomoedas-guia-renda-passiva-2025
+title: >-
+  Staking de Criptomoedas: Guia Completo 2025 - Como Ganhar Renda Passiva de 3%
+  a 20% ao Ano
+ug: staking-criptomoedas-guia-renda-passiva-2025
+excerpt: >-
+  Aprenda tudo sobre staking de criptomoedas: melhores moedas (ETH, SOL, ADA),
+  plataformas confiáveis, APYs, riscos e estratégias para gerar renda passiva em
+  2025.
 coverImage:
-  src: '/images/staking-cripto-guia-2025.jpg'
-  alt: 'Staking de criptomoedas guia completo 2025'
+  src: /images/staking-cripto-guia-2025.jpg
+  alt: Staking de criptomoedas guia completo 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'defi'
-tags: ['staking', 'renda passiva', 'ethereum', 'cardano', 'solana', 'proof of stake']
+categorySlug: defi
+tags:
+  - staking
+  - renda passiva
+  - ethereum
+  - cardano
+  - solana
+  - proof of stake
 seo:
   metaTitle: 'Staking de Criptomoedas: Guia Completo 2025 | Renda Passiva | A Cifra'
-  metaDescription: 'Guia completo de staking: melhores criptomoedas (ETH 4%, SOL 7%, ADA 5%), plataformas, riscos e estratégias para gerar renda passiva em 2025.'
-  keywords: ['staking cripto', 'renda passiva criptomoedas', 'staking ethereum', 'staking cardano', 'proof of stake']
+  metaDescription: >-
+    Guia completo de staking: melhores criptomoedas (ETH 4%, SOL 7%, ADA 5%),
+    plataformas, riscos e estratégias para gerar renda passiva em 2025.
+  keywords:
+    - staking cripto
+    - renda passiva criptomoedas
+    - staking ethereum
+    - staking cardano
+    - proof of stake
+alternateLanguages:
+  en: >-
+    cryptocurrency-staking-a-2025-complete-guide---how-to-earn-passive-income-of-3-to-20-per-year
+  es: >-
+    staking-de-criptomonedas-gua-completa-2025---cmo-ganar-renta-pasiva-de-3-a-20-al-ao
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de Criptomoedas: Guia Completo 2025 - Como Ganhar Renda Passiva de 3% a 20% ao Ano

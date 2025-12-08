@@ -1,27 +1,48 @@
 ---
-id: 'solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026-2025-12-06'
+id: solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026-2025-12-06
 title: 'Solana vs Ethereum 2026 Guerra das L1s: Guia Completo 2026'
-slug: 'solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026'
-excerpt: 'Solana vs Ethereum 2026 Guerra das L1s. Guia completo com análise detalhada, dicas práticas e tudo que você precisa saber para tomar decisões informadas.'
+slug: solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026
+excerpt: >-
+  Solana vs Ethereum 2026 Guerra das L1s. Guia completo com análise detalhada,
+  dicas práticas e tudo que você precisa saber para tomar decisões informadas.
 coverImage:
-  src: '/images/analises/2025-12/solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026.webp'
-  alt: 'Ilustração conceitual sobre Solana vs Ethereum 2026 Guerra das L1s'
+  src: >-
+    /images/analises/2025-12/solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026.webp
+  alt: Ilustração conceitual sobre Solana vs Ethereum 2026 Guerra das L1s
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-06'
 updatedAt: '2025-12-06'
-categorySlug: 'analises'
-tags: ["analises","solana","vs","ethereum"]
+categorySlug: analises
+tags:
+  - analises
+  - solana
+  - vs
+  - ethereum
 seo:
   metaTitle: 'Solana vs Ethereum 2026 Guerra das L1s: Guia Completo 2026'
-  metaDescription: 'Solana vs Ethereum 2026 Guerra das L1s. Análise completa, previsões e guia prático para investidores.'
-  keywords: ["Solana","vs","Ethereum","2026","Guerra","das","L1s"]
+  metaDescription: >-
+    Solana vs Ethereum 2026 Guerra das L1s. Análise completa, previsões e guia
+    prático para investidores.
+  keywords:
+    - Solana
+    - vs
+    - Ethereum
+    - '2026'
+    - Guerra
+    - das
+    - L1s
 monetization:
-  priority: 'medium'
-  affiliateLinks: ["binance","bitget"]
+  priority: medium
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: solana-vs-ethereum-2026-war-of-l1s-complete-guide-2026
+  es: solana-vs-ethereum-2026-guerra-de-l1s-gua-completa-2026
 ---
 
 # Solana vs Ethereum 2026 Guerra das L1s: Guia Completo 2026

@@ -1,27 +1,42 @@
 ---
-id: 'impostos-cripto-guia-2025-12-13'
-title: 'Guia Definitivo de Impostos para Criptoativos 2026'
-slug: 'impostos-cripto-guia'
-excerpt: 'Análise completa sobre Impostos Cripto Guia. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+id: impostos-cripto-guia-2025-12-13
+title: Guia Definitivo de Impostos para Criptoativos 2026
+slug: impostos-cripto-guia
+excerpt: >-
+  Análise completa sobre Impostos Cripto Guia. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/educacao/2025-12/impostos-cripto-guia.webp'
-  alt: 'Guia Definitivo de Impostos para Criptoativos 2026'
+  src: /images/educacao/2025-12/impostos-cripto-guia.webp
+  alt: Guia Definitivo de Impostos para Criptoativos 2026
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'educacao'
-tags: ["educacao", "tendencias-2026", "tecnologia"]
+categorySlug: educacao
+tags:
+  - educacao
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Guia Definitivo de Impostos para Criptoativos 2026 | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Impostos Cripto Guia. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Impostos Cripto Guia", "criptomoedas 2026", "investimento"]
+  metaTitle: Guia Definitivo de Impostos para Criptoativos 2026 | Análise 2026
+  metaDescription: >-
+    Guia definitivo sobre Impostos Cripto Guia. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Impostos Cripto Guia
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: definitive-guide-to-cryptocurrency-taxes-2026
+  es: gua-definitiva-de-impuestos-para-criptoactivos-2026
 ---
 
 # Guia Definitivo de Impostos para Criptoativos 2026

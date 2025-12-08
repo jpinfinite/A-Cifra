@@ -1,27 +1,52 @@
 ---
-id: 'mercado-livre-amazon-pagamentos-criptomoedas-2025-12-04'
+id: mercado-livre-amazon-pagamentos-criptomoedas-2025-12-04
 title: 'Mercado Livre e Amazon: O Futuro dos Pagamentos com Criptomoedas no E-commerce'
-slug: 'mercado-livre-amazon-pagamentos-criptomoedas'
-excerpt: 'Entenda como gigantes como Mercado Livre e Amazon estão integrando criptomoedas e o que isso significa para o futuro do dinheiro e das compras online.'
+slug: mercado-livre-amazon-pagamentos-criptomoedas
+excerpt: >-
+  Entenda como gigantes como Mercado Livre e Amazon estão integrando
+  criptomoedas e o que isso significa para o futuro do dinheiro e das compras
+  online.
 coverImage:
-  src: '/images/analises/2025-12/ecommerce-crypto.webp'
-  alt: 'Conceito visual misturando logotipos de e-commerce com moedas digitais como Bitcoin e Ethereum'
+  src: /images/analises/2025-12/ecommerce-crypto.webp
+  alt: >-
+    Conceito visual misturando logotipos de e-commerce com moedas digitais como
+    Bitcoin e Ethereum
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'analises'
-tags: ['ecommerce', 'pagamentos', 'mercado livre', 'amazon', 'adocao', 'bitcoin']
+categorySlug: analises
+tags:
+  - ecommerce
+  - pagamentos
+  - mercado livre
+  - amazon
+  - adocao
+  - bitcoin
 seo:
   metaTitle: 'Criptomoedas no Mercado Livre e Amazon: O Futuro do E-commerce | A Cifra'
-  metaDescription: 'Amazon e Mercado Livre aceitam Bitcoin? Veja como o e-commerce está adotando pagamentos em cripto e o impacto na economia global.'
-  keywords: ['comprar com bitcoin', 'mercado livre cripto', 'amazon aceita criptomoedas', 'pagamentos digitais', 'futuro do ecommerce']
+  metaDescription: >-
+    Amazon e Mercado Livre aceitam Bitcoin? Veja como o e-commerce está adotando
+    pagamentos em cripto e o impacto na economia global.
+  keywords:
+    - comprar com bitcoin
+    - mercado livre cripto
+    - amazon aceita criptomoedas
+    - pagamentos digitais
+    - futuro do ecommerce
 monetization:
-  priority: 'medium'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: medium
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: free-market-and-amazon-the-future-of-cryptocurrency-payments-in-e-commerce
+  es: >-
+    mercado-libre-y-amazon-el-futuro-de-los-pagos-con-criptomonedas-en-el-comercio-electrnico
 ---
 
 # Mercado Livre e Amazon: O Futuro dos Pagamentos com Criptomoedas no E-commerce

@@ -1,31 +1,34 @@
 ---
-id: 'phishing-scams-criptomoedas-protecao'
+id: phishing-scams-criptomoedas-protecao
 title: 'Phishing e Scams em Cripto: Como se Proteger'
-slug: 'phishing-scams-criptomoedas-protecao'
-excerpt: 'Guia completo sobre golpes comuns em criptomoedas e como evitá-los.'
+slug: phishing-scams-criptomoedas-protecao
+excerpt: Guia completo sobre golpes comuns em criptomoedas e como evitá-los.
 coverImage:
-  src: '/images/027.jpg'
+  src: /images/027.jpg
   alt: 'Phishing e Scams em Cripto: Como se Proteger'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'phishing'
-  - 'scams'
-  - 'segurança'
-  - 'proteção'
+  - phishing
+  - scams
+  - segurança
+  - proteção
 seo:
   metaTitle: 'Phishing e Scams em Cripto: Como se Proteger | A Cifra'
-  metaDescription: 'Guia completo sobre golpes comuns em criptomoedas e como evitá-los.'
+  metaDescription: Guia completo sobre golpes comuns em criptomoedas e como evitá-los.
   keywords:
-    - 'phishing'
-    - 'scams'
-    - 'segurança'
-    - 'proteção'
+    - phishing
+    - scams
+    - segurança
+    - proteção
+alternateLanguages:
+  en: phishing-and-scams-in-crypto-how-to-protect-yourself
+  es: phishing-y-estafas-en-criptomonedas-cmo-protegerse
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda phishing e scams em cripto: como se proteger.

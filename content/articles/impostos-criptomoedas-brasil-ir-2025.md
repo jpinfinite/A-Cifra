@@ -1,33 +1,41 @@
 ---
-id: 'impostos-criptomoedas-brasil-2025'
+id: impostos-criptomoedas-brasil-2025
 title: 'Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR'
-slug: 'impostos-criptomoedas-brasil-ir-2025'
-excerpt: 'Guia definitivo sobre impostos de criptomoedas: como declarar no IR 2025, calcular ganho de capital, evitar multas e usar ferramentas de cálculo automático.'
+slug: impostos-criptomoedas-brasil-ir-2025
+excerpt: >-
+  Guia definitivo sobre impostos de criptomoedas: como declarar no IR 2025,
+  calcular ganho de capital, evitar multas e usar ferramentas de cálculo
+  automático.
 coverImage:
-  src: '/images/128.png'
-  alt: 'Impostos sobre criptomoedas no Brasil - Guia IR 2025'
+  src: /images/128.png
+  alt: Impostos sobre criptomoedas no Brasil - Guia IR 2025
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'impostos'
-  - 'ir 2025'
-  - 'receita federal'
-  - 'declaração'
+  - impostos
+  - ir 2025
+  - receita federal
+  - declaração
 seo:
   metaTitle: 'Impostos sobre Criptomoedas no Brasil 2025: Guia Completo IR | A Cifra'
-  metaDescription: 'Aprenda a declarar criptomoedas no IR 2025: regras, isenções, cálculo de ganho de capital, DARF e como evitar multas. Guia completo atualizado.'
+  metaDescription: >-
+    Aprenda a declarar criptomoedas no IR 2025: regras, isenções, cálculo de
+    ganho de capital, DARF e como evitar multas. Guia completo atualizado.
   keywords:
-    - 'impostos criptomoedas brasil'
-    - 'declarar bitcoin ir'
-    - 'imposto de renda cripto'
-    - 'ganho de capital bitcoin'
-    - 'darf criptomoedas'
+    - impostos criptomoedas brasil
+    - declarar bitcoin ir
+    - imposto de renda cripto
+    - ganho de capital bitcoin
+    - darf criptomoedas
+alternateLanguages:
+  en: cryptocurrency-taxes-in-brazil-2025-complete-guide-to-ir
+  es: impuestos-sobre-criptomonedas-en-brasil-2025-gua-completa-del-ir
 ---
 
 # Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR

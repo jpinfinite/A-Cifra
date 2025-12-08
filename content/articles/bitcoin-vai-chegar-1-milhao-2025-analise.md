@@ -1,33 +1,43 @@
 ---
-id: 'bitcoin-1-milhao-2025'
-title: 'Bitcoin vai chegar a R$ 1 milhão em 2025? Análise Completa e Realista'
-slug: 'bitcoin-vai-chegar-1-milhao-2025-analise'
-excerpt: 'Análise técnica e fundamentalista sobre a possibilidade do Bitcoin atingir R$ 1 milhão em 2025. Cenários otimista, realista e pessimista com dados concretos.'
+id: bitcoin-1-milhao-2025
+title: Bitcoin vai chegar a R$ 1 milhão em 2025? Análise Completa e Realista
+slug: bitcoin-vai-chegar-1-milhao-2025-analise
+excerpt: >-
+  Análise técnica e fundamentalista sobre a possibilidade do Bitcoin atingir R$
+  1 milhão em 2025. Cenários otimista, realista e pessimista com dados
+  concretos.
 coverImage:
-  src: '/images/223.jpg'
-  alt: 'Bitcoin crescimento - Análise completa 2025 com árvore de crescimento e gráficos'
+  src: /images/223.jpg
+  alt: >-
+    Bitcoin crescimento - Análise completa 2025 com árvore de crescimento e
+    gráficos
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'bitcoin'
+categorySlug: bitcoin
 tags:
-  - 'bitcoin'
-  - 'previsão'
-  - 'análise técnica'
-  - 'mercado'
+  - bitcoin
+  - previsão
+  - análise técnica
+  - mercado
 seo:
-  metaTitle: 'Bitcoin vai chegar a R$ 1 milhão em 2025? Análise Completa | A Cifra'
-  metaDescription: 'Análise detalhada sobre a possibilidade do Bitcoin atingir R$ 1 milhão em 2025. Dados técnicos, fundamentalistas e previsões de especialistas.'
+  metaTitle: Bitcoin vai chegar a R$ 1 milhão em 2025? Análise Completa | A Cifra
+  metaDescription: >-
+    Análise detalhada sobre a possibilidade do Bitcoin atingir R$ 1 milhão em
+    2025. Dados técnicos, fundamentalistas e previsões de especialistas.
   keywords:
-    - 'bitcoin 1 milhão'
-    - 'previsão bitcoin 2025'
-    - 'bitcoin vai subir'
-    - 'análise bitcoin'
-    - 'preço bitcoin 2025'
+    - bitcoin 1 milhão
+    - previsão bitcoin 2025
+    - bitcoin vai subir
+    - análise bitcoin
+    - preço bitcoin 2025
+alternateLanguages:
+  en: will-bitcoin-reach-r-1-million-in-2025-comprehensive-and-realistic-analysis
+  es: bitcoin-llegar-a-r-1-milln-en-2025-anlisis-completo-y-realista
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) vai chegar a R$ 1 milhão em 2025? Análise Completa e Realista

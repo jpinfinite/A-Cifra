@@ -1,27 +1,42 @@
 ---
-id: 'ethereum-staking-lquido-2025-12-10'
+id: ethereum-staking-lquido-2025-12-10
 title: 'Lido e Rocket Pool: O Estado do Staking Líquido em 2026'
-slug: 'ethereum-staking-lquido'
-excerpt: 'Análise completa sobre Ethereum Staking Líquido. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: ethereum-staking-lquido
+excerpt: >-
+  Análise completa sobre Ethereum Staking Líquido. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/ethereum/2025-12/ethereum-staking-lquido.webp'
+  src: /images/ethereum/2025-12/ethereum-staking-lquido.webp
   alt: 'Lido e Rocket Pool: O Estado do Staking Líquido em 2026'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'ethereum'
-tags: ["ethereum", "tendencias-2026", "tecnologia"]
+categorySlug: ethereum
+tags:
+  - ethereum
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Lido e Rocket Pool: O Estado do Staking Líquido em 2026 | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Ethereum Staking Líquido. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Ethereum Staking Líquido", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Ethereum Staking Líquido. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Ethereum Staking Líquido
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: lido-and-rocket-pool-the-state-of-liquid-staking-in-2026
+  es: lido-y-rocket-pool-el-estado-del-staking-lquido-en-2026
 ---
 
 # Lido e Rocket Pool: O Estado do Staking Líquido em 2026

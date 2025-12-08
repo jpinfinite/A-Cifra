@@ -1,34 +1,41 @@
 ---
-id: 'carteiras-digitais'
+id: carteiras-digitais
 title: 'Carteiras Digitais: Tipos, Diferenças e Como Escolher'
-slug: 'carteiras-digitais-tipos-e-seguranca'
-excerpt: 'Guia completo sobre carteiras de criptomoedas: hot wallets, cold wallets, hardware wallets e como escolher a melhor opção para suas necessidades.'
+slug: carteiras-digitais-tipos-e-seguranca
+excerpt: >-
+  Guia completo sobre carteiras de criptomoedas: hot wallets, cold wallets,
+  hardware wallets e como escolher a melhor opção para suas necessidades.
 coverImage:
-  src: '/images/062.jpg'
-  alt: 'Diferentes tipos de carteiras digitais de criptomoedas'
+  src: /images/062.jpg
+  alt: Diferentes tipos de carteiras digitais de criptomoedas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'carteiras'
-  - 'segurança'
-  - 'hot wallet'
-  - 'cold wallet'
-  - 'hardware wallet'
+  - carteiras
+  - segurança
+  - hot wallet
+  - cold wallet
+  - hardware wallet
 seo:
   metaTitle: 'Carteiras Digitais de Criptomoedas: Guia Completo | A Cifra'
-  metaDescription: 'Entenda os diferentes tipos de carteiras de criptomoedas, suas vantagens, desvantagens e como escolher a melhor para proteger seus ativos digitais.'
+  metaDescription: >-
+    Entenda os diferentes tipos de carteiras de criptomoedas, suas vantagens,
+    desvantagens e como escolher a melhor para proteger seus ativos digitais.
   keywords:
-    - 'carteiras de criptomoedas'
-    - 'hot wallet'
-    - 'cold wallet'
-    - 'hardware wallet'
-    - 'segurança cripto'
+    - carteiras de criptomoedas
+    - hot wallet
+    - cold wallet
+    - hardware wallet
+    - segurança cripto
+alternateLanguages:
+  en: digital-wallets-types-differences-and-how-to-choose
+  es: carteiras-digitales-tipos-diferencias-y-cmo-escolher
 ---
 
 Escolher a **carteira digital** certa é fundamental para a [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) das suas criptomoedas. Existem diversos tipos, cada um com suas características específicas.

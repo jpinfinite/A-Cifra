@@ -1,34 +1,41 @@
 ---
-id: 'impermanent-loss'
+id: impermanent-loss
 title: 'Perda Impermanente (Impermanent Loss): O Que É e Como Evitar'
-slug: 'impermanent-loss-explicado'
-excerpt: 'Entenda a perda impermanente em DeFi: o que é, como calcular, exemplos práticos e estratégias para minimizar esse risco ao fornecer liquidez.'
+slug: impermanent-loss-explicado
+excerpt: >-
+  Entenda a perda impermanente em DeFi: o que é, como calcular, exemplos
+  práticos e estratégias para minimizar esse risco ao fornecer liquidez.
 coverImage:
-  src: '/images/147.jpg'
-  alt: 'Perda Impermanente - Guia completo'
+  src: /images/147.jpg
+  alt: Perda Impermanente - Guia completo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'impermanent loss'
-  - 'defi'
-  - 'liquidez'
-  - 'amm'
-  - 'pools'
+  - impermanent loss
+  - defi
+  - liquidez
+  - amm
+  - pools
 seo:
   metaTitle: 'Perda Impermanente: O Que É e Como Evitar | A Cifra'
-  metaDescription: 'Guia completo sobre impermanent loss: conceito, cálculo, exemplos práticos e estratégias para minimizar perdas ao fornecer liquidez.'
+  metaDescription: >-
+    Guia completo sobre impermanent loss: conceito, cálculo, exemplos práticos e
+    estratégias para minimizar perdas ao fornecer liquidez.
   keywords:
-    - 'impermanent loss'
-    - 'perda impermanente'
-    - 'liquidez defi'
-    - 'amm'
-    - 'pools liquidez'
+    - impermanent loss
+    - perda impermanente
+    - liquidez defi
+    - amm
+    - pools liquidez
+alternateLanguages:
+  en: permanent-impermanent-loss-what-it-is-and-how-to-avoid-it
+  es: perdida-impermanente-prdida-impermante-qu-es-y-cmo-evitarla
 ---
 
 A **perda impermanente** é um dos conceitos mais importantes (e mal compreendidos) em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026). Entenda o que é e como se proteger.

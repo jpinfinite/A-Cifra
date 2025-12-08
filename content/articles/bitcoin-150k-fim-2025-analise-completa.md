@@ -1,27 +1,50 @@
 ---
-id: 'bitcoin-150k-2025'
-slug: 'bitcoin-150k-fim-2025-analise-completa'
-title: "Bitcoin Pode Chegar a $150.000 Até o Fim de 2025? Análise Completa do Momento Atual"
-excerpt: 'Análise completa e realista sobre a possibilidade do Bitcoin atingir $150.000 até o fim de 2025, considerando indicadores técnicos, fundamentalistas e contexto macroeconômico.'
+id: bitcoin-150k-2025
+slug: bitcoin-150k-fim-2025-analise-completa
+title: >-
+  Bitcoin Pode Chegar a $150.000 Até o Fim de 2025? Análise Completa do Momento
+  Atual
+excerpt: >-
+  Análise completa e realista sobre a possibilidade do Bitcoin atingir $150.000
+  até o fim de 2025, considerando indicadores técnicos, fundamentalistas e
+  contexto macroeconômico.
 coverImage:
-  src: '/images/bitcoin-price-analysis-styled.jpg'
-  alt: 'Bitcoin - Análise de Preço 2025'
+  src: /images/bitcoin-price-analysis-styled.jpg
+  alt: Bitcoin - Análise de Preço 2025
   width: 1200
   height: 630
 author:
-  name: "Equipe A Cifra"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-11-21"
-updatedAt: "2025-11-21"
-categorySlug: "analises"
-tags: ["bitcoin", "btc", "análise técnica", "previsão", "mercado", "2025"]
-language: 'pt-BR'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-11-21'
+updatedAt: '2025-11-21'
+categorySlug: analises
+tags:
+  - bitcoin
+  - btc
+  - análise técnica
+  - previsão
+  - mercado
+  - '2025'
+language: pt-BR
 alternateLanguages:
-  en: 'bitcoin-150k-end-2025-complete-analysis'
+  en: >-
+    bitcoin-could-reach-150000-by-the-end-of-2025-comprehensive-analysis-of-the-current-moment
+  es: >-
+    podra-llegar-el-bitcoin-a-los-150000-hasta-finales-de-2025-anlisis-completo-de-la-situacin-actual
 seo:
-  metaTitle: "Bitcoin a $150k em 2025? Análise Completa do Momento Atual | A Cifra"
-  metaDescription: "Análise profunda sobre a possibilidade do Bitcoin chegar a $150.000 até o fim de 2025. Indicadores técnicos, fundamentalistas e contexto macroeconômico."
-  keywords: ["bitcoin 2025", "btc previsão", "bitcoin 150k", "análise bitcoin", "preço bitcoin", "mercado cripto 2025"]
+  metaTitle: Bitcoin a $150k em 2025? Análise Completa do Momento Atual | A Cifra
+  metaDescription: >-
+    Análise profunda sobre a possibilidade do Bitcoin chegar a $150.000 até o
+    fim de 2025. Indicadores técnicos, fundamentalistas e contexto
+    macroeconômico.
+  keywords:
+    - bitcoin 2025
+    - btc previsão
+    - bitcoin 150k
+    - análise bitcoin
+    - preço bitcoin
+    - mercado cripto 2025
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Pode Chegar a $150.000 Até o Fim de 2025? Análise Completa do Momento Atual

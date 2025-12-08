@@ -1,27 +1,48 @@
 ---
-id: 'renda-passiva-cripto-2026-estrategias-2025-12-08'
+id: renda-passiva-cripto-2026-estrategias-2025-12-08
 title: 'Renda Passiva com Cripto em 2026: 7 Estratégias que Funcionam'
-slug: 'renda-passiva-cripto-2026-estrategias'
-excerpt: 'Ganhe de 5% a 20% ao ano com criptomoedas sem trading ativo. Descubra as 7 estratégias comprovadas de renda passiva para 2026, do staking ao yield farming.'
+slug: renda-passiva-cripto-2026-estrategias
+excerpt: >-
+  Ganhe de 5% a 20% ao ano com criptomoedas sem trading ativo. Descubra as 7
+  estratégias comprovadas de renda passiva para 2026, do staking ao yield
+  farming.
 coverImage:
-  src: '/images/defi/2025-12/renda-passiva-cripto.webp'
-  alt: 'Conceito de renda passiva com criptomoedas crescendo automaticamente'
+  src: /images/defi/2025-12/renda-passiva-cripto.webp
+  alt: Conceito de renda passiva com criptomoedas crescendo automaticamente
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'defi'
-tags: ['renda passiva', 'staking', 'yield farming', 'defi', 'investimentos']
+categorySlug: defi
+tags:
+  - renda passiva
+  - staking
+  - yield farming
+  - defi
+  - investimentos
 seo:
   metaTitle: 'Renda Passiva com Cripto 2026: 7 Estratégias Comprovadas | A Cifra'
-  metaDescription: '7 formas de ganhar renda passiva com criptomoedas em 2026. Staking, lending, farming e mais. Guia completo com rendimentos reais e riscos.'
-  keywords: ['renda passiva cripto', 'staking criptomoedas', 'yield farming', 'ganhar com cripto', 'investimento passivo']
+  metaDescription: >-
+    7 formas de ganhar renda passiva com criptomoedas em 2026. Staking, lending,
+    farming e mais. Guia completo com rendimentos reais e riscos.
+  keywords:
+    - renda passiva cripto
+    - staking criptomoedas
+    - yield farming
+    - ganhar com cripto
+    - investimento passivo
 monetization:
-  priority: 'high'
-  affiliateLinks: ['binance', 'aave', 'lido']
+  priority: high
+  affiliateLinks:
+    - binance
+    - aave
+    - lido
+alternateLanguages:
+  en: passive-income-with-crypto-in-2026-7-strategies-that-work
+  es: renta-pasiva-con-cripto-en-2026-7-estrategias-que-funcionan
 ---
 
 # Renda Passiva com Cripto em 2026: 7 Estratégias que Funcionam

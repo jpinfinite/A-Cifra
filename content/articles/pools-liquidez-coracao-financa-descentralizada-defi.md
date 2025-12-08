@@ -44,6 +44,9 @@ seo:
     - sushiswap
     - curve
 categorySlug: defi
+alternateLanguages:
+  en: liquidity-pools-the-heart-of-decentralized-finance-defi
+  es: pools-de-liquidez-el-corazn-de-la-finanza-descentralizada-defi
 ---
 
 As **pools de liquidez** são uma das principais inovações e características da Finança Descentralizada (DeFi), representando verdadeiramente o coração pulsante deste ecossistema revolucionário. Elas permitem que investidores forneçam liquidez para mercados descentralizados e obtenham recompensas atrativas em troca, criando um sistema financeiro mais eficiente e acessível.

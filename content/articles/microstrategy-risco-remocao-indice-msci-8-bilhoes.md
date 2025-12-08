@@ -1,24 +1,46 @@
 ---
-id: 'microstrategy-risco-remocao-indice-msci-8-bilhoes'
-title: 'MicroStrategy Enfrenta Remoção do Índice MSCI - Risco de $8,8 Bilhões em Saídas'
-slug: 'microstrategy-rio-remocao-indice-msci-8-bilhoes'
-excerpt: 'MicroStrategy pode ser removida do índice MSCI, ameaçando $8,8 bilhões em saídas de fundos passivos. Entenda o impacto desta decisão para MSTR, Bitcoin e o mercado cripto.'
+id: microstrategy-risco-remocao-indice-msci-8-bilhoes
+title: >-
+  MicroStrategy Enfrenta Remoção do Índice MSCI - Risco de $8,8 Bilhões em
+  Saídas
+slug: microstrategy-rio-remocao-indice-msci-8-bilhoes
+excerpt: >-
+  MicroStrategy pode ser removida do índice MSCI, ameaçando $8,8 bilhões em
+  saídas de fundos passivos. Entenda o impacto desta decisão para MSTR, Bitcoin
+  e o mercado cripto.
 coverImage:
-  src: '/images/microstrategy-msci-removal-risk-2025.jpg'
-  alt: 'MicroStrategy enfrenta risco de remoção do índice MSCI'
+  src: /images/microstrategy-msci-removal-risk-2025.jpg
+  alt: MicroStrategy enfrenta risco de remoção do índice MSCI
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'bitcoin'
-tags: ['microstrategy', 'mstr', 'msci', 'bitcoin', 'michael saylor']
+categorySlug: bitcoin
+tags:
+  - microstrategy
+  - mstr
+  - msci
+  - bitcoin
+  - michael saylor
 seo:
   metaTitle: 'MicroStrategy Risco MSCI: $8.8B em Saídas Ameaçam MSTR | A Cifra'
-  metaDescription: 'MicroStrategy pode ser removida do MSCI, causando $8,8 bilhões em saídas. Análise completa do impacto para MSTR, Bitcoin e estratégia de Michael Saylor.'
-  keywords: ['microstrategy msci', 'mstr remoção', 'michael saylor', 'bitcoin treasury', 'msci index']
+  metaDescription: >-
+    MicroStrategy pode ser removida do MSCI, causando $8,8 bilhões em saídas.
+    Análise completa do impacto para MSTR, Bitcoin e estratégia de Michael
+    Saylor.
+  keywords:
+    - microstrategy msci
+    - mstr remoção
+    - michael saylor
+    - bitcoin treasury
+    - msci index
+alternateLanguages:
+  en: microstrategy-faces-msci-index-removal---risk-of-88-billion-in-outflows
+  es: >-
+    microstrategy-enfrenta-retirada-del-ndice-msci---riesgo-de-88-mil-millones-en-salidas
 ---
 
 **3 de dezembro de 2025** - A **MicroStrategy (MSTR)** enfrenta uma ameaça significativa: possível **remoção do índice MSCI**, o que poderia desencadear **saídas de até $8,8 bilhões** de fundos passivos que rastreiam o índice. A notícia, reportada pela Reuters, coloca em risco a estratégia agressiva de acumulação de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) da empresa liderada por Michael Saylor.

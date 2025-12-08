@@ -1,24 +1,41 @@
 ---
-id: 'cosmos-atom'
-slug: 'cosmos-atom-internet-blockchains'
-title: "Cosmos (ATOM): A Internet das Blockchains"
-excerpt: "Descubra como o Cosmos está criando um ecossistema interconectado de blockchains independentes através do protocolo IBC e o Cosmos Hub."
+id: cosmos-atom
+slug: cosmos-atom-internet-blockchains
+title: 'Cosmos (ATOM): A Internet das Blockchains'
+excerpt: >-
+  Descubra como o Cosmos está criando um ecossistema interconectado de
+  blockchains independentes através do protocolo IBC e o Cosmos Hub.
 coverImage:
-  src: '/images/074.jpg'
+  src: /images/074.jpg
   alt: 'Cosmos (ATOM): A Internet das Blockchains'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["cosmos", "atom", "ibc", "interoperabilidade", "tendermint"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - cosmos
+  - atom
+  - ibc
+  - interoperabilidade
+  - tendermint
 seo:
-  metaTitle: "Cosmos (ATOM): A Internet das Blockchains | A Cifra"
-  metaDescription: "Descubra como o Cosmos está criando um ecossistema interconectado de blockchains independentes através do protocolo IBC e o Cosmos Hub."
-  keywords: ["cosmos", "atom", "ibc", "interoperabilidade", "tendermint"]
+  metaTitle: 'Cosmos (ATOM): A Internet das Blockchains | A Cifra'
+  metaDescription: >-
+    Descubra como o Cosmos está criando um ecossistema interconectado de
+    blockchains independentes através do protocolo IBC e o Cosmos Hub.
+  keywords:
+    - cosmos
+    - atom
+    - ibc
+    - interoperabilidade
+    - tendermint
+alternateLanguages:
+  en: cosmos-atom-the-internet-of-blockchains
+  es: cosmos-atom-la-internet-de-las-blockchains
 ---
 seo:
   metaTitle: "Cosmos (ATOM): A Internet das Blockchains | A Cifra"

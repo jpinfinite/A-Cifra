@@ -1,31 +1,34 @@
-﻿---
-id: 'padroes-graficos-candlestick-cripto'
-title: 'Padrões Gráficos e Candlestick em Cripto'
-slug: 'padroes-graficos-candlestick-cripto'
-excerpt: 'Aprenda os principais padrões de candlestick para trading de criptomoedas.'
+---
+id: padroes-graficos-candlestick-cripto
+title: Padrões Gráficos e Candlestick em Cripto
+slug: padroes-graficos-candlestick-cripto
+excerpt: Aprenda os principais padrões de candlestick para trading de criptomoedas.
 coverImage:
-  src: '/images/crypto-trading-candlestick-styled.jpg'
-  alt: 'Padrões Gráficos e Candlestick em Cripto'
+  src: /images/crypto-trading-candlestick-styled.jpg
+  alt: Padrões Gráficos e Candlestick em Cripto
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'candlestick'
-  - 'padrões'
-  - 'gráficos'
-  - 'trading'
+  - candlestick
+  - padrões
+  - gráficos
+  - trading
 seo:
-  metaTitle: 'Padrões Gráficos e Candlestick em Cripto | A Cifra'
-  metaDescription: 'Aprenda os principais padrões de candlestick para trading de criptomoedas.'
+  metaTitle: Padrões Gráficos e Candlestick em Cripto | A Cifra
+  metaDescription: Aprenda os principais padrões de candlestick para trading de criptomoedas.
   keywords:
-    - 'candlestick'
-    - 'padrões'
-    - 'gráficos'
-    - 'trading'
+    - candlestick
+    - padrões
+    - gráficos
+    - trading
+alternateLanguages:
+  en: graphic-patterns-and-candlestick-in-crypto
+  es: patrones-grficos-y-candlestick-en-criptomonedas
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora padrões gráficos e candlestick em cripto.

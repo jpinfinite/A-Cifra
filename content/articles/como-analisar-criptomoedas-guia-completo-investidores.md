@@ -41,6 +41,9 @@ seo:
     - on-chain analysis
     - investir criptomoedas
 categorySlug: analises
+alternateLanguages:
+  en: how-to-analyze-cryptocurrencies-a-comprehensive-guide-for-investors
+  es: cmo-analizar-criptomonedas-gua-completa-para-inversionistas
 ---
 
 Saber **como analisar criptomoedas** é fundamental para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Com milhares de projetos disponíveis, a capacidade de avaliar adequadamente uma criptomoeda pode ser a diferença entre o sucesso e o fracasso nos investimentos.

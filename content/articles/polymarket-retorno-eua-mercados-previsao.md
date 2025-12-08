@@ -1,24 +1,50 @@
 ---
-id: 'polymarket-retorno-eua'
-slug: 'polymarket-retorno-eua-mercados-previsao'
-title: "Polymarket Faz as Malas para Voltar aos EUA: Aposta Bilionária Pode Mudar o Jogo dos Mercados de Previsão"
-excerpt: "Após três anos banida do principal palco financeiro do mundo, a Polymarket está pronta para reabrir suas portas nos Estados Unidos com aval regulatório e investimentos colossais."
+id: polymarket-retorno-eua
+slug: polymarket-retorno-eua-mercados-previsao
+title: >-
+  Polymarket Faz as Malas para Voltar aos EUA: Aposta Bilionária Pode Mudar o
+  Jogo dos Mercados de Previsão
+excerpt: >-
+  Após três anos banida do principal palco financeiro do mundo, a Polymarket
+  está pronta para reabrir suas portas nos Estados Unidos com aval regulatório e
+  investimentos colossais.
 coverImage:
-  src: '/images/160.jpg'
-  alt: 'Polymarket - Retorno aos EUA'
+  src: /images/160.jpg
+  alt: Polymarket - Retorno aos EUA
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-11-02"
-updatedAt: "2025-11-02"
-categorySlug: "defi"
-tags: ["polymarket", "mercados de previsão", "defi", "regulação", "cftc", "token poly"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-11-02'
+updatedAt: '2025-11-02'
+categorySlug: defi
+tags:
+  - polymarket
+  - mercados de previsão
+  - defi
+  - regulação
+  - cftc
+  - token poly
 seo:
-  metaTitle: "Polymarket Retorna aos EUA: Revolução nos Mercados de Previsão | A Cifra"
-  metaDescription: "Polymarket volta aos EUA após 3 anos com aval da CFTC, avaliação de US$ 10 bi e investimento de US$ 2 bi da ICE. Entenda o impacto nos mercados de previsão."
-  keywords: ["polymarket", "mercados de previsão", "defi", "cftc", "regulação cripto", "token poly", "apostas descentralizadas"]
+  metaTitle: 'Polymarket Retorna aos EUA: Revolução nos Mercados de Previsão | A Cifra'
+  metaDescription: >-
+    Polymarket volta aos EUA após 3 anos com aval da CFTC, avaliação de US$ 10
+    bi e investimento de US$ 2 bi da ICE. Entenda o impacto nos mercados de
+    previsão.
+  keywords:
+    - polymarket
+    - mercados de previsão
+    - defi
+    - cftc
+    - regulação cripto
+    - token poly
+    - apostas descentralizadas
+alternateLanguages:
+  en: >-
+    polymarket-puts-bad-bets-to-return-to-the-us-billion-dollar-bet-could-change-the-game-of-prediction
+  es: >-
+    polymarket-hace-las-malas-para-regresar-a-los-eua-apuesta-billonaria-puede-cambiar-el-juego-de-los-m
 ---
 
 # Polymarket Faz as Malas para Voltar aos EUA: Aposta Bilionária Pode Mudar o Jogo dos Mercados de Previsão

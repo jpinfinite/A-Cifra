@@ -1,24 +1,51 @@
 ---
-id: 'bitcoin-100k-analise-completa-caminho-2025'
-title: 'Bitcoin Rumo aos $100K: Análise Completa dos 4 Fatores que Vão Determinar o Próximo Movimento'
-slug: 'bitcoin-100k-analise-completa-caminho-2025'
-excerpt: 'Bitcoin testa $90K e o mercado pergunta: vamos aos $100K ou nova correção? Análise técnica e fundamentalista completa dos 4 fatores-chave que determinarão o próximo grande movimento do BTC.'
+id: bitcoin-100k-analise-completa-caminho-2025
+title: >-
+  Bitcoin Rumo aos $100K: Análise Completa dos 4 Fatores que Vão Determinar o
+  Próximo Movimento
+slug: bitcoin-100k-analise-completa-caminho-2025
+excerpt: >-
+  Bitcoin testa $90K e o mercado pergunta: vamos aos $100K ou nova correção?
+  Análise técnica e fundamentalista completa dos 4 fatores-chave que
+  determinarão o próximo grande movimento do BTC.
 coverImage:
-  src: '/images/041.jpg'
-  alt: 'Bitcoin análise técnica - Caminho para $100.000'
+  src: /images/041.jpg
+  alt: Bitcoin análise técnica - Caminho para $100.000
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/avatar.png'
+  name: Jonatha Pereira
+  avatar: /avatar.png
 publishedAt: '2025-11-26'
 updatedAt: '2025-11-26'
-categorySlug: 'bitcoin'
-tags: ['Bitcoin', 'BTC', 'análise técnica', 'previsão', '$100k', 'trading', 'investimento']
+categorySlug: bitcoin
+tags:
+  - Bitcoin
+  - BTC
+  - análise técnica
+  - previsão
+  - $100k
+  - trading
+  - investimento
 seo:
   metaTitle: 'Bitcoin $100K: Análise Completa dos 4 Fatores-Chave 2025 | A Cifra'
-  metaDescription: 'Bitcoin pode chegar aos $100K? Análise técnica e fundamentalista completa: taxas de juros, inflação, MSCI, derivativos. Descubra os níveis críticos e próximos movimentos do BTC.'
-  keywords: ['Bitcoin $100k', 'BTC previsão', 'análise técnica Bitcoin', 'Bitcoin 2025', 'preço Bitcoin', 'investir Bitcoin', 'BTC análise']
+  metaDescription: >-
+    Bitcoin pode chegar aos $100K? Análise técnica e fundamentalista completa:
+    taxas de juros, inflação, MSCI, derivativos. Descubra os níveis críticos e
+    próximos movimentos do BTC.
+  keywords:
+    - Bitcoin $100k
+    - BTC previsão
+    - análise técnica Bitcoin
+    - Bitcoin 2025
+    - preço Bitcoin
+    - investir Bitcoin
+    - BTC análise
+alternateLanguages:
+  en: >-
+    bitcoin-heading-to-100k-comprehensive-analysis-of-the-4-factors-that-will-determine-the-next-move
+  es: >-
+    bitcoin-rumbo-a-los-100k-anlisis-completo-de-los-4-factores-que-volvern-a-determinar-el-prximo-movim
 ---
 
 O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está testando a zona crítica de **$88.000-$90.000**, e o mercado cripto inteiro segura a respiração. A pergunta que todos fazem é: **vamos finalmente romper os $100.000 ou teremos uma nova correção?**

@@ -1,31 +1,34 @@
 ---
-id: 'seed-phrase-backup-recuperacao-carteira'
+id: seed-phrase-backup-recuperacao-carteira
 title: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
-slug: 'seed-phrase-backup-recuperacao-carteira'
-excerpt: 'Aprenda a importância da seed phrase e melhores práticas para backup seguro.'
+slug: seed-phrase-backup-recuperacao-carteira
+excerpt: Aprenda a importância da seed phrase e melhores práticas para backup seguro.
 coverImage:
-  src: '/images/031.jpg'
+  src: /images/031.jpg
   alt: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'seed phrase'
-  - 'backup'
-  - 'recuperação'
-  - 'segurança'
+  - seed phrase
+  - backup
+  - recuperação
+  - segurança
 seo:
   metaTitle: 'Seed Phrase: Backup e Recuperação Segura de Carteiras | A Cifra'
-  metaDescription: 'Aprenda a importância da seed phrase e melhores práticas para backup seguro.'
+  metaDescription: Aprenda a importância da seed phrase e melhores práticas para backup seguro.
   keywords:
-    - 'seed phrase'
-    - 'backup'
-    - 'recuperação'
-    - 'segurança'
+    - seed phrase
+    - backup
+    - recuperação
+    - segurança
+alternateLanguages:
+  en: seed-phrase-secure-wallet-backup-and-recovery
+  es: frase-de-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda seed phrase: backup e recuperação segura de carteiras.

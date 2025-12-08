@@ -1,27 +1,44 @@
 ---
-id: 'herana-de-criptomoedas-2025-12-13'
+id: herana-de-criptomoedas-2025-12-13
 title: 'Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros'
-slug: 'herana-de-criptomoedas'
-excerpt: 'Análise completa sobre Herança de Criptomoedas. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: herana-de-criptomoedas
+excerpt: >-
+  Análise completa sobre Herança de Criptomoedas. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/educacao/2025-12/herana-de-criptomoedas.webp'
+  src: /images/educacao/2025-12/herana-de-criptomoedas.webp
   alt: 'Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'educacao'
-tags: ["educacao", "tendencias-2026", "tecnologia"]
+categorySlug: educacao
+tags:
+  - educacao
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Herança de Criptomoedas. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Herança de Criptomoedas", "criptomoedas 2026", "investimento"]
+  metaTitle: >-
+    Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros | Análise
+    2026
+  metaDescription: >-
+    Guia definitivo sobre Herança de Criptomoedas. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Herança de Criptomoedas
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: succession-planning-how-to-leave-crypto-for-your-heirs
+  es: planeamiento-sucesorio-cmo-dejar-criptomonedas-para-sus-herederos
 ---
 
 # Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros

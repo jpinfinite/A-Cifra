@@ -1,27 +1,47 @@
 ---
-id: 'bitcoin-previsao-2026-analise-completa-2025-12-06'
+id: bitcoin-previsao-2026-analise-completa-2025-12-06
 title: 'Bitcoin em 2026: Previsão de Preço, Ciclos e Análise Completa'
-slug: 'bitcoin-previsao-2026-analise-completa'
-excerpt: 'O Bitcoin vai continuar subindo em 2026 ou veremos o início de um novo inverno cripto? Análise detalhada dos ciclos de mercado, previsões de preço de especialistas e estratégias para o próximo ano.'
+slug: bitcoin-previsao-2026-analise-completa
+excerpt: >-
+  O Bitcoin vai continuar subindo em 2026 ou veremos o início de um novo inverno
+  cripto? Análise detalhada dos ciclos de mercado, previsões de preço de
+  especialistas e estratégias para o próximo ano.
 coverImage:
-  src: '/images/bitcoin/2025-12/bitcoin-previsao-2026-analise.webp'
-  alt: 'Bitcoin Previsão 2026 e Análise de Mercado'
+  src: /images/bitcoin/2025-12/bitcoin-previsao-2026-analise.webp
+  alt: Bitcoin Previsão 2026 e Análise de Mercado
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-06'
 updatedAt: '2025-12-06'
-categorySlug: 'bitcoin'
-tags: ["bitcoin", "previsão", "2026", "ciclos de mercado", "investimento"]
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - previsão
+  - '2026'
+  - ciclos de mercado
+  - investimento
 seo:
   metaTitle: 'Bitcoin em 2026: Previsões e Análise Completa'
-  metaDescription: 'Bitcoin em 2026: Previsões de preço, análise de ciclos e fatores cruciais. Guia essencial para investidores de longo prazo.'
-  keywords: ["Bitcoin previsão 2026", "preço bitcoin 2026", "ciclo bitcoin", "futuro do bitcoin", "análise btc 2026"]
+  metaDescription: >-
+    Bitcoin em 2026: Previsões de preço, análise de ciclos e fatores cruciais.
+    Guia essencial para investidores de longo prazo.
+  keywords:
+    - Bitcoin previsão 2026
+    - preço bitcoin 2026
+    - ciclo bitcoin
+    - futuro do bitcoin
+    - análise btc 2026
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: bitcoin-in-2026-price-forecast-cycles-and-complete-analysis
+  es: bitcoin-en-2026-prediccin-de-precio-ciclos-y-anlisis-completo
 ---
 
 # Bitcoin em 2026: O Que Esperar do Preço e do Ciclo de Mercado?

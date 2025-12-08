@@ -1,27 +1,44 @@
 ---
-id: 'restaking-ethereum-2026-2025-12-08'
+id: restaking-ethereum-2026-2025-12-08
 title: 'Restaking e Liquid Staking 2.0: Maximizando Renda Passiva no Ethereum'
-slug: 'restaking-ethereum-2026'
-excerpt: 'Análise aprofundada (Long-Form) sobre Restaking Ethereum 2026. Um guia técnico e financeiro completo para o ciclo de 2026.'
+slug: restaking-ethereum-2026
+excerpt: >-
+  Análise aprofundada (Long-Form) sobre Restaking Ethereum 2026. Um guia técnico
+  e financeiro completo para o ciclo de 2026.
 coverImage:
-  src: '/images/ethereum/2025-12/restaking-ethereum-2026.webp'
+  src: /images/ethereum/2025-12/restaking-ethereum-2026.webp
   alt: 'Restaking e Liquid Staking 2.0: Maximizando Renda Passiva no Ethereum'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'ethereum'
-tags: ["ethereum", "deep-dive", "tendencias-2026"]
+categorySlug: ethereum
+tags:
+  - ethereum
+  - deep-dive
+  - tendencias-2026
 seo:
-  metaTitle: 'Restaking e Liquid Staking 2.0: Maximizando Renda Passiva no Ethereum | Análise Completa 2026'
-  metaDescription: 'Artigo técnico sobre Restaking Ethereum 2026. Entenda os fundamentos, tecnologia e potencial de valorização para 2026.'
-  keywords: ["Restaking Ethereum 2026", "bull run 2026", "cripto analise"]
+  metaTitle: >-
+    Restaking e Liquid Staking 2.0: Maximizando Renda Passiva no Ethereum |
+    Análise Completa 2026
+  metaDescription: >-
+    Artigo técnico sobre Restaking Ethereum 2026. Entenda os fundamentos,
+    tecnologia e potencial de valorização para 2026.
+  keywords:
+    - Restaking Ethereum 2026
+    - bull run 2026
+    - cripto analise
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: restaking-and-liquid-staking-20-maximizing-passive-income-on-ethereum
+  es: restaking-y-liquid-staking-20-maximizar-la-renta-pasiva-en-ethereum
 ---
 
 # Restaking e Liquid Staking 2.0: Maximizando Renda Passiva no Ethereum

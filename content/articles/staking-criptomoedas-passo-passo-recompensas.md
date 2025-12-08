@@ -1,37 +1,45 @@
 ---
-id: 'staking-recompensas'
+id: staking-recompensas
 title: 'Staking de Criptomoedas: Passo a Passo para Ganhar Recompensas'
-slug: 'staking-criptomoedas-passo-passo-recompensas'
-excerpt: 'Guia completo de staking de criptomoedas: como funciona, quais moedas staking, plataformas recomendadas, riscos e estratégias para maximizar rendimentos passivos.'
+slug: staking-criptomoedas-passo-passo-recompensas
+excerpt: >-
+  Guia completo de staking de criptomoedas: como funciona, quais moedas staking,
+  plataformas recomendadas, riscos e estratégias para maximizar rendimentos
+  passivos.
 coverImage:
-  src: '/images/182.jpg'
-  alt: 'Ilustração de staking com moedas gerando recompensas passivas'
+  src: /images/182.jpg
+  alt: Ilustração de staking com moedas gerando recompensas passivas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-10-26'
 updatedAt: '2025-11-23'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'staking'
-  - 'proof of stake'
-  - 'recompensas'
-  - 'renda passiva'
-  - 'ethereum'
-  - 'solana'
-  - 'cardano'
-  - 'polkadot'
+  - staking
+  - proof of stake
+  - recompensas
+  - renda passiva
+  - ethereum
+  - solana
+  - cardano
+  - polkadot
 seo:
   metaTitle: 'Staking de Criptomoedas: Passo a Passo para Ganhar Recompensas | A Cifra'
-  metaDescription: 'Guia completo de staking: como funciona, melhores moedas, plataformas, riscos e estratégias para ganhar renda passiva com criptomoedas.'
+  metaDescription: >-
+    Guia completo de staking: como funciona, melhores moedas, plataformas,
+    riscos e estratégias para ganhar renda passiva com criptomoedas.
   keywords:
-    - 'staking criptomoedas'
-    - 'proof of stake'
-    - 'renda passiva crypto'
-    - 'staking ethereum'
-    - 'staking solana'
-    - 'recompensas staking'
+    - staking criptomoedas
+    - proof of stake
+    - renda passiva crypto
+    - staking ethereum
+    - staking solana
+    - recompensas staking
+alternateLanguages:
+  en: cryptocurrency-staking-step-by-step-to-earn-rewards
+  es: staking-de-criptomonedas-paso-a-paso-para-ganar-recompensas
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de Criptomoedas: Passo a Passo para Ganhar Recompensas

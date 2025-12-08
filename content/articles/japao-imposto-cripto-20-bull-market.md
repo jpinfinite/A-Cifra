@@ -1,27 +1,50 @@
 ---
-id: 'japao-imposto-cripto-20-bull-market-2025-12-05'
+id: japao-imposto-cripto-20-bull-market-2025-12-05
 title: 'Japão Reduz Imposto Cripto para 20%: O Gatilho para o Bull Market de 2026?'
-slug: 'japao-imposto-cripto-20-bull-market'
-excerpt: 'O Japão, gigante da economia asiática, aprovou uma reforma fiscal histórica. A partir de 2026, o imposto sobre cripto cai para 20%. Entenda o impacto global.'
+slug: japao-imposto-cripto-20-bull-market
+excerpt: >-
+  O Japão, gigante da economia asiática, aprovou uma reforma fiscal histórica. A
+  partir de 2026, o imposto sobre cripto cai para 20%. Entenda o impacto global.
 coverImage:
-  src: '/images/analises/2025-12/japao-imposto-cripto.webp'
-  alt: 'Conceito artístico misturando elementos tradicionais japoneses (Torii, Monte Fuji) com gráficos de alta do Bitcoin e símbolos de porcentagem'
+  src: /images/analises/2025-12/japao-imposto-cripto.webp
+  alt: >-
+    Conceito artístico misturando elementos tradicionais japoneses (Torii, Monte
+    Fuji) com gráficos de alta do Bitcoin e símbolos de porcentagem
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'analises'
-tags: ['japao', 'imposto cripto', 'regulacao global', 'bull market', 'asia']
+categorySlug: analises
+tags:
+  - japao
+  - imposto cripto
+  - regulacao global
+  - bull market
+  - asia
 seo:
   metaTitle: 'Japão Corta Imposto Cripto para 20%: Impacto no Mercado 2026 | A Cifra'
-  metaDescription: 'Reforma fiscal no Japão reduz imposto de criptomoedas de 55% para 20% fixos. Analistas preveem fluxo massivo de capital e início de novo Bull Market.'
-  keywords: ['imposto cripto japao', 'regulacao japao bitcoin', 'bull market 2026', 'asia cripto', 'taxa 20% cripto']
+  metaDescription: >-
+    Reforma fiscal no Japão reduz imposto de criptomoedas de 55% para 20% fixos.
+    Analistas preveem fluxo massivo de capital e início de novo Bull Market.
+  keywords:
+    - imposto cripto japao
+    - regulacao japao bitcoin
+    - bull market 2026
+    - asia cripto
+    - taxa 20% cripto
 monetization:
-  priority: 'high'
-  affiliateLinks: ['binance', 'bitget', 'bybit']
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+    - bybit
+alternateLanguages:
+  en: japan-cuts-crypto-tax-to-20-the-trigger-for-the-2026-bull-market
+  es: >-
+    japn-reduce-impuesto-cripto-al-20-el-desencadenante-para-el-mercado-alza-de-2026
 ---
 
 # Japão Reduz Imposto Cripto para 20%: O Gatilho para o Bull Market de 2026?

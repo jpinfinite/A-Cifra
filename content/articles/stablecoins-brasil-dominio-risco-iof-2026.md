@@ -1,27 +1,51 @@
 ---
-id: 'stablecoins-brasil-dominio-risco-iof-2026-2025-12-05'
+id: stablecoins-brasil-dominio-risco-iof-2026-2025-12-05
 title: 'Stablecoins Dominam o Brasil: 90% do Volume e o Novo Risco do IOF'
-slug: 'stablecoins-brasil-dominio-risco-iof-2026'
-excerpt: 'Brasileiros amam Dólar Digital. Stablecoins já representam 90% das transações cripto no país, mas novas regras do Banco Central podem trazer o IOF para o jogo em 2026.'
+slug: stablecoins-brasil-dominio-risco-iof-2026
+excerpt: >-
+  Brasileiros amam Dólar Digital. Stablecoins já representam 90% das transações
+  cripto no país, mas novas regras do Banco Central podem trazer o IOF para o
+  jogo em 2026.
 coverImage:
-  src: '/images/regulacao/2025-12/stablecoins-brasil-iof.webp'
-  alt: 'Ilustração de moedas digitais com a bandeira do Brasil e símbolos de dólar, sob uma lupa regulatória'
+  src: /images/regulacao/2025-12/stablecoins-brasil-iof.webp
+  alt: >-
+    Ilustração de moedas digitais com a bandeira do Brasil e símbolos de dólar,
+    sob uma lupa regulatória
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'regulacao'
-tags: ['stablecoins', 'usdt', 'usdc', 'regulacao', 'banco central', 'iof']
+categorySlug: regulacao
+tags:
+  - stablecoins
+  - usdt
+  - usdc
+  - regulacao
+  - banco central
+  - iof
 seo:
   metaTitle: 'Stablecoins no Brasil: 90% do Mercado e Risco de IOF em 2026 | A Cifra'
-  metaDescription: 'Stablecoins como USDT dominam 90% do volume cripto no Brasil. Entenda a Resolução 521 do BC e a possível cobrança de IOF em 2026.'
-  keywords: ['stablecoins brasil', 'usdt iof', 'regulacao cripto 2026', 'resolucao 521 banco central', 'dolar digital']
+  metaDescription: >-
+    Stablecoins como USDT dominam 90% do volume cripto no Brasil. Entenda a
+    Resolução 521 do BC e a possível cobrança de IOF em 2026.
+  keywords:
+    - stablecoins brasil
+    - usdt iof
+    - regulacao cripto 2026
+    - resolucao 521 banco central
+    - dolar digital
 monetization:
-  priority: 'high'
-  affiliateLinks: ['binance', 'bitget', 'coinbase']
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+    - coinbase
+alternateLanguages:
+  en: stablecoins-dominate-brazil-90-of-the-volume-and-the-new-iof-risk
+  es: stablecoins-dominan-brasil-90-del-volumen-y-el-nuevo-riesgo-del-iof
 ---
 
 # Stablecoins Dominam o Brasil: 90% do Volume e o Novo Risco do IOF

@@ -1,27 +1,42 @@
 ---
-id: 'carteira-multisig-tutorial-2025-12-13'
-title: 'Como Criar uma Carteira Multisig para Proteção Máxima'
-slug: 'carteira-multisig-tutorial'
-excerpt: 'Análise completa sobre Carteira Multisig Tutorial. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+id: carteira-multisig-tutorial-2025-12-13
+title: Como Criar uma Carteira Multisig para Proteção Máxima
+slug: carteira-multisig-tutorial
+excerpt: >-
+  Análise completa sobre Carteira Multisig Tutorial. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/educacao/2025-12/carteira-multisig-tutorial.webp'
-  alt: 'Como Criar uma Carteira Multisig para Proteção Máxima'
+  src: /images/educacao/2025-12/carteira-multisig-tutorial.webp
+  alt: Como Criar uma Carteira Multisig para Proteção Máxima
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'educacao'
-tags: ["educacao", "tendencias-2026", "tecnologia"]
+categorySlug: educacao
+tags:
+  - educacao
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Como Criar uma Carteira Multisig para Proteção Máxima | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Carteira Multisig Tutorial. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Carteira Multisig Tutorial", "criptomoedas 2026", "investimento"]
+  metaTitle: Como Criar uma Carteira Multisig para Proteção Máxima | Análise 2026
+  metaDescription: >-
+    Guia definitivo sobre Carteira Multisig Tutorial. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Carteira Multisig Tutorial
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: how-to-create-a-multisig-wallet-for-maximum-protection
+  es: cmo-crear-una-cartera-multisignatura-para-proteccin-mxima
 ---
 
 # Como Criar uma Carteira Multisig para Proteção Máxima

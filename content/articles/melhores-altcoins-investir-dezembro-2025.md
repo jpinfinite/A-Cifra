@@ -1,24 +1,47 @@
 ---
-id: 'melhores-altcoins-investir-dezembro-2025'
-title: 'Top 10 Melhores Altcoins para Investir em Dezembro 2025 - Análise Fundamentalista'
-slug: 'melhores-altcoins-investir-dezembro-2025'
-excerpt: 'Descubra as 10 melhores altcoins para investir em dezembro 2025. Análise fundamentalista completa: Solana, Cardano, Polkadot, Avalanche e mais. Potencial de valorização.'
+id: melhores-altcoins-investir-dezembro-2025
+title: >-
+  Top 10 Melhores Altcoins para Investir em Dezembro 2025 - Análise
+  Fundamentalista
+slug: melhores-altcoins-investir-dezembro-2025
+excerpt: >-
+  Descubra as 10 melhores altcoins para investir em dezembro 2025. Análise
+  fundamentalista completa: Solana, Cardano, Polkadot, Avalanche e mais.
+  Potencial de valorização.
 coverImage:
-  src: '/images/melhores-altcoins-dezembro-2025.jpg'
-  alt: 'Top 10 melhores altcoins para investir dezembro 2025'
+  src: /images/melhores-altcoins-dezembro-2025.jpg
+  alt: Top 10 melhores altcoins para investir dezembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'altcoins'
-tags: ['altcoins', 'investimento', 'análise fundamentalista', 'dezembro 2025', 'criptomoedas']
+categorySlug: altcoins
+tags:
+  - altcoins
+  - investimento
+  - análise fundamentalista
+  - dezembro 2025
+  - criptomoedas
 seo:
-  metaTitle: 'Top 10 Melhores Altcoins para Investir Dezembro 2025 | A Cifra'
-  metaDescription: 'Análise fundamentalista completa das 10 melhores altcoins para investir em dezembro 2025. Solana, Cardano, Polkadot, Avalanche e mais. Potencial e riscos.'
-  keywords: ['melhores altcoins 2025', 'investir altcoins', 'análise altcoins', 'solana', 'cardano', 'polkadot']
+  metaTitle: Top 10 Melhores Altcoins para Investir Dezembro 2025 | A Cifra
+  metaDescription: >-
+    Análise fundamentalista completa das 10 melhores altcoins para investir em
+    dezembro 2025. Solana, Cardano, Polkadot, Avalanche e mais. Potencial e
+    riscos.
+  keywords:
+    - melhores altcoins 2025
+    - investir altcoins
+    - análise altcoins
+    - solana
+    - cardano
+    - polkadot
+alternateLanguages:
+  en: top-10-best-altcoins-to-invest-in-december-2025---fundamental-analysis
+  es: >-
+    top-10-mejores-altcoins-para-invertir-en-diciembre-2025---anlisis-fundamentalista
 ---
 
 # Top 10 Melhores Altcoins para Investir em Dezembro 2025 - Análise Fundamentalista

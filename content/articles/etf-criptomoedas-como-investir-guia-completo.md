@@ -1,24 +1,44 @@
 ---
-id: 'etf-criptomoedas-como-investir-guia-completo'
+id: etf-criptomoedas-como-investir-guia-completo
 title: 'ETF de Criptomoedas: Como Investir com Segurança em 2025'
-slug: 'etf-criptomoedas-como-investir-guia-completo'
-excerpt: 'Descubra como investir em ETFs de Bitcoin e Ethereum com segurança, quais são os melhores fundos aprovados pela SEC e como declarar no IR brasileiro.'
+slug: etf-criptomoedas-como-investir-guia-completo
+excerpt: >-
+  Descubra como investir em ETFs de Bitcoin e Ethereum com segurança, quais são
+  os melhores fundos aprovados pela SEC e como declarar no IR brasileiro.
 coverImage:
-  src: '/images/ETF.jpg'
-  alt: 'ETF de criptomoedas representando investimento institucional em Bitcoin e Ethereum'
+  src: /images/ETF.jpg
+  alt: >-
+    ETF de criptomoedas representando investimento institucional em Bitcoin e
+    Ethereum
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-26'
 updatedAt: '2025-11-26'
-categorySlug: 'bitcoin'
-tags: ['etf', 'bitcoin', 'ethereum', 'investimento', 'sec']
+categorySlug: bitcoin
+tags:
+  - etf
+  - bitcoin
+  - ethereum
+  - investimento
+  - sec
 seo:
   metaTitle: 'ETF de Criptomoedas: Guia Completo para Investir 2025 | A Cifra'
-  metaDescription: 'Aprenda a investir em ETFs de Bitcoin e Ethereum aprovados pela SEC. Vantagens, riscos, melhores fundos e como declarar no IR brasileiro.'
-  keywords: ['etf bitcoin', 'etf ethereum', 'etf criptomoedas', 'como investir etf cripto', 'blackrock bitcoin', 'sec etf']
+  metaDescription: >-
+    Aprenda a investir em ETFs de Bitcoin e Ethereum aprovados pela SEC.
+    Vantagens, riscos, melhores fundos e como declarar no IR brasileiro.
+  keywords:
+    - etf bitcoin
+    - etf ethereum
+    - etf criptomoedas
+    - como investir etf cripto
+    - blackrock bitcoin
+    - sec etf
+alternateLanguages:
+  en: cryptocurrency-etf-how-to-invest-safely-in-2025
+  es: etf-de-criptomoedas-cmo-invertir-con-seguridad-en-2025
 ---
 
 # ETF de Criptomoedas: Como Investir com Segurança em 2025

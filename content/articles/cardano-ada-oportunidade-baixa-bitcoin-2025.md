@@ -36,6 +36,9 @@ seo:
     Cardano, ADA, investir em Cardano, alternativa Bitcoin, proof-of-stake,
     blockchain terceira geração, staking ADA, smart contracts Cardano
 categorySlug: bitcoin
+alternateLanguages:
+  en: cardano-ada-the-opportunity-while-bitcoin-is-down
+  es: cardano-ada-la-oportunidad-mientras-bitcoin-est-en-baja
 ---
 
 ## [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em Queda: Hora de Olhar para Cardano?

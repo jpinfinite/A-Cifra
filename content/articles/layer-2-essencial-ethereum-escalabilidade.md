@@ -1,39 +1,49 @@
 ---
-id: 'layer-2-ethereum'
-title: 'O Que São Layer 2 e Por Que São Essenciais para o Ethereum'
-slug: 'layer-2-essencial-ethereum-escalabilidade'
-excerpt: 'Entenda como as soluções Layer 2 estão revolucionando o Ethereum com transações mais rápidas, baratas e escaláveis. Guia completo sobre rollups, sidechains e o futuro da escalabilidade.'
+id: layer-2-ethereum
+title: O Que São Layer 2 e Por Que São Essenciais para o Ethereum
+slug: layer-2-essencial-ethereum-escalabilidade
+excerpt: >-
+  Entenda como as soluções Layer 2 estão revolucionando o Ethereum com
+  transações mais rápidas, baratas e escaláveis. Guia completo sobre rollups,
+  sidechains e o futuro da escalabilidade.
 coverImage:
-  src: '/images/132.jpg'
-  alt: 'Diagrama mostrando Ethereum Layer 1 com múltiplas soluções Layer 2 conectadas'
+  src: /images/132.jpg
+  alt: >-
+    Diagrama mostrando Ethereum Layer 1 com múltiplas soluções Layer 2
+    conectadas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-10-26'
 updatedAt: '2025-10-26'
-categorySlug: 'ethereum'
+categorySlug: ethereum
 tags:
-  - 'layer 2'
-  - 'ethereum'
-  - 'escalabilidade'
-  - 'rollups'
-  - 'optimism'
-  - 'arbitrum'
-  - 'zk-sync'
-  - 'polygon'
+  - layer 2
+  - ethereum
+  - escalabilidade
+  - rollups
+  - optimism
+  - arbitrum
+  - zk-sync
+  - polygon
 seo:
   metaTitle: 'Layer 2 Ethereum: Guia Completo de Escalabilidade | A Cifra'
-  metaDescription: 'Guia completo sobre Layer 2 Ethereum: rollups, sidechains, como funcionam, principais projetos e por que são essenciais para o futuro do Ethereum.'
+  metaDescription: >-
+    Guia completo sobre Layer 2 Ethereum: rollups, sidechains, como funcionam,
+    principais projetos e por que são essenciais para o futuro do Ethereum.
   keywords:
-    - 'layer 2 ethereum'
-    - 'escalabilidade ethereum'
-    - 'rollups'
-    - 'optimism'
-    - 'arbitrum'
-    - 'zk-sync'
-    - 'polygon'
-    - 'sidechains'
+    - layer 2 ethereum
+    - escalabilidade ethereum
+    - rollups
+    - optimism
+    - arbitrum
+    - zk-sync
+    - polygon
+    - sidechains
+alternateLanguages:
+  en: what-are-layer-2-and-why-are-they-essential-for-ethereum
+  es: qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum
 ---
 
 # O Que São Layer 2 e Por Que São Essenciais para o [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)

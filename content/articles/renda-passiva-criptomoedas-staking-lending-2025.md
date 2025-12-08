@@ -1,33 +1,42 @@
 ---
-id: 'renda-passiva-criptomoedas-2025'
+id: renda-passiva-criptomoedas-2025
 title: 'Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming'
-slug: 'renda-passiva-criptomoedas-staking-lending-2025'
-excerpt: 'Guia completo para gerar renda passiva com criptomoedas: staking, lending, yield farming e liquidity pools. Aprenda a ganhar até 20% ao ano.'
+slug: renda-passiva-criptomoedas-staking-lending-2025
+excerpt: >-
+  Guia completo para gerar renda passiva com criptomoedas: staking, lending,
+  yield farming e liquidity pools. Aprenda a ganhar até 20% ao ano.
 coverImage:
-  src: '/images/165.png'
-  alt: 'Renda passiva com criptomoedas - Staking e Lending'
+  src: /images/165.png
+  alt: Renda passiva com criptomoedas - Staking e Lending
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'renda passiva'
-  - 'staking'
-  - 'defi'
-  - 'yield farming'
+  - renda passiva
+  - staking
+  - defi
+  - yield farming
 seo:
   metaTitle: 'Renda Passiva com Criptomoedas 2025: Staking, Lending e Yield | A Cifra'
-  metaDescription: 'Aprenda a gerar renda passiva com criptomoedas: staking (até 15% ao ano), lending, yield farming e liquidity pools. Guia completo com estratégias seguras.'
+  metaDescription: >-
+    Aprenda a gerar renda passiva com criptomoedas: staking (até 15% ao ano),
+    lending, yield farming e liquidity pools. Guia completo com estratégias
+    seguras.
   keywords:
-    - 'renda passiva criptomoedas'
-    - 'staking criptomoedas'
-    - 'yield farming'
-    - 'lending cripto'
-    - 'ganhar com bitcoin'
+    - renda passiva criptomoedas
+    - staking criptomoedas
+    - yield farming
+    - lending cripto
+    - ganhar com bitcoin
+alternateLanguages:
+  en: >-
+    passive-income-with-cryptocurrencies-in-2025-staking-lending-and-yield-farming
+  es: renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-ganancias-de-campo
 ---
 
 # Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming

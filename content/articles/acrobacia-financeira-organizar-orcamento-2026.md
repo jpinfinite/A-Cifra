@@ -1,27 +1,51 @@
 ---
-id: 'acrobacia-financeira-organizar-orcamento-2026-2025-12-05'
+id: acrobacia-financeira-organizar-orcamento-2026-2025-12-05
 title: 'Acrobacia Financeira: Como Organizar seu Orçamento e Sair do Vermelho em 2026'
-slug: 'acrobacia-financeira-organizar-orcamento-2026'
-excerpt: 'Mais de 70% dos brasileiros vivem no limite financeiro. Aprenda estratégias práticas de "acrobacia financeira" para organizar suas contas, quitar dívidas e começar a investir em 2026.'
+slug: acrobacia-financeira-organizar-orcamento-2026
+excerpt: >-
+  Mais de 70% dos brasileiros vivem no limite financeiro. Aprenda estratégias
+  práticas de "acrobacia financeira" para organizar suas contas, quitar dívidas
+  e começar a investir em 2026.
 coverImage:
-  src: '/images/educacao/2025-12/acrobacia-financeira.webp'
-  alt: 'Ilustração conceitual de uma pessoa fazendo malabarismo com moedas e contas, representando o equilíbrio financeiro'
+  src: /images/educacao/2025-12/acrobacia-financeira.webp
+  alt: >-
+    Ilustração conceitual de uma pessoa fazendo malabarismo com moedas e contas,
+    representando o equilíbrio financeiro
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'educacao'
-tags: ['educacao financeira', 'orcamento', 'dividas', 'investimentos', 'economia domestica']
+categorySlug: educacao
+tags:
+  - educacao financeira
+  - orcamento
+  - dividas
+  - investimentos
+  - economia domestica
 seo:
   metaTitle: 'Acrobacia Financeira: Guia Completo para Sair do Vermelho em 2026 | A Cifra'
-  metaDescription: 'Aprenda a fazer a verdadeira acrobacia financeira para equilibrar as contas. Guia passo a passo para sair das dívidas e investir.'
-  keywords: ['como sair das dividas', 'organizar orcamento', 'planilha financeira', 'reserva de emergencia', 'investir com pouco dinheiro']
+  metaDescription: >-
+    Aprenda a fazer a verdadeira acrobacia financeira para equilibrar as contas.
+    Guia passo a passo para sair das dívidas e investir.
+  keywords:
+    - como sair das dividas
+    - organizar orcamento
+    - planilha financeira
+    - reserva de emergencia
+    - investir com pouco dinheiro
 monetization:
-  priority: 'high'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: high
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: >-
+    financial-acrobatics-how-to-organize-your-budget-and-get-out-of-the-red-in-2026
+  es: acrobacia-financiera-cmo-organizar-su-presupuesto-y-salir-del-rojo-en-2026
 ---
 
 # Acrobacia Financeira: Como Organizar seu Orçamento e Sair do Vermelho em 2026

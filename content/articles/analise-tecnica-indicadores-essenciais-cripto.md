@@ -1,24 +1,44 @@
 ---
-id: 'analise-tecnica-indicadores'
-slug: 'analise-tecnica-indicadores-essenciais-cripto'
-title: "Análise Técnica: Indicadores Essenciais para Cripto"
-excerpt: "Domine os principais indicadores técnicos para trading de criptomoedas: RSI, MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas."
+id: analise-tecnica-indicadores
+slug: analise-tecnica-indicadores-essenciais-cripto
+title: 'Análise Técnica: Indicadores Essenciais para Cripto'
+excerpt: >-
+  Domine os principais indicadores técnicos para trading de criptomoedas: RSI,
+  MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas.
 coverImage:
-  src: '/images/038.jpg'
+  src: /images/038.jpg
   alt: 'Análise Técnica: Indicadores Essenciais para Cripto'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "analises"
-tags: ["análise técnica", "trading", "indicadores", "rsi", "macd", "gráficos"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: analises
+tags:
+  - análise técnica
+  - trading
+  - indicadores
+  - rsi
+  - macd
+  - gráficos
 seo:
-  metaTitle: "Análise Técnica: Indicadores Essenciais para Cripto | A Cifra"
-  metaDescription: "Domine os principais indicadores técnicos para trading de criptomoedas: RSI, MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões informadas."
-  keywords: ["análise técnica", "trading", "indicadores", "rsi", "macd", "gráficos"]
+  metaTitle: 'Análise Técnica: Indicadores Essenciais para Cripto | A Cifra'
+  metaDescription: >-
+    Domine os principais indicadores técnicos para trading de criptomoedas: RSI,
+    MACD, Médias Móveis, Volume e padrões gráficos para tomar decisões
+    informadas.
+  keywords:
+    - análise técnica
+    - trading
+    - indicadores
+    - rsi
+    - macd
+    - gráficos
+alternateLanguages:
+  en: technical-analysis-essential-indicators-for-crypto
+  es: anlisis-tcnico-indicadores-esenciales-para-criptomonedas
 ---
 
 # Análise Técnica: Indicadores Essenciais para Cripto

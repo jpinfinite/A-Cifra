@@ -1,34 +1,41 @@
-﻿---
-id: 'cripto-vs-fiat'
+---
+id: cripto-vs-fiat
 title: 'Criptomoedas vs Moedas Tradicionais: Entenda as Diferenças'
-slug: 'criptomoedas-vs-moedas-tradicionais'
-excerpt: 'Descubra as principais diferenças entre criptomoedas e moedas tradicionais, vantagens, desvantagens e o futuro do dinheiro digital.'
+slug: criptomoedas-vs-moedas-tradicionais
+excerpt: >-
+  Descubra as principais diferenças entre criptomoedas e moedas tradicionais,
+  vantagens, desvantagens e o futuro do dinheiro digital.
 coverImage:
-  src: '/images/077.jpg'
-  alt: 'Comparação entre criptomoedas e moedas tradicionais'
+  src: /images/077.jpg
+  alt: Comparação entre criptomoedas e moedas tradicionais
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'criptomoedas'
-  - 'moedas fiat'
-  - 'comparação'
-  - 'educação financeira'
-  - 'dinheiro digital'
+  - criptomoedas
+  - moedas fiat
+  - comparação
+  - educação financeira
+  - dinheiro digital
 seo:
   metaTitle: 'Criptomoedas vs Moedas Tradicionais: Diferenças e Vantagens | A Cifra'
-  metaDescription: 'Entenda as principais diferenças entre criptomoedas e moedas tradicionais (fiat), suas vantagens, desvantagens e o impacto no futuro financeiro.'
+  metaDescription: >-
+    Entenda as principais diferenças entre criptomoedas e moedas tradicionais
+    (fiat), suas vantagens, desvantagens e o impacto no futuro financeiro.
   keywords:
-    - 'criptomoedas vs moedas tradicionais'
-    - 'cripto vs fiat'
-    - 'diferenças criptomoedas'
-    - 'vantagens bitcoin'
-    - 'dinheiro digital'
+    - criptomoedas vs moedas tradicionais
+    - cripto vs fiat
+    - diferenças criptomoedas
+    - vantagens bitcoin
+    - dinheiro digital
+alternateLanguages:
+  en: cryptocurrencies-vs-traditional-currencies-understanding-the-differences
+  es: criptomoedas-vs-monedas-tradicionales-entiende-las-diferencias
 ---
 
 A discussão entre **criptomoedas** e **moedas tradicionais** (fiat) é fundamental para entender o futuro do dinheiro. Cada sistema tem suas características únicas.

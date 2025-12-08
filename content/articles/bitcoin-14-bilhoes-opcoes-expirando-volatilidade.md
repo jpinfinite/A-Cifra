@@ -1,24 +1,43 @@
 ---
-id: 'bitcoin-14-bilhoes-opcoes-expirando-volatilidade'
-title: '$14 Bilhões em Opções de Bitcoin Expirando - Prepare-se para Volatilidade'
-slug: 'bitcoin-14-bilhoes-opcoes-expirando-volatilidade'
-excerpt: '$14 bilhões em opções de Bitcoin expiram esta semana, podendo causar volatilidade extrema. Entenda o impacto, níveis-chave e como traders estão se posicionando para o evento.'
+id: bitcoin-14-bilhoes-opcoes-expirando-volatilidade
+title: $14 Bilhões em Opções de Bitcoin Expirando - Prepare-se para Volatilidade
+slug: bitcoin-14-bilhoes-opcoes-expirando-volatilidade
+excerpt: >-
+  $14 bilhões em opções de Bitcoin expiram esta semana, podendo causar
+  volatilidade extrema. Entenda o impacto, níveis-chave e como traders estão se
+  posicionando para o evento.
 coverImage:
-  src: '/images/bitcoin-options-expiry-styled.jpg'
-  alt: '$14 bilhões em opções de Bitcoin expirando - volatilidade esperada'
+  src: /images/bitcoin-options-expiry-styled.jpg
+  alt: $14 bilhões em opções de Bitcoin expirando - volatilidade esperada
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'trading'
-tags: ['bitcoin', 'opções', 'volatilidade', 'trading', 'derivativos']
+categorySlug: trading
+tags:
+  - bitcoin
+  - opções
+  - volatilidade
+  - trading
+  - derivativos
 seo:
-  metaTitle: '$14B em Opções Bitcoin Expirando - Volatilidade Extrema | A Cifra'
-  metaDescription: '$14 bilhões em opções de Bitcoin expiram esta semana. Análise completa do impacto, níveis-chave de preço e estratégias para traders navegarem a volatilidade.'
-  keywords: ['opções bitcoin', 'bitcoin options expiry', 'volatilidade bitcoin', 'derivativos bitcoin', 'trading bitcoin']
+  metaTitle: $14B em Opções Bitcoin Expirando - Volatilidade Extrema | A Cifra
+  metaDescription: >-
+    $14 bilhões em opções de Bitcoin expiram esta semana. Análise completa do
+    impacto, níveis-chave de preço e estratégias para traders navegarem a
+    volatilidade.
+  keywords:
+    - opções bitcoin
+    - bitcoin options expiry
+    - volatilidade bitcoin
+    - derivativos bitcoin
+    - trading bitcoin
+alternateLanguages:
+  en: 14-billion-in-bitcoin-options-expiring---prepare-for-volatility
+  es: 14-billones-en-opciones-de-bitcoin-a-expirar---preprese-para-volatilidad
 ---
 
 # $14 Bilhões em Opções de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Expirando - Prepare-se para Volatilidade

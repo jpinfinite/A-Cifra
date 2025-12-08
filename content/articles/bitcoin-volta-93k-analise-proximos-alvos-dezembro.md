@@ -1,24 +1,43 @@
 ---
-id: 'bitcoin-volta-93k-analise-proximos-alvos-dezembro'
-title: 'Bitcoin Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025'
-slug: 'bitcoin-volta-93k-analise-proximos-alvos-dezembro'
-excerpt: 'Bitcoin recupera $93k após correção saudável. Análise técnica revela próximos alvos: $95k, $98k e $100k. Descubra os catalisadores e estratégias para dezembro 2025.'
+id: bitcoin-volta-93k-analise-proximos-alvos-dezembro
+title: Bitcoin Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025
+slug: bitcoin-volta-93k-analise-proximos-alvos-dezembro
+excerpt: >-
+  Bitcoin recupera $93k após correção saudável. Análise técnica revela próximos
+  alvos: $95k, $98k e $100k. Descubra os catalisadores e estratégias para
+  dezembro 2025.
 coverImage:
-  src: '/images/bitcoin-93k-recuperacao.jpg'
-  alt: 'Bitcoin volta aos $93k - Análise e próximos alvos dezembro 2025'
+  src: /images/bitcoin-93k-recuperacao.jpg
+  alt: Bitcoin volta aos $93k - Análise e próximos alvos dezembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'análise técnica', 'btc 93k', 'dezembro 2025', 'alvos']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - análise técnica
+  - btc 93k
+  - dezembro 2025
+  - alvos
 seo:
   metaTitle: 'Bitcoin $93k: Próximos Alvos e Análise Dezembro 2025 | A Cifra'
-  metaDescription: 'Bitcoin recupera $93k. Análise técnica completa mostra próximos alvos ($95k, $98k, $100k) e estratégias para dezembro. Veja catalisadores e níveis-chave.'
-  keywords: ['bitcoin 93k', 'btc dezembro 2025', 'próximos alvos bitcoin', 'análise bitcoin', 'bitcoin 100k']
+  metaDescription: >-
+    Bitcoin recupera $93k. Análise técnica completa mostra próximos alvos ($95k,
+    $98k, $100k) e estratégias para dezembro. Veja catalisadores e níveis-chave.
+  keywords:
+    - bitcoin 93k
+    - btc dezembro 2025
+    - próximos alvos bitcoin
+    - análise bitcoin
+    - bitcoin 100k
+alternateLanguages:
+  en: bitcoin-hits-93k-after-correction---next-targets-and-december-2025-analysis
+  es: >-
+    bitcoin-volta-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025

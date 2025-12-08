@@ -1,24 +1,42 @@
 ---
-id: 'cathie-wood-bitcoin-1-5-milhao-previsao-2025'
-title: 'Cathie Wood Mantém Previsão de Bitcoin a $1.5 Milhão - Análise ARK Invest'
-slug: 'cathie-wood-bitcoin-1-5-milhao-previsao-2025'
-excerpt: 'Cathie Wood da ARK Invest reafirma previsão de Bitcoin a $1.5 milhão e explica por que $300 bilhões em liquidez podem impulsionar cripto e IA. Análise completa da tese bullish mais ousada do mercado.'
+id: cathie-wood-bitcoin-1-5-milhao-previsao-2025
+title: Cathie Wood Mantém Previsão de Bitcoin a $1.5 Milhão - Análise ARK Invest
+slug: cathie-wood-bitcoin-1-5-milhao-previsao-2025
+excerpt: >-
+  Cathie Wood da ARK Invest reafirma previsão de Bitcoin a $1.5 milhão e explica
+  por que $300 bilhões em liquidez podem impulsionar cripto e IA. Análise
+  completa da tese bullish mais ousada do mercado.
 coverImage:
-  src: '/images/cathie-wood-bitcoin-prediction-styled.jpg'
-  alt: 'Cathie Wood e previsão de Bitcoin a 1.5 milhão de dólares'
+  src: /images/cathie-wood-bitcoin-prediction-styled.jpg
+  alt: Cathie Wood e previsão de Bitcoin a 1.5 milhão de dólares
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'analises'
-tags: ['bitcoin', 'cathie wood', 'ark invest', 'previsão', '$1.5M']
+categorySlug: analises
+tags:
+  - bitcoin
+  - cathie wood
+  - ark invest
+  - previsão
+  - $1.5M
 seo:
   metaTitle: 'Cathie Wood: Bitcoin a $1.5 Milhão - Análise ARK Invest 2025 | A Cifra'
-  metaDescription: 'Cathie Wood mantém previsão de Bitcoin a $1.5 milhão. Entenda a tese da ARK Invest, os $300B em liquidez e por que ela acredita nesse alvo ousado.'
-  keywords: ['cathie wood bitcoin', 'ark invest bitcoin', 'bitcoin 1.5 milhão', 'previsão bitcoin', 'cathie wood previsão']
+  metaDescription: >-
+    Cathie Wood mantém previsão de Bitcoin a $1.5 milhão. Entenda a tese da ARK
+    Invest, os $300B em liquidez e por que ela acredita nesse alvo ousado.
+  keywords:
+    - cathie wood bitcoin
+    - ark invest bitcoin
+    - bitcoin 1.5 milhão
+    - previsão bitcoin
+    - cathie wood previsão
+alternateLanguages:
+  en: cathie-wood-maintains-bitcoin-forecast-to-15-million---ark-invest-analysis
+  es: cathie-wood-mantiene-prediccin-de-bitcoin-a-15-milln---anlisis-ark-invest
 ---
 
 # Cathie Wood Mantém Previsão de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) a $1.5 Milhão - Análise ARK Invest

@@ -1,34 +1,41 @@
-﻿---
-id: 'curve-finance'
+---
+id: curve-finance
 title: 'Curve Finance: A DEX Especializada em Stablecoins'
-slug: 'curve-finance-stablecoins'
-excerpt: 'Entenda o Curve Finance, a DEX otimizada para stablecoins com baixo slippage, altos rendimentos e o token CRV.'
+slug: curve-finance-stablecoins
+excerpt: >-
+  Entenda o Curve Finance, a DEX otimizada para stablecoins com baixo slippage,
+  altos rendimentos e o token CRV.
 coverImage:
-  src: '/images/092.jpg'
-  alt: 'Curve Finance - DEX Stablecoins'
+  src: /images/092.jpg
+  alt: Curve Finance - DEX Stablecoins
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'curve'
-  - 'defi'
-  - 'stablecoins'
-  - 'dex'
-  - 'crv'
+  - curve
+  - defi
+  - stablecoins
+  - dex
+  - crv
 seo:
   metaTitle: 'Curve Finance: Guia da DEX de Stablecoins | A Cifra'
-  metaDescription: 'Guia completo do Curve Finance: como funciona, pools de stablecoins, farming de CRV e como maximizar rendimentos.'
+  metaDescription: >-
+    Guia completo do Curve Finance: como funciona, pools de stablecoins, farming
+    de CRV e como maximizar rendimentos.
   keywords:
-    - 'curve finance'
-    - 'curve dex'
-    - 'crv token'
-    - 'stablecoins dex'
-    - 'curve pools'
+    - curve finance
+    - curve dex
+    - crv token
+    - stablecoins dex
+    - curve pools
+alternateLanguages:
+  en: curve-finance-a-dex-specialized-in-stablecoins
+  es: curve-finance-una-dex-especializada-en-stablecoins
 ---
 
 O **Curve Finance** é a DEX líder para trading de stablecoins, oferecendo baixo slippage e altos rendimentos.

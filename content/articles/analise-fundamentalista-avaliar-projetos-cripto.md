@@ -1,24 +1,43 @@
 ---
-id: 'analise-fundamentalista'
-slug: 'analise-fundamentalista-avaliar-projetos-cripto'
-title: "Análise Fundamentalista: Como Avaliar Projetos Cripto"
-excerpt: "Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe, tecnologia, tokenomics e potencial de adoção para tomar decisões de investimento informadas."
+id: analise-fundamentalista
+slug: analise-fundamentalista-avaliar-projetos-cripto
+title: 'Análise Fundamentalista: Como Avaliar Projetos Cripto'
+excerpt: >-
+  Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe,
+  tecnologia, tokenomics e potencial de adoção para tomar decisões de
+  investimento informadas.
 coverImage:
-  src: '/images/162.jpg'
+  src: /images/162.jpg
   alt: 'Análise Fundamentalista: Como Avaliar Projetos Cripto'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "analises"
-tags: ["análise fundamentalista", "investimento", "avaliação", "due diligence", "pesquisa"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: analises
+tags:
+  - análise fundamentalista
+  - investimento
+  - avaliação
+  - due diligence
+  - pesquisa
 seo:
-  metaTitle: "Análise Fundamentalista: Como Avaliar Projetos Cripto | A Cifra"
-  metaDescription: "Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe, tecnologia, tokenomics e potencial de adoção para tomar decisões de investimento informadas."
-  keywords: ["análise fundamentalista", "investimento", "avaliação", "due diligence", "pesquisa"]
+  metaTitle: 'Análise Fundamentalista: Como Avaliar Projetos Cripto | A Cifra'
+  metaDescription: >-
+    Aprenda a fazer análise fundamentalista de criptomoedas: avaliar equipe,
+    tecnologia, tokenomics e potencial de adoção para tomar decisões de
+    investimento informadas.
+  keywords:
+    - análise fundamentalista
+    - investimento
+    - avaliação
+    - due diligence
+    - pesquisa
+alternateLanguages:
+  en: fundamental-analysis-how-to-evaluate-crypto-projects
+  es: anlisis-fundamentalista-cmo-evaluar-proyectos-cripto
 ---
 
 # Análise Fundamentalista: Como Avaliar Projetos Cripto

@@ -1,24 +1,52 @@
 ---
-id: 'staking-ethereum-2025'
-slug: 'staking-ethereum-2025-guia-completo-renda-passiva'
-title: "Staking de Ethereum em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano"
-excerpt: 'Guia completo sobre staking de Ethereum em 2025: como funciona, quanto pode ganhar (5-8% ao ano), onde fazer, riscos e estratégias para maximizar retornos.'
+id: staking-ethereum-2025
+slug: staking-ethereum-2025-guia-completo-renda-passiva
+title: >-
+  Staking de Ethereum em 2025: Guia Completo para Ganhar Renda Passiva de até 8%
+  ao Ano
+excerpt: >-
+  Guia completo sobre staking de Ethereum em 2025: como funciona, quanto pode
+  ganhar (5-8% ao ano), onde fazer, riscos e estratégias para maximizar
+  retornos.
 coverImage:
-  src: '/images/ethereum-staking-rewards-styled.jpg'
-  alt: 'Staking de Ethereum - Guia Completo 2025'
+  src: /images/ethereum-staking-rewards-styled.jpg
+  alt: Staking de Ethereum - Guia Completo 2025
   width: 1200
   height: 630
 author:
-  name: "Equipe A Cifra"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-11-21"
-updatedAt: "2025-11-21"
-categorySlug: "tutoriais"
-tags: ["ethereum", "staking", "renda passiva", "eth", "defi", "proof of stake"]
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-11-21'
+updatedAt: '2025-11-21'
+categorySlug: tutoriais
+tags:
+  - ethereum
+  - staking
+  - renda passiva
+  - eth
+  - defi
+  - proof of stake
 seo:
-  metaTitle: "Staking de Ethereum 2025: Guia Completo para Renda Passiva de até 8% | A Cifra"
-  metaDescription: "Aprenda tudo sobre staking de Ethereum: como funciona, rendimentos de 5-8% ao ano, melhores plataformas, riscos e estratégias para maximizar seus ganhos em 2025."
-  keywords: ["staking ethereum", "eth staking", "renda passiva cripto", "ethereum 2025", "como fazer staking", "rendimento ethereum", "proof of stake"]
+  metaTitle: >-
+    Staking de Ethereum 2025: Guia Completo para Renda Passiva de até 8% | A
+    Cifra
+  metaDescription: >-
+    Aprenda tudo sobre staking de Ethereum: como funciona, rendimentos de 5-8%
+    ao ano, melhores plataformas, riscos e estratégias para maximizar seus
+    ganhos em 2025.
+  keywords:
+    - staking ethereum
+    - eth staking
+    - renda passiva cripto
+    - ethereum 2025
+    - como fazer staking
+    - rendimento ethereum
+    - proof of stake
+alternateLanguages:
+  en: >-
+    ethereum-staking-in-2025-a-comprehensive-guide-to-earning-passive-income-of-up-to-8-per-year
+  es: >-
+    staking-de-ethereum-en-2025-gua-completa-para-ganar-renta-pasiva-de-hasta-un-8-al-ao
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano

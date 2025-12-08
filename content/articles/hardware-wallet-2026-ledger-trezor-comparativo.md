@@ -1,26 +1,49 @@
 ---
-id: 'hardware-wallet-2026-ledger-trezor-comparativo-2025-12-05'
+id: hardware-wallet-2026-ledger-trezor-comparativo-2025-12-05
 title: 'Hardware Wallet 2026: Ledger, Trezor ou Outro? Comparativo Definitivo'
-slug: 'hardware-wallet-2026-ledger-trezor-comparativo'
-excerpt: 'Ledger Nano Gen5 ou Trezor Safe 7? Descubra qual hardware wallet oferece melhor segurança, suporte a moedas e custo-benefício em 2026. Comparativo completo com tabela.'
+slug: hardware-wallet-2026-ledger-trezor-comparativo
+excerpt: >-
+  Ledger Nano Gen5 ou Trezor Safe 7? Descubra qual hardware wallet oferece
+  melhor segurança, suporte a moedas e custo-benefício em 2026. Comparativo
+  completo com tabela.
 coverImage:
-  src: '/images/seguranca/2025-12/hardware-wallets-2026.webp'
-  alt: 'Comparação visual detalhada entre carteiras hardware Ledger e Trezor' width: 1200
+  src: /images/seguranca/2025-12/hardware-wallets-2026.webp
+  alt: Comparação visual detalhada entre carteiras hardware Ledger e Trezor
+  width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'seguranca'
-tags: ['hardware wallet', 'ledger', 'trezor', 'seguranca', 'cold wallet']
+categorySlug: seguranca
+tags:
+  - hardware wallet
+  - ledger
+  - trezor
+  - seguranca
+  - cold wallet
 seo:
   metaTitle: 'Ledger vs Trezor 2026: Qual Melhor Hardware Wallet? | Comparativo Completo'
-  metaDescription: 'Análise técnica das melhores hardware wallets de 2026. Compare Ledger Nano Gen5, Trezor Safe 7, segurança, preços e escolha a ideal para proteger seus criptoativos.'
-  keywords: ['ledger nano gen5', 'trezor safe 7', 'melhor hardware wallet', 'ledger vs trezor', 'cold wallet segura']
+  metaDescription: >-
+    Análise técnica das melhores hardware wallets de 2026. Compare Ledger Nano
+    Gen5, Trezor Safe 7, segurança, preços e escolha a ideal para proteger seus
+    criptoativos.
+  keywords:
+    - ledger nano gen5
+    - trezor safe 7
+    - melhor hardware wallet
+    - ledger vs trezor
+    - cold wallet segura
 monetization:
-  priority: 'high'
-  affiliateLinks: ['ledger', 'trezor', 'binance']
+  priority: high
+  affiliateLinks:
+    - ledger
+    - trezor
+    - binance
+alternateLanguages:
+  en: hardware-wallet-2026-ledger-trezor-or-another-definitive-comparison
+  es: hardware-wallet-2026-ledger-trezor-o-otro-comparativo-definitivo
 ---
 
 # [hardware wallet](/artigo/ledger-vs-trezor-review) 2026: Ledger, Trezor ou Outro? Comparativo Definitivo

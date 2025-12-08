@@ -1,24 +1,41 @@
 ---
-id: 'the-graph-grt'
-slug: 'the-graph-indexacao-dados-blockchain'
-title: "The Graph (GRT): Indexação de Dados Blockchain"
-excerpt: "Conheça o The Graph, o protocolo de indexação que permite consultas rápidas e eficientes de dados blockchain, essencial para dApps e DeFi."
+id: the-graph-grt
+slug: the-graph-indexacao-dados-blockchain
+title: 'The Graph (GRT): Indexação de Dados Blockchain'
+excerpt: >-
+  Conheça o The Graph, o protocolo de indexação que permite consultas rápidas e
+  eficientes de dados blockchain, essencial para dApps e DeFi.
 coverImage:
-  src: '/images/124.jpg'
+  src: /images/124.jpg
   alt: 'The Graph (GRT): Indexação de Dados Blockchain'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["the graph", "grt", "indexação", "dados", "web3"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - the graph
+  - grt
+  - indexação
+  - dados
+  - web3
 seo:
-  metaTitle: "The Graph (GRT): Indexação de Dados Blockchain | A Cifra"
-  metaDescription: "Conheça o The Graph, o protocolo de indexação que permite consultas rápidas e eficientes de dados blockchain, essencial para dApps e DeFi."
-  keywords: ["the graph", "grt", "indexação", "dados", "web3"]
+  metaTitle: 'The Graph (GRT): Indexação de Dados Blockchain | A Cifra'
+  metaDescription: >-
+    Conheça o The Graph, o protocolo de indexação que permite consultas rápidas
+    e eficientes de dados blockchain, essencial para dApps e DeFi.
+  keywords:
+    - the graph
+    - grt
+    - indexação
+    - dados
+    - web3
+alternateLanguages:
+  en: the-graph-grt-blockchain-data-indexing
+  es: el-grfico-grt-indexacin-de-datos-blockchain
 ---
 seo:
   metaTitle: "The Graph (GRT): Indexação de Dados Blockchain | A Cifra"

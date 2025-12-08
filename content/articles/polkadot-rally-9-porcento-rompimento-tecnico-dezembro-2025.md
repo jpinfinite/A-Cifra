@@ -1,24 +1,44 @@
 ---
-id: 'polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025'
+id: polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025
 title: 'Polkadot Dispara 9% com Rompimento Técnico: Análise do Rally de Dezembro 2025'
-slug: 'polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025'
-excerpt: 'DOT rompe resistência de $10 e dispara 9% em 24 horas. Análise técnica completa do movimento, próximos alvos e o que esperar da parachain líder em interoperabilidade.'
+slug: polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025
+excerpt: >-
+  DOT rompe resistência de $10 e dispara 9% em 24 horas. Análise técnica
+  completa do movimento, próximos alvos e o que esperar da parachain líder em
+  interoperabilidade.
 coverImage:
-  src: '/images/040.jpg'
-  alt: 'Gráfico mostrando rally de 9% do Polkadot'
+  src: /images/040.jpg
+  alt: Gráfico mostrando rally de 9% do Polkadot
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'altcoins'
-tags: ['Polkadot', 'DOT', 'análise técnica', 'parachains', 'interoperabilidade']
+categorySlug: altcoins
+tags:
+  - Polkadot
+  - DOT
+  - análise técnica
+  - parachains
+  - interoperabilidade
 seo:
-  metaTitle: 'Polkadot Rally 9% Rompimento Técnico Dezembro 2025 | Análise DOT | A Cifra'
-  metaDescription: 'Polkadot rompe $10 e dispara 9%. Análise técnica completa, próximos alvos, catalisadores e perspectivas para DOT em dezembro 2025.'
-  keywords: ['Polkadot', 'DOT', 'rally', 'análise técnica', 'parachains', 'Web3']
+  metaTitle: Polkadot Rally 9% Rompimento Técnico Dezembro 2025 | Análise DOT | A Cifra
+  metaDescription: >-
+    Polkadot rompe $10 e dispara 9%. Análise técnica completa, próximos alvos,
+    catalisadores e perspectivas para DOT em dezembro 2025.
+  keywords:
+    - Polkadot
+    - DOT
+    - rally
+    - análise técnica
+    - parachains
+    - Web3
+alternateLanguages:
+  en: polkadot-surges-9-with-technical-breakout-december-2025-rally-analysis
+  es: >-
+    polkadot-dispara-9-con-rompimiento-tcnico-anlisis-del-rally-de-diciembre-2025
 ---
 
 # Polkadot Dispara 9% com Rompimento Técnico: Análise do Rally de Dezembro 2025

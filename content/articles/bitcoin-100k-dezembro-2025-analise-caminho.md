@@ -1,24 +1,45 @@
 ---
-id: 'bitcoin-100k-dezembro-2025-analise-caminho'
-title: 'Bitcoin Rumo aos $100K em Dezembro 2025 - Análise Completa do Caminho'
-slug: 'bitcoin-100k-dezembro-2025-analise-caminho'
-excerpt: 'Bitcoin está a apenas 2% dos $100.000. Análise técnica e fundamentalista completa mostra por que dezembro de 2025 pode ser o mês histórico. Descubra os catalisadores, resistências e o que esperar após romper os 6 dígitos.'
+id: bitcoin-100k-dezembro-2025-analise-caminho
+title: Bitcoin Rumo aos $100K em Dezembro 2025 - Análise Completa do Caminho
+slug: bitcoin-100k-dezembro-2025-analise-caminho
+excerpt: >-
+  Bitcoin está a apenas 2% dos $100.000. Análise técnica e fundamentalista
+  completa mostra por que dezembro de 2025 pode ser o mês histórico. Descubra os
+  catalisadores, resistências e o que esperar após romper os 6 dígitos.
 coverImage:
-  src: '/images/bitcoin-100k-december-2025.jpg'
-  alt: 'Bitcoin rompendo a marca histórica de $100.000 em dezembro 2025'
+  src: /images/bitcoin-100k-december-2025.jpg
+  alt: Bitcoin rompendo a marca histórica de $100.000 em dezembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-27'
 updatedAt: '2025-11-27'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'análise', 'previsão', '$100k', 'bull market']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - análise
+  - previsão
+  - $100k
+  - bull market
 seo:
-  metaTitle: 'Bitcoin $100K em Dezembro 2025? Análise Completa | A Cifra'
-  metaDescription: 'Bitcoin a 2% dos $100.000. Análise técnica e fundamentalista mostra catalisadores para romper 6 dígitos em dezembro 2025. ETFs, halving e adoção institucional.'
-  keywords: ['bitcoin 100k', 'bitcoin dezembro 2025', 'previsão bitcoin', 'análise bitcoin', 'btc 100 mil', 'bull market bitcoin']
+  metaTitle: Bitcoin $100K em Dezembro 2025? Análise Completa | A Cifra
+  metaDescription: >-
+    Bitcoin a 2% dos $100.000. Análise técnica e fundamentalista mostra
+    catalisadores para romper 6 dígitos em dezembro 2025. ETFs, halving e adoção
+    institucional.
+  keywords:
+    - bitcoin 100k
+    - bitcoin dezembro 2025
+    - previsão bitcoin
+    - análise bitcoin
+    - btc 100 mil
+    - bull market bitcoin
+alternateLanguages:
+  en: >-
+    bitcoin-heading-to-100k-by-december-2025---comprehensive-analysis-of-the-path
+  es: bitcoin-rumbo-a-los-100k-en-diciembre-2025---anlisis-completo-del-camino
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Rumo aos $100K em Dezembro 2025: Análise Completa do Caminho

@@ -1,27 +1,42 @@
 ---
-id: 'bitcoin-layer-2-stacks-ordinals-2025-12-07'
+id: bitcoin-layer-2-stacks-ordinals-2025-12-07
 title: 'Bitcoin Layer 2 Stacks Ordinals: Análise Completa e Previsões'
-slug: 'bitcoin-layer-2-stacks-ordinals'
-excerpt: 'Análise completa sobre Bitcoin Layer 2 Stacks Ordinals. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: bitcoin-layer-2-stacks-ordinals
+excerpt: >-
+  Análise completa sobre Bitcoin Layer 2 Stacks Ordinals. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/bitcoin/2025-12/bitcoin-layer-2-stacks-ordinals.webp'
+  src: /images/bitcoin/2025-12/bitcoin-layer-2-stacks-ordinals.webp
   alt: 'Bitcoin Layer 2 Stacks Ordinals: Análise Completa e Previsões'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-07'
 updatedAt: '2025-12-07'
-categorySlug: 'bitcoin'
-tags: ["bitcoin", "tendencias-2026", "tecnologia"]
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Bitcoin Layer 2 Stacks Ordinals: Análise Completa e Previsões | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Bitcoin Layer 2 Stacks Ordinals. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Bitcoin Layer 2 Stacks Ordinals", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Bitcoin Layer 2 Stacks Ordinals. Previsões de mercado
+    e análise técnica para investidores inteligentes.
+  keywords:
+    - Bitcoin Layer 2 Stacks Ordinals
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: bitcoin-layer-2-stacks-ordinals-complete-analysis-and-predictions
+  es: bitcoin-layer-2-stacks-ordinals-anlisis-completo-y-predicciones
 ---
 
 # Bitcoin Layer 2 Stacks Ordinals: Análise Completa e Previsões

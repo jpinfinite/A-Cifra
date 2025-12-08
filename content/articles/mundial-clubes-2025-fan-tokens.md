@@ -1,27 +1,51 @@
 ---
-id: 'mundial-clubes-2025-fan-tokens-2025-12-04'
+id: mundial-clubes-2025-fan-tokens-2025-12-04
 title: 'Mundial de Clubes 2025: Fan Tokens e a Revolução do Engajamento Esportivo'
-slug: 'mundial-clubes-2025-fan-tokens'
-excerpt: 'Com o novo formato do Mundial de Clubes em 2025, descubra como os Fan Tokens estão mudando a forma como torcedores interagem com seus times e lucram com sua paixão.'
+slug: mundial-clubes-2025-fan-tokens
+excerpt: >-
+  Com o novo formato do Mundial de Clubes em 2025, descubra como os Fan Tokens
+  estão mudando a forma como torcedores interagem com seus times e lucram com
+  sua paixão.
 coverImage:
-  src: '/images/altcoins/2025-12/mundial-fan-tokens.webp'
-  alt: 'Estádio de futebol lotado com hologramas de tokens digitais flutuando sobre a torcida'
+  src: /images/altcoins/2025-12/mundial-fan-tokens.webp
+  alt: >-
+    Estádio de futebol lotado com hologramas de tokens digitais flutuando sobre
+    a torcida
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'altcoins'
-tags: ['fan tokens', 'chiliz', 'socios.com', 'futebol', 'mundial de clubes', 'investimento esportivo']
+categorySlug: altcoins
+tags:
+  - fan tokens
+  - chiliz
+  - socios.com
+  - futebol
+  - mundial de clubes
+  - investimento esportivo
 seo:
   metaTitle: 'Mundial de Clubes 2025 e Fan Tokens: Guia Completo | A Cifra'
-  metaDescription: 'O Mundial de Clubes 2025 vai impulsionar os Fan Tokens? Entenda como funcionam os tokens de times como Flamengo, Palmeiras, City e PSG.'
-  keywords: ['fan tokens vale a pena', 'chiliz criptomoeda', 'comprar token flamengo', 'mundial de clubes 2025', 'investir em futebol']
+  metaDescription: >-
+    O Mundial de Clubes 2025 vai impulsionar os Fan Tokens? Entenda como
+    funcionam os tokens de times como Flamengo, Palmeiras, City e PSG.
+  keywords:
+    - fan tokens vale a pena
+    - chiliz criptomoeda
+    - comprar token flamengo
+    - mundial de clubes 2025
+    - investir em futebol
 monetization:
-  priority: 'medium'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: medium
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: 2025-fifa-club-world-cup-fan-tokens-and-the-revolution-of-sports-engagement
+  es: mundial-de-clubes-2025-fan-tokens-y-la-revolucin-del-enganche-esportivo
 ---
 
 # Mundial de Clubes 2025: Fan Tokens e a Revolução do Engajamento Esportivo

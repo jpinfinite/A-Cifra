@@ -1,31 +1,38 @@
 ---
-id: 'erc-20-erc-721-erc-1155-diferencas'
+id: erc-20-erc-721-erc-1155-diferencas
 title: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155'
-slug: 'erc-20-erc-721-erc-1155-diferencas'
-excerpt: 'Guia completo sobre os principais padrões de tokens no Ethereum e suas diferenças.'
+slug: erc-20-erc-721-erc-1155-diferencas
+excerpt: >-
+  Guia completo sobre os principais padrões de tokens no Ethereum e suas
+  diferenças.
 coverImage:
-  src: '/images/022.jpg'
+  src: /images/022.jpg
   alt: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'erc-20'
-  - 'erc-721'
-  - 'nft'
-  - 'tokens'
+  - erc-20
+  - erc-721
+  - nft
+  - tokens
 seo:
   metaTitle: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155 | A Cifra'
-  metaDescription: 'Guia completo sobre os principais padrões de tokens no Ethereum e suas diferenças.'
+  metaDescription: >-
+    Guia completo sobre os principais padrões de tokens no Ethereum e suas
+    diferenças.
   keywords:
-    - 'erc-20'
-    - 'erc-721'
-    - 'nft'
-    - 'tokens'
+    - erc-20
+    - erc-721
+    - nft
+    - tokens
+alternateLanguages:
+  en: token-patterns-erc-20-erc-721-and-erc-1155
+  es: patrones-de-tokens-erc-20-erc-721-y-erc-1155
 ---
 
 Este guia completo explora **Padrões de Tokens** de forma detalhada e acessível.

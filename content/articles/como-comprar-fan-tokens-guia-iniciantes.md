@@ -1,27 +1,48 @@
 ---
-id: 'como-comprar-fan-tokens-guia-iniciantes-2025-12-05'
+id: como-comprar-fan-tokens-guia-iniciantes-2025-12-05
 title: 'Como Comprar Fan Tokens: Guia Passo a Passo para Iniciantes'
-slug: 'como-comprar-fan-tokens-guia-iniciantes'
-excerpt: 'Quer apoiar seu time e ainda investir? Aprenda como comprar Fan Tokens de forma segura e prática nas principais corretoras.'
+slug: como-comprar-fan-tokens-guia-iniciantes
+excerpt: >-
+  Quer apoiar seu time e ainda investir? Aprenda como comprar Fan Tokens de
+  forma segura e prática nas principais corretoras.
 coverImage:
-  src: '/images/educacao/2025-12/como-comprar-fan-tokens.webp'
-  alt: 'Smartphone exibindo aplicativo de compra de fan tokens com escudos de times de futebol ao fundo'
+  src: /images/educacao/2025-12/como-comprar-fan-tokens.webp
+  alt: >-
+    Smartphone exibindo aplicativo de compra de fan tokens com escudos de times
+    de futebol ao fundo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'educacao'
-tags: ['fan tokens', 'chiliz', 'socios.com', 'futebol', 'investimentos']
+categorySlug: educacao
+tags:
+  - fan tokens
+  - chiliz
+  - socios.com
+  - futebol
+  - investimentos
 seo:
   metaTitle: 'Como Comprar Fan Tokens: Tutorial Completo 2025 | A Cifra'
-  metaDescription: 'Guia passo a passo para comprar Fan Tokens do seu time de coração. Saiba onde comprar, taxas e como funcionam os tokens de torcedor.'
-  keywords: ['comprar fan token', 'fan token flamengo', 'fan token corinthians', 'socios.com como funciona', 'chiliz']
+  metaDescription: >-
+    Guia passo a passo para comprar Fan Tokens do seu time de coração. Saiba
+    onde comprar, taxas e como funcionam os tokens de torcedor.
+  keywords:
+    - comprar fan token
+    - fan token flamengo
+    - fan token corinthians
+    - socios.com como funciona
+    - chiliz
 monetization:
-  priority: 'medium'
-  affiliateLinks: ['bitget', 'binance']
+  priority: medium
+  affiliateLinks:
+    - bitget
+    - binance
+alternateLanguages:
+  en: how-to-buy-fan-tokens-step-by-step-guide-for-beginners
+  es: cmo-comprar-fan-tokens-gua-paso-a-paso-para-iniciantes
 ---
 
 # Como Comprar Fan Tokens: Guia Passo a Passo para Iniciantes

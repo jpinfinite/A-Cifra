@@ -1,24 +1,41 @@
 ---
-id: 'dao-organizacoes'
-slug: 'dao-organizacoes-autonomas-descentralizadas'
-title: "DAOs: Organizações Autônomas Descentralizadas"
-excerpt: "Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma nova forma de organização e governança descentralizada."
+id: dao-organizacoes
+slug: dao-organizacoes-autonomas-descentralizadas
+title: 'DAOs: Organizações Autônomas Descentralizadas'
+excerpt: >-
+  Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma
+  nova forma de organização e governança descentralizada.
 coverImage:
-  src: '/images/094.jpg'
+  src: /images/094.jpg
   alt: 'DAOs: Organizações Autônomas Descentralizadas'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "defi"
-tags: ["dao", "governança", "descentralização", "web3", "organizações"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: defi
+tags:
+  - dao
+  - governança
+  - descentralização
+  - web3
+  - organizações
 seo:
-  metaTitle: "DAOs: Organizações Autônomas Descentralizadas | A Cifra"
-  metaDescription: "Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma nova forma de organização e governança descentralizada."
-  keywords: ["dao", "governança", "descentralização", "web3", "organizações"]
+  metaTitle: 'DAOs: Organizações Autônomas Descentralizadas | A Cifra'
+  metaDescription: >-
+    Entenda o que são DAOs, como funcionam, casos de uso e por que representam
+    uma nova forma de organização e governança descentralizada.
+  keywords:
+    - dao
+    - governança
+    - descentralização
+    - web3
+    - organizações
+alternateLanguages:
+  en: decentralized-autonomous-organizations-daos
+  es: daos-organizaciones-autnomas-descentralizadas
 ---
 seo:
   metaTitle: "DAOs: Organizações Autônomas Descentralizadas | A Cifra"

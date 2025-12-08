@@ -1,31 +1,38 @@
 ---
-id: 'consensus-mechanisms-pow-pos-comparacao'
+id: consensus-mechanisms-pow-pos-comparacao
 title: 'Mecanismos de Consenso: PoW vs PoS Explicado'
-slug: 'consensus-mechanisms-pow-pos-comparacao'
-excerpt: 'Entenda as diferenças entre Proof of Work e Proof of Stake e suas implicações para blockchain.'
+slug: consensus-mechanisms-pow-pos-comparacao
+excerpt: >-
+  Entenda as diferenças entre Proof of Work e Proof of Stake e suas implicações
+  para blockchain.
 coverImage:
-  src: '/images/019.jpg'
+  src: /images/019.jpg
   alt: 'Mecanismos de Consenso: PoW vs PoS Explicado'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'consenso'
-  - 'pow'
-  - 'pos'
-  - 'blockchain'
+  - consenso
+  - pow
+  - pos
+  - blockchain
 seo:
   metaTitle: 'Mecanismos de Consenso: PoW vs PoS Explicado | A Cifra'
-  metaDescription: 'Entenda as diferenças entre Proof of Work e Proof of Stake e suas implicações para blockchain.'
+  metaDescription: >-
+    Entenda as diferenças entre Proof of Work e Proof of Stake e suas
+    implicações para blockchain.
   keywords:
-    - 'consenso'
-    - 'pow'
-    - 'pos'
-    - 'blockchain'
+    - consenso
+    - pow
+    - pos
+    - blockchain
+alternateLanguages:
+  en: mechanisms-of-consensus-pow-vs-pos-explained
+  es: mecanismos-de-consenso-pow-vs-pos-explicado
 ---
 
 Este guia completo explora **Mecanismos de Consenso** de forma detalhada e acessível.

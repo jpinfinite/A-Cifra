@@ -1,27 +1,50 @@
 ---
-id: 'aethir-lidera-revolucao-computacao-gpu-descentralizada-2025'
-title: 'Aethir Lidera Revolução da Computação GPU Descentralizada com US$ 147 Milhões em Receita'
-slug: 'aethir-lidera-revolucao-computacao-gpu-descentralizada'
-excerpt: 'Aethir se estabelece como líder em infraestrutura DePIN com 435.000 GPUs empresariais, US$ 147 milhões em receita anual e investimento de US$ 344 milhões.'
+id: aethir-lidera-revolucao-computacao-gpu-descentralizada-2025
+title: >-
+  Aethir Lidera Revolução da Computação GPU Descentralizada com US$ 147 Milhões
+  em Receita
+slug: aethir-lidera-revolucao-computacao-gpu-descentralizada
+excerpt: >-
+  Aethir se estabelece como líder em infraestrutura DePIN com 435.000 GPUs
+  empresariais, US$ 147 milhões em receita anual e investimento de US$ 344
+  milhões.
 coverImage:
-  src: '/images/aethir-gpu-depin-infrastructure.jpg'
-  alt: 'Rede descentralizada de GPUs da Aethir para computação em nuvem'
+  src: /images/aethir-gpu-depin-infrastructure.jpg
+  alt: Rede descentralizada de GPUs da Aethir para computação em nuvem
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-25'
 updatedAt: '2025-11-25'
-categorySlug: 'defi'
-tags: ['Aethir', 'DePIN', 'GPU', 'Inteligência Artificial', 'Computação em Nuvem', 'Web3']
-language: 'pt-BR'
+categorySlug: defi
+tags:
+  - Aethir
+  - DePIN
+  - GPU
+  - Inteligência Artificial
+  - Computação em Nuvem
+  - Web3
+language: pt-BR
 alternateLanguages:
-  en: 'aethir-leads-decentralized-gpu-computing-revolution'
+  en: >-
+    aethir-leads-decentralized-gpu-computing-revolution-with-147-million-in-revenue
+  es: >-
+    aethir-lidera-revolucin-de-la-computacin-gpu-descentralizada-con-us-147-millones-en-ingresos
 seo:
   metaTitle: 'Aethir: Revolução da Computação GPU Descentralizada | A Cifra'
-  metaDescription: 'Aethir lidera o setor DePIN com 435.000 GPUs, US$ 147 milhões em receita anual e infraestrutura para IA empresarial. Conheça a revolução da computação descentralizada.'
-  keywords: ['aethir', 'depin', 'gpu descentralizada', 'computação em nuvem', 'inteligência artificial', 'web3 infraestrutura']
+  metaDescription: >-
+    Aethir lidera o setor DePIN com 435.000 GPUs, US$ 147 milhões em receita
+    anual e infraestrutura para IA empresarial. Conheça a revolução da
+    computação descentralizada.
+  keywords:
+    - aethir
+    - depin
+    - gpu descentralizada
+    - computação em nuvem
+    - inteligência artificial
+    - web3 infraestrutura
 ---
 
 # Aethir Lidera Revolução da Computação GPU Descentralizada com US$ 147 Milhões em Receita

@@ -40,6 +40,9 @@ seo:
     - criptomoedas meme
     - investimento risco
 categorySlug: memecoin
+alternateLanguages:
+  en: memecoins-the-cultural-phenomenon-that-revolutionized-the-crypto-market
+  es: memecoins-el-fenmeno-cultural-que-revolucion-el-mercado-cripto
 ---
 
 As **memecoins** representam um dos fenômenos mais interessantes e controversos do universo cripto. Nascidas como piadas na internet, essas criptomoedas baseadas em memes se transformaram em um mercado de bilhões de dólares, criando milionários da noite para o dia e também causando perdas significativas para investidores desavisados.

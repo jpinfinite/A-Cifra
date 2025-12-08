@@ -1,27 +1,49 @@
 ---
-id: 'staking-ethereum-guia-renda-passiva-2026-2025-12-05'
+id: staking-ethereum-guia-renda-passiva-2026-2025-12-05
 title: 'Staking de Ethereum: Guia Completo para Ganhar Renda Passiva em 2026'
-slug: 'staking-ethereum-guia-renda-passiva-2026'
-excerpt: 'Ganhe até 4% ao ano em ETH sem fazer nada. Descubra as melhores plataformas de staking, compare rendimentos e aprenda o passo a passo para começar hoje.'
+slug: staking-ethereum-guia-renda-passiva-2026
+excerpt: >-
+  Ganhe até 4% ao ano em ETH sem fazer nada. Descubra as melhores plataformas de
+  staking, compare rendimentos e aprenda o passo a passo para começar hoje.
 coverImage:
-  src: '/images/educacao/2025-12/staking-ethereum-passivo.webp'
-  alt: 'Ilustração de moedas Ethereum sendo empilhadas automaticamente com gráfico de crescimento ao fundo'
+  src: /images/educacao/2025-12/staking-ethereum-passivo.webp
+  alt: >-
+    Ilustração de moedas Ethereum sendo empilhadas automaticamente com gráfico
+    de crescimento ao fundo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'educacao'
-tags: ['ethereum', 'staking', 'renda passiva', 'defi', 'eth 2.0']
+categorySlug: educacao
+tags:
+  - ethereum
+  - staking
+  - renda passiva
+  - defi
+  - eth 2.0
 seo:
   metaTitle: 'Staking Ethereum 2026: Guia para Renda Passiva com ETH | 4% ao Ano'
-  metaDescription: 'Tutorial completo de staking de Ethereum. Compare Lido, Rocket Pool e Binance. Aprenda a ganhar renda passiva com ETH em 2026 de forma segura.'
-  keywords: ['staking ethereum', 'como fazer staking eth', 'lido finance', 'rocket pool', 'renda passiva cripto']
+  metaDescription: >-
+    Tutorial completo de staking de Ethereum. Compare Lido, Rocket Pool e
+    Binance. Aprenda a ganhar renda passiva com ETH em 2026 de forma segura.
+  keywords:
+    - staking ethereum
+    - como fazer staking eth
+    - lido finance
+    - rocket pool
+    - renda passiva cripto
 monetization:
-  priority: 'high'
-  affiliateLinks: ['binance', 'coinbase', 'lido']
+  priority: high
+  affiliateLinks:
+    - binance
+    - coinbase
+    - lido
+alternateLanguages:
+  en: ethereum-staking-a-comprehensive-guide-to-earning-passive-income-in-2026
+  es: staking-de-ethereum-gua-completa-para-ganar-renta-pasiva-en-2026
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Guia Completo para Ganhar Renda Passiva em 2026

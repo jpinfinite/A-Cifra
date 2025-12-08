@@ -1,24 +1,47 @@
 ---
-id: 'declarar-imposto-renda-cripto-2025-guia'
-title: 'Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo'
-slug: 'declarar-imposto-renda-cripto-2025-guia'
-excerpt: 'Guia completo para declarar criptomoedas no IR 2025. Passo a passo, tabela de alíquotas, isenções, DeFi, staking e como evitar malha fina. Atualizado com novas regras.'
+id: declarar-imposto-renda-cripto-2025-guia
+title: >-
+  Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a
+  Passo
+slug: declarar-imposto-renda-cripto-2025-guia
+excerpt: >-
+  Guia completo para declarar criptomoedas no IR 2025. Passo a passo, tabela de
+  alíquotas, isenções, DeFi, staking e como evitar malha fina. Atualizado com
+  novas regras.
 coverImage:
-  src: '/images/declarar-cripto-ir-2025.jpg'
-  alt: 'Como declarar criptomoedas no imposto de renda 2025'
+  src: /images/declarar-cripto-ir-2025.jpg
+  alt: Como declarar criptomoedas no imposto de renda 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'regulacao'
-tags: ['imposto de renda', 'ir 2025', 'declaração cripto', 'receita federal', 'tributação']
+categorySlug: regulacao
+tags:
+  - imposto de renda
+  - ir 2025
+  - declaração cripto
+  - receita federal
+  - tributação
 seo:
   metaTitle: 'Como Declarar Criptomoedas no IR 2025: Guia Completo | A Cifra'
-  metaDescription: 'Guia completo e atualizado para declarar criptomoedas no Imposto de Renda 2025. Passo a passo, alíquotas, isenções, DeFi, staking e como evitar malha fina.'
-  keywords: ['declarar cripto ir 2025', 'imposto criptomoedas', 'receita federal cripto', 'ir bitcoin', 'tributação cripto']
+  metaDescription: >-
+    Guia completo e atualizado para declarar criptomoedas no Imposto de Renda
+    2025. Passo a passo, alíquotas, isenções, DeFi, staking e como evitar malha
+    fina.
+  keywords:
+    - declarar cripto ir 2025
+    - imposto criptomoedas
+    - receita federal cripto
+    - ir bitcoin
+    - tributação cripto
+alternateLanguages:
+  en: >-
+    how-to-declare-cryptocurrencies-in-the-2025-income-tax---complete-step-by-step-guide
+  es: >-
+    cmo-declarar-criptomonedas-en-el-impuesto-de-renta-2025---gua-completa-paso-a-paso
 ---
 
 # Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo

@@ -1,27 +1,42 @@
 ---
-id: 'bitcoin-sovereign-wealth-funds-2025-12-09'
+id: bitcoin-sovereign-wealth-funds-2025-12-09
 title: 'Países Comprando Bitcoin: A Nova Corrida do Ouro Digital'
-slug: 'bitcoin-sovereign-wealth-funds'
-excerpt: 'Análise completa sobre Bitcoin Sovereign Wealth Funds. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: bitcoin-sovereign-wealth-funds
+excerpt: >-
+  Análise completa sobre Bitcoin Sovereign Wealth Funds. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/bitcoin/2025-12/bitcoin-sovereign-wealth-funds.webp'
+  src: /images/bitcoin/2025-12/bitcoin-sovereign-wealth-funds.webp
   alt: 'Países Comprando Bitcoin: A Nova Corrida do Ouro Digital'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'bitcoin'
-tags: ["bitcoin", "tendencias-2026", "tecnologia"]
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Países Comprando Bitcoin: A Nova Corrida do Ouro Digital | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Bitcoin Sovereign Wealth Funds. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Bitcoin Sovereign Wealth Funds", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Bitcoin Sovereign Wealth Funds. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Bitcoin Sovereign Wealth Funds
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: countries-buying-bitcoin-the-new-digital-gold-rush
+  es: pases-que-compram-bitcoin-la-nueva-carrera-del-oro-digital
 ---
 
 # Países Comprando Bitcoin: A Nova Corrida do Ouro Digital

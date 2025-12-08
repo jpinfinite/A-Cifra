@@ -1,34 +1,41 @@
 ---
-id: 'aave-protocolo'
+id: aave-protocolo
 title: 'Aave: O Protocolo de Empréstimos DeFi Mais Popular'
-slug: 'aave-protocolo-emprestimo-defi'
-excerpt: 'Conheça o Aave, protocolo líder em empréstimos DeFi: como funciona, como emprestar e pegar emprestado, taxas e rendimentos.'
+slug: aave-protocolo-emprestimo-defi
+excerpt: >-
+  Conheça o Aave, protocolo líder em empréstimos DeFi: como funciona, como
+  emprestar e pegar emprestado, taxas e rendimentos.
 coverImage:
-  src: '/images/029.jpg'
-  alt: 'Aave - Protocolo DeFi'
+  src: /images/029.jpg
+  alt: Aave - Protocolo DeFi
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'aave'
-  - 'defi'
-  - 'empréstimos'
-  - 'lending'
-  - 'borrowing'
+  - aave
+  - defi
+  - empréstimos
+  - lending
+  - borrowing
 seo:
   metaTitle: 'Aave: Guia Completo do Protocolo de Empréstimos DeFi | A Cifra'
-  metaDescription: 'Tudo sobre Aave: como funciona, como emprestar cripto, pegar emprestado, flash loans e ganhar rendimentos passivos.'
+  metaDescription: >-
+    Tudo sobre Aave: como funciona, como emprestar cripto, pegar emprestado,
+    flash loans e ganhar rendimentos passivos.
   keywords:
-    - 'aave'
-    - 'aave protocol'
-    - 'empréstimos defi'
-    - 'lending cripto'
-    - 'flash loans'
+    - aave
+    - aave protocol
+    - empréstimos defi
+    - lending cripto
+    - flash loans
+alternateLanguages:
+  en: aave-the-most-popular-defi-lending-protocol
+  es: aave-el-protocolo-de-prstamos-defi-ms-popular
 ---
 
 O **Aave** é o maior protocolo de empréstimos descentralizados, permitindo emprestar e pegar emprestado criptomoedas sem intermediários.

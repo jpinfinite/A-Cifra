@@ -1,31 +1,34 @@
 ---
-id: 'dominancia-bitcoin-altseason-timing'
+id: dominancia-bitcoin-altseason-timing
 title: 'Dominância Bitcoin e Altseason: Timing de Mercado'
-slug: 'dominancia-bitcoin-altseason-timing'
-excerpt: 'Aprenda a usar dominância do Bitcoin para identificar altseasons.'
+slug: dominancia-bitcoin-altseason-timing
+excerpt: Aprenda a usar dominância do Bitcoin para identificar altseasons.
 coverImage:
-  src: '/images/bitcoin-dominance-chart-styled.jpg'
+  src: /images/bitcoin-dominance-chart-styled.jpg
   alt: 'Dominância Bitcoin e Altseason: Timing de Mercado'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'dominância'
-  - 'bitcoin'
-  - 'altseason'
-  - 'timing'
+  - dominância
+  - bitcoin
+  - altseason
+  - timing
 seo:
   metaTitle: 'Dominância Bitcoin e Altseason: Timing de Mercado | A Cifra'
-  metaDescription: 'Aprenda a usar dominância do Bitcoin para identificar altseasons.'
+  metaDescription: Aprenda a usar dominância do Bitcoin para identificar altseasons.
   keywords:
-    - 'dominância'
-    - 'bitcoin'
-    - 'altseason'
-    - 'timing'
+    - dominância
+    - bitcoin
+    - altseason
+    - timing
+alternateLanguages:
+  en: bitcoin-dominance-and-altseason-market-timing
+  es: dominancia-bitcoin-y-altseason-timing-de-mercado
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora dominância [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e altseason: timing de mercado.

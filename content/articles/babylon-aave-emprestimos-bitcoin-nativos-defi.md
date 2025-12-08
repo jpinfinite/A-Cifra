@@ -1,24 +1,43 @@
 ---
-id: 'babylon-aave-emprestimos-bitcoin-nativos-defi'
+id: babylon-aave-emprestimos-bitcoin-nativos-defi
 title: 'Babylon + Aave: Empréstimos Nativos com Bitcoin Chegam ao DeFi em 2025'
-slug: 'babylon-aave-emprestimos-bitcoin-nativos-defi'
-excerpt: 'Babylon e Aave se upara trazer empréstimos nativos com Bitcoin ao DeFi, sem necessidade de wrapped tokens. Entenda como funciona e o impacto desta integração revolucionária.'
+slug: babylon-aave-emprestimos-bitcoin-nativos-defi
+excerpt: >-
+  Babylon e Aave se upara trazer empréstimos nativos com Bitcoin ao DeFi, sem
+  necessidade de wrapped tokens. Entenda como funciona e o impacto desta
+  integração revolucionária.
 coverImage:
-  src: '/images/babylon-aave-bitcoin-lending-2025.jpg'
-  alt: 'Babylon e Aave trazem empréstimos nativos com Bitcoin ao DeFi'
+  src: /images/babylon-aave-bitcoin-lending-2025.jpg
+  alt: Babylon e Aave trazem empréstimos nativos com Bitcoin ao DeFi
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'defi'
-tags: ['babylon', 'aave', 'bitcoin', 'defi', 'empréstimos']
+categorySlug: defi
+tags:
+  - babylon
+  - aave
+  - bitcoin
+  - defi
+  - empréstimos
 seo:
   metaTitle: 'Babylon + Aave: Bitcoin Nativo no DeFi - Empréstimos Sem Wrapped | A Cifra'
-  metaDescription: 'Babylon e Aave lançam empréstimos nativos com Bitcoin, eliminando necessidade de WBTC. Descubra como funciona esta integração revolucionária no DeFi.'
-  keywords: ['babylon bitcoin', 'aave bitcoin', 'bitcoin defi', 'empréstimos bitcoin', 'bitcoin nativo']
+  metaDescription: >-
+    Babylon e Aave lançam empréstimos nativos com Bitcoin, eliminando
+    necessidade de WBTC. Descubra como funciona esta integração revolucionária
+    no DeFi.
+  keywords:
+    - babylon bitcoin
+    - aave bitcoin
+    - bitcoin defi
+    - empréstimos bitcoin
+    - bitcoin nativo
+alternateLanguages:
+  en: babylon-aave-native-loans-with-bitcoin-arrive-at-defi-in-2025
+  es: babylon-aave-prstamos-nativos-con-bitcoin-llegan-al-defi-en-2025
 ---
 
 **3 de dezembro de 2025** - Em uma das integrações mais aguardadas do [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), **Babylon** e **Aave** anunciaram parceria para trazer **empréstimos nativos com [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)** ao ecossistema de finanças descentralizadas. A solução elimina a necessidade de wrapped tokens (WBTC) e permite que holders de BTC emprestem e tomem emprestado diretamente, mantendo a custódia de seus ativos.

@@ -1,33 +1,41 @@
 ---
-id: 'melhores-exchanges-brasil-2025'
+id: melhores-exchanges-brasil-2025
 title: 'Melhores Exchanges de Criptomoedas no Brasil em 2025: Comparativo Completo'
-slug: 'melhores-exchanges-criptomoedas-brasil-2025'
-excerpt: 'Análise detalhada das 10 melhores exchanges para brasileiros: taxas, segurança, criptomoedas disponíveis e qual escolher para seu perfil.'
+slug: melhores-exchanges-criptomoedas-brasil-2025
+excerpt: >-
+  Análise detalhada das 10 melhores exchanges para brasileiros: taxas,
+  segurança, criptomoedas disponíveis e qual escolher para seu perfil.
 coverImage:
-  src: '/images/118.png'
-  alt: 'Melhores exchanges de criptomoedas no Brasil 2025'
+  src: /images/118.png
+  alt: Melhores exchanges de criptomoedas no Brasil 2025
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'exchanges'
-  - 'comparativo'
-  - 'brasil'
-  - 'iniciantes'
+  - exchanges
+  - comparativo
+  - brasil
+  - iniciantes
 seo:
-  metaTitle: 'Melhores Exchanges de Criptomoedas no Brasil 2025 | Comparativo'
-  metaDescription: 'Descubra as 10 melhores exchanges para comprar Bitcoin e criptomoedas no Brasil. Comparativo de taxas, segurança e funcionalidades. Guia atualizado 2025.'
+  metaTitle: Melhores Exchanges de Criptomoedas no Brasil 2025 | Comparativo
+  metaDescription: >-
+    Descubra as 10 melhores exchanges para comprar Bitcoin e criptomoedas no
+    Brasil. Comparativo de taxas, segurança e funcionalidades. Guia atualizado
+    2025.
   keywords:
-    - 'melhores exchanges brasil'
-    - 'comprar bitcoin brasil'
-    - 'exchange criptomoedas'
-    - 'mercado bitcoin'
-    - 'binance brasil'
+    - melhores exchanges brasil
+    - comprar bitcoin brasil
+    - exchange criptomoedas
+    - mercado bitcoin
+    - binance brasil
+alternateLanguages:
+  en: best-cryptocurrency-exchanges-in-brazil-in-2025-complete-comparison
+  es: mejores-exchanges-de-criptomonedas-en-brasil-en-2025-comparativo-completo
 ---
 
 # Melhores Exchanges de Criptomoedas no Brasil em 2025: Comparativo Completo

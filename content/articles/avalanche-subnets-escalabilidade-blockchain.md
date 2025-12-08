@@ -1,24 +1,43 @@
 ---
-id: 'avalanche-subnets'
-slug: 'avalanche-subnets-escalabilidade-blockchain'
-title: "Avalanche: Subnets e Escalabilidade Blockchain"
-excerpt: "Conheça o Avalanche, a blockchain de alta performance com subnets customizáveis e consenso inovador que processa milhares de transações por segundo."
+id: avalanche-subnets
+slug: avalanche-subnets-escalabilidade-blockchain
+title: 'Avalanche: Subnets e Escalabilidade Blockchain'
+excerpt: >-
+  Conheça o Avalanche, a blockchain de alta performance com subnets
+  customizáveis e consenso inovador que processa milhares de transações por
+  segundo.
 coverImage:
-  src: '/images/040.jpg'
+  src: /images/040.jpg
   alt: 'Avalanche: Subnets e Escalabilidade Blockchain'
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["avalanche", "avax", "subnets", "escalabilidade", "defi"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - avalanche
+  - avax
+  - subnets
+  - escalabilidade
+  - defi
 seo:
-  metaTitle: "Avalanche: Subnets e Escalabilidade Blockchain | A Cifra"
-  metaDescription: "Conheça o Avalanche, a blockchain de alta performance com subnets customizáveis e consenso inovador que processa milhares de transações por segundo."
-  keywords: ["avalanche", "avax", "subnets", "escalabilidade", "defi"]
+  metaTitle: 'Avalanche: Subnets e Escalabilidade Blockchain | A Cifra'
+  metaDescription: >-
+    Conheça o Avalanche, a blockchain de alta performance com subnets
+    customizáveis e consenso inovador que processa milhares de transações por
+    segundo.
+  keywords:
+    - avalanche
+    - avax
+    - subnets
+    - escalabilidade
+    - defi
+alternateLanguages:
+  en: avalanche-subnets-and-blockchain-scalability
+  es: avalanche-subredes-y-escalabilidad-blockchain
 ---
 seo:
   metaTitle: "Avalanche: Subnets e Escalabilidade Blockchain | A Cifra"

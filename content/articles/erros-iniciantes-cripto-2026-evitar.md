@@ -1,27 +1,47 @@
 ---
-id: 'erros-iniciantes-cripto-2026-evitar-2025-12-09'
-title: '10 Erros Mortais de Iniciantes em Cripto (E Como Evitá-los em 2026)'
-slug: 'erros-iniciantes-cripto-2026-evitar'
-excerpt: 'Aprenda com os erros dos outros, não com os seus. Os 10 erros mais caros que iniciantes cometem em criptomoedas e como evitá-los para proteger seu patrimônio.'
+id: erros-iniciantes-cripto-2026-evitar-2025-12-09
+title: 10 Erros Mortais de Iniciantes em Cripto (E Como Evitá-los em 2026)
+slug: erros-iniciantes-cripto-2026-evitar
+excerpt: >-
+  Aprenda com os erros dos outros, não com os seus. Os 10 erros mais caros que
+  iniciantes cometem em criptomoedas e como evitá-los para proteger seu
+  patrimônio.
 coverImage:
-  src: '/images/educacao/2025-12/erros-cripto-iniciantes.webp'
-  alt: 'Ilustração conceitual de armadilhas e erros comuns em criptomoedas'
+  src: /images/educacao/2025-12/erros-cripto-iniciantes.webp
+  alt: Ilustração conceitual de armadilhas e erros comuns em criptomoedas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'educacao'
-tags: ['iniciantes', 'educacao', 'seguranca', 'erros comuns', 'guia']
+categorySlug: educacao
+tags:
+  - iniciantes
+  - educacao
+  - seguranca
+  - erros comuns
+  - guia
 seo:
-  metaTitle: '10 Erros Mortais em Cripto para Iniciantes Evitarem | A Cifra'
-  metaDescription: 'Não perca dinheiro com erros bobos! Lista completa dos 10 erros mais comuns (e caros) que iniciantes cometem em criptomoedas e como evitá-los.'
-  keywords: ['erros cripto', 'iniciantes criptomoedas', 'como não perder dinheiro cripto', 'golpes cripto', 'seguranca bitcoin']
+  metaTitle: 10 Erros Mortais em Cripto para Iniciantes Evitarem | A Cifra
+  metaDescription: >-
+    Não perca dinheiro com erros bobos! Lista completa dos 10 erros mais comuns
+    (e caros) que iniciantes cometem em criptomoedas e como evitá-los.
+  keywords:
+    - erros cripto
+    - iniciantes criptomoedas
+    - como não perder dinheiro cripto
+    - golpes cripto
+    - seguranca bitcoin
 monetization:
-  priority: 'medium'
-  affiliateLinks: ['ledger', 'binance']
+  priority: medium
+  affiliateLinks:
+    - ledger
+    - binance
+alternateLanguages:
+  en: 10-deadly-mistakes-of-crypto-beginners-and-how-to-avoid-them-in-2026
+  es: 10-errores-mortales-de-iniciantes-en-criptomoneda-y-cmo-evitarlos-en-2026
 ---
 
 # 10 Erros Mortais de Iniciantes em Cripto (E Como Evitá-los em 2026)

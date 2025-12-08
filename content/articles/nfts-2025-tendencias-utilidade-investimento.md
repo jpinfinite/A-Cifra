@@ -1,24 +1,42 @@
 ---
-id: 'nfts-2025-tendencias-utilidade-investimento'
+id: nfts-2025-tendencias-utilidade-investimento
 title: 'NFTs em 2025: Tendências, Utilidade Real e Como Investir com Inteligência'
-slug: 'nfts-2025-tendencias-utilidade-investimento'
-excerpt: 'NFTs evoluíram além de arte digital. Descubra tendências 2025: gaming, RWAs, utilidade real, melhores projetos e como investir em NFTs com estratégia.'
+slug: nfts-2025-tendencias-utilidade-investimento
+excerpt: >-
+  NFTs evoluíram além de arte digital. Descubra tendências 2025: gaming, RWAs,
+  utilidade real, melhores projetos e como investir em NFTs com estratégia.
 coverImage:
-  src: '/images/nfts-2025-tendencias.jpg'
-  alt: 'NFTs 2025 tendências e utilidade real'
+  src: /images/nfts-2025-tendencias.jpg
+  alt: NFTs 2025 tendências e utilidade real
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'nfts'
-tags: ['nfts', 'tokens não fungíveis', 'gaming', 'metaverso', 'arte digital', 'investimento']
+categorySlug: nfts
+tags:
+  - nfts
+  - tokens não fungíveis
+  - gaming
+  - metaverso
+  - arte digital
+  - investimento
 seo:
   metaTitle: 'NFTs em 2025: Tendências, Utilidade e Investimento | A Cifra'
-  metaDescription: 'Guia completo de NFTs 2025: tendências (gaming, RWAs, utilidade), melhores projetos, como investir e evitar golpes. NFTs além da especulação.'
-  keywords: ['nfts 2025', 'investir nfts', 'nft gaming', 'nft utilidade', 'melhores nfts']
+  metaDescription: >-
+    Guia completo de NFTs 2025: tendências (gaming, RWAs, utilidade), melhores
+    projetos, como investir e evitar golpes. NFTs além da especulação.
+  keywords:
+    - nfts 2025
+    - investir nfts
+    - nft gaming
+    - nft utilidade
+    - melhores nfts
+alternateLanguages:
+  en: nfts-in-2025-trends-real-utility-and-how-to-invest-with-intelligence
+  es: nfts-en-2025-tendencias-utilidad-real-y-cmo-invertir-con-inteligencia
 ---
 
 # NFTs em 2025: Tendências, Utilidade Real e Como Investir com Inteligência

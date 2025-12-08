@@ -1,31 +1,38 @@
 ---
-id: 'smart-contract-audits-importancia'
+id: smart-contract-audits-importancia
 title: 'Auditorias de Smart Contracts: Por Que São Essenciais'
-slug: 'smart-contract-audits-importancia'
-excerpt: 'Entenda a importância de auditorias de segurança em smart contracts e como funcionam.'
+slug: smart-contract-audits-importancia
+excerpt: >-
+  Entenda a importância de auditorias de segurança em smart contracts e como
+  funcionam.
 coverImage:
-  src: '/images/048.jpg'
+  src: /images/048.jpg
   alt: 'Auditorias de Smart Contracts: Por Que São Essenciais'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'auditoria'
-  - 'smart contracts'
-  - 'segurança'
-  - 'defi'
+  - auditoria
+  - smart contracts
+  - segurança
+  - defi
 seo:
   metaTitle: 'Auditorias de Smart Contracts: Por Que São Essenciais | A Cifra'
-  metaDescription: 'Entenda a importância de auditorias de segurança em smart contracts e como funcionam.'
+  metaDescription: >-
+    Entenda a importância de auditorias de segurança em smart contracts e como
+    funcionam.
   keywords:
-    - 'auditoria'
-    - 'smart contracts'
-    - 'segurança'
-    - 'defi'
+    - auditoria
+    - smart contracts
+    - segurança
+    - defi
+alternateLanguages:
+  en: smart-contract-audits-why-they-are-essential
+  es: auditoras-de-contratos-inteligentes-por-qu-son-esenciales
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda auditorias de smart contracts: por que são essenciais.

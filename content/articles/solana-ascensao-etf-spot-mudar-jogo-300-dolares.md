@@ -42,6 +42,9 @@ seo:
     - investir solana
     - previsão sol
 categorySlug: analises
+alternateLanguages:
+  en: solana-on-the-rise-how-spot-etf-approval-could-change-the-game
+  es: solana-en-ascensin-cmo-la-aprobacin-del-etf-spot-puede-cambiar-el-juego
 ---
 
 A **aprovação do ETF Spot de Solana** representa um marco histórico que pode ser o combustível necessário para impulsionar esta criptomoeda de alta performance a novas alturas. Neste artigo, vamos mergulhar profundamente na análise do impacto dessa aprovação no preço da Solana e explorar se o valor pode realmente decolar para os ambiciosos US$ 300.

@@ -1,24 +1,51 @@
 ---
-id: 'seguranca-criptomoedas-guia-completo-protecao'
-title: 'Segurança em Criptomoedas: Guia Completo 2025 - Como Proteger Seus Ativos de Hacks e Golpes'
-slug: 'seguranca-criptomoedas-guia-completo-protecao'
-excerpt: 'Guia definitivo de segurança cripto: hardware wallets, 2FA, phishing, golpes comuns, melhores práticas e como proteger seus Bitcoin, Ethereum e altcoins em 2025.'
+id: seguranca-criptomoedas-guia-completo-protecao
+title: >-
+  Segurança em Criptomoedas: Guia Completo 2025 - Como Proteger Seus Ativos de
+  Hacks e Golpes
+slug: seguranca-criptomoedas-guia-completo-protecao
+excerpt: >-
+  Guia definitivo de segurança cripto: hardware wallets, 2FA, phishing, golpes
+  comuns, melhores práticas e como proteger seus Bitcoin, Ethereum e altcoins em
+  2025.
 coverImage:
-  src: '/images/seguranca-cripto-guia-2025.jpg'
-  alt: 'Segurança em criptomoedas guia completo 2025'
+  src: /images/seguranca-cripto-guia-2025.jpg
+  alt: Segurança em criptomoedas guia completo 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'seguranca'
-tags: ['segurança', 'hardware wallet', 'cold wallet', 'phishing', 'golpes', 'proteção']
+categorySlug: seguranca
+tags:
+  - segurança
+  - hardware wallet
+  - cold wallet
+  - phishing
+  - golpes
+  - proteção
 seo:
-  metaTitle: 'Segurança em Criptomoedas: Guia Completo 2025 | Proteja Seus Ativos | A Cifra'
-  metaDescription: 'Guia completo de segurança cripto: hardware wallets, 2FA, como evitar phishing, golpes comuns e melhores práticas para proteger Bitcoin e altcoins em 2025.'
-  keywords: ['segurança cripto', 'hardware wallet', 'proteger bitcoin', 'golpes cripto', 'phishing', 'cold wallet']
+  metaTitle: >-
+    Segurança em Criptomoedas: Guia Completo 2025 | Proteja Seus Ativos | A
+    Cifra
+  metaDescription: >-
+    Guia completo de segurança cripto: hardware wallets, 2FA, como evitar
+    phishing, golpes comuns e melhores práticas para proteger Bitcoin e altcoins
+    em 2025.
+  keywords:
+    - segurança cripto
+    - hardware wallet
+    - proteger bitcoin
+    - golpes cripto
+    - phishing
+    - cold wallet
+alternateLanguages:
+  en: >-
+    cryptocurrency-security-complete-guide-2025---how-to-protect-your-assets-from-hacks-and-scams
+  es: >-
+    seguridad-en-criptomonedas-gua-completa-2025---cmo-proteger-sus-activos-de-hacks-y-estafas
 ---
 
 # Segurança em Criptomoedas: Guia Completo 2025 - Como Proteger Seus Ativos de Hacks e Golpes

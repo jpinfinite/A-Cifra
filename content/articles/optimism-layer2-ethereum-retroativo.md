@@ -1,31 +1,38 @@
 ---
-id: 'optimism-layer2-ethereum-retroativo'
+id: optimism-layer2-ethereum-retroativo
 title: 'Optimism: Layer 2 do Ethereum com Financiamento Retroativo'
-slug: 'optimism-layer2-ethereum-retroativo'
-excerpt: 'Conheça Optimism, a solução Layer 2 que está revolucionando o financiamento de bens públicos com RetroPGF.'
+slug: optimism-layer2-ethereum-retroativo
+excerpt: >-
+  Conheça Optimism, a solução Layer 2 que está revolucionando o financiamento de
+  bens públicos com RetroPGF.
 coverImage:
-  src: '/images/010.jpg'
+  src: /images/010.jpg
   alt: 'Optimism: Layer 2 do Ethereum com Financiamento Retroativo'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'ethereum'
+categorySlug: ethereum
 tags:
-  - 'optimism'
-  - 'layer 2'
-  - 'ethereum'
-  - 'retropgf'
+  - optimism
+  - layer 2
+  - ethereum
+  - retropgf
 seo:
   metaTitle: 'Optimism: Layer 2 do Ethereum com Financiamento Retroativo | A Cifra'
-  metaDescription: 'Conheça Optimism, a solução Layer 2 que está revolucionando o financiamento de bens públicos com RetroPGF.'
+  metaDescription: >-
+    Conheça Optimism, a solução Layer 2 que está revolucionando o financiamento
+    de bens públicos com RetroPGF.
   keywords:
-    - 'optimism'
-    - 'layer 2'
-    - 'ethereum'
-    - 'retropgf'
+    - optimism
+    - layer 2
+    - ethereum
+    - retropgf
+alternateLanguages:
+  en: optimism-layer-2-of-ethereum-with-retroactive-funding
+  es: optimismo-capa-2-de-ethereum-con-financiacin-retroactiva
 ---
 
 **Optimism** é uma solução Layer 2 para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) que combina escalabilidade técnica com inovação em financiamento de bens públicos.

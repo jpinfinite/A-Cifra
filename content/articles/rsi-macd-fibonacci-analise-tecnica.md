@@ -1,31 +1,34 @@
-﻿---
-id: 'rsi-macd-fibonacci-analise-tecnica'
+---
+id: rsi-macd-fibonacci-analise-tecnica
 title: 'RSI, MACD e Fibonacci: Ferramentas de Análise Técnica'
-slug: 'rsi-macd-fibonacci-analise-tecnica'
+slug: rsi-macd-fibonacci-analise-tecnica
 excerpt: 'Aprenda a usar RSI, MACD e Fibonacci para análise técnica em cripto.'
 coverImage:
-  src: '/images/086.jpg'
+  src: /images/086.jpg
   alt: 'RSI, MACD e Fibonacci: Ferramentas de Análise Técnica'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'rsi'
-  - 'macd'
-  - 'fibonacci'
-  - 'análise técnica'
+  - rsi
+  - macd
+  - fibonacci
+  - análise técnica
 seo:
   metaTitle: 'RSI, MACD e Fibonacci: Ferramentas de Análise Técnica | A Cifra'
   metaDescription: 'Aprenda a usar RSI, MACD e Fibonacci para análise técnica em cripto.'
   keywords:
-    - 'rsi'
-    - 'macd'
-    - 'fibonacci'
-    - 'análise técnica'
+    - rsi
+    - macd
+    - fibonacci
+    - análise técnica
+alternateLanguages:
+  en: rsi-macd-and-fibonacci-technical-analysis-tools
+  es: rsi-macd-y-fibonacci-herramientas-de-anlisis-tcnico
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora rsi, macd e fibonacci: ferramentas de análise técnica.

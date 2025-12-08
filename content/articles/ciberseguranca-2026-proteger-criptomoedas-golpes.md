@@ -1,27 +1,50 @@
 ---
-id: 'ciberseguranca-2026-proteger-criptomoedas-golpes-2025-12-05'
+id: ciberseguranca-2026-proteger-criptomoedas-golpes-2025-12-05
 title: 'Cibersegurança em 2026: Como Proteger suas Criptomoedas de Novos Golpes'
-slug: 'ciberseguranca-2026-proteger-criptomoedas-golpes'
-excerpt: 'Em 2026, os hackers estão usando IA para criar golpes perfeitos. Aprenda as técnicas avançadas de defesa para blindar seu patrimônio digital.'
+slug: ciberseguranca-2026-proteger-criptomoedas-golpes
+excerpt: >-
+  Em 2026, os hackers estão usando IA para criar golpes perfeitos. Aprenda as
+  técnicas avançadas de defesa para blindar seu patrimônio digital.
 coverImage:
-  src: '/images/seguranca/2025-12/ciberseguranca-crypto.webp'
-  alt: 'Escudo digital brilhante protegendo moedas virtuais contra ataques cibernéticos em um fundo escuro estilo Matrix'
+  src: /images/seguranca/2025-12/ciberseguranca-crypto.webp
+  alt: >-
+    Escudo digital brilhante protegendo moedas virtuais contra ataques
+    cibernéticos em um fundo escuro estilo Matrix
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'seguranca'
-tags: ['seguranca', 'golpes', 'phishing', 'carteira hardware', 'ciberseguranca', 'autenticacao']
+categorySlug: seguranca
+tags:
+  - seguranca
+  - golpes
+  - phishing
+  - carteira hardware
+  - ciberseguranca
+  - autenticacao
 seo:
   metaTitle: 'Cibersegurança Cripto 2026: Proteja-se de Golpes com IA | A Cifra'
-  metaDescription: 'Guia de sobrevivência digital para 2026. Como identificar Deepfakes, Phishing com IA e proteger suas criptomoedas com segurança militar.'
-  keywords: ['golpes cripto 2026', 'seguranca bitcoin', 'como proteger metamask', 'deepfake golpe', 'ledger vs trezor']
+  metaDescription: >-
+    Guia de sobrevivência digital para 2026. Como identificar Deepfakes,
+    Phishing com IA e proteger suas criptomoedas com segurança militar.
+  keywords:
+    - golpes cripto 2026
+    - seguranca bitcoin
+    - como proteger metamask
+    - deepfake golpe
+    - ledger vs trezor
 monetization:
-  priority: 'high'
-  affiliateLinks: ['bitget', 'binance', 'coinbase']
+  priority: high
+  affiliateLinks:
+    - bitget
+    - binance
+    - coinbase
+alternateLanguages:
+  en: cybersecurity-in-2026-how-to-protect-your-cryptocurrencies-from-new-scams
+  es: ciberseguridad-en-2026-cmo-proteger-sus-criptomonedas-de-nuevos-golpes
 ---
 
 # Cibersegurança em 2026: Como Proteger suas Criptomoedas de Novos Golpes

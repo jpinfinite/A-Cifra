@@ -1,27 +1,44 @@
 ---
-id: 'bitcoin-indice-sharpe-zero-oportunidade-compra-2025'
+id: bitcoin-indice-sharpe-zero-oportunidade-compra-2025
 title: 'Índice de Sharpe do Bitcoin em Zero: Oportunidade de Compra ou Armadilha?'
-slug: 'bitcoin-indice-sharpe-zero-oportunidade-compra'
-excerpt: 'O índice de Sharpe do Bitcoin caiu para níveis historicamente associados a fundos de mercado. Entenda o que isso significa para investidores e se é hora de comprar BTC.'
+slug: bitcoin-indice-sharpe-zero-oportunidade-compra
+excerpt: >-
+  O índice de Sharpe do Bitcoin caiu para níveis historicamente associados a
+  fundos de mercado. Entenda o que isso significa para investidores e se é hora
+  de comprar BTC.
 coverImage:
-  src: '/images/bitcoin-sharpe-ratio-analysis.jpg'
-  alt: 'Gráfico mostrando o índice de Sharpe do Bitcoin em níveis baixos'
+  src: /images/bitcoin-sharpe-ratio-analysis.jpg
+  alt: Gráfico mostrando o índice de Sharpe do Bitcoin em níveis baixos
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-25'
 updatedAt: '2025-11-25'
-categorySlug: 'analises'
-tags: ['Bitcoin', 'Análise Técnica', 'Índice de Sharpe', 'Investimento', 'Smart Money']
-language: 'pt-BR'
+categorySlug: analises
+tags:
+  - Bitcoin
+  - Análise Técnica
+  - Índice de Sharpe
+  - Investimento
+  - Smart Money
+language: pt-BR
 alternateLanguages:
-  en: 'bitcoin-sharpe-ratio-zero-buying-opportunity'
+  en: bitcoin-sharpe-ratio-at-zero-buying-opportunity-or-trap
+  es: ndice-de-sharpe-del-bitcoin-en-cero-oportunidad-de-compra-o-trampa
 seo:
   metaTitle: 'Índice de Sharpe do Bitcoin em Zero: Oportunidade de Compra? | A Cifra'
-  metaDescription: 'O índice de Sharpe do Bitcoin atingiu níveis historicamente associados a fundos de mercado. Análise completa sobre o que isso significa para investidores.'
-  keywords: ['índice de sharpe bitcoin', 'bitcoin análise técnica', 'comprar bitcoin', 'smart money bitcoin', 'bitcoin 2025']
+  metaDescription: >-
+    O índice de Sharpe do Bitcoin atingiu níveis historicamente associados a
+    fundos de mercado. Análise completa sobre o que isso significa para
+    investidores.
+  keywords:
+    - índice de sharpe bitcoin
+    - bitcoin análise técnica
+    - comprar bitcoin
+    - smart money bitcoin
+    - bitcoin 2025
 ---
 
 # Índice de Sharpe do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em Zero: Oportunidade de Compra ou Armadilha?

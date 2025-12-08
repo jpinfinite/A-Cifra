@@ -48,6 +48,11 @@ seo:
     - investir gamefi
     - jogos criptomoedas
 categorySlug: seguranca
+alternateLanguages:
+  en: >-
+    revolutionizing-the-gaming-industry-the-power-of-gamefi-and-how-to-invest-safely
+  es: >-
+    revolucionando-la-industria-de-juegos-el-poder-de-gamefi-y-cmo-invertir-con-seguridad
 ---
 
 A **GameFi** está revolucionando a indústria de jogos de forma sem precedentes, combinando jogos com finanças descentralizadas (DeFi) e tecnologias de blockchain. Esta inovação permite que os jogadores ganhem recompensas reais em criptomoedas e NFTs por jogar, criando um novo modelo de negócios sustentável e verdadeiramente justo.

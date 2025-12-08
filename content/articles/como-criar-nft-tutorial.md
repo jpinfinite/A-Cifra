@@ -1,34 +1,41 @@
 ---
-id: 'criar-nft-tutorial'
+id: criar-nft-tutorial
 title: 'Como Criar e Vender Seu Primeiro NFT: Guia Completo'
-slug: 'como-criar-nft-tutorial'
-excerpt: 'Tutorial passo a passo para criar, mintar e vender seu primeiro NFT no OpenSea: da criação da arte até a primeira venda.'
+slug: como-criar-nft-tutorial
+excerpt: >-
+  Tutorial passo a passo para criar, mintar e vender seu primeiro NFT no
+  OpenSea: da criação da arte até a primeira venda.
 coverImage:
-  src: '/images/143.jpg'
-  alt: 'Como criar NFT - Tutorial completo'
+  src: /images/143.jpg
+  alt: Como criar NFT - Tutorial completo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'tutoriais'
+categorySlug: tutoriais
 tags:
-  - 'nft'
-  - 'opensea'
-  - 'criar nft'
-  - 'tutorial'
-  - 'arte digital'
+  - nft
+  - opensea
+  - criar nft
+  - tutorial
+  - arte digital
 seo:
   metaTitle: 'Como Criar e Vender NFT: Tutorial Completo OpenSea | A Cifra'
-  metaDescription: 'Guia passo a passo para criar seu primeiro NFT: preparar arte, mintar no OpenSea, definir preço e vender sua arte digital.'
+  metaDescription: >-
+    Guia passo a passo para criar seu primeiro NFT: preparar arte, mintar no
+    OpenSea, definir preço e vender sua arte digital.
   keywords:
-    - 'como criar nft'
-    - 'criar nft opensea'
-    - 'vender nft'
-    - 'mintar nft'
-    - 'tutorial nft'
+    - como criar nft
+    - criar nft opensea
+    - vender nft
+    - mintar nft
+    - tutorial nft
+alternateLanguages:
+  en: how-to-create-and-sell-your-first-nft-the-complete-guide
+  es: cmo-crear-y-vender-tu-primer-nft-gua-completa
 ---
 
 Criar e vender **NFTs** está mais fácil do que nunca. Este guia mostra o processo completo no OpenSea.

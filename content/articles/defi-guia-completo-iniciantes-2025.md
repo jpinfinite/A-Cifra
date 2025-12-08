@@ -1,24 +1,47 @@
 ---
-id: 'defi-guiaompleto-iniciantes-2025'
-title: 'DeFi: Guia Completo para Iniciantes 2025 - Como Ganhar Renda Passiva com Criptomoedas'
-slug: 'defi-guia-completo-iniciantes-2025'
-excerpt: 'Aprenda DeFi do zero: staking, yield farming, lending e protocolos principais. Guia completo 2025 com estratégias práticas para gerar renda passiva com criptomoedas.'
+id: defi-guiaompleto-iniciantes-2025
+title: >-
+  DeFi: Guia Completo para Iniciantes 2025 - Como Ganhar Renda Passiva com
+  Criptomoedas
+slug: defi-guia-completo-iniciantes-2025
+excerpt: >-
+  Aprenda DeFi do zero: staking, yield farming, lending e protocolos principais.
+  Guia completo 2025 com estratégias práticas para gerar renda passiva com
+  criptomoedas.
 coverImage:
-  src: '/images/defi-guia-completo-2025.jpg'
-  alt: 'DeFi guia completo para iniciantes 2025'
+  src: /images/defi-guia-completo-2025.jpg
+  alt: DeFi guia completo para iniciantes 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'defi'
-tags: ['defi', 'finanças descentralizadas', 'yield farming', 'staking', 'renda passiva']
+categorySlug: defi
+tags:
+  - defi
+  - finanças descentralizadas
+  - yield farming
+  - staking
+  - renda passiva
 seo:
   metaTitle: 'DeFi: Guia Completo para Iniciantes 2025 | Renda Passiva | A Cifra'
-  metaDescription: 'Guia completo de DeFi para iniciantes: staking, yield farming, lending, protocolos principais. Aprenda a gerar renda passiva com criptomoedas em 2025.'
-  keywords: ['defi', 'finanças descentralizadas', 'yield farming', 'staking', 'renda passiva cripto']
+  metaDescription: >-
+    Guia completo de DeFi para iniciantes: staking, yield farming, lending,
+    protocolos principais. Aprenda a gerar renda passiva com criptomoedas em
+    2025.
+  keywords:
+    - defi
+    - finanças descentralizadas
+    - yield farming
+    - staking
+    - renda passiva cripto
+alternateLanguages:
+  en: >-
+    defi-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies
+  es: >-
+    defi-gua-completa-para-principiantes-2025---cmo-ganar-renta-pasiva-con-criptomonedas
 ---
 
 # [defi](/artigo/defi-yield-farming-protocolos-seguros-2026): Guia Completo para Iniciantes 2025 - Como Ganhar Renda Passiva com Criptomoedas

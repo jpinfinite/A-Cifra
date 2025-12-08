@@ -1,24 +1,51 @@
 ---
-id: 'bitcoin-fundo-80k-analise-capitulacao-2025'
-title: 'Bitcoin em US$ 80.000: Por Que Este Pode Ser o Fundo Definitivo do Ciclo (91% de Probabilidade)'
-slug: 'bitcoin-fundo-80k-analise-capitulacao-2025'
-excerpt: 'Análise técnica revela 91% de probabilidade de que Bitcoin não cairá abaixo de US$ 80.000. Descubra os sinais que indicam o fim da correção e o início da próxima alta.'
+id: bitcoin-fundo-80k-analise-capitulacao-2025
+title: >-
+  Bitcoin em US$ 80.000: Por Que Este Pode Ser o Fundo Definitivo do Ciclo (91%
+  de Probabilidade)
+slug: bitcoin-fundo-80k-analise-capitulacao-2025
+excerpt: >-
+  Análise técnica revela 91% de probabilidade de que Bitcoin não cairá abaixo de
+  US$ 80.000. Descubra os sinais que indicam o fim da correção e o início da
+  próxima alta.
 coverImage:
-  src: '/images/220.jpg'
-  alt: 'Bitcoin análise técnica US$ 80.000 fundo do ciclo'
+  src: /images/220.jpg
+  alt: Bitcoin análise técnica US$ 80.000 fundo do ciclo
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-24'
 updatedAt: '2025-11-24'
-categorySlug: 'analises'
-tags: ['bitcoin', 'análise técnica', 'trading', 'ciclo de mercado', 'capitulação']
+categorySlug: analises
+tags:
+  - bitcoin
+  - análise técnica
+  - trading
+  - ciclo de mercado
+  - capitulação
 seo:
-  metaTitle: 'Bitcoin US$ 80.000: Fundo Definitivo do Ciclo? Análise Completa 2025 | A Cifra'
-  metaDescription: 'Análise técnica indica 91% de probabilidade de que Bitcoin não cairá abaixo de US$ 80.000. Veja os dados que confirmam o fundo do ciclo e próximos alvos.'
-  keywords: ['bitcoin preço', 'bitcoin análise', 'bitcoin fundo', 'bitcoin 80000', 'análise técnica bitcoin', 'ciclo bitcoin', 'capitulação bitcoin']
+  metaTitle: >-
+    Bitcoin US$ 80.000: Fundo Definitivo do Ciclo? Análise Completa 2025 | A
+    Cifra
+  metaDescription: >-
+    Análise técnica indica 91% de probabilidade de que Bitcoin não cairá abaixo
+    de US$ 80.000. Veja os dados que confirmam o fundo do ciclo e próximos
+    alvos.
+  keywords:
+    - bitcoin preço
+    - bitcoin análise
+    - bitcoin fundo
+    - bitcoin 80000
+    - análise técnica bitcoin
+    - ciclo bitcoin
+    - capitulação bitcoin
+alternateLanguages:
+  en: >-
+    bitcoin-at-80000-why-this-could-be-the-final-fund-of-the-cycle-91-probability
+  es: >-
+    bitcoin-en-us-80000-por-qu-esto-podra-ser-el-fondo-definitivo-del-ciclo-91-de-probabilidad
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em US$ 80.000: Por Que Este Pode Ser o Fundo Definitivo do Ciclo (91% de Probabilidade)

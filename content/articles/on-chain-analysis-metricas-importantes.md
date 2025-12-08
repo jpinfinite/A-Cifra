@@ -1,31 +1,34 @@
-﻿---
-id: 'on-chain-analysis-metricas-importantes'
+---
+id: on-chain-analysis-metricas-importantes
 title: 'Análise On-Chain: Métricas Importantes para Investidores'
-slug: 'on-chain-analysis-metricas-importantes'
-excerpt: 'Descubra as principais métricas on-chain para análise de criptomoedas.'
+slug: on-chain-analysis-metricas-importantes
+excerpt: Descubra as principais métricas on-chain para análise de criptomoedas.
 coverImage:
-  src: '/images/crypto-market-analysis-new-styled.jpg'
+  src: /images/crypto-market-analysis-new-styled.jpg
   alt: 'Análise On-Chain: Métricas Importantes para Investidores'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'on-chain'
-  - 'métricas'
-  - 'análise'
-  - 'blockchain'
+  - on-chain
+  - métricas
+  - análise
+  - blockchain
 seo:
   metaTitle: 'Análise On-Chain: Métricas Importantes para Investidores | A Cifra'
-  metaDescription: 'Descubra as principais métricas on-chain para análise de criptomoedas.'
+  metaDescription: Descubra as principais métricas on-chain para análise de criptomoedas.
   keywords:
-    - 'on-chain'
-    - 'métricas'
-    - 'análise'
-    - 'blockchain'
+    - on-chain
+    - métricas
+    - análise
+    - blockchain
+alternateLanguages:
+  en: on-chain-analysis-key-metrics-for-investors
+  es: anlisis-en-chain-mtricas-importantes-para-inversores
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora análise on-chain: métricas importantes para investidores.

@@ -1,24 +1,41 @@
 ---
-id: 'polygon-zkevm'
-slug: 'polygon-zkevm-ethereum-escalabilidade'
-title: "Polygon: zkEVM e Escalabilidade para Ethereum"
-excerpt: "Descubra como o Polygon está revolucionando a escalabilidade do Ethereum com zkEVM, sidechains e o token MATIC."
+id: polygon-zkevm
+slug: polygon-zkevm-ethereum-escalabilidade
+title: 'Polygon: zkEVM e Escalabilidade para Ethereum'
+excerpt: >-
+  Descubra como o Polygon está revolucionando a escalabilidade do Ethereum com
+  zkEVM, sidechains e o token MATIC.
 coverImage:
-  src: '/images/134.jpg'
-  alt: 'Polygon zkEVM - Escalabilidade Ethereum'
+  src: /images/134.jpg
+  alt: Polygon zkEVM - Escalabilidade Ethereum
   width: 1200
   height: 630
 author:
-  name: "Jonatha Pereira"
-  avatar: "/Jonatha-Pereira-SEO.png"
-publishedAt: "2025-10-31"
-updatedAt: "2025-10-31"
-categorySlug: "altcoins"
-tags: ["polygon", "matic", "zkevm", "layer 2", "escalabilidade"]
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
+publishedAt: '2025-10-31'
+updatedAt: '2025-10-31'
+categorySlug: altcoins
+tags:
+  - polygon
+  - matic
+  - zkevm
+  - layer 2
+  - escalabilidade
 seo:
-  metaTitle: "Polygon zkEVM: Escalabilidade para Ethereum | A Cifra"
-  metaDescription: "Guia completo sobre Polygon: zkEVM, sidechains, MATIC token e como está revolucionando a escalabilidade do Ethereum."
-  keywords: ["polygon", "matic", "zkevm", "layer 2", "escalabilidade ethereum"]
+  metaTitle: 'Polygon zkEVM: Escalabilidade para Ethereum | A Cifra'
+  metaDescription: >-
+    Guia completo sobre Polygon: zkEVM, sidechains, MATIC token e como está
+    revolucionando a escalabilidade do Ethereum.
+  keywords:
+    - polygon
+    - matic
+    - zkevm
+    - layer 2
+    - escalabilidade ethereum
+alternateLanguages:
+  en: polygon-zkevm-and-scalability-for-ethereum
+  es: polygon-zkevm-y-escalabilidad-para-ethereum
 ---
 
 # Polygon: zkEVM e Escalabilidade para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)

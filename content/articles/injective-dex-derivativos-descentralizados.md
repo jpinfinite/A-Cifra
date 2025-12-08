@@ -1,31 +1,38 @@
 ---
-id: 'injective-dex-derivativos-descentralizados'
+id: injective-dex-derivativos-descentralizados
 title: 'Injective Protocol: DEX de Derivativos Totalmente Descentralizada'
-slug: 'injective-dex-derivativos-descentralizados'
-excerpt: 'Conheça Injective, a primeira DEX totalmente descentralizada para trading de derivativos e perpétuos.'
+slug: injective-dex-derivativos-descentralizados
+excerpt: >-
+  Conheça Injective, a primeira DEX totalmente descentralizada para trading de
+  derivativos e perpétuos.
 coverImage:
-  src: '/images/017.jpg'
+  src: /images/017.jpg
   alt: 'Injective Protocol: DEX de Derivativos Totalmente Descentralizada'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'injective'
-  - 'inj'
-  - 'derivativos'
-  - 'dex'
+  - injective
+  - inj
+  - derivativos
+  - dex
 seo:
   metaTitle: 'Injective Protocol: DEX de Derivativos Totalmente Descentralizada | A Cifra'
-  metaDescription: 'Conheça Injective, a primeira DEX totalmente descentralizada para trading de derivativos e perpétuos.'
+  metaDescription: >-
+    Conheça Injective, a primeira DEX totalmente descentralizada para trading de
+    derivativos e perpétuos.
   keywords:
-    - 'injective'
-    - 'inj'
-    - 'derivativos'
-    - 'dex'
+    - injective
+    - inj
+    - derivativos
+    - dex
+alternateLanguages:
+  en: injective-protocol-fully-decentralized-derivatives-dex
+  es: injective-protocol-dex-de-derivativos-totalmente-descentralizada
 ---
 
 **Injective Protocol** é uma blockchain Layer 1 construída especificamente para aplicações financeiras descentralizadas.

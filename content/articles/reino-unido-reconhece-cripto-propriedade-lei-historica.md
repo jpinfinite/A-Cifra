@@ -1,24 +1,42 @@
 ---
-id: 'reino-unido-reconhece-cripto-propriedade-lei-historica'
-title: 'Reino Unido Reconhece Cripto como Propriedade - Lei Histórica Aprovada em 2025'
-slug: 'reino-unido-reconhece-cripto-propriedade-lei-historica'
-excerpt: 'Reino Unido aprova lei que reconhece formalmente criptomoedas e NFTs como propriedade legal. Entenda o impacto desta decisão histórica para investidores, empresas e o futuro da regulação cripto global.'
+id: reino-unido-reconhece-cripto-propriedade-lei-historica
+title: Reino Unido Reconhece Cripto como Propriedade - Lei Histórica Aprovada em 2025
+slug: reino-unido-reconhece-cripto-propriedade-lei-historica
+excerpt: >-
+  Reino Unido aprova lei que reconhece formalmente criptomoedas e NFTs como
+  propriedade legal. Entenda o impacto desta decisão histórica para
+  investidores, empresas e o futuro da regulação cripto global.
 coverImage:
-  src: '/images/uk-crypto-property-law-2025.jpg'
-  alt: 'Reino Unido aprova lei reconhecendo cripto como propriedade'
+  src: /images/uk-crypto-property-law-2025.jpg
+  alt: Reino Unido aprova lei reconhecendo cripto como propriedade
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'regulacao'
-tags: ['reino unido', 'regulação', 'lei cripto', 'propriedade', 'uk']
+categorySlug: regulacao
+tags:
+  - reino unido
+  - regulação
+  - lei cripto
+  - propriedade
+  - uk
 seo:
   metaTitle: 'UK Reconhece Cripto como Propriedade: Lei Histórica 2025 | A Cifra'
-  metaDescription: 'Reino Unido aprova Property (Digital Assets) Act, reconhecendo cripto e NFTs como propriedade legal. Entenda o impacto desta lei revolucionária.'
-  keywords: ['uk cripto lei', 'reino unido criptomoedas', 'crypto property uk', 'regulação cripto', 'lei digital assets']
+  metaDescription: >-
+    Reino Unido aprova Property (Digital Assets) Act, reconhecendo cripto e NFTs
+    como propriedade legal. Entenda o impacto desta lei revolucionária.
+  keywords:
+    - uk cripto lei
+    - reino unido criptomoedas
+    - crypto property uk
+    - regulação cripto
+    - lei digital assets
+alternateLanguages:
+  en: united-kingdom-recognizes-crypto-as-property---historic-law-passed-in-2025
+  es: reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025
 ---
 
 **3 de dezembro de 2025** - Em um marco histórico para a indústria cripto, o **Reino Unido aprovou oficialmente** o **Property (Digital Assets etc) Act**, lei que reconhece formalmente **criptomoedas, NFTs e outros ativos digitais como propriedade legal**. A lei recebeu Royal Assent (aprovação real) na terça-feira, tornando-se oficialmente parte do sistema jurídico britânico.

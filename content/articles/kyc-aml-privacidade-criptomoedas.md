@@ -1,31 +1,34 @@
 ---
-id: 'kyc-aml-privacidade-criptomoedas'
+id: kyc-aml-privacidade-criptomoedas
 title: 'KYC e AML: Privacidade vs Regulação em Cripto'
-slug: 'kyc-aml-privacidade-criptomoedas'
-excerpt: 'Entenda o debate entre privacidade e regulação no mundo das criptomoedas.'
+slug: kyc-aml-privacidade-criptomoedas
+excerpt: Entenda o debate entre privacidade e regulação no mundo das criptomoedas.
 coverImage:
-  src: '/images/055.jpg'
+  src: /images/055.jpg
   alt: 'KYC e AML: Privacidade vs Regulação em Cripto'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'seguranca'
+categorySlug: seguranca
 tags:
-  - 'kyc'
-  - 'aml'
-  - 'privacidade'
-  - 'regulação'
+  - kyc
+  - aml
+  - privacidade
+  - regulação
 seo:
   metaTitle: 'KYC e AML: Privacidade vs Regulação em Cripto | A Cifra'
-  metaDescription: 'Entenda o debate entre privacidade e regulação no mundo das criptomoedas.'
+  metaDescription: Entenda o debate entre privacidade e regulação no mundo das criptomoedas.
   keywords:
-    - 'kyc'
-    - 'aml'
-    - 'privacidade'
-    - 'regulação'
+    - kyc
+    - aml
+    - privacidade
+    - regulação
+alternateLanguages:
+  en: kyc-and-aml-privacy-vs-regulation-in-crypto
+  es: kyc-y-aml-privacidad-vs-regulacin-en-cripto
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda kyc e aml: privacidade vs regulação em cripto.

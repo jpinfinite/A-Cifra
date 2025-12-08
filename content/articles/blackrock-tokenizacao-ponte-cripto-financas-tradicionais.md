@@ -1,24 +1,44 @@
 ---
-id: 'blackrock-tokenizacao-ponte-cripto-financas-tradicionais'
+id: blackrock-tokenizacao-ponte-cripto-financas-tradicionais
 title: 'BlackRock e Tokenização: A Ponte Entre Cripto e Finanças Tradicionais'
-slug: 'blackrock-tokenizacao-ponte-cripto-financas-tradicionais'
-excerpt: 'BlackRock lidera revolução da tokenização com $10 trilhões em ativos sob gestão. Entenda como a maior gestora do mundo está construindo a ponte entre TradFi e DeFi.'
+slug: blackrock-tokenizacao-ponte-cripto-financas-tradicionais
+excerpt: >-
+  BlackRock lidera revolução da tokenização com $10 trilhões em ativos sob
+  gestão. Entenda como a maior gestora do mundo está construindo a ponte entre
+  TradFi e DeFi.
 coverImage:
-  src: '/images/030.jpg'
-  alt: 'Logo da BlackRock com símbolos de blockchain e tokenização'
+  src: /images/030.jpg
+  alt: Logo da BlackRock com símbolos de blockchain e tokenização
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-03'
 updatedAt: '2025-12-03'
-categorySlug: 'defi'
-tags: ['BlackRock', 'tokenização', 'RWA', 'institucional', 'TradFi']
+categorySlug: defi
+tags:
+  - BlackRock
+  - tokenização
+  - RWA
+  - institucional
+  - TradFi
 seo:
   metaTitle: 'BlackRock Tokenização: Ponte Cripto e Finanças Tradicionais | A Cifra'
-  metaDescription: 'BlackRock lidera tokenização de ativos com $10 tri AUM. Análise completa de como a maior gestora do mundo está revolucionando TradFi com blockchain.'
-  keywords: ['BlackRock', 'tokenização', 'RWA', 'ativos reais', 'institucional', 'blockchain']
+  metaDescription: >-
+    BlackRock lidera tokenização de ativos com $10 tri AUM. Análise completa de
+    como a maior gestora do mundo está revolucionando TradFi com blockchain.
+  keywords:
+    - BlackRock
+    - tokenização
+    - RWA
+    - ativos reais
+    - institucional
+    - blockchain
+alternateLanguages:
+  en: blackrock-and-tokenization-the-bridge-between-crypto-and-traditional-finance
+  es: >-
+    blackrock-y-tokenizacin-el-puente-entre-criptomonedas-y-finanzas-tradicionales
 ---
 
 # BlackRock e Tokenização: A Ponte Entre Cripto e Finanças Tradicionais

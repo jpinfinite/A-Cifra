@@ -1,33 +1,40 @@
 ---
-id: 'defi-tradicional'
+id: defi-tradicional
 title: 'DeFi: Revolucionando as Finanças Tradicionais'
-slug: 'defi-revolucionando-financas-tradicionais'
-excerpt: 'Descubra o universo das Finanças Descentralizadas (DeFi) e como elas estão redefinindo empréstimos, investimentos e serviços financeiros globais.'
+slug: defi-revolucionando-financas-tradicionais
+excerpt: >-
+  Descubra o universo das Finanças Descentralizadas (DeFi) e como elas estão
+  redefinindo empréstimos, investimentos e serviços financeiros globais.
 coverImage:
-  src: '/images/103.jpg'
-  alt: 'Ilustração de DeFi conectando pessoas ao redor do mundo'
+  src: /images/103.jpg
+  alt: Ilustração de DeFi conectando pessoas ao redor do mundo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-01-10'
 updatedAt: '2025-11-23'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'defi'
-  - 'finanças descentralizadas'
-  - 'ethereum'
-  - 'yield farming'
-  - 'contratos inteligentes'
+  - defi
+  - finanças descentralizadas
+  - ethereum
+  - yield farming
+  - contratos inteligentes
 seo:
   metaTitle: 'DeFi: Como as Finanças Descentralizadas Revolucionam o Sistema Financeiro'
-  metaDescription: 'Entenda como o DeFi está transformando empréstimos, investimentos e serviços financeiros por meio da tecnologia blockchain.'
+  metaDescription: >-
+    Entenda como o DeFi está transformando empréstimos, investimentos e serviços
+    financeiros por meio da tecnologia blockchain.
   keywords:
-    - 'defi'
-    - 'finanças descentralizadas'
-    - 'ethereum'
-    - 'blockchain'
-    - 'contratos inteligentes'
+    - defi
+    - finanças descentralizadas
+    - ethereum
+    - blockchain
+    - contratos inteligentes
+alternateLanguages:
+  en: defi-revolutionizing-traditional-finance
+  es: defi-revolucionando-las-finanzas-tradicionales
 ---
 
 # [defi](/artigo/defi-yield-farming-protocolos-seguros-2026): Revolucionando as Finanças Tradicionais

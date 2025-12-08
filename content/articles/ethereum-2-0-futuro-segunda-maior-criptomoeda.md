@@ -1,40 +1,46 @@
 ---
-id: 'ethereum-2025'
+id: ethereum-2025
 title: 'Ethereum 2.0: O Futuro da Segunda Maior Criptomoeda'
-slug: 'ethereum-2-0-futuro-segunda-maior-criptomoeda'
-excerpt: 'Entenda como a Ethereum 2.0 está revolucionando a rede com Proof of Stake, shardings e melhorias de escalabilidade que prometem transformar o ecossistema DeFi e dApps.'
+slug: ethereum-2-0-futuro-segunda-maior-criptomoeda
+excerpt: >-
+  Entenda como a Ethereum 2.0 está revolucionando a rede com Proof of Stake,
+  shardings e melhorias de escalabilidade que prometem transformar o ecossistema
+  DeFi e dApps.
 coverImage:
-  src: '/images/115.jpg'
-  alt: 'Ilustração do Ethereum 2.0 com beacon chain e shards'
+  src: /images/115.jpg
+  alt: Ilustração do Ethereum 2.0 com beacon chain e shards
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-10-26'
 updatedAt: '2025-10-26'
-categorySlug: 'ethereum'
-language: 'pt-BR'
+categorySlug: ethereum
+language: pt-BR
 alternateLanguages:
-  en: 'ethereum-2-0-future-second-largest-cryptocurrency'
+  en: ethereum-20-the-future-of-the-second-largest-cryptocurrency
+  es: ethereum-20-el-futuro-de-la-segunda-mayor-criptomoneda
 tags:
-  - 'ethereum'
-  - 'ethereum 2.0'
-  - 'proof of stake'
-  - 'sharding'
-  - 'escalabilidade'
-  - 'defi'
-  - 'dapps'
+  - ethereum
+  - ethereum 2.0
+  - proof of stake
+  - sharding
+  - escalabilidade
+  - defi
+  - dapps
 seo:
   metaTitle: 'Ethereum 2.0: O Futuro da Segunda Maior Criptomoeda | A Cifra'
-  metaDescription: 'Guia completo sobre Ethereum 2.0: Proof of Stake, sharding, staking e como as atualizações estão transformando o ecossistema DeFi e dApps.'
+  metaDescription: >-
+    Guia completo sobre Ethereum 2.0: Proof of Stake, sharding, staking e como
+    as atualizações estão transformando o ecossistema DeFi e dApps.
   keywords:
-    - 'ethereum 2.0'
-    - 'proof of stake'
-    - 'sharding'
-    - 'staking ethereum'
-    - 'escalabilidade ethereum'
-    - 'the merge'
-    - 'dapps'
+    - ethereum 2.0
+    - proof of stake
+    - sharding
+    - staking ethereum
+    - escalabilidade ethereum
+    - the merge
+    - dapps
 ---
 
 # [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) 2.0: O Futuro da Segunda Maior Criptomoeda

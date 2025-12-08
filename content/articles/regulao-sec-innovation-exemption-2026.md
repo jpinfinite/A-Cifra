@@ -1,27 +1,44 @@
 ---
-id: 'regulao-sec-innovation-exemption-2026-2025-12-07'
+id: regulao-sec-innovation-exemption-2026-2025-12-07
 title: 'Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar'
-slug: 'regulao-sec-innovation-exemption-2026'
-excerpt: 'Análise completa sobre Regulação SEC Innovation Exemption 2026. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: regulao-sec-innovation-exemption-2026
+excerpt: >-
+  Análise completa sobre Regulação SEC Innovation Exemption 2026. Descubra as
+  previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/regulacao/2025-12/regulao-sec-innovation-exemption-2026.webp'
+  src: /images/regulacao/2025-12/regulao-sec-innovation-exemption-2026.webp
   alt: 'Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-07'
 updatedAt: '2025-12-07'
-categorySlug: 'regulacao'
-tags: ["regulacao", "tendencias-2026", "tecnologia"]
+categorySlug: regulacao
+tags:
+  - regulacao
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Regulação SEC Innovation Exemption 2026. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Regulação SEC Innovation Exemption 2026", "criptomoedas 2026", "investimento"]
+  metaTitle: >-
+    Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar |
+    Análise 2026
+  metaDescription: >-
+    Guia definitivo sobre Regulação SEC Innovation Exemption 2026. Previsões de
+    mercado e análise técnica para investidores inteligentes.
+  keywords:
+    - Regulação SEC Innovation Exemption 2026
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: sec-innovation-exemption-2026-whats-changing-and-how-to-prepare
+  es: regulacin-sec-de-exencin-de-innovacin-2026-qu-cambia-y-cmo-prepararse
 ---
 
 # Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar

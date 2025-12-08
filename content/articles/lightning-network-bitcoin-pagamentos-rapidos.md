@@ -1,31 +1,38 @@
 ---
-id: 'lightning-network-bitcoin-pagamentos-rapidos'
+id: lightning-network-bitcoin-pagamentos-rapidos
 title: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
-slug: 'lightning-network-bitcoin-pagamentos-rapidos'
-excerpt: 'Descubra como Lightning Network está tornando Bitcoin viável para pagamentos do dia a dia.'
+slug: lightning-network-bitcoin-pagamentos-rapidos
+excerpt: >-
+  Descubra como Lightning Network está tornando Bitcoin viável para pagamentos
+  do dia a dia.
 coverImage:
-  src: '/images/023.jpg'
+  src: /images/023.jpg
   alt: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'lightning network'
-  - 'bitcoin'
-  - 'layer 2'
-  - 'pagamentos'
+  - lightning network
+  - bitcoin
+  - layer 2
+  - pagamentos
 seo:
   metaTitle: 'Lightning Network: Pagamentos Bitcoin Instantâneos | A Cifra'
-  metaDescription: 'Descubra como Lightning Network está tornando Bitcoin viável para pagamentos do dia a dia.'
+  metaDescription: >-
+    Descubra como Lightning Network está tornando Bitcoin viável para pagamentos
+    do dia a dia.
   keywords:
-    - 'lightning network'
-    - 'bitcoin'
-    - 'layer 2'
-    - 'pagamentos'
+    - lightning network
+    - bitcoin
+    - layer 2
+    - pagamentos
+alternateLanguages:
+  en: lightning-network-instant-bitcoin-payments
+  es: red-de-relmpago-pagos-bitcoin-instantneos
 ---
 
 Este guia completo explora **Lightning Network** de forma detalhada e acessível.

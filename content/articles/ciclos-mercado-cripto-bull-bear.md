@@ -1,31 +1,38 @@
-﻿---
-id: 'ciclos-mercado-cripto-bull-bear'
+---
+id: ciclos-mercado-cripto-bull-bear
 title: 'Ciclos de Mercado Cripto: Bull e Bear Markets'
-slug: 'ciclos-mercado-cripto-bull-bear'
-excerpt: 'Entenda os ciclos de mercado em criptomoedas e como se posicionar em cada fase.'
+slug: ciclos-mercado-cripto-bull-bear
+excerpt: >-
+  Entenda os ciclos de mercado em criptomoedas e como se posicionar em cada
+  fase.
 coverImage:
-  src: '/images/crypto-market-cycles-styled.jpg'
+  src: /images/crypto-market-cycles-styled.jpg
   alt: 'Ciclos de Mercado Cripto: Bull e Bear Markets'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'ciclos'
-  - 'bull market'
-  - 'bear market'
-  - 'mercado'
+  - ciclos
+  - bull market
+  - bear market
+  - mercado
 seo:
   metaTitle: 'Ciclos de Mercado Cripto: Bull e Bear Markets | A Cifra'
-  metaDescription: 'Entenda os ciclos de mercado em criptomoedas e como se posicionar em cada fase.'
+  metaDescription: >-
+    Entenda os ciclos de mercado em criptomoedas e como se posicionar em cada
+    fase.
   keywords:
-    - 'ciclos'
-    - 'bull market'
-    - 'bear market'
-    - 'mercado'
+    - ciclos
+    - bull market
+    - bear market
+    - mercado
+alternateLanguages:
+  en: cryptocurrency-market-cycles-bull-and-bear-markets
+  es: ciclos-de-mercado-cripto-mercados-alcistas-y-bajistas
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora ciclos de mercado cripto: bull e bear markets.

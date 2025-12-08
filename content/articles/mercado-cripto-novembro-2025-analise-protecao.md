@@ -1,34 +1,45 @@
 ---
-id: 'mercado-cripto-nov-2025'
-title: 'Mercado Cripto em Novembro 2025: Análise Atual e Como se Proteger da Volatilidade'
-slug: 'mercado-cripto-novembro-2025-analise-protecao'
-excerpt: 'Análise completa do mercado de criptomoedas em Novembro 2025: Bitcoin em correção, altcoins sangrando e estratégias práticas para proteger seu capital.'
+id: mercado-cripto-nov-2025
+title: >-
+  Mercado Cripto em Novembro 2025: Análise Atual e Como se Proteger da
+  Volatilidade
+slug: mercado-cripto-novembro-2025-analise-protecao
+excerpt: >-
+  Análise completa do mercado de criptomoedas em Novembro 2025: Bitcoin em
+  correção, altcoins sangrando e estratégias práticas para proteger seu capital.
 coverImage:
-  src: '/images/139.jpg'
-  alt: 'Mercado de criptomoedas Novembro 2025 - Análise e proteção'
+  src: /images/139.jpg
+  alt: Mercado de criptomoedas Novembro 2025 - Análise e proteção
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-22'
 updatedAt: '2025-11-22'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'analises'
-  - 'análise'
-  - 'bitcoin'
-  - 'proteção'
-  - 'volatilidade'
+  - analises
+  - análise
+  - bitcoin
+  - proteção
+  - volatilidade
 seo:
   metaTitle: 'Mercado Cripto Novembro 2025: Análise e Proteção | A Cifra'
-  metaDescription: 'Análise completa do mercado cripto em Nov 2025: Bitcoin em R$ 465k, correção de 15%, altcoins em queda. Estratégias para proteger seu capital.'
+  metaDescription: >-
+    Análise completa do mercado cripto em Nov 2025: Bitcoin em R$ 465k, correção
+    de 15%, altcoins em queda. Estratégias para proteger seu capital.
   keywords:
-    - 'mercado cripto 2025'
-    - 'bitcoin novembro 2025'
-    - 'correção bitcoin'
-    - 'proteger criptomoedas'
-    - 'análise mercado'
+    - mercado cripto 2025
+    - bitcoin novembro 2025
+    - correção bitcoin
+    - proteger criptomoedas
+    - análise mercado
+alternateLanguages:
+  en: >-
+    cryptocurrency-market-in-november-2025-current-analysis-and-how-to-protect-against-volatility
+  es: >-
+    mercado-cripto-en-noviembre-2025-anlisis-actual-y-cmo-protegerse-de-la-volatilidad
 ---
 
 # Mercado Cripto em Novembro 2025: Análise Atual e Como se Proteger da Volatilidade

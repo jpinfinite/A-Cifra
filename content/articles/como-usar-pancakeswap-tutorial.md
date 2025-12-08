@@ -1,34 +1,41 @@
 ---
-id: 'pancakeswap-tutorial'
+id: pancakeswap-tutorial
 title: 'Como Usar o PancakeSwap: Tutorial Completo na BSC'
-slug: 'como-usar-pancakeswap-tutorial'
-excerpt: 'Guia passo a passo para usar o PancakeSwap: conectar carteira, fazer swap, adicionar liquidez e fazer farming na maior DEX da Binance Smart Chain.'
+slug: como-usar-pancakeswap-tutorial
+excerpt: >-
+  Guia passo a passo para usar o PancakeSwap: conectar carteira, fazer swap,
+  adicionar liquidez e fazer farming na maior DEX da Binance Smart Chain.
 coverImage:
-  src: '/images/144.jpg'
-  alt: 'Tutorial PancakeSwap - DEX BSC'
+  src: /images/144.jpg
+  alt: Tutorial PancakeSwap - DEX BSC
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'tutoriais'
+categorySlug: tutoriais
 tags:
-  - 'pancakeswap'
-  - 'bsc'
-  - 'dex'
-  - 'farming'
-  - 'tutorial'
+  - pancakeswap
+  - bsc
+  - dex
+  - farming
+  - tutorial
 seo:
   metaTitle: 'Como Usar PancakeSwap: Tutorial Completo BSC | A Cifra'
-  metaDescription: 'Aprenda a usar PancakeSwap: swap de tokens, farming, pools de liquidez e como ganhar CAKE na Binance Smart Chain.'
+  metaDescription: >-
+    Aprenda a usar PancakeSwap: swap de tokens, farming, pools de liquidez e
+    como ganhar CAKE na Binance Smart Chain.
   keywords:
-    - 'pancakeswap tutorial'
-    - 'como usar pancakeswap'
-    - 'farming pancakeswap'
-    - 'bsc dex'
-    - 'swap bsc'
+    - pancakeswap tutorial
+    - como usar pancakeswap
+    - farming pancakeswap
+    - bsc dex
+    - swap bsc
+alternateLanguages:
+  en: how-to-use-pancakeswap-a-comprehensive-tutorial-on-bsc
+  es: cmo-usar-pancakeswap-tutorial-completo-en-bsc
 ---
 
 O **PancakeSwap** é a maior DEX da Binance Smart Chain. Aprenda a usar todas as funcionalidades.

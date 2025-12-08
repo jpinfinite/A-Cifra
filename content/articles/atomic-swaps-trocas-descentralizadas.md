@@ -1,31 +1,38 @@
 ---
-id: 'atomic-swaps-trocas-descentralizadas'
+id: atomic-swaps-trocas-descentralizadas
 title: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
-slug: 'atomic-swaps-trocas-descentralizadas'
-excerpt: 'Entenda como atomic swaps permitem trocas trustless entre diferentes criptomoedas.'
+slug: atomic-swaps-trocas-descentralizadas
+excerpt: >-
+  Entenda como atomic swaps permitem trocas trustless entre diferentes
+  criptomoedas.
 coverImage:
-  src: '/images/024.jpg'
+  src: /images/024.jpg
   alt: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'atomic swaps'
-  - 'dex'
-  - 'cross-chain'
-  - 'descentralização'
+  - atomic swaps
+  - dex
+  - cross-chain
+  - descentralização
 seo:
   metaTitle: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains | A Cifra'
-  metaDescription: 'Entenda como atomic swaps permitem trocas trustless entre diferentes criptomoedas.'
+  metaDescription: >-
+    Entenda como atomic swaps permitem trocas trustless entre diferentes
+    criptomoedas.
   keywords:
-    - 'atomic swaps'
-    - 'dex'
-    - 'cross-chain'
-    - 'descentralização'
+    - atomic swaps
+    - dex
+    - cross-chain
+    - descentralização
+alternateLanguages:
+  en: atomic-swaps-decentralized-exchanges-between-blockchains
+  es: atomic-swaps-trocas-descentralizadas-entre-blockchains
 ---
 
 Este guia completo explora **Atomic Swaps** de forma detalhada e acessível.

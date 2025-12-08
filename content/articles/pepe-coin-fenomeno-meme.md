@@ -1,34 +1,41 @@
 ---
-id: 'pepe-coin'
+id: pepe-coin
 title: 'PEPE Coin: O Fenômeno Memecoin de 2023'
-slug: 'pepe-coin-fenomeno-meme'
-excerpt: 'Descubra a história do PEPE, a memecoin baseada no meme Pepe the Frog que explodiu em 2023 e gerou retornos astronômicos para investidores iniciais.'
+slug: pepe-coin-fenomeno-meme
+excerpt: >-
+  Descubra a história do PEPE, a memecoin baseada no meme Pepe the Frog que
+  explodiu em 2023 e gerou retornos astronômicos para investidores iniciais.
 coverImage:
-  src: '/images/146.jpg'
-  alt: 'PEPE Coin - Memecoin de 2023'
+  src: /images/146.jpg
+  alt: PEPE Coin - Memecoin de 2023
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'memecoin'
+categorySlug: memecoin
 tags:
-  - 'pepe'
-  - 'memecoins'
-  - 'pepe the frog'
+  - pepe
+  - memecoins
+  - pepe the frog
   - '2023'
-  - 'viral'
+  - viral
 seo:
   metaTitle: 'PEPE Coin: A Memecoin Que Explodiu em 2023 | A Cifra'
-  metaDescription: 'Tudo sobre PEPE Coin: como surgiu, por que explodiu, retornos históricos e se ainda vale a pena investir na memecoin do Pepe the Frog.'
+  metaDescription: >-
+    Tudo sobre PEPE Coin: como surgiu, por que explodiu, retornos históricos e
+    se ainda vale a pena investir na memecoin do Pepe the Frog.
   keywords:
-    - 'pepe coin'
-    - 'pepe memecoin'
-    - 'pepe the frog'
-    - 'memecoins 2023'
-    - 'investir pepe'
+    - pepe coin
+    - pepe memecoin
+    - pepe the frog
+    - memecoins 2023
+    - investir pepe
+alternateLanguages:
+  en: pepe-coin-the-2023-memecoin-phenomenon
+  es: pepe-coin-el-fenmeno-memecoin-de-2023
 ---
 
 O **PEPE** surgiu em abril de 2023 e rapidamente se tornou uma das memecoins mais comentadas, gerando retornos de milhares de por cento para investidores iniciais.

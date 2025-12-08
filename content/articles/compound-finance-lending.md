@@ -1,34 +1,41 @@
 ---
-id: 'compound-finance'
+id: compound-finance
 title: 'Compound Finance: Protocolo de Empréstimos Autônomos'
-slug: 'compound-finance-lending'
-excerpt: 'Conheça o Compound, um dos primeiros protocolos DeFi de empréstimos: como funciona, taxas, o token COMP e como ganhar rendimentos.'
+slug: compound-finance-lending
+excerpt: >-
+  Conheça o Compound, um dos primeiros protocolos DeFi de empréstimos: como
+  funciona, taxas, o token COMP e como ganhar rendimentos.
 coverImage:
-  src: '/images/072.jpg'
-  alt: 'Compound Finance - Lending DeFi'
+  src: /images/072.jpg
+  alt: Compound Finance - Lending DeFi
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'compound'
-  - 'defi'
-  - 'lending'
-  - 'comp'
-  - 'empréstimos'
+  - compound
+  - defi
+  - lending
+  - comp
+  - empréstimos
 seo:
   metaTitle: 'Compound Finance: Guia do Protocolo de Empréstimos | A Cifra'
-  metaDescription: 'Guia completo do Compound Finance: como emprestar, pegar emprestado, ganhar COMP e maximizar rendimentos no protocolo.'
+  metaDescription: >-
+    Guia completo do Compound Finance: como emprestar, pegar emprestado, ganhar
+    COMP e maximizar rendimentos no protocolo.
   keywords:
-    - 'compound finance'
-    - 'compound protocol'
-    - 'comp token'
-    - 'lending defi'
-    - 'empréstimos compound'
+    - compound finance
+    - compound protocol
+    - comp token
+    - lending defi
+    - empréstimos compound
+alternateLanguages:
+  en: compound-finance-autonomous-lending-protocol
+  es: compound-finance-protocolo-de-prstamos-autnomos
 ---
 
 O **Compound** é um dos protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) pioneiros, permitindo empréstimos e empréstimos de forma totalmente autônoma.

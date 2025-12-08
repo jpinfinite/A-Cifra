@@ -1,24 +1,41 @@
 ---
-id: 'bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes'
-title: 'Bitcoin ETF Spot Quebra Sequência com $70 Milhões em Entradas'
-slug: 'bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes'
-excerpt: 'ETFs de Bitcoin spot registram $70 milhões em entradas após 5 dias consecutivos de saídas. Análise do que mudou no mercado e impacto no preço do BTC.'
+id: bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes
+title: Bitcoin ETF Spot Quebra Sequência com $70 Milhões em Entradas
+slug: bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes
+excerpt: >-
+  ETFs de Bitcoin spot registram $70 milhões em entradas após 5 dias
+  consecutivos de saídas. Análise do que mudou no mercado e impacto no preço do
+  BTC.
 coverImage:
-  src: '/images/blackrock-ibit-outflows-2025-styled.jpg'
-  alt: 'ETFs Bitcoin spot quebram sequência de saídas'
+  src: /images/blackrock-ibit-outflows-2025-styled.jpg
+  alt: ETFs Bitcoin spot quebram sequência de saídas
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-11-30'
 updatedAt: '2025-11-30'
-categorySlug: 'bitcoin'
-tags: ['bitcoin', 'etf', 'institucional', 'fluxos']
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - etf
+  - institucional
+  - fluxos
 seo:
   metaTitle: 'Bitcoin ETF: $70M em Entradas Quebram Sequência de Saídas | A Cifra'
-  metaDescription: 'ETFs Bitcoin spot registram $70 milhões em entradas após 5 dias de saídas. Análise do mercado, impacto no preço e o que esperar.'
-  keywords: ['bitcoin etf', 'etf spot', 'fluxos bitcoin', 'entradas etf', 'blackrock ibit']
+  metaDescription: >-
+    ETFs Bitcoin spot registram $70 milhões em entradas após 5 dias de saídas.
+    Análise do mercado, impacto no preço e o que esperar.
+  keywords:
+    - bitcoin etf
+    - etf spot
+    - fluxos bitcoin
+    - entradas etf
+    - blackrock ibit
+alternateLanguages:
+  en: bitcoin-etf-spot-breaks-sequence-with-70-million-in-inflows
+  es: bitcoin-etf-spot-quebra-sequncia-con-70-millones-en-entradas
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) ETF Spot Quebra Sequência de Saídas com $70 Milhões em Entradas

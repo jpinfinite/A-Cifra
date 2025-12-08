@@ -36,6 +36,10 @@ seo:
     Bitcoin, BTC, mercado baixista, valorização negativa, análise Bitcoin 2025,
     queda Bitcoin, investimentos cripto
 categorySlug: bitcoin
+alternateLanguages:
+  en: bitcoin-in-negative-territory-for-the-year-market-analysis-and-prospects
+  es: >-
+    bitcoin-en-territorio-negativo-en-el-ao-anlisis-del-mercado-bajista-y-perspectivas
 ---
 
 ## [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Apaga Ganhos do Ano

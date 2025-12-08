@@ -1,34 +1,41 @@
 ---
-id: 'dogecoin-historia'
+id: dogecoin-historia
 title: 'Dogecoin: A História da Memecoin Que Virou Fenômeno Global'
-slug: 'dogecoin-historia-e-futuro'
-excerpt: 'Conheça a história do Dogecoin, desde sua criação como piada até se tornar uma das criptomoedas mais populares do mundo, apoiada por Elon Musk.'
+slug: dogecoin-historia-e-futuro
+excerpt: >-
+  Conheça a história do Dogecoin, desde sua criação como piada até se tornar uma
+  das criptomoedas mais populares do mundo, apoiada por Elon Musk.
 coverImage:
-  src: '/images/107.jpg'
-  alt: 'Dogecoin - A primeira memecoin'
+  src: /images/107.jpg
+  alt: Dogecoin - A primeira memecoin
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'memecoin'
+categorySlug: memecoin
 tags:
-  - 'dogecoin'
-  - 'doge'
-  - 'elon musk'
-  - 'memecoins'
-  - 'história cripto'
+  - dogecoin
+  - doge
+  - elon musk
+  - memecoins
+  - história cripto
 seo:
   metaTitle: 'Dogecoin: História e Futuro da Memecoin Original | A Cifra'
-  metaDescription: 'A história completa do Dogecoin: como uma piada se tornou uma das maiores criptomoedas, o papel de Elon Musk e o futuro do DOGE.'
+  metaDescription: >-
+    A história completa do Dogecoin: como uma piada se tornou uma das maiores
+    criptomoedas, o papel de Elon Musk e o futuro do DOGE.
   keywords:
-    - 'dogecoin'
-    - 'história dogecoin'
-    - 'doge'
-    - 'elon musk dogecoin'
-    - 'memecoin original'
+    - dogecoin
+    - história dogecoin
+    - doge
+    - elon musk dogecoin
+    - memecoin original
+alternateLanguages:
+  en: dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon
+  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global
 ---
 
 O **Dogecoin (DOGE)** começou como uma piada em 2013 e se tornou uma das criptomoedas mais reconhecidas do mundo. Sua história é única no universo cripto.

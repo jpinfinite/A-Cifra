@@ -1,37 +1,46 @@
 ---
-id: 'analise-cripto-2025'
+id: analise-cripto-2025
 title: 'Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos'
-slug: 'analisar-criptomoedas-indicadores-fundamentais-tecnicos'
-excerpt: 'Guia completo para análise de criptomoedas: indicadores fundamentais (tecnologia, equipe, adoção) e técnicos (preço, volume, padrões) para tomar decisões de investimento informadas.'
+slug: analisar-criptomoedas-indicadores-fundamentais-tecnicos
+excerpt: >-
+  Guia completo para análise de criptomoedas: indicadores fundamentais
+  (tecnologia, equipe, adoção) e técnicos (preço, volume, padrões) para tomar
+  decisões de investimento informadas.
 coverImage:
-  src: '/images/crypto-market-analysis-new-styled.jpg'
-  alt: 'Gráfico com múltiplos indicadores de análise de criptomoedas'
+  src: /images/crypto-market-analysis-new-styled.jpg
+  alt: Gráfico com múltiplos indicadores de análise de criptomoedas
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
+  name: Jonatha Pereira
 publishedAt: '2025-10-26'
 updatedAt: '2025-10-26'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'análise'
-  - 'indicadores'
-  - 'fundamentalista'
-  - 'técnico'
-  - 'investimento'
-  - 'trading'
-  - 'avaliação'
-  - 'métricas'
+  - análise
+  - indicadores
+  - fundamentalista
+  - técnico
+  - investimento
+  - trading
+  - avaliação
+  - métricas
 seo:
   metaTitle: 'Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos | A Cifra'
-  metaDescription: 'Guia completo de análise de criptomoedas: indicadores fundamentais e técnicos, métricas essenciais e frameworks para avaliação de projetos crypto.'
+  metaDescription: >-
+    Guia completo de análise de criptomoedas: indicadores fundamentais e
+    técnicos, métricas essenciais e frameworks para avaliação de projetos
+    crypto.
   keywords:
-    - 'análise criptomoedas'
-    - 'indicadores crypto'
-    - 'análise fundamentalista'
-    - 'análise técnica'
-    - 'investir crypto'
-    - 'avaliação projetos'
+    - análise criptomoedas
+    - indicadores crypto
+    - análise fundamentalista
+    - análise técnica
+    - investir crypto
+    - avaliação projetos
+alternateLanguages:
+  en: how-to-analyze-cryptocurrencies-fundamental-and-technical-indicators
+  es: cmo-analizar-criptomonedas-indicadores-fundamentales-y-tcnicos
 ---
 
 # Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos

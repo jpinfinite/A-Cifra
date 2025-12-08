@@ -1,34 +1,41 @@
 ---
-id: 'staking-eth-tutorial'
+id: staking-eth-tutorial
 title: 'Como Fazer Staking de Ethereum: Tutorial Passo a Passo'
-slug: 'como-fazer-staking-ethereum'
-excerpt: 'Guia completo para fazer staking de ETH: opções disponíveis, plataformas recomendadas, riscos e como começar a ganhar recompensas passivas.'
+slug: como-fazer-staking-ethereum
+excerpt: >-
+  Guia completo para fazer staking de ETH: opções disponíveis, plataformas
+  recomendadas, riscos e como começar a ganhar recompensas passivas.
 coverImage:
-  src: '/images/110.jpg'
-  alt: 'Tutorial de staking de Ethereum'
+  src: /images/110.jpg
+  alt: Tutorial de staking de Ethereum
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'tutoriais'
+categorySlug: tutoriais
 tags:
-  - 'staking'
-  - 'ethereum'
-  - 'eth'
-  - 'tutorial'
-  - 'renda passiva'
+  - staking
+  - ethereum
+  - eth
+  - tutorial
+  - renda passiva
 seo:
   metaTitle: 'Como Fazer Staking de Ethereum: Tutorial Completo | A Cifra'
-  metaDescription: 'Aprenda a fazer staking de ETH: opções de staking, plataformas, rendimentos esperados e tutorial passo a passo.'
+  metaDescription: >-
+    Aprenda a fazer staking de ETH: opções de staking, plataformas, rendimentos
+    esperados e tutorial passo a passo.
   keywords:
-    - 'staking ethereum'
-    - 'como fazer staking eth'
-    - 'staking eth tutorial'
-    - 'renda passiva ethereum'
-    - 'validador ethereum'
+    - staking ethereum
+    - como fazer staking eth
+    - staking eth tutorial
+    - renda passiva ethereum
+    - validador ethereum
+alternateLanguages:
+  en: how-to-do-ethereum-staking-step-by-step-tutorial
+  es: cmo-hacer-staking-de-ethereum-tutorial-paso-a-paso
 ---
 
 Fazer **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)** permite ganhar recompensas passivas enquanto ajuda a proteger a rede. Veja como começar.

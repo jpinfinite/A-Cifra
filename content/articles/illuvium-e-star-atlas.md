@@ -1,27 +1,42 @@
 ---
-id: 'illuvium-e-star-atlas-2025-12-12'
+id: illuvium-e-star-atlas-2025-12-12
 title: 'Jogos AAA na Blockchain: O Retorno do GameFi'
-slug: 'illuvium-e-star-atlas'
-excerpt: 'Análise completa sobre Illuvium e Star Atlas. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: illuvium-e-star-atlas
+excerpt: >-
+  Análise completa sobre Illuvium e Star Atlas. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/games/2025-12/illuvium-e-star-atlas.webp'
+  src: /images/games/2025-12/illuvium-e-star-atlas.webp
   alt: 'Jogos AAA na Blockchain: O Retorno do GameFi'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'games'
-tags: ["games", "tendencias-2026", "tecnologia"]
+categorySlug: games
+tags:
+  - games
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Jogos AAA na Blockchain: O Retorno do GameFi | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Illuvium e Star Atlas. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Illuvium e Star Atlas", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Illuvium e Star Atlas. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Illuvium e Star Atlas
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: aaa-games-on-blockchain-the-return-of-gamefi
+  es: juegos-aaa-en-la-blockchain-el-regreso-del-gamefi
 ---
 
 # Jogos AAA na Blockchain: O Retorno do GameFi

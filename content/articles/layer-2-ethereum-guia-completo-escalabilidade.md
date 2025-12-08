@@ -1,24 +1,50 @@
 ---
-id: 'layer-2-ethereum-guia-completo-escalabilidade'
-title: 'Layer 2 do Ethereum: Guia Completo 2025 - Arbitrum, Optimism, Base e o Futuro da Escalabilidade'
-slug: 'layer-2-ethereum-guia-completescalabilidade'
-excerpt: 'Entenda Layer 2: como funcionam, principais soluções (Arbitrum, Optimism, Base, zkSync), vantagens, diferenças e por que são o futuro do Ethereum em 2025.'
+id: layer-2-ethereum-guia-completo-escalabilidade
+title: >-
+  Layer 2 do Ethereum: Guia Completo 2025 - Arbitrum, Optimism, Base e o Futuro
+  da Escalabilidade
+slug: layer-2-ethereum-guia-completescalabilidade
+excerpt: >-
+  Entenda Layer 2: como funcionam, principais soluções (Arbitrum, Optimism,
+  Base, zkSync), vantagens, diferenças e por que são o futuro do Ethereum em
+  2025.
 coverImage:
-  src: '/images/layer-2-ethereum-guia-2025.jpg'
-  alt: 'Layer 2 Ethereum guia completo 2025'
+  src: /images/layer-2-ethereum-guia-2025.jpg
+  alt: Layer 2 Ethereum guia completo 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'ethereum'
-tags: ['layer 2', 'ethereum', 'arbitrum', 'optimism', 'base', 'zksync', 'escalabilidade']
+categorySlug: ethereum
+tags:
+  - layer 2
+  - ethereum
+  - arbitrum
+  - optimism
+  - base
+  - zksync
+  - escalabilidade
 seo:
   metaTitle: 'Layer 2 Ethereum: Guia Completo 2025 | Arbitrum, Optimism, Base | A Cifra'
-  metaDescription: 'Guia completo de Layer 2: como funcionam, principais soluções (Arbitrum $18B TVL, Optimism, Base), vantagens, diferenças e futuro da escalabilidade Ethereum.'
-  keywords: ['layer 2 ethereum', 'arbitrum', 'optimism', 'base coinbase', 'zksync', 'escalabilidade ethereum']
+  metaDescription: >-
+    Guia completo de Layer 2: como funcionam, principais soluções (Arbitrum $18B
+    TVL, Optimism, Base), vantagens, diferenças e futuro da escalabilidade
+    Ethereum.
+  keywords:
+    - layer 2 ethereum
+    - arbitrum
+    - optimism
+    - base coinbase
+    - zksync
+    - escalabilidade ethereum
+alternateLanguages:
+  en: >-
+    ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability
+  es: >-
+    capa-2-de-ethereum-gua-completa-2025---arbitrum-optimism-base-y-el-futuro-de-la-escalabilidad
 ---
 
 # Layer 2 do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Guia Completo 2025 - O Futuro da Escalabilidade

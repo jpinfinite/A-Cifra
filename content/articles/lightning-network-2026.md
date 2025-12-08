@@ -1,27 +1,44 @@
 ---
-id: 'lightning-network-2026-2025-12-09'
+id: lightning-network-2026-2025-12-09
 title: 'Lightning Network em 2026: Pagamentos Instantâneos Globalizados'
-slug: 'lightning-network-2026'
-excerpt: 'Análise completa sobre Lightning Network 2026. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: lightning-network-2026
+excerpt: >-
+  Análise completa sobre Lightning Network 2026. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/bitcoin/2025-12/lightning-network-2026.webp'
+  src: /images/bitcoin/2025-12/lightning-network-2026.webp
   alt: 'Lightning Network em 2026: Pagamentos Instantâneos Globalizados'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'bitcoin'
-tags: ["bitcoin", "tendencias-2026", "tecnologia"]
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - tendencias-2026
+  - tecnologia
 seo:
-  metaTitle: 'Lightning Network em 2026: Pagamentos Instantâneos Globalizados | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Lightning Network 2026. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Lightning Network 2026", "criptomoedas 2026", "investimento"]
+  metaTitle: >-
+    Lightning Network em 2026: Pagamentos Instantâneos Globalizados | Análise
+    2026
+  metaDescription: >-
+    Guia definitivo sobre Lightning Network 2026. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - Lightning Network 2026
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: lightning-network-in-2026-globalized-instant-payments
+  es: red-de-relmpago-en-2026-pagos-instantneos-globalizados
 ---
 
 # Lightning Network em 2026: Pagamentos Instantâneos Globalizados

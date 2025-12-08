@@ -1,27 +1,42 @@
 ---
-id: 'emprstimos-sem-colateral-defi-2025-12-11'
+id: emprstimos-sem-colateral-defi-2025-12-11
 title: 'Crédito On-Chain: O Santo Graal dos Empréstimos DeFi'
-slug: 'emprstimos-sem-colateral-defi'
-excerpt: 'Análise completa sobre Empréstimos Sem Colateral DeFi. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: emprstimos-sem-colateral-defi
+excerpt: >-
+  Análise completa sobre Empréstimos Sem Colateral DeFi. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/defi/2025-12/emprstimos-sem-colateral-defi.webp'
+  src: /images/defi/2025-12/emprstimos-sem-colateral-defi.webp
   alt: 'Crédito On-Chain: O Santo Graal dos Empréstimos DeFi'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'defi'
-tags: ["defi", "tendencias-2026", "tecnologia"]
+categorySlug: defi
+tags:
+  - defi
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Crédito On-Chain: O Santo Graal dos Empréstimos DeFi | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Empréstimos Sem Colateral DeFi. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Empréstimos Sem Colateral DeFi", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Empréstimos Sem Colateral DeFi. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Empréstimos Sem Colateral DeFi
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: on-chain-credit-the-holy-grail-of-defi-loans
+  es: crdito-on-chain-el-santo-grial-de-los-prstamos-defi
 ---
 
 # Crédito On-Chain: O Santo Graal dos Empréstimos DeFi

@@ -1,27 +1,49 @@
 ---
-id: 'ledger-vs-trezor-qual-melhor-carteira-2026-2025-12-05'
+id: ledger-vs-trezor-qual-melhor-carteira-2026-2025-12-05
 title: 'Ledger vs Trezor: Qual a Melhor Carteira para Proteger suas Criptos?'
-slug: 'ledger-vs-trezor-qual-melhor-carteira-2026'
-excerpt: 'A batalha das Cold Wallets. Comparamos os modelos mais recentes da Ledger e Trezor para te ajudar a escolher a fortaleza digital ideal para seus Bitcoins.'
+slug: ledger-vs-trezor-qual-melhor-carteira-2026
+excerpt: >-
+  A batalha das Cold Wallets. Comparamos os modelos mais recentes da Ledger e
+  Trezor para te ajudar a escolher a fortaleza digital ideal para seus Bitcoins.
 coverImage:
-  src: '/images/seguranca/2025-12/ledger-vs-trezor.webp'
-  alt: 'Comparativo visual lado a lado de uma carteira Ledger e uma carteira Trezor sobre uma mesa tecnológica'
+  src: /images/seguranca/2025-12/ledger-vs-trezor.webp
+  alt: >-
+    Comparativo visual lado a lado de uma carteira Ledger e uma carteira Trezor
+    sobre uma mesa tecnológica
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'seguranca'
-tags: ['ledger', 'trezor', 'cold wallet', 'hardware wallet', 'seguranca']
+categorySlug: seguranca
+tags:
+  - ledger
+  - trezor
+  - cold wallet
+  - hardware wallet
+  - seguranca
 seo:
-  metaTitle: 'Ledger ou Trezor? Comparativo Definitivo 2026 | A Cifra'
-  metaDescription: 'Qual a melhor hardware wallet em 2026? Analisamos segurança, preço e facilidade de uso da Ledger Nano e Trezor Safe. Proteja seu patrimônio.'
-  keywords: ['ledger nano x review', 'trezor safe 3 review', 'melhor cold wallet', 'comprar ledger brasil', 'seguranca cripto']
+  metaTitle: Ledger ou Trezor? Comparativo Definitivo 2026 | A Cifra
+  metaDescription: >-
+    Qual a melhor hardware wallet em 2026? Analisamos segurança, preço e
+    facilidade de uso da Ledger Nano e Trezor Safe. Proteja seu patrimônio.
+  keywords:
+    - ledger nano x review
+    - trezor safe 3 review
+    - melhor cold wallet
+    - comprar ledger brasil
+    - seguranca cripto
 monetization:
-  priority: 'high'
-  affiliateLinks: ['ledger', 'trezor', 'binance']
+  priority: high
+  affiliateLinks:
+    - ledger
+    - trezor
+    - binance
+alternateLanguages:
+  en: ledger-vs-trezor-which-wallet-is-best-to-protect-your-cryptos
+  es: ledger-vs-trezor-cul-es-la-mejor-cartera-para-proteger-tus-criptomonedas
 ---
 
 # Ledger vs Trezor: Qual a Melhor Carteira para Proteger suas Criptos?

@@ -1,24 +1,43 @@
 ---
-id: 'bitcoin-ordinals-nfts-bitcoin-2026'
-title: "Bitcoin Ordinals e NFTs no Bitcoin 2026: Nova Era de Utilidade para BTC"
-slug: 'bitcoin-ordinals-nfts-bitcoin-2026'
-excerpt: "Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão transformando Bitcoin em 2026 além de apenas reserva de valor."
+id: bitcoin-ordinals-nfts-bitcoin-2026
+title: 'Bitcoin Ordinals e NFTs no Bitcoin 2026: Nova Era de Utilidade para BTC'
+slug: bitcoin-ordinals-nfts-bitcoin-2026
+excerpt: >-
+  Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão
+  transformando Bitcoin em 2026 além de apenas reserva de valor.
 coverImage:
-  src: '/images/053.jpg'
-  alt: 'Bitcoin Ordinals e NFTs'
+  src: /images/053.jpg
+  alt: Bitcoin Ordinals e NFTs
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Equipe A Cifra
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-23'
 updatedAt: '2025-11-23'
-categorySlug: 'bitcoin'
-tags: ["Bitcoin", "Ordinals", "NFTs", "BRC-20", "Runes", "2026"]
+categorySlug: bitcoin
+tags:
+  - Bitcoin
+  - Ordinals
+  - NFTs
+  - BRC-20
+  - Runes
+  - '2026'
 seo:
-  metaTitle: 'Bitcoin Ordinals e NFTs no Bitcoin 2026 | A Cifra'
-  metaDescription: 'Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão transformando Bitcoin em 2026 além de apenas reserva de valor.'
-  keywords: ['Bitcoin', 'Ordinals', 'NFTs', 'BRC-20', 'Runes', '2026']
+  metaTitle: Bitcoin Ordinals e NFTs no Bitcoin 2026 | A Cifra
+  metaDescription: >-
+    Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão
+    transformando Bitcoin em 2026 além de apenas reserva de valor.
+  keywords:
+    - Bitcoin
+    - Ordinals
+    - NFTs
+    - BRC-20
+    - Runes
+    - '2026'
+alternateLanguages:
+  en: bitcoin-ordinals-and-nfts-on-bitcoin-2026-new-era-of-utility-for-btc
+  es: bitcoin-ordinals-y-nfts-en-bitcoin-2026-nueva-era-de-utilidad-para-btc
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Ordinals e NFTs no [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) 2026: Nova Era de Utilidade para BTC

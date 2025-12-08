@@ -45,6 +45,11 @@ seo:
     - investir nft
     - mercado nft
 categorySlug: nfts
+alternateLanguages:
+  en: >-
+    nfts-what-they-are-and-how-they-are-changing-the-way-we-buy-and-sell-art-and-collectibles
+  es: >-
+    nfts-lo-que-son-y-cmo-estn-cambiando-la-forma-en-que-compramos-y-vendemos-arte-y-coleccionables
 ---
 
 Os **NFTs (Tokens Não Fungíveis)** estão revolucionando fundamentalmente a forma como compramos, vendemos e pensamos sobre arte e colecionáveis. Com a capacidade única de criar e transferir propriedade digital autêntica, os NFTs estão atraindo a atenção de artistas, colecionadores, investidores e entusiastas de tecnologia em todo o mundo.

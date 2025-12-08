@@ -1,34 +1,41 @@
 ---
-id: 'comprar-primeira-cripto'
+id: comprar-primeira-cripto
 title: 'Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo'
-slug: 'como-comprar-primeira-criptomoeda'
-excerpt: 'Tutorial completo para iniciantes: aprenda a comprar sua primeira criptomoeda de forma segura, desde a escolha da exchange até o armazenamento.'
+slug: como-comprar-primeira-criptomoeda
+excerpt: >-
+  Tutorial completo para iniciantes: aprenda a comprar sua primeira criptomoeda
+  de forma segura, desde a escolha da exchange até o armazenamento.
 coverImage:
-  src: '/images/044.jpg'
-  alt: 'Como comprar criptomoedas - Tutorial passo a passo'
+  src: /images/044.jpg
+  alt: Como comprar criptomoedas - Tutorial passo a passo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'tutoriais'
+categorySlug: tutoriais
 tags:
-  - 'tutorial'
-  - 'iniciantes'
-  - 'comprar cripto'
-  - 'exchange'
-  - 'passo a passo'
+  - tutorial
+  - iniciantes
+  - comprar cripto
+  - exchange
+  - passo a passo
 seo:
   metaTitle: 'Como Comprar Sua Primeira Criptomoeda: Tutorial Completo | A Cifra'
-  metaDescription: 'Guia passo a passo para comprar sua primeira criptomoeda: escolha de exchange, cadastro, verificação, depósito e compra segura.'
+  metaDescription: >-
+    Guia passo a passo para comprar sua primeira criptomoeda: escolha de
+    exchange, cadastro, verificação, depósito e compra segura.
   keywords:
-    - 'como comprar criptomoeda'
-    - 'comprar bitcoin'
-    - 'primeira cripto'
-    - 'tutorial cripto'
-    - 'exchange brasil'
+    - como comprar criptomoeda
+    - comprar bitcoin
+    - primeira cripto
+    - tutorial cripto
+    - exchange brasil
+alternateLanguages:
+  en: how-to-buy-your-first-cryptocurrency-step-by-step-guide
+  es: cmo-comprar-su-primera-criptomoneda-gua-paso-a-paso
 ---
 
 Comprar sua **primeira criptomoeda** pode parecer complicado, mas este guia passo a passo vai simplificar todo o processo.

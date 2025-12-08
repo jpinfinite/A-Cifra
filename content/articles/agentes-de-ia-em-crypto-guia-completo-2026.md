@@ -1,27 +1,45 @@
 ---
-id: 'agentes-de-ia-em-crypto-guia-completo-2026-2025-12-06'
+id: agentes-de-ia-em-crypto-guia-completo-2026-2025-12-06
 title: 'Agentes de IA em Crypto: Guia Completo 2026'
-slug: 'agentes-de-ia-em-crypto-guia-completo-2026'
-excerpt: 'Agentes de IA em Crypto. Guia completo com análise detalhada, dicas práticas e tudo que você precisa saber para tomar decisões informadas.'
+slug: agentes-de-ia-em-crypto-guia-completo-2026
+excerpt: >-
+  Agentes de IA em Crypto. Guia completo com análise detalhada, dicas práticas e
+  tudo que você precisa saber para tomar decisões informadas.
 coverImage:
-  src: '/images/analises/2025-12/agentes-de-ia-em-crypto-guia-completo-2026.webp'
-  alt: 'Ilustração conceitual sobre Agentes de IA em Crypto'
+  src: /images/analises/2025-12/agentes-de-ia-em-crypto-guia-completo-2026.webp
+  alt: Ilustração conceitual sobre Agentes de IA em Crypto
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-06'
 updatedAt: '2025-12-06'
-categorySlug: 'analises'
-tags: ["analises","agentes","de","ia"]
+categorySlug: analises
+tags:
+  - analises
+  - agentes
+  - de
+  - ia
 seo:
   metaTitle: 'Agentes de IA em Crypto: Guia Completo 2026'
-  metaDescription: 'Agentes de IA em Crypto. Análise completa, previsões e guia prático para investidores.'
-  keywords: ["Agentes","de","IA","em","Crypto"]
+  metaDescription: >-
+    Agentes de IA em Crypto. Análise completa, previsões e guia prático para
+    investidores.
+  keywords:
+    - Agentes
+    - de
+    - IA
+    - em
+    - Crypto
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance","bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: artificial-intelligence-agents-in-crypto-a-2026-complete-guide
+  es: agentes-de-ia-en-crypto-gua-completa-2026
 ---
 
 # Agentes de IA em Crypto: Guia Completo 2026

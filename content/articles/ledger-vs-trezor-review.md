@@ -1,27 +1,51 @@
 ---
-id: 'ledger-vs-trezor-review-2026-2025-12-05'
+id: ledger-vs-trezor-review-2026-2025-12-05
 title: 'Ledger vs Trezor Review 2026: Testamos as Duas e Aqui Está o Veredito'
-slug: 'ledger-vs-trezor-review'
-excerpt: 'Review completo e imparcial das duas melhores hardware wallets do mercado. Testamos Ledger Nano Gen5 e Trezor Safe 7 por 3 meses. Descubra qual vale seu investimento.'
+slug: ledger-vs-trezor-review
+excerpt: >-
+  Review completo e imparcial das duas melhores hardware wallets do mercado.
+  Testamos Ledger Nano Gen5 e Trezor Safe 7 por 3 meses. Descubra qual vale seu
+  investimento.
 coverImage:
-  src: '/images/seguranca/2025-12/ledger-trezor-review.webp'
-  alt: 'Ledger e Trezor lado a lado em teste de bancada com ferramentas de análise de segurança'
+  src: /images/seguranca/2025-12/ledger-trezor-review.webp
+  alt: >-
+    Ledger e Trezor lado a lado em teste de bancada com ferramentas de análise
+    de segurança
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-05'
 updatedAt: '2025-12-05'
-categorySlug: 'seguranca'
-tags: ['ledger', 'trezor', 'review', 'hardware wallet', 'teste', 'comparativo']
+categorySlug: seguranca
+tags:
+  - ledger
+  - trezor
+  - review
+  - hardware wallet
+  - teste
+  - comparativo
 seo:
   metaTitle: 'Ledger vs Trezor Review 2026: Teste Real e Veredito Final | A Cifra'
-  metaDescription: 'Review honesto após 3 meses testando Ledger Nano Gen5 e Trezor Safe 7. Segurança, usabilidade, prós e contras. Qual realmente vale a pena?'
-  keywords: ['ledger review', 'trezor review', 'ledger vs trezor', 'melhor hardware wallet', 'teste ledger', 'teste trezor']
+  metaDescription: >-
+    Review honesto após 3 meses testando Ledger Nano Gen5 e Trezor Safe 7.
+    Segurança, usabilidade, prós e contras. Qual realmente vale a pena?
+  keywords:
+    - ledger review
+    - trezor review
+    - ledger vs trezor
+    - melhor hardware wallet
+    - teste ledger
+    - teste trezor
 monetization:
-  priority: 'high'
-  affiliateLinks: ['ledger', 'trezor']
+  priority: high
+  affiliateLinks:
+    - ledger
+    - trezor
+alternateLanguages:
+  en: ledger-vs-trezor-review-2026-we-tested-both-and-heres-the-verdict
+  es: ledger-vs-trezor-review-2026-probamos-las-dos-y-aqu-est-el-veredicto
 ---
 
 # Ledger vs Trezor Review 2026: Testamos as Duas e Aqui Está o Veredito

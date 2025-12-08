@@ -1,27 +1,42 @@
 ---
-id: 'minerao-verde-bitcoin-2025-12-09'
+id: minerao-verde-bitcoin-2025-12-09
 title: 'Mineração Sustentável: O Futuro Verde do Bitcoin'
-slug: 'minerao-verde-bitcoin'
-excerpt: 'Análise completa sobre Mineração Verde Bitcoin. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: minerao-verde-bitcoin
+excerpt: >-
+  Análise completa sobre Mineração Verde Bitcoin. Descubra as previsões,
+  tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/bitcoin/2025-12/minerao-verde-bitcoin.webp'
+  src: /images/bitcoin/2025-12/minerao-verde-bitcoin.webp
   alt: 'Mineração Sustentável: O Futuro Verde do Bitcoin'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'bitcoin'
-tags: ["bitcoin", "tendencias-2026", "tecnologia"]
+categorySlug: bitcoin
+tags:
+  - bitcoin
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'Mineração Sustentável: O Futuro Verde do Bitcoin | Análise 2026'
-  metaDescription: 'Guia definitivo sobre Mineração Verde Bitcoin. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["Mineração Verde Bitcoin", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre Mineração Verde Bitcoin. Previsões de mercado e
+    análise técnica para investidores inteligentes.
+  keywords:
+    - Mineração Verde Bitcoin
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: sustainable-mining-the-green-future-of-bitcoin
+  es: minera-sostenible-el-futuro-verde-del-bitcoin
 ---
 
 # Mineração Sustentável: O Futuro Verde do Bitcoin

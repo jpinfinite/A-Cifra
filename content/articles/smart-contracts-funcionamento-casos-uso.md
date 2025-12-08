@@ -1,31 +1,38 @@
 ---
-id: 'smart-contracts-funcionamento-casos-uso'
+id: smart-contracts-funcionamento-casos-uso
 title: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
-slug: 'smart-contracts-funcionamento-casos-uso'
-excerpt: 'Guia completo sobre smart contracts, desde o básico até aplicações práticas no mundo real.'
+slug: smart-contracts-funcionamento-casos-uso
+excerpt: >-
+  Guia completo sobre smart contracts, desde o básico até aplicações práticas no
+  mundo real.
 coverImage:
-  src: '/images/020.jpg'
+  src: /images/020.jpg
   alt: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'educacao'
+categorySlug: educacao
 tags:
-  - 'smart contracts'
-  - 'ethereum'
-  - 'solidity'
-  - 'dapps'
+  - smart contracts
+  - ethereum
+  - solidity
+  - dapps
 seo:
   metaTitle: 'Smart Contracts: Como Funcionam e Casos de Uso Reais | A Cifra'
-  metaDescription: 'Guia completo sobre smart contracts, desde o básico até aplicações práticas no mundo real.'
+  metaDescription: >-
+    Guia completo sobre smart contracts, desde o básico até aplicações práticas
+    no mundo real.
   keywords:
-    - 'smart contracts'
-    - 'ethereum'
-    - 'solidity'
-    - 'dapps'
+    - smart contracts
+    - ethereum
+    - solidity
+    - dapps
+alternateLanguages:
+  en: smart-contracts-how-they-work-and-real-world-use-cases
+  es: contratos-inteligentes-cmo-funcionan-y-casos-de-uso-reales
 ---
 
 Este guia completo explora **Smart Contracts** de forma detalhada e acessível.

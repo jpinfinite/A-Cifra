@@ -1,31 +1,34 @@
-﻿---
-id: 'suporte-resistencia-identificar-niveis'
+---
+id: suporte-resistencia-identificar-niveis
 title: 'Suporte e Resistência: Como Identificar Níveis Chave'
-slug: 'suporte-resistencia-identificar-niveis'
-excerpt: 'Guia prático para identificar e usar níveis de suporte e resistência.'
+slug: suporte-resistencia-identificar-niveis
+excerpt: Guia prático para identificar e usar níveis de suporte e resistência.
 coverImage:
-  src: '/images/technical-analysis-indicators-styled.jpg'
+  src: /images/technical-analysis-indicators-styled.jpg
   alt: 'Suporte e Resistência: Como Identificar Níveis Chave'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'analises'
+categorySlug: analises
 tags:
-  - 'suporte'
-  - 'resistência'
-  - 'níveis'
-  - 'trading'
+  - suporte
+  - resistência
+  - níveis
+  - trading
 seo:
   metaTitle: 'Suporte e Resistência: Como Identificar Níveis Chave | A Cifra'
-  metaDescription: 'Guia prático para identificar e usar níveis de suporte e resistência.'
+  metaDescription: Guia prático para identificar e usar níveis de suporte e resistência.
   keywords:
-    - 'suporte'
-    - 'resistência'
-    - 'níveis'
-    - 'trading'
+    - suporte
+    - resistência
+    - níveis
+    - trading
+alternateLanguages:
+  en: support-and-resistance-how-to-identify-key-levels
+  es: soporte-y-resistencia-cmo-identificar-niveles-clave
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora suporte e resistência: como identificar níveis chave.

@@ -1,31 +1,38 @@
 ---
-id: 'arbitrum-layer2-ethereum-escalabilidade'
+id: arbitrum-layer2-ethereum-escalabilidade
 title: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups'
-slug: 'arbitrum-layer2-ethereum-escalabilidade'
-excerpt: 'Descubra como Arbitrum está revolucionando a escalabilidade do Ethereum com rollups otimistas e taxas baixas.'
+slug: arbitrum-layer2-ethereum-escalabilidade
+excerpt: >-
+  Descubra como Arbitrum está revolucionando a escalabilidade do Ethereum com
+  rollups otimistas e taxas baixas.
 coverImage:
-  src: '/images/009.jpg'
+  src: /images/009.jpg
   alt: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-01-31'
-categorySlug: 'ethereum'
+categorySlug: ethereum
 tags:
-  - 'arbitrum'
-  - 'layer 2'
-  - 'ethereum'
-  - 'rollups'
+  - arbitrum
+  - layer 2
+  - ethereum
+  - rollups
 seo:
   metaTitle: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups | A Cifra'
-  metaDescription: 'Descubra como Arbitrum está revolucionando a escalabilidade do Ethereum com rollups otimistas e taxas baixas.'
+  metaDescription: >-
+    Descubra como Arbitrum está revolucionando a escalabilidade do Ethereum com
+    rollups otimistas e taxas baixas.
   keywords:
-    - 'arbitrum'
-    - 'layer 2'
-    - 'ethereum'
-    - 'rollups'
+    - arbitrum
+    - layer 2
+    - ethereum
+    - rollups
+alternateLanguages:
+  en: arbitrum-scaling-ethereum-with-layer-2-optimistic-rollups
+  es: arbitrum-escalando-ethereum-con-capas-2-optimistic-rollups
 ---
 
 **Arbitrum** é a solução Layer 2 líder para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), oferecendo transações rápidas e baratas através de Optimistic Rollups.

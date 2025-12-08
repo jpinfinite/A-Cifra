@@ -1,24 +1,44 @@
 ---
-id: 'ethereum-4k-caminho-2025-analise-completa'
+id: ethereum-4k-caminho-2025-analise-completa
 title: 'Ethereum Rumo aos $4.000: Análise Completa e Catalisadores para Dezembro 2025'
-slug: 'ethereum-4k-caminho-2025-analise-completa'
-excerpt: 'Ethereum em $3.187 busca romper $4k. Análise técnica revela catalisadores: upgrades da rede, staking crescente e ETFs. Descubra os próximos alvos e estratégias.'
+slug: ethereum-4k-caminho-2025-analise-completa
+excerpt: >-
+  Ethereum em $3.187 busca romper $4k. Análise técnica revela catalisadores:
+  upgrades da rede, staking crescente e ETFs. Descubra os próximos alvos e
+  estratégias.
 coverImage:
-  src: '/images/ethereum-4k-analise-2025.jpg'
-  alt: 'Ethereum rumo aos $4.000 - Análise completa dezembro 2025'
+  src: /images/ethereum-4k-analise-2025.jpg
+  alt: Ethereum rumo aos $4.000 - Análise completa dezembro 2025
   width: 1200
   height: 630
 author:
-  name: 'Equipe A Cifra'
-  avatar: '/avatar.png'
+  name: Equipe A Cifra
+  avatar: /avatar.png
 publishedAt: '2025-12-04'
 updatedAt: '2025-12-04'
-categorySlug: 'ethereum'
-tags: ['ethereum', 'eth', 'análise técnica', 'eth 4k', 'dezembro 2025']
+categorySlug: ethereum
+tags:
+  - ethereum
+  - eth
+  - análise técnica
+  - eth 4k
+  - dezembro 2025
 seo:
   metaTitle: 'Ethereum $4k: Análise Completa e Próximos Alvos 2025 | A Cifra'
-  metaDescription: 'Ethereum busca $4.000 com fundamentos sólidos. Análise técnica completa, catalisadores (upgrades, staking, ETFs) e estratégias para dezembro 2025.'
-  keywords: ['ethereum 4k', 'eth dezembro 2025', 'análise ethereum', 'próximos alvos eth', 'ethereum 2025']
+  metaDescription: >-
+    Ethereum busca $4.000 com fundamentos sólidos. Análise técnica completa,
+    catalisadores (upgrades, staking, ETFs) e estratégias para dezembro 2025.
+  keywords:
+    - ethereum 4k
+    - eth dezembro 2025
+    - análise ethereum
+    - próximos alvos eth
+    - ethereum 2025
+alternateLanguages:
+  en: >-
+    ethereum-heading-towards-4000-comprehensive-analysis-and-catalysts-for-december-2025
+  es: >-
+    ethereum-rumbo-a-los-4000-anlisis-completo-y-catalizadores-para-diciembre-2025
 ---
 
 # [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) Rumo aos $4.000: Análise Completa e Catalisadores para Dezembro 2025
