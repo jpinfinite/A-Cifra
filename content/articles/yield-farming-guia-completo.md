@@ -1,34 +1,41 @@
 ---
-id: 'yield-farming-guia'
+id: yield-farming-guia
 title: 'Yield Farming: Guia Completo para Maximizar Rendimentos em DeFi'
-slug: 'yield-farming-guia-completo'
-excerpt: 'Aprenda tudo sobre yield farming: o que é, como funciona, melhores estratégias, riscos e como começar a ganhar rendimentos passivos em DeFi.'
+slug: yield-farming-guia-completo
+excerpt: >-
+  Aprenda tudo sobre yield farming: o que é, como funciona, melhores
+  estratégias, riscos e como começar a ganhar rendimentos passivos em DeFi.
 coverImage:
-  src: '/images/214.jpg'
-  alt: 'Yield Farming - Guia completo'
+  src: /images/214.jpg
+  alt: Yield Farming - Guia completo
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-10-31'
 updatedAt: '2025-10-31'
-categorySlug: 'defi'
+categorySlug: defi
 tags:
-  - 'yield farming'
-  - 'defi'
-  - 'farming'
-  - 'apy'
-  - 'liquidez'
+  - yield farming
+  - defi
+  - farming
+  - apy
+  - liquidez
 seo:
   metaTitle: 'Yield Farming: Guia Completo para Maximizar Rendimentos | A Cifra'
-  metaDescription: 'Guia completo de yield farming: estratégias, melhores plataformas, cálculo de APY, riscos e como começar a fazer farming em DeFi.'
+  metaDescription: >-
+    Guia completo de yield farming: estratégias, melhores plataformas, cálculo
+    de APY, riscos e como começar a fazer farming em DeFi.
   keywords:
-    - 'yield farming'
-    - 'farming defi'
-    - 'apy cripto'
-    - 'liquidez defi'
-    - 'farming estratégias'
+    - yield farming
+    - farming defi
+    - apy cripto
+    - liquidez defi
+    - farming estratégias
+alternateLanguages:
+  en: yield-farming-complete-guide-to-maximizing-returns-in-defi
+  es: yield-farming-gua-completa-para-maximizar-rendimientos-en-defi
 ---
 
 **Yield Farming** é uma das formas mais populares de ganhar rendimentos passivos em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), mas requer conhecimento e gestão de riscos.

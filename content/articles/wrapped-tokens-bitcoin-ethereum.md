@@ -29,7 +29,7 @@ seo:
     - interoperabilidade
 alternateLanguages:
   en: wrapped-tokens-bringing-bitcoin-to-ethereum
-  es: tokens-envueltos-llevando-bitcoin-a-ethereum
+  es: tokens-envueltos-traer-bitcoin-a-ethereum
 ---
 
 Este guia completo explora **Wrapped Tokens** de forma detalhada e acessível.

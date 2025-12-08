@@ -33,7 +33,7 @@ seo:
 language: en
 alternateLanguages:
   pt: uniswap-v4-hooks-personalizacao-defi
-  es: uniswap-v4-y-hooks-nueva-era-de-personalizacin-en-defi
+  es: uniswap-v4-e-hooks-nueva-era-de-personalizacin-en-defi
 ---
 **Uniswap V4** introduces customizable hooks that allow developers to create liquidity pools with personalized logic.
 

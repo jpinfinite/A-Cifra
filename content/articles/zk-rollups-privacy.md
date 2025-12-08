@@ -1,27 +1,42 @@
 ---
-id: 'zk-rollups-privacy-2025-12-10'
+id: zk-rollups-privacy-2025-12-10
 title: 'ZK-Rollups: Privacidade e Escalabilidade Total no Ethereum'
-slug: 'zk-rollups-privacy'
-excerpt: 'Análise completa sobre ZK-Rollups Privacy. Descubra as previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.'
+slug: zk-rollups-privacy
+excerpt: >-
+  Análise completa sobre ZK-Rollups Privacy. Descubra as previsões, tecnologias
+  e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: '/images/ethereum/2025-12/zk-rollups-privacy.webp'
+  src: /images/ethereum/2025-12/zk-rollups-privacy.webp
   alt: 'ZK-Rollups: Privacidade e Escalabilidade Total no Ethereum'
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/Jonatha-Pereira-SEO.png'
+  name: Jonatha Pereira
+  avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-12-08'
 updatedAt: '2025-12-08'
-categorySlug: 'ethereum'
-tags: ["ethereum", "tendencias-2026", "tecnologia"]
+categorySlug: ethereum
+tags:
+  - ethereum
+  - tendencias-2026
+  - tecnologia
 seo:
   metaTitle: 'ZK-Rollups: Privacidade e Escalabilidade Total no Ethereum | Análise 2026'
-  metaDescription: 'Guia definitivo sobre ZK-Rollups Privacy. Previsões de mercado e análise técnica para investidores inteligentes.'
-  keywords: ["ZK-Rollups Privacy", "criptomoedas 2026", "investimento"]
+  metaDescription: >-
+    Guia definitivo sobre ZK-Rollups Privacy. Previsões de mercado e análise
+    técnica para investidores inteligentes.
+  keywords:
+    - ZK-Rollups Privacy
+    - criptomoedas 2026
+    - investimento
 monetization:
-  priority: 'high'
-  affiliateLinks: ["binance", "bitget"]
+  priority: high
+  affiliateLinks:
+    - binance
+    - bitget
+alternateLanguages:
+  en: zk-rollups-total-privacy-and-scalability-on-ethereum
+  es: zk-rollups-privacidad-y-escalabilidad-total-en-ethereum
 ---
 
 # ZK-Rollups: Privacidade e Escalabilidade Total no Ethereum

@@ -44,7 +44,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana
-  en: asset-tokenization-rwa-2026-maximize-your-gains-with-security
+  en: tokenization-of-real-assets-rwa-2026-maximize-your-gains-with-security
 ---
 # Tokenización de Activos Reales RWA 2026: Maximize Sus Ganancias con Seguridad
 

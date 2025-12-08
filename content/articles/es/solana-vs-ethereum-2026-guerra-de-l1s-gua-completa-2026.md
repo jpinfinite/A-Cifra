@@ -44,7 +44,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026
-  en: solana-vs-ethereum-2026-war-of-l1s-complete-guide-2026
+  en: solana-vs-ethereum-2026-war-of-l1s-the-2026-complete-guide
 ---
 # Solana vs Ethereum 2026 Guerra de L1: Guía Completa 2026
 

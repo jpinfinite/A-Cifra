@@ -32,7 +32,7 @@ seo:
     - amm
 alternateLanguages:
   en: uniswap-v4-and-hooks-a-new-era-of-personalization-in-defi
-  es: uniswap-v4-y-hooks-nueva-era-de-personalizacin-en-defi
+  es: uniswap-v4-e-hooks-nueva-era-de-personalizacin-en-defi
 ---
 
 **Uniswap V4** introduz hooks customizáveis que permitem desenvolvedores criarem pools de liquidez com lógica personalizada.

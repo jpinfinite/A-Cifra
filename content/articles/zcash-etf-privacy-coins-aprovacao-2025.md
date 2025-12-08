@@ -1,24 +1,53 @@
 ---
-id: 'zcash-etf-privacy-coins-aprovacao-2025'
-title: 'ETF de Zcash: Privacy Coins Podem Ser Aprovadas? Análise Completa do Pedido da Grayscale'
-slug: 'zcash-etf-privacy-coins-aprovacao-2025'
-excerpt: 'Grayscale pediu aprovação do primeiro ETF de privacy coin da história. Entenda o que isso significa para Zcash, o mercado de privacy coins e se ZEC é um bom investimento em 2025.'
+id: zcash-etf-privacy-coins-aprovacao-2025
+title: >-
+  ETF de Zcash: Privacy Coins Podem Ser Aprovadas? Análise Completa do Pedido da
+  Grayscale
+slug: zcash-etf-privacy-coins-aprovacao-2025
+excerpt: >-
+  Grayscale pediu aprovação do primeiro ETF de privacy coin da história. Entenda
+  o que isso significa para Zcash, o mercado de privacy coins e se ZEC é um bom
+  investimento em 2025.
 coverImage:
-  src: '/images/articles/zcash.png'
-  alt: 'Zcash ETF - Privacy coins e regulação'
+  src: /images/articles/zcash.png
+  alt: Zcash ETF - Privacy coins e regulação
   width: 1200
   height: 630
 author:
-  name: 'Jonatha Pereira'
-  avatar: '/avatar.png'
+  name: Jonatha Pereira
+  avatar: /avatar.png
 publishedAt: '2025-11-26'
 updatedAt: '2025-11-26'
-categorySlug: 'regulacao'
-tags: ['Zcash', 'ZEC', 'ETF', 'privacy coins', 'Grayscale', 'SEC', 'regulação', 'Monero']
+categorySlug: regulacao
+tags:
+  - Zcash
+  - ZEC
+  - ETF
+  - privacy coins
+  - Grayscale
+  - SEC
+  - regulação
+  - Monero
 seo:
   metaTitle: 'ETF de Zcash: Privacy Coins Serão Aprovadas? Análise 2025 | A Cifra'
-  metaDescription: 'Grayscale pediu o primeiro ETF de privacy coin. Análise completa: chances de aprovação, impacto no ZEC, comparação com Monero e se vale investir em privacy coins em 2025.'
-  keywords: ['Zcash ETF', 'ZEC', 'privacy coins', 'Grayscale', 'SEC aprovação', 'Monero', 'criptomoedas privadas', 'investir Zcash']
+  metaDescription: >-
+    Grayscale pediu o primeiro ETF de privacy coin. Análise completa: chances de
+    aprovação, impacto no ZEC, comparação com Monero e se vale investir em
+    privacy coins em 2025.
+  keywords:
+    - Zcash ETF
+    - ZEC
+    - privacy coins
+    - Grayscale
+    - SEC aprovação
+    - Monero
+    - criptomoedas privadas
+    - investir Zcash
+alternateLanguages:
+  en: >-
+    zcash-etf-can-privacy-coins-be-approved-a-comprehensive-analysis-of-the-grayscale-application
+  es: >-
+    etf-de-zcash-monedas-de-privacidad-pueden-ser-aprobadas-anlisis-completo-de-la-solicitud-de-grayscal
 ---
 
 Em um movimento histórico que pode mudar completamente o jogo das criptomoedas focadas em privacidade, a **Grayscale Investments** acaba de protocolar um pedido junto à SEC para listar o **primeiro ETF de privacy coin da história**: o **Zcash ETF**.

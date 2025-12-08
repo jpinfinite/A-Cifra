@@ -41,7 +41,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: solana-vs-ethereum-2026-war-of-l1s-complete-guide-2026
+  en: solana-vs-ethereum-2026-war-of-l1s-the-2026-complete-guide
   es: solana-vs-ethereum-2026-guerra-de-l1s-gua-completa-2026
 ---
 

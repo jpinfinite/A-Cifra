@@ -37,7 +37,7 @@ language: en
 alternateLanguages:
   pt: stablecoins-algoritmicas-2026
   es: >-
-    monedas-de-estabilidad-algortmicas-2026-el-futuro-de-las-monedas-estables-descentralizadas
+    monedas-estables-algortmicas-2026-el-futuro-de-las-monedas-estables-descentralizadas
 ---
 Stablecoins Algorítmicas 2026: O Futuro das Moedas Estáveis Descentralizadas
 

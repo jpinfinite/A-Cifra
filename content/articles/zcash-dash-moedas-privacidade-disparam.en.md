@@ -34,6 +34,9 @@ seo:
     Zcash, Dash, privacy coins, cryptocurrency, ZEC, DASH, zk-SNARKs, CoinJoin,
     crypto privacy
 categorySlug: altcoins
+alternateLanguages:
+  en: the-comeback-of-secret-coins-zcash-and-dash-surge-in-the-market
+  es: el-regreso-de-las-monedas-secretas-zcash-y-dash-surgen-en-el-mercado
 ---
 
 ## Context: The Privacy Coin Boom

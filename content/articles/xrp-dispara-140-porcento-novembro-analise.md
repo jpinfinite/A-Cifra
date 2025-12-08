@@ -35,7 +35,7 @@ seo:
     - xrp análise
     - xrp previsão
 alternateLanguages:
-  en: xrp-surges-140-in-november---rally-analysis-and-next-targets
+  en: xrp-jumps-140-in-november---rally-analysis-and-next-targets
   es: xrp-dispara-140-en-noviembre---anlisis-del-rally-y-prximos-objetivos
 ---
 

@@ -41,7 +41,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: asset-tokenization-rwa-2026-maximize-your-gains-with-security
+  en: tokenization-of-real-assets-rwa-2026-maximize-your-gains-with-security
   es: tokenizacin-de-activos-reales-rwa-2026-maximize-sus-ganancias-con-seguridad
 ---
 
