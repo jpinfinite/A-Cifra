@@ -37,7 +37,7 @@ async function generateTextWithAI(systemPrompt, userPrompt) {
         return json.result.response;
     } catch (e) {
         console.error("❌ Erro na IA:", e.message);
-        return null;
+        return null; // Retorna null para o chamador tratar
     }
 }
 
@@ -61,6 +61,7 @@ async function generateFullArticle(topic) {
     Não coloque título, comece direto no texto. Use Markdown.`;
 
     const intro = await generateTextWithAI(systemPrompt, introPrompt);
+    if (!intro) return null; // Falha na API
 
     // 2. Gerar Desenvolvimento Técnico
     console.log("   ✍️  Gerando Desenvolvimento...");
@@ -73,6 +74,7 @@ async function generateFullArticle(topic) {
     Use Markdown. Mínimo 600 palavras.`;
 
     const body = await generateTextWithAI(systemPrompt, bodyPrompt);
+    if (!body) return null;
 
     // 3. Gerar Conclusão e FAQ
     console.log("   ✍️  Gerando Conclusão...");
@@ -83,13 +85,17 @@ async function generateFullArticle(topic) {
     Use Markdown.`;
 
     const footer = await generateTextWithAI(systemPrompt, footerPrompt);
+    if (!footer) return null;
 
     // Montar Artigo Final
     return `${intro}\n\n${body}\n\n${footer}`;
 }
 
 function createFrontmatter(topic) {
-    const date = new Date().toISOString().split('T')[0];
+    const today = new Date().toISOString().split('T')[0];
+    // Se o tópico tiver publishDate (do planner), usa ela. Se não, usa hoje.
+    const date = topic.publishDate || today;
+
     const slug = topic.keyword.toLowerCase()
         .replace(/[^\w\s-]/g, '')
         .replace(/\s+/g, '-');
@@ -128,27 +134,50 @@ monetization:
 async function main() {
     console.log('🚀 Gerador de Artigos IA - A Cifra\n');
 
-    // Carregar sugestões
-    const reportPath = path.join(__dirname, '../data/trending-report.json');
-    if (!fs.existsSync(reportPath)) {
-        console.log('❌ Execute "node scripts/monitor-tendencias.js" primeiro.');
+    // Carregar sugestões (Prioridade para Pauta Semanal)
+    let suggestions = [];
+    const weeklyPlanPath = path.join(__dirname, '../data/weekly-plan.json');
+    const trendingPath = path.join(__dirname, '../data/trending-report.json');
+
+    if (fs.existsSync(weeklyPlanPath)) {
+        console.log('📅 Carregando pauta semanal (weekly-plan.json)...');
+        const plan = JSON.parse(fs.readFileSync(weeklyPlanPath, 'utf8'));
+        suggestions = plan.suggestions || [];
+    } else if (fs.existsSync(trendingPath)) {
+        console.log('🔥 Carregando tendências (trending-report.json)...');
+        const report = JSON.parse(fs.readFileSync(trendingPath, 'utf8'));
+        suggestions = report.suggestions || [];
+    } else {
+        console.log('❌ Nenhum plano encontrado.');
+        console.log('   Execute "node scripts/planejar-pauta.js" para criar uma pauta semanal.');
+        console.log('   Ou "node scripts/monitor-tendencias.js" para tendências diárias.');
         return;
     }
-    const report = JSON.parse(fs.readFileSync(reportPath, 'utf8'));
-    const suggestions = report.suggestions || [];
 
     // Processar cada sugestão
-    for (const topic of suggestions) {
+    console.log(`🎯 Total de artigos para gerar: ${suggestions.length}\n`);
+
+    for (let i = 0; i < suggestions.length; i++) {
+        const topic = suggestions[i];
+        console.log(`[${i+1}/${suggestions.length}] Processando: ${topic.title}`);
+
         try {
+            // Verificar se já existe para não gastar IA à toa
+            const slug = topic.keyword.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+            const potentialPath = path.join(__dirname, '../content/articles', `${slug}.md`);
+            if (fs.existsSync(potentialPath)) {
+                console.log(`   ⚠️  Artigo já existe, pulando.`);
+                continue;
+            }
+
             const content = await generateFullArticle(topic);
-            if (!content) continue;
+            if (!content) {
+                console.log(`   ⚠️  Falha ao gerar texto (API pode estar sobrecarregada), tentando próximo...`);
+                continue;
+            }
 
             const fullArticle = createFrontmatter(topic) + content;
-
-            const slug = topic.keyword.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-            const filePath = path.join(__dirname, '../content/articles', `${slug}.md`);
-
-            fs.writeFileSync(filePath, fullArticle);
+            fs.writeFileSync(potentialPath, fullArticle);
             console.log(`   ✅ Artigo salvo: ${slug}.md`);
 
         } catch (error) {

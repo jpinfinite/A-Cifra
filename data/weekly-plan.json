@@ -1,0 +1,256 @@
+{
+  "date": "2025-12-07T03:48:25.886Z",
+  "weekStart": "2025-12-09T00:00:00.000Z",
+  "suggestions": [
+    {
+      "keyword": "Bitcoin Halving 2028",
+      "title": "Ciclos do Bitcoin: O Que Esperar do Halving de 2028?",
+      "category": "bitcoin",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-09"
+    },
+    {
+      "keyword": "ETFs de Bitcoin Spot Options",
+      "title": "Opções de ETFs de Bitcoin: Como Impactam a Volatilidade?",
+      "category": "bitcoin",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-09"
+    },
+    {
+      "keyword": "Bitcoin Sovereign Wealth Funds",
+      "title": "Países Comprando Bitcoin: A Nova Corrida do Ouro Digital",
+      "category": "bitcoin",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-09"
+    },
+    {
+      "keyword": "Lightning Network 2026",
+      "title": "Lightning Network em 2026: Pagamentos Instantâneos Globalizados",
+      "category": "bitcoin",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-09"
+    },
+    {
+      "keyword": "Mineração Verde Bitcoin",
+      "title": "Mineração Sustentável: O Futuro Verde do Bitcoin",
+      "category": "bitcoin",
+      "priority": "low",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-09"
+    },
+    {
+      "keyword": "Ethereum Danksharding",
+      "title": "Danksharding: A Atualização que Vai Escalar o Ethereum para Milhões",
+      "category": "ethereum",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-10"
+    },
+    {
+      "keyword": "Arbitrum vs Optimism 2026",
+      "title": "Arbitrum vs Optimism: Quem Vence a Guerra das L2 em 2026?",
+      "category": "altcoins",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-10"
+    },
+    {
+      "keyword": "Base Chain Coinbase",
+      "title": "Base Chain: O Gigante da Coinbase Dominando o DeFi",
+      "category": "altcoins",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-10"
+    },
+    {
+      "keyword": "ZK-Rollups Privacy",
+      "title": "ZK-Rollups: Privacidade e Escalabilidade Total no Ethereum",
+      "category": "ethereum",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-10"
+    },
+    {
+      "keyword": "Ethereum Staking Líquido",
+      "title": "Lido e Rocket Pool: O Estado do Staking Líquido em 2026",
+      "category": "ethereum",
+      "priority": "low",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-10"
+    },
+    {
+      "keyword": "Tokenização Títulos Públicos",
+      "title": "Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain",
+      "category": "defi",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-11"
+    },
+    {
+      "keyword": "DeFi 2.0 Real Yield",
+      "title": "Real Yield: O Fim dos Tokens Inflacionários no DeFi",
+      "category": "defi",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-11"
+    },
+    {
+      "keyword": "DEX vs CEX 2026",
+      "title": "DEX vs CEX: Por Que o Volume Está Migrando para Descentralizadas",
+      "category": "defi",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-11"
+    },
+    {
+      "keyword": "Empréstimos Sem Colateral DeFi",
+      "title": "Crédito On-Chain: O Santo Graal dos Empréstimos DeFi",
+      "category": "defi",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-11"
+    },
+    {
+      "keyword": "Stablecoins Algorítmicas Seguras",
+      "title": "Stablecoins de Nova Geração: Aprendendo com os Erros do Passado",
+      "category": "defi",
+      "priority": "low",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-11"
+    },
+    {
+      "keyword": "Fetch.ai e Ocean Protocol",
+      "title": "A Fusão dos Gigantes de IA: Superinteligência Descentralizada",
+      "category": "altcoins",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-12"
+    },
+    {
+      "keyword": "Solana Firedancer",
+      "title": "Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS",
+      "category": "altcoins",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-12"
+    },
+    {
+      "keyword": "Render Network GPU",
+      "title": "Render Network: O Poder Computacional para o Metaverso e IA",
+      "category": "altcoins",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-12"
+    },
+    {
+      "keyword": "Illuvium e Star Atlas",
+      "title": "Jogos AAA na Blockchain: O Retorno do GameFi",
+      "category": "games",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-12"
+    },
+    {
+      "keyword": "Memecoins Utilitárias",
+      "title": "A Evolução das Memecoins: De Piada para Ecossistema",
+      "category": "altcoins",
+      "priority": "low",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-12"
+    },
+    {
+      "keyword": "Carteira Multisig Tutorial",
+      "title": "Como Criar uma Carteira Multisig para Proteção Máxima",
+      "category": "educacao",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-13"
+    },
+    {
+      "keyword": "Golpes Cripto 2026",
+      "title": "Os 5 Novos Golpes de Phishing em 2026 e Como Evitar",
+      "category": "educacao",
+      "priority": "high",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-13"
+    },
+    {
+      "keyword": "Impostos Cripto Guia",
+      "title": "Guia Definitivo de Impostos para Criptoativos 2026",
+      "category": "educacao",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-13"
+    },
+    {
+      "keyword": "Herança de Criptomoedas",
+      "title": "Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros",
+      "category": "educacao",
+      "priority": "medium",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-13"
+    },
+    {
+      "keyword": "Análise On-Chain Básica",
+      "title": "Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes",
+      "category": "educacao",
+      "priority": "low",
+      "trend": "scheduled",
+      "searchVolume": 0,
+      "relevance": 100,
+      "publishDate": "2025-12-13"
+    }
+  ]
+}
