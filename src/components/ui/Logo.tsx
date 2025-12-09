@@ -14,25 +14,25 @@ interface LogoProps {
  * - default/header: usa cabecalho.png
  * - white/footer: usa cifra-positivo.png
  */
-export function Logo({ 
-  className, 
-  size = 'md', 
+export function Logo({
+  className,
+  size = 'md',
   variant = 'default',
-  priority = false 
+  priority = false
 }: LogoProps) {
   const sizes = {
     sm: { width: 100, height: 33, class: 'h-8' },
     md: { width: 150, height: 50, class: 'h-12' },
     lg: { width: 200, height: 66, class: 'h-16' }
   }
-  
+
   const sizeConfig = sizes[size]
-  
+
   // Selecionar logo baseado na variante
   const logoSrc = variant === 'white' || variant === 'footer'
-    ? '/images/logos/cifra-positivo.png'
+    ? '/images/logos/logo-positiva.png'
     : '/images/logos/cabecalho.png'
-  
+
   return (
     <Link
       href="/"
@@ -42,9 +42,9 @@ export function Logo({
       )}
       aria-label="A Cifra - Página inicial"
     >
-      <Image 
+      <Image
         src={logoSrc}
-        alt="A Cifra - Logo" 
+        alt="A Cifra - Logo"
         className={cn(
           'w-auto object-contain',
           sizeConfig.class
