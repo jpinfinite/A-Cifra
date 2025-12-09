@@ -3,7 +3,7 @@ title: "BlackRock Revoluciona Wall Street com Pedido de ETF de Ethereum com Stak
 date: "2025-12-09"
 category: "Altcoins"
 excerpt: "A gigante de gestão de ativos BlackRock protocolou um pedido histórico para o iShares Staked Ethereum Trust (ETHB), visando oferecer exposição ao ETH com recompensas de staking. Entenda como isso pode transformar o mercado e atrair trilhões para a rede Ethereum."
-image: "/images/articles/blackrock-ethereum-staking-etf.png"
+image: "/images/articles/blackrock-ethereum-staking-etf.jpg"
 author: "Antigravity"
 ---
 
