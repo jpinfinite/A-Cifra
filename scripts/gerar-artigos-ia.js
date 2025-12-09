@@ -53,42 +53,53 @@ async function generateFullArticle(topic) {
     - Português do Brasil.
     `;
 
-    // 1. Gerar Introdução e Contexto
+    // 1. Gerar Introdução e Contexto (400+ palavras)
     console.log("   ✍️  Gerando Introdução...");
-    const introPrompt = `Escreva uma introdução impactante (300-400 palavras) para o artigo "${topic.title}".
+    const introPrompt = `Escreva uma introdução profunda e abrangente (mínimo 400 palavras) para o artigo "${topic.title}".
     Comece com um gancho forte sobre o cenário de 2025/2026.
-    Explique por que "${topic.keyword}" é crucial agora.
+    Explique a "dor" do mercado e por que "${topic.keyword}" é a solução.
     Não coloque título, comece direto no texto. Use Markdown.`;
 
     const intro = await generateTextWithAI(systemPrompt, introPrompt);
     if (!intro) return null; // Falha na API
 
-    // 2. Gerar Desenvolvimento Técnico
-    console.log("   ✍️  Gerando Desenvolvimento...");
-    const bodyPrompt = `Escreva o corpo técnico do artigo "${topic.title}".
-    Divida em subtítulos H2 (##).
-    Tópicos obrigatórios:
-    - O que é e Como Funciona (Explicação técnica mas acessível)
-    - Análise de Mercado e Potencial de Valorização
-    - Comparação com concorrentes ou ciclos passados
-    Use Markdown. Mínimo 600 palavras.`;
+    // 2. Gerar Desenvolvimento Técnico (Fundamentos)
+    console.log("   ✍️  Gerando Parte Técnica...");
+    const techPrompt = `Escreva a fundamentação técnica de "${topic.keyword}" (Mínimo 600 palavras).
+    - O que é e Como Funciona "debaixo do capô" (Explain like I'm 5 mas com profundidade).
+    - Diferenciais técnicos vs concorrentes.
+    - Use analogias.
+    - Subtítulos H2 (##).
+    Use Markdown.`;
 
-    const body = await generateTextWithAI(systemPrompt, bodyPrompt);
-    if (!body) return null;
+    const techBody = await generateTextWithAI(systemPrompt, techPrompt);
+    if (!techBody) return null;
 
-    // 3. Gerar Conclusão e FAQ
+    // 3. Gerar Análise de Mercado (Tendências)
+    console.log("   ✍️  Gerando Análise de Mercado...");
+    const marketPrompt = `Faça uma análise de mercado para "${topic.keyword}" em 2026 (Mínimo 500 palavras).
+    - Potencial de valorização e Market Cap.
+    - Adoção institucional e parcerias.
+    - Riscos e Desafios.
+    - Subtítulos H2 (##).
+    Use Markdown.`;
+
+    const marketBody = await generateTextWithAI(systemPrompt, marketPrompt);
+    if (!marketBody) return null;
+
+    // 4. Gerar Conclusão e FAQ
     console.log("   ✍️  Gerando Conclusão...");
-    const footerPrompt = `Escreva a conclusão e um FAQ para "${topic.title}".
-    - Conclusão: Resumo visionário sobre o futuro em 2030.
-    - FAQ: 3 perguntas frequentes com respostas diretas.
-    - Disclaimer final sobre riscos.
+    const footerPrompt = `Escreva a conclusão e um FAQ detalhado para "${topic.title}".
+    - Conclusão: Resumo com call-to-action intelectual.
+    - FAQ: 5 perguntas frequentes com respostas completas.
+    - Disclaimer final.
     Use Markdown.`;
 
     const footer = await generateTextWithAI(systemPrompt, footerPrompt);
     if (!footer) return null;
 
     // Montar Artigo Final
-    return `${intro}\n\n${body}\n\n${footer}`;
+    return `${intro}\n\n${techBody}\n\n${marketBody}\n\n${footer}`;
 }
 
 function createFrontmatter(topic) {
