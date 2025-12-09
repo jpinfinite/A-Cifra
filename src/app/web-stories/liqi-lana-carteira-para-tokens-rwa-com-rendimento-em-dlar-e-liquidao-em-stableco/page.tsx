@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Liqi lança carteira para tokens RWA com rendimento em dólar e liquidação em stablecoins",
+    description: "Resumo da notícia: Liqi lança carteira para tokens RWA com rendimento em dólar e liquidação em stablecoins....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/liqi-lana-carteira-para-tokens-rwa-com-rendimento-em-dlar-e-liquidao-em-stableco.jpg",

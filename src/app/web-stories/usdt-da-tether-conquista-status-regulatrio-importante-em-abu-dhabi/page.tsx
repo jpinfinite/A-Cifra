@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "USDt da Tether conquista status regulatório importante em Abu Dhabi",
+    description: "Resumo da notícia: USDt da Tether conquista status regulatório importante em Abu Dhabi....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/usdt-da-tether-conquista-status-regulatrio-importante-em-abu-dhabi.jpg",

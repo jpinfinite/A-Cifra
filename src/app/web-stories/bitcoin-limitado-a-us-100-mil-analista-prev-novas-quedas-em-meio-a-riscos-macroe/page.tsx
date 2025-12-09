@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos macroeconômicos",
+    description: "Resumo da notícia: Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos macroeconômicos....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/bitcoin-limitado-a-us-100-mil-analista-prev-novas-quedas-em-meio-a-riscos-macroe.jpg",

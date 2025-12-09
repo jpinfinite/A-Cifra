@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Regulamentação do Banco Central faz primeira vítima: fintech cripto fecha as portas no Brasil",
+    description: "Resumo da notícia: Regulamentação do Banco Central faz primeira vítima: fintech cripto fecha as portas no Brasil....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/regulamentao-do-banco-central-faz-primeira-vtima-fintech-cripto-fecha-as-portas-.jpg",

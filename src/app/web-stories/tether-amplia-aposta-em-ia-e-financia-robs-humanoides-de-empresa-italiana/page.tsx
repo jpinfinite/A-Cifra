@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Tether amplia aposta em IA e financia robôs humanoides de empresa italiana",
+    description: "Resumo da notícia: Tether amplia aposta em IA e financia robôs humanoides de empresa italiana....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana.jpg",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "XRP precisa de estratégia no estilo da Solana para se manter competitivo, diz executivo da Ripple",
+    description: "Resumo da notícia: XRP precisa de estratégia no estilo da Solana para se manter competitivo, diz executivo da Ripple....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/xrp-precisa-de-estratgia-no-estilo-da-solana-para-se-manter-competitivo-diz-exec.jpg",

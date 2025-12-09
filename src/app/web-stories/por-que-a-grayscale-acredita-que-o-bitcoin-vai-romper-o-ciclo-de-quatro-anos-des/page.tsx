@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Por que a Grayscale acredita que o Bitcoin vai romper o ciclo de quatro anos desta vez",
+    description: "Resumo da notícia: Por que a Grayscale acredita que o Bitcoin vai romper o ciclo de quatro anos desta vez....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/por-que-a-grayscale-acredita-que-o-bitcoin-vai-romper-o-ciclo-de-quatro-anos-des.jpg",

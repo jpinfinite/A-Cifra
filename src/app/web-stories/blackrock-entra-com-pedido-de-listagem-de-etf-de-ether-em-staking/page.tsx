@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "BlackRock entra com pedido de listagem de ETF de Ether em staking",
+    description: "Resumo da notícia: BlackRock entra com pedido de listagem de ETF de Ether em staking....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/blackrock-entra-com-pedido-de-listagem-de-etf-de-ether-em-staking.jpg",

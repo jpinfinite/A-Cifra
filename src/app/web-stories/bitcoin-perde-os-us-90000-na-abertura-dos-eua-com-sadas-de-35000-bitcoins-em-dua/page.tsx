@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges",
+    description: "Resumo da notícia: Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/bitcoin-perde-os-us-90000-na-abertura-dos-eua-com-sadas-de-35000-bitcoins-em-dua.jpg",

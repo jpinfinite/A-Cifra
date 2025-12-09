@@ -42,6 +42,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "${cleanTitle}",
+    description: "${description}",
     publisher: "A Cifra",
     publisherLogo: "${SITE_URL}/logo-icon.png",
     posterPortrait: "${fullImageUrl}",

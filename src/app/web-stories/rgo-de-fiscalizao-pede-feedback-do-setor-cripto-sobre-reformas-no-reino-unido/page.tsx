@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Órgão de fiscalização pede feedback do setor cripto sobre reformas no Reino Unido",
+    description: "Resumo da notícia: Órgão de fiscalização pede feedback do setor cripto sobre reformas no Reino Unido....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/rgo-de-fiscalizao-pede-feedback-do-setor-cripto-sobre-reformas-no-reino-unido.jpg",

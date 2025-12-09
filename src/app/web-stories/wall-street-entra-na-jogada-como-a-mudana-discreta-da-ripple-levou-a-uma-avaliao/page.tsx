@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "Wall Street entra na jogada: como a mudança discreta da Ripple levou a uma avaliação de US$ 40 bilhões",
+    description: "Resumo da notícia: Wall Street entra na jogada: como a mudança discreta da Ripple levou a uma avaliação de US$ 40 bilhões....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/wall-street-entra-na-jogada-como-a-mudana-discreta-da-ripple-levou-a-uma-avaliao.jpg",

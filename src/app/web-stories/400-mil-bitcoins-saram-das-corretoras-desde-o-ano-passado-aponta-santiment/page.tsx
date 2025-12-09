@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 export default function WebStoryPage() {
   const story = {
     title: "400 mil Bitcoins saíram das corretoras desde o ano passado, aponta Santiment",
+    description: "Dados da Santiment revelam um choque de oferta massivo: 400.000 BTCs deixaram as exchanges. Entenda o impacto da acumulação institucional e dos ETFs no preço futuro....",
     publisher: "A Cifra",
     publisherLogo: "https://a-cifra.com.br/logo-icon.png",
     posterPortrait: "https://a-cifra.com.br/images/articles/400-mil-bitcoins-saram-das-corretoras-desde-o-ano-passado-aponta-santiment.jpg",
