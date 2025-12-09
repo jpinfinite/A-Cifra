@@ -69,58 +69,73 @@ export function HomePageClient({ featuredArticle, recentArticles, dictionary, lo
 
   return (
     <>
-      {/* Hero Section Premium */}
-      <section className="hero-gradient text-white py-20 md:py-32 relative overflow-hidden">
-        <Container>
-          <div className="text-center max-w-5xl mx-auto animate-fade-in">
+      {/* Hero Section Premium - Redesigned */}
+      <section className="relative overflow-hidden py-24 md:py-32 lg:py-40">
+        {/* Background Gradients */}
+        <div className="absolute inset-0 bg-slate-900 z-0">
+          <div className="absolute top-0 right-0 -mt-20 -mr-20 w-96 h-96 bg-brand-primary-blue/30 rounded-full blur-3xl animate-pulse"></div>
+          <div className="absolute bottom-0 left-0 -mb-20 -ml-20 w-80 h-80 bg-brand-gold/20 rounded-full blur-3xl animate-pulse delay-700"></div>
+          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full h-full bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-slate-800/50 via-slate-900 to-slate-900"></div>
+        </div>
+
+        <Container className="relative z-10">
+          <div className="text-center max-w-5xl mx-auto animate-fade-in space-y-8">
             {/* Badge principal */}
-            <div className="inline-flex items-center px-4 py-2 bg-white/10 backdrop-blur-sm rounded-full text-sm font-medium text-white/90 mb-6 border border-white/20">
-              <span className="w-2 h-2 bg-brand-gold rounded-full mr-2 animate-pulse"></span>
+            <div className="inline-flex items-center px-4 py-1.5 bg-white/5 backdrop-blur-md border border-white/10 rounded-full text-sm font-medium text-brand-gold mb-4 shadow-lg hover:bg-white/10 transition-colors">
+              <span className="flex w-2 h-2 bg-green-400 rounded-full mr-2.5 animate-pulse shadow-[0_0_8px_rgba(74,222,128,0.5)]"></span>
               {homeDict.badge}
             </div>
 
-            <Heading level={1} className="mb-6 text-white text-4xl md:text-6xl font-bold leading-tight">
-              <span className="text-gradient-gold" dangerouslySetInnerHTML={{ __html: homeDict.title?.replace('criptomoedas', 'criptomoedas<br/>') || '' }} />
-              {/* O replace acima é um hackzinho para manter a quebra de linha se for pt, mas ideal é o dict ter HTML ou ser apenas texto.
-                  Vamos simplificar para apenas renderizar o título. O usuário quer estética premium. */}
-              {homeDict.title}
+            <Heading level={1} className="text-white text-5xl md:text-7xl font-extrabold tracking-tight leading-tight mb-6 drop-shadow-sm">
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-200 to-slate-400">
+                {homeDict.title}
+              </span>
             </Heading>
 
-            <Text size="xl" className="mb-8 text-brand-off-white text-lg md:text-xl leading-relaxed max-w-4xl mx-auto">
+            <Text size="xl" className="text-slate-300 text-lg md:text-2xl leading-relaxed max-w-3xl mx-auto font-light">
               {homeDict.subtitle}
             </Text>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <div className="flex flex-col sm:flex-row gap-5 justify-center items-center pt-8">
               <a
                 href="#artigos-recentes"
-                className="btn-gold text-lg px-8 py-4 min-h-touch group"
+                className="group relative px-8 py-4 bg-brand-gold text-slate-900 font-bold rounded-xl shadow-[0_0_20px_rgba(234,179,8,0.3)] hover:shadow-[0_0_30px_rgba(234,179,8,0.5)] hover:scale-105 transition-all duration-300 overflow-hidden"
               >
-                <span className="flex items-center space-x-2">
+                <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300"></div>
+                <span className="relative flex items-center space-x-2">
                   <span>{homeDict.exploreArticles}</span>
                   <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                   </svg>
                 </span>
               </a>
+
               <a
                 href={locale === 'pt-BR' ? "/categoria/educacao" : (locale === 'en' ? "/en/category/education" : "/es/categoria/educacion")}
-                className="inline-flex items-center justify-center px-8 py-4 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-brand-primary-blue transition-all duration-200 min-h-touch text-lg"
+                className="group px-8 py-4 bg-white/5 border border-white/10 backdrop-blur-sm text-white font-semibold rounded-xl hover:bg-white/10 hover:border-white/20 transition-all duration-300 flex items-center"
               >
-                {/* Fallback de rotas simplificado: mantemos rotas PT por enquanto se não criamos as outras, mas o ideal é localizar a rota.
-                    Vamos manter /categoria/educacao para PT e links "mortos" ou redirecionados para as outras linguas se não existirem ainda as páginas de categoria.
-                    Como não criei páginas de categoria EN/ES, vou deixar apontando para a mesma rota ou rota raiz por enquanto com um TODO.
-                    Vou apontar para /categoria/educacao (vai renderizar a página PT, mas o usuário vê conteúdo).
-                    Melhor: usar locale para prefixar.
-                */}
-                {homeDict.startLearning}
+                <span>{homeDict.startLearning}</span>
+                <span className="ml-2 text-brand-gold group-hover:rotate-12 transition-transform">🎓</span>
               </a>
+            </div>
+
+            {/* Stats/Social Proof (Optional enhancement) */}
+            <div className="pt-12 grid grid-cols-3 gap-4 max-w-2xl mx-auto border-t border-white/5 mt-12">
+              <div className="text-center">
+                <div className="text-2xl font-bold text-white mb-1">24/7</div>
+                <div className="text-xs text-slate-400 uppercase tracking-wider">Notícias</div>
+              </div>
+              <div className="text-center border-l border-white/10 border-r">
+                <div className="text-2xl font-bold text-brand-gold mb-1">+500</div>
+                <div className="text-xs text-slate-400 uppercase tracking-wider">Artigos</div>
+              </div>
+              <div className="text-center">
+                <div className="text-2xl font-bold text-white mb-1">100%</div>
+                <div className="text-xs text-slate-400 uppercase tracking-wider">Gratuito</div>
+              </div>
             </div>
           </div>
         </Container>
-
-        {/* Elementos decorativos */}
-        <div className="absolute top-20 left-10 w-20 h-20 bg-brand-gold/10 rounded-full blur-xl animate-pulse"></div>
-        <div className="absolute bottom-20 right-10 w-32 h-32 bg-brand-primary-blue/10 rounded-full blur-2xl animate-pulse delay-1000"></div>
       </section>
 
       {/* Categories Section Premium */}

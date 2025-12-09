@@ -22,17 +22,17 @@
     "terms": "Termos"
   },
   "home": {
-    "badge": "Seu Portal Cripto de Confiança",
-    "title": "Seu guia completo sobre criptomoedas",
-    "subtitle": "Descubra análises profundas, notícias atualizadas e educação de qualidade sobre Bitcoin, Ethereum, DeFi, NFTs e o futuro das finanças digitais.",
-    "exploreArticles": "Explorar Artigos",
-    "startLearning": "Começar a Aprender",
-    "categoriesTitle": "Explore por Categoria",
-    "categoriesSubtitle": "Encontre conteúdo especializado sobre os temas que mais interessam você",
-    "recentArticlesTitle": "Artigos Recentes",
-    "recentArticlesSubtitle": "Fique por dentro das últimas novidades e análises do mercado de criptomoedas",
-    "viewAllArticles": "Ver Todos os Artigos",
-    "viewArticles": "Ver artigos"
+    "badge": "A Revolução do Dinheiro",
+    "title": "Domine o Futuro da Economia Digital",
+    "subtitle": "Informação de elite, análises descomplicadas e o caminho claro para você navegar com segurança no universo das Criptomoedas e Web3.",
+    "exploreArticles": "Começar Jornada",
+    "startLearning": "Aprenda do Zero",
+    "categoriesTitle": "O que você quer descobrir?",
+    "categoriesSubtitle": "Mergulhe nos temas essenciais para sua liberdade financeira",
+    "recentArticlesTitle": "Radar de Tendências",
+    "recentArticlesSubtitle": "Análises frescas e movimentos importantes que estão moldando o mercado agora",
+    "viewAllArticles": "Explorar Todo o Conteúdo",
+    "viewArticles": "Ler artigos"
   },
   "categories": {
     "bitcoin": "Bitcoin",
