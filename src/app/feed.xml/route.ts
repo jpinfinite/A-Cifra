@@ -22,7 +22,7 @@ export async function GET() {
       guid: article.id,
       date: article.publishedAt,
       author: article.author?.name || 'A Cifra Team',
-      categories: [article.categorySlug],
+      categories: [article.category],
       enclosure: article.coverImage ? {
         url: article.coverImage.src.startsWith('http')
              ? article.coverImage.src
