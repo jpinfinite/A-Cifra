@@ -43,23 +43,18 @@ async function postToFacebook(articleUrl) {
             throw new Error('Botão de compartilhar não encontrado no site.');
         }
 
-        // Preparar captura de popup
-        const newPagePromise = new Promise(x => browser.once('targetcreated', target => x(target.page())));
+        // Detectar URL de Share e navegar manualmente (Bypassa bloqueador de popup)
+        const shareUrl = await page.evaluate(el => el.href, shareBtn);
+        console.log(`   🔗 URL de Share encontrada: ${shareUrl}`);
 
-        // Clicar
-        await shareBtn.click();
-        console.log('   ✅ Clique no botão realizado. Aguardando popup...');
+        if (!shareUrl) throw new Error('Link de compartilhamento vazio.');
 
-        // 3. Lidar com Popup
-        const popup = await newPagePromise;
+        const popup = await browser.newPage();
         await popup.setViewport({ width: 800, height: 600 });
-        await new Promise(r => setTimeout(r, 2000)); // Esperar carga inicial
+        console.log('   🔗 Abrindo Share manualmente...');
+        await popup.goto(shareUrl, { waitUntil: 'networkidle2' });
 
-        if (!popup) {
-            throw new Error('Popup do Facebook não abriu.');
-        }
-
-        console.log('   🪟 Popup aberto. Título: ' + await popup.title());
+        console.log('   🪟 Popup carregado! URL: ' + popup.url());
 
         // Esperar botão de publicar no popup
         // O Facebook Desktop Popup tem um botão azul "Publicar no Facebook" no rodapé
@@ -68,11 +63,15 @@ async function postToFacebook(articleUrl) {
         console.log('   ✍️  Procurando botão de confirmar no popup...');
 
         const clicked = await popup.evaluate(async () => {
+            const els = Array.from(document.querySelectorAll('div[role="button"], span, button'));
+            // DEBUG: Listar botões encontrados
+            console.log('BOTÕES VISÍVEIS: ' + els.map(e => e.innerText || e.getAttribute('aria-label') || '').join(' | '));
+
             const findBtn = () => {
-                const els = document.querySelectorAll('div[role="button"], span, button');
                 for (const el of els) {
                     const txt = (el.innerText || el.getAttribute('aria-label') || '').toLowerCase();
-                    if (txt === 'publicar no facebook' || txt === 'post to facebook') {
+                    // Novos termos possíveis
+                    if (txt.includes('publi') || txt.includes('post') || txt.includes('compartilhar agora')) {
                         return el;
                     }
                 }
