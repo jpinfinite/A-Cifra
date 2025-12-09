@@ -672,6 +672,32 @@ async function executeCycle() {
 
                     telegramPoster.postToTelegram(item.title, url, imageUrl);
                 });
+
+                // 7. BROADCAST REDES SOCIAIS (Twitter + Facebook)
+                console.log('\n7. Iniciando Broadcast para Redes Sociais...');
+                const { broadcastArticle } = require('./postar-redes.js');
+
+                // Executar em background (assíncrono simulado via timer para não travar callback do git)
+                setTimeout(async () => {
+                    for (const item of toProcess) {
+                        try {
+                            const slug = slugify(item.title);
+                            const articlePath = path.join(CONFIG.paths.articles, `${slug}.md`);
+
+                            console.log(`\n🚀 Enviando para redes: ${item.title}`);
+                            await broadcastArticle(articlePath);
+
+                            // Delay generoso entre artigos (2 min) para segurança das contas
+                            if (toProcess.length > 1) {
+                                console.log('⏳ Aguardando 2 minutos antes do próximo artigo...');
+                                await new Promise(r => setTimeout(r, 120000));
+                            }
+                        } catch (e) {
+                            console.error(`❌ Erro ao postar ${item.title}: ${e.message}`);
+                        }
+                    }
+                    console.log('\n✅ Ciclo de postagem social finalizado!');
+                }, 5000); // 5s de delay inicial
             }
         });
     });

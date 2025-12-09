@@ -1,151 +1,162 @@
-
-/**
- * Pinterest Poster - A Cifra
- * Script para postar pins automaticamente via API do Pinterest (v5)
- *
- * Requisitos:
- * 1. PINTEREST_ACCESS_TOKEN no arquivo .env
- * 2. PINTEREST_BOARD_ID no arquivo .env
- *
- * Uso:
- * - Listar boards: node scripts/pinterest-poster.js --list-boards
- * - Postar: node scripts/pinterest-poster.js --post --image "path/to/img.jpg" --title "Titulo" --desc "Desc" --link "https://..."
- */
-
-require('dotenv').config();
-const fs = require('fs');
+const puppeteer = require('puppeteer');
 const path = require('path');
-const https = require('https');
+const os = require('os');
+const fs = require('fs');
 
-const API_URL = 'https://api.pinterest.com/v5';
-const TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
-const BOARD_ID = process.env.PINTEREST_BOARD_ID;
+async function postToPinterest(title, description, link, imagePath) {
+    console.log('📌 Iniciando Pinterest Poster...');
 
-// Helper para requests HTTP
-async function pinterestRequest(endpoint, method = 'GET', body = null) {
-    if (!TOKEN) throw new Error('PINTEREST_ACCESS_TOKEN não configurado no .env');
+    if (!imagePath || !fs.existsSync(imagePath)) {
+        console.error('❌ ERRO: Pinterest exige imagem válida!');
+        return;
+    }
 
-    return new Promise((resolve, reject) => {
-        const url = new URL(API_URL + endpoint);
-        const options = {
-            method,
-            headers: {
-                'Authorization': `Bearer ${TOKEN}`,
-                'Content-Type': 'application/json',
+    const botProfileDir = path.join(os.homedir(), '.chrome-bot-profile');
+
+    if (!fs.existsSync(botProfileDir)) {
+        console.error('❌ Perfil do bot não encontrado!');
+        return;
+    }
+
+    try {
+        const browser = await puppeteer.launch({
+            userDataDir: botProfileDir,
+            headless: false,
+            ignoreDefaultArgs: ['--enable-automation'],
+            args: ['--start-maximized', '--no-sandbox', '--disable-blink-features=AutomationControlled']
+        });
+
+        const page = await browser.newPage();
+        await page.setViewport({ width: 1366, height: 768 });
+
+        console.log('   🔗 Acessando Pin Builder...');
+        await page.goto('https://www.pinterest.com/pin-builder/', { waitUntil: 'networkidle2' });
+
+        if (page.url().includes('login')) {
+            console.error('   ❌ Não logado no Pinterest!');
+            await browser.close();
+            return;
+        }
+
+        // Upload de Imagem
+        console.log('   🖼️  Fazendo upload da imagem...');
+        const inputUpload = await page.waitForSelector('input[type="file"]', { timeout: 10000 });
+        if (inputUpload) {
+            await inputUpload.uploadFile(imagePath);
+            await new Promise(r => setTimeout(r, 3000)); // Esperar preview
+        } else {
+            console.error('   ❌ Input de upload não encontrado.');
+            await browser.close();
+            return;
+        }
+
+        // Função auxiliar de clique por texto e preencher
+        console.log('   ✍️  Preenchendo detalhes...');
+
+        // Título: "Adicione um título"
+        try {
+            const titleInput = await page.waitForSelector('input[placeholder="Adicione um título"], textarea[id*="title"]', { timeout: 5000 });
+            if (titleInput) {
+                await titleInput.click();
+                await titleInput.type(title.substring(0, 99));
+                await new Promise(r => setTimeout(r, 500));
             }
-        };
+        } catch (e) { console.log('   ⚠️ Falha ao digitar título.'); }
 
-        const req = https.request(url, options, (res) => {
-            let data = '';
-            res.on('data', chunk => data += chunk);
-            res.on('end', () => {
-                try {
-                    const json = JSON.parse(data);
-                    if (res.statusCode >= 400) {
-                        reject(new Error(JSON.stringify(json) || res.statusMessage));
-                    } else {
-                        resolve(json);
-                    }
-                } catch (e) {
-                    reject(e);
-                }
+        // Descrição: "Adicione uma descrição detalhada"
+        try {
+            // Tenta placeholder exato primeiro (mais garantido)
+            const descDiv = await page.waitForSelector('textarea[placeholder="Adicione uma descrição detalhada"], div[role="textbox"]', { timeout: 3000 });
+            if (descDiv) {
+                await descDiv.click();
+                await descDiv.type(description.substring(0, 490));
+            }
+        } catch(e) { console.log('   ⚠️ Falha ao digitar descrição.'); }
+
+        // Link: "Adicione um link"
+        try {
+            const linkInput = await page.waitForSelector('input[placeholder="Adicione um link"], input[type="url"]', { timeout: 3000 });
+            if (linkInput) {
+                await linkInput.click();
+                await linkInput.type(link);
+            }
+        } catch(e) { console.log('   ⚠️ Falha ao digitar link.'); }
+
+        await new Promise(r => setTimeout(r, 2000));
+
+        // SELECIONAR PASTA (CRUCIAL)
+        console.log('   📂 Selecionando pasta...');
+        try {
+            // Clicar no dropdown "Escolha uma pasta"
+            const dropdown = await page.evaluateHandle(() => {
+                const els = Array.from(document.querySelectorAll('div[role="button"], button'));
+                return els.find(e => e.textContent.includes('Escolha uma pasta') || e.getAttribute('aria-label')?.includes('Pasta'));
             });
-        });
 
-        req.on('error', reject);
-        if (body) req.write(JSON.stringify(body));
-        req.end();
-    });
-}
+            if (dropdown) {
+                await dropdown.click();
+                await new Promise(r => setTimeout(r, 2000));
 
-async function listBoards() {
-    console.log('📡 Buscando boards...');
-    try {
-        const data = await pinterestRequest('/boards');
-        console.log('\n✅ Seus Boards:');
-        data.items.forEach(board => {
-            console.log(`- [${board.name}]: ID ${board.id}`);
-        });
-        console.log('\nCopie o ID do board desejado para o seu .env como PINTEREST_BOARD_ID');
-    } catch (error) {
-        console.error('❌ Erro ao listar boards:', error.message);
-    }
-}
+                // Clicar na primeira pasta da lista (qualquer uma que aparecer)
+                // Geralmente são itens com role="button" dentro do menu
+                const firstBoard = await page.evaluateHandle(() => {
+                    const items = Array.from(document.querySelectorAll('div[role="listitem"], div[data-test-id*="board-row"]'));
+                    return items[0]; // Pega a primeira
+                });
 
-async function createPin(imagePath, title, description, link) {
-    if (!BOARD_ID) throw new Error('PINTEREST_BOARD_ID não configurado no .env');
+                if (firstBoard) await firstBoard.click();
+            }
+        } catch(e) {
+            console.log('   ⚠️ Erro ao selecionar pasta (pode já estar selecionada).');
+        }
 
-    // Pinterest API v5 requer upload de imagem via URL pública ou Media Upload flow.
-    // Para simplificar, assumimos que a imagem já está hospedada se for URL.
-    // Se for local, precisaríamos fazer upload primeiro.
-    // Como o site é estático (GitHub Pages/Cloudflare), podemos usar a URL final da imagem no site.
+        await new Promise(r => setTimeout(r, 2000));
 
-    console.log(`📌 Criando Pin: "${title}"`);
+        console.log('   🚀 Publicando...');
 
-    // Verificar se link da imagem é valido
-    let mediaSource;
-
-    if (imagePath.startsWith('http')) {
-        mediaSource = {
-            source_type: 'image_url',
-            url: imagePath
+        // Botão Publicar (Vermelho)
+        const clickByText = async (textOptions) => {
+            const buttons = await page.$$('button, div[role="button"]');
+            for (const btn of buttons) {
+                const t = await page.evaluate(e => e.textContent, btn);
+                if (t && textOptions.some(opt => t.trim() === opt)) { // Match exato ajuda
+                    await btn.click();
+                    return true;
+                }
+            }
+            // Tentativa parcial se exato falhar
+             for (const btn of buttons) {
+                const t = await page.evaluate(e => e.textContent, btn);
+                if (t && textOptions.some(opt => t.includes(opt))) {
+                    await btn.click();
+                    return true;
+                }
+            }
+            return false;
         };
-    } else {
-        // Se for local, tentamos converter para URL do site (assumindo deploy)
-        // Isso é arriscado se o deploy não terminou.
-        // O ideal para envio local é a API de "Upload Media", que é mais complexa (2 steps).
-        // Vamos alertar o usuário.
-        console.log('⚠️ Aviso: Imagens locais precisam estar online. Tentando converter para URL do site...');
-        const filename = path.basename(imagePath);
-        // Assumindo estrutura padrão do site
-        const onlineUrl = `https://a-cifra.com.br/images/articles/${filename}`; // Ajustar path conforme necessario
 
-        mediaSource = {
-            source_type: 'image_url',
-            url: onlineUrl
-        };
-    }
+        const saved = await clickByText(['Publicar', 'Salvar', 'Publish', 'Save']);
 
-    const payload = {
-        board_id: BOARD_ID,
-        title: title.substring(0, 100),
-        description: description.substring(0, 500),
-        link: link,
-        media_source: mediaSource
-    };
+        if (saved) {
+            console.log('   ✅ Pin publicado (Salvo)!');
+            await new Promise(r => setTimeout(r, 5000));
+        } else {
+            console.error('   ❌ Botão de salvar não encontrado.');
+        }
 
-    try {
-        const res = await pinterestRequest('/pins', 'POST', payload);
-        console.log(`✅ Pin criado com sucesso! ID: ${res.id}`);
-        console.log(`🔗 Link: https://pinterest.com/pin/${res.id}`);
-        return res;
-    } catch (error) {
-        console.error('❌ Erro ao criar Pin:', error.message);
+        await browser.close();
+
+    } catch (e) {
+        console.error('   ❌ Erro Pinterest:', e.message);
     }
 }
 
-// CLI Handler
-const args = process.argv.slice(2);
-if (args.includes('--list-boards')) {
-    listBoards();
-} else if (args.includes('--post')) {
-    const getArg = (name) => {
-        const idx = args.indexOf(name);
-        return idx !== -1 ? args[idx + 1] : null;
-    };
-
-    const img = getArg('--image');
-    const title = getArg('--title');
-    const desc = getArg('--desc');
-    const link = getArg('--link');
-
-    if (img && title && link) {
-        createPin(img, title, desc || title, link);
-    } else {
-        console.log('❌ Uso incorreto. Requer --image, --title e --link');
-    }
-} else {
-    console.log('ℹ️ Comandos disponíveis:');
-    console.log('  --list-boards');
-    console.log('  --post --image <URL> --title <TXT> --link <URL>');
+if (require.main === module) {
+    const title = "Teste Bitcoin";
+    const desc = "Bitcoin sobe news";
+    const link = "https://a-cifra.com.br";
+    const img = process.argv[2] || path.join(__dirname, '../public/images/logo.png');
+    postToPinterest(title, desc, link, img);
 }
+
+module.exports = { postToPinterest };

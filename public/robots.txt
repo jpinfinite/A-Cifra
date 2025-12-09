@@ -3,41 +3,22 @@
 
 User-agent: *
 Allow: /
-
-# Sitemap
-Sitemap: https://a-cifra.com.br/sitemap.xml
-
-# Crawl-delay para bots específicos
-User-agent: Googlebot
-Crawl-delay: 0
-
-User-agent: Bingbot
-Crawl-delay: 1
-
-# Bloquear bots ruins
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-User-agent: DotBot
-Disallow: /
-
-User-agent: MJ12bot
-Disallow: /
-
-# Permitir Google AdSense
-User-agent: Mediapartners-Google
-Allow: /
-
-# Permitir Google Images
-User-agent: Googlebot-Image
+Allow: /static/
 Allow: /images/
-
-# Bloquear arquivos sensíveis
-Disallow: /api/
-Disallow: /_next/
+Allow: /_next/
 Disallow: /admin/
 Disallow: /*.json$
 Disallow: /*.log$
+
+# Permitir especificamente Googlebot e AdSense
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Sitemap
+Sitemap: https://a-cifra.com.br/sitemap.xml

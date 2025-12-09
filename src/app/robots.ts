@@ -8,7 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
         disallow: [
           '/admin/',
-          '/_next/',
           '/private/',
         ],
       },
@@ -18,9 +17,8 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/admin/'],
       },
       {
-        userAgent: 'Bingbot',
+        userAgent: 'Mediapartners-Google',
         allow: '/',
-        disallow: ['/admin/'],
       },
     ],
     sitemap: 'https://a-cifra.com.br/sitemap.xml',

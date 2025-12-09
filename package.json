@@ -30,7 +30,10 @@
     "prebuild": "npm run generate-sitemap",
     "quality-check": "npm run validate-images && npm run validate-all && npm run fix-imports && npm run lint",
     "pre-commit": "npm run validate-images && npm run lint",
-    "prepare": "npm run lint"
+    "prepare": "npm run lint",
+    "twitter:test": "node scripts/test-twitter.js",
+    "twitter:post": "node scripts/postar-twitter.js --latest",
+    "twitter:generate": "node scripts/gerar-tweet.js"
   },
   "dependencies": {
     "@next/bundle-analyzer": "^14.0.0",
@@ -41,6 +44,7 @@
     "gray-matter": "^4.0.3",
     "lucide-react": "latest",
     "next": "^14.0.0",
+    "puppeteer": "^24.32.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-markdown": "^10.1.0",
