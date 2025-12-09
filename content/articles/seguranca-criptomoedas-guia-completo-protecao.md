@@ -43,7 +43,7 @@ seo:
     - cold wallet
 alternateLanguages:
   en: >-
-    cryptocurrency-security-complete-guide-2025---how-to-protect-your-assets-from-hacks-and-scams
+    cryptocurrency-security-2025-complete-guide---how-to-protect-your-assets-from-hacks-and-scams
   es: >-
     seguridad-en-criptomonedas-gua-completa-2025---cmo-proteger-sus-activos-de-hacks-y-estafas
 ---

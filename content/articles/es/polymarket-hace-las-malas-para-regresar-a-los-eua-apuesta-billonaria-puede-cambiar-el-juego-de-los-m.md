@@ -47,7 +47,7 @@ language: es
 alternateLanguages:
   pt: polymarket-retorno-eua-mercados-previsao
   en: >-
-    polymarket-makes-bad-bets-to-return-to-the-us-billion-dollar-bet-could-change-the-game-of-prediction
+    polymarket-makes-bad-bets-to-return-to-the-us-billion-dollar-bet-could-change-the-game-for-predictio
 ---
 Polymarket Faz as Malas para Voltar aos EUA: Aposta Bilionária Pode Mudar o Jogo dos Mercados de Previsão
 

@@ -48,7 +48,7 @@ language: es
 alternateLanguages:
   pt: usdt-rebaixamento-sp-stablecoins-seguras-2025
   en: >-
-    usdt-at-risk-sp-downgrades-rating-to-lowest-note---2025-complete-guide-to-safe-stablecoins
+    usdt-at-risk-sp-downgrades-rating-to-lowest-note---complete-guide-to-safe-stablecoins-2025
 ---
 A S&P Global Ratings rebaixou o rating de estabilidade do USDT para 5, sua nota mais baixa na escala de avaliação de stablecoins. Esta classificação indica preocupações significativas sobre a capacidade do Tether de manter sua paridade 1:1 com o dólar americano.
 

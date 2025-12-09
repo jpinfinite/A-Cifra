@@ -28,7 +28,7 @@ seo:
     - segurança
 alternateLanguages:
   en: seed-phrase-secure-wallet-backup-and-recovery
-  es: palabra-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
+  es: frase-de-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
 ---
 
 **Seed Phrase: Backup e Recuperação Segura de Carteiras**

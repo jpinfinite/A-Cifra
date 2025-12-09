@@ -41,7 +41,7 @@ language: es
 alternateLanguages:
   pt: tokenizacao-ativos-reais-rwa-2026
   en: >-
-    real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi
+    tokenization-of-real-assets-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commoditi
 ---
 # Tokenização de Ativos Reais (RWA) 2026: Como Blockchain Está Transformando Imóveis, Ações e Commodities
 

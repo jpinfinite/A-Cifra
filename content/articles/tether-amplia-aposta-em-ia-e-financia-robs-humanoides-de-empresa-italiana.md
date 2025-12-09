@@ -1,23 +1,39 @@
 ---
-id: 'tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana-2025-12-09'
-title: 'Tether amplia aposta em IA e financia robôs humanoides de empresa italiana'
-slug: 'tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana'
-excerpt: 'Resumo da notícia: Tether amplia aposta em IA e financia robôs humanoides de empresa italiana.'
+id: >-
+  tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana-2025-12-09
+title: Tether amplia aposta em IA e financia robôs humanoides de empresa italiana
+slug: tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana
+excerpt: >-
+  Resumo da notícia: Tether amplia aposta em IA e financia robôs humanoides de
+  empresa italiana.
 coverImage:
-  src: '/images/articles/tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana.jpg'
-  alt: 'Tether amplia aposta em IA e financia robôs humanoides de empresa italiana'
+  src: >-
+    /images/articles/tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana.jpg
+  alt: Tether amplia aposta em IA e financia robôs humanoides de empresa italiana
   width: 1200
   height: 630
 author:
-  name: 'A Cifra News'
+  name: A Cifra News
 publishedAt: '2025-12-09'
 updatedAt: '2025-12-09'
-categorySlug: 'analises'
-tags: ["analises", "noticias", "mercado"]
+categorySlug: analises
+tags:
+  - analises
+  - noticias
+  - mercado
 seo:
-  metaTitle: 'Tether amplia aposta em IA e financia robôs humanoides de empresa italiana | A Cifra'
-  metaDescription: 'Tether amplia aposta em IA e financia robôs humanoides de empresa italiana — análise completa.'
-language: 'pt-BR'
+  metaTitle: >-
+    Tether amplia aposta em IA e financia robôs humanoides de empresa italiana |
+    A Cifra
+  metaDescription: >-
+    Tether amplia aposta em IA e financia robôs humanoides de empresa italiana —
+    análise completa.
+language: pt-BR
+alternateLanguages:
+  en: >-
+    tether-expands-bet-on-ai-and-finances-humanoid-robots-from-an-italian-company
+  es: >-
+    tether-ampla-apuesta-en-inteligencia-artificial-y-financia-robots-humanoides-de-una-empresa-italiana
 ---
 
 # Tether amplia aposta em IA e financia robôs humanoides de empresa italiana

@@ -39,7 +39,7 @@ alternateLanguages:
   en: >-
     privacy-in-blockchain-2026-zero-knowledge-mixers-and-the-future-of-on-chain-privacy
   es: >-
-    privacidad-en-blockchain-2026-cero-conocimiento-mezcladores-y-el-futuro-de-la-privacidad-en-chain
+    privacidad-en-blockchain-2026-cero-conocimiento-mezcladores-y-el-futuro-de-la-privacidad-on-chain
 ---
 
 # Privacidade em Blockchain 2026: Zero-Knowledge, Mixers e o Futuro da Privacidade On-Chain

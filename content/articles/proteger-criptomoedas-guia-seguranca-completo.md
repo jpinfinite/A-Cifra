@@ -39,7 +39,7 @@ seo:
     - phishing crypto
     - golpes cripto
 alternateLanguages:
-  en: how-to-protect-your-cryptocurrencies-a-comprehensive-security-guide
+  en: how-to-protect-your-cryptocurrencies-complete-security-guide
   es: cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa
 ---
 

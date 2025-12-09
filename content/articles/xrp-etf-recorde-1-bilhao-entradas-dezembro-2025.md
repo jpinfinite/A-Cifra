@@ -41,7 +41,7 @@ seo:
     - XRP preço
 alternateLanguages:
   en: ripples-xrp-etf-breaks-record-with-1-billion-in-inflows-new-era-for-ripple
-  es: xrp-etf-rompe-rcord-con-1-mil-millones-en-ingresos-nueva-era-para-ripple
+  es: xrp-etf-rompe-rcord-con-1-mil-mil-millones-en-ingresos-nueva-era-para-ripple
 ---
 
 # XRP ETF Bate Recorde com $1 Bilhão em Entradas: Nova Era para Ripple

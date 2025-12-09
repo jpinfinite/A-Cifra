@@ -45,7 +45,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: mundial-clubes-2025-fan-tokens
-  es: mundial-de-clubes-2025-tokens-de-fan-y-la-revolucin-del-enganche-esportivo
+  es: mundial-de-clubes-2025-fan-tokens-y-la-revolucin-del-enganche-esportivo
 ---
 Mundial de Clubes 2025: Fan Tokens e a Revolução do Engajamento Esportivo
 

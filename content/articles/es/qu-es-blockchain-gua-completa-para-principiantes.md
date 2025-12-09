@@ -37,7 +37,7 @@ seo:
 language: es
 alternateLanguages:
   pt: o-que-e-blockchain-guia-iniciantes
-  en: what-is-blockchain-a-complete-guide-for-beginners
+  en: what-is-blockchain-complete-guide-for-beginners
 ---
 La **cadena de bloques** es una de las tecnologías más revolucionarias del siglo XXI. A pesar de haber sido creada para apoyar el [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), sus aplicaciones van mucho más allá de las criptomonedas.
 

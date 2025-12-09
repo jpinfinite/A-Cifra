@@ -32,7 +32,7 @@ seo:
     - staking 2026
     - investimento cripto
 alternateLanguages:
-  en: crypto-staking-2026-the-complete-guide-to-passive-income
+  en: crypto-staking-2026-a-comprehensive-guide-to-passive-income
   es: staking-de-cripto-2026-gua-completa-para-renta-pasiva
 ---
 

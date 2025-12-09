@@ -28,7 +28,7 @@ seo:
     - blockchain
 alternateLanguages:
   en: on-chain-analysis-key-metrics-for-investors
-  es: anlisis-en-chain-mtricas-importantes-para-inversionistas
+  es: anlisis-en-lnea-mtricas-importantes-para-inversores
 ---
 
 **Análise On-Chain: Métricas Importantes para Investidores**

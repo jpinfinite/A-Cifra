@@ -29,7 +29,7 @@ seo:
 language: en
 alternateLanguages:
   pt: on-chain-analysis-metricas-importantes
-  es: anlisis-en-chain-mtricas-importantes-para-inversionistas
+  es: anlisis-en-lnea-mtricas-importantes-para-inversores
 ---
 Market Analysis is fundamental for making informed decisions. This guide explores on-chain analysis: key metrics for investors.
 

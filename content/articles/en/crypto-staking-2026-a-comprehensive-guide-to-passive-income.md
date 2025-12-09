@@ -36,7 +36,7 @@ seo:
 language: en
 alternateLanguages:
   pt: staking-cripto-2026-guia-completo
-  es: posteo-de-criptomonedas-2026-gua-completa-para-renta-pasiva
+  es: staking-de-cripto-2026-gua-completa-para-renta-pasiva
 ---
 # Staking de Criptomoedas: Guia Completo para Renda Passiva
 

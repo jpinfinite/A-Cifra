@@ -41,7 +41,7 @@ seo:
     - Web3
 alternateLanguages:
   pt: polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025
-  en: polkadot-surges-9-with-technical-breakout-december-2025-rally-analysis
+  en: polkadot-spikes-9-with-technical-breakout-december-2025-rally-analysis
 language: es
 ---
 Polkadot (DOT) registrou um impressionante rally de 9,2% nas últimas 24 horas, rompendo a resistência psicológica de $10 e atingindo $10,85, sua máxima desde agosto de 2024. Este movimento técnico significativo coloca DOT como um dos melhores performers entre as top 20 criptomoedas e sinaliza possível início de uma nova perna de alta.

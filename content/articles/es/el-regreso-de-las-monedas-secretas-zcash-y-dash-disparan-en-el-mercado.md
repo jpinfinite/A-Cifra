@@ -41,7 +41,7 @@ categorySlug: altcoins
 language: es
 alternateLanguages:
   pt: zcash-dash-moedas-privacidade-disparam
-  en: the-comeback-of-secret-coins-zcash-and-dash-surge-in-the-market
+  en: the-comeback-of-secret-coins-zcash-and-dash-take-off-in-the-market
 ---
 ## Contexto: El Boom de las Monedas de Privacidad
 

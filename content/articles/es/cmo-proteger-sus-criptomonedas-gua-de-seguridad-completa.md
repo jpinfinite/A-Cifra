@@ -42,7 +42,7 @@ seo:
 language: es
 alternateLanguages:
   pt: proteger-criptomoedas-guia-seguranca-completo
-  en: how-to-protect-your-cryptocurrencies-a-comprehensive-security-guide
+  en: how-to-protect-your-cryptocurrencies-complete-security-guide
 ---
 Como Proteger Suas Criptomoedas: Guia de Segurança Completo
 

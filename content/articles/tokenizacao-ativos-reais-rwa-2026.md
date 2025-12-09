@@ -37,7 +37,7 @@ seo:
     - blockchain investimentos
 alternateLanguages:
   en: >-
-    real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi
+    tokenization-of-real-assets-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commoditi
   es: >-
     tokenizacin-de-activos-reales-rwa-2026-cmo-la-blockchain-est-transformando-inmuebles-acciones-y-comm
 ---

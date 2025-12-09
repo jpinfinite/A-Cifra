@@ -40,7 +40,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: regulao-sec-innovation-exemption-2026
-  es: regulacin-sec-de-exencin-de-innovacin-2026-qu-cambia-y-cmo-prepararse
+  es: regulacin-sec-exencin-de-innovacin-2026-qu-cambia-y-cmo-prepararse
 ---
 The Future of Cryptocurrency is Coming: SEC Innovation Exemption 2026 Regulation
 

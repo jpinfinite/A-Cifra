@@ -36,7 +36,7 @@ seo:
 categorySlug: altcoins
 alternateLanguages:
   en: the-comeback-of-secret-coins-zcash-and-dash-surge-in-the-market
-  es: el-regreso-de-las-monedas-secretas-zcash-y-dash-surgen-en-el-mercado
+  es: el-regreso-de-las-monedas-secretas-zcash-y-dash-surge-en-el-mercado
 ---
 
 ## Context: The Privacy Coin Boom

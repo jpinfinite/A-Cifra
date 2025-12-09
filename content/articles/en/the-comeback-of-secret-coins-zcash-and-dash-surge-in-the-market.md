@@ -36,8 +36,8 @@ seo:
 categorySlug: altcoins
 language: en
 alternateLanguages:
-  pt: zcash-dash-moedas-privacidade-disparam
-  es: el-regreso-de-las-monedas-secretas-zcash-y-dash-disparan-en-el-mercado
+  pt: zcash-dash-privacy-coins-surge
+  es: el-regreso-de-las-monedas-secretas-zcash-y-dash-surge-en-el-mercado
 ---
 The Privacy Coin Boom
 

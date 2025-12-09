@@ -29,7 +29,7 @@ seo:
 language: en
 alternateLanguages:
   pt: seed-phrase-backup-recuperacao-carteira
-  es: palabra-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
+  es: frase-de-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
 ---
 Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses seed phrase: secure backup and recovery of wallets.
 

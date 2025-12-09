@@ -35,7 +35,7 @@ seo:
     - tecnologia blockchain
     - criptografia
 alternateLanguages:
-  en: what-is-blockchain-a-complete-guide-for-beginners
+  en: what-is-blockchain-complete-guide-for-beginners
   es: qu-es-blockchain-gua-completa-para-principiantes
 ---
 # O Que é Blockchain? Guia Completo para Iniciantes

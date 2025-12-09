@@ -43,7 +43,7 @@ language: es
 alternateLanguages:
   pt: trading-cripto-iniciantes-estrategias-2025
   en: >-
-    cryptocurrency-trading-for-beginners-2025-complete-guide---indicators-and-risk-management
+    cryptocurrency-trading-for-beginners-complete-guide-2025---indicators-and-risk-management
 ---
 # Trading de Criptomoedas para Iniciantes: Guia Completo 2025
 

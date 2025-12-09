@@ -44,9 +44,9 @@ seo:
     - proof of stake
 alternateLanguages:
   en: >-
-    ethereum-staking-in-2025-a-comprehensive-guide-to-earning-passive-income-of-up-to-8-per-year
+    ethereum-staking-in-2025-the-complete-guide-to-earning-passive-income-of-up-to-8-per-year
   es: >-
-    staking-de-ethereum-en-2025-gua-completa-para-ganar-renta-pasiva-de-hasta-un-8-al-ao
+    staking-de-ethereum-en-2025-gua-completa-para-ganar-renta-pasiva-de-hasta-8-al-ao
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano

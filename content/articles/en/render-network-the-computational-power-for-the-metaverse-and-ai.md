@@ -39,8 +39,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: render-network-gpu
-  es: >-
-    red-de-renderizacin-el-poder-computacional-para-el-metaverso-e-inteligencia-artificial
+  es: red-de-render-el-poder-computacional-para-el-metaverso-e-ia
 ---
 **Render Network: The Computational Power for Metaverse and AI**
 

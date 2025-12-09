@@ -29,7 +29,7 @@ seo:
 language: es
 alternateLanguages:
   pt: phishing-scams-criptomoedas-protecao
-  en: phishing-and-cryptocurrency-scams-how-to-protect-yourself
+  en: phishing-and-scams-in-crypto-how-to-protect-yourself
 ---
 La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda phishing y estafas en cripto: cómo protegerse.
 

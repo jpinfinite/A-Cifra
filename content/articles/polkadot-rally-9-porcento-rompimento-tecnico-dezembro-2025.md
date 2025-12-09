@@ -36,8 +36,9 @@ seo:
     - parachains
     - Web3
 alternateLanguages:
-  en: polkadot-surges-9-with-technical-breakout-december-2025-rally-analysis
-  es: polkadot-dispara-9-con-ruptura-tcnica-anlisis-del-rally-de-diciembre-2025
+  en: polkadot-spikes-9-with-technical-breakout-december-2025-rally-analysis
+  es: >-
+    polkadot-dispara-9-con-rompimiento-tcnico-anlisis-del-rally-de-diciembre-2025
 ---
 
 # Polkadot Dispara 9% com Rompimento Técnico: Análise do Rally de Dezembro 2025
