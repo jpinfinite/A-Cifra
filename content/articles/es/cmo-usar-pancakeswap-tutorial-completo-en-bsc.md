@@ -36,7 +36,7 @@ seo:
 language: es
 alternateLanguages:
   pt: como-usar-pancakeswap-tutorial
-  en: how-to-use-pancakeswap-a-comprehensive-tutorial-on-bsc
+  en: how-to-use-pancakeswap-a-complete-tutorial-on-bsc
 ---
 O PancakeSwap es la mayor DEX de la Binance Smart Chain. Aprende a usar todas las funcionalidades.
 

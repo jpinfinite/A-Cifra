@@ -44,7 +44,7 @@ seo:
 language: es
 alternateLanguages:
   pt: carteira-fria-vs-quente-guia-seguranca-2025
-  en: cold-wallet-vs-hot-wallet---definitive-crypto-security-guide-2025
+  en: cold-wallet-vs-hot-wallet---the-definitive-crypto-security-guide-2025
 ---
 1. Faça backup da seed phrase em local seguro.
 2. Não compartilhe seed phrase com ninguém.

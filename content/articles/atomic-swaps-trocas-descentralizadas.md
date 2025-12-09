@@ -32,7 +32,7 @@ seo:
     - descentralização
 alternateLanguages:
   en: atomic-swaps-decentralized-exchanges-between-blockchains
-  es: atomic-swaps-trocas-descentralizadas-entre-cadenas-de-bloques
+  es: atomic-swaps-trocas-descentralizadas-entre-blockchains
 ---
 
 **Atomic Swaps: Trocas Descentralizadas Entre Blockchains**

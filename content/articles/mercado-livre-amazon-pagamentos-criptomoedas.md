@@ -44,8 +44,7 @@ monetization:
     - binance
     - coinbase
 alternateLanguages:
-  en: >-
-    marketplace-free-and-amazon-the-future-of-cryptocurrency-payments-in-e-commerce
+  en: amazon-and-mercado-livre-the-future-of-cryptocurrency-payments-in-e-commerce
   es: >-
     mercado-libre-y-amazon-el-futuro-de-los-pagos-con-criptomonedas-en-el-comercio-electrnico
 ---

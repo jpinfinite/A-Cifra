@@ -38,7 +38,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: >-
-    artificial-intelligence-agents-on-blockchain-the-future-of-decentralized-automation
+    artificial-intelligence-agents-in-blockchain-the-future-of-decentralized-automation
   es: agentes-de-ia-en-la-blockchain-el-futuro-de-la-automao-descentralizada
 ---
 

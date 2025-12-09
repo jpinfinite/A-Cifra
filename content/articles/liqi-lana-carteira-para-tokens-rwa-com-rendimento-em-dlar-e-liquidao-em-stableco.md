@@ -36,7 +36,7 @@ seo:
 language: pt-BR
 alternateLanguages:
   en: >-
-    liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-liquidation
+    liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-settlement
   es: >-
     liqi-lanza-cartera-para-tokens-rwa-con-rendimiento-en-dlar-y-liquidacin-en-stablecoins
 ---

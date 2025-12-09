@@ -35,7 +35,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: bitcoin-layer-2-stacks-ordinals-a-comprehensive-analysis-and-predictions
+  en: bitcoin-layer-2-stacks-ordinals-complete-analysis-and-predictions
   es: bitcoin-layer-2-stacks-ordinals-anlisis-completo-y-predicciones
 ---
 

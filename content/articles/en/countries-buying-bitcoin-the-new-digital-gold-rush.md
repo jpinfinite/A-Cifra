@@ -38,7 +38,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: bitcoin-sovereign-wealth-funds
-  es: pases-comprando-bitcoin-la-nueva-carrera-del-oro-digital
+  es: pases-que-compram-bitcoin-la-nueva-carrera-del-oro-digital
 ---
 The New Gold Rush of Digital Wealth
 

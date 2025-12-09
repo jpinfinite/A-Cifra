@@ -641,6 +641,27 @@ async function executeCycle() {
                 console.error(`   ❌ Erro no deploy: ${err.message}`);
             } else {
                 console.log('   ✅ Deploy enviado com sucesso! O site será atualizado em instantes.');
+
+                // 6. Postar no Telegram
+                const telegramPoster = require('./telegram-poster.js');
+                console.log('   📡 Enviando notificações para o Telegram...');
+
+                // Precisamos recuperar os itens processados neste ciclo.
+                // Como 'toProcess' está no escopo acima, podemos re-iterar ou salvar em uma lista.
+                // Mas o 'toProcess' tem os dados crus. Precisamos dos slugs gerados.
+                // Vamos reconstruir o slug e URL.
+
+                toProcess.forEach(item => {
+                    const slug = slugify(item.title);
+                    const url = `https://a-cifra.com.br/artigo/${slug}`;
+                    // Tentar achar a imagem salva ou usar placeholder (aqui simplificado)
+                    // Para imagem, idealmente teriamos salvo o caminho no objeto item ou array paralelo.
+                    // Vamos usar apenas Texto se não tivermos a imagem fácil, ou tentar inferir.
+                    // O script salvou como ${slug}.jpg.
+                    const imageUrl = `https://a-cifra.com.br/images/articles/${slug}.jpg`;
+
+                    telegramPoster.postToTelegram(item.title, url, imageUrl);
+                });
             }
         });
     });

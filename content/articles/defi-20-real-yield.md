@@ -36,7 +36,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: real-yield-the-end-of-inflationary-tokens-in-defi
-  es: tasa-real-el-fn-de-los-tokens-inflacionarios-en-defi
+  es: real-de-renta-el-fin-de-los-tokens-inflacionarios-en-defi
 ---
 
 # Real Yield: O Fim dos Tokens Inflacionários no DeFi

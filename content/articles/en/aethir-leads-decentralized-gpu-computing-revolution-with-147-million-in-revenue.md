@@ -31,7 +31,7 @@ language: en
 alternateLanguages:
   pt: aethir-lidera-revolucao-computacao-gpu-descentralizada
   es: >-
-    aethir-lidera-revolucin-de-la-computacin-gpu-descentralizada-con-us-147-millones-en-ingresos
+    aethir-lidera-revolucin-de-la-computacin-gpu-descentralizada-con-147-millones-en-ingresos
 seo:
   metaTitle: 'Aethir: Decentralized GPU Computing Revolution | The Cipher'
   metaDescription: >-

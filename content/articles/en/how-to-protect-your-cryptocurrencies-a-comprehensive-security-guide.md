@@ -44,8 +44,8 @@ seo:
 categorySlug: seguranca
 language: en
 alternateLanguages:
-  pt: proteger-criptomoedas-guia-seguranca-completo
-  es: cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa
+  pt: como-proteger-criptomoedas-guia-completo-seguranca
+  es: cmo-proteger-sus-criptomonedas-gua-completa-de-seguridad
 ---
 Security of Cryptocurrencies is Fundamental for Any Investor in the Crypto Market
 

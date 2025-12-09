@@ -35,7 +35,7 @@ seo:
     - memecoin original
 alternateLanguages:
   en: dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon
-  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-un-fenmeno-global
+  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global
 ---
 
 **Dogecoin: A História da Memecoin Que Virou Fenômeno Global**

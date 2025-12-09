@@ -42,7 +42,7 @@ language: es
 alternateLanguages:
   pt: ai-agents-crypto-narratives
   en: >-
-    artificial-intelligence-agents-on-blockchain-the-future-of-decentralized-automation
+    artificial-intelligence-agents-in-blockchain-the-future-of-decentralized-automation
 ---
 **O Futuro da Automação Descentralizada**
 

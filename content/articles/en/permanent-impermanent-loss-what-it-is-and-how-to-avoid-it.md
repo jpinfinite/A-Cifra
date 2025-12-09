@@ -35,7 +35,7 @@ seo:
     - pools liquidez
 alternateLanguages:
   pt: impermanent-loss-explicado
-  es: perdida-impermamente-prdida-impermante-qu-es-y-cmo-evitarla
+  es: perdida-impermanente-prdida-impermante-qu-es-y-cmo-evitarla
 language: en
 ---
 Permanent Impermanent Loss is one of the most important (and poorly understood) concepts in DeFi. Understand what it is and how to protect yourself.

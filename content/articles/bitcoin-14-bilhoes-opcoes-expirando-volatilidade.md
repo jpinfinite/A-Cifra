@@ -37,7 +37,8 @@ seo:
     - trading bitcoin
 alternateLanguages:
   en: 14-billion-in-bitcoin-options-expiring---prepare-for-volatility
-  es: 14-billones-en-opciones-de-bitcoin-a-expirar---preprese-para-volatilidad
+  es: >-
+    14-mil-millones-en-opciones-de-bitcoin-expirando---preprense-para-volatilidad
 ---
 
 # $14 Bilhões em Opções de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Expirando - Prepare-se para Volatilidade

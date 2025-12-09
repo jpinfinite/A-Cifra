@@ -41,8 +41,7 @@ seo:
 language: es
 alternateLanguages:
   pt: blackrock-bitcoin-etf-2-bilhoes-saidas-novembro
-  en: >-
-    blackrock---23-billion-initime-withdrawals-from-ibit-in-november-are-perfectly-normal
+  en: blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal
 ---
 BlackRock: $2.3 Bilhões em Saídas do IBIT em Novembro São "Perfeitamente Normais"
 

@@ -41,8 +41,7 @@ seo:
 language: es
 alternateLanguages:
   pt: bitcoin-mineracao-dificuldade-dezembro-2025
-  en: >-
-    bitcoin-mining-difficulty-is-expected-to-rise-in-december---historic-low-hashprice
+  en: bitcoin-mining-difficulty-should-rise-in-december---historic-low-hashprice
 ---
 A dificuldade de mineração de Bitcoin deve subir em dezembro, enquanto o hashprice permanece próximo de mínimas históricas. 
 

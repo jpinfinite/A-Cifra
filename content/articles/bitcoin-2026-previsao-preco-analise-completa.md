@@ -35,7 +35,7 @@ seo:
     - preço bitcoin 2026
     - análise bitcoin
 alternateLanguages:
-  en: bitcoin-in-2026-price-forecast-complete-trendamentalist-analysis
+  en: bitcoin-in-2026-price-forecast-complete-technical-analysis
   es: bitcoin-en-2026-prediccin-de-precio-anlisis-tendencialista-completo
 ---
 

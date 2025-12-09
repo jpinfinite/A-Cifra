@@ -46,7 +46,7 @@ language: es
 alternateLanguages:
   pt: bitcoin-100k-analise-completa-caminho-2025
   en: >-
-    bitcoin-heading-to-100k-comprehensive-analysis-of-the-4-factors-that-will-determine-the-next-move
+    bitcoin-heading-to-100k-complete-analysis-of-the-4-factors-that-will-determine-the-next-move
 ---
 O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está testando a zona crítica de **$88.000-$90.000**, e o mercado cripto inteiro segura a respiração. A pergunta que todos fazem é: **vamos finalmente romper os $100.000 ou teremos uma nova correção?**
 

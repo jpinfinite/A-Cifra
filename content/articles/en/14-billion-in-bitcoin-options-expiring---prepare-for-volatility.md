@@ -38,7 +38,8 @@ seo:
 language: en
 alternateLanguages:
   pt: bitcoin-14-bilhoes-opcoes-expirando-volatilidade
-  es: 14-billones-en-opciones-de-bitcoin-a-expirar---preprese-para-volatilidad
+  es: >-
+    14-mil-millones-en-opciones-de-bitcoin-expirando---preprense-para-volatilidad
 ---
 $14 Bilhões em Opções de Bitcoin Expirando - Prepare-se para Volatilidade
 

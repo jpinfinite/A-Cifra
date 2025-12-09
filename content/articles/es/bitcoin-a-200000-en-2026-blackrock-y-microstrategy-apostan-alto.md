@@ -46,7 +46,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: bitcoin-200k-2026-previsao-institucional
-  en: bitcoin-to-hit-200000-by-2026-blackrock-and-microstrategy-bet-high
+  en: bitcoin-to-200000-by-2026-blackrock-and-microstrategy-bet-high
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) a $200.000 em 2026? BlackRock e MicroStrategy Apostam Alto
 

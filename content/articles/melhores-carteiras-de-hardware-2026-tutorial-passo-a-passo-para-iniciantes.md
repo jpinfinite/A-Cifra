@@ -41,7 +41,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: best-hardware-portfolios-2026-step-by-step-tutorial-for-beginners
-  es: mejores-carteiras-de-hardware-2026-tutorial-paso-a-paso-para-iniciantes
+  es: mejores-cajas-de-hardware-2026-tutorial-paso-a-paso-para-principiantes
 ---
 
 **Melhores Carteiras de Hardware 2026: Tutorial Passo a Passo para Iniciantes**

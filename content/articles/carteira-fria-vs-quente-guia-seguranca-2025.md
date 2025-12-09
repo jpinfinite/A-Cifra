@@ -40,7 +40,7 @@ seo:
     - trezor
     - metamask
 alternateLanguages:
-  en: cold-wallet-vs-hot-wallet---definitive-crypto-security-guide-2025
+  en: cold-wallet-vs-hot-wallet---the-definitive-crypto-security-guide-2025
   es: carteira-fria-vs-quente---gua-definitiva-de-seguridad-cripto-2025
 ---
 

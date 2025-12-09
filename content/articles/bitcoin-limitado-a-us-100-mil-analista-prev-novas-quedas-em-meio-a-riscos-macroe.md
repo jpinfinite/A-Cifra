@@ -35,7 +35,7 @@ seo:
 language: pt-BR
 alternateLanguages:
   en: >-
-    bitcoin-capped-at-100000-analyst-foresees-new-falls-amidst-macroeconomic-risks
+    bitcoin-capped-at-1-million-analyst-predicts-new-falls-amidst-macroeconomic-risks
   es: >-
     bitcoin-limitado-a-us-100-mil-analista-prev-nuevas-cadas-en-medio-de-riesgos-macroeconmicos
 ---

@@ -37,7 +37,7 @@ seo:
 language: en
 alternateLanguages:
   pt: ethereum-gas-limit-60m-upgrade-2025
-  es: ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025
+  es: ethereum-aumenta-gas-limit-para-60m---lo-que-cambia-en-la-red-en-2025
 ---
 Aumenta Gas Limit para 60M - O Que Muda na Rede em 2025
 

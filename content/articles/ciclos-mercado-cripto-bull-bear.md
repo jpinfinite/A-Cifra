@@ -32,7 +32,7 @@ seo:
     - mercado
 alternateLanguages:
   en: cryptocurrency-market-cycles-bull-and-bear-markets
-  es: ciclos-de-mercado-cripto-mercados-de-subida-e-inversin
+  es: ciclos-de-mercado-cripto-mercados-al-alza-y-bajos
 ---
 
 **Ciclos de Mercado Cripto: Bull e Bear Markets**

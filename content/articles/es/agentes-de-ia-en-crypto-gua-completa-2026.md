@@ -40,7 +40,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: agentes-de-ia-em-crypto-guia-completo-2026
-  en: artificial-intelligence-agents-in-crypto-the-2026-complete-guide
+  en: artificial-intelligence-agents-in-crypto-2026-complete-guide
 ---
 # Agentes de IA en Crypto: Guía Completa 2026
 

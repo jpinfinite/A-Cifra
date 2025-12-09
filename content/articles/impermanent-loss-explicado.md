@@ -35,7 +35,7 @@ seo:
     - pools liquidez
 alternateLanguages:
   en: permanent-impermanent-loss-what-it-is-and-how-to-avoid-it
-  es: perdida-impermamente-prdida-impermante-qu-es-y-cmo-evitarla
+  es: perdida-impermanente-prdida-impermante-qu-es-y-cmo-evitarla
 ---
 
 **Perda Impermanente (Impermanent Loss): O Que É e Como Evitar**

@@ -38,8 +38,7 @@ seo:
     - mineradores bitcoin
     - hashrate bitcoin
 alternateLanguages:
-  en: >-
-    bitcoin-mining-difficulty-is-expected-to-rise-in-december---historic-low-hashprice
+  en: bitcoin-mining-difficulty-should-rise-in-december---historic-low-hashprice
   es: >-
     dificultad-de-minera-de-bitcoin-debe-subir-en-diciembre---hashprice-en-mnima-histrica
 ---

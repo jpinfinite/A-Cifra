@@ -45,7 +45,7 @@ seo:
 categorySlug: bitcoin
 alternateLanguages:
   en: >-
-    unveiling-the-power-of-blockchain-a-revolutionary-technology-that-is-changing-the-world
+    unveiling-the-power-of-blockchain-a-revolutionary-technology-thats-changing-the-world
   es: >-
     desentraando-el-poder-de-la-blockchain-una-tecnologa-revolucionaria-que-est-cambiando-el-mundo
 ---

@@ -42,7 +42,7 @@ monetization:
     - binance
 alternateLanguages:
   pt: erros-iniciantes-cripto-2026-evitar
-  en: 10-deadly-mistakes-of-crypto-beginners-and-how-to-avoid-them-in-2026
+  en: 10-deadly-mistakes-of-cryptocurrency-beginners-and-how-to-avoid-them-in-2026
 language: es
 ---
 # 10 Erros Mortais de Iniciantes em Cripto (E Como Evitá-los em 2026)

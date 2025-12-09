@@ -43,7 +43,7 @@ seo:
 alternateLanguages:
   en: spain-proposes-47-tax-on-crypto-bitcoin-attack-worries-investors
   es: >-
-    espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversores
+    espaa-propone-impuesto-del-47-sobre-criptomoneda-ataque-contra-bitcoin-preocupa-a-los-inversores
 ---
 
 A Espanha pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O **Sumar**, partido júnior da coalizão governista espanhola, propôs um **imposto de 47% sobre ganhos com criptomoedas**, em uma medida que críticos já descrevem como um "ataque direto contra o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)".

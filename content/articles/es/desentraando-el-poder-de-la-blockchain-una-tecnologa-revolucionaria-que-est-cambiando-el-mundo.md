@@ -49,7 +49,7 @@ language: es
 alternateLanguages:
   pt: blockchain-tecnologia-revolucionaria-mudando-mundo
   en: >-
-    unveiling-the-power-of-blockchain-a-revolutionary-technology-that-is-changing-the-world
+    unveiling-the-power-of-blockchain-a-revolutionary-technology-thats-changing-the-world
 ---
 A blockchain é uma tecnologia revolucionária que está mudando a forma como pensamos sobre confiança, transparência e valor na era digital. Embora ainda enfrente desafios significativos de escalabilidade, regulamentação e adoção, seu potencial transformador é inegável.
 

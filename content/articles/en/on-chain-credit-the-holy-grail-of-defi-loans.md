@@ -38,7 +38,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: emprstimos-sem-colateral-defi
-  es: crdito-en-cadena-el-santo-grial-de-los-prstamos-defi
+  es: crdito-on-chain-el-santo-grial-de-los-prstamos-defi
 ---
 Crédito On-Chain: The Holy Grail of DeFi Lending
 

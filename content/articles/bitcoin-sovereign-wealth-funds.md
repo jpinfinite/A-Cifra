@@ -36,7 +36,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: countries-buying-bitcoin-the-new-digital-gold-rush
-  es: pases-comprando-bitcoin-la-nueva-carrera-del-oro-digital
+  es: pases-que-compram-bitcoin-la-nueva-carrera-del-oro-digital
 ---
 
 # Países Comprando Bitcoin: A Nova Corrida do Ouro Digital

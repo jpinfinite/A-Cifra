@@ -51,8 +51,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: mercado-livre-amazon-pagamentos-criptomoedas
-  en: >-
-    marketplace-free-and-amazon-the-future-of-cryptocurrency-payments-in-e-commerce
+  en: amazon-and-mercado-livre-the-future-of-cryptocurrency-payments-in-e-commerce
 ---
 # Mercado Livre e Amazon: El Futuro de los Pagos con Criptomonedas en el Comercio Electrónico
 

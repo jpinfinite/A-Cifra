@@ -43,7 +43,7 @@ seo:
     - BTC análise
 alternateLanguages:
   en: >-
-    bitcoin-heading-to-100k-comprehensive-analysis-of-the-4-factors-that-will-determine-the-next-move
+    bitcoin-heading-to-100k-complete-analysis-of-the-4-factors-that-will-determine-the-next-move
   es: >-
     bitcoin-rumbo-a-los-100k-anlisis-completo-de-los-4-factores-que-volvern-a-determinar-el-prximo-movim
 ---

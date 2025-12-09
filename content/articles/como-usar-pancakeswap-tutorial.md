@@ -35,7 +35,7 @@ seo:
     - swap bsc
 alternateLanguages:
   en: how-to-use-pancakeswap-a-complete-tutorial-on-bsc
-  es: cmo-usar-el-pancakeswap-tutorial-completo-en-bsc
+  es: cmo-usar-pancakeswap-tutorial-completo-en-bsc
 ---
 
 **Introdução ao PancakeSwap: O Exemplo de Sucesso da Binance Smart Chain**

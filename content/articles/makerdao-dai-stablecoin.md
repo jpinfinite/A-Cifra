@@ -35,7 +35,7 @@ seo:
     - maker protocol
 alternateLanguages:
   en: makerdao-and-dai-the-decentralized-stablecoin
-  es: makerdao-y-dai-la-establecabra-descentralizada
+  es: makerdao-y-dai-la-establecuidad-descentralizada
 ---
 
 **MakerDAO e DAI: A Stablecoin Descentralizada**
