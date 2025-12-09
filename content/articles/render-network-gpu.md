@@ -36,7 +36,8 @@ monetization:
     - bitget
 alternateLanguages:
   en: render-network-the-computational-power-for-the-metaverse-and-ai
-  es: red-de-render-el-poder-computacional-para-el-metaverso-e-ia
+  es: >-
+    red-de-renderizacin-el-poder-computacional-para-el-metaverso-e-inteligencia-artificial
 ---
 
 # Render Network: O Poder Computacional para o Metaverso e IA

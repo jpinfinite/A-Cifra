@@ -46,7 +46,7 @@ language: en
 alternateLanguages:
   pt: japao-imposto-cripto-20-bull-market
   es: >-
-    japn-reduce-impuesto-cripto-al-20-el-desencadenante-para-el-mercado-alza-de-2026
+    japn-reduce-impuesto-cripto-al-20-el-desencadenante-para-el-mercado-de-bolsa-de-2026
 ---
 Japan Reduces Crypto Tax to 20%: The Trigger for the 2026 Bull Market?
 

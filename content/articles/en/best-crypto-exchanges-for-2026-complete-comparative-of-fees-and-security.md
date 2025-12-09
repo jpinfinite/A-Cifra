@@ -49,7 +49,7 @@ language: en
 alternateLanguages:
   pt: melhores-exchanges-cripto-2026-comparacao-taxas
   es: >-
-    mejores-exchanges-de-cripto-para-2026-comparativo-completo-de-tasas-y-seguridad
+    mejores-intercambios-de-cripto-para-2026-comparativo-completo-de-tasas-y-seguridad
 ---
 # Melhores Exchanges de Cripto para 2026: Comparativo Completo de Taxas e [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
 

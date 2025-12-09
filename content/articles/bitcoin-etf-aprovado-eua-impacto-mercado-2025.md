@@ -34,8 +34,7 @@ seo:
     - investimento Bitcoin
 alternateLanguages:
   en: bitcoin-etf-approved-in-the-us-market-impact-and-opportunities-in-2025
-  es: >-
-    bitcoin-etf-aprobado-en-los-eeuu-impacto-en-el-mercado-y-oportunidades-en-2025
+  es: bitcoin-etf-aprobado-en-eeuu-impacto-en-el-mercado-y-oportunidades-en-2025
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) ETF Aprovado nos EUA: Impacto no Mercado e Oportunidades em 2025

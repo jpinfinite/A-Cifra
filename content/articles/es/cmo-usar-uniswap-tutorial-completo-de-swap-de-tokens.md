@@ -35,7 +35,7 @@ seo:
     - uniswap metamask
 alternateLanguages:
   pt: como-usar-uniswap-tutorial
-  en: how-to-use-uniswap-a-comprehensive-token-swap-tutorial
+  en: how-to-use-uniswap-complete-tutorial-on-token-swapping
 language: es
 ---
 El **Uniswap** es la mayor DEX (exchange descentralizada) del mundo. Este tutorial enseña a usar la plataforma paso a paso.

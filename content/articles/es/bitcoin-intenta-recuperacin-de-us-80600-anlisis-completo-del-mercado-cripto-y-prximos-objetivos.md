@@ -46,7 +46,7 @@ language: es
 alternateLanguages:
   pt: bitcoin-recuperacao-80600-analise-mercado-cripto-novembro-2025
   en: >-
-    bitcoin-tries-to-recover-at-80600-comprehensive-crypto-market-analysis-and-next-targets
+    bitcoin-aims-for-recovery-of-80600-comprehensive-crypto-market-analysis-and-next-targets
 ---
 O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está mostrando **sinais de recuperação** após tocar a mínima de **US$ 80.600** na sexta-feira, em um movimento que muitos analistas consideram como um possível **fundo de ciclo**. Com entrada de **US$ 238,4 milhões em ETFs spot** na última sessão, os touros parecem estar retomando o controle.
 

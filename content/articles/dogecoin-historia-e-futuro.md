@@ -35,7 +35,7 @@ seo:
     - memecoin original
 alternateLanguages:
   en: dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon
-  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global
+  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-un-fenmeno-global
 ---
 
 O **Dogecoin (DOGE)** começou como uma piada em 2013 e se tornou uma das criptomoedas mais reconhecidas do mundo. Sua história é única no universo cripto.

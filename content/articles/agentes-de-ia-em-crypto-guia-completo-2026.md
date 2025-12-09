@@ -38,7 +38,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: artificial-intelligence-agents-in-crypto-a-2026-complete-guide
+  en: artificial-intelligence-agents-in-crypto-the-2026-complete-guide
   es: agentes-de-ia-en-crypto-gua-completa-2026
 ---
 

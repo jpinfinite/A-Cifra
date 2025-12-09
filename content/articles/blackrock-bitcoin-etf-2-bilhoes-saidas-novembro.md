@@ -38,10 +38,9 @@ seo:
     - blackrock bitcoin
     - ibit outflows
 alternateLanguages:
-  en: >-
-    blackrock---23-billion-initime-withdrawals-from-ibit-in-november-are-perfectly-normal
+  en: blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal
   es: >-
-    blackrock---23-milardos-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales
+    blackrock---23-billones-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales
 ---
 
 # BlackRock: $2.3 Bilhões em Saídas do IBIT em Novembro São "Perfeitamente Normais"

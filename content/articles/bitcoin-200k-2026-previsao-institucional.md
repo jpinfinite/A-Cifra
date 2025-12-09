@@ -43,7 +43,7 @@ monetization:
     - bitget
     - coinbase
 alternateLanguages:
-  en: bitcoin-to-200000-by-2026-blackrock-and-microstrategy-bet-high
+  en: bitcoin-to-hit-200000-by-2026-blackrock-and-microstrategy-bet-high
   es: bitcoin-a-200000-en-2026-blackrock-y-microstrategy-apostan-alto
 ---
 

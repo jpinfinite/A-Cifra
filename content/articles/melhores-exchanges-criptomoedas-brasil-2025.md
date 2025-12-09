@@ -35,8 +35,7 @@ seo:
     - binance brasil
 alternateLanguages:
   en: best-cryptocurrency-exchanges-in-brazil-in-2025-complete-comparison
-  es: >-
-    mejores-casas-de-cambio-de-criptomonedas-en-brasil-en-2025-comparativa-completa
+  es: mejores-exchanges-de-criptomonedas-en-brasil-en-2025-comparativo-completo
 ---
 
 # Melhores Exchanges de Criptomoedas no Brasil em 2025: Comparativo Completo

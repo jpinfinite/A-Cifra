@@ -40,7 +40,7 @@ seo:
 language: es
 alternateLanguages:
   pt: cripto-gaming-gamefi-2026
-  en: crypto-gaming-and-gamefi-2026-blockchain-games-are-finally-mainstream
+  en: crypto-gaming-and-gamefi-2026-blockchain-games-finally-mainstream
 ---
 Cripto Gaming e GameFi 2026: Jogos Blockchain Finalmente Mainstream
 

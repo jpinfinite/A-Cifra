@@ -36,7 +36,7 @@ alternateLanguages:
   pt: >-
     xrp-precisa-de-estratgia-no-estilo-da-solana-para-se-manter-competitivo-diz-exec
   es: >-
-    xrp-precisa-de-estrategia-en-el-estilo-de-solana-para-mantenerse-competitivo-dice-ejecutivo-de-rippl
+    el-ejecutivo-de-ripple-dice-que-xrp-necesita-una-estrategia-a-la-altura-de-solana-para-mantener-su-c
 ---
 XRP needs a strategy in the style of Solana to remain competitive, says Ripple executive.
 

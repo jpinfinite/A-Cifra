@@ -42,9 +42,9 @@ monetization:
     - bitget
     - bybit
 alternateLanguages:
-  en: japan-reduces-crypto-tax-to-20-the-trigger-for-the-2026-bull-market
+  en: japan-cuts-crypto-tax-to-20-the-trigger-for-the-2026-bull-market
   es: >-
-    japn-reduce-impuesto-cripto-al-20-el-desencadenante-para-el-mercado-al-alza-de-2026
+    japn-reduce-impuesto-cripto-al-20-el-desencadenante-para-el-mercado-de-bolsa-de-2026
 ---
 
 # Japão Reduz Imposto Cripto para 20%: O Gatilho para o Bull Market de 2026?

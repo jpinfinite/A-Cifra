@@ -42,7 +42,7 @@ language: es
 alternateLanguages:
   pt: defi-guia-completo-iniciantes-2025
   en: >-
-    defi-a-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies
+    defi-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies
 ---
 # [defi](/artigo/defi-yield-farming-protocolos-seguros-2026): Guia Completo para Iniciantes 2025 - Como Ganhar Renda Passiva com Criptomoedas
 

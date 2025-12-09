@@ -38,7 +38,7 @@ alternateLanguages:
   pt: >-
     wall-street-entra-na-jogada-como-a-mudana-discreta-da-ripple-levou-a-uma-avaliao
   en: >-
-    wall-street-enters-the-game-how-ripples-subtle-change-led-to-a-40-billion-valuation
+    wall-street-enters-the-game-how-ripples-discreet-change-led-to-a-40-billion-valuation
 ---
 # Wall Street entra en la jugada: cómo el cambio discreto de Ripple llevó a una evaluación de $40 الدين
 

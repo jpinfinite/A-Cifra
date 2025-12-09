@@ -37,7 +37,7 @@ seo:
     queda Bitcoin, investimentos cripto
 categorySlug: bitcoin
 alternateLanguages:
-  en: bitcoin-in-negative-territory-for-the-year-market-analysis-and-prospects
+  en: bitcoin-in-negative-territory-for-the-year-market-analysis-and-outlook
   es: >-
     bitcoin-en-territorio-negativo-en-el-ao-anlisis-del-mercado-bajista-y-perspectivas
 ---

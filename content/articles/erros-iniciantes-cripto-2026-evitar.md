@@ -40,8 +40,8 @@ monetization:
     - ledger
     - binance
 alternateLanguages:
-  en: 10-deadly-mistakes-of-crypto-beginners-and-how-to-avoid-them-in-2026
-  es: 10-errores-mortales-de-iniciantes-en-criptomoneda-y-cmo-evitarlos-en-2026
+  en: 10-fatal-mistakes-of-beginners-in-crypto-and-how-to-avoid-them-in-2026
+  es: 10-errores-mortales-de-iniciantes-en-cripto-y-cmo-evitarlos-en-2026
 ---
 
 # 10 Erros Mortais de Iniciantes em Cripto (E Como Evitá-los em 2026)

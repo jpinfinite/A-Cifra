@@ -36,7 +36,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: on-chain-credit-the-holy-grail-of-defi-loans
-  es: crdito-on-chain-el-santo-grial-de-los-prstamos-defi
+  es: crdito-en-cadena-el-santo-grial-de-los-prstamos-defi
 ---
 
 # Crédito On-Chain: O Santo Graal dos Empréstimos DeFi

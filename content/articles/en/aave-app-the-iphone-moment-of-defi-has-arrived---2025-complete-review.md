@@ -44,7 +44,7 @@ seo:
 language: en
 alternateLanguages:
   pt: aave-app-momento-iphone-defi-2025
-  es: aave-app-el-momento-iphone-del-defi-ha-llegado---revisin-completa-2025
+  es: aave-app-el-momento-iphone-del-defi-lleg---review-completa-2025
 ---
 O Aave App é um serviço de empréstimo e investimento em criptomoedas que oferece uma interface simples e fácil de usar, permitindo que os usuários emprestem e tomem empréstimos com criptomoedas como garantia. O app é desenvolvido pela Aave, uma das principais plataformas de empréstimo e investimento em criptomoedas.
 

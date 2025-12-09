@@ -28,7 +28,7 @@ seo:
     - trading
 alternateLanguages:
   en: graphic-patterns-and-candlestick-in-crypto
-  es: patrones-grficos-y-candlestick-en-criptomonedas
+  es: patrones-grficos-y-candlestick-en-cripto
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora padrões gráficos e candlestick em cripto.

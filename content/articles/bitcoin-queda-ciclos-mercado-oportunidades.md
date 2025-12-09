@@ -45,7 +45,7 @@ monetization:
     - coinbase
 alternateLanguages:
   en: bitcoin-in-decline-understand-market-cycles-and-buying-opportunities
-  es: bitcoin-en-queda-entienda-los-ciclos-de-mercado-y-oportunidades-de-compra
+  es: bitcoin-en-queda-entrenda-los-ciclos-de-mercado-y-oportunidades-de-compra
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em Queda? Entenda os Ciclos de Mercado e Oportunidades de Compra

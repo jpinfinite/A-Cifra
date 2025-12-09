@@ -40,7 +40,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar
-  en: brazil-cryptocurrency-regulation-2026-whats-changing-and-how-to-prepare
+  en: brazil-crypto-regulation-2026-what-changes-and-how-to-prepare
 ---
 # Regulación cripto Brasil 2026: Lo Que Cambia y Cómo Prepararse
 

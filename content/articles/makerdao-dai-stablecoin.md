@@ -35,7 +35,7 @@ seo:
     - maker protocol
 alternateLanguages:
   en: makerdao-and-dai-the-decentralized-stablecoin
-  es: makerdao-y-dai-la-establecencia-descentralizada
+  es: makerdao-y-dai-la-establecabra-descentralizada
 ---
 
 O **MakerDAO** é o protocolo que criou o DAI, a stablecoin descentralizada mais importante do ecossistema [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).

@@ -39,7 +39,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: yield-bearing-stablecoins
-  es: monedas-estables-que-pagan-intereses-el-fin-del-dinero-parado-en-2026
+  es: stablecoins-que-pagan-intereses-el-fin-del-dinero-parado-en-2026
 ---
 Stablecoins that Pay Interest: The End of Idle Money in 2026
 

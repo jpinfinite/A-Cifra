@@ -29,7 +29,7 @@ seo:
 language: en
 alternateLanguages:
   pt: dominancia-bitcoin-altseason-timing
-  es: dominancia-bitcoin-y-altseason-tiempo-de-mercado
+  es: dominancia-bitcoin-y-altseason-timing-de-mercado
 ---
 Market Analysis is fundamental for making informed decisions. This guide explores dominance [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) and altseason: market timing.
 

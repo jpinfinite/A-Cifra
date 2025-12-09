@@ -37,7 +37,7 @@ categorySlug: bitcoin
 alternateLanguages:
   en: bitcoin-may-drop-to-75k-but-analysts-predict-40-rally-by-end-of-2025
   es: >-
-    el-bitcoin-puede-caer-a-los-75k-pero-los-analistas-pronostican-un-repunte-del-40-a-finales-de-2025
+    el-bitcoin-puede-caer-a-los-75000-pero-los-analistas-pronostican-un-repunte-del-40-a-finales-de-2025
 ---
 
 ## Current Scenario: [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Breaks Critical Support

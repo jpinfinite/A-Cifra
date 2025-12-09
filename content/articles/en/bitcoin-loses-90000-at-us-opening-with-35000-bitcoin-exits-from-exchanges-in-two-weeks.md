@@ -37,7 +37,7 @@ alternateLanguages:
   pt: >-
     bitcoin-perde-os-us-90000-na-abertura-dos-eua-com-sadas-de-35000-bitcoins-em-dua
   es: >-
-    bitcoin-pierde-los-us-90000-en-la-apertura-de-los-eua-con-salidas-de-35000-bitcoins-en-dos-semanas-d
+    bitcoin-pierde-los-us-90000-en-la-apertura-de-los-eeuu-con-salidas-de-35000-bitcoins-en-dos-semanas
 ---
 Bitcoin lost $90,000 in the US market opening with 35,000 Bitcoins sold off from exchanges in two weeks.
 

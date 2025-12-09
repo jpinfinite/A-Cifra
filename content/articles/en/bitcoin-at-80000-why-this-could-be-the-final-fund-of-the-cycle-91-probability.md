@@ -45,7 +45,7 @@ language: en
 alternateLanguages:
   pt: bitcoin-fundo-80k-analise-capitulacao-2025
   es: >-
-    bitcoin-en-us-80000-por-qu-esto-podra-ser-el-fondo-definitivo-del-ciclo-91-de-probabilidad
+    bitcoin-en-us-80000-por-qu-este-puede-ser-el-fondo-definitivo-del-ciclo-91-de-probabilidad
 ---
 # Bitcoin em US$ 80.000: Por Que Este Pode Ser o Fundo Definitivo do Ciclo (91% de Probabilidade)
 

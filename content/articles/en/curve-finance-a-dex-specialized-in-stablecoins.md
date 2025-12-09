@@ -36,7 +36,7 @@ seo:
 language: en
 alternateLanguages:
   pt: curve-finance-stablecoins
-  es: curve-finance-una-dex-especializada-en-stablecoins
+  es: curve-finance-una-dex-especializada-en-monedas-estables
 ---
 Curve Finance is the leading DEX for stablecoin trading, offering low slippage and high yields.
 

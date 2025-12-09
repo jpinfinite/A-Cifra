@@ -35,8 +35,7 @@ seo:
 language: en
 alternateLanguages:
   pt: bitcoin-etf-aprovado-eua-impacto-mercado-2025
-  es: >-
-    bitcoin-etf-aprobado-en-los-eeuu-impacto-en-el-mercado-y-oportunidades-en-2025
+  es: bitcoin-etf-aprobado-en-eeuu-impacto-en-el-mercado-y-oportunidades-en-2025
 ---
 # Bitcoin ETF Aprovado nos EUA: Impacto no Mercado e Oportunidades em 2025
 

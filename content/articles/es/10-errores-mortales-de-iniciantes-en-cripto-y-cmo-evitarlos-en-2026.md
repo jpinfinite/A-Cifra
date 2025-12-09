@@ -43,7 +43,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: erros-iniciantes-cripto-2026-evitar
-  en: 10-fatal-mistakes-of-cryptocurrency-beginners-and-how-to-avoid-them-in-2026
+  en: 10-fatal-mistakes-of-beginners-in-crypto-and-how-to-avoid-them-in-2026
 ---
 # 10 Erros Mortais de Iniciantes em Cripto (E Como Evitá-los em 2026)
 

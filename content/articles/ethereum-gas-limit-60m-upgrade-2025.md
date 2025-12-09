@@ -36,7 +36,7 @@ seo:
     - vitalik buterin
 alternateLanguages:
   en: ethereum-increases-gas-limit-to-60m---what-changes-on-the-network-in-2025
-  es: ethereum-aumenta-gas-limit-para-60m---lo-que-cambia-en-la-red-en-2025
+  es: ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025
 ---
 
 # [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) Aumenta Gas Limit para 60M - O Que Muda na Rede em 2025

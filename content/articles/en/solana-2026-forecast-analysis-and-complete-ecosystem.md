@@ -35,7 +35,7 @@ seo:
 language: en
 alternateLanguages:
   pt: solana-2026-previsao-analise-ecossistema
-  es: solana-2026-prediccin-anlisis-y-ecosistema-completo
+  es: solana-2026-previsin-anlisis-y-ecosistema-completo
 ---
 Solana 2026: Previsão, Análise e Ecossistema Completo
 

@@ -38,7 +38,7 @@ monetization:
     - bitget
 alternateLanguages:
   en: stablecoins-that-pay-interest-the-end-of-idle-money-in-2026
-  es: monedas-estables-que-pagan-intereses-el-fin-del-dinero-parado-en-2026
+  es: stablecoins-que-pagan-intereses-el-fin-del-dinero-parado-en-2026
 ---
 
 # Stablecoins que Pagam Juros: O Fim do Dinheiro Parado em 2026

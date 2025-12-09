@@ -46,7 +46,7 @@ language: es
 alternateLanguages:
   pt: seguranca-criptomoedas-guia-completo-protecao
   en: >-
-    cryptocurrency-security-the-2025-complete-guide---how-to-protect-your-assets-from-hacks-and-scams
+    cryptocurrency-security-complete-guide-2025---how-to-protect-your-assets-from-hacks-and-scams
 ---
 Seguridad en Criptomoedas: Guia Completo 2025 - Como Proteger Sus Ativos de Hacks y Golpes
 

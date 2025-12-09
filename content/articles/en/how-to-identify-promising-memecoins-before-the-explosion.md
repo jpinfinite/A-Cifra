@@ -36,7 +36,7 @@ seo:
 language: en
 alternateLanguages:
   pt: como-identificar-memecoins-promissoras
-  es: cmo-identificar-monedas-memticas-prometedoras-antes-de-la-explosin
+  es: cmo-identificar-monedas-memecoins-prometedoras-antes-de-la-explosin
 ---
 Identifying promising meme coins before they explode can generate extraordinary returns, but requires careful analysis and risk management.
 

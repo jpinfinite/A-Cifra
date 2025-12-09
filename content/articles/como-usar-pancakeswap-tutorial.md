@@ -34,8 +34,8 @@ seo:
     - bsc dex
     - swap bsc
 alternateLanguages:
-  en: how-to-use-pancakeswap-a-comprehensive-tutorial-on-bsc
-  es: cmo-usar-pancakeswap-tutorial-completo-en-bsc
+  en: how-to-use-pancakeswap-a-complete-tutorial-on-bsc
+  es: cmo-usar-el-pancakeswap-tutorial-completo-en-bsc
 ---
 
 O **PancakeSwap** é a maior DEX da Binance Smart Chain. Aprenda a usar todas as funcionalidades.

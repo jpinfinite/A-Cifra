@@ -39,8 +39,7 @@ seo:
 language: en
 alternateLanguages:
   pt: blackrock-tokenizacao-ponte-cripto-financas-tradicionais
-  es: >-
-    blackrock-y-tokenizacin-el-puente-entre-criptomonedas-y-finanzas-tradicionales
+  es: blackrock-y-tokenizacin-el-puente-entre-cripto-y-finanzas-tradicionales
 ---
 Note: This is a machine translation of the provided text. The translation may not be perfect and some nuances may be lost in translation.
 

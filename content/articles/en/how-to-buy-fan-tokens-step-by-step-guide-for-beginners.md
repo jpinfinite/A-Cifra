@@ -43,7 +43,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: como-comprar-fan-tokens-guia-iniciantes
-  es: cmo-comprar-fan-tokens-gua-paso-a-paso-para-iniciantes
+  es: cmo-comprar-fan-tokens-gua-paso-a-paso-para-principiantes
 ---
 How to Buy Fan Tokens: A Step-by-Step Guide for Beginners
 

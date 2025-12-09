@@ -27,7 +27,7 @@ seo:
     - segurança
     - proteção
 alternateLanguages:
-  en: phishing-and-scams-in-crypto-how-to-protect-yourself
+  en: phishing-and-cryptocurrency-scams-how-to-protect-yourself
   es: phishing-y-estafas-en-criptomonedas-cmo-protegerse
 ---
 

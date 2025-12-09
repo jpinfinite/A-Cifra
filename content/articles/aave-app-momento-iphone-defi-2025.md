@@ -43,7 +43,7 @@ seo:
     - staking
 alternateLanguages:
   en: aave-app-the-iphone-moment-of-defi-has-arrived---2025-complete-review
-  es: aave-app-el-momento-iphone-del-defi-ha-llegado---revisin-completa-2025
+  es: aave-app-el-momento-iphone-del-defi-lleg---review-completa-2025
 ---
 
 O [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) sempre teve um problema: **é complicado demais**. Wallets confusas, gas fees imprevisíveis, interfaces técnicas que assustam qualquer pessoa normal. Mas isso acabou.

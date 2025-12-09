@@ -36,7 +36,8 @@ seo:
 alternateLanguages:
   en: >-
     passive-income-with-cryptocurrencies-in-2025-staking-lending-and-yield-farming
-  es: renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-ganancias-de-campo
+  es: >-
+    renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad
 ---
 
 # Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming

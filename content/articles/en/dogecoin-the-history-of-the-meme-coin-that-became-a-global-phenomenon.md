@@ -36,7 +36,7 @@ seo:
 language: en
 alternateLanguages:
   pt: dogecoin-historia-e-futuro
-  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global
+  es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-un-fenmeno-global
 ---
 Dogecoin (DOGE) began as a joke in 2013 and became one of the world's most recognized cryptocurrencies. Its history is unique in the crypto universe.
 

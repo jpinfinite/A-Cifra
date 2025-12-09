@@ -32,7 +32,7 @@ seo:
     - mercado
 alternateLanguages:
   en: cryptocurrency-market-cycles-bull-and-bear-markets
-  es: ciclos-de-mercado-cripto-mercados-buey-y-oso
+  es: ciclos-de-mercado-cripto-mercados-de-subida-e-inversin
 ---
 
 A **análise de mercado** é fundamental para tomar decisões informadas. Este guia explora ciclos de mercado cripto: bull e bear markets.

@@ -42,7 +42,7 @@ language: en
 alternateLanguages:
   pt: trump-familia-perde-bilhoes-cripto-2025
   es: >-
-    familia-trump-pierde-us-1-mil-millones-en-criptomonedas-la-leccin-bruta-de-la-volatilidad
+    familia-trump-pierde-us-1-mil-millones-en-cripto-la-leccin-bruta-de-la-volatilidad
 ---
 Família Trump Perde US$ 1 Bilhão em Cripto: A Lição Brutal da Volatilidade
 

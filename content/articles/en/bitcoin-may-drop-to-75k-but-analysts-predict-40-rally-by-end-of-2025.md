@@ -38,7 +38,7 @@ language: en
 alternateLanguages:
   pt: bitcoin-bottom-75k-mvrv-analysis-2025
   es: >-
-    el-bitcoin-puede-caer-a-los-75k-pero-los-analistas-pronostican-un-repunte-del-40-a-finales-de-2025
+    el-bitcoin-puede-caer-a-los-75000-pero-los-analistas-pronostican-un-repunte-del-40-a-finales-de-2025
 ---
 ## Current Scenario: Bitcoin Breaks Critical Support
 

@@ -40,8 +40,7 @@ seo:
 language: en
 alternateLanguages:
   pt: polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025
-  es: >-
-    polkadot-dispara-9-con-rompimiento-tcnico-anlisis-del-rally-de-diciembre-2025
+  es: polkadot-dispara-9-con-ruptura-tcnica-anlisis-del-rally-de-diciembre-2025
 ---
 Polkadot Dispara 9% com Rompimento Técnico: Análise do Rally de Dezembro 2025
 

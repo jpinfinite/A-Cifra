@@ -38,7 +38,7 @@ seo:
 categorySlug: bitcoin
 alternateLanguages:
   en: >-
-    bitcoin-could-fall-to-75-million-but-analysts-predict-a-40-rally-by-the-end-of-2025
+    bitcoin-could-drop-to-75-million-but-analysts-predict-a-40-rally-by-the-end-of-2025
   es: >-
     bitcoin-podra-caer-hasta-los-us-75-mil-pero-los-analistas-prevn-un-rally-de-40-hasta-finales-de-2025
 ---

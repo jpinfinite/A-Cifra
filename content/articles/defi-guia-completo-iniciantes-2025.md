@@ -39,7 +39,7 @@ seo:
     - renda passiva cripto
 alternateLanguages:
   en: >-
-    defi-a-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies
+    defi-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies
   es: >-
     defi-gua-completa-para-principiantes-2025---cmo-ganar-renta-pasiva-con-criptomonedas
 ---

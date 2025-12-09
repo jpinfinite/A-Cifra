@@ -36,7 +36,7 @@ seo:
 language: pt-BR
 alternateLanguages:
   en: >-
-    wall-street-enters-the-game-how-ripples-subtle-change-led-to-a-40-billion-valuation
+    wall-street-enters-the-game-how-ripples-discreet-change-led-to-a-40-billion-valuation
   es: >-
     wall-street-entra-en-la-jugada-como-el-cambio-discreto-de-ripple-llev-a-una-evaluacin-de-us-40-mil-m
 ---

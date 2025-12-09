@@ -45,7 +45,7 @@ seo:
     - stablecoins 2025
 alternateLanguages:
   en: >-
-    usdt-at-risk-sp-downgrades-rating-to-lowest-note---complete-guide-to-safe-stablecoins-2025
+    usdt-at-risk-sp-downgrades-rating-to-lowest-note---2025-complete-guide-to-safe-stablecoins
   es: >-
     usdt-en-riesgo-sp-baja-calificacin-para-nota-ms-baja---gua-completa-de-stablecoins-seguras-2025
 ---

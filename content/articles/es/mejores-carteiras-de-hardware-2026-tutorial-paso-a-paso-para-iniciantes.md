@@ -43,7 +43,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: melhores-carteiras-de-hardware-2026-tutorial-passo-a-passo-para-iniciantes
-  en: best-hardware-wallets-2026-step-by-step-tutorial-for-beginners
+  en: best-hardware-portfolios-2026-step-by-step-tutorial-for-beginners
 ---
 # Mejores Carteiras de Hardware 2026: Tutorial Paso a Paso para Iniciantes
 

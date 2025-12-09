@@ -44,7 +44,7 @@ language: es
 alternateLanguages:
   pt: bitcoin-fundo-75-mil-analise-mvrv-2025
   en: >-
-    bitcoin-could-fall-to-75-million-but-analysts-predict-a-40-rally-by-the-end-of-2025
+    bitcoin-could-drop-to-75-million-but-analysts-predict-a-40-rally-by-the-end-of-2025
 ---
 O Cenário Atual: [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Rompe Suporte Crítico
 

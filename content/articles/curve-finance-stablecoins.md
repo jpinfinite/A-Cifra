@@ -35,7 +35,7 @@ seo:
     - curve pools
 alternateLanguages:
   en: curve-finance-a-dex-specialized-in-stablecoins
-  es: curve-finance-una-dex-especializada-en-stablecoins
+  es: curve-finance-una-dex-especializada-en-monedas-estables
 ---
 
 O **Curve Finance** é a DEX líder para trading de stablecoins, oferecendo baixo slippage e altos rendimentos.

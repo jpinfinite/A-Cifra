@@ -37,7 +37,7 @@ alternateLanguages:
   en: >-
     bitcoin-loses-90000-at-us-opening-with-35000-bitcoin-exits-from-exchanges-in-two-weeks
   es: >-
-    bitcoin-pierde-los-us-90000-en-la-apertura-de-los-eua-con-salidas-de-35000-bitcoins-en-dos-semanas-d
+    bitcoin-pierde-los-us-90000-en-la-apertura-de-los-eeuu-con-salidas-de-35000-bitcoins-en-dos-semanas
 ---
 
 # Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges

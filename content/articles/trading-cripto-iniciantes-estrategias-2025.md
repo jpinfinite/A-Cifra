@@ -40,7 +40,7 @@ seo:
     - estratégias cripto
 alternateLanguages:
   en: >-
-    cryptocurrency-trading-for-beginners-complete-guide-2025---indicators-and-risk-management
+    cryptocurrency-trading-for-beginners-2025-complete-guide---indicators-and-risk-management
   es: >-
     trading-de-criptomonedas-para-iniciantes-gua-completa-2025---ndices-e-gestin-de-riesgo
 ---

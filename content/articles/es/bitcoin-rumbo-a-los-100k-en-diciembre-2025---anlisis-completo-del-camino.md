@@ -43,7 +43,7 @@ language: es
 alternateLanguages:
   pt: bitcoin-100k-dezembro-2025-analise-caminho
   en: >-
-    bitcoin-heading-to-100k-by-december-2025---comprehensive-analysis-of-the-path
+    bitcoin-on-the-way-to-100k-by-december-2025---comprehensive-analysis-of-the-path
 ---
 # Rumo aos $100K em Dezembro 2025: Análise Completa do Caminho
 

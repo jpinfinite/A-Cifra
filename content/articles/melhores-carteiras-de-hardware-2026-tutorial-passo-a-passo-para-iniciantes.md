@@ -40,7 +40,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: best-hardware-wallets-2026-step-by-step-tutorial-for-beginners
+  en: best-hardware-portfolios-2026-step-by-step-tutorial-for-beginners
   es: mejores-carteiras-de-hardware-2026-tutorial-paso-a-paso-para-iniciantes
 ---
 

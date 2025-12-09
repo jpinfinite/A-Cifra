@@ -28,7 +28,7 @@ seo:
     - segurança
 alternateLanguages:
   en: seed-phrase-secure-wallet-backup-and-recovery
-  es: frase-de-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
+  es: palabra-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras
 ---
 
 A **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)** é o aspecto mais crítico ao lidar com criptomoedas. Este guia aborda seed phrase: backup e recuperação segura de carteiras.

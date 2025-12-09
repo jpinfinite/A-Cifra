@@ -40,7 +40,7 @@ monetization:
 language: es
 alternateLanguages:
   pt: bitcoin-layer-2-stacks-ordinals
-  en: bitcoin-layer-2-stacks-ordinals-complete-analysis-and-predictions
+  en: bitcoin-layer-2-stacks-ordinals-a-comprehensive-analysis-and-predictions
 ---
 O Futuro da Criptomoeda está em Jogo: Entenda por que o Bitcoin Layer 2 Stacks Ordinals é o Desafio que Muda a Dinâmica do Mercado
 

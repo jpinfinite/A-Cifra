@@ -38,7 +38,7 @@ seo:
 language: es
 alternateLanguages:
   pt: xrp-dispara-140-porcento-novembro-analise
-  en: xrp-jumps-140-in-november---rally-analysis-and-next-targets
+  en: xrp-surges-140-in-november---rally-analysis-and-next-targets
 ---
 # XRP Dispara 140% en Noviembre - Análisis del Rally y Próximos Objetivos
 

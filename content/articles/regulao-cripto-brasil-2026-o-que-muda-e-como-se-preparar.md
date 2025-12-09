@@ -38,7 +38,7 @@ monetization:
     - binance
     - bitget
 alternateLanguages:
-  en: brazil-cryptocurrency-regulation-2026-whats-changing-and-how-to-prepare
+  en: brazil-crypto-regulation-2026-what-changes-and-how-to-prepare
   es: regulacin-cripto-brasil-2026-lo-que-cambia-y-cmo-prepararse
 ---
 

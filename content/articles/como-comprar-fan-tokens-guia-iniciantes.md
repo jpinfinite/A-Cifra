@@ -42,7 +42,7 @@ monetization:
     - binance
 alternateLanguages:
   en: how-to-buy-fan-tokens-step-by-step-guide-for-beginners
-  es: cmo-comprar-fan-tokens-gua-paso-a-paso-para-iniciantes
+  es: cmo-comprar-fan-tokens-gua-paso-a-paso-para-principiantes
 ---
 
 # Como Comprar Fan Tokens: Guia Passo a Passo para Iniciantes

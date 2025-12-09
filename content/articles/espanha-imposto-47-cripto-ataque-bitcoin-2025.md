@@ -41,7 +41,7 @@ seo:
     - tributação bitcoin espanha
     - ataque bitcoin espanha
 alternateLanguages:
-  en: spain-proposes-47-tax-on-crypto-attack-on-bitcoin-worries-investors
+  en: spain-proposes-47-tax-on-crypto-bitcoin-attack-worries-investors
   es: >-
     espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversores
 ---

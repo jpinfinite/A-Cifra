@@ -29,7 +29,7 @@ seo:
 language: en
 alternateLanguages:
   pt: padroes-graficos-candlestick-cripto
-  es: patrones-grficos-y-candlestick-en-criptomonedas
+  es: patrones-grficos-y-candlestick-en-cripto
 ---
 Market Analysis is fundamental for making informed decisions. This guide explores graphic patterns and candlestick in crypto.
 

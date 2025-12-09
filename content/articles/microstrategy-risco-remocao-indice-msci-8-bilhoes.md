@@ -40,7 +40,7 @@ seo:
 alternateLanguages:
   en: microstrategy-faces-msci-index-removal---risk-of-88-billion-in-outflows
   es: >-
-    microstrategy-enfrenta-retirada-del-ndice-msci---riesgo-de-88-mil-millones-en-retiros
+    microstrategy-enfrenta-retirada-del-ndice-msci---riesgo-de-88-mil-millones-en-salidas
 ---
 
 **3 de dezembro de 2025** - A **MicroStrategy (MSTR)** enfrenta uma ameaça significativa: possível **remoção do índice MSCI**, o que poderia desencadear **saídas de até $8,8 bilhões** de fundos passivos que rastreiam o índice. A notícia, reportada pela Reuters, coloca em risco a estratégia agressiva de acumulação de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) da empresa liderada por Michael Saylor.

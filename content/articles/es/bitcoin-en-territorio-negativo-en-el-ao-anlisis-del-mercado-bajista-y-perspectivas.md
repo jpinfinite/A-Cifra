@@ -40,7 +40,7 @@ categorySlug: bitcoin
 language: es
 alternateLanguages:
   pt: bitcoin-valorizacao-negativa-analise-mercado-baixista
-  en: bitcoin-in-negative-territory-for-the-year-market-analysis-and-prospects
+  en: bitcoin-in-negative-territory-for-the-year-market-analysis-and-outlook
 ---
 Apaga Ganhos do Ano
 

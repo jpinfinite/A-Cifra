@@ -45,7 +45,7 @@ alternateLanguages:
   en: >-
     bitcoin-at-80000-why-this-could-be-the-final-fund-of-the-cycle-91-probability
   es: >-
-    bitcoin-en-us-80000-por-qu-esto-podra-ser-el-fondo-definitivo-del-ciclo-91-de-probabilidad
+    bitcoin-en-us-80000-por-qu-este-puede-ser-el-fondo-definitivo-del-ciclo-91-de-probabilidad
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em US$ 80.000: Por Que Este Pode Ser o Fundo Definitivo do Ciclo (91% de Probabilidade)

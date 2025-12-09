@@ -30,7 +30,7 @@ seo:
 language: en
 alternateLanguages:
   pt: wrapped-tokens-bitcoin-ethereum
-  es: tokens-envueltos-traer-bitcoin-a-ethereum
+  es: tokens-envueltos-llevando-bitcoin-a-ethereum
 ---
 This is a comprehensive guide that explores Wrapped Tokens in detail and in an accessible way.
 

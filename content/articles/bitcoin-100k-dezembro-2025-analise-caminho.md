@@ -38,7 +38,7 @@ seo:
     - bull market bitcoin
 alternateLanguages:
   en: >-
-    bitcoin-heading-to-100k-by-december-2025---comprehensive-analysis-of-the-path
+    bitcoin-on-the-way-to-100k-by-december-2025---comprehensive-analysis-of-the-path
   es: bitcoin-rumbo-a-los-100k-en-diciembre-2025---anlisis-completo-del-camino
 ---
 

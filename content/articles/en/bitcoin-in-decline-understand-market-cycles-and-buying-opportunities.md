@@ -46,7 +46,7 @@ monetization:
 language: en
 alternateLanguages:
   pt: bitcoin-queda-ciclos-mercado-oportunidades
-  es: bitcoin-en-queda-entienda-los-ciclos-de-mercado-y-oportunidades-de-compra
+  es: bitcoin-en-queda-entrenda-los-ciclos-de-mercado-y-oportunidades-de-compra
 ---
 Bitcoin in Decline? Understanding Market Cycles and Buying Opportunities
 

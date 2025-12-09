@@ -51,7 +51,7 @@ categorySlug: bitcoin
 language: en
 alternateLanguages:
   pt: perspectivas-otimistas-mercado-cripto-final-2025
-  es: perspectivas-otimistas-para-el-mercado-cripto-al-final-de-2025
+  es: perspectivas-optimistas-para-el-mercado-cripto-al-final-de-2025
 ---
 The final price of Bitcoin in 2025 is predicted to be between $130,000 and $250,000. 
 

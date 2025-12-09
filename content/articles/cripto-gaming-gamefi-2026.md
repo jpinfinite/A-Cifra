@@ -36,7 +36,7 @@ seo:
     - Blockchain
     - '2026'
 alternateLanguages:
-  en: crypto-gaming-and-gamefi-2026-blockchain-games-are-finally-mainstream
+  en: crypto-gaming-and-gamefi-2026-blockchain-games-finally-mainstream
   es: cripto-gaming-y-gamefi-2026-juegos-blockchain-finalmente-de-masas
 ---
 

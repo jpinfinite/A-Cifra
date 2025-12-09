@@ -37,7 +37,7 @@ alternateLanguages:
   pt: >-
     bitcoin-limitado-a-us-100-mil-analista-prev-novas-quedas-em-meio-a-riscos-macroe
   en: >-
-    bitcoin-capped-at-1-million-analyst-predicts-new-falls-amidst-macroeconomic-risks
+    bitcoin-capped-at-100000-analyst-foresees-new-falls-amidst-macroeconomic-risks
 ---
 Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos macroeconômicos
 
