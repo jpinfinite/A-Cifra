@@ -357,29 +357,25 @@ Avalie a QUALIDADE HUMANA do artigo abaixo.
 RETORNE APENAS UM JSON, seguindo EXATAMENTE esta estrutura:
 
 {
-  "score": 0-100,
+  "score": "número de 0 a 100",
   "label": "Excelente | Bom | Médio | Fraco",
-  "problems": ["lista de problemas"],
-  "suggestedFix": "refaça o texto totalmente corrigido se score < 85, caso contrário string vazia",
+  "problems": ["lista de problemas identificados"],
+  "suggestedFix": "IMPORTANTE: Se a nota for < 85, reescreva o texto COMPLETO aqui corrigindo os problemas. NÃO ESCREVA INSTRUÇÕES. ESCREVA O ARTIGO FINAL PRONTO PARA PUBLICAR. Se a nota for >= 85, deixe string vazia.",
   "summaryQuality": "explicação breve"
 }
 
-CRITÉRIOS:
-- Clareza e profundidade
-- Ausência de construção robótica
-- Variedade de vocabulário
-- Estrutura lógica
-- Transições naturais
-- Conclusão coerente
-- Especificidade e conteúdo real
+CRITÉRIOS RIGOROSOS:
+1. NUNCA devolva instruções como "Reescreva o texto...". Devolva o TEXTO REESCRITO.
+2. O texto sugerido deve ter o mesmo tamanho ou ser maior que o original.
+3. Mantenha formatação Markdown.
 
-ARTIGO:
+ARTIGO ORIGINAL:
 ${text}
     `.trim();
 
     try {
         const response = await generateWithAI([
-            { role: "system", content: "Você é um revisor profissional de artigos." },
+            { role: "system", content: "Você é um editor sênior. Sua tarefa é corrigir textos, não dar ordens." },
             { role: "user", content: qualityPrompt }
         ]);
         const cleaned = response
@@ -387,14 +383,28 @@ ${text}
             .replace(/```/g, "")
             .trim();
 
-        return JSON.parse(cleaned);
+        const result = JSON.parse(cleaned);
+
+        // Safety Check: Validar se suggestedFix é instrução ou texto real
+        if (result.suggestedFix && result.suggestedFix.length > 50) {
+            const badKeywords = ["Reescreva", "Refaça", "Adicione", "Instruction", "Reorganizar", "Certifique-se"];
+            const start = result.suggestedFix.substring(0, 100);
+
+            // Se começar parecendo uma instrução, anula a correção
+            if (badKeywords.some(kw => start.includes(kw))) {
+                 console.log("   ⚠️ Alerta: IA retornou instruções em vez de texto. Descartando correção.");
+                 result.suggestedFix = ""; // Força descarte
+            }
+        }
+
+        return result;
 
     } catch (e) {
         return {
-            score: 70, // Assume médio
+            score: 70,
             label: "Erro",
             problems: ["Falha ao avaliar"],
-            suggestedFix: text,
+            suggestedFix: "", // Falha segura: mantém original
             summaryQuality: "Sem avaliação."
         };
     }
