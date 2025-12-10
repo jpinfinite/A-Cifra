@@ -37,8 +37,12 @@ language: en
 alternateLanguages:
   pt: curve-finance-stablecoins
   es: curve-finance-una-dex-especializada-en-monedas-estables
+metaTitle: 'Curve Finance: A DEX Specialized in Stablecoins'
+metaDescription: >-
+  Discover Curve Finance, the leading DEX for stablecoin trading with low
+  slippage and high yields. Read more!
 ---
-Curve Finance is the leading DEX for stablecoin trading, offering low slippage and high yields.
+[Curve](/artigo/curve-finance-stablecoins "Curve Finance: A DEX Especializada em Stablecoins") Finance is the leading DEX for stablecoin trading, offering low slippage and high yields.
 
 ## Why Curve?
 
@@ -80,7 +84,7 @@ Curve Finance is the leading DEX for stablecoin trading, offering low slippage a
 
 ## Conclusion
 
-Curve is ideal for conservative farming with stablecoins and stable yields.
+[Curve](/artigo/curve-finance-una-dex-especializada-en-monedas-estables "Curve Finance: Una DEX especializada en monedas estables") is ideal for conservative farming with stablecoins and stable yields.
 
 ## Start Investing in Cryptocurrencies
 

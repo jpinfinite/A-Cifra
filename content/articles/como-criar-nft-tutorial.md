@@ -36,6 +36,10 @@ seo:
 alternateLanguages:
   en: how-to-create-and-sell-your-first-nft-the-complete-guide
   es: cmo-crear-y-vender-tu-primer-nft-gua-completa
+metaTitle: 'Como Criar e Vender Seu Primeiro NFT: Guia Completo'
+metaDescription: >-
+  Tutorial passo a passo para criar, mintar e vender seu primeiro NFT no
+  OpenSea: da criação da arte até a primeira venda.
 ---
 
 **Introdução**
@@ -61,7 +65,7 @@ Os NFTs têm uma importância significativa no mundo dos negócios e da tecnolog
 **Criar e vender NFTs**
 ----------------------
 
-Criar e vender NFTs é um processo relativamente simples, mas exige conhecimento e habilidades específicas. Aqui estão os passos básicos para criar e vender NFTs:
+Criar e [vender](/artigo/cmo-crear-y-vender-tu-primer-nft-gua-completa "Cómo Crear y Vender Tu Primer NFT: Guía Completa") NFTs é um processo relativamente simples, mas exige conhecimento e habilidades específicas. Aqui estão os passos básicos para criar e vender NFTs:
 
 * **Escolher a plataforma**: Escolher a plataforma certa para criar e vender NFTs, como OpenSea, Rarible ou SuperRare.
 * **Criar o ativo digital**: Criar o ativo digital que será representado pelo NFT, como arte, música ou vídeo.
@@ -171,7 +175,7 @@ A: Um NFT é uma representação digital de uma obra de arte, música, vídeo ou
 
 ### Q: Quais são as plataformas mais populares para criar e vender NFTs?
 
-A: Algumas das plataformas mais populares para criar e vender NFTs incluem OpenSea, Rarible, SuperRare e Mintable. Essas plataformas oferecem ferramentas e recursos para criar, comprar e vender NFTs, bem como para gerenciar a sua coleção de NFTs.
+A: Algumas das plataformas mais populares para criar e vender NFTs incluem OpenSea, Rarible, SuperRare e Mintable. Essas plataformas oferecem ferramentas e recursos para criar, [comprar](/artigo/como-comprar-primeira-criptomoeda "Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo") e vender NFTs, bem como para gerenciar a sua coleção de NFTs.
 
 ### Q: Quais são os requisitos para criar um NFT?
 

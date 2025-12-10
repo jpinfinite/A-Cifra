@@ -46,11 +46,16 @@ monetization:
 alternateLanguages:
   en: stablecoins-dominate-brazil-90-of-the-volume-and-the-new-iof-risk
   es: stablecoins-dominan-brasil-90-del-volumen-y-el-nuevo-riesgo-del-iof
+metaTitle: 'Stablecoins Dominam o Brasil: 90% do Volume e o Novo Risco d...'
+metaDescription: >-
+  Brasileiros amam Dólar Digital. Stablecoins já representam 90% das transações
+  cripto no país, mas novas regras do Banco Central podem trazer o IOF para o
+  j...
 ---
 
-**Stablecoins Dominam o Brasil: 90% do Volume e o Novo Risco do IOF**
+**[Stablecoins](/artigo/stablecoins-dominate-brazil-90-of-the-volume-and-the-new-iof-risk "Stablecoins Dominate Brazil: 90% of the Volume and the New IOF Risk") Dominam o Brasil: 90% do Volume e o Novo Risco do IOF**
 
-A economia digital brasileira tem passado por um período de intensa transformação nos últimos anos, com a crescente adoção de tecnologias como blockchain e criptomoedas. Nesse contexto, as stablecoins têm se destacado como uma das principais tendências do mercado, dominando grande parte do volume de negócios e gerando atenção de investidores e reguladores.
+A economia digital brasileira tem passado por um período de intensa transformação nos últimos anos, com a crescente adoção de tecnologias como blockchain e criptomoedas. Nesse contexto, as [stablecoins](/artigo/stablecoins-dominan-brasil-90-del-volumen-y-el-nuevo-riesgo-del-iof "Stablecoins dominan Brasil: 90% del volumen y el nuevo riesgo del IOF") têm se destacado como uma das principais tendências do mercado, dominando grande parte do volume de negócios e gerando atenção de investidores e reguladores.
 
 **O que são stablecoins?**
 

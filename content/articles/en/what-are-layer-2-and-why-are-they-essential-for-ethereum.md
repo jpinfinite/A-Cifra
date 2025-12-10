@@ -45,12 +45,16 @@ language: en
 alternateLanguages:
   pt: layer-2-essencial-ethereum-escalabilidade
   es: qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum
+metaTitle: What Are Layer 2 and Why Are They Essential for Ethereum
+metaDescription: >-
+  Discover the importance of Layer 2 for Ethereum scalability and efficiency.
+  Learn why they're essential for the network's future. Read more!
 ---
-O Que São Layer 2 e Por Que São Essenciais para o Ethereum
+O Que São [Layer](/artigo/qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum "¿Qué son Layer 2 y por qué son esenciales para el Ethereum") 2 e Por Que São Essenciais para o Ethereum
 
-As soluções Layer 2 representam a evolução natural do Ethereum, resolvendo seus maiores desafios: velocidade e custo. Enquanto a rede principal (Layer 1) garante máxima segurança e descentralização, as Layer 2 processam milhares de transações por segundo com taxas de centavos.
+As soluções [Layer](/artigo/layer-2-essencial-ethereum-escalabilidade "O Que São Layer 2 e Por Que São Essenciais para o Ethereum") 2 representam a evolução natural do Ethereum, resolvendo seus maiores desafios: velocidade e custo. Enquanto a rede principal (Layer 1) garante máxima segurança e descentralização, as Layer 2 processam milhares de transações por segundo com taxas de centavos.
 
-Em 2025, as Layer 2s movimentam mais de $15 bilhões em TVL (Total Value Locked) e processam mais transações que a própria mainnet do Ethereum. Elas não são apenas uma solução temporária - são o futuro da escalabilidade blockchain.
+Em 2025, as Layer 2s movimentam mais de $15 bilhões em TVL (Total Value Locked) e processam mais transações que a própria mainnet do [Ethereum](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability"). Elas não são apenas uma solução temporária - são o futuro da escalabilidade blockchain.
 
 Neste guia completo, você entenderá o que são Layer 2, como funcionam, quais são os principais projetos e por que elas são essenciais para a adoção em massa das criptomoedas.
 
@@ -82,7 +86,7 @@ Solução: Layer 2s mantêm segurança da L1 enquanto escalam.
 
 O Que São Layer 2s?
 
-Layer 2s são protocolos construídos sobre o Ethereum (Layer 1) que processam transações off-chain mas herdam a segurança da mainnet.
+Layer 2s são protocolos construídos sobre o [Ethereum](/artigo/capa-2-de-ethereum-gua-completa-2025---arbitrum-optimism-base-y-el-futuro-de-la-escalabilidad "Capa 2 de Ethereum: Guía Completa 2025 - Arbitrum, Optimism, Base y el Futuro de la Escalabilidad") (Layer 1) que processam transações off-chain mas herdam a segurança da mainnet.
 
 Como Funcionam (Conceito Geral)
 

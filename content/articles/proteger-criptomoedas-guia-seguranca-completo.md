@@ -41,6 +41,11 @@ seo:
 alternateLanguages:
   en: how-to-protect-your-cryptocurrencies-complete-security-guide
   es: cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa
+metaTitle: 'Como Proteger Suas Criptomoedas: Guia de Segurança Completo'
+metaDescription: >-
+  Aprenda as melhores práticas de segurança para proteger suas criptomoedas
+  contra hacks, golpes e perdas. Guia completo com carteiras hardware, backups e
+  pr...
 ---
 
 # Como Proteger Suas Criptomoedas: Guia de Segurança Completo
@@ -49,7 +54,7 @@ A **segurança** é o aspecto mais crítico ao lidar com criptomoedas. Diferente
 
 Com bilhões de dólares perdidos anualmente em hacks, golpes e erros de usuário, a segurança não é opcional - é essencial. Uma única falha pode resultar na perda total dos seus investimentos, sem possibilidade de recuperação.
 
-Neste guia completo, você aprenderá as melhores práticas para proteger suas criptomoedas contra todos os tipos de ameaças, desde golpes básicos até ataques sofisticados.
+Neste guia completo, você aprenderá as melhores práticas para [proteger](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") suas criptomoedas contra todos os tipos de ameaças, desde golpes básicos até ataques sofisticados.
 
 ## 🔐 Princípios Fundamentais de Segurança
 
@@ -707,7 +712,7 @@ A segurança em criptomoedas não é um destino, é uma jornada. Cada camada de 
 - Eduque-se continuamente
 - Quando em dúvida, não faça
 
-No mundo cripto, ser seu próprio banco significa ser seu próprio segurança. Com as práticas deste guia, você estará preparado para proteger seus ativos contra a maioria das ameaças.
+No mundo cripto, ser seu próprio banco significa ser seu próprio segurança. Com as práticas deste guia, você estará preparado para [proteger](/artigo/como-proteger-criptomoedas-guia-completo-seguranca "Como Proteger Suas Criptomoedas: Guia Completo de Segurança") seus ativos contra a maioria das ameaças.
 
 **Comece hoje:** Configure sua primeira [hardware wallet](/artigo/ledger-vs-trezor-review) e nunca mais se preocupe com a segurança dos seus investimentos.
 

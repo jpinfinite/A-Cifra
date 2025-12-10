@@ -38,8 +38,12 @@ alternateLanguages:
   pt: dogecoin-historia-e-futuro
   en: dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon
 language: es
+metaTitle: 'Dogecoin: La Historia de la Memecoin Que Se Convirtió en un '
+metaDescription: >-
+  Descubre la historia de Dogecoin, la memecoin que se convirtió en un fenómeno
+  global. ¡Lee más sobre su origen y crecimiento en el universo cripto!
 ---
-El Dogecoin (DOGE) comenzó como una broma en 2013 y se convirtió en una de las criptomonedas más reconocidas del mundo. Su historia es única en el universo cripto.
+El [Dogecoin](/artigo/dogecoin-historia-e-futuro "Dogecoin: A História da Memecoin Que Virou Fenômeno Global") (DOGE) comenzó como una broma en 2013 y se convirtió en una de las criptomonedas más reconocidas del mundo. Su historia es única en el universo cripto.
 
 ## La Origen (2013)
 
@@ -109,7 +113,7 @@ El Dogecoin es altamente especulativo:
 
 ## Conclusión
 
-El Dogecoin demostró que una moneda creada como broma puede tener valor real cuando tiene una comunidad fuerte. Su futuro depende de la adopción real más allá del hype.
+El [Dogecoin](/artigo/dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon "Dogecoin: The History of the Meme Coin That Became a Global Phenomenon") demostró que una moneda creada como broma puede tener valor real cuando tiene una comunidad fuerte. Su futuro depende de la adopción real más allá del hype.
 
 ## 🚀 Comience a Invertir en Criptomonedas
 

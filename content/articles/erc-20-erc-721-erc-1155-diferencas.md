@@ -33,11 +33,15 @@ seo:
 alternateLanguages:
   en: token-patterns-erc-20-erc-721-and-erc-1155
   es: patrones-de-tokens-erc-20-erc-721-y-erc-1155
+metaTitle: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155'
+metaDescription: >-
+  Guia completo sobre os principais padrões de tokens no Ethereum e suas
+  diferenças.
 ---
 
 **Padrões de Tokens: ERC-20, ERC-721 e ERC-1155**
 
-A revolução da tecnologia blockchain e a ascensão das criptomoedas têm trazido inovações significativas para o mundo financeiro. Uma das principais características desse ecossistema é a capacidade de criar e emitir tokens, que são representações digitais de ativos ou direitos. Esses tokens podem ser usados para realizar transações, representar propriedade ou até mesmo servir como moeda de troca.
+A revolução da tecnologia blockchain e a ascensão das criptomoedas têm trazido inovações significativas para o mundo financeiro. Uma das principais características desse ecossistema é a capacidade de criar e emitir [tokens](/artigo/patrones-de-tokens-erc-20-erc-721-y-erc-1155 "Patrones de Tokens: ERC-20, ERC-721 y ERC-1155"), que são representações digitais de ativos ou direitos. Esses tokens podem ser usados para realizar transações, representar propriedade ou até mesmo servir como moeda de troca.
 
 No entanto, a criação de tokens não é uma tarefa simples. É necessário seguir padrões e normas estabelecidas para garantir a segurança, escalabilidade e interoperabilidade entre diferentes redes blockchain. É aqui que entram os padrões de tokens, como ERC-20, ERC-721 e ERC-1155, que são fundamentais para a construção de aplicações descentralizadas (dApps) e a criação de tokens únicos.
 
@@ -56,7 +60,7 @@ A importância dos padrões de tokens pode ser observada em várias áreas:
 
 Os padrões de tokens têm evoluído ao longo do tempo, refletindo as necessidades e as demandas do mercado. Aqui estão alguns dos principais padrões de tokens:
 
-* **ERC-20**: O padrão ERC-20 é um dos mais populares e amplamente utilizado. Ele foi criado em 2015 e é baseado no padrão de tokens de Ethereum. O ERC-20 é uma estrutura padrão para a criação de tokens, que inclui a definição de regras para a criação, gerenciamento e transferência de tokens.
+* **ERC-20**: O padrão ERC-20 é um dos mais populares e amplamente utilizado. Ele foi criado em 2015 e é baseado no padrão de tokens de [Ethereum](/artigo/ethereum-gas-fees-how-to-save-on-transactions "Ethereum Gas Fees: How to Save on Transactions"). O ERC-20 é uma estrutura padrão para a criação de tokens, que inclui a definição de regras para a criação, gerenciamento e transferência de tokens.
 * **ERC-721**: O padrão ERC-721 foi criado em 2017 e é baseado no padrão de tokens de Ethereum. Ele é utilizado para a criação de tokens não fungíveis (NFTs), que são representações digitais de ativos únicos, como obras de arte ou coleções de figurinhas.
 * **ERC-1155**: O padrão ERC-1155 foi criado em 2019 e é baseado no padrão de tokens de Ethereum. Ele é uma estrutura padrão para a criação de tokens que podem ser usados para representar diferentes tipos de ativos, como tokens fungíveis e não fungíveis.
 
@@ -68,13 +72,13 @@ Os tokens são uma das principais características da tecnologia blockchain, per
 
 **ERC-20: O Padrão de Tokens para Ativos Fungíveis**
 
-O ERC-20 é um padrão de token criado pela Ethereum Foundation em 2015. Ele define um conjunto de regras e funcionalidades para a criação de tokens fungíveis, ou seja, tokens que podem ser trocados por outros tokens do mesmo tipo sem perda de valor. O ERC-20 é um padrão muito popular e amplamente utilizado em plataformas de troca de criptomoedas, como Binance e Coinbase.
+O ERC-20 é um padrão de [token](/artigo/token-patterns-erc-20-erc-721-and-erc-1155 "Token Patterns: ERC-20, ERC-721 and ERC-1155") criado pela Ethereum Foundation em 2015. Ele define um conjunto de regras e funcionalidades para a criação de tokens fungíveis, ou seja, tokens que podem ser trocados por outros tokens do mesmo tipo sem perda de valor. O ERC-20 é um padrão muito popular e amplamente utilizado em plataformas de troca de criptomoedas, como Binance e Coinbase.
 
 ### Características do ERC-20
 
 O ERC-20 define as seguintes características para os tokens:
 
-* **Nome do token**: O nome do token, que deve ser único e descritivo.
+* **Nome do [token](/artigo/tokenomics-understanding-token-economics "Tokenomics: Understanding Token Economics")**: O nome do token, que deve ser único e descritivo.
 * **Simbolo do token**: O símbolo do token, que é uma abreviação do nome do token.
 * **Decimais do token**: O número de decimais do token, que define a precisão da quantidade do token.
 * **Quantidade total do token**: A quantidade total do token que foi criada.

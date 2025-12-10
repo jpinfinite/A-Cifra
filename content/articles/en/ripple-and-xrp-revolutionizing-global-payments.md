@@ -38,14 +38,18 @@ language: en
 alternateLanguages:
   pt: xrp-pagamentos-globais
   es: xrp-y-ripple-revolucionando-pagos-globales
+metaTitle: 'Ripple and XRP: Revolutionizing Global Payments'
+metaDescription: >-
+  Discover how Ripple and XRP are revolutionizing global payments with fast,
+  cheap, and secure transactions. Read more!
 ---
 XRP and Ripple: Revolutionizing Global Payments
 
-The XRP is the native cryptocurrency of Ripple, designed to facilitate fast and cheap international payments between financial institutions.
+The XRP is the native cryptocurrency of [Ripple](/artigo/xrp-y-ripple-revolucionando-pagos-globales "XRP y Ripple: Revolucionando Pagos Globales"), designed to facilitate fast and cheap international payments between financial institutions.
 
 ## What is Ripple?
 
-Ripple is a technology company that developed solutions for global payments using blockchain.
+[Ripple](/artigo/xrp-pagamentos-globais "XRP e Ripple: Revolucionando Pagamentos Globais") is a technology company that developed solutions for global payments using blockchain.
 
 ### Problem it Solves
 - **Slow Payments**: SWIFT takes days

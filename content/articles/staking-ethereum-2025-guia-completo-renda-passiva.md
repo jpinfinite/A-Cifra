@@ -47,6 +47,11 @@ alternateLanguages:
     ethereum-staking-in-2025-the-complete-guide-to-earning-passive-income-of-up-to-8-per-year
   es: >-
     staking-de-ethereum-en-2025-gua-completa-para-ganar-renta-pasiva-de-hasta-8-al-ao
+metaTitle: 'Staking de Ethereum em 2025: Guia Completo para Ganhar Renda...'
+metaDescription: >-
+  Guia completo sobre staking de Ethereum em 2025: como funciona, quanto pode
+  ganhar (5-8% ao ano), onde fazer, riscos e estratégias para maximizar
+  retornos.
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano
@@ -218,7 +223,7 @@ Você precisa de uma carteira Web3 como:
 
 ### Passo 3: Faça o Stake
 
-1. Digite a quantidade de ETH que quer fazer stake
+1. Digite a quantidade de ETH que quer [fazer](/artigo/como-fazer-staking-ethereum "Como Fazer Staking de Ethereum: Tutorial Passo a Passo") stake
 2. Clique em "Submit"
 3. Confirme a transação na sua carteira
 4. Pague a taxa de gas (geralmente $5-$20)

@@ -37,8 +37,12 @@ alternateLanguages:
   pt: como-usar-pancakeswap-tutorial
   es: cmo-usar-pancakeswap-tutorial-completo-en-bsc
 language: en
+metaTitle: 'How to Use PancakeSwap: A Complete Tutorial on BSC'
+metaDescription: >-
+  Learn how to use PancakeSwap, the largest DEX on Binance Smart Chain, with our
+  step-by-step tutorial. Read more!
 ---
-PancakeSwap is the largest DEX on the Binance Smart Chain. Learn to use all the features.
+[PancakeSwap](/artigo/como-usar-pancakeswap-tutorial "Como Usar o PancakeSwap: Tutorial Completo na BSC") is the largest DEX on the Binance Smart Chain. Learn to use all the features.
 
 ## Setting up MetaMask for BSC
 
@@ -110,7 +114,7 @@ PancakeSwap is the largest DEX on the Binance Smart Chain. Learn to use all the 
 
 ## Conclusion
 
-PancakeSwap offers low fees and good returns. Ideal for those who want to start in DeFi.
+[PancakeSwap](/artigo/how-to-use-pancakeswap-a-comprehensive-bsc-tutorial "How to Use PancakeSwap: A Comprehensive BSC Tutorial") offers low fees and good returns. Ideal for those who want to start in DeFi.
 
 ## Start Investing in Cryptocurrencies
 

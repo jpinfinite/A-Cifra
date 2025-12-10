@@ -34,6 +34,10 @@ language: en
 alternateLanguages:
   pt: ciclos-mercado-cripto-bull-bear
   es: ciclos-de-mercado-cripto-mercados-al-alza-y-bajos
+metaTitle: 'Cryptocurrency Market Cycles: Bull and Bear Markets'
+metaDescription: >-
+  Unlock crypto market cycles: bull and bear markets. Learn to analyze and make
+  informed decisions with our comprehensive guide. Read more!
 ---
 Market Analysis is fundamental for making informed decisions. This guide explores crypto market cycles: bull and bear markets.
 

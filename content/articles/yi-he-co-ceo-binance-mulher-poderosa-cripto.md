@@ -39,20 +39,25 @@ alternateLanguages:
   en: yi-he-becomes-co-ceo-of-binance---the-most-powerful-woman-in-crypto-in-2025
   es: >-
     yi-he-se-convierte-en-co-ceo-de-binance---la-mujer-ms-poderosa-del-cripto-en-2025
+metaTitle: Yi He se Torna Co-CEO da Binance - A Mulher Mais Poderosa do...
+metaDescription: >-
+  Yi He, co-fundadora da Binance, é nomeada Co-CEO ao lado de Richard Teng.
+  Conheça a trajetória da mulher mais influente do mercado cripto e o que muda
+  na m...
 ---
 
 **3 de dezembro de 2025** - Em um movimento histórico anunciado durante a Binance Blockchain Week em Dubai, **Yi He**, co-fundadora da Binance, foi nomeada **Co-CEO** da maior [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) de criptomoedas do mundo, dividindo a liderança com **Richard Teng**. A decisão consolida Yi He como **a mulher mais poderosa do mercado cripto** e marca uma nova era para a Binance.
 
 ## Quem é Yi He?
 
-**Yi He** (何一) é uma das figuras mais influentes, porém discretas, do universo cripto. Aos 38 anos, ela construiu uma carreira impressionante que a levou ao topo da indústria.
+**Yi He** (何一) é uma das figuras mais influentes, porém discretas, do universo [cripto](/artigo/drex-regulacao-cripto-brasil-2026 "Drex e a Regulação Cripto 2026: O Que Muda para o Investidor Brasileiro?"). Aos 38 anos, ela construiu uma carreira impressionante que a levou ao topo da indústria.
 
 ### Trajetória Profissional
 
 **Antes da Binance:**
 - **2012-2014:** Apresentadora de TV na China
 - **2014-2017:** Vice-Presidente da OKCoin ([exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) chinesa)
-- **2017:** Co-fundou a Binance com Changpeng Zhao (CZ)
+- **2017:** Co-fundou a [Binance](/artigo/yi-he-becomes-co-ceo-of-binance---the-most-powerful-woman-in-crypto-in-2025 "Yi He Becomes Co-CEO of Binance - The Most Powerful Woman in Crypto in 2025") com Changpeng Zhao (CZ)
 
 **Na Binance (2017-2025):**
 - **2017-2021:** CMO (Chief Marketing Officer)
@@ -62,7 +67,7 @@ alternateLanguages:
 
 ### Papel na Binance
 
-Yi He sempre foi uma **força silenciosa** por trás do sucesso da Binance:
+Yi He sempre foi uma **força silenciosa** por trás do sucesso da [Binance](/artigo/yi-he-se-convierte-en-co-ceo-de-binance---la-mujer-ms-poderosa-del-cripto-en-2025 "Yi He se convierte en Co-CEO de Binance - La Mujer Más Poderosa del Cripto en 2025"):
 
 **Responsabilidades históricas:**
 - Liderou expansão na Ásia
@@ -437,7 +442,7 @@ A nomeação de Yi He como Co-CEO da Binance é **histórica** por múltiplas ra
 
 <ExchangeAffiliateLinks variant="compact" />
 
-**Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Sempre faça sua própria pesquisa (DYOR) antes de investir em criptomoedas ou tokens de exchanges.
+**Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Sempre faça sua própria pesquisa (DYOR) antes de investir em [criptomoedas](/artigo/declarar-imposto-renda-cripto-2025-guia "Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo") ou tokens de exchanges.
 
 ---
 

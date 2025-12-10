@@ -38,8 +38,12 @@ alternateLanguages:
   pt: makerdao-dai-stablecoin
   en: makerdao-and-dai-the-decentralized-stablecoin
 language: es
+metaTitle: 'MakerDAO y DAI: La Establecabra Descentralizada'
+metaDescription: >-
+  Descubre cómo funciona MakerDAO y su stablecoin descentralizada DAI, la moneda
+  más importante del ecossistema DeFi. iLee más!
 ---
-El protocolo MakerDAO creó el DAI, la stablecoin descentralizada más importante del ecossistema DeFi.
+El protocolo [MakerDAO](/artigo/makerdao-and-dai-the-decentralized-stablecoin "MakerDAO and DAI: The Decentralized Stablecoin") creó el DAI, la stablecoin descentralizada más importante del ecossistema DeFi.
 
 ## ¿Qué es DAI?
 
@@ -85,7 +89,7 @@ El token MKR controla:
 
 ## Conclusión
 
-DAI es la stablecoin más descentralizada y fundamental para DeFi. Ideal para quien valora la descentralización.
+DAI es la stablecoin más [descentralizada](/artigo/makerdao-y-dai-la-establecambiada-descentralizada "MakerDAO y DAI: La Establecambiada Descentralizada") y fundamental para DeFi. Ideal para quien valora la descentralización.
 
 ## ¡Vamos a invertir en criptomonedas!
 

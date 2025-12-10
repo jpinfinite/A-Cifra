@@ -16,6 +16,7 @@ export interface Article {
   alternateLanguages?: {
     [key: string]: string
   }
+  readingTime?: number
 }
 
 export interface ImageData {

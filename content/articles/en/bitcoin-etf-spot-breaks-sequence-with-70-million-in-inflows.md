@@ -37,10 +37,14 @@ language: en
 alternateLanguages:
   pt: bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes
   es: bitcoin-etf-spot-quebra-sequncia-con-70-millones-en-entradas
+metaTitle: Bitcoin ETF Spot Breaks Sequence with $70 Million in Inflows
+metaDescription: >-
+  Bitcoin spot ETFs break 5-day exit streak with $70M inflows, stabilizing above
+  $95,000. Read more!
 ---
 # Bitcoin ETF Spot Breaks Sequence of Exits with $70 Million in Inflows
 
-**November 30, 2025** - Bitcoin spot ETFs in the US finally broke a sequence of 5 consecutive days of exits, recording **$70 million in net inflows** last Friday. The reversal of flow coincides with Bitcoin stabilizing above $95,000 after weeks of volatility.
+**November 30, 2025** - [Bitcoin](/artigo/bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes "Bitcoin ETF Spot Quebra Sequência com $70 Milhões em Entradas") spot ETFs in the US finally broke a sequence of 5 consecutive days of exits, recording **$70 million in net inflows** last Friday. The reversal of flow coincides with Bitcoin stabilizing above $95,000 after weeks of volatility.
 
 ## Quick Summary
 
@@ -63,7 +67,7 @@ alternateLanguages:
 - **Total:** -$485M in 5 days
 
 **Reasons:**
-1. Realization of profits after Bitcoin reached $99,800
+1. Realization of profits after [Bitcoin](/artigo/bitcoin-etf-spot-quebra-sequncia-con-70-millones-en-entradas "Bitcoin ETF Spot Quebra Sequência con $70 Millones en Entradas") reached $99,800
 2. Thanksgiving holiday (low volume)
 3. Uncertainty over breaking $100K
 4. End-of-month rebalancing
@@ -344,7 +348,7 @@ alternateLanguages:
 
 ### 5. Which ETF is better?
 
-**BlackRock IBIT** or **Fidelity FBTC** (both 0.25% fee, high liquidity).
+**[BlackRock](/artigo/blackrock-bitcoin-etf-2-bilhoes-saidas-novembro "BlackRock - $2.3 Bilhões em Saídas do IBIT em Novembro São Perfeitamente Normais") IBIT** or **Fidelity FBTC** (both 0.25% fee, high liquidity).
 
 ### 6. Do ETF inflows affect the price?
 
@@ -375,6 +379,6 @@ Breaking the sequence of exits with **$70 million in inflows** is a **positive s
 - ✅ Bitcoin stabilized above $95K
 - ✅ Momentum may accelerate in December
 
-**Expectation:** December should bring **$2-3 billion in net inflows**, pushing Bitcoin to **$100K-$110K**.
+**Expectation:** December should bring **$2-3 [billion](/artigo/blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal "BlackRock - $2.3 Billion in IBIT Exits in November are Perfectly Normal") in net inflows**, pushing Bitcoin to **$100K-$110K**.
 
 **For investors:** Favorable time to accumulate or maintain positions. Corrections to $92K-$95K are buying opportunities.

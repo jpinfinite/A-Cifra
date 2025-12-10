@@ -43,10 +43,14 @@ alternateLanguages:
   pt: declarar-imposto-renda-cripto-2025-guia
   es: >-
     cmo-declarar-criptomonedas-en-el-impuesto-de-renta-2025---gua-completa-paso-a-paso
+metaTitle: How to Declare Cryptocurrencies in the 2025 Income Tax - Com
+metaDescription: >-
+  Learn how to declare cryptocurrencies in the 2025 income tax with our
+  step-by-step guide and avoid hefty fines. Read more!
 ---
-Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo
+Como [Declarar](/artigo/declarar-imposto-renda-cripto-2025-guia "Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo") Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo
 
-A Receita Federal brasileira está cada vez mais atenta às operações com criptomoedas. Em 2025, as regras estão mais claras e a fiscalização mais rigorosa. Não declarar criptomoedas pode resultar em multas de até 225% do imposto devido, além de processos criminais por sonegação.
+A Receita Federal brasileira está cada vez mais atenta às operações com criptomoedas. Em 2025, as regras estão mais claras e a fiscalização mais rigorosa. Não [declarar](/artigo/cmo-declarar-criptomonedas-en-el-impuesto-de-renta-2025---gua-completa-paso-a-paso "Cómo Declarar Criptomonedas en el Impuesto de Renta 2025 - Guía Completa Paso a Paso") criptomoedas pode resultar em multas de até 225% do imposto devido, além de processos criminais por sonegação.
 
 Neste guia completo e atualizado, você vai aprender tudo sobre como declarar bitcoin, altcoins, defi, staking, NFTs e outras operações com criptomoedas no Imposto de Renda 2025. Vamos cobrir desde o básico até situações complexas, sempre com exemplos práticos.
 

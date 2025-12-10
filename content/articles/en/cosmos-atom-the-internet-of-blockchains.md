@@ -37,14 +37,18 @@ language: en
 alternateLanguages:
   pt: cosmos-atom-internet-blockchains
   es: cosmos-atom-la-internet-de-las-blockchains
+metaTitle: 'Cosmos (ATOM): The Internet of Blockchains'
+metaDescription: >-
+  Discover the Cosmos (ATOM) network, a blockchain internet where independent
+  chains communicate and exchange value. Read more!
 ---
 Cosmos (ATOM): A Internet das Blockchains
 
-The Cosmos is a network of independent and interoperable blockchains, creating a "blockchain internet" where different networks can communicate and exchange value.
+The [Cosmos](/artigo/cosmos-atom-internet-blockchains "Cosmos (ATOM): A Internet das Blockchains") is a network of independent and interoperable blockchains, creating a "blockchain internet" where different networks can communicate and exchange value.
 
 What is Cosmos?
 
-Cosmos is a protocol that allows independent blockchains to communicate with each other through Inter-Blockchain Communication (IBC).
+[Cosmos](/artigo/cosmos-atom-la-internet-de-las-blockchains "Cosmos (ATOM): La Internet de las Blockchains") is a protocol that allows independent blockchains to communicate with each other through Inter-Blockchain Communication (IBC).
 
 Project Vision
 - Resolve blockchain fragmentation

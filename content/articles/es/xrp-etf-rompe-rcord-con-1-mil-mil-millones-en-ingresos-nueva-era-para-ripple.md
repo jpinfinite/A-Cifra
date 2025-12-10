@@ -45,10 +45,14 @@ alternateLanguages:
   pt: xrp-etf-recorde-1-bilhao-entradas-dezembro-2025
   en: ripples-xrp-etf-breaks-record-with-1-billion-in-inflows-new-era-for-ripple
 language: es
+metaTitle: 'XRP ETF Rompe Récord con $1 Mil Mil Millones en Ingresos: Nu'
+metaDescription: >-
+  XRP ETF rompe récord con $1 mil millones en ingresos: descubre la nueva era
+  para Ripple. Lee más!
 ---
 # XRP ETF Bate Recorde com $1 Bilhão em Entradas: Nova Era para Ripple
 
-Em um marco histórico para o ecossistema Ripple, o **ETF de XRP registrou entradas líquidas de $1 bilhão** na primeira semana de dezembro de 2025, estabelecendo um novo recorde para produtos de investimento em criptomoedas alternativas. Este movimento sinaliza uma mudança significativa no sentimento institucional em relação ao XRP e pode prenunciar desenvolvimentos importantes na batalha regulatória da Ripple com a SEC.
+Em um marco histórico para o ecossistema Ripple, o **ETF de XRP registrou entradas líquidas de $1 bilhão** na primeira semana de dezembro de 2025, estabelecendo um novo [recorde](/artigo/xrp-etf-recorde-1-bilhao-entradas-dezembro-2025 "XRP ETF Bate Recorde com recorde Bilhão em Entradas: Nova Era para Ripple") para produtos de investimento em criptomoedas alternativas. Este movimento sinaliza uma mudança significativa no sentimento institucional em relação ao XRP e pode prenunciar desenvolvimentos importantes na batalha regulatória da Ripple com a SEC.
 
 ## O Recorde Histórico
 

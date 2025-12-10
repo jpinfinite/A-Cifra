@@ -44,6 +44,11 @@ seo:
 alternateLanguages:
   en: what-are-layer-2-and-why-are-they-essential-for-ethereum
   es: qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum
+metaTitle: O Que São Layer 2 e Por Que São Essenciais para o Ethereum
+metaDescription: >-
+  Entenda como as soluções Layer 2 estão revolucionando o Ethereum com
+  transações mais rápidas, baratas e escaláveis. Guia completo sobre rollups,
+  sidechains...
 ---
 
 # O Que São Layer 2 e Por Que São Essenciais para o [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
@@ -52,7 +57,7 @@ As **soluções Layer 2** representam a evolução natural do [ethereum](/artigo
 
 Em 2025, as Layer 2s movimentam mais de $15 bilhões em TVL (Total Value Locked) e processam mais transações que a própria mainnet do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026). Elas não são apenas uma solução temporária - são o futuro da escalabilidade blockchain.
 
-Neste guia completo, você entenderá o que são Layer 2, como funcionam, quais são os principais projetos e por que elas são essenciais para a adoção em massa das criptomoedas.
+Neste guia completo, você entenderá o que são [Layer](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") 2, como funcionam, quais são os principais projetos e por que elas são essenciais para a adoção em massa das criptomoedas.
 
 ## 🔍 O Problema de Escalabilidade do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)
 
@@ -420,9 +425,9 @@ Aumentar blocos compromete descentralização:
 
 ## 📊 Comparação das Principais Layer 2s
 
-| Layer 2 | Tipo | TVL | TPS | Custo | Retirada | EVM |
+| [Layer](/artigo/qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum "¿Qué son Layer 2 y por qué son esenciales para el Ethereum") 2 | Tipo | TVL | TPS | Custo | Retirada | EVM |
 |---------|------|-----|-----|-------|----------|-----|
-| **Arbitrum** | Optimistic | $2.5B | 4.000 | $0.10-1 | 7 dias | 100% |
+| **[Arbitrum](/artigo/arbitrum-layer2-ethereum-escalabilidade "Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups")** | Optimistic | $2.5B | 4.000 | $0.10-1 | 7 dias | 100% |
 | **Optimism** | Optimistic | $1.8B | 2.000 | $0.10-1 | 7 dias | 100% |
 | **Base** | Optimistic | $1.5B | 1.000 | $0.05-0.5 | 7 dias | 100% |
 | **Polygon zkEVM** | ZK-Rollup | $1.2B | 2.000 | $0.01-0.1 | 1-4h | 100% |
@@ -751,4 +756,4 @@ O futuro do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) é mult
 
 **Última atualização:** 23 de novembro de 2025
 
-*As Layer 2s são o presente e futuro da escalabilidade blockchain. Explore este novo mundo!*
+*As [Layer](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability") 2s são o presente e futuro da escalabilidade blockchain. Explore este novo mundo!*

@@ -36,16 +36,20 @@ seo:
 alternateLanguages:
   en: decentralized-autonomous-organizations-daos
   es: daos-organizaciones-autnomas-descentralizadas
+metaTitle: 'DAOs: Organizações Autônomas Descentralizadas'
+metaDescription: >-
+  Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma
+  nova forma de organização e governança descentralizada.
 ---
 seo:
-  metaTitle: "DAOs: Organizações Autônomas Descentralizadas | A Cifra"
+  metaTitle: "[DAOs](/artigo/daos-organizaciones-autnomas-descentralizadas "DAOs: Organizaciones Autónomas Descentralizadas"): Organizações Autônomas Descentralizadas | A Cifra"
   metaDescription: "Entenda o que são DAOs, como funcionam, casos de uso e por que representam uma nova forma de organização e governança descentralizada."
   keywords: ["dao", "governança", "descentralização", "web3", "organizações"]
 ---
 
 # DAOs: Organizações Autônomas Descentralizadas
 
-DAOs (Decentralized Autonomous Organizations) são organizações governadas por código e membros, sem hierarquia tradicional ou controle centralizado.
+DAOs ([Decentralized](/artigo/decentralized-autonomous-organizations-daos "Decentralized Autonomous Organizations (DAOs)") Autonomous Organizations) são organizações governadas por código e membros, sem hierarquia tradicional ou controle centralizado.
 
 ## O Que é uma DAO?
 

@@ -37,8 +37,12 @@ language: en
 alternateLanguages:
   pt: como-fazer-staking-ethereum
   es: cmo-hacer-staking-de-ethereum-tutorial-paso-a-paso
+metaTitle: 'How to Do Ethereum Staking: Step-by-Step Tutorial'
+metaDescription: >-
+  Learn how to do Ethereum staking with our step-by-step guide and start earning
+  passive rewards while securing the network. Read more!
 ---
-Making **staking** of **ethereum** allows you to earn passive rewards while helping to protect the network. See how to get started.
+Making **[staking](/artigo/como-fazer-staking-ethereum "Como Fazer Staking de Ethereum: Tutorial Passo a Passo")** of **ethereum** allows you to earn passive rewards while helping to protect the network. See how to get started.
 
 ## Staking Options
 
@@ -100,7 +104,7 @@ Making **staking** of **ethereum** allows you to earn passive rewards while help
 
 ## Conclusion
 
-Ethereum staking is a great way to earn passive income, but understand the risks before starting.
+Ethereum [staking](/artigo/cmo-hacer-staking-de-ethereum-tutorial-paso-a-paso "Cómo hacer Staking de Ethereum: Tutorial paso a paso") is a great way to earn passive income, but understand the risks before starting.
 
 ## 🚀 Start Investing in Cryptocurrencies
 

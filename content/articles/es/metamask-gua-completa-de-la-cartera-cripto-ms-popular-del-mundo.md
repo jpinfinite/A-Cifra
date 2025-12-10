@@ -43,8 +43,13 @@ language: es
 alternateLanguages:
   pt: metamask-guia-completo-carteira-cripto
   en: metamask-the-complete-guide-to-the-most-popular-crypto-wallet-in-the-world
+metaTitle: 'MetaMask: Guía Completa de la Cartera Cripto Más Popular del'
+metaDescription: >-
+  Descubre la guía completa de MetaMask, la cartera cripto más popular del
+  mundo. Aprende a almacenar, enviar y recibir criptomonedas y interactuar con
+  dApps. Leia más!
 ---
-A MetaMask é uma carteira de criptomoedas não-custodial que funciona como extensão de navegador e aplicativo móvel. Ela permite que você armazene, envie, receba criptomoedas e, principalmente, interaja com aplicações descentralizadas (dApps).
+A [MetaMask](/artigo/metamask-the-complete-guide-to-the-most-popular-crypto-wallet-in-the-world "MetaMask: The Complete Guide to the Most Popular Crypto Wallet in the World") é uma carteira de criptomoedas não-custodial que funciona como extensão de navegador e aplicativo móvel. Ela permite que você armazene, envie, receba criptomoedas e, principalmente, interaja com aplicações descentralizadas (dApps).
 
 A MetaMask é uma ferramenta essencial para qualquer pessoa interessada em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), NFTs e Web3. Com configuração adequada e práticas de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) rigorosas, ela oferece acesso seguro e conveniente ao universo das aplicações descentralizadas.
 

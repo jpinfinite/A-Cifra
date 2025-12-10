@@ -33,6 +33,10 @@ alternateLanguages:
   pt: tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana
   es: >-
     tether-ampla-apuesta-en-inteligencia-artificial-y-financia-robots-humanoides-de-una-empresa-italiana
+metaTitle: Tether expands bet on AI and finances humanoid robots from a
+metaDescription: >-
+  Tether invests in AI and finances humanoid robots from an Italian company,
+  revolutionizing industry with advanced technology. Read more!
 ---
 Tether Expands Bet on AI, Funds Italian Company's Humanoid Robot Development
 

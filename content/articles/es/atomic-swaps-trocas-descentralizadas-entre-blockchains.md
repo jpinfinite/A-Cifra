@@ -34,12 +34,17 @@ language: es
 alternateLanguages:
   pt: atomic-swaps-trocas-descentralizadas
   en: atomic-swaps-decentralized-exchanges-between-blockchains
+metaTitle: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
+metaDescription: >-
+  Descubre cómo funcionan las trocas descentralizadas entre blockchains con
+  Atomic Swaps. Entérate de todo sobre este concepto clave en el mundo de las
+  criptomonedas. iLee más!
 ---
-Este guía completo explora **Intercambios Atómicos** de forma detallada e accesible.
+Este guía [completo](/artigo/o-que-e-blockchain-guia-iniciantes "O Que é Blockchain? Guia Completo para Iniciantes") explora **Intercambios Atómicos** de forma detallada e accesible.
 
 ## Introducción
 
-Entender este concepto es fundamental para cualquier persona involucrada con criptomonedas y blockchain.
+Entender este concepto es fundamental para cualquier persona involucrada con criptomonedas y [blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners").
 
 ## Conceptos Fundamentales
 

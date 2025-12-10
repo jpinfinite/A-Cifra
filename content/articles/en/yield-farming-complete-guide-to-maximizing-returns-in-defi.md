@@ -37,6 +37,10 @@ language: en
 alternateLanguages:
   pt: yield-farming-guia-completo
   es: yield-farming-gua-completa-para-maximizar-rendimientos-en-defi
+metaTitle: 'Yield Farming: Complete Guide to Maximizing Returns in DeFi'
+metaDescription: >-
+  Maximize DeFi returns with yield farming: Learn the complete guide to earning
+  passive income and managing risk. Read more!
 ---
 Yield Farming is one of the most popular ways to earn passive income in [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), but it requires knowledge and risk management.
 
@@ -178,7 +182,7 @@ For beginners:
 
 ## Conclusion
 
-Yield farming can generate good returns, but requires:
+[Yield](/artigo/yield-farming-gua-completa-para-maximizar-rendimientos-en-defi "Yield Farming: Guía Completa para Maximizar Rendimientos en DeFi") farming can generate good returns, but requires:
 - Technical knowledge
 - Active management
 - Risk tolerance

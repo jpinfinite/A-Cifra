@@ -34,8 +34,12 @@ language: en
 alternateLanguages:
   pt: smart-contracts-funcionamento-casos-uso
   es: contratos-inteligentes-cmo-funcionan-y-casos-de-uso-reales
+metaTitle: 'Smart Contracts: How They Work and Real-World Use Cases'
+metaDescription: >-
+  Discover how smart contracts work and their real-world applications in the
+  crypto ecosystem. Read more!
 ---
-This is a comprehensive guide that explores **Smart Contracts** in depth and in an accessible way.
+This is a comprehensive guide that explores **[Smart](/artigo/smart-contracts-funcionamento-casos-uso "Smart Contracts: Como Funcionam e Casos de Uso Reais") Contracts** in depth and in an accessible way.
 
 ## Introduction
 

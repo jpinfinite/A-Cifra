@@ -8,6 +8,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const matter = require('gray-matter');
 
 // Configuração
 const CONFIG = {
@@ -67,10 +68,9 @@ const ARTICLE_MAP = {
 };
 
 function extractKeywords(content) {
-  // Remove frontmatter e código
+  // Remove markdown e caracteres especiais
   const cleanContent = content
-    .replace(/^---[\s\S]*?---/, '')
-    .replace(/```[\s\S]*?```/g, '')
+    .replace(/[#*`]/g, '')
     .toLowerCase();
 
   // Palavras comuns a ignorar
@@ -102,7 +102,6 @@ function extractKeywords(content) {
 
 function analyzeKeywordDensity(content, keyword) {
   const cleanContent = content
-    .replace(/^---[\s\S]*?---/, '')
     .toLowerCase();
 
   const totalWords = cleanContent.split(/\s+/).length;
@@ -140,6 +139,8 @@ function suggestInternalLinks(content, category) {
 
 function optimizeTitle(title) {
   const suggestions = [];
+
+  if (!title) return suggestions;
 
   if (title.length < CONFIG.titleMin) {
     suggestions.push({
@@ -231,26 +232,19 @@ function generateSEOReport(filePath) {
   }
 
   const content = fs.readFileSync(filePath, 'utf-8');
-
-  // Extrair frontmatter
-  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!frontmatterMatch) {
-    console.log('\n❌ Frontmatter não encontrado');
-    process.exit(1);
+  let file;
+  try {
+      file = matter(content);
+  } catch(e) {
+      console.log('Erro ao ler frontmatter:', e.message);
+      process.exit(1);
   }
 
-  const frontmatter = frontmatterMatch[1];
-
-  // Extrair dados
-  const titleMatch = frontmatter.match(/title:\s*['"](.+?)['"]/);
-  const categoryMatch = frontmatter.match(/categorySlug:\s*['"]?(\w+)['"]?/);
-  const metaTitleMatch = frontmatter.match(/metaTitle:\s*['"](.+?)['"]/);
-  const metaDescMatch = frontmatter.match(/metaDescription:\s*['"](.+?)['"]/);
-
-  const title = titleMatch ? titleMatch[1] : '';
-  const category = categoryMatch ? categoryMatch[1] : '';
-  const metaTitle = metaTitleMatch ? metaTitleMatch[1] : title;
-  const metaDesc = metaDescMatch ? metaDescMatch[1] : '';
+  const { data, content: bodyContent } = file;
+  const title = data.title || '';
+  const category = data.categorySlug || data.category || '';
+  const metaTitle = data.metaTitle || title;
+  const metaDesc = data.metaDescription || '';
 
   console.log(`\n📄 Arquivo: ${path.basename(filePath)}`);
   console.log(`📂 Categoria: ${category}`);
@@ -259,44 +253,52 @@ function generateSEOReport(filePath) {
   console.log('\n📌 ANÁLISE DE TÍTULO');
   console.log('─'.repeat(60));
   console.log(`Título: ${title}`);
-  console.log(`Comprimento: ${title.length} caracteres`);
 
-  const titleSuggestions = optimizeTitle(metaTitle);
-  if (titleSuggestions.length > 0) {
-    titleSuggestions.forEach(s => {
-      const icon = s.type === 'error' ? '❌' : s.type === 'warning' ? '⚠️' : '💡';
-      console.log(`${icon} ${s.message}`);
-      console.log(`   → ${s.suggestion}`);
-    });
+  if (title) {
+      console.log(`Comprimento: ${title.length} caracteres`);
+      const titleSuggestions = optimizeTitle(metaTitle);
+      if (titleSuggestions.length > 0) {
+        titleSuggestions.forEach(s => {
+          const icon = s.type === 'error' ? '❌' : s.type === 'warning' ? '⚠️' : '💡';
+          console.log(`${icon} ${s.message}`);
+          console.log(`   → ${s.suggestion}`);
+        });
+      } else {
+        console.log('✅ Título otimizado!');
+      }
   } else {
-    console.log('✅ Título otimizado!');
+      console.log('❌ Título não encontrado no frontmatter');
   }
 
   // Análise de meta description
   console.log('\n📝 ANÁLISE DE META DESCRIPTION');
   console.log('─'.repeat(60));
   console.log(`Description: ${metaDesc}`);
-  console.log(`Comprimento: ${metaDesc.length} caracteres`);
 
-  const descSuggestions = optimizeMetaDescription(metaDesc);
-  if (descSuggestions.length > 0) {
-    descSuggestions.forEach(s => {
-      const icon = s.type === 'error' ? '❌' : s.type === 'warning' ? '⚠️' : '💡';
-      console.log(`${icon} ${s.message}`);
-      console.log(`   → ${s.suggestion}`);
-    });
+  if (metaDesc) {
+      console.log(`Comprimento: ${metaDesc.length} caracteres`);
+      const descSuggestions = optimizeMetaDescription(metaDesc);
+      if (descSuggestions.length > 0) {
+        descSuggestions.forEach(s => {
+          const icon = s.type === 'error' ? '❌' : s.type === 'warning' ? '⚠️' : '💡';
+          console.log(`${icon} ${s.message}`);
+          console.log(`   → ${s.suggestion}`);
+        });
+      } else {
+        console.log('✅ Meta description otimizada!');
+      }
   } else {
-    console.log('✅ Meta description otimizada!');
+      console.log('❌ Meta description não encontrada');
   }
 
   // Análise de keywords
   console.log('\n🔑 ANÁLISE DE KEYWORDS');
   console.log('─'.repeat(60));
 
-  const keywords = extractKeywords(content);
+  const keywords = extractKeywords(bodyContent);
   console.log('Top 10 palavras mais frequentes:');
   keywords.forEach(([word, count], index) => {
-    const density = analyzeKeywordDensity(content, word);
+    const density = analyzeKeywordDensity(bodyContent, word);
     console.log(`${index + 1}. ${word}: ${count}x (densidade: ${density.density}%)`);
   });
 
@@ -304,7 +306,7 @@ function generateSEOReport(filePath) {
   console.log('\n🔗 SUGESTÃO DE LINKS INTERNOS');
   console.log('─'.repeat(60));
 
-  const linkSuggestions = suggestInternalLinks(content, category);
+  const linkSuggestions = suggestInternalLinks(bodyContent, category);
   if (linkSuggestions.length > 0) {
     console.log('Artigos relacionados para linkar:');
     linkSuggestions.forEach((link, index) => {
@@ -340,4 +342,3 @@ module.exports = {
   optimizeTitle,
   optimizeMetaDescription
 };
-

@@ -30,6 +30,10 @@ language: en
 alternateLanguages:
   pt: suporte-resistencia-identificar-niveis
   es: soporte-y-resistencia-cmo-identificar-niveles-clave
+metaTitle: 'Support and Resistance: How to Identify Key Levels'
+metaDescription: >-
+  Learn how to identify key support and resistance levels with our expert guide,
+  perfecting your market analysis and trading strategy. Read more!
 ---
 Market Analysis is fundamental for making informed decisions. This guide explores support and resistance: how to identify key levels.
 

@@ -45,10 +45,14 @@ language: en
 alternateLanguages:
   pt: memecoins-fenomeno-cultural-mercado-cripto
   es: memecoins-el-fenmeno-cultural-que-revolucion-el-mercado-cripto
+metaTitle: 'Memecoins: The Cultural Phenomenon that Revolutionized the C'
+metaDescription: >-
+  Discover the cultural phenomenon of Memecoins, revolutionizing the crypto
+  market with internet memes and satire. Read more!
 ---
 What are Memecoins?
 
-Memecoins are cryptocurrencies inspired by internet memes, popular characters, or viral jokes. Unlike Bitcoin or Ethereum, which were created with specific technical purposes, memecoins were born mainly as entertainment or satire of the crypto market.
+[Memecoins](/artigo/memecoins-el-fenmeno-cultural-que-revolucion-el-mercado-cripto "Memecoins: El Fenómeno Cultural que Revolucionó el Mercado Cripto") are cryptocurrencies inspired by internet memes, popular characters, or viral jokes. Unlike Bitcoin or Ethereum, which were created with specific technical purposes, memecoins were born mainly as entertainment or satire of the crypto market.
 
 Characteristics of Memecoins
 
@@ -61,7 +65,7 @@ Characteristics of Memecoins
 
 History of Memecoins
 
-The history of memecoins began in 2013 with Dogecoin, but exploded in popularity during the 2021 bull market.
+The history of [memecoins](/artigo/memecoins-fenomeno-cultural "Memecoins: O Fenômeno Cultural que Revolucionou o Mercado Cripto") began in 2013 with Dogecoin, but exploded in popularity during the 2021 bull market.
 
 Main Memecoins in the Market
 

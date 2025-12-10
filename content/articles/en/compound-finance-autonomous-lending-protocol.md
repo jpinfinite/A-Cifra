@@ -37,8 +37,12 @@ language: en
 alternateLanguages:
   pt: compound-finance-lending
   es: compound-finance-protocolo-de-prstamos-autnomos
+metaTitle: 'Compound Finance: Autonomous Lending Protocol'
+metaDescription: >-
+  Discover Compound Finance, an autonomous lending protocol for loans and
+  borrowing with variable interest rates. Read more!
 ---
-The Compound is one of the pioneering protocols, allowing loans and borrowing in a completely autonomous manner.
+The [Compound](/artigo/compound-finance-lending "Compound Finance: Protocolo de Empréstimos Autônomos") is one of the pioneering protocols, allowing loans and borrowing in a completely autonomous manner.
 
 ## How It Works?
 
@@ -96,7 +100,7 @@ The Compound is one of the pioneering protocols, allowing loans and borrowing in
 
 ## Conclusion
 
-Compound is solid and reliable for DeFi lending, ideal for those seeking simplicity and security.
+[Compound](/artigo/compound-finance-protocolo-de-prstamos-autnomos "Compound Finance: Protocolo de Préstamos Autónomos") is solid and reliable for DeFi lending, ideal for those seeking simplicity and security.
 
 ## 🚀 Start Investing in Cryptocurrencies
 

@@ -1,4 +1,6 @@
 export { AdSenseInArticle } from './AdSenseInArticle'
 export { AdSenseInArticle2 } from './AdSenseInArticle2'
+export { AdSenseInArticle3 } from './AdSenseInArticle3'
 export { AdSenseAnchor } from './AdSenseAnchor'
 export { AdSenseMultiplex } from './AdSenseMultiplex'
+export { TopBannerAd } from './TopBannerAd'

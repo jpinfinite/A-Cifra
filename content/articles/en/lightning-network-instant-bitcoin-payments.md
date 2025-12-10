@@ -34,8 +34,12 @@ language: en
 alternateLanguages:
   pt: lightning-network-bitcoin-pagamentos-rapidos
   es: red-de-relmpago-pagos-bitcoin-instantneos
+metaTitle: 'Lightning Network: Instant Bitcoin Payments'
+metaDescription: >-
+  Unlock instant Bitcoin payments with the Lightning Network. Learn how it
+  works, its importance, and real-world applications. Read more!
 ---
-This is a comprehensive guide that explores the **Lightning Network** in detail and in an accessible way.
+This is a comprehensive guide that explores the **[Lightning](/artigo/lightning-network-bitcoin-pagamentos-rapidos "Lightning Network: Pagamentos Bitcoin Instantâneos") Network** in detail and in an accessible way.
 
 ## Introduction
 

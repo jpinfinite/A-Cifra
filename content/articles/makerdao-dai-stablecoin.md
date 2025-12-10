@@ -36,6 +36,10 @@ seo:
 alternateLanguages:
   en: makerdao-and-dai-the-decentralized-stablecoin
   es: makerdao-y-dai-la-establecuidad-descentralizada
+metaTitle: 'MakerDAO e DAI: A Stablecoin Descentralizada'
+metaDescription: >-
+  Entenda o MakerDAO, o protocolo por trás do DAI, a stablecoin descentralizada
+  mais importante do DeFi e como ela mantém paridade com o dólar.
 ---
 
 **MakerDAO e DAI: A Stablecoin Descentralizada**
@@ -44,22 +48,22 @@ alternateLanguages:
 **Introdução**
 ------------
 
-A revolução da tecnologia blockchain e a ascensão da criptoeconomia têm trazido inovações significativas para o mundo das finanças. Uma das principais inovações desse período é a criação de stablecoins, moedas digitais estabilizadas por um valor que pode ser facilmente convertido em uma moeda tradicional, como o dólar americano. Dentre as muitas stablecoins existentes, uma das mais conhecidas e respeitadas é a DAI, criada pelo projeto MakerDAO. Neste artigo, vamos explorar a história, a tecnologia e a importância atual do MakerDAO e da DAI.
+A revolução da tecnologia blockchain e a ascensão da criptoeconomia têm trazido inovações significativas para o mundo das finanças. Uma das principais inovações desse período é a criação de stablecoins, moedas digitais estabilizadas por um valor que pode ser facilmente convertido em uma moeda tradicional, como o dólar americano. Dentre as muitas stablecoins existentes, uma das mais conhecidas e respeitadas é a DAI, criada pelo projeto [MakerDAO](/artigo/makerdao-and-dai-the-decentralized-stablecoin "MakerDAO and DAI: The Decentralized Stablecoin"). Neste artigo, vamos explorar a história, a tecnologia e a importância atual do MakerDAO e da DAI.
 
 **A Origem do MakerDAO**
 -------------------------
 
-O MakerDAO é um projeto de software descentralizado que permite a criação de uma moeda digital estabilizada, conhecida como DAI. O projeto foi fundado em 2014 por Rune Christensen, um empreendedor dinamarquês que se interessou pela tecnologia blockchain e suas aplicações financeiras. O objetivo inicial do MakerDAO era criar uma plataforma que permitisse a criação de uma moeda digital que não fosse controlada por nenhuma entidade centralizada, como um banco ou um governo.
+O [MakerDAO](/artigo/makerdao-y-dai-la-establecabra-descentralizada "MakerDAO y DAI: La Establecabra Descentralizada") é um projeto de software descentralizado que permite a criação de uma moeda digital estabilizada, conhecida como DAI. O projeto foi fundado em 2014 por Rune Christensen, um empreendedor dinamarquês que se interessou pela tecnologia blockchain e suas aplicações financeiras. O objetivo inicial do MakerDAO era criar uma plataforma que permitisse a criação de uma moeda digital que não fosse controlada por nenhuma entidade centralizada, como um banco ou um governo.
 
 **A Tecnologia por Trás da DAI**
 -------------------------------
 
-A DAI é uma stablecoin que utiliza a tecnologia de blockchain para garantir a estabilidade ou valor do seu valor. Ela é baseada no protocolo de consenso Proof of Stake (PoS), que permite que os usuários validem transações e recebam recompensas em forma de tokens. A DAI é criada a partir de uma combinação de dois tokens: o DAI e o MKR. O DAI é a moeda digital estabilizada, enquanto o MKR é o token de governança do MakerDAO.
+A DAI é uma stablecoin que utiliza a tecnologia de blockchain para garantir a estabilidade ou valor do seu valor. Ela é baseada no protocolo de consenso Proof of Stake (PoS), que permite que os usuários validem transações e recebam recompensas em forma de tokens. A DAI é criada a partir de uma combinação de dois tokens: o DAI e o MKR. O DAI é a moeda digital estabilizada, enquanto o MKR é o token de governança do [MakerDAO](/artigo/makerdao-y-dai-la-establecambiada-descentralizada "MakerDAO y DAI: La Establecambiada Descentralizada").
 
 **A Importância Atual do MakerDAO e da DAI**
 ------------------------------------------
 
-O MakerDAO e a DAI têm se destacado como uma das principais opções de stablecoins no mercado. Aqui estão algumas razões pelas quais o MakerDAO e a DAI são importantes:
+O [MakerDAO](/artigo/makerdao-y-dai-la-establecencia-descentralizada "MakerDAO y DAI: La Establecencia Descentralizada") e a DAI têm se destacado como uma das principais opções de stablecoins no mercado. Aqui estão algumas razões pelas quais o MakerDAO e a DAI são importantes:
 
 *   **Descentralização**: O MakerDAO é um projeto descentralizado, o que significa que não há uma entidade centralizada controlando a moeda digital.
 *   **Estabilidade**: A DAI é uma moeda digital estabilizada, o que significa que seu valor é garantido por um valor que pode ser facilmente convertido em uma moeda tradicional.

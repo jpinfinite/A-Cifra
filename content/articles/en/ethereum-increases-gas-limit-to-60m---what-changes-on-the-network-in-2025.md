@@ -38,14 +38,18 @@ language: en
 alternateLanguages:
   pt: ethereum-gas-limit-60m-upgrade-2025
   es: ethereum-aumenta-gas-limit-para-60m---lo-que-cambia-en-la-red-en-2025
+metaTitle: Ethereum Increases Gas Limit to 60M - What Changes on the Ne
+metaDescription: >-
+  Ethereum increases gas limit to 60M, expanding network capacity by 20%. Learn
+  what changes on the network in 2025 and stay ahead of the curve. Read more!
 ---
 Aumenta Gas Limit para 60M - O Que Muda na Rede em 2025
 
-**27 de novembro de 2025** - A rede Ethereum acaba de implementar um upgrade significativo: o **gas limit por bloco aumentou de 50 milhões para 60 milhões**, representando uma **expansão de 20% na capacidade** da rede. Vitalik Buterin, co-fundador do Ethereum, confirmou a mudança e indicou que mais ajustes virão em 2026.
+**27 de novembro de 2025** - A rede [Ethereum](/artigo/ethereum-aumenta-gas-limit-para-60m---lo-que-cambia-en-la-red-en-2025 "Ethereum Aumenta Gas Limit para 60M - Lo Que Cambia en la Red en 2025") acaba de implementar um upgrade significativo: o **gas limit por bloco aumentou de 50 milhões para 60 milhões**, representando uma **expansão de 20% na capacidade** da rede. Vitalik Buterin, co-fundador do Ethereum, confirmou a mudança e indicou que mais ajustes virão em 2026.
 
 ## O Que É Gas Limit?
 
-**Gas limit** é o **máximo de gas (unidade de computação)** que pode ser usado em um único bloco do Ethereum.
+**Gas limit** é o **máximo de gas (unidade de computação)** que pode ser usado em um único bloco do [Ethereum](/artigo/ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025 "Ethereum Aumenta Límite de Gas para 60M - Lo Que Cambia en la Red en 2025").
 
 **Analogia simples:** Pense no gas limit como o tamanho de um ônibus:
 - **Gas limit maior** = ônibus maior = mais passageiros (transações) por viagem (bloco)
@@ -73,7 +77,7 @@ Cada transação no Ethereum consome **gas**:
 
 ### 1. Demanda Crescente
 
-A rede Ethereum está processando **mais transações do que nunca**:
+A rede [Ethereum](/artigo/ethereum-gas-limit-60m-upgrade-2025 "Ethereum Aumenta Gas Limit para 60M - O Que Muda na Rede em 2025") está processando **mais transações do que nunca**:
 - **Estatísticas (novembro 2025):**
 - **1,2 milhão de transações/dia** (média)
 - **Blocos 95%+ cheios** (congestionamento)
@@ -83,7 +87,7 @@ A rede Ethereum está processando **mais transações do que nunca**:
 
 ### 2. Preparação para Fusaka (2026)
 
-**Fusaka** é o próximo grande upgrade do Ethereum (previsto para Q2 2026):
+**Fusaka** é o próximo grande upgrade do [Ethereum](/artigo/ethereum-20-the-future-of-the-second-largest-cryptocurrency "Ethereum 2.0: The Future of the Second Largest Cryptocurrency") (previsto para Q2 2026):
 - **Melhorias esperadas:**
 - Aumento adicional de capacidade
 - Otimizações de EVM (Ethereum Virtual Machine)

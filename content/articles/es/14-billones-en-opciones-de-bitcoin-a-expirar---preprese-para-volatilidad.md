@@ -41,6 +41,10 @@ alternateLanguages:
   pt: bitcoin-14-bilhoes-opcoes-expirando-volatilidade
   en: 14-billion-in-bitcoin-options-expiring---prepare-for-volatility
 language: es
+metaTitle: $14 Billones en Opciones de Bitcoin a Expirar - Prepárese pa
+metaDescription: >-
+  Prepárese para volatilidad en el mercado de Bitcoin: $14 billones en opciones
+  de BTC expiran el 29 de noviembre. Lee más sobre la situación actual.
 ---
 $14 Bilhões em Opções de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Expirando - Prepare-se para Volatilidade
 

@@ -37,6 +37,10 @@ language: es
 alternateLanguages:
   pt: como-funciona-mineracao-criptomoedas
   en: how-does-cryptocurrency-mining-work
+metaTitle: ¿Cómo Funciona la Minería de Criptomonedas?
+metaDescription: >-
+  Descubre cómo funciona la minería de criptomonedas y su papel fundamental en
+  la seguridad y funcionamiento de redes como Bitcoin. iLee más.
 ---
 A **minería de criptomonedas** es el proceso por el cual nuevas monedas se crean y transacciones se validan en la blockchain. Es fundamental para la [seguridad](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) y funcionamiento de redes como [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional).
 
@@ -56,7 +60,7 @@ Los mineros compiten para resolver problemas matemáticos complejos:
 
 1. **Coleta de Transacciones**: Mineros agrupan transacciones pendientes
 2. **Resolución del Puzzle**: Intentan encontrar un número (nonce) que genere un hash válido
-3. **Validación**: El primero en resolver agrega el bloque a la blockchain
+3. **Validación**: El primero en resolver agrega el bloque a la [blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners")
 4. **Recompensa**: Recibe criptomonedas nuevas + tasas de transacción
 
 ## Equipos Necessarios

@@ -35,8 +35,13 @@ language: es
 alternateLanguages:
   pt: wrapped-tokens-bitcoin-ethereum
   en: wrapped-tokens-bringing-bitcoin-to-ethereum
+metaTitle: 'Tokens envueltos: Llevando Bitcoin a Ethereum'
+metaDescription: >-
+  Descubre cómo los tokens envueltos llevan Bitcoin a Ethereum en esta guía
+  completa. Entérate de los conceptos fundamentales y sus aplicaciones reales.
+  iLee más!
 ---
-Este guía completo explora **Tokens Envueltos** de forma detallada e accesible.
+Este guía completo explora **[Tokens](/artigo/wrapped-tokens-bringing-bitcoin-to-ethereum "Wrapped Tokens: Bringing Bitcoin to Ethereum") Envueltos** de forma detallada e accesible.
 
 ## Introducción
 

@@ -41,19 +41,48 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }))
 
-  // Artigos
-  const articles = await getAllArticles()
-  const articlePages: MetadataRoute.Sitemap = articles.map(article => {
-    const lastModified = article.updatedAt || article.publishedAt
-    const date = lastModified instanceof Date ? lastModified : new Date(lastModified)
+  // Artigos PT
+  const ptArticles = await getAllArticles('pt-BR')
+  const ptArticlePages: MetadataRoute.Sitemap = ptArticles.map(article => ({
+    url: `${baseUrl}/artigo/${article.slug}`,
+    lastModified: article.updatedAt || article.publishedAt,
+    changeFrequency: 'weekly' as const,
+    priority: 0.7,
+  }))
 
-    return {
-      url: `${baseUrl}/artigo/${article.slug}`,
-      lastModified: date,
-      changeFrequency: 'weekly' as const,
-      priority: 0.7,
+  // Artigos EN
+  const enArticles = await getAllArticles('en')
+  const enArticlePages: MetadataRoute.Sitemap = enArticles.map(article => ({
+    url: `${baseUrl}/en/article/${article.slug}`,
+    lastModified: article.updatedAt || article.publishedAt,
+    changeFrequency: 'weekly' as const,
+    priority: 0.7,
+  }))
+
+  // Artigos ES
+  const esArticles = await getAllArticles('es')
+  const esArticlePages: MetadataRoute.Sitemap = esArticles.map(article => ({
+    url: `${baseUrl}/es/article/${article.slug}`,
+    lastModified: article.updatedAt || article.publishedAt,
+    changeFrequency: 'weekly' as const,
+    priority: 0.7,
+  }))
+
+  // Homepages multilíngues
+  const multiLangHomePages: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/en`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/es`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
     }
-  })
+  ]
 
-  return [...staticPages, ...categoryPages, ...articlePages]
+  return [...staticPages, ...multiLangHomePages, ...categoryPages, ...ptArticlePages, ...enArticlePages, ...esArticlePages]
 }

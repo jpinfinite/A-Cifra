@@ -43,20 +43,24 @@ alternateLanguages:
   pt: liquidacoes-cripto-triplicam-alavancagem-dezembro-2025
   es: >-
     liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancamiento-excesivo
+metaTitle: 'Crypto Liquidations Triple in December 2025: The Dangers of '
+metaDescription: >-
+  Discover the dangers of excessive leverage in crypto trading as liquidations
+  triple in December 2025. Read more!
 ---
-Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavancagem Excessiva
+Liquidações em [Cripto](/artigo/liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancada-excesiva "Liquidações en Cripto Triplican en Diciembre 2025: Los Peligros de la Alavancada Excesiva") Triplicam em Dezembro 2025: Os Perigos da Alavancagem Excessiva
 
 O mercado de criptomoedas testemunhou um evento dramático nas últimas 48 horas: $1,8 bilhão em liquidações, marcando um dos maiores eventos de liquidação em massa desde o crash de maio de 2021. Este episódio serve como um lembrete brutal dos perigos da alavancagem excessiva no trading de criptomoedas.
 
 O que Aconteceu?
 
-Entre 1 e 3 de dezembro de 2025, o mercado cripto experimentou uma volatilidade extrema que resultou em liquidações massivas:
+Entre 1 e 3 de dezembro de 2025, o mercado [cripto](/artigo/liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancamiento-excesivo "Liquidações en Cripto Triplican en Diciembre 2025: Los Peligros de la Alavancamiento Excesivo") experimentou uma volatilidade extrema que resultou em liquidações massivas:
 
 - $1,8 bilhão em posições liquidadas em 48 horas
 - 320.000 traders afetados globalmente
 - $850 milhões em posições long (compradas)
 - $950 milhões em posições short (vendidas)
-- Bitcoin caiu de $98.500 para $92.000 antes de recuperar para $95.000
+- [Bitcoin](/artigo/bitcoin-14-bilhoes-opcoes-expirando-volatilidade "Bitcoin4 Bilhões em Opções de Bitcoin Expirando - Prepare-se para Volatilidade") caiu de $98.500 para $92.000 antes de recuperar para $95.000
 
 Principais Exchanges Afetadas
 
@@ -94,7 +98,7 @@ O mercado estava extremamente otimista (bullish) com:
 Vários fatores contribuíram para a queda:
 
 - Macroeconômicos: Dados de emprego dos EUA acima do esperado, comentários hawkish do Fed sobre juros, fortalecimento do dólar
-- Técnicos: Bitcoin rejeitado em $98.500 (resistência), rompimento de suporte em $95.000, cascata de stop-losses
+- Técnicos: [Bitcoin](/artigo/14-billion-in-bitcoin-options-expiring---prepare-for-volatility "Bitcoin4 Billion in Bitcoin Options Expiring - Prepare for Volatility") rejeitado em $98.500 (resistência), rompimento de suporte em $95.000, cascata de stop-losses
 - Sentimento: Índice de Medo e Ganância em 82 (Ganância Extrema), excesso de otimismo nas redes sociais, FOMO (Fear of Missing Out) generalizado
 
 O que São Liquidações?

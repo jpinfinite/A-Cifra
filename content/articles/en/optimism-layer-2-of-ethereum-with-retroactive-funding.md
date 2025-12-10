@@ -34,12 +34,16 @@ language: en
 alternateLanguages:
   pt: optimism-layer2-ethereum-retroativo
   es: optimismo-capa-2-de-ethereum-con-financiacin-retroactiva
+metaTitle: 'Optimism: Layer 2 of Ethereum with Retroactive Funding'
+metaDescription: >-
+  Discover Optimism, a Layer 2 Ethereum solution with retroactive funding,
+  offering scalability and innovative public goods financing. Read more!
 ---
 **Optimism** is a Layer 2 solution for [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) that combines technical scalability with innovation in public goods financing.
 
 ## Optimistic Rollups
 
-Processes transactions off-chain assuming they are valid, with a 7-day challenge period.
+Processes transactions off-chain assuming [they](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") are valid, with a 7-day challenge period.
 
 ### Benefits
 
@@ -50,7 +54,7 @@ Processes transactions off-chain assuming they are valid, with a 7-day challenge
 
 ## RetroPGF: Innovation in Financing
 
-Optimism finances projects that have already created value for the ecosystem.
+[Optimism](/artigo/optimism-layer2-ethereum-retroativo "Optimism: Layer 2 do Ethereum com Financiamento Retroativo") finances projects that have already created value for the ecosystem.
 
 ### How It Works
 

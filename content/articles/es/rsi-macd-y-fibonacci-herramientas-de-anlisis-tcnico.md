@@ -30,8 +30,12 @@ language: es
 alternateLanguages:
   pt: rsi-macd-fibonacci-analise-tecnica
   en: rsi-macd-and-fibonacci-technical-analysis-tools
+metaTitle: 'RSI, MACD y Fibonacci: Herramientas de Análisis Técnico'
+metaDescription: >-
+  Descubre cómo utilizar RSI, MACD y Fibonacci para tomar decisiones informadas
+  en el mercado. Aprende a gerenciar riesgo y encontrar oportunidades. iLee más!
 ---
-Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora RSI, MACD y Fibonacci: herramientas de análisis técnico.
+Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora RSI, [MACD](/artigo/rsi-macd-and-fibonacci-technical-analysis-tools "RSI, MACD and Fibonacci: Technical Analysis Tools") y Fibonacci: herramientas de análisis técnico.
 
 ## Fundamentos de Análisis
 
@@ -104,6 +108,6 @@ Análisis de mercado es una habilidad que se desarrolla con práctica y estudio 
 
 ## 🚀 Comience a invertir en criptomonedas
 
-Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
+Para comprar las [criptomonedas](/artigo/cmo-analizar-criptomonedas-gua-completa-para-inversionistas "Cómo Analizar Criptomonedas: Guía Completa para Inversionistas") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />

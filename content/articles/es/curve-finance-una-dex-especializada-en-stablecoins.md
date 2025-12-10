@@ -37,8 +37,12 @@ alternateLanguages:
   pt: curve-finance-stablecoins
   en: curve-finance-a-dex-specialized-in-stablecoins
 language: es
+metaTitle: 'Curve Finance: Una DEX especializada en Stablecoins'
+metaDescription: >-
+  Descubre la DEX líder para trading de stablecoins con Curve Finance, con bajo
+  slippage y altos rendimientos. Lee más sobre sus ventajas y cómo usarla.
 ---
-El **Curve Finance** es la DEX líder para trading de stablecoins, ofreciendo bajo slippage y altos rendimientos.
+El **[Curve](/artigo/curve-finance-stablecoins "Curve Finance: A DEX Especializada em Stablecoins") Finance** es la DEX líder para trading de stablecoins, ofreciendo bajo slippage y altos rendimientos.
 
 ## Por Qué Curve?
 
@@ -80,7 +84,7 @@ El **Curve Finance** es la DEX líder para trading de stablecoins, ofreciendo ba
 
 ## Conclusión
 
-Curve es ideal para farming conservador con stablecoins y rendimientos estábiles.
+[Curve](/artigo/curve-finance-a-dex-specialized-in-stablecoins "Curve Finance: A DEX Specialized in Stablecoins") es ideal para farming conservador con stablecoins y rendimientos estábiles.
 
 ## 🚀 Comece a Invertir en Criptomonedas
 

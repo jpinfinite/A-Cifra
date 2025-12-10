@@ -38,6 +38,10 @@ alternateLanguages:
   pt: cathie-wood-bitcoin-1-5-milhao-previsao-2025
   es: cathie-wood-mantiene-prediccin-de-bitcoin-a-15-milln---anlisis-ark-invest
 language: en
+metaTitle: Cathie Wood Maintains Bitcoin Forecast to $1.5 Million - ARK
+metaDescription: >-
+  Learn why Cathie Wood's ARK Invest maintains a $1.5 million Bitcoin forecast,
+  despite current market fluctuations. Read more!
 ---
 # Cathie Wood Mantém Previsão de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) a $1.5 Milhão - Análise ARK Invest
 
@@ -45,7 +49,7 @@ language: en
 
 ## Quem é Cathie Wood?
 
-**Cathie Wood** é uma das investidoras mais influentes e controversas de Wall Street:
+**[Cathie](/artigo/cathie-wood-bitcoin-1-5-milhao-previsao-2025 "Cathie Wood Mantém Previsão de Bitcoin a Cathie.5 Milhão - Análise ARK Invest") Wood** é uma das investidoras mais influentes e controversas de Wall Street:
 
 - **CEO e fundadora** da ARK Invest (2014)
 - **Especialista** em tecnologias disruptivas
@@ -57,7 +61,7 @@ language: en
 
 ### O Que Ela Disse
 
-Em entrevista recente (26/nov/2025), Cathie Wood afirmou:
+Em entrevista recente (26/nov/2025), [Cathie](/artigo/cathie-wood-maintains-bitcoin-prediction-at-15-million---ark-invest-analysis "Cathie Wood Maintains Bitcoin Prediction at Cathie.5 Million - ARK Invest Analysis") Wood afirmou:
 
 > "Nossa previsão de $1,5 milhão para [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) não mudou. Na verdade, com os desenvolvimentos recentes em adoção institucional e escassez pós-halving, estamos mais confiantes do que nunca."
 

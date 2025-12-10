@@ -30,8 +30,12 @@ alternateLanguages:
   pt: on-chain-analysis-metricas-importantes
   en: on-chain-analysis-key-metrics-for-investors
 language: es
+metaTitle: 'Análisis En-Chain: Métricas Importantes para Inversores'
+metaDescription: >-
+  Descubre las métricas clave para inversores en análisis en-chain y toma
+  decisiones informadas con nuestra guía práctica. ¡Lee más!
 ---
-Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora análisis on-chain: métricas importantes para inversores.
+Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora análisis on-[chain](/artigo/on-chain-analysis-key-metrics-for-investors "On-Chain Analysis: Key Metrics for Investors"): métricas importantes para inversores.
 
 ## Fundamentos de Análisis
 
@@ -104,6 +108,6 @@ Análisis de mercado es una habilidad que se desarrolla con práctica y estudio 
 
 ## 🚀 Comienza a Invertir en Criptomonedas
 
-Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
+Para comprar las [criptomonedas](/artigo/cmo-analizar-criptomonedas-gua-completa-para-inversionistas "Cómo Analizar Criptomonedas: Guía Completa para Inversionistas") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />

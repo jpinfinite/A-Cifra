@@ -49,6 +49,10 @@ alternateLanguages:
   es: >-
     bitcoin-rumbo-a-los-100k-anlisis-completo-de-los-4-factores-que-volvern-a-determinar-el-prximo-movim
 language: en
+metaTitle: 'Bitcoin Heading to $100K: Complete Analysis of the 4 Factors'
+metaDescription: >-
+  Discover the 4 key factors driving Bitcoin's next move towards $100K. Will it
+  break through or correct? Read more!
 ---
 O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está testando a zona crítica de **$88.000-$90.000**, e o mercado cripto inteiro segura a respiração. A pergunta que todos fazem é: **vamos finalmente romper os $100.000 ou teremos uma nova correção?**
 

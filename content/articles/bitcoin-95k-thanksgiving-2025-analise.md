@@ -39,6 +39,11 @@ alternateLanguages:
   en: bitcoin-seeks-to-break-95k-by-thanksgiving-2025---rally-analysis
   es: >-
     bitcoin-busca-romper-95k-en-accin-de-accin-de-gracias-2025---anlisis-del-rally
+metaTitle: Bitcoin Busca Romper $95K no Thanksgiving 2025 - Análise do...
+metaDescription: >-
+  Bitcoin oscila perto de $95K enquanto traders aguardam o rompimento histórico
+  no Thanksgiving. Análise técnica mostra níveis-chave e o que esperar nas
+  próx...
 ---
 
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Busca Romper $95K no Thanksgiving 2025 - Análise do Rally
@@ -53,7 +58,7 @@ Após uma correção de **$99.800 para $92.000** na semana passada (queda de 7,8
 
 - **21/nov:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) atinge ATH de $99.800
 - **23/nov:** Correção para $92.000 (realização de lucros)
-- **25/nov:** Início da recuperação, rompe $93.000
+- **25/nov:** Início da [recupera](/artigo/bitcoin-recupera-93-mil-analise-dezembro-2025 "Bitcoin Recupera $93 Mil Após Correção: Analistas Preveem Retorno aos recupera00k em Dezembro")ção, rompe $93.000
 - **27/nov (hoje):** Testa $94.500, busca $95.000
 
 ## Análise Técnica: Níveis-Chave
@@ -395,7 +400,7 @@ Se você quer aproveitar o momento e comprar [bitcoin](/artigo/bitcoin-200k-2026
 
 ### 5. [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) pode ir para $100K em novembro?
 
-**Improvável.** Faltam 3 dias. Mais realista é **$100K na primeira semana de dezembro**.
+**Improvável.** Faltam 3 dias. Mais realista é **$[100K](/artigo/bitcoin-100k-dezembro-2025-analise-caminho "Bitcoin Rumo aos 100K00K em Dezembro 2025 - Análise Completa do Caminho") na primeira semana de dezembro**.
 
 ### 6. Devo usar alavancagem?
 
@@ -439,7 +444,7 @@ Se você quer aproveitar o momento e comprar [bitcoin](/artigo/bitcoin-200k-2026
 - ⚠️ Resistência psicológica em $95K
 - ⚠️ Realização de lucros possível
 
-**Probabilidade de romper $95K nas próximas 48h: 60-70%**
+**Probabilidade de [romper](/artigo/bitcoin-busca-romper-95k-en-accin-de-accin-de-gracias-2025---anlisis-del-rally "Bitcoin Busca Romper $95K en Acción de Acción de Gracias 2025 - Análisis del Rally") $95K nas próximas 48h: 60-70%**
 
 **Estratégia recomendada:**
 - **HODL:** Mantenha posições, não venda

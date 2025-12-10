@@ -42,6 +42,11 @@ alternateLanguages:
     cryptocurrency-staking-a-2025-complete-guide---how-to-earn-passive-income-of-3-to-20-per-year
   es: >-
     staking-de-criptomonedas-gua-completa-2025---cmo-ganar-renta-pasiva-de-3-a-20-al-ao
+metaTitle: 'Staking de Criptomoedas: Guia Completo 2025 - Como Ganhar Re...'
+metaDescription: >-
+  Aprenda tudo sobre staking de criptomoedas: melhores moedas (ETH, SOL, ADA),
+  plataformas confiáveis, APYs, riscos e estratégias para gerar renda passiva
+  em...
 ---
 
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de Criptomoedas: Guia Completo 2025 - Como Ganhar Renda Passiva de 3% a 20% ao Ano

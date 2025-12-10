@@ -34,15 +34,19 @@ export default async function HomePage() {
     )
   }
 
-  // Serializar datas para passar para client component
+  // Serializar datas para passar para client component e remover conteúdo pesado
   const serializedFeatured = {
     ...displayFeaturedArticle,
+    content: '', // Otimização: remove conteúdo markdown para reduzir tamanho do HTML
+    excerpt: displayFeaturedArticle.excerpt || '',
     publishedAt: displayFeaturedArticle.publishedAt?.toISOString() || new Date().toISOString(),
     updatedAt: displayFeaturedArticle.updatedAt?.toISOString()
   }
 
   const serializedRecent = recentArticles.map(article => ({
     ...article,
+    content: '', // Otimização: remove conteúdo markdown para reduzir tamanho do HTML
+    excerpt: article.excerpt || '',
     publishedAt: article.publishedAt?.toISOString() || new Date().toISOString(),
     updatedAt: article.updatedAt?.toISOString()
   }))

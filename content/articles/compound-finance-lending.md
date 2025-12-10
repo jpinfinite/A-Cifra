@@ -36,20 +36,24 @@ seo:
 alternateLanguages:
   en: compound-finance-autonomous-lending-protocol
   es: compound-finance-protocolo-de-prstamos-autnomos
+metaTitle: 'Compound Finance: Protocolo de Empréstimos Autônomos'
+metaDescription: >-
+  Conheça o Compound, um dos primeiros protocolos DeFi de empréstimos: como
+  funciona, taxas, o token COMP e como ganhar rendimentos.
 ---
 
-**Compound Finance: Protocolo de Empréstimos Autônomos**
+**[Compound](/artigo/compound-finance-autonomous-lending-protocol "Compound Finance: Autonomous Lending Protocol") Finance: Protocolo de Empréstimos Autônomos**
 =====================================================
 
 **Introdução**
 ------------
 
-O mundo financeiro está em constante evolução, e a tecnologia está desempenhando um papel fundamental nesse processo. Uma das inovações mais promissoras é a Compound Finance, um protocolo de empréstimos autônomos que está revolucionando a forma como as pessoas acessam crédito e investem em ativos. Neste artigo, vamos explorar a Compound Finance, sua importância atual e como ela está mudando a forma como as pessoas lidam com dinheiro.
+O mundo financeiro está em constante evolução, e a tecnologia está desempenhando um papel fundamental nesse processo. Uma das inovações mais promissoras é a [Compound](/artigo/compound-finance-protocolo-de-prstamos-autnomos "Compound Finance: Protocolo de Préstamos Autónomos") Finance, um protocolo de empréstimos autônomos que está revolucionando a forma como as pessoas acessam crédito e investem em ativos. Neste artigo, vamos explorar a Compound Finance, sua importância atual e como ela está mudando a forma como as pessoas lidam com dinheiro.
 
 **O que é Compound Finance?**
 ---------------------------
 
-A Compound Finance é um protocolo de empréstimos autônomos que permite que os usuários emprestam e consigam dinheiro de forma descentralizada e segura. O protocolo utiliza a tecnologia blockchain para criar um mercado de empréstimos que é transparente, eficiente e acessível a todos. Com a Compound Finance, os usuários podem emprestar e consigir dinheiro sem a necessidade de intermediários, como bancos ou instituições financeiras tradicionais.
+A Compound Finance é um [protocolo](/artigo/aave-protocolo-emprestimo-defi "Aave: O Protocolo de Empréstimos DeFi Mais Popular") de empréstimos autônomos que permite que os usuários emprestam e consigam dinheiro de forma descentralizada e segura. O protocolo utiliza a tecnologia blockchain para criar um mercado de empréstimos que é transparente, eficiente e acessível a todos. Com a Compound Finance, os usuários podem emprestar e consigir dinheiro sem a necessidade de intermediários, como bancos ou instituições financeiras tradicionais.
 
 **Importância Atual**
 -----------------
@@ -77,7 +81,7 @@ Além disso, a Compound Finance é uma forma de acesso ao crédito que é mais a
 
 A Compound Finance é uma inovação importante no mundo financeiro que está revolucionando a forma como as pessoas acessam crédito e investem em ativos. Com a Compound Finance, os usuários podem emprestar e consigir dinheiro de forma descentralizada e segura, sem a necessidade de intermediários. Embora haja desafios e limitações associados ao uso da Compound Finance, ela oferece vários benefícios para os usuários, incluindo acesso ao crédito mais acessível e mais eficiente, e investimentos mais diversificados e mais seguros.
 
-**Compound Finance: Protocolo de Empréstimos Autônomos**
+**Compound Finance: [Protocolo](/artigo/aave-el-protocolo-de-prstamos-defi-ms-popular "Aave: El Protocolo de Préstamos DeFi Más Popular") de Empréstimos Autônomos**
 
 **Introdução**
 

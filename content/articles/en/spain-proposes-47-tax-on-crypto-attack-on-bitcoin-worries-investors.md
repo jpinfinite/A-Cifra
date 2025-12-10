@@ -43,8 +43,13 @@ alternateLanguages:
   pt: espanha-imposto-47-cripto-ataque-bitcoin-2025
   es: >-
     espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversores
+metaTitle: 'Spain Proposes 47% Tax on Crypto: "Attack on Bitcoin" Worrie'
+metaDescription: >-
+  Spain proposes 47% tax on crypto, sparking attack on Bitcoin concerns. Explore
+  the implications of this aggressive fiscal policy on the European crypto
+  market. Read more!
 ---
-A Espanha pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O Sumar, partido júnior da coalizão governista espanhola, propôs um imposto de 47% sobre ganhos com criptomoedas, em uma medida que críticos já descrevem como um "ataque direto contra o bitcoin".
+A [Espanha](/artigo/espanha-imposto-47-cripto-ataque-bitcoin-2025 "Espanha Propõe Imposto de 47% Sobre Cripto: "Ataque Contra Bitcoin" Preocupa Investidores") pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O Sumar, partido júnior da coalizão governista espanhola, propôs um imposto de 47% sobre ganhos com criptomoedas, em uma medida que críticos já descrevem como um "ataque direto contra o bitcoin".
 
 A proposta, anunciada em 26 de novembro de 2025, gerou ondas de choque no mercado cripto europeu e levanta questões importantes sobre o futuro da regulação de ativos digitais no continente.
 
@@ -65,7 +70,7 @@ Críticos da proposta, incluindo membros da comunidade cripto espanhola e europe
 
 ### 1. Taxa Confiscatória
 
-Com 47%, a Espanha teria uma das maiores taxas sobre cripto do mundo, superando até mesmo países conhecidos por alta tributação como:
+Com 47%, a [Espanha](/artigo/espanha-imposto-47-cripto-ataque-bitcoin "Espanha Propõe Imposto de 47% sobre Cripto - Ataque ao Bitcoin?") teria uma das maiores taxas sobre cripto do mundo, superando até mesmo países conhecidos por alta tributação como:
 
 - Alemanha: 0% após 1 ano de holding
 - Portugal: 0% para pessoas físicas (até recentemente)
@@ -86,7 +91,7 @@ Investidores espanhóis podem simplesmente mover seus ativos para jurisdições 
 
 ### 4. Contradição com Política da UE
 
-A proposta vai na contramão do MiCA (Markets in Crypto-Assets), o framework regulatório da União Europeia que busca harmonizar regras sem sufocar o setor.
+A proposta vai na contramão do MiCA (Markets in [Crypto](/artigo/spain-proposes-47-tax-on-crypto-bitcoin-attack-worries-investors "Spain Proposes 47% Tax on Crypto: "Bitcoin Attack" Worries Investors")-Assets), o framework regulatório da União Europeia que busca harmonizar regras sem sufocar o setor.
 
 ## Impacto no Mercado Cripto Europeu
 

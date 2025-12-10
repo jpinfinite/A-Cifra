@@ -42,6 +42,11 @@ alternateLanguages:
     defi-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies
   es: >-
     defi-gua-completa-para-principiantes-2025---cmo-ganar-renta-pasiva-con-criptomonedas
+metaTitle: 'DeFi: Guia Completo para Iniciantes 2025 - Como Ganhar Renda...'
+metaDescription: >-
+  Aprenda DeFi do zero: staking, yield farming, lending e protocolos principais.
+  Guia completo 2025 com estratégias práticas para gerar renda passiva com
+  cri...
 ---
 
 # [defi](/artigo/defi-yield-farming-protocolos-seguros-2026): Guia Completo para Iniciantes 2025 - Como Ganhar Renda Passiva com Criptomoedas
@@ -76,7 +81,7 @@ Neste guia completo, você vai aprender tudo sobre [defi](/artigo/defi-yield-far
 
 ### Principais Casos de Uso
 
-1. **Lending/Borrowing:** Emprestar e tomar emprestado cripto
+1. **Lending/Borrowing:** Emprestar e tomar emprestado [cripto](/artigo/renta-pasiva-con-cripto-en-2026-7-estrategias-que-funcionan "Renta Pasiva con Cripto en 2026: 7 Estrategias que Funcionan")
 2. **Trading:** Trocar tokens sem intermediários (DEXs)
 3. **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026):** Bloquear tokens para ganhar recompensas
 4. **Yield Farming:** Fornecer liquidez para ganhar fees
@@ -518,7 +523,7 @@ Para comprar criptomoedas e começar no [defi](/artigo/defi-yield-farming-protoc
 
 ### 3. Preciso pagar imposto sobre ganhos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)?
 
-**Resposta:** **Sim**, no Brasil. Ganhos com criptomoedas são tributados. Vendas acima de R$35.000/mês: 15-22,5% de IR. Mantenha registro de todas transações. Declare na Receita Federal anualmente. Consulte contador especializado em cripto.
+**Resposta:** **Sim**, no Brasil. Ganhos com [criptomoedas](/artigo/renda-passiva-criptomoedas-staking-lending-2025 "Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming") são tributados. Vendas acima de R$35.000/mês: 15-22,5% de IR. Mantenha registro de todas transações. Declare na Receita Federal anualmente. Consulte contador especializado em cripto.
 
 ### 4. O que é Impermanent Loss?
 
@@ -542,7 +547,7 @@ Para comprar criptomoedas e começar no [defi](/artigo/defi-yield-farming-protoc
 
 ### 9. Posso viver de renda passiva com [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)?
 
-**Resposta:** Possível mas difícil. Para $3.000/mês, precisa ~$500k-1M investido (5-7% APY). Riscos: volatilidade, hacks, mudanças de APY. Mais realista: complementar renda. Comece pequeno, aprenda, escale gradualmente. Não largue emprego até dominar.
+**Resposta:** Possível mas difícil. Para $3.000/mês, precisa ~$500k-1M investido (5-7% APY). Riscos: volatilidade, hacks, mudanças de APY. Mais realista: complementar [renda](/artigo/renda-passiva-cripto-2026-estrategias "Renda Passiva com Cripto em 2026: 7 Estratégias que Funcionam"). Comece pequeno, aprenda, escale gradualmente. Não largue emprego até dominar.
 
 ### 10. Qual melhor estratégia [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) para iniciantes?
 

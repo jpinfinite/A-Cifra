@@ -49,5 +49,10 @@ language: es
 alternateLanguages:
   pt: top-10-altcoins-dezembro-2025-investir
   en: top-10-altcoins-to-invest-in-december-2025-complete-fundamental-analysis
+metaTitle: 'Top 10 Monedas Alternativas para Invertir en Diciembre 2025:'
+metaDescription: >-
+  Descubre las mejores monedas alternativas para invertir en Diciembre 2025 con
+  nuestro análisis fundamentalista completo. Lee más sobre las mejores opciones
+  para tu inversión.
 ---
 Não há tradução necessária, pois o texto é uma resposta detalhada a uma pergunta específica e não é uma publicação que precise ser traduzida.

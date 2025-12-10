@@ -30,8 +30,12 @@ language: es
 alternateLanguages:
   pt: phishing-scams-criptomoedas-protecao
   en: phishing-and-scams-in-crypto-how-to-protect-yourself
+metaTitle: 'Phishing y Estafas en Criptomonedas: Cómo Protegerse'
+metaDescription: >-
+  Conoce cómo protegerte de phishing y estafas en criptomonedas y mantén tus
+  activos financieros seguros. iLee más sobre seguridad en criptomonedas.
 ---
-La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda phishing y estafas en cripto: cómo protegerse.
+La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda [phishing](/artigo/phishing-and-cryptocurrency-scams-how-to-protect-yourself "Phishing and Cryptocurrency Scams: How to Protect Yourself") y estafas en cripto: cómo protegerse.
 
 ## Por qué la seguridad es crucial
 
@@ -46,7 +50,7 @@ La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía ab
 
 ### Vectores de ataque
 
-1. **Ataques de Phishing**: Correos electrónicos y sitios falsos
+1. **Ataques de [Phishing](/artigo/phishing-and-scams-in-crypto-how-to-protect-yourself "Phishing and Scams in Crypto: How to Protect Yourself")**: Correos electrónicos y sitios falsos
 2. **Malware**: Keyloggers y trojans
 3. **SIM Swapping**: Robo de número de teléfono
 4. **Ingeniería social**: Manipulación psicológica
@@ -93,10 +97,10 @@ La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía ab
 
 ## Conclusión
 
-La seguridad en cripto es responsabilidad individual. Implemente estas prácticas para proteger sus activos digitales.
+La seguridad en [cripto](/artigo/phishing-scams-criptomoedas-protecao "Phishing e Scams em Cripto: Como se Proteger") es responsabilidad individual. Implemente estas prácticas para proteger sus activos digitales.
 
 ## 🚀 Comience a invertir en criptomonedas
 
-Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
+Para comprar las [criptomonedas](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />

@@ -41,6 +41,11 @@ seo:
     - escalabilidade ethereum
     - the merge
     - dapps
+metaTitle: 'Ethereum 2.0: O Futuro da Segunda Maior Criptomoeda'
+metaDescription: >-
+  Entenda como a Ethereum 2.0 está revolucionando a rede com Proof of Stake,
+  shardings e melhorias de escalabilidade que prometem transformar o ecossistema
+  D...
 ---
 
 # [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) 2.0: O Futuro da Segunda Maior Criptomoeda
@@ -79,7 +84,7 @@ Neste guia completo, você entenderá todas as mudanças do [ethereum](/artigo/s
 | **Fase 0** | Beacon Chain | ✅ Concluída (Dez 2020) | Lançamento da cadeia PoS |
 | **Fase 1** | The Merge | ✅ Concluída (Set 2022) | Fusão PoW + PoS |
 | **Fase 2** | Sharding | 🔄 Em desenvolvimento | Divisão da rede em shards |
-| **Fase 3** | Danksharding | 📅 Planejada (2025-2026) | Sharding otimizado |
+| **Fase 3** | Danksharding | 📅 Planejada ([2025](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability")-2026) | Sharding otimizado |
 
 ---
 
@@ -234,7 +239,7 @@ Sharding divide a rede [ethereum](/artigo/staking-ethereum-guia-renda-passiva-20
 
 ## 🚀 Layer 2s: Escalando Hoje
 
-Enquanto o sharding não chega, Layer 2s já oferecem escalabilidade:
+Enquanto o sharding não chega, [Layer](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") 2s já oferecem escalabilidade:
 
 ### Principais Layer 2s
 
@@ -500,7 +505,7 @@ Para comprar [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) e outr
 ## 🎯 Perguntas Frequentes
 
 **Quando o sharding será implementado?**
-Proto-Danksharding está previsto para 2025. Sharding completo pode levar até 2026-2027.
+Proto-Danksharding está previsto para 2025. Sharding [completo](/artigo/metamask-guia-completo "MetaMask: Guia Completo da Carteira Cripto Mais Popular do Mundo") pode levar até 2026-2027.
 
 **ETH vai se tornar deflacionário?**
 Já é deflacionário quando a atividade da rede é alta. Com mais uso, mais ETH é queimado que emitido.
@@ -509,7 +514,7 @@ Já é deflacionário quando a atividade da rede é alta. Com mais uso, mais ETH
 Sim, através de liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) (Lido, Rocket Pool) ou [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) em exchanges.
 
 **Layer 2s vão reduzir o valor do ETH?**
-Não necessariamente. Layer 2s aumentam utilidade e podem aumentar demanda por ETH.
+Não necessariamente. [Layer](/artigo/qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum "¿Qué son Layer 2 y por qué son esenciales para el Ethereum") 2s aumentam utilidade e podem aumentar demanda por ETH.
 
 **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) vai superar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?**
 Possível, mas depende de adoção, regulação e execução do roadmap.

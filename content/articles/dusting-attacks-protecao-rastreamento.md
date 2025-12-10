@@ -29,9 +29,11 @@ seo:
 alternateLanguages:
   en: dusting-attacks-protection-against-wallet-tracking
   es: ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-carteras
+metaTitle: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
+metaDescription: Entenda o que são dusting attacks e como se proteger contra rastreamento.
 ---
 
-**Dusting Attacks: Proteção Contra Rastreamento de Carteiras**
+**[Dusting](/artigo/dusting-attacks-protection-against-wallet-tracking "Dusting Attacks: Protection Against Wallet Tracking") Attacks: Proteção Contra Rastreamento de Carteiras**
 
 O mundo das criptomoedas tem crescido exponencialmente nos últimos anos, atraindo a atenção de investidores, empresários e indivíduos de todo o mundo. Com a popularidade do Bitcoin e outras moedas digitais, a segurança das carteiras de criptomoedas se tornou um tema cada vez mais importante. Uma das ameaças mais significativas às carteiras de criptomoedas é o ataque de "dusting", um tipo de fraude que visa rastrear e roubar criptomoedas de usuários inocentes.
 
@@ -43,9 +45,9 @@ Um ataque de "dusting" é um tipo de fraude que envolve a transferência de pequ
 
 Um ataque de "dusting" geralmente começa com a transferência de uma pequena quantidade de criptomoedas para a carteira do usuário. Essa quantia pode ser tão pequena quanto 0,0001 BTC ou 0,01 ETH. O objetivo é não chamar a atenção do usuário, que pode não notar a transferência. Em seguida, os fraudadores monitoram a carteira do usuário, esperando que ele faça uma transação ou retire suas criptomoedas. Quando isso acontece, os fraudadores podem rastrear a transação e roubar as criptomoedas do usuário.
 
-**Importância da proteção contra ataques de "dusting"**
+**Importância da proteção contra [ataques](/artigo/ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-carteras "Ataques de Pulverización: Protección Contra el Rastreo de Carteras") de "dusting"**
 
-A proteção contra ataques de "dusting" é fundamental para a segurança das carteiras de criptomoedas. Se um usuário não tomar medidas para proteger sua carteira, ele pode perder suas criptomoedas para os fraudadores. Além disso, os ataques de "dusting" podem ser difíceis de detectar, pois os fraudadores podem usar técnicas de lavagem de dinheiro para ocultar suas atividades.
+A proteção contra [ataques](/artigo/ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-monederos "Ataques de Pulverización: Protección Contra el Rastreo de Monederos") de "dusting" é fundamental para a segurança das carteiras de criptomoedas. Se um usuário não tomar medidas para proteger sua carteira, ele pode perder suas criptomoedas para os fraudadores. Além disso, os ataques de "dusting" podem ser difíceis de detectar, pois os fraudadores podem usar técnicas de lavagem de dinheiro para ocultar suas atividades.
 
 **Medidas de proteção contra ataques de "dusting"**
 
@@ -55,7 +57,7 @@ Existem várias medidas que os usuários podem tomar para proteger suas carteira
 * Ativar a autenticação de dois fatores (2FA) para proteger novamente a carteira;
 * Monitorar as transações em tempo real;
 * Usar software de segurança para proteger a carteira;
-* Manter as criptomoedas em um cold storage seguro.
+* Manter as criptomoedas em um [cold](/artigo/cold-wallet-vs-hot-wallet-seguranca "Cold Wallet vs Hot Wallet: Qual é Mais Segura?") storage seguro.
 
 Em resumo, os ataques de "dusting" são uma ameaça significativa às carteiras de criptomoedas e é fundamental que os usuários tomem medidas para proteger suas criptomoedas. Com as medidas de proteção certas, os usuários podem minimizar o risco de ataques de "dusting" e manter suas criptomoedas seguras.
 

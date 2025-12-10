@@ -37,14 +37,19 @@ language: en
 alternateLanguages:
   pt: avalanche-subnets-escalabilidade-blockchain
   es: avalanche-subredes-y-escalabilidad-blockchain
+metaTitle: 'Avalanche: Subnets and Blockchain Scalability'
+metaDescription: >-
+  Unlock blockchain scalability with Avalanche's high-performance platform,
+  featuring subnets for customized use cases and processing thousands of
+  transactions per second. Read more!
 ---
 Avalanche: Subnets and Blockchain Scalability
 
-The Avalanche is a high-performance blockchain platform that offers extreme scalability, low fees, and customizable subnets for specific use cases.
+The [Avalanche](/artigo/avalanche-subnets-escalabilidade-blockchain "Avalanche: Subnets e Escalabilidade Blockchain") is a high-performance blockchain platform that offers extreme scalability, low fees, and customizable subnets for specific use cases.
 
 What is Avalanche?
 
-Avalanche is a smart contract platform that processes up to 4,500 transactions per second with finality in less than 2 seconds.
+[Avalanche](/artigo/avalanche-subredes-y-escalabilidad-blockchain "Avalanche: Subredes y Escalabilidad Blockchain") is a smart contract platform that processes up to 4,500 transactions per second with finality in less than 2 seconds.
 
 Key Features
 - **Speed**: Sub-second finality
@@ -170,7 +175,7 @@ Avalanche vs Ethereum
 - **Ecosystem**: Ethereum larger
 
 Avalanche vs Solana
-- **Decentralization**: Avalanche more decentralized
+- **Decentralization**: Avalanche more [decentralized](/artigo/chainlink-decentralized-oracles-for-smart-contracts "Chainlink: Decentralized Oracles for Smart Contracts")
 - **Speed**: Solana slightly faster
 - **Stability**: Avalanche more stable
 
@@ -246,7 +251,7 @@ Strategies
 
 Conclusion
 
-Avalanche is one of the most technically advanced blockchains, offering speed, scalability, and customization through subnets.
+Avalanche is one of the most technically advanced blockchains, offering speed, [scalability](/artigo/polygon-zkevm-and-scalability-for-ethereum "Polygon: zkEVM and Scalability for Ethereum"), and customization through subnets.
 
 With its innovative consensus protocol, compatibility with Ethereum, and focus on corporate use cases, Avalanche is well-positioned for growth.
 

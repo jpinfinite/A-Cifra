@@ -25,7 +25,7 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
     }).format(date)
   }
 
-  const estimatedReadTime = Math.ceil(article.content.split(' ').length / 200)
+  const estimatedReadTime = article.readingTime || Math.ceil(article.content.split(' ').length / 200)
 
   // Obter imagem otimizada baseada na categoria
   const imageData = article.coverImage?.src

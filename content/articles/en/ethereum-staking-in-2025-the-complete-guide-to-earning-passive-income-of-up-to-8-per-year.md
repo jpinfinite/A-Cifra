@@ -47,6 +47,10 @@ alternateLanguages:
   es: >-
     staking-de-ethereum-en-2025-gua-completa-para-ganar-renta-pasiva-de-hasta-8-al-ao
 language: en
+metaTitle: 'Ethereum Staking in 2025: The Complete Guide to Earning Pass'
+metaDescription: >-
+  Unlock up to 8% passive income with Ethereum staking in 2025. Learn how to
+  maximize your earnings and get started today - Read more!
 ---
 # [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) em 2025: Guia Completo para Ganhar Renda Passiva de até 8% ao Ano
 

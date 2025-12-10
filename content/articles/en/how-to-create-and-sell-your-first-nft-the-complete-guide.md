@@ -37,8 +37,12 @@ language: en
 alternateLanguages:
   pt: como-criar-nft-tutorial
   es: cmo-crear-y-vender-tu-primer-nft-gua-completa
+metaTitle: 'How to Create and Sell Your First NFT: The Complete Guide'
+metaDescription: >-
+  Learn how to create and sell your first NFT with our step-by-step guide on
+  OpenSea. Discover the process and start selling today! Read more!
 ---
-Create and sell **NFTs** has never been easier. This guide shows the complete process on OpenSea.
+Create and sell **NFTs** has never been easier. This guide shows the [complete](/artigo/how-to-use-pancakeswap-a-complete-tutorial-on-bsc "How to Use PancakeSwap: A Complete Tutorial on BSC") process on OpenSea.
 
 ## What You Need
 

@@ -37,6 +37,10 @@ language: en
 alternateLanguages:
   pt: como-usar-uniswap-tutorial
   es: cmo-usar-o-uniswap-tutorial-completo-de-swap-de-tokens
+metaTitle: 'How to Use Uniswap: Complete Swap Tokens Tutorial'
+metaDescription: >-
+  Learn how to use Uniswap, the world's largest decentralized exchange, with our
+  step-by-step swap tokens tutorial. Read more!
 ---
 The Uniswap is the world's largest decentralized exchange (DEX). This tutorial teaches you how to use the platform step by step.
 

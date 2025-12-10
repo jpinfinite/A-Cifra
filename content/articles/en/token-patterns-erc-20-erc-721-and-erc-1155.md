@@ -34,12 +34,16 @@ language: en
 alternateLanguages:
   pt: erc-20-erc-721-erc-1155-diferencas
   es: patrones-de-tokens-erc-20-erc-721-y-erc-1155
+metaTitle: 'Token Patterns: ERC-20, ERC-721 and ERC-1155'
+metaDescription: >-
+  Discover the fundamentals of Token Patterns, including ERC-20, ERC-721, and
+  ERC-1155, and learn how they shape the crypto ecosystem. Read more!
 ---
 This is a comprehensive guide that explores **Token Patterns** in detail and in an accessible way.
 
 ## Introduction
 
-Understanding this concept is fundamental for anyone involved with cryptocurrencies and blockchain.
+[Understanding](/artigo/tokenomics-understanding-token-economics "Tokenomics: Understanding Token Economics") this concept is fundamental for anyone involved with cryptocurrencies and blockchain.
 
 ## Key Concepts
 

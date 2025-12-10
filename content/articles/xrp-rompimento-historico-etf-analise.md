@@ -39,6 +39,10 @@ seo:
 alternateLanguages:
   en: xrp-breaks-7-year-pattern-builds-new-base-and-market-eyes-historic-targets
   es: xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos
+metaTitle: 'XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mir...'
+metaDescription: >-
+  Análise técnica e macro do rompimento estrutural da XRP após 7 anos, projeções
+  de preço e impacto do possível ETF no mercado.
 ---
 
 # XRP: Rompimento Histórico, Acumulação Forte e Novo Ciclo à Vista

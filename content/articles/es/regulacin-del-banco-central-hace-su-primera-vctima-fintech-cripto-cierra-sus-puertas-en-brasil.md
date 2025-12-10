@@ -39,6 +39,10 @@ alternateLanguages:
     regulamentao-do-banco-central-faz-primeira-vtima-fintech-cripto-fecha-as-portas-
   en: >-
     regulation-of-the-central-bank-makes-its-first-victim-crypto-fintech-closes-its-doors-in-brazil
+metaTitle: 'Regulación del Banco Central hace su primera víctima: fintec'
+metaDescription: >-
+  Descubre cómo la regulación del Banco Central afecta a la industria fintech
+  cripto en Brasil. La primera víctima cede: ¿qué sigue? iLee más!
 ---
 # Regulación del Banco Central deja su primera víctima: fintech cripto cierra sus puertas en Brasil
 

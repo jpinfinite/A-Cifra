@@ -44,6 +44,11 @@ alternateLanguages:
     cryptocurrency-liquidations-triple-in-december-2025-the-dangers-of-excessive-leverage
   es: >-
     liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancamiento-excesivo
+metaTitle: 'Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos...'
+metaDescription: >-
+  Mercado cripto registra $1,8 bilhão em liquidações em 48 horas. Entenda os
+  riscos da alavancagem e como proteger seus investimentos da volatilidade
+  extrema...
 ---
 
 # Liquidações em Cripto Triplicam em Dezembro 2025: Os Perigos da Alavancagem Excessiva
@@ -52,7 +57,7 @@ O mercado de criptomoedas testemunhou um evento dramático nas últimas 48 horas
 
 ## O Que Aconteceu?
 
-Entre 1 e 3 de dezembro de 2025, o mercado cripto experimentou uma volatilidade extrema que resultou em liquidações massivas:
+Entre 1 e 3 de dezembro de 2025, o mercado [cripto](/artigo/liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancada-excesiva "Liquidações en Cripto Triplican en Diciembre 2025: Los Peligros de la Alavancada Excesiva") experimentou uma volatilidade extrema que resultou em liquidações massivas:
 
 - **$1,8 bilhão** em posições liquidadas em 48 horas
 - **320.000 traders** afetados globalmente

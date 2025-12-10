@@ -37,8 +37,12 @@ language: en
 alternateLanguages:
   pt: como-funciona-mineracao-criptomoedas
   es: cmo-funciona-la-minera-de-criptomonedas
+metaTitle: How Does Cryptocurrency Mining Work?
+metaDescription: >-
+  Discover how cryptocurrency mining works, creating new coins and validating
+  transactions on the blockchain. Read more!
 ---
-Cryptocurrency Mining is the process by which new coins are created and transactions are validated on the blockchain. It is fundamental to the security and functioning of networks such as Bitcoin.
+Cryptocurrency Mining is the process by which new coins are created and transactions are validated on the [blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners"). It is fundamental to the security and functioning of networks such as Bitcoin.
 
 ## What is Mining?
 
@@ -57,7 +61,7 @@ Miners compete to solve complex mathematical problems:
 
 1. Transaction Collection: Miners group pending transactions
 2. Puzzle Resolution: They try to find a number (nonce) that generates a valid hash
-3. Validation: The first to solve adds the block to the blockchain
+3. Validation: The first to solve adds the block to the [blockchain](/artigo/what-is-blockchain-complete-guide-for-beginners "What is Blockchain? Complete Guide for Beginners")
 4. Reward: Receives new coins + transaction fees
 
 ## Necessary Equipment
@@ -95,7 +99,7 @@ For most people, participating in mining pools or simply buying cryptocurrencies
 - Cloud Mining: Renting mining power
 - Direct Purchase: Buying coins on exchanges
 
-Mining continues to be essential for blockchain security, but requires careful analysis before investing.
+Mining continues to be essential for [blockchain](/artigo/qu-es-blockchain-gua-completa-para-principiantes "¿Qué es Blockchain? Guía Completa para Principiantes") security, but requires careful analysis before investing.
 
 ## Start Investing in Cryptocurrencies
 

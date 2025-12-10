@@ -46,10 +46,14 @@ language: es
 alternateLanguages:
   pt: como-proteger-criptomoedas-guia-completo-seguranca
   en: how-to-protect-your-cryptocurrencies-a-comprehensive-security-guide
+metaTitle: 'Cómo Proteger Sus Criptomonedas: Guía Completa de Seguridad'
+metaDescription: >-
+  Descubre cómo proteger tus criptomonedas con nuestra guía completa de
+  seguridad. Aprende a preservar tus inversiones y evita ataques. Lee más!
 ---
-A seguridad de criptomoedas es fundamental para cualquier inversor en el mercado cripto. Con el aumento de hacks, golpes y ataques, saber cómo proteger adecuadamente sus activos digitales puede ser la diferencia entre preservar y perder sus inversiones.
+A seguridad de criptomoedas es fundamental para cualquier inversor en el mercado cripto. Con el aumento de hacks, golpes y ataques, saber cómo [proteger](/artigo/como-proteger-criptomoedas-guia-completo-seguranca "Como Proteger Suas Criptomoedas: Guia Completo de Segurança") adecuadamente sus activos digitales puede ser la diferencia entre preservar y perder sus inversiones.
 
-Este guía completo presenta las mejores prácticas, herramientas y estrategias para mantener sus criptomoedas seguras contra todas las amenazas conocidas.
+Este guía completo presenta las mejores prácticas, herramientas y estrategias para mantener sus [criptomoedas](/artigo/proteger-criptomoedas-guia-seguranca-completo "Como Proteger Suas Criptomoedas: Guia de Segurança Completo") seguras contra todas las amenazas conocidas.
 
 Tipos de Carteras y seguridad
 
@@ -73,7 +77,7 @@ Para uso diario, las carteiras software ofrecen conveniencia:
 
 Backup y Recuperação de Seeds
 
-La seed phrase es su clave maestra - perderla significa perder acceso permanente a sus fondos.
+La [seed](/artigo/seed-phrase-secure-wallet-backup-and-recovery "Seed Phrase: Secure Wallet Backup and Recovery") phrase es su clave maestra - perderla significa perder acceso permanente a sus fondos.
 
 Melhores Prácticas para Seeds
 
@@ -91,7 +95,7 @@ Produtos para Backup
 
 Autenticação de Dois Fatores (2FA)
 
-El 2FA agrega una capa extra de seguridad a todas sus cuentas:
+El 2FA agrega una capa extra de [seguridad](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") a todas sus cuentas:
 
 * Authenticator Apps: Google Authenticator, Authy
 * Hardware Keys: YubiKey, Titan Security Key

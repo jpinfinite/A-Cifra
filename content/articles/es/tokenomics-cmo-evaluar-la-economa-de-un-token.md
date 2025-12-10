@@ -30,8 +30,13 @@ language: es
 alternateLanguages:
   pt: tokenomics-avaliar-economia-token
   en: tokenomics-how-to-evaluate-the-economy-of-a-token
+metaTitle: 'Tokenomics: Cómo Evaluar la Economía de un Token'
+metaDescription: >-
+  Descubre cómo evaluar la economía de un token con tokenomics. Identifica
+  momentos de entrada y salida, gestiona riesgos y encuentra oportunidades de
+  inversión. Lee más sobre tokenomics en este artículo.
 ---
-Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora tokenomics: cómo evaluar la economía de un token.
+Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora [tokenomics](/artigo/tokenomics-how-to-evaluate-the-economy-of-a-token "Tokenomics: How to Evaluate the Economy of a Token"): cómo evaluar la economía de un token.
 
 ## Fundamentos del Análisis
 
@@ -104,6 +109,6 @@ Análisis de mercado es una habilidad que se desarrolla con práctica y estudio 
 
 ## 🚀 Comience a invertir en criptomonedas
 
-Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
+Para comprar las [criptomonedas](/artigo/cmo-analizar-criptomonedas-gua-completa-para-inversionistas "Cómo Analizar Criptomonedas: Guía Completa para Inversionistas") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />

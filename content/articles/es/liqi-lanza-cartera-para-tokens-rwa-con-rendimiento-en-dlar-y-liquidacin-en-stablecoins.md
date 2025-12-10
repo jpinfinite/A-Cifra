@@ -39,6 +39,10 @@ alternateLanguages:
     liqi-lana-carteira-para-tokens-rwa-com-rendimento-em-dlar-e-liquidao-em-stableco
   en: >-
     liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-settlement
+metaTitle: 'Liqi lanza cartera para tokens RWA con rendimiento en dólar '
+metaDescription: >-
+  Descubre la cartera de tokens RWA de Liqi con rendimiento en dólar y
+  liquidación en stablecoins. ¡Lee más sobre este lanzamiento innovador!
 ---
 # Liqi lanza cartilla para tokens RWA con tasa de rendimiento en dólares y liquidación en monedas estables
 

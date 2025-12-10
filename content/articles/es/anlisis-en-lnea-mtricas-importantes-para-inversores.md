@@ -30,14 +30,18 @@ alternateLanguages:
   pt: on-chain-analysis-metricas-importantes
   en: on-chain-analysis-key-metrics-for-investors
 language: es
+metaTitle: 'Análisis En Línea: Métricas Importantes para Inversores'
+metaDescription: >-
+  Descubre las métricas clave para inversores en análisis en línea y toma
+  decisiones informadas sobre inversiones en criptomonedas. Lee más!
 ---
-**Análise On-Chain: Métricas Importantes para Investidores**
+**Análise On-[Chain](/artigo/on-chain-analysis-key-metrics-for-investors "On-Chain Analysis: Key Metrics for Investors"): Métricas Importantes para Investidores**
 
-A análise on-chain é uma ferramenta fundamental para investidores de criptomoedas, pois fornece informações valiosas sobre o comportamento do mercado e as tendências futuras. Neste artigo, vamos explorar as métricas importantes para investidores e como elas podem ser utilizadas para tomar decisões informadas.
+A análise on-[chain](/artigo/anlisis-en-chain-mtricas-importantes-para-inversionistas "Análisis En-Chain: Métricas Importantes para Inversionistas") é uma ferramenta fundamental para investidores de criptomoedas, pois fornece informações valiosas sobre o comportamento do mercado e as tendências futuras. Neste artigo, vamos explorar as métricas importantes para investidores e como elas podem ser utilizadas para tomar decisões informadas.
 
 **O que é Análise On-Chain?**
 
-A análise on-chain é uma abordagem que analisa os dados de blockchain, como transações, blocos e rede, para entender o comportamento do mercado e as tendências futuras. Isso inclui a análise de métricas como volume de transação, taxa de transação, saldo de carteira, taxa de retorno e desvio padrão.
+A análise on-[chain](/artigo/anlisis-en-chain-mtricas-importantes-para-inversores "Análisis En-Chain: Métricas Importantes para Inversores") é uma abordagem que analisa os dados de blockchain, como transações, blocos e rede, para entender o comportamento do mercado e as tendências futuras. Isso inclui a análise de métricas como volume de transação, taxa de transação, saldo de carteira, taxa de retorno e desvio padrão.
 
 **Métricas Importantes para Investidores**
 
@@ -81,7 +85,7 @@ A adoção é uma das principais preocupações do mercado de criptomoedas. Em 2
 
 **Impactos no Mercado ou na Vida do Investidor**
 
-Aqui estão alguns impactos que a análise on-chain pode ter no mercado ou na vida do investidor:
+Aqui estão alguns impactos que a análise on-[chain](/artigo/on-chain-analysis-metricas-importantes "Análise On-Chain: Métricas Importantes para Investidores") pode ter no mercado ou na vida do investidor:
 
 ### **1. Decisões Informadas**
 

@@ -38,8 +38,12 @@ language: es
 alternateLanguages:
   pt: memecoins-utilitrias
   en: the-evolution-of-memecoins-from-joke-to-ecosystem
+metaTitle: 'La Evolución de las Memecoins: De Chiste para Ecossistema'
+metaDescription: >-
+  Descubre la evolución de las memecoins, desde chiste hasta ecossistema.
+  Aprende sobre su impacto en el mercado de criptomonedas y ¡lea más!
 ---
-A Evolución das Memecoins: De Piada para Ecossistema
+A Evolución das [Memecoins](/artigo/the-evolution-of-memecoins-from-joke-to-ecosystem "The Evolution of Memecoins: From Joke to Ecosystem"): De Piada para Ecossistema
 
 **A Era da Memecoin Utilitária**
 

@@ -41,6 +41,10 @@ alternateLanguages:
   pt: bitcoin-valorizacao-negativa-analise-mercado-baixista
   es: >-
     bitcoin-en-territorio-negativo-en-el-ao-anlisis-del-mercado-bajista-y-perspectivas
+metaTitle: 'Bitcoin in Negative Territory for the Year: Bear Market Anal'
+metaDescription: >-
+  Bitcoin in negative territory for the year: Discover the bear market analysis
+  and outlook. Read more!
 ---
 Here is the translated text:
 

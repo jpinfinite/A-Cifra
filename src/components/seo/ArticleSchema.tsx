@@ -14,6 +14,7 @@ interface ArticleSchemaProps {
   category: string
   tags: string[]
   wordCount?: number
+  language?: string
 }
 
 export function ArticleSchema({
@@ -26,7 +27,8 @@ export function ArticleSchema({
   url,
   category,
   tags,
-  wordCount
+  wordCount,
+  language = 'pt-BR'
 }: ArticleSchemaProps) {
   const schema = {
     '@context': 'https://schema.org',
@@ -58,7 +60,7 @@ export function ArticleSchema({
     },
     articleSection: category,
     keywords: tags.join(', '),
-    inLanguage: 'pt-BR',
+    inLanguage: language,
     ...(wordCount && { wordCount })
   }
 

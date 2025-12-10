@@ -39,12 +39,16 @@ alternateLanguages:
     liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-settlement
   es: >-
     liqi-lanza-cartera-para-tokens-rwa-con-rendimiento-en-dlar-y-liquidacin-en-stablecoins
+metaTitle: Liqi lança carteira para tokens RWA com rendimento em dólar...
+metaDescription: >-
+  Resumo da notícia: Liqi lança carteira para tokens RWA com rendimento em dólar
+  e liquidação em stablecoins.
 ---
 # Liqi lança carteira para tokens RWA com rendimento em dólar e liquidação em stablecoins
 
 **Introdução**
 
-A crescente popularidade das criptomoedas e dos tokens RWA (Tokens Representativos de Ativos) tem levado a uma necessidade crescente de soluções de armazenamento e gestão seguras e eficientes. Nesse contexto, a Liqi lança uma carteira especializada em tokens RWA, oferecendo uma nova opção para investidores e traders que buscam maximizar seus rendimentos em dólar e garantir a liquidação em stablecoins.
+A crescente popularidade das criptomoedas e dos tokens RWA (Tokens Representativos de Ativos) tem levado a uma necessidade crescente de soluções de armazenamento e gestão seguras e eficientes. Nesse contexto, a [Liqi](/artigo/liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-liquidation "Liqi launches token wallet for RWA with dollar yield and stablecoin liquidation.") lança uma carteira especializada em tokens RWA, oferecendo uma nova opção para investidores e traders que buscam maximizar seus rendimentos em dólar e garantir a liquidação em stablecoins.
 
 **O que são tokens RWA?**
 
@@ -60,9 +64,9 @@ A gestão de tokens RWA pode ser um desafio, pois requer uma compreensão profun
 
 **A Liqi e a carteira de tokens RWA**
 
-A Liqi é uma empresa de tecnologia financeira que se especializa em soluções de armazenamento e gestão de criptomoedas. Com a lançamento da carteira de tokens RWA, a Liqi oferece uma nova opção para investidores e traders que buscam maximizar seus rendimentos em dólar e garantir a liquidação em stablecoins.
+A [Liqi](/artigo/liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-settlement "Liqi launches token wallet for RWA with dollar yield and stablecoin settlement.") é uma empresa de tecnologia financeira que se especializa em soluções de armazenamento e gestão de criptomoedas. Com a lançamento da carteira de tokens RWA, a Liqi oferece uma nova opção para investidores e traders que buscam maximizar seus rendimentos em dólar e garantir a liquidação em stablecoins.
 
-**Características da carteira de tokens RWA da Liqi**
+**Características da carteira de tokens RWA da [Liqi](/artigo/liqi-lanza-cartera-para-tokens-rwa-con-rendimiento-en-dlar-y-liquidacin-en-stablecoins "Liqi lanza cartera para tokens RWA con rendimiento en dólar y liquidación en stablecoins.")**
 
 A carteira de tokens RWA da Liqi oferece as seguintes características:
 

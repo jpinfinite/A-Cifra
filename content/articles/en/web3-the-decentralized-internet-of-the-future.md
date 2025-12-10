@@ -39,10 +39,14 @@ language: en
 alternateLanguages:
   pt: web3-internet-descentralizada-futuro
   es: web3-la-internet-descentralizada-del-futuro
+metaTitle: 'Web3: The Decentralized Internet of the Future'
+metaDescription: >-
+  Discover the decentralized internet of the future with Web3, where users
+  control their data, identity, and digital assets. Read more!
 ---
 Web3: A Internet Descentralizada do Futuro
 
-Web3 representa a próxima evolução da internet, onde usuários têm controle sobre seus dados, identidade e ativos digitais através de tecnologias descentralizadas.
+[Web3](/artigo/web3-la-internet-descentralizada-del-futuro "Web3: La Internet Descentralizada del Futuro") representa a próxima evolução da internet, onde usuários têm controle sobre seus dados, identidade e ativos digitais através de tecnologias descentralizadas.
 
 Evolução da Internet
 
@@ -66,7 +70,7 @@ Web3 (Emergente): Read-Write-Own
 
 O Que é Web3?
 
-Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, onde usuários controlam seus dados e ativos.
+[Web3](/artigo/web3-internet-descentralizada-futuro "Web3: A Internet Descentralizada do Futuro") é a internet construída sobre blockchain e tecnologias descentralizadas, onde usuários controlam seus dados e ativos.
 
 Princípios Fundamentais
 
@@ -441,6 +445,6 @@ Web3 não é apenas sobre tecnologia - é sobre reimaginar como coordenamos, cri
 
 Comece a Investir em Criptomoedas
 
-Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+Para comprar as [criptomoedas](/artigo/como-funciona-mineracao-criptomoedas "Como Funciona a Mineração de Criptomoedas?") mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />

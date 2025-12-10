@@ -34,8 +34,13 @@ language: en
 alternateLanguages:
   pt: smart-contract-audits-importancia
   es: auditoras-de-contratos-inteligentes-por-qu-son-esenciales
+metaTitle: 'Smart Contract Audits: Why They Are Essential'
+metaDescription: >-
+  Discover why smart contract audits are essential for cryptocurrency security.
+  Learn about common risks and threats, and protect your assets today. Read
+  more!
 ---
-Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses smart contract audits: why they are essential.
+Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses [smart](/artigo/smart-contract-audits-importancia "Auditorias de Smart Contracts: Por Que São Essenciais") contract audits: why they are essential.
 
 Why Security is Crucial
 

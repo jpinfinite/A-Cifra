@@ -34,12 +34,16 @@ language: en
 alternateLanguages:
   pt: atomic-swaps-trocas-descentralizadas
   es: atomic-swaps-trocas-descentralizadas-entre-blockchains
+metaTitle: 'Atomic Swaps: Decentralized Exchanges Between Blockchains'
+metaDescription: >-
+  Unlock the power of decentralized exchanges with Atomic Swaps, a game-changing
+  concept in blockchain technology. Read more!
 ---
-This is a comprehensive guide that explores **Atomic Swaps** in detail and in an accessible way.
+This is a comprehensive guide that explores **[Atomic](/artigo/atomic-swaps-trocas-descentralizadas "Atomic Swaps: Trocas Descentralizadas Entre Blockchains") Swaps** in detail and in an accessible way.
 
 ## Introduction
 
-Understanding this concept is fundamental for anyone involved with cryptocurrencies and blockchain.
+Understanding this concept is fundamental for anyone involved with cryptocurrencies and [blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners").
 
 ## Key Concepts
 

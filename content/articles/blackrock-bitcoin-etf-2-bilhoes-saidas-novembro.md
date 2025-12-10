@@ -41,6 +41,11 @@ alternateLanguages:
   en: blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal
   es: >-
     blackrock---23-milardos-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales
+metaTitle: BlackRock - $2.3 Bilhões em Saídas do IBIT em Novembro São P...
+metaDescription: >-
+  Executivo da BlackRock afirma que $2.34 bilhões em saídas do ETF de Bitcoin
+  IBIT em novembro são normais após demanda que levou fundo perto de $100
+  bilhões...
 ---
 
 # BlackRock: $2.3 Bilhões em Saídas do IBIT em Novembro São "Perfeitamente Normais"
@@ -159,7 +164,7 @@ $2,34B parece muito, mas é apenas **4,5% do AUM** do IBIT.
 
 Se a maior gestora do mundo diz que é normal, provavelmente é.
 
-**Histórico:** BlackRock tem 40+ anos de experiência gerenciando trilhões.
+**Histórico:** [BlackRock](/artigo/blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal "BlackRock - $2.3 Billion in IBIT Exits in November are Perfectly Normal") tem 40+ anos de experiência gerenciando trilhões.
 
 ### Argumentos de Que PODE Ser Preocupante
 
@@ -270,7 +275,7 @@ IBIT tem volume diário de $1-2B. Fácil comprar/vender.
 
 **4. Marketing**
 
-BlackRock promoveu agressivamente para clientes institucionais.
+[BlackRock](/artigo/blackrock---23-billion-initime-withdrawals-from-ibit-in-november-are-perfectly-normal "BlackRock - $2.3 Billion initime Withdrawals from IBIT in November are Perfectly Normal") promoveu agressivamente para clientes institucionais.
 
 ## Impacto no Preço do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 
@@ -345,7 +350,7 @@ BlackRock promoveu agressivamente para clientes institucionais.
 
 ### 2. BlackRock vai fechar o IBIT?
 
-**Não.** IBIT é um dos produtos mais bem-sucedidos da BlackRock. Não há razão para fechar.
+**Não.** IBIT é um dos produtos mais bem-sucedidos da [BlackRock](/artigo/blackrock---23-billones-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales "BlackRock - $2.3 Billones en Salidas del IBIT en Noviembre Son Perfectamente Normales"). Não há razão para fechar.
 
 ### 3. Saídas significam que [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) vai cair?
 
@@ -361,7 +366,7 @@ BlackRock promoveu agressivamente para clientes institucionais.
 
 ### 6. Por que taxa do IBIT é tão baixa?
 
-**BlackRock pode se dar ao luxo** de cobrar pouco porque tem escala massiva. Lucra no volume.
+**[BlackRock](/artigo/blackrock---23-milardos-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales "BlackRock - $2.3 Milardos en Salidas del IBIT en Noviembre Son Perfectamente Normales") pode se dar ao luxo** de cobrar pouco porque tem escala massiva. Lucra no volume.
 
 ### 7. Outros ETFs vão sobreviver?
 

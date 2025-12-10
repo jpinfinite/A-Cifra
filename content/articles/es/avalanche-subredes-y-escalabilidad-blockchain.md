@@ -39,14 +39,19 @@ language: es
 alternateLanguages:
   pt: avalanche-subnets-escalabilidade-blockchain
   en: avalanche-subnets-and-blockchain-scalability
+metaTitle: 'Avalanche: Subredes y Escalabilidad Blockchain'
+metaDescription: >-
+  Descubre cómo Avalanche ofrece escalabilidad blockchain extrema, subredes
+  personalizadas y bajos costos. Lee más sobre su potencial revolucionario en la
+  tecnología blockchain.
 ---
 Avalanche: Subnets e Escalabilidade Blockchain
 
-O Avalanche é uma plataforma blockchain de alta performance que oferece escalabilidade extrema, baixas taxas e subnets customizáveis para casos de uso específicos.
+O [Avalanche](/artigo/avalanche-subnets-escalabilidade-blockchain "Avalanche: Subnets e Escalabilidade Blockchain") é uma plataforma blockchain de alta performance que oferece escalabilidade extrema, baixas taxas e subnets customizáveis para casos de uso específicos.
 
 ## O Que é Avalanche?
 
-Avalanche é uma plataforma de smart contracts que processa até 4.500 transações por segundo com finalidade em menos de 2 segundos.
+[Avalanche](/artigo/avalanche-subnets-and-blockchain-scalability "Avalanche: Subnets and Blockchain Scalability") é uma plataforma de smart contracts que processa até 4.500 transações por segundo com finalidade em menos de 2 segundos.
 
 ### Características Principais
 - **Velocidade**: Finalidade sub-segundo
@@ -248,7 +253,7 @@ AVAX é o token nativo com múltiplas funções:
 
 ## Conclusão
 
-O Avalanche é uma das blockchains mais tecnicamente avançadas, oferecendo velocidade, escalabilidade e customização através de subnets.
+O Avalanche é uma das blockchains mais tecnicamente avançadas, oferecendo velocidade, [escalabilidade](/artigo/polygon-zkevm-ethereum-escalabilidade "Polygon: zkEVM e Escalabilidade para Ethereum") e customização através de subnets.
 
 Com seu consenso inovador, compatibilidade com Ethereum e foco em casos de uso corporativos, o Avalanche está bem posicionado para crescimento.
 

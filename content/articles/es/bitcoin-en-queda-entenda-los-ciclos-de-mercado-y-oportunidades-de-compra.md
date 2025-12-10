@@ -48,6 +48,11 @@ alternateLanguages:
   pt: bitcoin-queda-ciclos-mercado-oportunidades
   en: bitcoin-in-decline-understand-market-cycles-and-buying-opportunities
 language: es
+metaTitle: Bitcoin en Queda? Entenda los Ciclos de Mercado y Oportunida
+metaDescription: >-
+  Descubre los ciclos de mercado y oportunidades de compra de Bitcoin. Entiende
+  por qué los inversores dicen que Bitcoin ha muerto y cómo aprovechar la
+  situación. Lee más!
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) em Queda? Entenda os Ciclos de Mercado e Oportunidades de Compra
 
@@ -87,7 +92,7 @@ Historicamente, o ciclo se repete com uma rima impressionante:
 Diferente do mercado de ações, no [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) podemos ver todas as transações. Isso nos dá "superpoderes" de análise.
 
 ### 1. MVRV Z-Score
-Este indicador compara o valor de mercado atual com o "valor justo" (preço médio que as pessoas pagaram pelos seus Bitcoins).
+Este indicador compara o valor de mercado atual com o "valor justo" (preço médio que as pessoas pagaram pelos seus [Bitcoins](/artigo/400-mil-bitcoins-saram-das-corretoras-desde-o-ano-passado-aponta-santiment "400 mil Bitcoins saíram das corretoras desde o ano passado, aponta Santiment")).
 *   **Zona Verde:** O preço está muito abaixo do valor justo. Historicamente, zona de compra geracional.
 *   **Zona Vermelha:** O preço está muito acima. Zona de bolha e venda.
 

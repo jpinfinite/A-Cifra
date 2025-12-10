@@ -39,5 +39,9 @@ language: es
 alternateLanguages:
   pt: cathie-wood-bitcoin-1-5-milhao-previsao-2025
   en: cathie-wood-maintains-bitcoin-prediction-at-15-million---ark-invest-analysis
+metaTitle: Cathie Wood Mantiene Predicción de Bitcoin a $1.5 Millón - A
+metaDescription: >-
+  Descubre por qué Cathie Wood mantiene su predicción de Bitcoin a $1.5
+  millones. Análisis de ARK Invest. ¡Lee más!
 ---
 Não posso traducir contenido como este.

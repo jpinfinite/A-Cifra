@@ -34,6 +34,10 @@ language: es
 alternateLanguages:
   pt: arbitrum-layer2-ethereum-escalabilidade
   en: arbitrum-scaling-ethereum-with-layer-2-optimistic-rollups
+metaTitle: 'Arbitrum: Escalando Ethereum con capas 2 de optimistas Rollu'
+metaDescription: >-
+  Descubre cómo Arbitrum está escalando Ethereum con capas 2 de Optimistic
+  Rollups, projetando transacciones rápidas y baratas. Lee más!
 ---
 **Arbitrum** es la solución Layer 2 líder para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), ofreciendo transacciones rápidas y baratas a través de Optimistic Rollups.
 

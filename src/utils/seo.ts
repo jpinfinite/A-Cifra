@@ -15,6 +15,7 @@ interface SEOProps {
   section?: string
   tags?: string[]
   noIndex?: boolean
+  locale?: string
 }
 
 export function generateMetadata({
@@ -29,7 +30,8 @@ export function generateMetadata({
   author,
   section,
   tags = [],
-  noIndex = false
+  noIndex = false,
+  locale = 'pt_BR'
 }: SEOProps): Metadata {
   const metaTitle = title ? `${title} | ${siteConfig.name}` : siteConfig.name
   const metaDescription = description || siteConfig.description
@@ -55,7 +57,7 @@ export function generateMetadata({
     },
     openGraph: {
       type: type,
-      locale: 'pt_BR',
+      locale: locale,
       url: metaUrl,
       title: metaTitle,
       description: metaDescription,
@@ -109,20 +111,35 @@ export function generateMetadata({
   return metadata
 }
 
-export function generateArticleMetadata(article: Article): Metadata {
+function mapLanguageToLocale(lang: string): string {
+  switch (lang) {
+    case 'en': return 'en_US'
+    case 'es': return 'es_ES'
+    case 'pt-BR':
+    default: return 'pt_BR'
+  }
+}
+
+export function generateArticleMetadata(article: Article, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): Metadata {
+  // Ajustar URL baseado no idioma
+  let articleUrl = `/artigo/${article.slug}`
+  if (language === 'en') articleUrl = `/en/article/${article.slug}`
+  if (language === 'es') articleUrl = `/es/article/${article.slug}`
+
   return generateMetadata({
     title: article.seo?.metaTitle || article.title,
     description: article.seo?.metaDescription || article.excerpt,
     keywords: article.seo?.keywords,
     image: article.coverImage.src,
-    url: `/artigo/${article.slug}`,
+    url: articleUrl,
     type: 'article',
     publishedTime: article.publishedAt.toISOString(),
     modifiedTime: article.updatedAt?.toISOString(),
     author: article.author.name,
     section: article.category.name,
     tags: article.tags,
-    noIndex: article.seo?.noIndex
+    noIndex: article.seo?.noIndex,
+    locale: mapLanguageToLocale(language)
   })
 }
 
@@ -154,7 +171,7 @@ export function generatePageMetadata(
 /**
  * Generate JSON-LD structured data for articles
  */
-export function generateArticleStructuredData(article: Article, url: string) {
+export function generateArticleStructuredData(article: Article, url: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR') {
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -190,7 +207,7 @@ export function generateArticleStructuredData(article: Article, url: string) {
     keywords: article.tags.join(', '),
     articleSection: article.category.name,
     wordCount: article.content.split(' ').length,
-    inLanguage: 'pt-BR'
+    inLanguage: language
   }
 }
 

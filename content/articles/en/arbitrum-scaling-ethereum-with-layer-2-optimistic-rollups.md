@@ -34,12 +34,16 @@ language: en
 alternateLanguages:
   pt: arbitrum-layer2-ethereum-escalabilidade
   es: arbitrum-escalando-ethereum-con-capas-2-optimistic-rollups
+metaTitle: 'Arbitrum: Scaling Ethereum with Layer 2 Optimistic Rollups'
+metaDescription: >-
+  Discover how Arbitrum scales Ethereum with Layer 2 Optimistic Rollups,
+  offering fast, cheap transactions and inherited security. Read more!
 ---
-Arbitrum is the leading Layer 2 solution for Ethereum, offering fast and cheap transactions through Optimistic Rollups.
+[Arbitrum](/artigo/arbitrum-layer2-ethereum-escalabilidade "Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups") is the leading Layer 2 solution for Ethereum, offering fast and cheap transactions through Optimistic Rollups.
 
 ## What is Arbitrum?
 
-Arbitrum processes transactions off-chain and publishes proofs on the Ethereum mainnet, reducing costs by up to 90%.
+[Arbitrum](/artigo/arbitrum-escalando-ethereum-con-capas-2-de-optimistas-rollups "Arbitrum: Escalando Ethereum con capas 2 de optimistas Rollups") processes transactions off-chain and publishes proofs on the Ethereum mainnet, reducing costs by up to 90%.
 
 ### Advantages
 
@@ -85,7 +89,7 @@ Arbitrum processes transactions off-chain and publishes proofs on the Ethereum m
 
 ## Conclusion
 
-Arbitrum is leading Ethereum scalability, offering a fast and cheap experience without compromising security.
+[Arbitrum](/artigo/arbitrum-escalando-ethereum-con-capas-2-de-optimistic-rollups "Arbitrum: Escalando Ethereum con capas 2 de Optimistic Rollups") is leading Ethereum scalability, offering a fast and cheap experience without compromising security.
 
 ## Launch Your Crypto Investment
 

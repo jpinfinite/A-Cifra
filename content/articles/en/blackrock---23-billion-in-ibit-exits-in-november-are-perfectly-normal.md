@@ -40,8 +40,12 @@ alternateLanguages:
   pt: blackrock-bitcoin-etf-2-bilhoes-saidas-novembro
   es: >-
     blackrock---23-milardos-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales
+metaTitle: BlackRock - $2.3 Billion in IBIT Exits in November are Perfe
+metaDescription: >-
+  BlackRock's $2.3 billion IBIT exit in November is normal, given the massive
+  demand that boosted the fund to nearly $100 billion in assets. Read more!
 ---
-BlackRock: $2.3 Bilhões em Saídas do IBIT em Novembro São "Perfeitamente Normais"
+[BlackRock](/artigo/blackrock-bitcoin-etf-2-bilhoes-saidas-novembro "BlackRock - $2.3 Bilhões em Saídas do IBIT em Novembro São Perfeitamente Normais"): $2.3 Bilhões em Saídas do IBIT em Novembro São "Perfeitamente Normais"
 
 **30 de novembro de 2025** - A BlackRock, maior gestora de ativos do mundo, afirmou que as **saídas de $2,34 bilhões** do seu ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (IBIT) em novembro são **"perfeitamente normais"** considerando que a demanda anterior havia levado o fundo perto de **$100 bilhões** em ativos.
 
@@ -157,7 +161,7 @@ $2,34B parece muito, mas é apenas **4,5% do AUM** do IBIT.
 
 Se a maior gestora do mundo diz que é normal, provavelmente é.
 
-**Histórico:** BlackRock tem 40+ anos de experiência gerenciando trilhões.
+**Histórico:** [BlackRock](/artigo/blackrock---23-billion-initime-withdrawals-from-ibit-in-november-are-perfectly-normal "BlackRock - $2.3 Billion initime Withdrawals from IBIT in November are Perfectly Normal") tem 40+ anos de experiência gerenciando trilhões.
 
 ### Argumentos de Que PODE Ser Preocupante
 
@@ -268,7 +272,7 @@ IBIT tem volume diário de $1-2B. Fácil comprar/vender.
 
 **4. Marketing**
 
-BlackRock promoveu agressivamente para clientes institucionais.
+[BlackRock](/artigo/blackrock---23-billones-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales "BlackRock - $2.3 Billones en Salidas del IBIT en Noviembre Son Perfectamente Normales") promoveu agressivamente para clientes institucionais.
 
 ## Impacto no Preço do [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
 

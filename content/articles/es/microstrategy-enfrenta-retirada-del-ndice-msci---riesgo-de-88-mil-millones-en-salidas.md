@@ -42,6 +42,11 @@ language: es
 alternateLanguages:
   pt: microstrategy-rio-remocao-indice-msci-8-bilhoes
   en: microstrategy-faces-msci-index-removal---risk-of-88-billion-in-outflows
+metaTitle: 'MicroStrategy Enfrenta Retirada del Índice MSCI - Riesgo de '
+metaDescription: >-
+  MicroStrategy enfrenta riesgo de remoción del índice MSCI, lo que podría
+  desencadenar salidas de hasta $8,8 mil millones. Leia más sobre la estrategia
+  de acumulación de bitcoin de la empresa.
 ---
 **3 de dezembro de 2025** - A **MicroStrategy (MSTR)** enfrenta uma ameaça significativa: possível **remoção do índice MSCI**, o que poderia desencadear **saídas de até $8,8 bilhões** de fundos passivos que rastreiam o índice. A notícia, reportada pela Reuters, coloca em risco a estratégia agressiva de acumulação de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) da empresa liderada por Michael Saylor.
 
@@ -49,7 +54,7 @@ alternateLanguages:
 
 ### MSCI Propõe Reclassificação
 
-**MSCI Inc.** (maior provedor de índices do mundo) está considerando **reclassificar empresas de "tesouraria de ativos digitais"** (Digital Asset Treasury - DAT), incluindo MicroStrategy.
+**MSCI Inc.** (maior provedor de índices do mundo) está considerando **reclassificar empresas de "tesouraria de ativos digitais"** (Digital Asset Treasury - DAT), incluindo [MicroStrategy](/artigo/microstrategy-faces-msci-index-removal---risk-of-88-billion-in-outflows "MicroStrategy Faces MSCI Index Removal - Risk of $8.8 Billion in Outflows").
 
 **Proposta:**
 - Remover DATs de índices principais
@@ -178,7 +183,7 @@ alternateLanguages:
 
 ### Contra-Argumentos
 
-**1. MicroStrategy ainda tem negócio de software**
+**1. [MicroStrategy](/artigo/microstrategy-enfrenta-retirada-del-ndice-msci---riesgo-de-88-mil-millones-en-retiros "MicroStrategy Enfrenta Retirada del Índice MSCI - Riesgo de $8,8 Mil millones en Retiros") ainda tem negócio de software**
 - Receita anual: $500M
 - Lucro operacional: $100M
 - Não é apenas holding de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
@@ -203,7 +208,7 @@ alternateLanguages:
 ### Declarações Públicas
 
 **Twitter/X (2 de dezembro):**
-> "MicroStrategy é uma empresa de software enterprise com a melhor tesouraria corporativa do mundo. Não vamos mudar nossa estratégia por causa de índices."
+> "[MicroStrategy](/artigo/microstrategy-enfrenta-retirada-del-ndice-msci---riesgo-de-88-milardos-en-salidas "MicroStrategy Enfrenta Retirada del Índice MSCI - Riesgo de $8,8 Milardos en Salidas") é uma empresa de software enterprise com a melhor tesouraria corporativa do mundo. Não vamos mudar nossa estratégia por causa de índices."
 
 **Entrevista à CNBC:**
 > "Se fundos passivos não querem MSTR, fundos ativos vão comprar. Não estamos preocupados."

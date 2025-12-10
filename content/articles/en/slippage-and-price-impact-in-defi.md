@@ -30,6 +30,10 @@ language: en
 alternateLanguages:
   pt: slippage-impacto-permanente-defi
   es: slippage-e-impacto-de-precio-en-defi
+metaTitle: Slippage and Price Impact in DeFi
+metaDescription: >-
+  Discover the impact of slippage and price volatility in DeFi, a crucial
+  concept for crypto enthusiasts. Read more!
 ---
 This comprehensive guide explores **Slippage and Price Impact in [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)** in detail and an accessible way.
 

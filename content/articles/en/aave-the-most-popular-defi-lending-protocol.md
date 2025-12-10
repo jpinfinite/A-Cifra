@@ -37,8 +37,12 @@ language: en
 alternateLanguages:
   pt: aave-protocolo-emprestimo-defi
   es: aave-el-protocolo-de-prstamos-defi-ms-popular
+metaTitle: 'Aave: The Most Popular DeFi Lending Protocol'
+metaDescription: >-
+  Discover Aave, the largest decentralized lending protocol, and learn how to
+  lend and borrow cryptocurrencies without intermediaries. Read more!
 ---
-The Aave is the largest decentralized lending protocol, allowing users to lend and borrow cryptocurrencies without intermediaries.
+The [Aave](/artigo/aave-protocolo-emprestimo-defi "Aave: O Protocolo de Empréstimos DeFi Mais Popular") is the largest decentralized lending protocol, allowing users to lend and borrow cryptocurrencies without intermediaries.
 
 ## What is Aave?
 
@@ -86,7 +90,7 @@ Instantaneous collateral-free loans:
 
 ## Conclusion
 
-Aave is ideal for earning passive income or accessing liquidity without selling assets.
+[Aave](/artigo/aave-el-protocolo-de-prstamos-defi-ms-popular "Aave: El Protocolo de Préstamos DeFi Más Popular") is ideal for earning passive income or accessing liquidity without selling assets.
 
 ## Launch Your Cryptocurrency Investment
 

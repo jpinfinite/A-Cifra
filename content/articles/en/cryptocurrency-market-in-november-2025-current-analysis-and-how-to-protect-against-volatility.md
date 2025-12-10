@@ -42,10 +42,14 @@ alternateLanguages:
   pt: mercado-cripto-novembro-2025-analise-protecao
   es: >-
     mercado-cripto-en-noviembre-2025-anlisis-actual-y-cmo-protegerse-de-la-volatilidad
+metaTitle: 'Cryptocurrency Market in November 2025: Current Analysis and'
+metaDescription: >-
+  Get the latest cryptocurrency market analysis for November 2025 and learn how
+  to protect your investments against volatility. Read more!
 ---
 # Mercado Cripto em Novembro 2025: Análise Atual e Como se Proteger da Volatilidade
 
-**Atualizado em:** 22 de Novembro de 2025, 21:30 BRT
+**Atualizado em:** 22 de [Novembro](/artigo/mercado-cripto-novembro-2025-analise-protecao "Mercado Cripto em Novembro 2025: Análise Atual e Como se Proteger da Volatilidade") de 2025, 21:30 BRT
 
 ## SITUAÇÃO ATUAL DO MERCADO
 

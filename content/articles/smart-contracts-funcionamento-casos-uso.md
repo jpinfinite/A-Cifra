@@ -33,25 +33,29 @@ seo:
 alternateLanguages:
   en: smart-contracts-how-they-work-and-real-world-use-cases
   es: contratos-inteligentes-cmo-funcionan-y-casos-de-uso-reales
+metaTitle: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
+metaDescription: >-
+  Guia completo sobre smart contracts, desde o básico até aplicações práticas no
+  mundo real.
 ---
 
-**Smart Contracts: Uma Revolução na Tecnologia da Informação**
+**[Smart](/artigo/smart-contracts-how-they-work-and-real-world-use-cases "Smart Contracts: How They Work and Real-World Use Cases") Contracts: Uma Revolução na Tecnologia da Informação**
 ===========================================================
 
 **Introdução**
 ------------
 
-Os smart contracts são uma das tecnologias mais inovadoras e promissoras da atualidade, revolucionando a forma como as transações e contratos são gerenciados. Com a crescente adoção da blockchain e da Internet das Coisas (IoT), os smart contracts estão se tornando cada vez mais importantes em diversas áreas, desde finanças até governança e segurança.
+Os smart contracts são uma das tecnologias mais inovadoras e promissoras da atualidade, revolucionando a forma como as transações e [contratos](/artigo/contratos-inteligentes-cmo-funcionan-y-casos-de-uso-reales "Contratos Inteligentes: Cómo Funcionan y Casos de Uso Reales") são gerenciados. Com a crescente adoção da blockchain e da Internet das Coisas (IoT), os smart contracts estão se tornando cada vez mais importantes em diversas áreas, desde finanças até governança e segurança.
 
 **O que são Smart Contracts?**
 -----------------------------
 
-Um smart contract é um programa de computador que executa automaticamente quando determinadas condições são atendidas. Ele é uma combinação de um contrato e um programa de computador, que é executado em uma rede de computadores descentralizada, como a blockchain. Os smart contracts são escritos em linguagens de programação específicas, como Solidity, e são executados em uma plataforma de blockchain, como Ethereum.
+Um smart contract é um programa de computador que executa automaticamente quando determinadas condições são atendidas. Ele é uma combinação de um contrato e um programa de computador, que é executado em uma rede de computadores descentralizada, como a blockchain. Os smart contracts são escritos em linguagens de programação específicas, como Solidity, e são executados em uma plataforma de blockchain, como [Ethereum](/artigo/ethereum-gas-fees-how-to-save-on-transactions "Ethereum Gas Fees: How to Save on Transactions").
 
 **História dos Smart Contracts**
 -------------------------------
 
-A ideia de smart contracts foi proposta pelo criptógrafo Nick Szabo em 1994, mas foi apenas em 2014 que o Ethereum, uma plataforma de blockchain, foi lançada e permitiu a execução de smart contracts de forma prática. Desde então, os smart contracts têm sido amplamente adotados em diversas áreas, incluindo finanças, governança, segurança e IoT.
+A ideia de smart contracts foi proposta pelo criptógrafo Nick Szabo em 1994, mas foi apenas em 2014 que o [Ethereum](/artigo/gastos-de-gas-en-ethereum-cmo-ahorrar-en-transacciones "Gastos de Gas en Ethereum: Cómo Ahorrar en Transacciones"), uma plataforma de blockchain, foi lançada e permitiu a execução de smart contracts de forma prática. Desde então, os smart contracts têm sido amplamente adotados em diversas áreas, incluindo finanças, governança, segurança e IoT.
 
 **Importância Atual dos Smart Contracts**
 ----------------------------------------

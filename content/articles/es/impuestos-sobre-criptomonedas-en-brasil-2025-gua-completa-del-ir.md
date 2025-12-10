@@ -38,14 +38,18 @@ language: es
 alternateLanguages:
   pt: impostos-criptomoedas-brasil-ir-2025
   en: cryptocurrency-taxes-in-brazil-2025-complete-guide-to-ir
+metaTitle: 'Impuestos sobre Criptomonedas en Brasil 2025: Guía Completa '
+metaDescription: >-
+  Descubre la guía completa sobre impuestos sobre criptomonedas en Brasil 2025:
+  cómo declarar, cuánto pagar y cómo calcular. Lee más!
 ---
-Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR
+[Impostos](/artigo/impostos-criptomoedas-brasil-ir-2025 "Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR") sobre Criptomoedas no Brasil 2025: Guia Completo do IR
 
-Muitos investidores de criptomoedas têm dúvidas sobre impostos: **preciso declarar? Quanto pago? Como calcular?** Este guia responde TODAS essas perguntas.
+Muitos investidores de [criptomoedas](/artigo/carteira-criptomoedas-iniciantes-diversificacao-2025 "Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia") têm dúvidas sobre impostos: **preciso declarar? Quanto pago? Como calcular?** Este guia responde TODAS essas perguntas.
 
-A boa notícia: **declarar cripto é mais simples do que parece**. A má notícia: **não declarar pode resultar em multas pesadas**.
+A boa notícia: **declarar [cripto](/artigo/como-investir-cripto-iniciantes-2026 "Como Investir em Cripto: Guia Completo para Iniciantes 2026") é mais simples do que parece**. A má notícia: **não declarar pode resultar em multas pesadas**.
 
-Vamos descomplicar tudo neste guia definitivo atualizado para 2025.
+Vamos descomplicar tudo neste [guia](/artigo/como-funcionam-stablecoins-guia-completo-2025 "Como Funcionam as Stablecoins: Guia Completo para Iniciantes 2025") definitivo atualizado para 2025.
 
 ## Regras Básicas: O Que Você Precisa Saber
 

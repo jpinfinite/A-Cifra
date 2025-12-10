@@ -37,8 +37,12 @@ language: es
 alternateLanguages:
   pt: aave-protocolo-emprestimo-defi
   en: aave-the-most-popular-defi-lending-protocol
+metaTitle: 'Aave: El Protocolo de Préstamos DeFi Más Popular'
+metaDescription: >-
+  Descubre cómo funciona Aave, el protocolo de préstamos DeFi más popular, y
+  comienza a prestar y pedir prestado criptomonedas sin intermediarios. Lee más!
 ---
-El protocolo Aave es el mayor protocolo de empréstitos descentralizados, que permite prestar y pedir prestado criptomonedas sin intermediarios.
+El protocolo [Aave](/artigo/aave-protocolo-emprestimo-defi "Aave: O Protocolo de Empréstimos DeFi Mais Popular") es el mayor protocolo de empréstitos descentralizados, que permite prestar y pedir prestado criptomonedas sin intermediarios.
 
 ## ¿Qué es Aave?
 
@@ -87,7 +91,7 @@ Préstamos sin colateral:
 
 ## Conclusión
 
-Aave es ideal para ganar ingresos pasivos o acceder a liquidez sin vender activos.
+[Aave](/artigo/aave-the-most-popular-defi-lending-protocol "Aave: The Most Popular DeFi Lending Protocol") es ideal para ganar ingresos pasivos o acceder a liquidez sin vender activos.
 
 ## 🚀 Comienza a invertir en criptomonedas
 

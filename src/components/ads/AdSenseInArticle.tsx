@@ -28,7 +28,7 @@ export function AdSenseInArticle({
           (window.adsbygoogle = window.adsbygoogle || []).push({})
         }
       } catch {
-        // AdSense error handled silently
+        // Ignore errors in dev (strict mode)
       }
     }
   }, [isMounted])
@@ -44,7 +44,7 @@ export function AdSenseInArticle({
   }
 
   return (
-    <div className={`my-8 ${className}`}>
+    <div className={`my-8 ${className} min-h-[280px]`}>
       <ins
         className="adsbygoogle"
         style={{ display: 'block', textAlign: 'center' }}

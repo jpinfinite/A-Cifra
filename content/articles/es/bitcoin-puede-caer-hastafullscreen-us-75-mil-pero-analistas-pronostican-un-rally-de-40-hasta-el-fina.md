@@ -43,6 +43,10 @@ alternateLanguages:
   en: >-
     bitcoin-could-fall-to-75-million-but-analysts-predict-a-40-rally-by-the-end-of-2025
 language: es
+metaTitle: 'Bitcoin Puede Caer hastaFullscreen US$ 75 Mil, Pero Analista'
+metaDescription: >-
+  Descubre si Bitcoin caerá hasta US$ 75 mil o experimentará un rally de 40% en
+  2025. Analiza el mercado y toma una decisión informada. Lee más!
 ---
 O Cenário Atual: [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Rompe Suporte Crítico
 

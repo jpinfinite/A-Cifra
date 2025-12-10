@@ -45,6 +45,11 @@ language: es
 alternateLanguages:
   pt: carteira-fria-vs-quente-guia-seguranca-2025
   en: cold-wallet-vs-hot-wallet---the-definitive-crypto-security-guide-2025
+metaTitle: Carteira Fria vs Quente - Guía Definitiva de Seguridad Cript
+metaDescription: >-
+  Descubre la seguridad cripto con nuestra guía definitiva de Carteira Fria vs
+  Quente. Aprende a proteger tus fondos y sigue nuestros consejos para mantener
+  tu criptomoneda segura. Lee más!
 ---
 1. Faça backup da seed phrase em local seguro.
 2. Não compartilhe seed phrase com ninguém.

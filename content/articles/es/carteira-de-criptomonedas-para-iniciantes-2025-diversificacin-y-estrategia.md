@@ -37,12 +37,17 @@ language: es
 alternateLanguages:
   pt: carteira-criptomoedas-iniciantes-diversificacao-2025
   en: cryptocurrency-portfolio-for-beginners-2025-diversification-and-strategy
+metaTitle: 'Carteira de Criptomonedas para Iniciantes 2025: Diversificac'
+metaDescription: >-
+  Conoce la estrategia para montar una carteira de criptomonedas para iniciantes
+  en 2025 y diversificar tus inversiones. Lee más sobre las mejores prácticas
+  para inversores principiantes.
 ---
 # Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia
 
-Você já comprou suas primeiras criptomoedas, mas agora surge a dúvida: **quanto colocar em cada uma? Como diversificar? Quando rebalancear?**
+Você já comprou suas primeiras [criptomoedas](/artigo/como-investir-criptomoedas-2025-guia-completo "Como Investir em Criptomoedas em 2025: Guia Completo do Zero ao Avançado"), mas agora surge a dúvida: **quanto colocar em cada uma? Como diversificar? Quando rebalancear?**
 
-Montar uma carteira equilibrada é a diferença entre **crescimento sustentável** e **perdas desnecessárias**. Neste guia, você vai aprender a construir um portfólio sólido, adaptado ao seu perfil de risco.
+Montar uma [carteira](/artigo/carteira-criptomoedas-iniciantes-diversificacao-2025 "Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia") equilibrada é a diferença entre **crescimento sustentável** e **perdas desnecessárias**. Neste guia, você vai aprender a construir um portfólio sólido, adaptado ao seu perfil de risco.
 
 ## Por Que Diversificar?
 

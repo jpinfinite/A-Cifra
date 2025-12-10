@@ -37,8 +37,13 @@ alternateLanguages:
   pt: como-usar-pancakeswap-tutorial
   en: how-to-use-pancakeswap-a-complete-tutorial-on-bsc
 language: es
+metaTitle: 'Cómo Usar el PancakeSwap: Tutorial Completo en BSC'
+metaDescription: >-
+  Descubre cómo usar PancakeSwap de manera segura y efectiva en la Binance Smart
+  Chain con nuestro tutorial completo. Conecta tu MetaMask y comienza a navegar
+  por la mayor DEX de BSC. ¡Lee más!
 ---
-O PancakeSwap es la mayor DEX de la Binance Smart Chain. Aprende a usar todas las funcionalidades.
+O PancakeSwap es la mayor DEX de la Binance Smart Chain. Aprende a [usar](/artigo/como-usar-pancakeswap-tutorial "Como Usar o PancakeSwap: Tutorial Completo na BSC") todas las funcionalidades.
 
 ## Configurar MetaMask para BSC
 

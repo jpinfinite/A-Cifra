@@ -40,6 +40,8 @@ alternateLanguages:
   pt: bitcoin-95k-thanksgiving-2025-analise
   es: >-
     bitcoin-busca-romper-95k-en-accin-de-accin-de-gracias-2025---anlisis-del-rally
+metaTitle: Bitcoin Seeks to Break $95K on Thanksgiving 2025 - Rally Ana
+metaDescription: Bitcoin seeks to break $95K on Thanksgiving 2025. Will it succeed? Read more!
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Busca Romper $95K no Thanksgiving 2025 - Análise do Rally
 
@@ -53,7 +55,7 @@ Após uma correção de **$99.800 para $92.000** na semana passada (queda de 7,8
 
 - **21/nov:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) atinge ATH de $99.800
 - **23/nov:** Correção para $92.000 (realização de lucros)
-- **25/nov:** Início da recuperação, rompe $93.000
+- **25/nov:** Início da [recupera](/artigo/bitcoin-recupera-93-mil-analise-dezembro-2025 "Bitcoin Recupera $93 Mil Após Correção: Analistas Preveem Retorno aos recupera00k em Dezembro")ção, rompe $93.000
 - **27/nov (hoje):** Testa $94.500, busca $95.000
 
 ## Análise Técnica: Níveis-Chave

@@ -34,8 +34,12 @@ language: en
 alternateLanguages:
   pt: vpn-tor-privacidade-transacoes-cripto
   es: vpn-y-tor-incrementando-la-privacidad-en-transacciones-criptogrficas
+metaTitle: 'VPN and Tor: Increasing Privacy in Crypto Transactions'
+metaDescription: >-
+  Boost crypto transaction security with VPN and Tor, protecting against hacks,
+  phishing, and malware. Read more!
 ---
-Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses VPN and Tor: increasing privacy in crypto transactions.
+Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses VPN and Tor: increasing [privacy](/artigo/kyc-and-aml-privacy-vs-regulation-in-crypto "KYC and AML: Privacy vs Regulation in Crypto") in crypto transactions.
 
 Why Security is Crucial
 

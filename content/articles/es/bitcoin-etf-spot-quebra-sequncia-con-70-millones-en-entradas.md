@@ -37,6 +37,10 @@ language: es
 alternateLanguages:
   pt: bitcoin-etf-spot-quebra-sequencia-saidas-70-milhoes
   en: bitcoin-etf-spot-breaks-sequence-with-70-million-in-inflows
+metaTitle: Bitcoin ETF Spot Quebra Sequência con $70 Millones en Entrad
+metaDescription: >-
+  Descubre cómo los ETFs de Bitcoin spot en EUA rompieron la secuencia de 5 días
+  consecutivos de salida, con $70 millones en entradas líquidas. Lee más!
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) ETF Spot Quebra Sequência de Saídas com $70 Milhões em Entradas
 
@@ -45,7 +49,7 @@ alternateLanguages:
 ## Resumo Rápido
 
 - ✅ **$70M em entradas** após 5 dias de saídas
-- ✅ BlackRock IBIT lidera com **$40M** em entradas
+- ✅ [BlackRock](/artigo/blackrock-bitcoin-etf-2-bilhoes-saidas-novembro "BlackRock - $2.3 Bilhões em Saídas do IBIT em Novembro São Perfeitamente Normais") IBIT lidera com **$40M** em entradas
 - ✅ Fidelity FBTC adiciona **$25M**
 - ✅ [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) reage positivamente, sobe 2,3%
 - ⚠️ Grayscale GBTC continua com saídas de **$15M**
@@ -344,7 +348,7 @@ alternateLanguages:
 
 ### 5. Qual ETF é melhor?
 
-**BlackRock IBIT** ou **Fidelity FBTC** (ambos 0,25% de taxa, alta liquidez).
+**[BlackRock](/artigo/blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal "BlackRock - $2.3 Billion in IBIT Exits in November are Perfectly Normal") IBIT** ou **Fidelity FBTC** (ambos 0,25% de taxa, alta liquidez).
 
 ### 6. Fluxos de ETF afetam o preço?
 

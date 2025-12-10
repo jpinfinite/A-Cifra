@@ -36,8 +36,12 @@ alternateLanguages:
   pt: 400-mil-bitcoins-saram-das-corretoras-desde-o-ano-passado-aponta-santiment
   es: >-
     400-mil-bitcoins-salieron-de-las-corretoras-desde-el-ao-pasado-apunta-santiment
+metaTitle: Approximately 400 million Bitcoins have left exchanges since
+metaDescription: >-
+  Discover the significance of 400,000 Bitcoins leaving exchanges since last
+  year, according to Santiment. Read more!
 ---
-400,000 Bitcoins Have Been Withdrawn from Exchanges Since Last Year, Says Santiment
+400,000 [Bitcoins](/artigo/400-mil-bitcoins-salieron-de-las-corretoras-desde-el-ao-pasado-apunta-santiment "400 mil Bitcoins salieron de las corretoras desde el año pasado, apunta Santiment") Have Been Withdrawn from Exchanges Since Last Year, Says Santiment
 
 **The Significance of 400,000 Bitcoins Leaving Exchanges: What Does It Mean for the Crypto Market?**
 

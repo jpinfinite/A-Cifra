@@ -38,8 +38,13 @@ language: es
 alternateLanguages:
   pt: como-comprar-primeira-criptomoeda
   en: how-to-buy-your-first-cryptocurrency-step-by-step-guide
+metaTitle: 'Cómo Comprar Su Primera Criptomoneda: Guía Paso a Paso'
+metaDescription: >-
+  Descubre cómo comprar tu primera criptomoneda de manera segura y fácil con
+  nuestra guía paso a paso. Elige la exchange adecuada y regístrate para empezar
+  a invertir en criptomonedas. Lee más!
 ---
-Comprar su primera criptomoneda puede parecer complicado, pero este guía paso a paso va a simplificar todo el proceso.
+[Comprar](/artigo/como-comprar-primeira-criptomoeda "Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo") su primera criptomoneda puede parecer complicado, pero este guía paso a paso va a simplificar todo el proceso.
 
 ## Paso 1: Elige una exchange
 

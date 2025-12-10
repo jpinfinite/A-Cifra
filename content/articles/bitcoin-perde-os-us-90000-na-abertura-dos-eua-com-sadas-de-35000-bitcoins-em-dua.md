@@ -38,18 +38,22 @@ alternateLanguages:
     bitcoin-loses-90000-at-us-opening-with-35000-bitcoin-exits-from-exchanges-in-two-weeks
   es: >-
     bitcoin-pierde-los-us-90000-en-la-apertura-de-los-eeuu-con-salidas-de-35000-bitcoins-en-dos-semanas
+metaTitle: Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas d...
+metaDescription: >-
+  Resumo da notícia: Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas
+  de 35.000 Bitcoins em duas semanas das exchanges.
 ---
 # Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges
 
-**O Mercado de Criptomoedas em Tempos de Volatilidade: O Caso do Bitcoin e a Saída de 35.000 Bitcoins em Duas Semanas**
+**O Mercado de Criptomoedas em Tempos de Volatilidade: O Caso do [Bitcoin](/artigo/bitcoin-limitado-a-us-100-mil-analista-prev-novas-quedas-em-meio-a-riscos-macroe "Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos macroeconômicos") e a Saída de 35.000 Bitcoins em Duas Semanas**
 
-O mercado de criptomoedas tem sido um dos mais voláteis e dinâmicos da história financeira moderna. Desde a sua criação, o Bitcoin, a primeira e mais conhecida criptomoeda, tem sido objeto de fascínio e especulação por parte de investidores, especialistas e o público em geral. No entanto, nos últimos tempos, o mercado de criptomoedas tem enfrentado uma série de desafios, incluindo a concorrência de outras criptomoedas, a regulamentação governamental e a volatilidade dos preços.
+O mercado de criptomoedas tem sido um dos mais voláteis e dinâmicos da história financeira moderna. Desde a sua criação, o [Bitcoin](/artigo/bitcoin-capped-at-1-million-analyst-predicts-new-falls-amidst-macroeconomic-risks "Bitcoin capped at Bitcoin million? Analyst predicts new falls amidst macroeconomic risks"), a primeira e mais conhecida criptomoeda, tem sido objeto de fascínio e especulação por parte de investidores, especialistas e o público em geral. No entanto, nos últimos tempos, o mercado de criptomoedas tem enfrentado uma série de desafios, incluindo a concorrência de outras criptomoedas, a regulamentação governamental e a volatilidade dos preços.
 
-Nesse contexto, o caso do Bitcoin e a saída de 35.000 Bitcoins em duas semanas das exchanges é um exemplo chocante da volatilidade do mercado de criptomoedas. Em 19 de novembro de 2022, o Bitcoin abriu em cerca de US$ 90.000, mas logo caiu para cerca de US$ 45.000 no mesmo dia, uma perda de mais de 50% do valor inicial. Essa queda foi a mais acentuada desde a crise de 2017 e levou a uma saída massiva de investidores do mercado.
+Nesse contexto, o caso do Bitcoin e a saída de 35.000 [Bitcoins](/artigo/approximately-400-million-bitcoins-have-left-exchanges-since-last-year-according-to-santiment "Approximately 400 million Bitcoins have left exchanges since last year, according to Santiment.") em duas semanas das exchanges é um exemplo chocante da volatilidade do mercado de criptomoedas. Em 19 de novembro de 2022, o Bitcoin abriu em cerca de US$ 90.000, mas logo caiu para cerca de US$ 45.000 no mesmo dia, uma perda de mais de 50% do valor inicial. Essa queda foi a mais acentuada desde a crise de 2017 e levou a uma saída massiva de investidores do mercado.
 
 A saída de 35.000 Bitcoins em duas semanas das exchanges é um indicador claro da perda de confiança dos investidores no mercado de criptomoedas. Além disso, essa saída também reflete a volatilidade do mercado e a dificuldade de prever os movimentos dos preços. A perda de US$ 90.000 em uma única abertura é um exemplo da volatilidade do mercado e da necessidade de cautela e planejamento para investir no mercado de criptomoedas.
 
-A importância do mercado de criptomoedas é cada vez maior, e o Bitcoin é um dos principais ativos desse mercado. No entanto, a volatilidade do mercado e a concorrência de outras criptomoedas têm levado a uma perda de confiança dos investidores. Além disso, a regulamentação governamental e a concorrência de outras formas de investimento também têm afetado o mercado de criptomoedas.
+A importância do mercado de criptomoedas é cada vez maior, e o [Bitcoin](/artigo/bitcoin-capped-at-100000-analyst-foresees-new-falls-amidst-macroeconomic-risks "Bitcoin capped at Bitcoin00,000? Analyst foresees new falls amidst macroeconomic risks") é um dos principais ativos desse mercado. No entanto, a volatilidade do mercado e a concorrência de outras criptomoedas têm levado a uma perda de confiança dos investidores. Além disso, a regulamentação governamental e a concorrência de outras formas de investimento também têm afetado o mercado de criptomoedas.
 
 No entanto, apesar desses desafios, o mercado de criptomoedas continua a ser um dos mais dinâmicos e promissores da história financeira moderna. O Bitcoin e outras criptomoedas têm o potencial de revolucionar a forma como as pessoas investem e trocam valores. Além disso, a tecnologia por trás das criptomoedas, como a blockchain, tem aplicações em diversas áreas, incluindo a segurança, a eficiência e a transparência.
 

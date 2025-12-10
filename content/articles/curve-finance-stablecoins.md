@@ -36,17 +36,21 @@ seo:
 alternateLanguages:
   en: curve-finance-a-dex-specialized-in-stablecoins
   es: curve-finance-una-dex-especializada-en-monedas-estables
+metaTitle: 'Curve Finance: A DEX Especializada em Stablecoins'
+metaDescription: >-
+  Entenda o Curve Finance, a DEX otimizada para stablecoins com baixo slippage,
+  altos rendimentos e o token CRV.
 ---
 
-**Curve Finance: A DEX Especializada em Stablecoins**
+**[Curve](/artigo/curve-finance-a-dex-specialized-in-stablecoins "Curve Finance: A DEX Specialized in Stablecoins") Finance: A DEX Especializada em Stablecoins**
 ===========================================================
 
-Uma das principais tendências do mercado de criptomoedas nos últimos anos é a ascensão das exchanges descentralizadas (DEX), que permitem aos usuários realizar operações de compra e venda de ativos de forma segura e transparente, sem a necessidade de confiar em intermediários centrais. Dentro desse contexto, uma das DEXs mais promissoras é a Curve Finance, especializada em stablecoins e que tem se destacado por sua inovação e eficiência.
+Uma das principais tendências do mercado de criptomoedas nos últimos anos é a ascensão das exchanges descentralizadas (DEX), que permitem aos usuários realizar operações de compra e venda de ativos de forma segura e transparente, sem a necessidade de confiar em intermediários centrais. Dentro desse contexto, uma das DEXs mais promissoras é a [Curve](/artigo/curve-finance-una-dex-especializada-en-monedas-estables "Curve Finance: Una DEX especializada en monedas estables") Finance, especializada em stablecoins e que tem se destacado por sua inovação e eficiência.
 
 **O que são Stablecoins?**
 -------------------------
 
-Antes de mergulhar na discussão sobre a Curve Finance, é importante entender o que são stablecoins. As stablecoins são uma classe de criptomoedas que buscam manter um valor estável em relação a uma moeda de referência, como o dólar americano. Isso é feito por meio de uma variedade de estratégias, incluindo a reserva de ativos em moedas fiduciárias, a empréstimo de ativos em outras criptomoedas ou a utilização de protocolos de estabilização de preços.
+Antes de mergulhar na discussão sobre a [Curve](/artigo/curve-finance-una-dex-especializada-en-stablecoins "Curve Finance: Una DEX especializada en Stablecoins") Finance, é importante entender o que são stablecoins. As stablecoins são uma classe de criptomoedas que buscam manter um valor estável em relação a uma moeda de referência, como o dólar americano. Isso é feito por meio de uma variedade de estratégias, incluindo a reserva de ativos em moedas fiduciárias, a empréstimo de ativos em outras criptomoedas ou a utilização de protocolos de estabilização de preços.
 
 As stablecoins foram criadas para mitigar os riscos associados à volatilidade das criptomoedas tradicionais, como Bitcoin e Ethereum. Elas permitem aos usuários realizar transações de valor sem ter que lidar com a incerteza da volatilidade do mercado. Além disso, as stablecoins também oferecem uma alternativa para os usuários que buscam evitar a cunhagem de moedas fiduciárias tradicionais.
 
@@ -64,7 +68,7 @@ As DEXs também oferecem uma variedade de benefícios, incluindo:
 **A Curve Finance**
 -------------------
 
-A Curve Finance é uma DEX especializada em stablecoins. Ela foi criada para permitir que os usuários realizem operações de compra e venda de stablecoins de forma segura e transparente. A Curve Finance utiliza uma variedade de estratégias para estabilizar os preços das stablecoins, incluindo a reserva de ativos em moedas fiduciárias e a empréstimo de ativos em outras criptomoedas.
+A Curve [Finance](/artigo/compound-finance-lending "Compound Finance: Protocolo de Empréstimos Autônomos") é uma DEX especializada em stablecoins. Ela foi criada para permitir que os usuários realizem operações de compra e venda de stablecoins de forma segura e transparente. A Curve Finance utiliza uma variedade de estratégias para estabilizar os preços das stablecoins, incluindo a reserva de ativos em moedas fiduciárias e a empréstimo de ativos em outras criptomoedas.
 
 A Curve Finance também oferece uma variedade de benefícios, incluindo:
 

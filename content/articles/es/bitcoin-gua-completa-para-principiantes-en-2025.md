@@ -34,6 +34,10 @@ seo:
     - criptomoeda
     - guia iniciantes
     - investimento cripto
+metaTitle: 'Bitcoin: Guía Completa para Principiantes en 2025'
+metaDescription: >-
+  Descubre la guía completa de Bitcoin para principiantes en 2025. Aprende sobre
+  su creación, características y futuro. Lee más!
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Guia Completo para Iniciantes em 2025
 
@@ -61,7 +65,7 @@ Neste guia completo, você aprenderá tudo o que precisa saber para começar no 
 
 **Transparência**
 - Todas as transações são públicas na blockchain
-- Qualquer pessoa pode verificar o histórico completo
+- Qualquer pessoa pode verificar o histórico [completo](/artigo/bitcoin-guia-completo-iniciantes-2025 "Bitcoin: Guia Completo para Iniciantes em 2025")
 - Pseudonimato: endereços não revelam identidade diretamente
 
 **[segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)**

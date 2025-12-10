@@ -42,11 +42,16 @@ alternateLanguages:
     how-to-declare-cryptocurrencies-in-the-2025-income-tax---complete-step-by-step-guide
   es: >-
     cmo-declarar-criptomonedas-en-el-impuesto-de-renta-2025---gua-completa-paso-a-paso
+metaTitle: Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia C...
+metaDescription: >-
+  Guia completo para declarar criptomoedas no IR 2025. Passo a passo, tabela de
+  alíquotas, isenções, DeFi, staking e como evitar malha fina. Atualizado com
+  n...
 ---
 
 # Como Declarar Criptomoedas no Imposto de Renda 2025 - Guia Completo Passo a Passo
 
-A Receita Federal brasileira está cada vez mais atenta às operações com criptomoedas. Em 2025, as regras estão mais claras e a fiscalização mais rigorosa. **Não declarar criptomoedas pode resultar em multas de até 225% do imposto devido**, além de processos criminais por sonegação.
+A Receita Federal brasileira está cada vez mais atenta às operações com criptomoedas. Em 2025, as regras estão mais claras e a fiscalização mais rigorosa. **Não [declarar](/artigo/cmo-declarar-criptomonedas-en-el-impuesto-de-renta-2025---gua-completa-paso-a-paso "Cómo Declarar Criptomonedas en el Impuesto de Renta 2025 - Guía Completa Paso a Paso") criptomoedas pode resultar em multas de até 225% do imposto devido**, além de processos criminais por sonegação.
 
 Neste guia completo e atualizado, você vai aprender tudo sobre como declarar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), altcoins, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), NFTs e outras operações com criptomoedas no Imposto de Renda 2025. Vamos cobrir desde o básico até situações complexas, sempre com exemplos práticos.
 
@@ -343,7 +348,7 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 
 **Correto:** TODAS exchanges (Binance, Coinbase, Kraken, etc.) devem ser declaradas.
 
-**Como evitar:** Liste todas plataformas que usou e declare saldos.
+**Como evitar:** Liste todas plataformas que usou e [declare](/artigo/how-to-declare-cryptocurrencies-in-income-tax-2025---complete-step-by-step-guide "How to Declare Cryptocurrencies in Income Tax 2025 - Complete Step-by-Step Guide") saldos.
 
 ### Erro 2: Esquecer Carteiras Próprias
 
@@ -437,7 +442,7 @@ Ganho de Capital = Preço de Venda - Preço de Compra - Custos
 - Gratuito
 
 **Template básico:**
-- Data | Operação | Cripto | Quantidade | Preço | Total | Lucro/Prejuízo
+- Data | Operação | [Cripto](/artigo/drex-regulacao-cripto-brasil-2026 "Drex e a Regulação Cripto 2026: O Que Muda para o Investidor Brasileiro?") | Quantidade | Preço | Total | Lucro/Prejuízo
 
 ## 🚀 Comece a Investir em Cripto
 
@@ -465,7 +470,7 @@ Para comprar criptomoedas de forma legal e declarar corretamente, use exchanges 
 
 ### 5. Posso compensar prejuízos de anos anteriores?
 
-**Resposta:** **Sim**. Prejuízos com criptomoedas podem ser compensados com lucros futuros, sem limite de tempo. Mantenha registro de todos prejuízos e declare na ficha "Renda Variável".
+**Resposta:** **Sim**. Prejuízos com criptomoedas podem ser compensados com lucros futuros, sem limite de tempo. Mantenha registro de todos prejuízos e [declare](/artigo/how-to-declare-cryptocurrencies-in-the-2025-income-tax---complete-step-by-step-guide "How to Declare Cryptocurrencies in the 2025 Income Tax - Complete Step-by-Step Guide") na ficha "Renda Variável".
 
 ### 6. O que acontece se não declarar?
 

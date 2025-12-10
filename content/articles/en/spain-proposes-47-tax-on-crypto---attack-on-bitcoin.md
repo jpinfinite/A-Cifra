@@ -37,10 +37,14 @@ language: en
 alternateLanguages:
   pt: espanha-imposto-47-cripto-ataque-bitcoin
   es: espaa-propone-impuesto-del-47-sobre-cripto---ataque-al-bitcoin
+metaTitle: Spain Proposes 47% Tax on Crypto - Attack on Bitcoin?
+metaDescription: >-
+  Spain proposes 47% tax on crypto, sparking concerns of an attack on Bitcoin.
+  Will this drastic measure impact the market? Read more!
 ---
-Espanha Propõe Imposto de 47% sobre Cripto - Ataque ao Bitcoin?
+[Espanha](/artigo/espanha-imposto-47-cripto-ataque-bitcoin-2025 "Espanha Propõe Imposto de 47% Sobre Cripto: "Ataque Contra Bitcoin" Preocupa Investidores") Propõe Imposto de 47% sobre Cripto - Ataque ao Bitcoin?
 
-27 de novembro de 2025 - O partido Sumar, parceiro júnior do governo espanhol, propôs um imposto de 47% sobre ganhos com criptomoedas, gerando revolta imediata na comunidade Bitcoin. A proposta, descrita por críticos como um "ataque contra Bitcoin", pode transformar a Espanha em um dos países mais hostis para investidores cripto na Europa.
+27 de novembro de 2025 - O partido Sumar, parceiro júnior do governo espanhol, propôs um imposto de 47% sobre ganhos com criptomoedas, gerando revolta imediata na comunidade Bitcoin. A proposta, descrita por críticos como um "ataque contra Bitcoin", pode transformar a [Espanha](/artigo/espanha-imposto-47-cripto-ataque-bitcoin "Espanha Propõe Imposto de 47% sobre Cripto - Ataque ao Bitcoin?") em um dos países mais hostis para investidores cripto na Europa.
 
 A Proposta: 47% de Imposto
 

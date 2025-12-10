@@ -38,6 +38,11 @@ language: en
 alternateLanguages:
   pt: xrp-dispara-140-porcento-novembro-analise
   es: xrp-dispara-140-en-noviembre---anlisis-del-rally-y-prximos-objetivos
+metaTitle: XRP Surges 140% in November - Rally Analysis and Next Target
+metaDescription: >-
+  Discover the XRP rally analysis and next targets as it surges 140% in
+  November, reclaiming its position as the 3rd largest cryptocurrency. Read
+  more!
 ---
 # XRP Surges 140% in November - Rally Analysis and Next Targets
 
@@ -63,7 +68,7 @@ alternateLanguages:
 | **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)** | $3.280 | $3.680 | +12.2% |
 | **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)** | $89.500 | $97.200 | +8.6% |
 
-**XRP was the big winner of November among the top 10.**
+**XRP was the big winner of [November](/artigo/xrp-jumps-140-in-november---rally-analysis-and-next-targets "XRP Jumps 140% in November - Rally Analysis and Next Targets") among the top 10.**
 
 ## Catalysts of the Rally
 
@@ -72,9 +77,9 @@ alternateLanguages:
 **Context:** 4-year legal battle (2020-2024)
 
 **Timeline:**
-- **2020:** SEC sues Ripple for selling "unregistered security"
+- **2020:** SEC sues [Ripple](/artigo/ripple-and-xrp-revolutionizing-global-payments "Ripple and XRP: Revolutionizing Global Payments") for selling "unregistered security"
 - **2023:** Ripple wins partial victories
-- **2024:** Final agreement - Ripple pays $125M (vs $2B requested)
+- **2024:** Final agreement - [Ripple](/artigo/xrp-y-ripple-revolucionando-pagos-globales "XRP y Ripple: Revolucionando Pagos Globales") pays $125M (vs $2B requested)
 - **Nov 2025:** Complete regulatory clarity
 
 **Impact:** XRP is officially **NOT a security** for programmatic sales.
@@ -187,7 +192,7 @@ alternateLanguages:
 
 ## Risks
 
-**Centralization:** Ripple controls a significant part
+**Centralization:** [Ripple](/artigo/xrp-pagamentos-globais "XRP e Ripple: Revolucionando Pagamentos Globais") controls a significant part
 **Competition:** Stellar, CBDCs, SWIFT GPI
 **Volatility:** Can drop 30-50% in corrections
 **Regulation:** Other countries may have a different view

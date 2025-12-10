@@ -34,8 +34,13 @@ language: es
 alternateLanguages:
   pt: erc-20-erc-721-erc-1155-diferencas
   en: token-patterns-erc-20-erc-721-and-erc-1155
+metaTitle: 'Patrones de Tokens: ERC-20, ERC-721 y ERC-1155'
+metaDescription: >-
+  Descubre los patrones de tokens ERC-20, ERC-721 y ERC-1155 en nuestra guía
+  completa. Entiende la importancia y aplicaciones en el ecosistema cripto. iLee
+  más!
 ---
-Este guía completo explora **Patrones de Tokens** de forma detallada y accesible.
+Este guía completo explora **Patrones de [Tokens](/artigo/erc-20-erc-721-erc-1155-diferencas "Padrões de Tokens: ERC-20, ERC-721 e ERC-1155")** de forma detallada y accesible.
 
 ## Introducción
 

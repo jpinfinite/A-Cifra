@@ -45,6 +45,11 @@ alternateLanguages:
     ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability
   es: >-
     capa-2-de-ethereum-gua-completa-2025---arbitrum-optimism-base-y-el-futuro-de-la-escalabilidad
+metaTitle: 'Layer 2 do Ethereum: Guia Completo 2025 - Arbitrum, Optimism...'
+metaDescription: >-
+  Entenda Layer 2: como funcionam, principais soluções (Arbitrum, Optimism,
+  Base, zkSync), vantagens, diferenças e por que são o futuro do Ethereum em
+  2025.
 ---
 
 # Layer 2 do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Guia Completo 2025 - O Futuro da Escalabilidade
@@ -61,7 +66,7 @@ Neste guia completo, você vai entender o que são Layer 2s, como funcionam, pri
 
 **Analogia:**
 - **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (L1)** = Rodovia principal (segura mas congestionada)
-- **Layer 2** = Vias expressas paralelas (rápidas e baratas)
+- **[Layer](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability") 2** = Vias expressas paralelas (rápidas e baratas)
 - Todas conectam ao mesmo destino, mas L2s são mais eficientes
 
 ### Por Que Layer 2s Existem?
@@ -191,7 +196,7 @@ Neste guia completo, você vai entender o que são Layer 2s, como funcionam, pri
 **Diferenciais:**
 - **Coinbase:** 110M usuários potenciais
 - **Onboarding:** Mais fácil (Coinbase)
-- **Fees baixíssimas:** Mais barata que Arbitrum/OP
+- **Fees baixíssimas:** Mais barata que [Arbitrum](/artigo/arbitrum-layer2-ethereum-escalabilidade "Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups")/OP
 - **Crescimento rápido:** Mais nova mas explodindo
 
 **Sem Token (ainda):**
@@ -509,7 +514,7 @@ Para comprar ETH e começar a usar Layer 2s:
 
 ### 2. Por que saques de L2 demoram 7 dias?
 
-**Resposta:** Apenas em **Optimistic Rollups** (Arbitrum, Optimism, Base). É o período de desafio para detectar fraudes. **Solução**: Use bridges rápidas (Across, Hop) que custam $1-5 mas são instantâneas. **ZK Rollups** (zkSync) têm saques em 1-2 horas.
+**Resposta:** Apenas em **Optimistic Rollups** ([Arbitrum](/artigo/arbitrum-scaling-ethereum-with-layer-2-optimistic-rollups "Arbitrum: Scaling Ethereum with Layer 2 Optimistic Rollups"), Optimism, Base). É o período de desafio para detectar fraudes. **Solução**: Use bridges rápidas (Across, Hop) que custam $1-5 mas são instantâneas. **ZK Rollups** (zkSync) têm saques em 1-2 horas.
 
 ### 3. Qual a melhor Layer 2?
 
@@ -563,7 +568,7 @@ Layer 2s transformaram o [ethereum](/artigo/staking-ethereum-guia-renda-passiva-
 
 Layer 2s não são apenas melhoria técnica - são revolução que torna [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) acessível para bilhões. Posicione-se agora nesta transformação.
 
-**Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Layer 2s envolvem riscos técnicos. Sempre faça sua própria pesquisa (DYOR) e comece com quantias pequenas.
+**Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. [Layer](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") 2s envolvem riscos técnicos. Sempre faça sua própria pesquisa (DYOR) e comece com quantias pequenas.
 
 ---
 

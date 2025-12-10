@@ -37,8 +37,13 @@ language: es
 alternateLanguages:
   pt: como-criar-nft-tutorial
   en: how-to-create-and-sell-your-first-nft-the-complete-guide
+metaTitle: 'Cómo Crear y Vender Tu Primer NFT: Guía Completa'
+metaDescription: >-
+  Descubre cómo crear y vender tu primer NFT con nuestra guía completa en
+  OpenSea. ¡Aprende a crear y vender NFTs con facilidad! Leia más sobre el
+  proceso paso a paso.
 ---
-Crear y vender **NFTs** está más fácil que nunca. Este guía muestra el proceso completo en OpenSea.
+Crear y [vender](/artigo/como-criar-nft-tutorial "Como Criar e Vender Seu Primeiro NFT: Guia Completo") **NFTs** está más fácil que nunca. Este guía muestra el proceso completo en OpenSea.
 
 ## Lo que necesitas
 
@@ -132,6 +137,6 @@ Crear NFTs es simple, pero vender requiere marketing y comunidad. Comienza en Po
 
 ## 🚀 Comienza a invertir en criptomonedas
 
-Para comprar las criptomonedas mencionadas en este artículo, usa una de las exchanges recomendadas:
+Para [comprar](/artigo/como-comprar-primeira-criptomoeda "Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo") las criptomonedas mencionadas en este artículo, usa una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />

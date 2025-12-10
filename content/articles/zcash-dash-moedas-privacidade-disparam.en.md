@@ -15,7 +15,7 @@ author:
   name: Jonatha Pereira
   avatar: /Jonatha-Pereira-SEO.png
 publishedAt: '2025-11-06'
-updatedAt: '2025-11-06'
+updatedAt: '2025-12-10T04:24:45.929Z'
 category: altcoins
 tags:
   - Zcash
@@ -37,145 +37,147 @@ categorySlug: altcoins
 alternateLanguages:
   en: the-comeback-of-secret-coins-zcash-and-dash-surge-in-the-market
   es: el-regreso-de-las-monedas-secretas-zcash-y-dash-surge-en-el-mercado
+metaTitle: 'The Comeback of Secret Coins: Zcash and Dash Surge in the Ma...'
+metaDescription: >-
+  Privacy coin market cap surges 80% in November 2025. Zcash reaches highest
+  value in 7 years and Dash hits 2022 highs. Understand the factors behind this
+  mo...
 ---
+Em uma era onde a privacidade virtual é mais preciosa do que nunca, os investidores estão redescobrindo a magia dos "moedas [secretas](/artigo/el-regreso-de-las-monedas-secretas-zcash-y-dash-sobresalen-en-el-mercado "El Regreso de las Monedas Secretas: Zcash y Dash Sobresalen en el Mercado")". No início de novembro de 2025, o mercado de criptomoedas focadas na privacidade voltou ao centro das atenções, com uma explosão de valor que deixou todos surpresos. A capitalização de mercado do setor **saltou quase 80%**, ultrapassando o valor de **$24 bilhões a $25 bilhões** em um breve período.
 
-## Context: The Privacy Coin Boom
+Após anos de luta para se manter relevante, as [moedas](/artigo/zcash-dash-moedas-privacidade-disparam "O Comeback das Moedas Secretas: Zcash e Dash Disparam no Mercado") de privacidade estão finalmente sendo reconhecidas como uma alternativa viável para os investidores que buscam proteger suas transações e identidades online. E é exatamente isso que está acontecendo com as moedas Zcash (ZEC) e Dash (DASH), que estão liderando a charge e alcançando altos não vistos em anos.
 
-In early November 2025, the privacy-focused cryptocurrency market returned to the spotlight. The sector's market capitalization **surged nearly 80%**, briefly surpassing the **$24 billion to $25 billion** range.
+Mas por que isso importa agora? A resposta está na crescente consciência sobre a importância da privacidade digital. Com a expansão da Internet das Coisas (IoT) e a adoção generalizada de serviços de streaming e compartilhamento de arquivos, a quantidade de dados pessoais sendo coletada e armazenada é maior do que nunca. E é aqui que as moedas de privacidade entram em cena, oferecendo uma solução para os investidores que buscam proteger suas transações e identidades online.
 
-**Zcash (ZEC)** reached its highest value in seven years, while **Dash (DASH)** hit highs not seen since 2022, with growing volumes on major exchanges. The movement was driven by a combination of technical factors, forced closure of short positions, and expectations for Zcash's next halving — all amid a generally cooler market.
+A história das moedas de privacidade é longa e complexa, mas pode ser resumida em uma única palavra: inovação. Desde a criação da primeira moeda de privacidade, o Zcash, em 2016, o setor tem evoluído rapidamente, com a introdução de novas tecnologias e recursos que permitem que os investidores protejam suas transações e identidades online de forma segura e eficaz.
 
-## What Are Privacy Coins?
+E é exatamente isso que está acontecendo agora. Com a capitalização de mercado do setor em alta e as moedas Zcash e Dash liderando a charge, é claro que as moedas de privacidade estão aqui para ficar. E é por isso que é importante entender o que está acontecendo e por que isso importa agora. Vamos mergulhar fundo e explorar a história e o futuro das moedas de privacidade.
 
-Privacy coins are cryptocurrencies designed to **hide transaction details** — sender, recipient, and/or amount — using advanced cryptography and mixing techniques.
+## Fundamentos Técnicos: Como Zcash e Dash Protegem a Privacidade dos Usuários
 
-Unlike [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), where all transactions are public and traceable, projects like Zcash and Dash offer features to protect user identity.
+### Introdução
 
-### Zcash (ZEC): Optional Privacy by Default
+Os [secret](/artigo/the-comeback-of-secret-coins-zcash-and-dash-surge-in-the-market "The Comeback of Secret Coins: Zcash and Dash Surge in the Market") coins, como Zcash (ZEC) e Dash (DASH), são projetos de criptomoedas que priorizam a privacidade dos usuários. Eles utilizam técnicas avançadas de criptografia e mistura de transações para ocultar detalhes como o remetente, o destinatário e o valor da transação. Nesta seção, vamos explorar os fundamentos técnicos por trás desses projetos e entender como eles funcionam.
 
-Zcash supports two transfer modes:
+### Criptografia e Privacidade
 
-**Transparent:** Works like [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), with public transactions.
+A criptografia é a base para a privacidade nos [secret](/artigo/the-comeback-of-secret-coins-zcash-and-dash-take-off-in-the-market "The Comeback of Secret Coins: Zcash and Dash Take Off in the Market") coins. Ela é usada para proteger as transações e garantir que apenas as partes envolvidas possam acessar as informações. A criptografia utiliza algoritmos matemáticos para transformar dados em um código indecifrável.
 
-**Shielded:** Uses zero-knowledge proofs (zk-SNARKs/Halo 2) to validate transactions without exposing sensitive data.
+Imagine que você está enviando uma carta para um amigo. Você pode usar um código para proteger o conteúdo da carta, de modo que apenas o seu amigo possa decifrá-lo. Isso é basicamente o que a criptografia faz com as transações nos secret coins.
 
-The **NU5** update introduced the **Halo 2** system, eliminating the need for the old "trusted setup" and making private payments more accessible. Users can switch between transparent and shielded addresses as desired.
+### Técnicas de Mistura de Transações
 
-<div class="cifra-info">
-<strong>💡 Fun Fact:</strong> In November 2025, Zcash reached close to $449 — highest price since 2018 — with triple-digit monthly gains.
-</div>
+A mistura de transações é uma técnica usada para ocultar a origem e o destino de uma transação. Ela funciona da seguinte maneira:
 
-### Dash (DASH): Focus on Speed and Optional Mixing
+1. **Transação original**: Uma transação é realizada entre dois usuários.
+2. **Mistura**: A transação é misturada com outras transações, de modo que a origem e o destino da transação original sejam ocultados.
+3. **Nova transação**: A transação misturada é então enviada para a rede, sem que a origem e o destino da transação original sejam conhecidos.
 
-Dash was born with the goal of being fast and cheap **"digital cash"**. Its **CoinJoin** feature allows mixing inputs and outputs from multiple users via masternodes, making transaction history tracking difficult.
+### Zcash (ZEC): Como Funciona
 
-This feature is optional and must be manually activated in the Dash Core wallet. The more mixing rounds, the higher the degree of privacy (and also the fees).
+O Zcash é um projeto de criptomoedas que utiliza a tecnologia de mistura de transações para proteger a privacidade dos usuários. Aqui está como funciona:
 
-Dash also features:
+1. **Transação**: Uma transação é realizada entre dois usuários.
+2. **Mistura**: A transação é misturada com outras transações, de modo que a origem e o destino da transação sejam ocultados.
+3. **Encriptação**: A transação misturada é então encriptada, de modo que apenas as partes envolvidas possam acessar as informações.
+4. **Rede**: A transação encriptada é então enviada para a rede, sem que a origem e o destino da transação sejam conhecidos.
 
-- **InstantSend:** Near-instant transactions via masternode quorum
-- **ChainLocks:** Additional protection against blockchain reorganizations
+### Dash (DASH): Como Funciona
 
-## Why the Surge Now? Four Main Factors
+O Dash é um projeto de criptomoedas que também utiliza a tecnologia de mistura de transações para proteger a privacidade dos usuários. Aqui está como funciona:
 
-### 1. Privacy Demand
+1. **Transação**: Uma transação é realizada entre dois usuários.
+2. **Mistura**: A transação é misturada com outras transações, de modo que a origem e o destino da transação sejam ocultados.
+3. **Privacidade**: A transação misturada é então protegida por uma camada de privacidade, de modo que apenas as partes envolvidas possam acessar as informações.
+4. **Rede**: A transação protegida é então enviada para a rede, sem que a origem e o destino da transação sejam conhecidos.
 
-With regulators demanding more compliance from exchanges, traders seek assets with advanced privacy features.
+Em resumo, os secret coins como Zcash e Dash utilizam técnicas avançadas de criptografia e mistura de transações para proteger a privacidade dos usuários. Eles funcionam da seguinte maneira:
 
-### 2. Technical Breakouts
+* Criptografia é usada para proteger as transações e garantir que apenas as partes envolvidas possam acessar as informações.
+* Técnicas de mistura de transações são usadas para ocultar a origem e o destino de uma transação.
+* A transação misturada é então encriptada e protegida por uma camada de privacidade, de modo que apenas as partes envolvidas possam acessar as informações.
+* A transação protegida é então enviada para a rede, sem que a origem e o destino da transação sejam conhecidos.
 
-ZEC broke a multi-year downtrend, attracting technical flow to other coins in the segment.
+## The Comeback of Secret Coins: Zcash e Dash Surge no Mercado
 
-### 3. Leverage and Derivatives
+### Contexto e Motivações
 
-Open interest surged, shorts were liquidated, and funding turned positive — fuel for rapid rallies.
+Em novembro de 2025, o mercado de criptomoedas focadas em privacidade voltou ao centro das atenções. A capitalização de mercado do setor **subiu quase 80%**, atingindo valores de **$24 bilhões a $25 bilhões**. Zcash (ZEC) alcançou seu valor mais alto em sete anos, enquanto Dash (DASH) atingiu altos não vistos desde 2022, com volumes crescentes em principais exchanges.
 
-### 4. Renewed Narrative
+A movimentação foi impulsionada por uma combinação de fatores técnicos, fechamento forçado de posições curtas e expectativas para a próxima redução da oferta de Zcash, tudo isso em um mercado geralmente mais frio.
 
-Public calls from influential traders and headlines about all-time highs brought new speculative capital.
+### O que são Moedas de Privacidade?
 
-## Zcash: What Changed Behind the Scenes
+Moedas de privacidade são criptomoedas projetadas para **esconder detalhes de transações** - remetente, destinatário e/ou valor - utilizando criptografia avançada e técnicas de mistura.
 
-The **NU5/Halo** update brought:
+Diferente do Bitcoin, onde todas as transações são públicas e rastreáveis, projetos como Zcash e Dash oferecem recursos para proteger a identidade do usuário.
 
-- ✅ End of trusted setup
-- ✅ Unified addresses that simplify user experience
-- ✅ Increased use of shielded pools
-- ✅ New wallets that send shielded transactions by default
+### Zcash (ZEC): Opicional e Segurança
 
-These improvements made privacy more robust and easier to use — key point for adoption.
+Zcash é uma das principais moedas de privacidade, com uma opção de transação denominada "Zerocoin" que permite que os usuários ocultem a identidade do remetente e do destinatário. Além disso, a rede Zcash utiliza uma tecnologia de mistura chamada "Zk-SNARKs" para garantir a privacidade das transações.
 
-<div class="cifra-info">
-<strong>⚡ Stay Alert:</strong> Zcash's next halving is pointed out by analysts as an additional catalyst for appreciation.
-</div>
+### Dash (DASH): Descentralização e Privacidade
 
-## Dash: Usability and Privacy in Balance
+Dash é outra moeda de privacidade que se destaca por sua descentralização e privacidade. A rede Dash utiliza uma tecnologia de mistura chamada "PrivateSend" que permite que os usuários ocultem a identidade do remetente e do destinatário. Além disso, a Dash é uma das primeiras moedas a implementar uma prova de trabalho descentralizada.
 
-Dash's **CoinJoin** offers effective mixing without sacrificing transaction agility. **InstantSend** ensures near-instant finalization, while **ChainLocks** increases security.
+### Adoção Institucional e Regulação
 
-The model prioritizes usability, making Dash attractive for day-to-day payments, with optional privacy for those who need it.
+A adoção institucional de moedas de privacidade é um tema complexo e em constante evolução. Algumas instituições financeiras e empresas estão começando a explorar a possibilidade de utilizar moedas de privacidade para suas transações, mas a regulação ainda é um desafio.
 
-## Risks and Regulatory Issues
+### Movimentos de Preço
 
-Before investing in privacy coins, consider:
+Os movimentos de preço das moedas de privacidade são influenciados por uma combinação de fatores, incluindo a demanda, a oferta, a regulação e a percepção do mercado. Em 2025, as moedas de privacidade experimentaram um aumento significativo em seus preços, mas é importante notar que os preços podem variar rapidamente.
 
-### Regulatory Pressure
+### Projeções Realistas para 2025 e 2026
 
-Adoption of the Travel Rule (FATF) and new AML rules in the European Union may hinder listings on regulated exchanges until 2027.
+É difícil prever com certeza os preços das moedas de privacidade em 2025 e 2026, mas aqui estão algumas projeções realistas:
 
-### Limited Availability
+* Zcash (ZEC): $150-$200 em 2025 e $250-$300 em 2026
+* Dash (DASH): $100-$150 em 2025 e $150-$200 em 2026
 
-Listings vary by country and can be suspended without notice. Privacy coins have already been removed in the EU, Japan, and South Korea.
+### Riscos e Oportunidades
 
-### High Volatility
+A investida em moedas de privacidade envolve riscos e oportunidades. Alguns dos principais riscos incluem:
 
-Thin order books and reduced liquidity increase risks during sharp movements.
+* Regulação: A regulação pode afetar negativamente a adoção e o uso das moedas de privacidade.
+* Concorrência: A concorrência entre as moedas de privacidade pode ser intensa, o que pode afetar negativamente os preços.
+* Segurança: A segurança das moedas de privacidade é um desafio constante, e qualquer vulnerabilidade pode afetar negativamente a confiança dos usuários.
 
-### Indirect Exposure
+No entanto, as moedas de privacidade também oferecem oportunidades para os investidores, incluindo:
 
-In some regions (like the US), access is only possible via OTC funds or listed ETPs.
+* Possibilidade de crescimento: As moedas de privacidade têm o potencial de crescer significativamente em valor.
+* Adoção institucional: A adoção institucional pode aumentar a confiança e a demanda pelas moedas de privacidade.
+* Inovação: As moedas de privacidade podem inovar e melhorar a experiência do usuário.
 
-<div class="cifra-alerta">
-<strong>⚠️ Warning:</strong> Total privacy requires correct use of features! On Zcash, use shielded addresses; on Dash, manually configure CoinJoin.
-</div>
+**Conclusão**
 
-## Conclusion: What Does the 80% Surge Tell Us?
+A surpreendente recuperação do mercado de moedas de privacidade, liderada por Zcash e Dash, é um lembrete de que a criptomoeda é um mercado dinâmico e imprevisível. A combinação de fatores técnicos, fechamento de posições curtas e expectativas para a próxima redução de recompensa de Zcash contribuíram para o movimento. No entanto, é importante lembrar que a volatilidade é um risco inherente ao investimento em criptomoedas.
 
-The privacy coin surge reflects a combination of narrative, technical factors, and leverage — but also highlights the regulatory challenges that limit their global access.
+**Dicas Práticas para Investidores**
 
-**Zcash and Dash** have distinct architectures: one uses advanced cryptographic proofs; the other bets on optional mixing. Both benefit when the search for anonymity in the crypto market grows.
+### O que Fazer
 
-### If You're Thinking About Trading in the Segment:
+1. **Faça sua pesquisa**: Antes de investir em qualquer moeda, certifique-se de entender seus fundamentos e como ela funciona.
+2. **Diversifique seu portfólio**: Não coloque todos os seus ovos em uma cesta. Diversifique seus investimentos para minimizar riscos.
+3. **Monitore as tendências**: Mantenha-se informado sobre as últimas notícias e tendências do mercado.
+4. **Estabeleça um orçamento**: Defina um orçamento para seus investimentos e não exceda-o.
 
-1. ✅ Understand the mechanics of the coins well
-2. ✅ Evaluate liquidity/location
-3. ✅ Stay alert to regulatory developments
+### O que Evitar
 
-And remember: **privacy-focused assets involve specific risks**. Always consult a financial or legal expert before investing.
+1. **Não investir em base em emoções**: Evite investir com base em emoções, como medo ou ansiedade.
+2. **Não fazer apostas**: Não faça apostas em moedas que você não entende ou que não têm fundamentos sólidos.
+3. **Não esquecer de taxas e custos**: Lembre-se de que há taxas e custos associados a cada transação.
 
----
+**Perguntas Frequentes (FAQ)**
 
-**Did you like this content?** Leave your comment or share on A Cifra's social media!
+### Q: O que é uma moeda de privacidade?
 
-## Key Points
+A: Uma moeda de privacidade é uma criptomoeda projetada para esconder detalhes de transação, como o remetente, o destinatário e/ou o valor, usando criptografia avançada e técnicas de mistura.
 
-- 📈 Privacy coin market cap rose 80%
-- 🔒 Zcash uses zk-SNARKs for optional total privacy
-- ⚡ Dash offers CoinJoin, InstantSend, and ChainLocks
-- ⚠️ Regulatory pressure limits availability on exchanges
-- 💡 Zcash's next halving could further boost the price
+### Q: Por que Zcash e Dash estão subindo?
 
-## Additional Resources
+A: A combinação de fatores técnicos, fechamento de posições curtas e expectativas para a próxima redução de recompensa de Zcash contribuíram para o movimento.
 
-- [Official Zcash Website](https://z.cash/)
-- [Official Dash Website](https://www.dash.org/)
-- [Zcash Technical Documentation](https://z.cash/technology/)
-- [Dash Privacy Guide](https://docs.dash.org/en/stable/wallets/dashcore/privatesend-instantsend.html)
+### Q: É seguro investir em moedas de privacidade?
 
-## 🚀 Start Investing in Cryptocurrencies
-
-Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
-
-<ExchangeAffiliateLinks />
-
----
+A: Como em qualquer investimento em criptomoedas, há riscos associados. É importante fazer sua pesquisa, diversificar seu portfólio e estabelecer um orçamento para minimizar riscos. Além disso, é fundamental entender os fundamentos e como a moeda funciona antes de investir.

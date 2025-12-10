@@ -36,6 +36,10 @@ alternateLanguages:
   en: regulatory-body-seeks-feedback-from-crypto-sector-on-uk-reforms
   es: >-
     rgano-de-fiscalizacin-pide-retroalimentacin-del-sector-cripto-sobre-reformas-en-el-reino-unido
+metaTitle: Órgão de fiscalização pede feedback do setor cripto sobre re...
+metaDescription: >-
+  Resumo da notícia: Órgão de fiscalização pede feedback do setor cripto sobre
+  reformas no Reino Unido.
 ---
 
 # Órgão de fiscalização pede feedback do setor cripto sobre reformas no Reino Unido

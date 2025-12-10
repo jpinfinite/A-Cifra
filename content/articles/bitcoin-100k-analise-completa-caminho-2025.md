@@ -46,6 +46,11 @@ alternateLanguages:
     bitcoin-heading-to-100k-complete-analysis-of-the-4-factors-that-will-determine-the-next-move
   es: >-
     bitcoin-rumbo-a-los-100k-anlisis-completo-de-los-4-factores-que-volvern-a-determinar-el-prximo-movim
+metaTitle: 'Bitcoin Rumo aos $100K: Análise Completa dos 4 Fatores que V...'
+metaDescription: >-
+  Bitcoin testa $90K e o mercado pergunta: vamos aos $100K ou nova correção?
+  Análise técnica e fundamentalista completa dos 4 fatores-chave que
+  determinarão...
 ---
 
 O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está testando a zona crítica de **$88.000-$90.000**, e o mercado cripto inteiro segura a respiração. A pergunta que todos fazem é: **vamos finalmente romper os $100.000 ou teremos uma nova correção?**
@@ -273,7 +278,7 @@ A MSCI está revisando sua política sobre empresas que mantêm [bitcoin](/artig
 
 #### Timeline
 
-**Decisão esperada:** Dezembro 2025 - Janeiro 2026
+**Decisão esperada:** Dezembro 2025 - Janeiro [2026](/artigo/bitcoin-2026-previsao-preco-analise-completa "Bitcoin em 2026: Previsão de Preço, Análise Téndamentalista Completa")
 
 **O que monitorar:**
 - Comunicados da MSCI
@@ -536,7 +541,7 @@ A MSCI está revisando sua política sobre empresas que mantêm [bitcoin](/artig
 
 **Estratégia:**
 1. **Compre em suportes** - $82-85K, $77-80K
-2. **Venda parcial em resistências** - $95K, $100K, $110K
+2. **Venda parcial em resistências** - $95K, $[100K](/artigo/bitcoin-heading-to-100k-complete-analysis-of-the-4-factors-that-will-determine-the-next-move "Bitcoin Heading to 100K00K: Complete Analysis of the 4 Factors that Will Determine the Next Move"), $110K
 3. **Use stop losses** - 8-10% abaixo da compra
 4. **Rebalanceie** - Ajuste posição conforme mercado
 
@@ -603,7 +608,7 @@ A MSCI está revisando sua política sobre empresas que mantêm [bitcoin](/artig
 
 ### [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) vai chegar aos $100K em 2025?
 
-**Probabilidade: 60-70%.** Os fundamentos são fortes (halving, adoção institucional, ETFs), mas depende dos 4 fatores analisados. Cenário base: $100-120K até Q2 2026.
+**Probabilidade: 60-70%.** Os fundamentos são fortes (halving, adoção institucional, ETFs), mas depende dos 4 fatores analisados. Cenário base: $100-120K até Q2 [2026](/artigo/bitcoin-in-2026-price-forecast-complete-technical-analysis "Bitcoin in 2026: Price Forecast, Complete Technical Analysis").
 
 ### Qual o melhor momento para comprar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?
 

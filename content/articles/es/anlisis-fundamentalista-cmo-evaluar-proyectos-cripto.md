@@ -39,8 +39,12 @@ language: es
 alternateLanguages:
   pt: analise-fundamentalista-avaliar-projetos-cripto
   en: fundamental-analysis-how-to-evaluate-crypto-projects
+metaTitle: 'Análisis Fundamentalista: Cómo Evaluar Proyectos Cripto'
+metaDescription: >-
+  Análisis fundamentalista: descubre cómo evaluar proyectos cripto con precisión
+  y evita golpes. Lee más sobre estrategias de inversión seguras.
 ---
-Análisis Fundamentalista: Como Avaliar Projetos Cripto
+Análisis [Fundamentalista](/artigo/analise-fundamentalista-avaliar-projetos-cripto "Análise Fundamentalista: Como Avaliar Projetos Cripto"): Como Avaliar Projetos Cripto
 
 O Que é Análise Fundamentalista?
 
@@ -349,4 +353,4 @@ Invista tempo em educação, desenvolva suas habilidades de análise e sempre fa
 
 Comece a Investir em Criptomoedas
 
-Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas.
+Para comprar as [criptomoedas](/artigo/analisar-criptomoedas-indicadores-fundamentais-tecnicos "Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos") mencionadas neste artigo, use uma das exchanges recomendadas.

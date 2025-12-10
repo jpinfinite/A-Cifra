@@ -33,15 +33,19 @@ seo:
 alternateLanguages:
   en: lightning-network-instant-bitcoin-payments
   es: red-de-relmpago-pagos-bitcoin-instantneos
+metaTitle: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
+metaDescription: >-
+  Descubra como Lightning Network está tornando Bitcoin viável para pagamentos
+  do dia a dia.
 ---
 
-**Lightning Network: Pagamentos Bitcoin Instantâneos**
+**[Lightning](/artigo/lightning-network-instant-bitcoin-payments "Lightning Network: Instant Bitcoin Payments") Network: Pagamentos Bitcoin Instantâneos**
 =====================================================
 
 **Introdução**
 ------------
 
-O Bitcoin, criado em 2009 por Satoshi Nakamoto, é uma das criptomoedas mais conhecidas e utilizadas no mundo. Desde sua criação, o Bitcoin tem sido objeto de estudo e desenvolvimento contínuo, com a comunidade em torno dele trabalhando incansavelmente para melhorar sua escalabilidade, segurança e usabilidade. Uma das inovações mais importantes nesse sentido é o Lightning Network, uma camada adicional de rede que permite pagamentos instantâneos e baratos de Bitcoin.
+O [Bitcoin](/artigo/red-de-relmpago-pagos-bitcoin-instantneos "Red de Relámpago: Pagos Bitcoin Instantáneos"), criado em 2009 por Satoshi Nakamoto, é uma das criptomoedas mais conhecidas e utilizadas no mundo. Desde sua criação, o Bitcoin tem sido objeto de estudo e desenvolvimento contínuo, com a comunidade em torno dele trabalhando incansavelmente para melhorar sua escalabilidade, segurança e usabilidade. Uma das inovações mais importantes nesse sentido é o Lightning Network, uma camada adicional de rede que permite pagamentos instantâneos e baratos de Bitcoin.
 
 **O Problema da Escalabilidade do Bitcoin**
 ----------------------------------------
@@ -70,11 +74,11 @@ Além disso, o Lightning Network também é importante para a escalabilidade da 
 **Conclusão**
 ------------
 
-Em resumo, o Lightning Network é uma camada adicional de rede que permite pagamentos instantâneos e baratos de Bitcoin. Ele funciona abrindo canais de pagamento entre usuários, que são representados por uma cadeia de transações de Bitcoin. O Lightning Network é importante para a escalabilidade da rede do Bitcoin e permite que os usuários façam compras online e offline de forma koste e eficiente.
+Em resumo, o Lightning Network é uma camada adicional de rede que permite pagamentos instantâneos e baratos de Bitcoin. Ele [funciona](/artigo/como-funciona-mineracao-criptomoedas "Como Funciona a Mineração de Criptomoedas?") abrindo canais de pagamento entre usuários, que são representados por uma cadeia de transações de Bitcoin. O Lightning Network é importante para a escalabilidade da rede do Bitcoin e permite que os usuários façam compras online e offline de forma koste e eficiente.
 
 **Lightning Network: Pagamentos Bitcoin Instantâneos**
 
-O Lightning Network é uma tecnologia de pagamento instantâneo baseada na blockchain Bitcoin, que visa resolver o problema de velocidade e escalabilidade dos pagamentos em Bitcoin. Neste artigo, vamos aprofundar nos detalhes da tecnologia e explorar como ela funciona.
+O Lightning Network é uma tecnologia de pagamento instantâneo baseada na blockchain Bitcoin, que visa resolver o problema de velocidade e escalabilidade dos pagamentos em Bitcoin. Neste artigo, vamos aprofundar nos detalhes da tecnologia e explorar como ela [funciona](/artigo/cmo-funciona-la-minera-de-criptomonedas "¿Cómo Funciona la Minería de Criptomonedas?").
 
 ### **O que é o Lightning Network?**
 

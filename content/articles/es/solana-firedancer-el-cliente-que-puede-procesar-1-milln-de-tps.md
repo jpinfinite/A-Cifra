@@ -40,10 +40,14 @@ language: es
 alternateLanguages:
   pt: solana-firedancer
   en: solana-firedancer-the-client-that-can-process-1-million-tps
+metaTitle: 'Solana Firedancer: El Cliente que Puede Procesar 1 Millón de'
+metaDescription: >-
+  Descubre cómo Solana Firedancer revoluciona la escala con 1 millón de TPS y
+  cambia la forma en que procesamos transacciones. iLee más!
 ---
 # Solana Firedancer: El Cliente que Puede Procesar 1 Millón de TPS
 
-**La Era de la Escala: Solana Firedancer Desafía a la Convención**
+**La Era de la Escala: [Solana](/artigo/solana-firedancer-the-client-that-can-process-1-million-tps "Solana Firedancer: The Client That Can Process 1 Million TPS") Firedancer Desafía a la Convención**
 
 En 2025, la escena de criptomonedas está a punto de ser revolucionada por una tecnología que promete superar los límites de la escala. Con la creciente adopción de blockchain y la necesidad de procesamiento de transacciones en masa, los desarrolladores están buscando soluciones que puedan lidar con la demanda creciente. Es en ese contexto que entra en escena el **Solana Firedancer**, un cliente que promete procesar 1 millón de transacciones por segundo (TPS), desafiando a la convención y abriendo camino para una era de escala sin precedentes.
 
@@ -63,7 +67,7 @@ El **Solana Firedancer** es un cliente de blockchain desarrollado por Solana, un
 
 El Solana Firedancer es un cliente de red de blockchain desarrollado por Solana Labs, una empresa de tecnología blockchain enfocada en crear soluciones escalables y seguras para la industria. El Firedancer es diseñado para procesar transacciones en masa, alcanzando tasas de procesamiento de millones de transacciones por segundo (TPS).
 
-El Firedancer utiliza la tecnología de blockchain de Solana, que es basada en un algoritmo de consenso Proof of History (PoH). El PoH es un mecanismo que permite que la red de blockchain Solana procese transacciones de forma descentralizada y segura, sin la necesidad de un líder central.
+El Firedancer utiliza la tecnología de blockchain de Solana, que es basada en un algoritmo de consenso Proof of History (PoH). El PoH es un mecanismo que permite que la red de blockchain Solana procese transacciones de forma [descentralizada](/artigo/depin-infraestrutura-descentralizada-2026 "DePIN Infraestrutura Descentralizada 2026 em 2026: Guia Definitivo") y segura, sin la necesidad de un líder central.
 
 **¿Cómo Funciona el Firedancer**
  Clientes de red de blockchain, como el Firedancer, son responsables de procesar transacciones y mantener la integridad de la red. Aquí está un resumen del proceso:

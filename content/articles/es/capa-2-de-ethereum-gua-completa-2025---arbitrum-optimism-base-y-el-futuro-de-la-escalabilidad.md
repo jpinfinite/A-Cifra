@@ -46,20 +46,25 @@ alternateLanguages:
   pt: layer-2-ethereum-guia-completescalabilidade
   en: >-
     ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability
+metaTitle: 'Capa 2 de Ethereum: Guía Completa 2025 - Arbitrum, Optimism,'
+metaDescription: >-
+  Descubre la guía completa sobre la capa 2 de Ethereum 2025, incluyendo
+  Arbitrum, Optimism y Base, y prepárate para la escalabilidad del futuro. Lee
+  más!
 ---
 # Layer 2 do Ethereum: Guia Completo 2025 - O Futuro da Escalabilidade
 
-Layer 2s revolucionaram o Ethereum. Com $42 bilhões em TVL e 15 milhões de transações diárias, as soluções de Layer 2 tornaram o Ethereum escalável, acessível e prático para uso massivo. Transações que custavam $50-100 no Ethereum agora custam $0,10-1 nas L2s.
+Layer 2s revolucionaram o [Ethereum](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability"). Com $42 bilhões em TVL e 15 milhões de transações diárias, as soluções de Layer 2 tornaram o Ethereum escalável, acessível e prático para uso massivo. Transações que custavam $50-100 no Ethereum agora custam $0,10-1 nas L2s.
 
-Neste guia completo, você vai entender o que são Layer 2s, como funcionam, principais soluções (Arbitrum, Optimism, Base, zkSync), diferenças entre Optimistic e ZK Rollups, e por que L2s são o futuro do Ethereum.
+Neste guia completo, você vai entender o que são [Layer](/artigo/layer-2-ethereum-guia-completo-escalabilidade "Layer 2 do Ethereum: Guia Completo 2025 - Arbitrum, Optimism, Base e o Futuro da Escalabilidade") 2s, como funcionam, principais soluções (Arbitrum, Optimism, Base, zkSync), diferenças entre Optimistic e ZK Rollups, e por que L2s são o futuro do Ethereum.
 
 ## O Que São Layer 2s?
 
-**Layer 2** = Blockchain construída "em cima" do Ethereum que processa transações mais rápido e barato, mas herda a segurança do Ethereum.
+**[Layer](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") 2** = Blockchain construída "em cima" do Ethereum que processa transações mais rápido e barato, mas herda a segurança do Ethereum.
 
 **Analogia:**
 - **Ethereum (L1)** = Rodovia principal (segura mas congestionada)
-- **Layer 2** = Vias expressas paralelas (rápidas e baratas)
+- **[Layer](/artigo/qu-son-layer-2-y-por-qu-son-esenciales-para-el-ethereum "¿Qué son Layer 2 y por qué son esenciales para el Ethereum") 2** = Vias expressas paralelas (rápidas e baratas)
 - Todas conectam ao mesmo destino, mas L2s são mais eficientes
 
 ## Por Que Layer 2s Existem?

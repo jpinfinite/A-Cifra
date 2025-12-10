@@ -34,8 +34,12 @@ language: en
 alternateLanguages:
   pt: filecoin-armazenamento-descentralizado
   es: filecoin-fil-almacenamiento-descentralizado-de-datos
+metaTitle: 'Filecoin (FIL): Decentralized Data Storage'
+metaDescription: >-
+  Discover Filecoin (FIL), a decentralized data storage network that solves
+  censorship, high costs, and data exposure issues. Read more!
 ---
-**Filecoin** is a decentralized storage network that allows anyone to rent storage space.
+**[Filecoin](/artigo/filecoin-fil-almacenamiento-descentralizado-de-datos "Filecoin (FIL): Almacenamiento Descentralizado de Datos")** is a decentralized storage network that allows anyone to rent storage space.
 
 ## Centralized Storage Problem
 
@@ -74,7 +78,7 @@ Continuous proof of storage over time.
 
 ## Conclusion
 
-Filecoin is building the storage infrastructure for Web3.
+[Filecoin](/artigo/filecoin-armazenamento-descentralizado "Filecoin (FIL): Armazenamento Descentralizado de Dados") is building the storage infrastructure for Web3.
 
 ## Start Investing in Cryptocurrencies
 

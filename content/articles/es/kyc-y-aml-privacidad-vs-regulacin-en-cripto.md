@@ -34,8 +34,12 @@ language: es
 alternateLanguages:
   pt: kyc-aml-privacidade-criptomoedas
   en: kyc-and-aml-privacy-vs-regulation-in-crypto
+metaTitle: 'KYC y AML: Privacidad vs Regulación en Cripto'
+metaDescription: >-
+  Descubre cómo equilibrar privacidad y regulación en el mundo de las
+  criptomonedas. Aprende sobre KYC y AML en nuestro artículo y lee más.
 ---
-La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda kyc y aml: privacidad vs regulación en cripto.
+La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda kyc y aml: privacidad vs regulación en [cripto](/artigo/kyc-aml-privacidade-criptomoedas "KYC e AML: Privacidade vs Regulação em Cripto").
 
 ## Por qué la seguridad es crucial
 
@@ -50,7 +54,7 @@ La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía ab
 
 ### Vectores de ataque
 
-1. **Ataques de Phishing**: Correos electrónicos y sitios falsos
+1. **[Ataques](/artigo/ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-carteras "Ataques de Pulverización: Protección Contra el Rastreo de Carteras") de Phishing**: Correos electrónicos y sitios falsos
 2. **Malware**: Keyloggers y trojans
 3. **SIM Swapping**: Robo de número de teléfono
 4. **Ingeniería social**: Manipulación psicológica

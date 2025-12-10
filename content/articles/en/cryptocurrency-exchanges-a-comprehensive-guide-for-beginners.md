@@ -47,5 +47,9 @@ language: en
 alternateLanguages:
   pt: exchanges-criptomoedas-guia-completo
   es: interacciones-de-criptomonedas-gua-completa-para-principiantes
+metaTitle: 'Cryptocurrency Exchanges: A Comprehensive Guide for Beginner'
+metaDescription: >-
+  Discover the world of cryptocurrency exchanges with our beginner's guide,
+  covering key concepts and essential tips to get you started. Read more!
 ---
 Não há conteúdo para traduzir.

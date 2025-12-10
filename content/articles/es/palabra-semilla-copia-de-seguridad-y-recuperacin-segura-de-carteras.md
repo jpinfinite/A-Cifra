@@ -36,8 +36,13 @@ alternateLanguages:
   pt: seed-phrase-backup-recuperacao-carteira
   en: seed-phrase-secure-wallet-backup-and-recovery
 language: es
+metaTitle: 'Palabra Semilla: Copia de Seguridad y Recuperación Segura de'
+metaDescription: >-
+  Descubre cómo proteger tus criptomonedas con una copia de seguridad y
+  recuperación segura de carteras a través de la palabra semilla. Lee más sobre
+  seguridad criptográfica.
 ---
-La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda seed phrase: backup y recuperación segura de carteras.
+La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda [seed](/artigo/seed-phrase-secure-wallet-backup-and-recovery "Seed Phrase: Secure Wallet Backup and Recovery") phrase: backup y recuperación segura de carteras.
 
 ## Por Qué la seguridad es Crucial
 
@@ -61,7 +66,7 @@ La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía ab
 
 ### la seguridad en Capas
 
-> ⚠️ **Importante:** Nunca compartilhe sus claves privadas o seed phrases con nadie.
+> ⚠️ **Importante:** Nunca compartilhe sus claves privadas o [seed](/artigo/seed-phrase-backup-recuperacao-carteira "Seed Phrase: Backup e Recuperação Segura de Carteiras") phrases con nadie.
 
 - **Autenticación 2FA**: Siempre active
 - **Contraseñas Fuertes**: Use gerenciador de contraseñas
@@ -99,10 +104,10 @@ La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía ab
 
 ## Conclusión
 
-la seguridad en cripto es responsabilidad individual. Implemente estas prácticas para proteger sus activos digitales.
+la seguridad en cripto es responsabilidad individual. Implemente estas prácticas para [proteger](/artigo/como-proteger-criptomoedas-guia-completo-seguranca "Como Proteger Suas Criptomoedas: Guia Completo de Segurança") sus activos digitales.
 
 ## 🚀 Comience a Invertir en Criptomonedas
 
-Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
+Para comprar las [criptomonedas](/artigo/cmo-proteger-sus-criptomonedas-gua-completa-de-seguridad "Cómo Proteger Sus Criptomonedas: Guía Completa de Seguridad") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />

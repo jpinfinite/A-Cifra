@@ -37,12 +37,17 @@ alternateLanguages:
   pt: impermanent-loss-explicado
   en: permanent-impermanent-loss-what-it-is-and-how-to-avoid-it
 language: es
+metaTitle: 'Perdida Impermante (Pérdida Impermante): ¿Qué Es y Cómo Evit'
+metaDescription: >-
+  Descubre qué es la pérdida impermanente y cómo evitarla en
+  [defi](/artigo/defi-yield-farming-protocolos-seguros-2026). Protege tus
+  inversiones, lee más.
 ---
 La pérdida impermanente es uno de los conceptos más importantes (y mal comprendidos) en [defi](/artigo/defi-yield-farming-protocolos-seguros-2026). Entienda qué es y cómo protegerse.
 
 ## ¿Qué es?
 
-La pérdida impermanente ocurre cuando se proporciona liquidez y el precio de los tokens cambia en relación con el momento del depósito.
+La pérdida [impermanente](/artigo/perdida-impermanente-prdida-impermante-qu-es-y-cmo-evitarla "Perdida Impermanente (Pérdida Impermante): ¿Qué Es y Cómo Evitarla") ocurre cuando se proporciona liquidez y el precio de los tokens cambia en relación con el momento del depósito.
 
 ## Ejemplo práctico
 
@@ -112,7 +117,7 @@ AMMs rebalancean automáticamente para mantener una proporción 50/50, vendiendo
 
 ## Conclusión
 
-La pérdida impermanente es real, pero puede ser compensada por:
+La pérdida [impermanente](/artigo/impermanent-loss-explicado "Perda Impermanente (Impermanent Loss): O Que É e Como Evitar") es real, pero puede ser compensada por:
 - Tasas de trading
 - Recompensas de farming
 - Incentivos del protocolo

@@ -34,18 +34,22 @@ language: en
 alternateLanguages:
   pt: uniswap-v4-hooks-personalizacao-defi
   es: uniswap-v4-y-hooks-nueva-era-de-personalizacin-en-defi
+metaTitle: 'Uniswap V4 and Hooks: A New Era of Personalization in DeFi'
+metaDescription: >-
+  Discover the power of Uniswap V4 and Hooks, revolutionizing DeFi with
+  customizable liquidity pools and personalized logic. Read more!
 ---
-**Uniswap V4** introduces customizable hooks that allow developers to create liquidity pools with personalized logic.
+**[Uniswap](/artigo/uniswap-v4-e-hooks-nueva-era-de-personalizacin-en-defi "Uniswap V4 e Hooks: Nueva Era de Personalización en DeFi") V4** introduces customizable hooks that allow developers to create liquidity pools with personalized logic.
 
 ## What are Hooks?
 
-Hooks are plugins that execute code at specific points in the lifecycle of a pool.
+[Hooks](/artigo/uniswap-v4-hooks-personalizacao-defi "Uniswap V4 e Hooks: Nova Era de Personalização em DeFi") are plugins that execute code at specific points in the lifecycle of a pool.
 
 ### Types of Hooks
 
 - **Before Swap**: Before the swap
 - **After Swap**: After the swap
-- **Before Add Liquidity**: Before adding liquidity
+- **Before Add [Liquidity](/artigo/liquidity-pools-the-heart-of-decentralized-finance-defi "Liquidity Pools: The Heart of Decentralized Finance (DeFi)")**: Before adding liquidity
 - **After Add Liquidity**: After adding liquidity
 
 ## Use Cases
@@ -77,7 +81,7 @@ All pools in a single contract, reducing gas costs.
 
 ## Conclusion
 
-Uniswap V4 opens infinite possibilities for innovation in [defi] through customizable hooks.
+[Uniswap](/artigo/uniswap-v4-y-hooks-nueva-era-de-personalizacin-en-defi "Uniswap V4 y Hooks: Nueva Era de Personalización en DeFi") V4 opens infinite possibilities for innovation in [defi] through customizable hooks.
 
 ## Start Investing in Cryptocurrencies
 

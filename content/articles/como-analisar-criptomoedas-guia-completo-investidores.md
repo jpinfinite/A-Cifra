@@ -44,6 +44,11 @@ categorySlug: analises
 alternateLanguages:
   en: how-to-analyze-cryptocurrencies-a-comprehensive-guide-for-investors
   es: cmo-analizar-criptomonedas-gua-completa-para-inversionistas
+metaTitle: 'Como Analisar Criptomoedas: Guia Completo para Investidores'
+metaDescription: >-
+  Aprenda as técnicas essenciais para analisar criptomoedas: análise técnica,
+  fundamentalista e on-chain. Ferramentas e estratégias para tomar decisões
+  infor...
 ---
 
 **Como Analisar Criptomoedas: Guia Completo para Investidores**

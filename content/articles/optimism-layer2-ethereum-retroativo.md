@@ -33,25 +33,29 @@ seo:
 alternateLanguages:
   en: optimism-layer-2-of-ethereum-with-retroactive-funding
   es: optimismo-capa-2-de-ethereum-con-financiacin-retroactiva
+metaTitle: 'Optimism: Layer 2 do Ethereum com Financiamento Retroativo'
+metaDescription: >-
+  Conheça Optimism, a solução Layer 2 que está revolucionando o financiamento de
+  bens públicos com RetroPGF.
 ---
 
-**Optimism: Layer 2 do Ethereum com Financiamento Retroativo**
+**[Optimism](/artigo/optimism-layer-2-of-ethereum-with-retroactive-funding "Optimism: Layer 2 of Ethereum with Retroactive Funding"): Layer 2 do Ethereum com Financiamento Retroativo**
 ===========================================================
 
 **Introdução**
 ------------
 
-A tecnologia blockchain tem sido um dos principais impulsionadores da inovação e do desenvolvimento de novas soluções em diversas áreas, desde a criptomoeda até a inteligência artificial. No entanto, uma das principais limitações da tecnologia blockchain é a escalabilidade, que é a capacidade de processar uma grande quantidade de transações em um curto período de tempo. Isso é especialmente importante para a blockchain mais popular, o Ethereum, que é utilizada para uma variedade de aplicações, incluindo a criação de contratos inteligentes e a execução de smart contracts.
+A tecnologia blockchain tem sido um dos principais impulsionadores da inovação e do desenvolvimento de novas soluções em diversas áreas, desde a criptomoeda até a inteligência artificial. No entanto, uma das principais limitações da tecnologia blockchain é a escalabilidade, que é a capacidade de processar uma grande quantidade de transações em um curto período de tempo. Isso é especialmente importante para a blockchain mais popular, o [Ethereum](/artigo/optimismo-capa-2-de-ethereum-con-financiacin-retroactiva "Optimismo: Capa 2 de Ethereum con Financiación Retroactiva"), que é utilizada para uma variedade de aplicações, incluindo a criação de contratos inteligentes e a execução de smart contracts.
 
 **O Problema da Escalabilidade do Ethereum**
 ---------------------------------------
 
-O Ethereum é uma blockchain baseada em uma estrutura de cadeia de blocos, que é uma lista de blocos de transações que são ligados por hashes. No entanto, essa estrutura tem uma limitação importante: a capacidade de processar apenas 15 transações por bloco. Isso significa que, para processar uma grande quantidade de transações, o Ethereum precisa de um grande número de blocos, o que pode levar a um aumento significativo no tempo de processamento e na taxa de transação.
+O [Ethereum](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability") é uma blockchain baseada em uma estrutura de cadeia de blocos, que é uma lista de blocos de transações que são ligados por hashes. No entanto, essa estrutura tem uma limitação importante: a capacidade de processar apenas 15 transações por bloco. Isso significa que, para processar uma grande quantidade de transações, o Ethereum precisa de um grande número de blocos, o que pode levar a um aumento significativo no tempo de processamento e na taxa de transação.
 
 **A Solução: Layer 2**
 -------------------
 
-Uma das soluções para o problema da escalabilidade do Ethereum é a criação de um Layer 2, que é uma camada adicional de tecnologia que permite processar transações de forma mais rápida e eficiente. O Layer 2 é uma tecnologia que permite que as transações sejam processadas em uma camada separada da blockchain principal, o que permite uma maior escalabilidade e uma redução no tempo de processamento.
+Uma das soluções para o problema da escalabilidade do Ethereum é a criação de um [Layer](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") 2, que é uma camada adicional de tecnologia que permite processar transações de forma mais rápida e eficiente. O Layer 2 é uma tecnologia que permite que as transações sejam processadas em uma camada separada da blockchain principal, o que permite uma maior escalabilidade e uma redução no tempo de processamento.
 
 **Optimism: O Layer 2 do Ethereum**
 ----------------------------------

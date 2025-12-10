@@ -34,8 +34,12 @@ language: es
 alternateLanguages:
   pt: gas-fees-ethereum-como-economizar
   en: ethereum-gas-fees-how-to-save-on-transactions
+metaTitle: 'Gastos de Gas en Ethereum: Cómo Ahorrar en Transacciones'
+metaDescription: >-
+  Descubre cómo ahorrar en transacciones de Ethereum con nuestros consejos
+  prácticos. Entérate de los gastos de gas y cómo manejarlos. iLee más!
 ---
-Este guía completo explora **Gastos de Gas en Ethereum** de forma detallada e accesible.
+Este guía completo explora **Gastos de Gas en [Ethereum](/artigo/ethereum-gas-fees-how-to-save-on-transactions "Ethereum Gas Fees: How to Save on Transactions")** de forma detallada e accesible.
 
 ## Introducción
 

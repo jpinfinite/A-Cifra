@@ -9,6 +9,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: [
           '/admin/',
           '/private/',
+          '/api/',
         ],
       },
       {
@@ -18,6 +19,10 @@ export default function robots(): MetadataRoute.Robots {
       },
       {
         userAgent: 'Mediapartners-Google',
+        allow: '/',
+      },
+      {
+        userAgent: 'Googlebot-Image',
         allow: '/',
       },
     ],

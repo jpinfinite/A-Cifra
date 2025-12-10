@@ -34,14 +34,18 @@ language: es
 alternateLanguages:
   pt: injective-dex-derivativos-descentralizados
   en: injective-protocol-fully-decentralized-derivatives-dex
+metaTitle: 'Injective Protocol: DEX de Derivativos Totalmente Descentral'
+metaDescription: >-
+  Descubre cómo el Protocolo Injective revoluciona el mercado de derivativos con
+  su DEX descentralizada y order book on-chain. Lee más!
 ---
-**Injective Protocol** es una blockchain Layer 1 construida específicamente para aplicaciones financieras descentralizadas.
+**[Injective](/artigo/injective-protocol-fully-decentralized-derivatives-dex "Injective Protocol: Fully Decentralized Derivatives DEX") Protocol** es una blockchain Layer 1 construida específicamente para aplicaciones financieras descentralizadas.
 
 ## Diferenciales
 
 ### Order Book Descentralizado
 
-Diferente de AMMs, Injective utiliza order book on-chain para una mejor descubierta de precio.
+Diferente de AMMs, [Injective](/artigo/injective-dex-derivativos-descentralizados "Injective Protocol: DEX de Derivativos Totalmente Descentralizada") utiliza order book on-chain para una mejor descubierta de precio.
 
 ### Zero Gas Fees
 

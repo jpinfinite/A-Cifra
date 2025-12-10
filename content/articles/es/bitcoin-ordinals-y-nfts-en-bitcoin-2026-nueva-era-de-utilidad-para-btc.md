@@ -39,6 +39,10 @@ language: es
 alternateLanguages:
   pt: bitcoin-ordinals-nfts-bitcoin-2026
   en: bitcoin-ordinals-and-nfts-on-bitcoin-2026-new-era-of-utility-for-btc
+metaTitle: 'Bitcoin Ordinals y NFTs en Bitcoin 2026: Nueva Era de Utilid'
+metaDescription: >-
+  Descubre cómo Bitcoin Ordinals y NFTs están revolucionando la plataforma de
+  Bitcoin en 2026, ofreciendo una nueva era de utilidad para BTC. Lee más!
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Ordinals e NFTs no [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) 2026: Nova Era de Utilidade para BTC
 
@@ -48,8 +52,8 @@ alternateLanguages:
 
 ### A Inovação de Casey Rodarmor
 
-**Janeiro de 2023:** Casey Rodarmor lança Ordinals
-**Conceito:** Numerar cada satoshi (menor unidade de Bitcoin) e inscrever dados nele
+**Janeiro de 2023:** Casey Rodarmor lança [Ordinals](/artigo/bitcoin-ordinals-and-nfts-on-bitcoin-2026-new-era-of-utility-for-btc "Bitcoin Ordinals and NFTs on Bitcoin 2026: New Era of Utility for BTC")
+**Conceito:** Numerar cada satoshi (menor unidade de [Bitcoin](/artigo/bitcoin-ordinals-nfts-bitcoin-2026 "Bitcoin Ordinals e NFTs no Bitcoin 2026: Nova Era de Utilidade para BTC")) e inscrever dados nele
 
 **Como funciona:**
 1. Cada satoshi recebe um número único (ordinal)

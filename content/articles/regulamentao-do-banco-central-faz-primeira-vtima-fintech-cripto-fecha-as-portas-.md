@@ -39,10 +39,14 @@ alternateLanguages:
     regulation-of-the-central-bank-makes-its-first-victim-crypto-fintech-closes-its-doors-in-brazil
   es: >-
     regulacin-del-banco-central-hace-su-primera-vctima-fintech-cripto-cierra-sus-puertas-en-brasil
+metaTitle: 'Regulamentação do Banco Central faz primeira vítima: fintech...'
+metaDescription: >-
+  Resumo da notícia: Regulamentação do Banco Central faz primeira vítima:
+  fintech cripto fecha as portas no Brasil.
 ---
 # Regulamentação do Banco Central faz primeira vítima: fintech cripto fecha as portas no Brasil
 
-**A Revolução da Tecnologia Financeira e a Regulamentação do Banco Central**
+**A Revolução da Tecnologia Financeira e a Regulamentação do Banco [Central](/artigo/regulation-of-the-central-bank-makes-its-first-victim-crypto-fintech-closes-its-doors-in-brazil "Regulation of the Central Bank makes its first victim: crypto fintech closes its doors in Brazil")**
 
 A tecnologia financeira, ou fintech, tem sido uma das principais forças impulsoras da inovação e do crescimento econômico nos últimos anos. Com a emergência de novas tecnologias e plataformas, as empresas de fintech têm sido capazes de oferecer soluções mais eficientes, seguras e acessíveis para os clientes, revolucionando a forma como as pessoas gerenciam suas finanças.
 

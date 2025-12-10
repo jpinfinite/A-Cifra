@@ -34,12 +34,17 @@ language: es
 alternateLanguages:
   pt: lightning-network-bitcoin-pagamentos-rapidos
   en: lightning-network-instant-bitcoin-payments
+metaTitle: 'Red de Relámpago: Pagos Bitcoin Instantáneos'
+metaDescription: >-
+  Explora la Red de Relámpago de Bitcoin para pagos instantáneos y descubre su
+  importancia en el ecosistema cripto. Lee más sobre su funcionamiento y
+  aplicaciones.
 ---
 Este guía completo explora **Red de Relámpago** de forma detallada e accesible.
 
 ## Introducción
 
-Entender este concepto es fundamental para cualquier persona involucrada con criptomonedas y blockchain.
+Entender este concepto es fundamental para cualquier persona involucrada con [criptomonedas](/artigo/cmo-funciona-la-minera-de-criptomonedas "¿Cómo Funciona la Minería de Criptomonedas?") y blockchain.
 
 ## Conceptos Fundamentales
 

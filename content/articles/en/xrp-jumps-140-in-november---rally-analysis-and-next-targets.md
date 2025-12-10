@@ -38,8 +38,12 @@ alternateLanguages:
   pt: xrp-dispara-140-porcento-novembro-analise
   es: xrp-dispara-140-en-noviembre---anlisis-del-rally-y-prximos-objetivos
 language: en
+metaTitle: XRP Jumps 140% in November - Rally Analysis and Next Targets
+metaDescription: >-
+  Discover why XRP surged 140% in November and what's next for this
+  cryptocurrency, with expert analysis and insights. Read more!
 ---
-XRP Surges 140% in November - Rally Analysis and Next Targets
+XRP [Surges](/artigo/xrp-surges-140-in-november---rally-analysis-and-next-targets "XRP Surges 140% in November - Rally Analysis and Next Targets") 140% in November - Rally Analysis and Next Targets
 
 **30 November 2025** - XRP has been one of the most impressive rallies in November, **surging 140%** and rising from $0.58 at the beginning of the month to $1.40 today. The Ripple token has outperformed [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (+8%) and [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (+12%) in performance, reclaiming its position as the **3rd largest cryptocurrency** by market cap.
 
@@ -72,9 +76,9 @@ XRP Surges 140% in November - Rally Analysis and Next Targets
 **Context:** 4-year legal battle (2020-2024)
 
 **Timeline:**
-- **2020:** SEC sues Ripple for selling "unregistered security"
+- **2020:** SEC sues [Ripple](/artigo/ripple-and-xrp-revolutionizing-global-payments "Ripple and XRP: Revolutionizing Global Payments") for selling "unregistered security"
 - **2023:** Ripple wins partial victories
-- **2024:** Final agreement - Ripple pays $125M (vs $2B requested)
+- **2024:** Final agreement - [Ripple](/artigo/xrp-y-ripple-revolucionando-pagos-globales "XRP y Ripple: Revolucionando Pagos Globales") pays $125M (vs $2B requested)
 - **Nov 2025:** Total regulatory clarity
 
 **Impact:** XRP is officially **NOT a security** for programmatic sales.
@@ -187,7 +191,7 @@ XRP Surges 140% in November - Rally Analysis and Next Targets
 
 ## Risks
 
-**Centralization:** Ripple controls a significant part
+**Centralization:** [Ripple](/artigo/xrp-pagamentos-globais "XRP e Ripple: Revolucionando Pagamentos Globais") controls a significant part
 **Competition:** Stellar, CBDCs, SWIFT GPI
 **Volatility:** Can fall 30-50% in corrections
 **Regulation:** Other countries may have a different view

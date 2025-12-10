@@ -34,6 +34,11 @@ language: es
 alternateLanguages:
   pt: slippage-impacto-permanente-defi
   en: slippage-and-price-impact-in-defi
+metaTitle: Slippage e Impacto de Precio en DeFi
+metaDescription: >-
+  Descubre cómo la slippage y el impacto de precio afectan a DeFi en este guía
+  detallada. Aprende sobre sus conceptos fundamentales y sus aplicaciones
+  reales. iLee más!
 ---
 Este guía completo explora **Slippage e Impacto de Precio en [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)** de forma detallada y accesible.
 

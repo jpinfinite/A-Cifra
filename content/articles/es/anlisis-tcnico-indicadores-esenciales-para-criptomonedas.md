@@ -41,10 +41,14 @@ language: es
 alternateLanguages:
   pt: analise-tecnica-indicadores-essenciais-cripto
   en: technical-analysis-essential-indicators-for-crypto
+metaTitle: 'Análisis Técnico: Indicadores Esenciales para Criptomonedas'
+metaDescription: >-
+  Descubre los indicadores esenciales para analizar criptomonedas y tomar
+  decisiones informadas. Lee más sobre Análisis Técnico en nuestro artículo.
 ---
-Análisis Técnico: Indicadores Esenciales para Criptos
+Análisis Técnico: [Indicadores](/artigo/analise-tecnica-indicadores-essenciais-cripto "Análise Técnica: Indicadores Essenciais para Cripto") Esenciales para Criptos
 
-La análisis técnica es fundamental para traders de criptomonedas, permitiendo identificar tendencias, puntos de entrada y salida a través del estudio de gráficos e indicadores.
+La análisis técnica es fundamental para traders de criptomonedas, permitiendo identificar tendencias, puntos de entrada y salida a través del estudio de gráficos e [indicadores](/artigo/anlisis-tcnico-indicadores-esenciales-para-cripto "Análisis Técnico: Indicadores Esenciales para Cripto").
 
 ¿Qué es Análisis Técnica?
 
@@ -109,8 +113,8 @@ Componentes
 - El histograma: Diferencia entre MACD y Sinal
 
 Sinales
-- Cruzamento Bullish: MACD cruza arriba de la línea de sinal
-- Cruzamento Bearish: MACD cruza abajo de la línea de sinal
+- Cruzamento Bullish: [MACD](/artigo/rsi-macd-and-fibonacci-technical-analysis-tools "RSI, MACD and Fibonacci: Technical Analysis Tools") cruza arriba de la línea de sinal
+- Cruzamento Bearish: [MACD](/artigo/rsi-macd-y-fibonacci-herramientas-de-anlisis-tcnico "RSI, MACD y Fibonacci: Herramientas de Análisis Técnico") cruza abajo de la línea de sinal
 - Divergencias: Precio y MACD en direcciones opuestas
 
 ADX (Average Directional Index)

@@ -37,14 +37,18 @@ language: es
 alternateLanguages:
   pt: cosmos-atom-internet-blockchains
   en: cosmos-atom-the-internet-of-blockchains
+metaTitle: 'Cosmos (ATOM): La Internet de las Blockchains'
+metaDescription: >-
+  Descubre la internet de blockchains con Cosmos (ATOM), un ecosistema de
+  blockchains independientes e interoperables. Lee más!
 ---
 Cosmos (ATOM): La Internet de las Blockchains
 
-El Cosmos es un ecosistema de blockchains independientes e interoperables, creando una "internet de blockchains" donde diferentes redes pueden comunicarse y intercambiar valor.
+El [Cosmos](/artigo/cosmos-atom-internet-blockchains "Cosmos (ATOM): A Internet das Blockchains") es un ecosistema de blockchains independientes e interoperables, creando una "internet de blockchains" donde diferentes redes pueden comunicarse y intercambiar valor.
 
 ## ¿Qué es Cosmos?
 
-Cosmos es un protocolo que permite que blockchains independientes se comuniquen entre sí a través del Inter-Blockchain Communication (IBC).
+[Cosmos](/artigo/cosmos-atom-the-internet-of-blockchains "Cosmos (ATOM): The Internet of Blockchains") es un protocolo que permite que blockchains independientes se comuniquen entre sí a través del Inter-Blockchain Communication (IBC).
 
 ### Visión del Proyecto
 - Resolver la fragmentación blockchain
@@ -172,7 +176,7 @@ Framework para construir blockchains:
 
 ## Cosmos vs Polkadot
 
-Ambos se enfocan en interoperabilidad, pero con enfoques diferentes:
+Ambos se enfocan en [interoperabilidad](/artigo/polkadot-paracadenas-e-interoperabilidad-blockchain "Polkadot: Paracadenas e Interoperabilidad Blockchain"), pero con enfoques diferentes:
 
 ### Cosmos
 - **Soberanía**: Cada cadena es independiente

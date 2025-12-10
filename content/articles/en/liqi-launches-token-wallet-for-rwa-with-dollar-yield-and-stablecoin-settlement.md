@@ -38,6 +38,10 @@ alternateLanguages:
     liqi-lana-carteira-para-tokens-rwa-com-rendimento-em-dlar-e-liquidao-em-stableco
   es: >-
     liqi-lanza-cartera-para-tokens-rwa-con-rendimiento-en-dlar-y-liquidacin-en-stablecoins
+metaTitle: Liqi launches token wallet for RWA with dollar yield and sta
+metaDescription: >-
+  Discover Liqi's innovative RWA token wallet with dollar yield and stablecoin
+  settlement. Read more about this game-changing solution!
 ---
 # Liqui Launches RWA Token Wallet with Dollar Yield and Stablecoin Liquidity
 

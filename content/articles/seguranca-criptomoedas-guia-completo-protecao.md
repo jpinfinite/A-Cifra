@@ -46,13 +46,18 @@ alternateLanguages:
     cryptocurrency-security-2025-complete-guide---how-to-protect-your-assets-from-hacks-and-scams
   es: >-
     seguridad-en-criptomonedas-gua-completa-2025---cmo-proteger-sus-activos-de-hacks-y-estafas
+metaTitle: 'Segurança em Criptomoedas: Guia Completo 2025 - Como Protege...'
+metaDescription: >-
+  Guia definitivo de segurança cripto: hardware wallets, 2FA, phishing, golpes
+  comuns, melhores práticas e como proteger seus Bitcoin, Ethereum e altcoins
+  em...
 ---
 
 # Segurança em Criptomoedas: Guia Completo 2025 - Como Proteger Seus Ativos de Hacks e Golpes
 
 Em 2024, **$2,3 bilhões** foram roubados em hacks e golpes de criptomoedas. A maioria poderia ter sido evitada com práticas básicas de segurança. Quando você é seu próprio banco, a responsabilidade pela segurança é 100% sua.
 
-Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: tipos de carteiras, hardware wallets, 2FA, como identificar golpes, phishing, melhores práticas e como proteger seus ativos contra hackers, scammers e até você mesmo.
+Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: tipos de carteiras, hardware wallets, 2FA, como identificar golpes, phishing, melhores práticas e como [proteger](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") seus ativos contra hackers, scammers e até você mesmo.
 
 ## 🎯 Princípios Fundamentais
 
@@ -60,7 +65,7 @@ Neste guia completo, você vai aprender tudo sobre segurança em criptomoedas: t
 
 **O que significa:**
 - Se você não controla as chaves privadas, não possui as criptomoedas
-- Exchanges custodiam suas chaves = você confia nelas
+- Exchanges custodiam [suas](/artigo/proteger-criptomoedas-guia-seguranca-completo "Como Proteger Suas Criptomoedas: Guia de Segurança Completo") chaves = você confia nelas
 - Carteira própria = você controla 100%
 
 **Exemplos históricos:**
@@ -579,11 +584,11 @@ Para comprar criptomoedas em exchanges seguras e reguladas:
 
 ### 3. É seguro deixar cripto em [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)?
 
-**Resposta:** Para trading ativo e quantias pequenas (<R$5.000), sim, em exchanges reguladas (Binance, Coinbase, Kraken). Para holding longo prazo ou quantias grandes, **não**. Histórico: Mt. Gox, QuadrigaCX, FTX. "Not your keys, not your coins."
+**Resposta:** Para trading ativo e quantias pequenas (<R$5.000), sim, em exchanges reguladas (Binance, Coinbase, Kraken). Para holding longo prazo ou quantias grandes, **não**. Histórico: Mt. Gox, QuadrigaCX, FTX. "Not [your](/artigo/how-to-protect-your-cryptocurrencies-complete-security-guide "How to Protect Your Cryptocurrencies: Complete Security Guide") keys, not your coins."
 
 ### 4. Como identificar site de phishing?
 
-**Resposta:** Verifique: (1) **URL exata** (binance.com, não binance-security.com), (2) **Certificado SSL** (cadeado verde), (3) **Erros de português**, (4) **Urgência** ("aja agora"). Sempre digite URL manualmente, nunca clique em links de email.
+**Resposta:** Verifique: (1) **URL exata** (binance.com, não binance-[security](/artigo/cryptocurrency-security-2025-complete-guide---how-to-protect-your-assets-from-hacks-and-scams "Cryptocurrency Security: 2025 Complete Guide - How to Protect Your Assets from Hacks and Scams").com), (2) **Certificado SSL** (cadeado verde), (3) **Erros de português**, (4) **Urgência** ("aja agora"). Sempre digite URL manualmente, nunca clique em links de email.
 
 ### 5. Alguém pode hackear minha [hardware wallet](/artigo/ledger-vs-trezor-review)?
 

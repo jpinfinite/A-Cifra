@@ -30,8 +30,12 @@ language: es
 alternateLanguages:
   pt: suporte-resistencia-identificar-niveis
   en: support-and-resistance-how-to-identify-key-levels
+metaTitle: 'Soporte y Resistencia: Cómo Identificar Niveles Clave'
+metaDescription: >-
+  Descubre cómo identificar niveles clave de soporte e resistencia en el mercado
+  y toma decisiones informadas con nuestra guía práctica. Lee más!
 ---
-Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora soporte e resistencia: como identificar niveles clave.
+Análisis de mercado es fundamental para tomar decisiones informadas. Este guía explora soporte e resistencia: como [identificar](/artigo/suporte-resistencia-identificar-niveis "Suporte e Resistência: Como Identificar Níveis Chave") niveles clave.
 
 ## Fundamentos de Análisis
 

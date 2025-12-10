@@ -34,12 +34,17 @@ language: en
 alternateLanguages:
   pt: consensus-mechanisms-pow-pos-comparacao
   es: mecanismos-de-consenso-pow-vs-pos-explicado
+metaTitle: 'Mechanisms of Consensus: PoW vs PoS Explained'
+metaDescription: >-
+  Learn about the mechanisms of consensus in blockchain, comparing PoW and PoS.
+  Discover the fundamental concepts behind cryptocurrency and blockchain
+  technology. Read more!
 ---
-This is a comprehensive guide that explores **Consensus Mechanisms** in detail and in an accessible way.
+This is a comprehensive [guide](/artigo/what-is-blockchain-complete-guide-for-beginners "What is Blockchain? Complete Guide for Beginners") that explores **Consensus Mechanisms** in detail and in an accessible way.
 
 ## Introduction
 
-Understanding this concept is fundamental for anyone involved with cryptocurrencies and blockchain.
+Understanding this concept is fundamental for anyone involved with cryptocurrencies and [blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners").
 
 ## Key Concepts
 

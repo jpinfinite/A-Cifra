@@ -34,6 +34,10 @@ language: es
 alternateLanguages:
   pt: smart-contracts-funcionamento-casos-uso
   en: smart-contracts-how-they-work-and-real-world-use-cases
+metaTitle: 'Contratos Inteligentes: Cómo Funcionan y Casos de Uso Reales'
+metaDescription: >-
+  Descubre cómo funcionan los Contratos Inteligentes y sus casos de uso reales
+  en este guía detallada. Lee más sobre su importancia en el ecosistema cripto.
 ---
 Este guía completo explora **Contratos Inteligentes** de forma detallada e accesible.
 

@@ -37,12 +37,16 @@ language: en
 alternateLanguages:
   pt: impermanent-loss-explicado
   es: perdida-impermanente-prdida-impermante-qu-es-y-cmo-evitarla
+metaTitle: 'Permanent Irreversible Loss: What It Is and How to Avoid It'
+metaDescription: >-
+  Learn about Permanent Irreversible Loss in DeFi and discover how to protect
+  yourself from unforeseen market changes. Read more!
 ---
-Permanent Impermanent Loss is one of the most important (and poorly understood) concepts in DeFi. Understand what it is and how to protect yourself.
+[Permanent](/artigo/permanent-impermanent-loss-what-it-is-and-how-to-avoid-it "Permanent Impermanent Loss: What It Is and How to Avoid It") Impermanent Loss is one of the most important (and poorly understood) concepts in DeFi. Understand what it is and how to protect yourself.
 
 ## What Is It?
 
-Permanent Impermanent Loss occurs when you provide liquidity and the price of tokens changes in relation to the moment of deposit.
+Permanent [Impermanent](/artigo/impermanent-loss-explicado "Perda Impermanente (Impermanent Loss): O Que É e Como Evitar") Loss occurs when you provide liquidity and the price of tokens changes in relation to the moment of deposit.
 
 ## Practical Example
 

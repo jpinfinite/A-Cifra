@@ -34,6 +34,10 @@ language: es
 alternateLanguages:
   pt: optimism-layer2-ethereum-retroativo
   en: optimism-layer-2-of-ethereum-with-retroactive-funding
+metaTitle: 'Optimismo: Capa 2 de Ethereum con Financiación Retroactiva'
+metaDescription: >-
+  Descubre cómo Optimismo revoluciona la escalabilidad de Ethereum con su capa 2
+  innovadora y financiación retroactiva. ¡Lee más!
 ---
 **Optimismo** es una solución Layer 2 para [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) que combina escalabilidad técnica con inovação en financiamento de bens públicos.
 

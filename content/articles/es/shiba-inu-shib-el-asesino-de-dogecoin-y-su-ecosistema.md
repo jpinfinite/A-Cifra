@@ -37,12 +37,16 @@ language: es
 alternateLanguages:
   pt: shiba-inu-dogecoin-killer
   en: shiba-inu-shib-the-dogecoin-killer-and-its-ecosystem
+metaTitle: 'Shiba Inu (SHIB): El "Asesino de Dogecoin" y su Ecosistema'
+metaDescription: >-
+  Descubre la historia y el ecosistema del Shiba Inu (SHIB), el asesino de
+  Dogecoin que revolucionó el mundo de las criptomonedas. Lee más!
 ---
-El Shiba Inu (SHIB) surgió en 2020 como una alternativa al Dogecoin, pero evolucionó para mucho más que una simple memecoin.
+El [Shiba](/artigo/shiba-inu-shib-the-dogecoin-killer-and-its-ecosystem "Shiba Inu (SHIB): The "Dogecoin Killer" and Its Ecosystem") Inu (SHIB) surgió en 2020 como una alternativa al Dogecoin, pero evolucionó para mucho más que una simple memecoin.
 
 ## La Historia del SHIB
 
-Fue creado anónimamente por "Ryoshi" en agosto de 2020, y se presentó como el "Dogecoin Killer".
+Fue creado anónimamente por "Ryoshi" en agosto de 2020, y se presentó como el "[Dogecoin](/artigo/dogecoin-historia-e-futuro "Dogecoin: A História da Memecoin Que Virou Fenômeno Global") Killer".
 
 **Lanzamiento Único:**
 - 50% de la oferta enviada a Vitalik Buterin
@@ -138,7 +142,7 @@ El futuro del SHIB depende de:
 
 ## Conclusión
 
-El Shiba Inu evolucionó de una simple memecoin a un ecossistema completo. Su éxito dependerá de la ejecución de los proyectos y adocción real más allá de la especulación.
+El [Shiba](/artigo/shiba-inu-dogecoin-killer "Shiba Inu (SHIB): O "Dogecoin Killer" e Seu Ecossistema") Inu evolucionó de una simple memecoin a un ecossistema completo. Su éxito dependerá de la ejecución de los proyectos y adocción real más allá de la especulación.
 
 ## ¿Comece a Invertir en Criptomonedas?
 

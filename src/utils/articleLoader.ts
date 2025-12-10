@@ -179,7 +179,8 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
     language: (fileArticle.language === 'pt-BR' || fileArticle.language === 'en' || fileArticle.language === 'es')
       ? fileArticle.language
       : undefined,
-    alternateLanguages: fileArticle.alternateLanguages
+    alternateLanguages: fileArticle.alternateLanguages,
+    readingTime: Math.ceil(fileArticle.content.split(/\s+/).length / 200)
   }
 }
 

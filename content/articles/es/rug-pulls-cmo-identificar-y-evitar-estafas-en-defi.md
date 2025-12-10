@@ -32,8 +32,12 @@ language: es
 alternateLanguages:
   pt: rug-pulls-como-identificar-evitar
   en: rug-pulls-how-to-identify-and-avoid-scams-in-defi
+metaTitle: 'Rug Pulls: Cómo Identificar y Evitar Estafas en DeFi'
+metaDescription: >-
+  Descubre cómo identificar y evitar rug pulls en DeFi. Mantén tus criptomonedas
+  seguras y evita estafas. Lee más sobre seguridad en DeFi.
 ---
-La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda rug pulls: cómo identificar y evitar golpes en DeFi.
+La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía aborda rug [pulls](/artigo/rug-pulls-how-to-identify-and-avoid-scams-in-defi "Rug Pulls: How to Identify and Avoid Scams in DeFi"): cómo identificar y evitar golpes en DeFi.
 
 ## Por qué la seguridad es crucial
 
@@ -95,7 +99,7 @@ La seguridad es el aspecto más crítico al manejar criptomonedas. Este guía ab
 
 ## Conclusión
 
-La seguridad en cripto es responsabilidad individual. Implemente estas prácticas para proteger sus activos digitales.
+La seguridad en cripto es responsabilidad individual. Implemente estas prácticas para [proteger](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") sus activos digitales.
 
 ## 🚀 Comience a invertir en criptomonedas
 

@@ -30,8 +30,13 @@ language: en
 alternateLanguages:
   pt: on-chain-analysis-metricas-importantes
   es: anlisis-en-lnea-mtricas-importantes-para-inversores
+metaTitle: 'On-Chain Analysis: Key Metrics for Investors'
+metaDescription: >-
+  Unlock on-chain analysis key metrics for informed investment decisions. Learn
+  how to identify entry/exit moments, manage risk, and find opportunities. Read
+  more!
 ---
-Market Analysis is fundamental for making informed decisions. This guide explores on-chain analysis: key metrics for investors.
+Market Analysis is fundamental for making informed decisions. This guide explores on-[chain](/artigo/anlisis-en-chain-mtricas-importantes-para-inversionistas "Análisis En-Chain: Métricas Importantes para Inversionistas") analysis: key metrics for investors.
 
 ## Fundamentals of Analysis
 
@@ -104,7 +109,7 @@ Market analysis is a skill that develops with continuous practice and study. Use
 
 ## 🚀 Start Investing in Cryptocurrencies
 
-To buy the cryptocurrencies mentioned in this article, use one of the recommended exchanges:
+To buy the [cryptocurrencies](/artigo/how-to-analyze-cryptocurrencies-a-comprehensive-guide-for-investors "How to Analyze Cryptocurrencies: A Comprehensive Guide for Investors") mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
 

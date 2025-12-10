@@ -33,22 +33,26 @@ seo:
 alternateLanguages:
   en: atomic-swaps-decentralized-exchanges-between-blockchains
   es: atomic-swaps-trocas-descentralizadas-entre-blockchains
+metaTitle: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
+metaDescription: >-
+  Entenda como atomic swaps permitem trocas trustless entre diferentes
+  criptomoedas.
 ---
 
-**Atomic Swaps: Trocas Descentralizadas Entre Blockchains**
+**[Atomic](/artigo/atomic-swaps-decentralized-exchanges-between-blockchains "Atomic Swaps: Decentralized Exchanges Between Blockchains") Swaps: Trocas Descentralizadas Entre Blockchains**
 ===========================================================
 
 **Introdução**
 ------------
 
-A evolução da tecnologia blockchain tem sido impressionante nos últimos anos, com a criação de novas blockchains e a expansão da adesão a plataformas existentes. No entanto, uma das principais limitações dessas tecnologias é a falta de interoperabilidade entre elas. Isso significa que os usuários não podem facilmente transferir ativos entre diferentes blockchains, o que pode ser um obstáculo significativo para a adoção e o uso dessas tecnologias.
+A evolução da tecnologia [blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners") tem sido impressionante nos últimos anos, com a criação de novas blockchains e a expansão da adesão a plataformas existentes. No entanto, uma das principais limitações dessas tecnologias é a falta de interoperabilidade entre elas. Isso significa que os usuários não podem facilmente transferir ativos entre diferentes blockchains, o que pode ser um obstáculo significativo para a adoção e o uso dessas tecnologias.
 
-Para superar essa limitação, os desenvolvedores de blockchain têm trabalhado em soluções que permitam a troca de ativos entre diferentes blockchains de forma descentralizada e eficiente. Uma dessas soluções é o Atomic Swap, um mecanismo que permite a troca de ativos entre blockchains sem a necessidade de intermediários centrais.
+Para superar essa limitação, os desenvolvedores de blockchain têm trabalhado em soluções que permitam a troca de ativos entre diferentes blockchains de forma descentralizada e eficiente. Uma dessas soluções é o [Atomic](/artigo/atomic-swaps-trocas-descentralizadas-entre-blockchains "Atomic Swaps: Trocas Descentralizadas Entre Blockchains") Swap, um mecanismo que permite a troca de ativos entre blockchains sem a necessidade de intermediários centrais.
 
 **O que são Atomic Swaps?**
 -------------------------
 
-Um Atomic Swap é um tipo de contrato inteligente que permite a troca de ativos entre diferentes blockchains de forma descentralizada e automática. O mecanismo funciona da seguinte maneira: dois usuários, cada um com uma blockchain diferente, concordam em trocar um ativo por outro. O contrato inteligente é executado em ambas as blockchains, garantindo que a troca seja feita de forma segura e eficiente.
+Um [Atomic](/artigo/atomic-swaps-trocas-descentralizadas-entre-cadenas-de-bloques "Atomic Swaps: Trocas Descentralizadas Entre Cadenas de Bloques") Swap é um tipo de contrato inteligente que permite a troca de ativos entre diferentes blockchains de forma descentralizada e automática. O mecanismo funciona da seguinte maneira: dois usuários, cada um com uma blockchain diferente, concordam em trocar um ativo por outro. O contrato inteligente é executado em ambas as blockchains, garantindo que a troca seja feita de forma segura e eficiente.
 
 O nome "Atomic Swap" vem do fato de que a troca é executada como uma única unidade, sem a necessidade de intermediários centrais. Isso significa que a troca é irreversível e não pode ser cancelada. Além disso, o mecanismo é descentralizado, o que significa que não há uma entidade central que controle a troca.
 

@@ -45,12 +45,16 @@ language: es
 alternateLanguages:
   pt: layer-2-essencial-ethereum-escalabilidade
   en: what-are-layer-2-and-why-are-they-essential-for-ethereum
+metaTitle: ¿Qué son Layer 2 y por qué son esenciales para el Ethereum
+metaDescription: >-
+  Descubre qué son las capas 2 y por qué son esenciales para Ethereum. Conoce
+  sus beneficios y cómo pueden mejorar tu experiencia en la red. Lee más!
 ---
 # O Que São Layer 2 e Por Que São Essenciais para o Ethereum
 
-As **soluções Layer 2** representam a evolução natural do Ethereum, resolvendo seus maiores desafios: velocidade e custo. Enquanto a rede principal (Layer 1) garante máxima segurança e descentralização, as Layer 2 processam milhares de transações por segundo com taxas de centavos.
+As **soluções [Layer](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") 2** representam a evolução natural do Ethereum, resolvendo seus maiores desafios: velocidade e custo. Enquanto a rede principal (Layer 1) garante máxima segurança e descentralização, as Layer 2 processam milhares de transações por segundo com taxas de centavos.
 
-Em 2025, as Layer 2s movimentam mais de $15 bilhões em TVL (Total Value Locked) e processam mais transações que a própria mainnet do Ethereum. Elas não são apenas uma solução temporária - são o futuro da escalabilidade blockchain.
+Em 2025, as [Layer](/artigo/layer-2-essencial-ethereum-escalabilidade "O Que São Layer 2 e Por Que São Essenciais para o Ethereum") 2s movimentam mais de $15 bilhões em TVL (Total Value Locked) e processam mais transações que a própria mainnet do Ethereum. Elas não são apenas uma solução temporária - são o futuro da escalabilidade blockchain.
 
 ## 🔍 O Problema de Escalabilidade do Ethereum
 
@@ -89,7 +93,7 @@ Aumentar blocos compromete descentralização:
 
 ### Definição
 
-**Layer 2** são protocolos construídos sobre o Ethereum (Layer 1) que processam transações off-chain mas herdam a segurança da mainnet.
+**Layer 2** são protocolos construídos sobre o [Ethereum](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability") (Layer 1) que processam transações off-chain mas herdam a segurança da mainnet.
 
 ### Como Funcionam (Conceito Geral)
 
@@ -174,7 +178,7 @@ Aumentar blocos compromete descentralização:
 
 ### 2. Sidechains
 
-**Conceito:** Blockchains independentes conectadas ao Ethereum.
+**Conceito:** Blockchains independentes conectadas ao [Ethereum](/artigo/capa-2-de-ethereum-gua-completa-2025---arbitrum-optimism-base-y-el-futuro-de-la-escalabilidad "Capa 2 de Ethereum: Guía Completa 2025 - Arbitrum, Optimism, Base y el Futuro de la Escalabilidad").
 
 **Características:**
 - Consenso próprio

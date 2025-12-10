@@ -36,15 +36,20 @@ seo:
 alternateLanguages:
   en: cryptocurrency-taxes-in-brazil-2025-complete-guide-to-ir
   es: impuestos-sobre-criptomonedas-en-brasil-2025-gua-completa-del-ir
+metaTitle: 'Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do...'
+metaDescription: >-
+  Guia definitivo sobre impostos de criptomoedas: como declarar no IR 2025,
+  calcular ganho de capital, evitar multas e usar ferramentas de cálculo
+  automático...
 ---
 
 # Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR
 
-Muitos investidores de criptomoedas têm dúvidas sobre impostos: **preciso declarar? Quanto pago? Como calcular?** Este guia responde TODAS essas perguntas.
+Muitos investidores de criptomoedas têm dúvidas [sobre](/artigo/impuestos-sobre-criptomonedas-en-brasil-2025-gua-completa-del-ir "Impuestos sobre Criptomonedas en Brasil 2025: Guía Completa del IR") impostos: **preciso declarar? Quanto pago? Como calcular?** Este guia responde TODAS essas perguntas.
 
-A boa notícia: **declarar cripto é mais simples do que parece**. A má notícia: **não declarar pode resultar em multas pesadas**.
+A boa notícia: **declarar [cripto](/artigo/como-investir-cripto-iniciantes-2026 "Como Investir em Cripto: Guia Completo para Iniciantes 2026") é mais simples do que parece**. A má notícia: **não declarar pode resultar em multas pesadas**.
 
-Vamos descomplicar tudo neste guia definitivo atualizado para 2025.
+Vamos descomplicar tudo neste [guia](/artigo/como-funcionam-stablecoins-guia-completo-2025 "Como Funcionam as Stablecoins: Guia Completo para Iniciantes 2025") definitivo atualizado para 2025.
 
 ## Regras Básicas: O Que Você Precisa Saber
 
@@ -279,7 +284,7 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 ```text
 0,5 [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) (BTC) adquiridos em exchanges Binance e Mercado [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional).
 Custo médio de aquisição: R$ 114.000 por BTC.
-Carteira: bc1q... (primeiros e últimos caracteres)
+[Carteira](/artigo/carteira-criptomoedas-iniciantes-diversificacao-2025 "Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia"): bc1q... (primeiros e últimos caracteres)
 ```
 
 **Situação em 31/12/2024:**

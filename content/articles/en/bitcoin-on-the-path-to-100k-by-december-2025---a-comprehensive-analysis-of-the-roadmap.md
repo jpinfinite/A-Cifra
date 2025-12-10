@@ -43,6 +43,10 @@ alternateLanguages:
   pt: bitcoin-100k-dezembro-2025-analise-caminho
   es: bitcoin-rumbo-a-los-100k-en-diciembre-2025---anlisis-completo-del-camino
 language: en
+metaTitle: Bitcoin on the Path to $100K by December 2025 - A Comprehens
+metaDescription: >-
+  Discover the roadmap to Bitcoin reaching $100K by December 2025. Get the
+  latest analysis and insights to stay ahead of the market. Read more!
 ---
 # [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Rumo aos $100K em Dezembro 2025: Análise Completa do Caminho
 

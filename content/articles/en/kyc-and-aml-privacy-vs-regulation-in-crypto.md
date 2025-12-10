@@ -34,8 +34,13 @@ language: en
 alternateLanguages:
   pt: kyc-aml-privacidade-criptomoedas
   es: kyc-y-aml-privacidad-vs-regulacin-en-cripto
+metaTitle: 'KYC and AML: Privacy vs Regulation in Crypto'
+metaDescription: >-
+  Learn about the balance between privacy and regulation in cryptocurrency with
+  our guide on KYC and AML, and discover how to secure your crypto assets. Read
+  more!
 ---
-Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses kyc and aml: privacy vs regulation in crypto.
+Security is the most critical aspect when dealing with cryptocurrencies. This guide addresses kyc and aml: [privacy](/artigo/vpn-and-tor-increasing-privacy-in-crypto-transactions "VPN and Tor: Increasing Privacy in Crypto Transactions") vs regulation in crypto.
 
 Why Security is Crucial
 

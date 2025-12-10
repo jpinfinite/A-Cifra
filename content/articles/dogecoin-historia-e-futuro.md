@@ -36,15 +36,19 @@ seo:
 alternateLanguages:
   en: dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon
   es: dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global
+metaTitle: 'Dogecoin: A História da Memecoin Que Virou Fenômeno Global'
+metaDescription: >-
+  Conheça a história do Dogecoin, desde sua criação como piada até se tornar uma
+  das criptomoedas mais populares do mundo, apoiada por Elon Musk.
 ---
 
-**Dogecoin: A História da Memecoin Que Virou Fenômeno Global**
+**[Dogecoin](/artigo/dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon "Dogecoin: The History of the Meme Coin That Became a Global Phenomenon"): A História da Memecoin Que Virou Fenômeno Global**
 
-Em um mundo onde as criptomoedas são cada vez mais populares e a tecnologia blockchain está revolucionando a forma como fazemos negócios, é difícil encontrar um exemplo mais interessante e surpreendente do que o Dogecoin. Criado em 2013 como uma piada, o Dogecoin se transformou em um fenômeno global, com uma comunidade apaixonada e uma valorização que superou as expectativas de todos. Neste artigo, vamos explorar a história do Dogecoin, desde suas humildes origens até a sua ascensão como uma das criptomoedas mais conhecidas do mundo.
+Em um mundo onde as criptomoedas são cada vez mais populares e a tecnologia blockchain está revolucionando a forma como fazemos negócios, é difícil encontrar um exemplo mais interessante e surpreendente do que o [Dogecoin](/artigo/dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global "Dogecoin: La Historia de la Memecoin Que Se Convirtió en Fenómeno Global"). Criado em 2013 como uma piada, o Dogecoin se transformou em um fenômeno global, com uma comunidade apaixonada e uma valorização que superou as expectativas de todos. Neste artigo, vamos explorar a história do Dogecoin, desde suas humildes origens até a sua ascensão como uma das criptomoedas mais conhecidas do mundo.
 
 **A Origem do Dogecoin**
 
-O Dogecoin foi criado por Jackson Palmer, um desenvolvedor canadense, em 6 de dezembro de 2013. A ideia foi inspirada em uma piada sobre o Bitcoin, que estava se tornando cada vez mais popular na época. Palmer criou o Dogecoin como uma forma de brincadeira, com a intenção de criar uma criptomoeda que fosse fácil de usar e divertida. O nome "Dogecoin" foi escolhido em homenagem ao meme do Shiba Inu, que era uma das imagens mais populares da internet na época.
+O [Dogecoin](/artigo/dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-un-fenmeno-global "Dogecoin: La Historia de la Memecoin Que Se Convirtió en un Fenómeno Global") foi criado por Jackson Palmer, um desenvolvedor canadense, em 6 de dezembro de 2013. A ideia foi inspirada em uma piada sobre o Bitcoin, que estava se tornando cada vez mais popular na época. Palmer criou o Dogecoin como uma forma de brincadeira, com a intenção de criar uma criptomoeda que fosse fácil de usar e divertida. O nome "Dogecoin" foi escolhido em homenagem ao meme do Shiba Inu, que era uma das imagens mais populares da internet na época.
 
 **A Ascensão do Dogecoin**
 
@@ -64,7 +68,7 @@ Hoje em dia, o Dogecoin é uma das criptomoedas mais conhecidas e populares do m
 
 Em resumo, o Dogecoin é uma história incrível de como uma piada pode se transformar em um fenômeno global. Com sua comunidade apaixonada e sua valorização, o Dogecoin é uma das criptomoedas mais interessantes e surpreendentes do mundo.
 
-**Dogecoin: A História da Memecoin Que Virou Fenômeno Global**
+**Dogecoin: A História da [Memecoin](/artigo/floki-inu-a-memecoin-with-real-utility "Floki Inu: A Memecoin With Real Utility") Que Virou Fenômeno Global**
 
 **Introdução**
 

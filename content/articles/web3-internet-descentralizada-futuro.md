@@ -37,11 +37,15 @@ seo:
 alternateLanguages:
   en: web3-the-decentralized-internet-of-the-future
   es: web3-la-internet-descentralizada-del-futuro
+metaTitle: 'Web3: A Internet Descentralizada do Futuro'
+metaDescription: >-
+  Entenda o que é Web3, como ela difere da Web2, e por que representa o futuro
+  da internet com descentralização, propriedade de dados e novas oportunidades.
 ---
 seo:
-  metaTitle: "Web3: A Internet Descentralizada do Futuro | A Cifra"
-  metaDescription: "Entenda o que é Web3, como ela difere da Web2, e por que representa o futuro da internet com descentralização, propriedade de dados e novas oportunidades."
-  keywords: ["web3", "descentralização", "blockchain", "futuro", "internet"]
+  metaTitle: "[Web3](/artigo/web3-the-decentralized-internet-of-the-future "Web3: The Decentralized Internet of the Future"): A Internet Descentralizada do Futuro | A Cifra"
+  metaDescription: "Entenda o que é [Web3](/artigo/web3-la-internet-descentralizada-del-futuro "Web3: La Internet Descentralizada del Futuro"), como ela difere da Web2, e por que representa o futuro da internet com descentralização, propriedade de dados e novas oportunidades."
+  keywords: ["web3", "descentralização", "[blockchain](/artigo/what-is-blockchain-a-complete-guide-for-beginners "What is Blockchain? A Complete Guide for Beginners")", "futuro", "internet"]
 ---
 
 # Web3: A Internet Descentralizada do Futuro
@@ -70,7 +74,7 @@ Web3 representa a próxima evolução da internet, onde usuários têm controle 
 
 ## O Que é Web3?
 
-Web3 é a internet construída sobre blockchain e tecnologias descentralizadas, onde usuários controlam seus dados e ativos.
+Web3 é a internet construída sobre [blockchain](/artigo/what-is-blockchain-complete-guide-for-beginners "What is Blockchain? Complete Guide for Beginners") e tecnologias descentralizadas, onde usuários controlam seus dados e ativos.
 
 ### Princípios Fundamentais
 

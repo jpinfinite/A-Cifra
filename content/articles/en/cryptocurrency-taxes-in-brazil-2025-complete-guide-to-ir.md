@@ -36,20 +36,24 @@ language: en
 alternateLanguages:
   pt: impostos-criptomoedas-brasil-ir-2025
   es: impuestos-sobre-criptomonedas-en-brasil-2025-gua-completa-del-ir
+metaTitle: 'Cryptocurrency Taxes in Brazil 2025: Complete Guide to IR'
+metaDescription: >-
+  Get the latest on cryptocurrency taxes in Brazil 2025. Learn how to declare,
+  calculate, and avoid heavy fines. Read more!
 ---
-Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR
+Impostos [sobre](/artigo/impuestos-sobre-criptomonedas-en-brasil-2025-gua-completa-del-ir "Impuestos sobre Criptomonedas en Brasil 2025: Guía Completa del IR") Criptomoedas no Brasil 2025: Guia Completo do IR
 
-Muitos investidores de criptomoedas têm dúvidas sobre impostos: **preciso declarar? Quanto pago? Como calcular?** Este guia responde TODAS essas perguntas.
+Muitos investidores de criptomoedas têm dúvidas sobre [impostos](/artigo/impostos-criptomoedas-brasil-ir-2025 "Impostos sobre Criptomoedas no Brasil 2025: Guia Completo do IR"): **preciso declarar? Quanto pago? Como calcular?** Este guia responde TODAS essas perguntas.
 
 A boa notícia: **declarar cripto é mais simples do que parece**. A má notícia: **não declarar pode resultar em multas pesadas**.
 
-Vamos descomplicar tudo neste guia definitivo atualizado para 2025.
+Vamos descomplicar tudo neste [guia](/artigo/como-funcionam-stablecoins-guia-completo-2025 "Como Funcionam as Stablecoins: Guia Completo para Iniciantes 2025") definitivo atualizado para 2025.
 
 ## Regras Básicas: O Que Você Precisa Saber
 
 ### 1. Criptomoedas São Consideradas Ativos
 
-No Brasil, criptomoedas são tratadas como **bens e direitos**, similar a:
+No Brasil, [criptomoedas](/artigo/carteira-criptomoedas-iniciantes-diversificacao-2025 "Carteira de Criptomoedas para Iniciantes 2025: Diversificação e Estratégia") são tratadas como **bens e direitos**, similar a:
 - Ações
 - Imóveis
 - Ouro

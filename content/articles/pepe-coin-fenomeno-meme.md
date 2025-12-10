@@ -36,22 +36,26 @@ seo:
 alternateLanguages:
   en: pepe-coin-the-memecoin-phenomenon-of-2023
   es: pepe-coin-el-fenmeno-memecoin-de-2023
+metaTitle: 'PEPE Coin: O Fenômeno Memecoin de 2023'
+metaDescription: >-
+  Descubra a história do PEPE, a memecoin baseada no meme Pepe the Frog que
+  explodiu em 2023 e gerou retornos astronômicos para investidores iniciais.
 ---
 
-**O Fenômeno Memecoin de 2023: Entendendo o PEPE Coin**
+**O Fenômeno Memecoin de 2023: Entendendo o [PEPE](/artigo/pepe-coin-the-2023-memecoin-phenomenon "PEPE Coin: The 2023 Memecoin Phenomenon") Coin**
 ===========================================================
 
-No mundo das criptomoedas, 2023 foi um ano marcado por uma explosão de popularidade de um tipo específico de ativo: os memecoins. Entre eles, um nome se destacou: o PEPE Coin. Este artigo pretende explorar o fenômeno do PEPE Coin, suas origens, características e impacto no mercado de criptomoedas.
+No mundo das criptomoedas, 2023 foi um ano marcado por uma explosão de popularidade de um tipo específico de ativo: os memecoins. Entre eles, um nome se destacou: o [PEPE](/artigo/pepe-coin-the-memecoin-phenomenon-of-2023 "PEPE Coin: The Memecoin Phenomenon of 2023") Coin. Este artigo pretende explorar o fenômeno do PEPE Coin, suas origens, características e impacto no mercado de criptomoedas.
 
 **O que são memecoins?**
 ------------------------
 
-Os memecoins são uma categoria de criptomoedas que se originou a partir de memes, peças de humor ou piadas que se espalham rapidamente pela internet. Eles são criados como uma forma de brincadeira, muitas vezes com o objetivo de ridicularizar ou parodiar outras criptomoedas mais sérias. No entanto, ao longo do tempo, alguns memecoins conseguiram se tornar ativos de valor real, com preços que variam significativamente ao longo do tempo.
+Os [memecoins](/artigo/memecoins-the-cultural-phenomenon-that-revolutionized-the-crypto-market "Memecoins: The Cultural Phenomenon that Revolutionized the Crypto Market") são uma categoria de criptomoedas que se originou a partir de memes, peças de humor ou piadas que se espalham rapidamente pela internet. Eles são criados como uma forma de brincadeira, muitas vezes com o objetivo de ridicularizar ou parodiar outras criptomoedas mais sérias. No entanto, ao longo do tempo, alguns memecoins conseguiram se tornar ativos de valor real, com preços que variam significativamente ao longo do tempo.
 
 **A ascensão do PEPE Coin**
 ---------------------------
 
-O PEPE Coin é um dos memecoins mais conhecidos de 2023. Seu surgimento está ligado a uma série de memes que se espalharam pela internet, principalmente no Twitter e no TikTok. O meme em questão era uma imagem de um personagem chamado "PEPE", um desenho simples de um cara com um sorriso bobo. A imagem se tornou um símbolo da internet e foi usada em milhares de memes diferentes.
+O [PEPE](/artigo/pepe-coin-el-fenmeno-memecoin-de-2023 "PEPE Coin: El Fenómeno Memecoin de 2023") Coin é um dos memecoins mais conhecidos de 2023. Seu surgimento está ligado a uma série de memes que se espalharam pela internet, principalmente no Twitter e no TikTok. O meme em questão era uma imagem de um personagem chamado "PEPE", um desenho simples de um cara com um sorriso bobo. A imagem se tornou um símbolo da internet e foi usada em milhares de memes diferentes.
 
 Em junho de 2023, um grupo de criadores decidiu criar uma criptomoeda baseada no meme. O PEPE Coin foi lançado em uma plataforma de troca de criptomoedas e rapidamente ganhou popularidade. Sua valorização foi explosiva, com o preço subindo mais de 10.000% em apenas algumas semanas.
 

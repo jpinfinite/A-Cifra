@@ -64,7 +64,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   // Busca artigos relacionados para aumentar engajamento e monetização
   const allArticles = await getAllArticles()
-  const relatedArticles = getRelatedArticles(article, allArticles, 6)
+  const relatedArticles = getRelatedArticles(article, allArticles, 6).map(a => ({
+    ...a,
+    content: '' // Otimização: remove conteúdo markdown para reduzir tamanho do HTML
+  }))
 
   const breadcrumbItems = [
     { label: 'Categorias', href: '/categorias' },

@@ -31,8 +31,12 @@ language: en
 alternateLanguages:
   pt: wrapped-tokens-bitcoin-ethereum
   es: tokens-envueltos-llevando-bitcoin-a-ethereum
+metaTitle: 'Wrapped Tokens: Bringing Bitcoin to Ethereum'
+metaDescription: >-
+  Unlock the power of Bitcoin on Ethereum with Wrapped Tokens. Learn the basics,
+  real-world applications, and importance in the crypto ecosystem. Read more!
 ---
-This is a comprehensive guide that explores Wrapped Tokens in detail and in an accessible way.
+This is a comprehensive guide that explores Wrapped [Tokens](/artigo/tokens-envueltos-llevando-bitcoin-a-ethereum "Tokens envueltos: Llevando Bitcoin a Ethereum") in detail and in an accessible way.
 
 ## Introduction
 

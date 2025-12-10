@@ -38,7 +38,7 @@ alternateLanguages:
   es: cmo-usar-uniswap-tutorial-completo-de-swap-de-tokens
 language: en
 ---
-The Uniswap is the world's largest decentralized exchange (DEX). This tutorial teaches you how to use the platform step by step.
+The [Uniswap](/artigo/como-usar-uniswap-tutorial "Como Usar o Uniswap: Tutorial Completo de Swap de Tokens") is the world's largest decentralized exchange (DEX). This tutorial teaches you how to use the platform step by step.
 
 ## What You Need
 

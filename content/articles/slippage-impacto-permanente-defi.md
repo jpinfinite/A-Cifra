@@ -29,16 +29,18 @@ seo:
 alternateLanguages:
   en: slippage-and-price-impact-in-defi
   es: slippage-e-impacto-de-precio-en-defi
+metaTitle: Slippage e Impacto de Preço em DeFi
+metaDescription: 'Entenda slippage, impacto de preço e como minimizar perdas em trocas DeFi.'
 ---
 # Slippage e Impacto de Preço em DeFi
 
-**Introdução ao Impacto de Preço e Slippage em DeFi**
+**Introdução ao Impacto de Preço e [Slippage](/artigo/slippage-and-price-impact-in-defi "Slippage and Price Impact in DeFi") em DeFi**
 
 O mundo das criptomoedas e das finanças descentralizadas (DeFi) tem experimentado um crescimento exponencial nos últimos anos, atraindo a atenção de investidores e profissionais de todo o mundo. A DeFi oferece uma plataforma inovadora para a criação de produtos financeiros descentralizados, como empréstimos, swaps de ativos e hedge de riscos, entre outros. No entanto, ao lado das oportunidades de crescimento e inovação, a DeFi também apresenta desafios significativos, como a volatilidade dos preços e a perda de liquidez.
 
 **O que é Slippage?**
 
-A slippage é um fenômeno comum em mercados de alta volatilidade, incluindo a DeFi. Ela ocorre quando a ordem de compra ou venda de um ativo é executada a um preço diferente do preço de mercado no momento da ordem. Isso pode acontecer devido a uma variedade de fatores, como:
+A [slippage](/artigo/slippage-e-impacto-de-precio-en-defi "Slippage e Impacto de Precio en DeFi") é um fenômeno comum em mercados de alta volatilidade, incluindo a DeFi. Ela ocorre quando a ordem de compra ou venda de um ativo é executada a um preço diferente do preço de mercado no momento da ordem. Isso pode acontecer devido a uma variedade de fatores, como:
 
 *   **Volatilidade do mercado**: Quando o preço de um ativo está em constante fluxo, é mais provável que a slippage ocorra.
 *   **Liquidez limitada**: Em mercados com baixa liquidez, as ordens podem ser executadas a preços diferentes do mercado.

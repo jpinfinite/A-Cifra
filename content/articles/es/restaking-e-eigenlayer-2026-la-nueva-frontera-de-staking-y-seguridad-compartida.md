@@ -41,6 +41,11 @@ alternateLanguages:
   pt: restaking-eigenlayer-2026
   en: >-
     restaking-and-eigenlayer-2026-the-new-frontier-of-staking-and-shared-security
+metaTitle: 'Restaking e EigenLayer 2026: La Nueva Frontera de Staking y '
+metaDescription: >-
+  Descubre la nueva frontera de staking y seguridad compartida con EigenLayer
+  2026. Aumenta tus ganancias sin comprometer la seguridad de tu ETH. Lee más
+  sobre restaking e EigenLayer.
 ---
 # Restaking e EigenLayer 2026: A Nova Fronteira de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) e [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) Compartilhada
 

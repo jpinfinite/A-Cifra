@@ -37,6 +37,10 @@ language: es
 alternateLanguages:
   pt: compound-finance-lending
   en: compound-finance-autonomous-lending-protocol
+metaTitle: 'Compound Finance: Protocolo de Préstamos Autónomos'
+metaDescription: >-
+  Descubre cómo Compound Finance revoluciona los préstamos autónomos con su
+  protocolo innovador. Lee más sobre cómo funciona y comienza a invertir ahora.
 ---
 El Compound es uno de los protocolos pioneros de [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), permitiendo empréstitos y préstamos de forma totalmente autónoma.
 

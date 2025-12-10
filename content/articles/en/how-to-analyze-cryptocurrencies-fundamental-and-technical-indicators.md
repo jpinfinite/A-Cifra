@@ -43,14 +43,19 @@ language: en
 alternateLanguages:
   pt: analisar-criptomoedas-indicadores-fundamentais-tecnicos
   es: cmo-analizar-criptomonedas-indicadores-fundamentales-y-tcnicos
+metaTitle: 'How to Analyze Cryptocurrencies: Fundamental and Technical I'
+metaDescription: >-
+  Master cryptocurrency analysis with fundamental and technical indicators.
+  Learn how to separate solid projects from 'shitcoins' and make informed
+  investment decisions. Read more!
 ---
-Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos
+Como [Analisar](/artigo/analisar-criptomoedas-indicadores-fundamentais-tecnicos "Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos") Criptomoedas: Indicadores Fundamentais e Técnicos
 
-Analisar criptomoedas é uma habilidade essencial para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Diferente de ativos tradicionais, as criptomoedas exigem uma abordagem única que combina análise fundamentalista, técnica e on-chain.
+Analisar criptomoedas é uma habilidade essencial para qualquer investidor que deseja tomar decisões informadas no mercado cripto. Diferente de ativos tradicionais, as criptomoedas exigem uma abordagem única que combina análise [fundamentalista](/artigo/analise-fundamentalista-avaliar-projetos-cripto "Análise Fundamentalista: Como Avaliar Projetos Cripto"), técnica e on-chain.
 
 Com mais de 10.000 criptomoedas no mercado, saber separar projetos sólidos de "shitcoins" pode ser a diferença entre lucros extraordinários e perdas devastadoras. Em 2025, a maturidade do mercado cripto tornou a análise ainda mais crucial.
 
-Neste guia completo, você aprenderá os principais indicadores, métricas e frameworks para avaliar projetos de criptomoedas como um profissional.
+Neste guia completo, você aprenderá os principais [indicadores](/artigo/cmo-analizar-criptomonedas-indicadores-fundamentales-y-tcnicos "Cómo Analizar Criptomonedas: Indicadores Fundamentales y Técnicos"), métricas e frameworks para avaliar projetos de criptomoedas como um profissional.
 
 Tipos de Análise de Criptomoedas
 
@@ -176,7 +181,7 @@ Framework de Análise Completa
 
 1. Checklist de Avaliação
 
-- Análise fundamentalista (peso: 50%): tecnologia, equipe, caso de uso, tokenomics
+- Análise [fundamentalista](/artigo/anlisis-fundamentalista-cmo-evaluar-proyectos-cripto "Análisis Fundamentalista: Cómo Evaluar Proyectos Cripto") (peso: 50%): tecnologia, equipe, caso de uso, tokenomics
 - Análise técnica (peso: 30%): tendência, momentum, suportes e resistências, padrões gráficos
 - Análise on-chain (peso: 15%): atividade, distribuição, métricas de rede
 - Análise de sentimento (peso: 5%): índices, redes sociais, Google Trends

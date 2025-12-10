@@ -37,6 +37,11 @@ alternateLanguages:
   pt: >-
     rgo-de-fiscalizao-pede-feedback-do-setor-cripto-sobre-reformas-no-reino-unido
   en: regulatory-body-seeks-feedback-from-crypto-sector-on-uk-reforms
+metaTitle: Órgano de fiscalización pide retroalimentación del sector cr
+metaDescription: >-
+  La Autoridad de Conducta Financiera del Reino Unido busca retroalimentación
+  del sector cripto sobre reformas que podrían afectar la industria de ativos
+  digitales. Lee más sobre las propuestas de reforma.
 ---
 # Órgão de fiscalização pede feedback do setor cripto sobre reformas no Reino Unido
 

@@ -34,25 +34,29 @@ language: es
 alternateLanguages:
   pt: uniswap-v4-hooks-personalizacao-defi
   en: uniswap-v4-and-hooks-a-new-era-of-personalization-in-defi
+metaTitle: 'Uniswap V4 y Hooks: Nueva Era de Personalización en DeFi'
+metaDescription: >-
+  Descubre la nueva era de personalización en DeFi con Uniswap V4 y Hooks. Crea
+  piscinas de liquidez con lógica personalizada. iLee más!
 ---
-**Uniswap V4** introduce hooks personalizables que permiten a los desarrolladores crear piscinas de liquidez con lógica personalizada.
+**[Uniswap](/artigo/uniswap-v4-and-hooks-a-new-era-of-personalization-in-defi "Uniswap V4 and Hooks: A New Era of Personalization in DeFi") V4** introduce hooks personalizables que permiten a los desarrolladores crear piscinas de liquidez con lógica personalizada.
 
 ## ¿Qué son Hooks?
 
-Los Hooks son plugins que ejecutan código en puntos específicos del ciclo de vida de una piscina.
+Los [Hooks](/artigo/uniswap-v4-e-hooks-nueva-era-de-personalizacin-en-defi "Uniswap V4 e Hooks: Nueva Era de Personalización en DeFi") son plugins que ejecutan código en puntos específicos del ciclo de vida de una piscina.
 
 ### Tipos de Hooks
 
 - **Before Swap**: Antes de la transacción
 - **After Swap**: Después de la transacción
-- **Before Add Liquidity**: Antes de agregar liquidez
+- **Before Add [Liquidity](/artigo/liquidity-pools-the-heart-of-decentralized-finance-defi "Liquidity Pools: The Heart of Decentralized Finance (DeFi)")**: Antes de agregar liquidez
 - **After Add Liquidity**: Después de agregar liquidez
 
 ## Casos de Uso
 
 ### Ordens Limit
 
-Los Hooks pueden implementar ordens limitadas en cadena.
+Los [Hooks](/artigo/uniswap-v4-hooks-personalizacao-defi "Uniswap V4 e Hooks: Nova Era de Personalização em DeFi") pueden implementar ordens limitadas en cadena.
 
 ### Tasas Dinámicas
 

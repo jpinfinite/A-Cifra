@@ -35,6 +35,10 @@ seo:
 alternateLanguages:
   en: defi-revolutionizing-traditional-finance
   es: defi-revolucionando-las-finanzas-tradicionales
+metaTitle: 'DeFi: Revolucionando as Finanças Tradicionais'
+metaDescription: >-
+  Descubra o universo das Finanças Descentralizadas (DeFi) e como elas estão
+  redefinindo empréstimos, investimentos e serviços financeiros globais.
 ---
 
 # [defi](/artigo/defi-yield-farming-protocolos-seguros-2026): Revolucionando as Finanças Tradicionais

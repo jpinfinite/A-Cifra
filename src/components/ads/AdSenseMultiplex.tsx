@@ -12,7 +12,7 @@ interface AdSenseMultiplexProps {
  * Posicionar no final do artigo
   */
 export function AdSenseMultiplex({
-  slot = '5064156814', // Slot Footer/Multiplex configurado
+  slot = '2742082553', // Slot Relacionados/Multiplex
   className = ''
 }: AdSenseMultiplexProps) {
   const [isMounted, setIsMounted] = useState(false)

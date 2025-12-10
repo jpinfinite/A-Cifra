@@ -37,8 +37,13 @@ language: es
 alternateLanguages:
   pt: como-usar-uniswap-tutorial
   en: how-to-use-uniswap-complete-tutorial-on-token-swapping
+metaTitle: 'Cómo Usar o Uniswap: Tutorial Completo de Swap de Tokens'
+metaDescription: >-
+  Descubre cómo usar Uniswap de manera segura y efectiva en este tutorial
+  completo de swap de tokens. Conoce los pasos necesarios para intercambiar
+  tokens con éxito. Lee más!
 ---
-El **Uniswap** es la mayor DEX (intercambio descentralizado) del mundo. Este tutorial enseña a usar la plataforma paso a paso.
+El **Uniswap** es la mayor DEX (intercambio descentralizado) del mundo. Este tutorial enseña a [usar](/artigo/como-usar-uniswap-tutorial "Como Usar o Uniswap: Tutorial Completo de Swap de Tokens") la plataforma paso a paso.
 
 ## Lo que Necesitas
 

@@ -39,6 +39,10 @@ language: en
 alternateLanguages:
   pt: analise-fundamentalista-avaliar-projetos-cripto
   es: anlisis-fundamentalista-cmo-evaluar-proyectos-cripto
+metaTitle: 'Fundamental Analysis: How to Evaluate Crypto Projects'
+metaDescription: >-
+  Learn how to evaluate crypto projects using fundamental analysis and uncover
+  hidden gems or avoid scams. Read more!
 ---
 Fundamental Analysis: How to Evaluate Crypto Projects
 
@@ -382,6 +386,6 @@ Invest time in education, develop your analysis skills, and always do your own r
 
 ---
 
-In order to buy the cryptocurrencies mentioned in this article, use one of the recommended exchanges:
+In order to buy the [cryptocurrencies](/artigo/how-to-analyze-cryptocurrencies-fundamental-and-technical-indicators "How to Analyze Cryptocurrencies: Fundamental and Technical Indicators") mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />

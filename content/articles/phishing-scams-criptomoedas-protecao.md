@@ -29,6 +29,8 @@ seo:
 alternateLanguages:
   en: phishing-and-scams-in-crypto-how-to-protect-yourself
   es: phishing-y-estafas-en-criptomonedas-cmo-protegerse
+metaTitle: 'Phishing e Scams em Cripto: Como se Proteger'
+metaDescription: Guia completo sobre golpes comuns em criptomoedas e como evitá-los.
 ---
 
 **Phishing e Scams em Cripto: Como se Proteger**
@@ -37,19 +39,19 @@ alternateLanguages:
 **Introdução**
 ------------
 
-A revolução da criptomoeda e das tecnologias blockchain tem trazido inúmeras oportunidades para investidores, empresários e indivíduos em todo o mundo. No entanto, essa expansão também tem trazido um novo tipo de ameaça: os ataques de phishing e scams. Esses tipos de ataques têm se tornado cada vez mais sofisticados e perigosos, colocando em risco a segurança e a estabilidade das redes de criptomoedas.
+A revolução da criptomoeda e das tecnologias blockchain tem trazido inúmeras oportunidades para investidores, empresários e indivíduos em todo o mundo. No entanto, essa expansão também tem trazido um novo tipo de ameaça: os ataques de [phishing](/artigo/phishing-and-cryptocurrency-scams-how-to-protect-yourself "Phishing and Cryptocurrency Scams: How to Protect Yourself") e scams. Esses tipos de ataques têm se tornado cada vez mais sofisticados e perigosos, colocando em risco a segurança e a estabilidade das redes de criptomoedas.
 
 **O que é Phishing e Scams?**
 ---------------------------
 
-Phishing é um tipo de ataque cibernético que visa obter informações confidenciais de indivíduos ou empresas por meio de e-mails, mensagens de texto ou outros canais de comunicação. Os atacantes criam contas falsas que parecem legítimas e enviam mensagens que pedem informações sensíveis, como senhas, números de cartão de crédito ou dados de acesso a contas de criptomoeda.
+[Phishing](/artigo/phishing-and-scams-in-crypto-how-to-protect-yourself "Phishing and Scams in Crypto: How to Protect Yourself") é um tipo de ataque cibernético que visa obter informações confidenciais de indivíduos ou empresas por meio de e-mails, mensagens de texto ou outros canais de comunicação. Os atacantes criam contas falsas que parecem legítimas e enviam mensagens que pedem informações sensíveis, como senhas, números de cartão de crédito ou dados de acesso a contas de criptomoeda.
 
 Scams, por outro lado, são esquemas fraudulentos que visam enganar os investidores e empresários a investir em projetos ou negócios que não existem ou que são falsos. Esses esquemas podem ser apresentados como oportunidades de investimento lucrativo em criptomoedas ou projetos de blockchain.
 
 **Importância Atual**
 -------------------
 
-Os ataques de phishing e scams têm se tornado cada vez mais comuns e perigosos, especialmente no contexto da criptomoeda. Isso se deve ao fato de que as criptomoedas são uma área em constante evolução e que muitos investidores e empresários estão ansiosos para participar do mercado.
+Os ataques de [phishing](/artigo/phishing-y-estafas-en-criptomonedas-cmo-protegerse "Phishing y Estafas en Criptomonedas: Cómo Protegerse") e scams têm se tornado cada vez mais comuns e perigosos, especialmente no contexto da criptomoeda. Isso se deve ao fato de que as criptomoedas são uma área em constante evolução e que muitos investidores e empresários estão ansiosos para participar do mercado.
 
 De acordo com um relatório da empresa de segurança cibernética, Kaspersky, os ataques de phishing aumentaram em 30% em 2022 em relação ao ano anterior. Além disso, o relatório também mostrou que os ataques de phishing são mais comuns em plataformas de criptomoeda, como exchanges e plataformas de investimento.
 
@@ -65,7 +67,7 @@ Os ataques de phishing e scams podem ter consequências graves para os indivídu
 **Proteção**
 ------------
 
-Existem várias medidas que os indivíduos e empresas podem tomar para se proteger contra os ataques de phishing e scams. Essas medidas incluem:
+Existem várias medidas que os indivíduos e empresas podem tomar para se [proteger](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") contra os ataques de phishing e scams. Essas medidas incluem:
 
 * Usar senhas fortes e únicas para cada conta de criptomoeda.
 * Atualizar regularmente os softwares e sistemas de segurança.

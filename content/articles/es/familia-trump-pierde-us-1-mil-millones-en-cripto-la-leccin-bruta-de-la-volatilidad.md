@@ -45,12 +45,17 @@ language: es
 alternateLanguages:
   pt: trump-familia-perde-bilhoes-cripto-2025
   en: the-trump-family-loses-1-billion-in-crypto-a-brutal-lesson-in-volatility
+metaTitle: 'Familia Trump Pierde US$ 1 Mil Millones en Cripto: La Lecció'
+metaDescription: >-
+  La familia Trump pierde US$ 1 mil millones en criptomonedas: una lección
+  brutal sobre la volatilidad. Aprende de sus errores y lee más sobre cómo
+  proteger tus inversiones.
 ---
 Vketo investir em criptomoedas com estratégia e segurança:
 
 <xchangeAffiliateLinks />
 
-A família Trump perdeu US$ 1 bilhão em criptomoedas, uma lição brutal sobre a volatilidade do mercado. A família Trump concentrou uma parcela significativa de sua riqueza em ativos cripto altamente correlacionados. Quando o mercado virou, todas as posições despencaram juntas.
+A família [Trump](/artigo/the-trump-family-loses-1-billion-in-crypto-a-brutal-lesson-in-volatility "The Trump Family Loses Trump Billion in Crypto: A Brutal Lesson in Volatility") perdeu US$ 1 bilhão em criptomoedas, uma lição brutal sobre a volatilidade do mercado. A família Trump concentrou uma parcela significativa de sua riqueza em ativos cripto altamente correlacionados. Quando o mercado virou, todas as posições despencaram juntas.
 
 Diversifique sempre, gerencie riscos, invista gradualmente, mantenha reservas e estude antes de investir. No cripto, não é sobre acertar sempre, é sobre sobreviver às quedas para aproveitar as altas.
 

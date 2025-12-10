@@ -53,12 +53,17 @@ alternateLanguages:
   pt: goldman-sachs-shutdown-eua-corte-juros-fed
   en: >-
     goldman-sachs-forecasts-end-of-us-shutdown-in-two-weeks-fed-rate-cut-in-december-gains-momentum
+metaTitle: Goldman Sachs Prevé Fin del Cierre de las Obras en los EE.UU
+metaDescription: >-
+  Goldman Sachs prevé fin del cierre de las obras en EE.UU. en dos semanas.
+  Descubre la fuerza creciente del corte de tasas de interés del Fed en
+  diciembre. Lee más!
 ---
-O impasse fiscal que paralisa parte do governo dos Estados Unidos pode estar próximo do fim. Após o Citi, agora é o Goldman Sachs que projeta uma resolução para o chamado shutdown dentro de duas semanas — um fator crucial para as próximas decisões do Federal Reserve (Fed), o banco central norte-americano.
+O impasse fiscal que paralisa parte do governo dos Estados Unidos pode estar próximo do fim. Após o Citi, agora é o [Goldman](/artigo/goldman-sachs-forecasts-end-of-us-shutdown-in-two-weeks-fed-rate-cut-in-december-gains-momentum "Goldman Sachs Forecasts End of US Shutdown in Two Weeks — Fed Rate Cut in December Gains Momentum") Sachs que projeta uma resolução para o chamado shutdown dentro de duas semanas — um fator crucial para as próximas decisões do Federal Reserve (Fed), o banco central norte-americano.
 
 ## Principais Pontos do Relatório Goldman Sachs
 
-Segundo análise divulgada pelo Trading Desk, o mais recente relatório do Goldman Sachs indica que o fechamento parcial do governo federal, já em curso há vários dias, começa a dar sinais de resolução. O banco projeta que o impasse deverá ser solucionado até a segunda semana de novembro.
+Segundo análise divulgada pelo Trading Desk, o mais recente relatório do [Goldman](/artigo/goldman-sachs-predicts-end-of-us-shutdown-in-two-weeks-fed-rate-cut-in-december-gains-momentum "Goldman Sachs Predicts End of US Shutdown in Two Weeks — Fed Rate Cut in December Gains Momentum") Sachs indica que o fechamento parcial do governo federal, já em curso há vários dias, começa a dar sinais de resolução. O banco projeta que o impasse deverá ser solucionado até a segunda semana de novembro.
 
 ### Fatores que Pressionam o Congresso
 
@@ -83,7 +88,7 @@ Esses eventos criam uma janela crítica para negociação, já que nenhum polít
 
 ## Efeitos Sobre a Política Monetária: Corte de Juros em Dezembro?
 
-A duração do shutdown é vista como fator central para as decisões do Fed. Tanto Citi quanto Goldman Sachs concordam: com a reabertura do governo em até duas semanas, a divulgação dos principais dados econômicos será retomada e o banco central poderá contar com até três relatórios de emprego antes da reunião decisiva de dezembro.
+A duração do shutdown é vista como fator central para as decisões do Fed. Tanto Citi quanto [Goldman](/artigo/goldman-sachs-prev-fin-del-cierre-de-las-oficinas-de-los-eeuu-en-dos-semanas-baja-de-tasas-de-inters "Goldman Sachs Prevé Fin del Cierre de las Oficinas de los EE.UU. en Dos Semanas — Baja de Tasas de Interés del Fed en Diciembre Gana Fuerza") Sachs concordam: com a reabertura do governo em até duas semanas, a divulgação dos principais dados econômicos será retomada e o banco central poderá contar com até três relatórios de emprego antes da reunião decisiva de dezembro.
 
 ### Projeções das Instituições Financeiras
 
@@ -113,7 +118,7 @@ Cenário 3: Fim apenas após o Dia de Ação de Graças
 
 ## Impacto Econômico: PIB do 4º Trimestre Pode Ser Afetado
 
-O relatório do Goldman Sachs também destaca o custo econômico do shutdown. As projeções são preocupantes, mas com perspectiva de recuperação:
+O relatório do [Goldman](/artigo/goldman-sachs-prev-fin-del-cierre-de-las-operaciones-de-los-eeuu-en-dos-semanas-descenso-de-tasas-de "Goldman Sachs Prevé Fin del Cierre de las Operaciones de los EE.UU. en Dos Semanas — Descenso de Tasas de Interés del Fed en Diciembre Gana Fuerza") Sachs também destaca o custo econômico do shutdown. As projeções são preocupantes, mas com perspectiva de recuperação:
 
 ### Projeção de Impacto no PIB
 
