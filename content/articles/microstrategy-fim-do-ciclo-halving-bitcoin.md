@@ -3,7 +3,7 @@ title: "O Fim dos Ciclos de 4 Anos? MicroStrategy Compra Mais 10 Mil BTC Enquant
 date: "2025-12-09"
 category: "Bitcoin"
 excerpt: "Com a MicroStrategy de Michael Saylor acumulando mais quase $1 bilhão em Bitcoin, figuras como Changpeng Zhao e Cathie Wood sugerem que o padrão tradicional de ciclos de halving acabou. Estamos entrando no Superciclo Institucional?"
-image: "/images/articles/bitcoin-microstrategy-cycle.jpg"
+image: "/images/articles/bitcoin-cycle-v2.jpg"
 author: "Antigravity"
 ---
 
