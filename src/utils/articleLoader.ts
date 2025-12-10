@@ -11,6 +11,7 @@ interface ArticleFromFile {
   slug: string
   excerpt: string
   content: string
+  image?: string // Campo vindo do frontmatter (string simples)
   coverImage?: {
     src: string
     alt: string
@@ -151,6 +152,9 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
     category = categories.find(cat => cat.slug === 'bitcoin') || categories[0]
   }
 
+  // Determinar imagem de capa: prioriza coverImage objeto, depois image string, depois fallback
+  const imageSrc = fileArticle.coverImage?.src || fileArticle.image || '/images/default.jpg'
+
   return {
     id: fileArticle.id,
     title: fileArticle.title,
@@ -158,7 +162,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
     excerpt: fileArticle.excerpt,
     content: fileArticle.content,
     coverImage: {
-      src: fileArticle.coverImage?.src || '/images/default.jpg',
+      src: imageSrc,
       alt: fileArticle.coverImage?.alt || fileArticle.title,
       width: fileArticle.coverImage?.width || 1200,
       height: fileArticle.coverImage?.height || 630
