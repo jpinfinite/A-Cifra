@@ -153,7 +153,7 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
             {/* Publication Date */}
             <div className="flex items-center space-x-1">
               <Calendar className="h-4 w-4" />
-              <time dateTime={article.publishedAt?.toISOString()}>
+              <time dateTime={article.publishedAt?.toISOString()} suppressHydrationWarning>
                 {article.publishedAt && formatDate(article.publishedAt)}
               </time>
             </div>

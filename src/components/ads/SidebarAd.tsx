@@ -61,7 +61,7 @@ export function SidebarAd({
         </p>
         <ins
           className="adsbygoogle"
-          style={{ display: 'block' }}
+          style={{ display: 'block', width: '100%' }}
           data-ad-client="ca-pub-1151448515464841"
           data-ad-slot={slot}
           data-ad-format="vertical"

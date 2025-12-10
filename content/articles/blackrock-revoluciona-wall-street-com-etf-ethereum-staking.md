@@ -9,7 +9,7 @@ excerpt: >-
   iShares Staked Ethereum Trust (ETHB), visando oferecer exposição ao ETH com
   recompensas de staking. Entenda como isso pode transformar o mercado e atrair
   trilhões para a rede Ethereum.
-image: /images/articles/blackrock-etf-v2.jpg
+image: /images/articles/blackrock-etf-v2.png
 author: Antigravity
 metaTitle: BlackRock Revoluciona Wall Street com Pedido de ETF de Ether...
 metaDescription: >-

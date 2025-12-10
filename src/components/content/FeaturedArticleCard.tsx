@@ -118,7 +118,7 @@ export function FeaturedArticleCard({ article, className }: FeaturedArticleCardP
               {/* Publication Date */}
               <div className="flex items-center space-x-2">
                 <Calendar className="h-4 w-4" />
-                <time dateTime={article.publishedAt?.toISOString()}>
+                <time dateTime={article.publishedAt?.toISOString()} suppressHydrationWarning>
                   {article.publishedAt && formatDate(article.publishedAt)}
                 </time>
               </div>

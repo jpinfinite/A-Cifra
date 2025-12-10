@@ -14,7 +14,7 @@ metaDescription: >-
   MicroStrategy compra mais $1bi em Bitcoin. CZ e Cathie Wood sugerem o fim do
   ciclo de Halving. Estamos entrando no Superciclo Institucional? Entenda a nova
   tese.
-image: /images/articles/bitcoin-cycle-v2.jpg
+image: /images/articles/bitcoin-cycle-v2.png
 author: Antigravity
 updatedAt: '2025-12-10T04:12:43.973Z'
 ---
