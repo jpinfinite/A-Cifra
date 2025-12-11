@@ -142,12 +142,17 @@ export function loadArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' 
 
 // Função para converter ArticleFromFile para Article
 function convertToArticle(fileArticle: ArticleFromFile): Article {
-  // Encontrar categoria pelo slug, usar 'bitcoin' como fallback
+  // Tentar encontrar categoria pelo slug ou pelo nome
   let category = categories.find(cat => cat.slug === fileArticle.categorySlug)
+
+  if (!category && (fileArticle as any).category) {
+     const catNameRaw = (fileArticle as any).category.toString().toLowerCase()
+     category = categories.find(cat => cat.name.toLowerCase() === catNameRaw || cat.slug === catNameRaw || cat.slug.replace('-', '') === catNameRaw.replace(' ', ''))
+  }
 
   if (!category) {
     if (process.env.NODE_ENV === 'development') {
-      console.warn(`Category not found for slug: ${fileArticle.categorySlug}, using 'bitcoin' as fallback`)
+      console.warn(`Category not found for article: ${fileArticle.title}, slug: ${fileArticle.categorySlug || (fileArticle as any).category}, using 'bitcoin' as fallback`)
     }
     category = categories.find(cat => cat.slug === 'bitcoin') || categories[0]
   }
