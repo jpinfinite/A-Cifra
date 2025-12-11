@@ -120,6 +120,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <div className="flex items-center space-x-4 text-sm text-gray-600 dark:text-gray-400 mb-6">
                 <ReadingTime minutes={readingTime} />
                 {article.publishedAt && (
+                  /* Hydration fix applied */
                   <time suppressHydrationWarning>
                     {new Date(article.publishedAt).toLocaleDateString('pt-BR', {
                       day: '2-digit',
