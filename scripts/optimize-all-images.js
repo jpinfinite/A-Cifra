@@ -8,9 +8,10 @@
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const sharp = require('sharp');
 
 const IMAGES_DIR = path.join(__dirname, '..', 'public', 'images');
+const MIN_SIZE_KB = 100; // Convert only images larger than 100KB
 
 function getAllImages(dir) {
   const images = [];
@@ -25,7 +26,10 @@ function getAllImages(dir) {
       if (stat.isDirectory()) {
         scan(fullPath);
       } else if (item.match(/\.(jpg|jpeg|png)$/i)) {
-        images.push(fullPath);
+        images.push({
+            path: fullPath,
+            size: stat.size
+        });
       }
     });
   }
@@ -34,80 +38,63 @@ function getAllImages(dir) {
   return images;
 }
 
-function optimizeImage(imagePath) {
-  const ext = path.extname(imagePath);
-  const webpPath = imagePath.replace(ext, '.webp');
+async function convertToWebP(imageInfo) {
+    const { path: imagePath, size } = imageInfo;
+    const ext = path.extname(imagePath);
+    const webpPath = imagePath.replace(new RegExp(`${ext}$`, 'i'), '.webp');
+    const sizeKB = size / 1024;
 
-  // Verificar se WebP já existe
-  if (fs.existsSync(webpPath)) {
-    return { skipped: true, path: imagePath };
-  }
+    if (sizeKB < MIN_SIZE_KB) {
+        return { skipped: true, reason: 'small_file' };
+    }
 
-  try {
-    // Converter para WebP usando sharp (se instalado)
-    // Ou usar imagemagick/cwebp
-    console.log(`Converting: ${path.basename(imagePath)}`);
+    if (fs.existsSync(webpPath)) {
+        // Se o arquivo WebP já existe, verificamos se o original é mais recente ou maior
+        // Neste caso, vamos forçar a re-geração para garantir qualidade
+        // return { skipped: true, reason: 'webp_exists' };
+    }
 
-    // Exemplo com cwebp (precisa estar instalado)
-    // execSync(`cwebp -q 85 "${imagePath}" -o "${webpPath}"`);
+    try {
+        await sharp(imagePath)
+            .webp({ quality: 80 })
+            .toFile(webpPath);
 
-    return { success: true, path: imagePath, webp: webpPath };
-  } catch (error) {
-    return { error: true, path: imagePath, message: error.message };
-  }
+        console.log(`✅ Converted: ${path.basename(imagePath)} (${sizeKB.toFixed(2)} KB) -> ${path.basename(webpPath)}`);
+
+        // Opcional: Remover original se desejar economizar espaço, mas perigoso se algo quebrar refs
+        // fs.unlinkSync(imagePath);
+
+        return { success: true, original: imagePath, webp: webpPath };
+    } catch (error) {
+        console.error(`❌ Error converting ${path.basename(imagePath)}:`, error.message);
+        return { error: true, message: error.message };
+    }
 }
 
-function analyzeImages() {
-  console.log('\n📊 ANALISANDO IMAGENS DO SITE\n');
+async function analyzeAndOptimize() {
+  console.log('\n📊 STARTING IMAGE OPTIMIZATION (LARGE IMAGES > 100KB)\n');
 
   const images = getAllImages(IMAGES_DIR);
 
-  const stats = {
-    total: images.length,
-    jpg: images.filter(img => img.match(/\.jpe?g$/i)).length,
-    png: images.filter(img => img.match(/\.png$/i)).length,
-    webp: images.filter(img => img.match(/\.webp$/i)).length,
-    avif: images.filter(img => img.match(/\.avif$/i)).length
-  };
+  // Filtrar apenas imagens grandes
+  const largeImages = images.filter(img => img.size > MIN_SIZE_KB * 1024);
 
-  console.log(`📊 Total de imagens: ${stats.total}`);
-  console.log(`   JPG: ${stats.jpg}`);
-  console.log(`   PNG: ${stats.png}`);
-  console.log(`   WebP: ${stats.webp}`);
-  console.log(`   AVIF: ${stats.avif}\n`);
+  console.log(`🔍 Found ${images.length} total images.`);
+  console.log(`🎯 Found ${largeImages.length} large images to optimize.\n`);
 
-  const needsOptimization = stats.jpg + stats.png;
-  const optimized = stats.webp + stats.avif;
-  const percentage = ((optimized / stats.total) * 100).toFixed(1);
+  let convertedCount = 0;
+  let errors = 0;
 
-  console.log(`✅ Otimizadas: ${optimized} (${percentage}%)`);
-  console.log(`⚠️  Precisam otimização: ${needsOptimization}\n`);
-
-  if (needsOptimization > 0) {
-    console.log('💡 RECOMENDAÇÃO:');
-    console.log('   1. Instale cwebp: https://developers.google.com/speed/webp/download');
-    console.log('   2. Ou use sharp: npm install sharp');
-    console.log('   3. Execute este script novamente para converter\n');
-  } else {
-    console.log('🎉 TODAS AS IMAGENS JÁ ESTÃO OTIMIZADAS!\n');
+  for (const img of largeImages) {
+      const result = await convertToWebP(img);
+      if (result.success) convertedCount++;
+      if (result.error) errors++;
   }
 
-  // Listar top 10 maiores imagens
-  console.log('📦 TOP 10 MAIORES IMAGENS:\n');
-
-  const imageSizes = images.map(img => ({
-    path: img,
-    size: fs.statSync(img).size,
-    name: path.basename(img)
-  })).sort((a, b) => b.size - a.size).slice(0, 10);
-
-  imageSizes.forEach((img, index) => {
-    const sizeMB = (img.size / 1024 / 1024).toFixed(2);
-    console.log(`   ${index + 1}. ${img.name} - ${sizeMB} MB`);
-  });
-
-  console.log('\n');
+  console.log(`\n🎉 Optimization finished!`);
+  console.log(`✅ Converted: ${convertedCount}`);
+  console.log(`❌ Errors: ${errors}\n`);
 }
 
-analyzeImages();
+analyzeAndOptimize();
 

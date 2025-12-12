@@ -4,7 +4,7 @@ date: "2025-10-30T10:00:00.000Z"
 category: "Games"
 tags: ["web3", "games", "nft", "play-to-earn", "blockchain gaming", "metaverso"]
 excerpt: "A indústria de jogos está à beira de uma revolução. Descubra como a Web3 está transformando jogadores em proprietários, redefinindo economias digitais e criando o futuro do entretenimento interativo através da descentralização e NFTs."
-coverImage: "/images/gamefi-revolucao-jogos.png"
+coverImage: "/images/gamefi-revolucao-jogos.webp"
 author: "Jonatha Pereira"
 status: "published"
 ---
