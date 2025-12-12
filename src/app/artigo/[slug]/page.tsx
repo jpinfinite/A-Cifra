@@ -138,12 +138,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {/* Newsletter Sidebar */}
               <NewsletterCTA variant="sidebar" />
 
-              {/* Anúncio Inferior Sidebar Artigo */}
-              <SidebarAd
-                slot="7243051452"
-                sticky={false}
-                className="min-h-[250px]"
-              />
+
             </div>
           </aside>
         </div>

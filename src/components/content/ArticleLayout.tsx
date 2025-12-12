@@ -1,4 +1,4 @@
-import { Calendar, Clock, User } from 'lucide-react'
+import { Calendar, Clock, Share2, User } from 'lucide-react'
 import { Heading, Text, Button, Image } from '@/components/ui'
 import { Breadcrumb } from '@/components/layout'
 import { Article, BreadcrumbItem } from '@/types'

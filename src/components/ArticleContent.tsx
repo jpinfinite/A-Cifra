@@ -197,8 +197,8 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
     const sections = processedContent.split(sectionRegex)
     const totalSections = sections.length
 
-    if (totalSections <= 3) {
-      // Conteúdo curto - apenas 1 anúncio no meio
+    if (totalSections <= 5) {
+      // Conteúdo curto/médio - apenas 1 anúncio no meio
       return {
         firstPart: sections.slice(0, Math.ceil(totalSections / 2)).join(''),
         secondPart: sections.slice(Math.ceil(totalSections / 2)).join(''),
@@ -207,8 +207,8 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       }
     }
 
-    if (totalSections <= 10) {
-      // Conteúdo médio - 2 anúncios (40% e 80% do conteúdo)
+    if (totalSections <= 12) {
+      // Conteúdo longo - 2 anúncios (40% e 80% do conteúdo)
       const firstBreak = Math.floor(totalSections * 0.4)
       const secondBreak = Math.floor(totalSections * 0.8)
 
@@ -220,7 +220,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       }
     }
 
-    // Conteúdo muito longo (>10 seções) - 3 anúncios (distribuídos uniformemente)
+    // Conteúdo muito longo (>12 seções) - 3 anúncios (distribuídos uniformemente)
     const break1 = Math.floor(totalSections * 0.25)
     const break2 = Math.floor(totalSections * 0.5)
     const break3 = Math.floor(totalSections * 0.75)
