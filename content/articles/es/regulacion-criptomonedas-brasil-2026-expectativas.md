@@ -4,7 +4,7 @@ date: "2025-10-31T10:00:00.000Z"
 category: "Regulación"
 tags: ["regulación", "brasil", "drex", "banco central", "leyes cripto", "impuestos"]
 excerpt: "Brasil se consolida como líder global en la regulación de criptoactivos. Analizamos el impacto del Marco Legal, la llegada del Drex, las nuevas exigencias fiscales y lo que inversores y empresas deben esperar para 2026."
-coverImage: "/images/bitcoin-global-network.webp"
+coverImage: "/images/crypto-regulation-cover-fixed.webp"
 author: "Jonatha Pereira"
 status: "published"
 alternateLanguages:
