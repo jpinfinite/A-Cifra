@@ -4,6 +4,7 @@ import { Breadcrumb } from '@/components/layout'
 import { Article, BreadcrumbItem } from '@/types'
 import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
+import { ShareButtons } from '@/components/article'
 import RelatedArticlesInline from './RelatedArticlesInline'
 // Anúncios agora são gerenciados dentro do ArticleContent
 
@@ -133,56 +134,8 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
         )}
 
         {/* Share Buttons */}
-        <div className="flex items-center space-x-2 pb-6 border-b border-gray-200">
-          <span className="text-sm font-medium text-gray-700 mr-2">Compartilhar:</span>
-
-          <Button
-            variant="ghost"
-            size="sm"
-            asChild
-            className="text-blue-600 hover:text-blue-700"
-          >
-            <a
-              href={shareLinks.facebook}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Compartilhar no Facebook"
-            >
-              <Facebook className="h-4 w-4" />
-            </a>
-          </Button>
-
-          <Button
-            variant="ghost"
-            size="sm"
-            asChild
-            className="text-blue-400 hover:text-blue-500"
-          >
-            <a
-              href={shareLinks.twitter}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Compartilhar no Twitter"
-            >
-              <Twitter className="h-4 w-4" />
-            </a>
-          </Button>
-
-          <Button
-            variant="ghost"
-            size="sm"
-            asChild
-            className="text-blue-700 hover:text-blue-800"
-          >
-            <a
-              href={shareLinks.linkedin}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Compartilhar no LinkedIn"
-            >
-              <Linkedin className="h-4 w-4" />
-            </a>
-          </Button>
+        <div className="pb-6 border-b border-gray-200">
+           <ShareButtons url={currentUrl} title={article.title} />
         </div>
       </header>
 
@@ -253,6 +206,14 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
           </div>
         </div>
       </footer>
+
+      {/* Disclaimer */}
+      <div className="mt-8 p-4 bg-gray-50 border-l-4 border-brand-gold text-sm text-gray-600 rounded-r-lg">
+        <p className="font-bold text-gray-800 mb-1">Aviso Legal:</p>
+        <p>
+          O conteúdo deste artigo é apenas para fins informativos e educacionais. Não constitui consultoria financeira, de investimento ou jurídica. O mercado de criptomoedas é volátil e envolve riscos significativos. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de tomar decisões de investimento.
+        </p>
+      </div>
     </article>
   )
 }

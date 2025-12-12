@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { User } from 'lucide-react'
 import { Compass, Clock, BookOpen, Shield, Target, Lightbulb, TrendingUp, Timer, Brain, Lock, Search, GraduationCap, Alert } from '@/components/icons/SocialIcons'
 
 interface SectionProps {
@@ -153,6 +154,27 @@ export function AboutCifra() {
           DYOR – Do Your Own Research.<br />
           Use nosso conteúdo como ponto de partida. Questione sempre. Pesquise por conta própria.
         </blockquote>
+      </Section>
+
+      {/* Nossa Equipe */}
+      <Section title="Quem Faz A Cifra" icon={<User size={28} />}>
+        Embora a Cifra seja um projeto colaborativo, a visão editorial é liderada por:
+        <div className="mt-6 flex flex-col sm:flex-row items-center gap-6 bg-white p-6 rounded-xl border border-brand-primary-blue/20 shadow-sm">
+             <div className="w-24 h-24 relative rounded-full overflow-hidden border-2 border-brand-gold shrink-0">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src="/Jonatha-Pereira-SEO.png" alt="Jonatha Pereira" className="object-cover w-full h-full" />
+             </div>
+             <div className="text-center sm:text-left">
+                <h3 className="text-xl font-bold text-brand-dark-blue">Jonatha Pereira</h3>
+                <p className="text-brand-primary-blue font-medium mb-2">Fundador & Editor Chefe</p>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                   Especialista em SEO e entusiasta de criptomoedas desde 2018. Dedicado a traduzir a complexidade do blockchain em linguagem acessível e estratégica, sempre priorizando a educação e a segurança.
+                </p>
+             </div>
+        </div>
+        <p className="mt-4 text-base">
+           Contamos também com uma rede de colaboradores e analistas independentes que ajudam a manter nosso conteúdo atualizado e preciso.
+        </p>
       </Section>
 
       {/* Call to Action + Aviso Legal */}

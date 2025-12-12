@@ -2,8 +2,9 @@ import { notFound } from 'next/navigation'
 
 import { MainLayout } from '@/components/layout'
 import { ArticleLayout } from '@/components/content'
-import { Container, Breadcrumbs, ReadingTime } from '@/components/ui'
-import { TableOfContents, ShareButtons, RelatedArticles } from '@/components/article'
+import { Container } from '@/components/ui'
+import { TableOfContents, ShareButtons, RelatedArticles, Comments } from '@/components/article'
+import { CryptoWidget } from '@/components/crypto/CryptoWidget'
 import { NewsletterCTA } from '@/components/newsletter'
 import { SidebarAd } from '@/components/ads/SidebarAd'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
@@ -95,54 +96,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <BreadcrumbSchema items={breadcrumbItems} />
 
       <Container size="xl" className="py-8">
-        {/* Breadcrumbs */}
-        <Breadcrumbs items={breadcrumbItems} className="mb-6" />
-
-        {/* Language Toggle */}
-        {/* Language Toggle */}
-        <div className="mb-6">
-          <LanguageToggle
-            currentLang="pt-BR"
-            alternateSlugEn={article.alternateLanguages?.en}
-            alternateSlugEs={article.alternateLanguages?.es}
-          />
-        </div>
+            {/* Language Toggle */}
+            <div className="mb-6">
+              <LanguageToggle
+                currentLang="pt-BR"
+                alternateSlugEn={article.alternateLanguages?.en}
+                alternateSlugEs={article.alternateLanguages?.es}
+              />
+            </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Main Content */}
           <article className="lg:col-span-8">
-            {/* Article Header */}
-            <header className="mb-8">
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4">
-                {article.title}
-              </h1>
-
-              <div className="flex items-center space-x-4 text-sm text-gray-600 dark:text-gray-400 mb-6">
-                <ReadingTime minutes={readingTime} />
-                {article.publishedAt && (
-                  /* Hydration fix applied */
-                  <time suppressHydrationWarning>
-                    {new Date(article.publishedAt).toLocaleDateString('pt-BR', {
-                      day: '2-digit',
-                      month: 'long',
-                      year: 'numeric'
-                    })}
-                  </time>
-                )}
-              </div>
-
-              <ShareButtons url={currentUrl} title={article.title} className="mb-6" />
-            </header>
-
-            {/* Table of Contents */}
-            {article.content && (
-              <TableOfContents content={article.content} className="mb-8" />
-            )}
-
             {/* Article Content (com anúncios integrados) */}
             <ArticleLayout
               article={article}
-              breadcrumbs={[]}
+              breadcrumbs={breadcrumbItems}
               relatedArticles={relatedArticles}
             />
 
@@ -151,12 +120,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
             {/* Related Articles */}
             <RelatedArticles articles={relatedArticles} className="mt-12" />
+
+            {/* Comments Section */}
+            <Comments />
           </article>
 
           {/* Sidebar */}
           <aside className="lg:col-span-4 space-y-8">
             {/* Anúncio Superior Sidebar Artigo */}
             <div className="sticky top-24 space-y-8">
+              <CryptoWidget />
               <SidebarAd
                 slot="4860266399"
                 sticky={false}
