@@ -4,7 +4,7 @@ date: "2025-11-01T10:00:00.000Z"
 category: "Tecnología"
 tags: ["ia", "blockchain", "convergencia", "futuro", "tecnología", "web3", "agentes autónomos"]
 excerpt: "IA y Blockchain son las dos tecnologías más disruptivas del siglo. Descubre qué sucede cuando convergen: agentes autónomos descentralizados, verificación de identidad en un mundo de deepfakes y mercados de datos justos."
-coverImage: "/images/crypto-futuristic-scene.jpg"
+coverImage: "/images/ia-blockchain-convergencia-decada.png"
 author: "Jonatha Pereira"
 status: "published"
 alternateLanguages:
