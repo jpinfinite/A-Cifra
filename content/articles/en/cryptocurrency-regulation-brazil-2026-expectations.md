@@ -4,7 +4,7 @@ date: "2025-10-31T10:00:00.000Z"
 category: "Regulation"
 tags: ["regulation", "brazil", "drex", "central bank", "crypto laws", "taxes"]
 excerpt: "Brazil cements itself as a global leader in crypto regulation. We analyze the impact of the Legal Framework, the arrival of Drex, net tax requirements, and what investors and companies should expect for 2026."
-coverImage: "/images/bitcoin-global-network.jpg"
+coverImage: "/images/bitcoin-global-network.png"
 author: "Jonatha Pereira"
 status: "published"
 alternateLanguages:

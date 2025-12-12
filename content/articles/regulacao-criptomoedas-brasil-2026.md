@@ -4,7 +4,7 @@ date: "2025-10-31T10:00:00.000Z"
 category: "Regulação"
 tags: ["regulação", "brasil", "drexx", "banco central", "leis cripto", "cvm", "imposto de renda"]
 excerpt: "O Brasil se consolida como líder global na regulação de criptoativos. Analisamos o impacto do Marco Legal, a chegada do Drex, as novas exigências da Receita Federal e o que investidores e empresas devem esperar para 2026."
-coverImage: "/images/bitcoin-global-network.jpg"
+coverImage: "/images/bitcoin-global-network.png"
 author: "Jonatha Pereira"
 status: "published"
 ---
