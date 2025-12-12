@@ -1,4 +1,4 @@
-import { Calendar, Clock, User, Share2, Facebook, Twitter, Linkedin } from 'lucide-react'
+import { Calendar, Clock, User } from 'lucide-react'
 import { Heading, Text, Button, Image } from '@/components/ui'
 import { Breadcrumb } from '@/components/layout'
 import { Article, BreadcrumbItem } from '@/types'
@@ -28,11 +28,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
   const estimatedReadTime = Math.ceil(article.content.split(' ').length / 200)
   const currentUrl = typeof window !== 'undefined' ? window.location.href : ''
 
-  const shareLinks = {
-    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`,
-    twitter: `https://twitter.com/intent/tweet?url=${encodeURIComponent(currentUrl)}&text=${encodeURIComponent(article.title)}`,
-    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(currentUrl)}`
-  }
+
 
   // Generate structured data for SEO
   const structuredData = {

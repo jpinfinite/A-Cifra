@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation'
 import { MainLayout } from '@/components/layout'
 import { ArticleLayout } from '@/components/content'
 import { Container } from '@/components/ui'
-import { TableOfContents, ShareButtons, RelatedArticles, Comments } from '@/components/article'
+import { RelatedArticles, Comments } from '@/components/article'
 import { CryptoWidget } from '@/components/crypto/CryptoWidget'
 import { NewsletterCTA } from '@/components/newsletter'
 import { SidebarAd } from '@/components/ads/SidebarAd'
@@ -12,7 +12,6 @@ import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata } from '@/utils/seo'
 import { getRelatedArticles } from '@/utils/relatedArticles'
-import { calculateReadingTime } from '@/utils/readingTime'
 
 // Anúncios agora são gerenciados dentro do ArticleContent
 interface ArticlePageProps {
@@ -77,7 +76,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   ]
 
   const currentUrl = `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${article.slug}`
-  const readingTime = calculateReadingTime(article.content || '')
+
 
   return (
     <MainLayout>
