@@ -1,0 +1,11 @@
+{
+  "id": "anti_ai.detect",
+  "version": "1.0",
+  "role": "ai_security_researcher",
+  "temperature": 0.9,
+  "prompt": "Reescreva o texto abaixo para reduzir padrões de IA e quebrar detectores.\n\nRegras obrigatórias:\n- Quebre simetria de parágrafos\n- Varie tamanho das frases radicalmente\n- Introduza pequenas ambiguidades naturais\n- Evite conclusões definitivas\n- Não use frases genéricas\n- Use termos de nicho específicos\n- Mantenha o conteúdo informativo\n\nTexto:\n{TEXTO}",
+  "metrics": {
+    "detection_evasion_rate": 0.98
+  },
+  "status": "active"
+}

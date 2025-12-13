@@ -1,0 +1,11 @@
+{
+  "id": "humanize.rewrite",
+  "version": "1.0",
+  "role": "senior_editor",
+  "temperature": 0.7,
+  "prompt": "Reescreva o texto abaixo para soar mais humano.\n\nRegras obrigatórias:\n- Varie ritmo e estrutura das frases\n- Use pequenas imperfeições naturais\n- Evite conclusões fechadas\n- Evite frases genéricas de IA\n- Mantenha o significado original\n\nTexto:\n{TEXTO}",
+  "metrics": {
+    "avg_undetectable_score": 9.2
+  },
+  "status": "active"
+}

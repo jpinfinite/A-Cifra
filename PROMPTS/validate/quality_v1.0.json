@@ -1,0 +1,11 @@
+{
+  "id": "validate.quality",
+  "version": "1.0",
+  "role": "quality_evaluator",
+  "temperature": 0.2,
+  "prompt": "Você é um avaliador editorial independente.\n\nAvalie o texto abaixo com notas de 0 a 10:\n- Naturalidade humana\n- Clareza\n- SEO\n- Originalidade\n- Utilidade real\n\nIndique:\n- Pontos fracos\n- Risco de parecer IA\n- Se deve ser publicado ou refeito\n\nFormato JSON.\n\nTexto:\n{TEXTO}",
+  "metrics": {
+    "false_positive_rate": 0.05
+  },
+  "status": "active"
+}

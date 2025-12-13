@@ -1,0 +1,11 @@
+{
+  "id": "analysis.intent",
+  "version": "1.0",
+  "role": "seo_analyst_crypto",
+  "temperature": 0.2,
+  "prompt": "Você é um analista de SEO sênior especializado em criptomoedas.\n\nAnalise o tema: \"{TEMA}\"\n\nDetermine:\n1. Intenção de busca principal (informacional, navegacional, transacional)\n2. Sub-intenções secundárias\n3. Perguntas implícitas do usuário\n4. Tipo de conteúdo esperado na SERP (guia, notícia, análise, tutorial)\n\nResponda em JSON.\nNão escreva texto explicativo.",
+  "metrics": {
+    "avg_accuracy": 9.0
+  },
+  "status": "active"
+}

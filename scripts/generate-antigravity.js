@@ -9,71 +9,25 @@ const CLOUDFLARE_ACCOUNT_ID = process.env.CLOUDFLARE_ACCOUNT_ID || 'bcc4a32437bc
 const MODEL = '@cf/meta/llama-3.1-8b-instruct'; // Or a stronger model like llama-3-70b if available, but staying safe
 const ARTICLES_DIR = path.join(__dirname, '../content/articles');
 
-// Prompts loaded from files (Hardcoded here for reliability based on reading)
-const PROMPTS = {
-    INTENT_ANALYSIS: `Você é um analista de SEO sênior especializado em criptomoedas.
-
-Analise o tema: "{TEMA}"
-
-Determine:
-1. Intenção de busca principal (informacional, navegacional, transacional)
-2. Sub-intenções secundárias
-3. Perguntas implícitas do usuário
-4. Tipo de conteúdo esperado na SERP (guia, notícia, análise, tutorial)
-
-Responda em JSON.
-Não escreva texto explicativo.`,
-
-    EDITORIAL_PLANNING: `Você é editor-chefe de um portal cripto chamado A-Cifra.
-
-Com base na intenção de busca abaixo:
-{INTENCAO_JSON}
-
-Crie:
-- Outline otimizado para SEO
-- Estrutura H1 → H2 → H3
-- Sugestão de título principal (até 60 caracteres)
-- Sugestão de meta description (até 155 caracteres)
-- Entidades semânticas relevantes
-- Lista de seções para escrita (apenas os títulos dos H2/H3 para iterar)
-
-Formato: JSON com chaves: "title", "metaDescription", "outline", "sections" (array de strings).
-Proibido escrever o artigo.`,
-
-    BLOCK_WRITING: `Você é um jornalista especializado em criptomoedas.
-
-Escreva APENAS a seção abaixo:
-"{TITULO_DA_SECAO}"
-
-Regras:
-- Tom humano e jornalístico
-- Frases com variação de tamanho
-- Não conclua o artigo
-- Não repita ideias de outras seções
-- Use exemplos implícitos (sem parecer didático)
-
-Contexto do Artigo:
-{CONTEXTO_DO_ARTIGO}
-
-Conteúdo anterior (para continuidade):
-{CONTEUDO_ANTERIOR}
-`,
-
-    HUMANIZATION: `Reescreva o texto abaixo para soar mais humano.
-
-Regras obrigatórias:
-- Varie ritmo e estrutura das frases
-- Use pequenas imperfeições naturais
-- Evite conclusões fechadas
-- Evite frases genéricas de IA
-- Mantenha o significado original
-
-Texto:
-{TEXTO}`
-};
+// Prompts Loader
+function loadPrompt(category, name, version = '1.0') {
+    const filePath = path.join(__dirname, `../prompts/${category}/${name}_v${version}.json`);
+    try {
+        if (!fs.existsSync(filePath)) {
+             // Fallback to finding the latest version if specific version not found could be implemented,
+             // but for now strict versioning is safer for regression testing.
+             throw new Error(`Prompt file not found: ${filePath}`);
+        }
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        return JSON.parse(fileContent);
+    } catch (e) {
+        console.error(`❌ Failed to load prompt ${category}/${name}_v${version}:`, e.message);
+        return null;
+    }
+}
 
 // Utils
-async function runAI(systemPrompt, userPrompt, outputJson = false) {
+async function runAI(systemPrompt, userPrompt, outputJson = false, temperature = 0.7) {
     try {
         console.log(`🤖 AI Request: ${userPrompt.substring(0, 50)}...`);
         const response = await fetch(
@@ -90,7 +44,7 @@ async function runAI(systemPrompt, userPrompt, outputJson = false) {
                         { role: "user", content: userPrompt }
                     ],
                     max_tokens: 4000,
-                    temperature: 0.7 // "Escrita: 0.7 – 0.9" from config
+                    temperature: temperature
                 })
             }
         );
@@ -120,19 +74,31 @@ async function generateArticle(topic) {
 
     // 1. Intent Analysis
     console.log("1️⃣  Analyzing Intent...");
-    const intentJson = await runAI(PROMPTS.INTENT_ANALYSIS.replace('{TEMA}', topic), "Analise este tema.", true);
+    const promptIntent = loadPrompt('analysis', 'intent', '1.0');
+    if (!promptIntent) return;
+
+    const intentJson = await runAI(promptIntent.prompt.replace('{TEMA}', topic), "Analise este tema.", true, promptIntent.temperature);
     if (!intentJson) return;
     console.log("   Intent detected:", intentJson['Intenção de busca principal'] || 'N/A');
 
     // 2. Editorial Planning
     console.log("2️⃣  Creating Editorial Plan...");
-    const planJson = await runAI(PROMPTS.EDITORIAL_PLANNING.replace('{INTENCAO_JSON}', JSON.stringify(intentJson)), "Crie o plano editorial.", true);
+    const promptEditorial = loadPrompt('analysis', 'editorial', '1.0');
+    if (!promptEditorial) return;
+
+    const planJson = await runAI(promptEditorial.prompt.replace('{INTENCAO_JSON}', JSON.stringify(intentJson)), "Crie o plano editorial.", true, promptEditorial.temperature);
     if (!planJson) return;
     console.log("   Title suggestion:", planJson.title);
     console.log("   Sections to write:", planJson.sections ? planJson.sections.length : 0);
 
+    // * FUTURE: Anti-Cannibalization Check would go here
+    // * Logic: Embed(topic) -> VectorDB search -> Similarity check -> Abort if > 0.85
+
     // 3. Block Writing
     console.log("3️⃣  Writing Blocks...");
+    const promptBlock = loadPrompt('writing', 'block', '1.0');
+    if (!promptBlock) return;
+
     let fullContent = "";
     let context = `Title: ${planJson.title}\nDescription: ${planJson.metaDescription}\nIntent: ${JSON.stringify(intentJson)}`;
 
@@ -142,11 +108,13 @@ async function generateArticle(topic) {
     for (const section of sections) {
         process.stdout.write(`   Writing "${section}"... `);
         const blockContent = await runAI(
-            "Você é um jornalista especializado em criptomoedas.",
-            PROMPTS.BLOCK_WRITING
+            promptBlock.system_prompt || "Você é um jornalista especializado em criptomoedas.", // Could also be loaded from prompt role
+            promptBlock.prompt
                 .replace('{TITULO_DA_SECAO}', section)
                 .replace('{CONTEXTO_DO_ARTIGO}', context)
-                .replace('{CONTEUDO_ANTERIOR}', fullContent.slice(-500)) // Give last 500 chars for continuity
+                .replace('{CONTEUDO_ANTERIOR}', fullContent.slice(-500)),
+            false,
+            promptBlock.temperature
         );
 
         if (blockContent) {
@@ -159,8 +127,11 @@ async function generateArticle(topic) {
         await new Promise(r => setTimeout(r, 1000));
     }
 
-    // 4. Humanization (Running on the full text or large chunks? Full text might be too big. Let's do it per block in v2. For now, let's assume the block writing prompt did a good job or run a final pass on the intro/conclusion which are most critical).
-    // Let's Skip full re-write for now to save tokens/time, as we used the "Antigravity Block Intent".
+    // 4. Anti-AI / Humanization Pass (Optional)
+    // console.log("4️⃣  Applying Anti-AI Filter...");
+    // const promptAntiAi = loadPrompt('anti_ai', 'anti_detect', '1.0');
+    // For now we skip to save tokens, but logic is ready:
+    // fullContent = await runAI(promptAntiAi.prompt.replace('{TEXTO}', fullContent), ...);
 
     // 5. Saving
     const slug = topic.toLowerCase()
@@ -175,7 +146,8 @@ async function generateArticle(topic) {
         excerpt: planJson.metaDescription || "Leia este artigo completo sobre " + topic,
         coverImage: "/images/default-cover.jpg",
         author: "Jonatha Pereira",
-        status: "published"
+        status: "published",
+        pipeline: "antigravity-v1"
     };
 
     const fileContent = matter.stringify(fullContent, frontmatter);

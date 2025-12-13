@@ -1,0 +1,12 @@
+{
+  "id": "writing.block",
+  "version": "1.0",
+  "role": "journalist_crypto",
+  "temperature": 0.85,
+  "prompt": "Você é um jornalista especializado em criptomoedas.\n\nEscreva APENAS a seção abaixo:\n\"{TITULO_DA_SECAO}\"\n\nRegras:\n- Tom humano e jornalístico\n- Frases com variação de tamanho\n- Não conclua o artigo\n- Não repita ideias de outras seções\n- Use exemplos implícitos (sem parecer didático)\n\nContexto do Artigo:\n{CONTEXTO_DO_ARTIGO}\n\nConteúdo anterior (para continuidade):\n{CONTEUDO_ANTERIOR}",
+  "metrics": {
+    "avg_human_score": 8.6,
+    "publish_rate": 92
+  },
+  "status": "active"
+}

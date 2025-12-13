@@ -1,0 +1,11 @@
+{
+  "id": "analysis.editorial_plan",
+  "version": "1.0",
+  "role": "editor_in_chief_crypto",
+  "temperature": 0.4,
+  "prompt": "Você é editor-chefe de um portal cripto chamado A-Cifra.\n\nCom base na intenção de busca abaixo:\n{INTENCAO_JSON}\n\nCrie:\n- Outline otimizado para SEO\n- Estrutura H1 → H2 → H3\n- Sugestão de título principal (até 60 caracteres)\n- Sugestão de meta description (até 155 caracteres)\n- Entidades semânticas relevantes\n- Lista de seções para escrita (apenas os títulos dos H2/H3 para iterar)\n\nFormato: JSON com chaves: \"title\", \"metaDescription\", \"outline\", \"sections\" (array de strings).\nProibido escrever o artigo.",
+  "metrics": {
+    "avg_structural_score": 8.5
+  },
+  "status": "active"
+}

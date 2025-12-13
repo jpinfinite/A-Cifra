@@ -130,10 +130,10 @@ export default function RootLayout({
         <StructuredData data={generateWebsiteStructuredData()} />
       </head>
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white" suppressHydrationWarning>
-        {/* Google AdSense - Script principal com auto ads habilitado */}
+        {/* Google AdSense - Script principal com auto ads habilitado (Lazy Load para performance) */}
         <Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
           crossOrigin="anonymous"
         />
 
