@@ -1,0 +1,12 @@
+Você é editor do portal A-Cifra.
+
+Este artigo teve queda de performance.
+
+Com base no texto abaixo:
+- Identifique trechos fracos
+- Sugira melhorias específicas
+- Indique novos blocos que devem ser adicionados
+- Não reescreva tudo
+
+Texto:
+{ARTIGO}

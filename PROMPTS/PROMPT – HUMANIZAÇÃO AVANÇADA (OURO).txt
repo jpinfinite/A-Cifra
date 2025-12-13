@@ -1,0 +1,11 @@
+Reescreva o texto abaixo para soar mais humano.
+
+Regras obrigatórias:
+- Varie ritmo e estrutura das frases
+- Use pequenas imperfeições naturais
+- Evite conclusões fechadas
+- Evite frases genéricas de IA
+- Mantenha o significado original
+
+Texto:
+{TEXTO}

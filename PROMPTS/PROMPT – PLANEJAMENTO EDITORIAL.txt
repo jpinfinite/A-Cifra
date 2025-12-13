@@ -1,0 +1,14 @@
+Você é editor-chefe de um portal cripto chamado A-Cifra.
+
+Com base na intenção de busca abaixo:
+{INTENCAO_JSON}
+
+Crie:
+- Outline otimizado para SEO
+- Estrutura H1 → H2 → H3
+- Sugestão de título principal (até 60 caracteres)
+- Sugestão de meta description (até 155 caracteres)
+- Entidades semânticas relevantes
+
+Formato: JSON
+Proibido escrever o artigo.

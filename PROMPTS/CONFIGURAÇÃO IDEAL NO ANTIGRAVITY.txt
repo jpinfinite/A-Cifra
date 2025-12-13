@@ -1,0 +1,26 @@
+⚙️ CONFIGURAÇÃO IDEAL NO ANTIGRAVITY
+🔥 Temperatura recomendada
+
+Escrita: 0.7 – 0.9
+
+Análise: 0.2 – 0.4
+
+Validação: 0.1 – 0.3
+
+🧩 Variáveis dinâmicas (use SEMPRE)
+{TEMA}
+{INTENCAO_JSON}
+{ENTIDADES}
+{CONTEXTO}
+{TEXTO}
+{PERFIL_AUTOR}
+
+🧠 Personas EEAT (recomendado)
+
+Crie 3 autores fixos:
+
+Analista de mercado
+
+Educador cripto
+
+Jornalista tech

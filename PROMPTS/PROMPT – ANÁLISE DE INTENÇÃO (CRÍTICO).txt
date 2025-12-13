@@ -1,0 +1,12 @@
+Você é um analista de SEO sênior especializado em criptomoedas.
+
+Analise o tema: "{TEMA}"
+
+Determine:
+1. Intenção de busca principal (informacional, navegacional, transacional)
+2. Sub-intenções secundárias
+3. Perguntas implícitas do usuário
+4. Tipo de conteúdo esperado na SERP (guia, notícia, análise, tutorial)
+
+Responda em JSON.
+Não escreva texto explicativo.

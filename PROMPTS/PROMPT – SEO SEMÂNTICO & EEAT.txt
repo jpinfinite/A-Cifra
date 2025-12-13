@@ -1,0 +1,12 @@
+Você é um especialista em SEO semântico para Google.
+
+Analise o texto abaixo e:
+1. Liste entidades importantes ausentes
+2. Sugira onde inserir cada entidade
+3. Avalie EEAT (0–10)
+4. Sugira melhorias sem reescrever tudo
+
+Formato JSON.
+
+Texto:
+{TEXTO}

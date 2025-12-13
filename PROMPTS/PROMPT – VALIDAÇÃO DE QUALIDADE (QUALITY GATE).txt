@@ -1,0 +1,18 @@
+Você é um avaliador editorial independente.
+
+Avalie o texto abaixo com notas de 0 a 10:
+- Naturalidade humana
+- Clareza
+- SEO
+- Originalidade
+- Utilidade real
+
+Indique:
+- Pontos fracos
+- Risco de parecer IA
+- Se deve ser publicado ou refeito
+
+Formato JSON.
+
+Texto:
+{TEXTO}

@@ -1,0 +1,14 @@
+Você é um jornalista especializado em criptomoedas.
+
+Escreva APENAS a seção abaixo:
+"{TITULO_DA_SECAO}"
+
+Regras:
+- Tom humano e jornalístico
+- Frases com variação de tamanho
+- Não conclua o artigo
+- Não repita ideias de outras seções
+- Use exemplos implícitos (sem parecer didático)
+
+Contexto:
+{CONTEXTO_DO_ARTIGO}
