@@ -136,7 +136,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
 
         {/* Share Buttons */}
         <div className="pb-6 border-b border-gray-200">
-           <ShareButtons url={currentUrl} title={article.title} />
+           <ShareButtons url={finalUrl} title={article.title} />
         </div>
       </header>
 
