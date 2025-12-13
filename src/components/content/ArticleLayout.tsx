@@ -29,7 +29,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
   const estimatedReadTime = Math.ceil(article.content.split(' ').length / 200)
   // Use passed URL or fallback to site URL, avoiding window access during render
   const finalUrl = url || `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${article.slug}`
-  const nowIso = new Date().toISOString() // This still risks mismatch if SSR/CSR differ significantly, but usually acceptable if close. Better: use article dates.
+
 
   // Use article dates strictly if available, fallback to a fixed past date if absolutely necessary to avoid hydration mismatch
   const publishedDate = article.publishedAt?.toISOString() || '2024-01-01T00:00:00.000Z'
