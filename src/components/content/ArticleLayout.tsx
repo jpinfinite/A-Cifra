@@ -13,9 +13,10 @@ interface ArticleLayoutProps {
   breadcrumbs?: BreadcrumbItem[]
   relatedArticles?: Article[]
   className?: string
+  url?: string
 }
 
-export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [], className }: ArticleLayoutProps) {
+export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [], className, url }: ArticleLayoutProps) {
   const formatDate = (date: Date) => {
     return new Intl.DateTimeFormat('pt-BR', {
       day: 'numeric',
@@ -26,9 +27,13 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
   }
 
   const estimatedReadTime = Math.ceil(article.content.split(' ').length / 200)
-  const currentUrl = typeof window !== 'undefined' ? window.location.href : ''
+  // Use passed URL or fallback to site URL, avoiding window access during render
+  const finalUrl = url || `${process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'}/artigo/${article.slug}`
+  const nowIso = new Date().toISOString() // This still risks mismatch if SSR/CSR differ significantly, but usually acceptable if close. Better: use article dates.
 
-
+  // Use article dates strictly if available, fallback to a fixed past date if absolutely necessary to avoid hydration mismatch
+  const publishedDate = article.publishedAt?.toISOString() || '2024-01-01T00:00:00.000Z'
+  const modifiedDate = article.updatedAt?.toISOString() || publishedDate
 
   // Generate structured data for SEO
   const structuredData = {
@@ -49,11 +54,11 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
         url: '/images/cifra-principal.png'
       }
     },
-    datePublished: article.publishedAt?.toISOString() || new Date().toISOString(),
-    dateModified: article.updatedAt?.toISOString() || article.publishedAt?.toISOString() || new Date().toISOString(),
+    datePublished: publishedDate,
+    dateModified: modifiedDate,
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': currentUrl
+      '@id': finalUrl
     },
     keywords: article.tags.join(', ')
   }

@@ -112,6 +112,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               article={article}
               breadcrumbs={breadcrumbItems}
               relatedArticles={relatedArticles}
+              url={currentUrl}
             />
 
             {/* Newsletter CTA */}

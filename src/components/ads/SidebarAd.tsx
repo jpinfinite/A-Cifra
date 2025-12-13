@@ -27,17 +27,17 @@ export function SidebarAd({
 
   useEffect(() => {
     if (isMounted) {
-      try {
-        if (typeof window !== 'undefined') {
-          // Check if ad slot is not already filled to avoid "already have ads" error
-          // However, Google scripts handle this mostly, but in Strict Mode it fires twice.
-          // We just push and catch errors.
-          (window.adsbygoogle = window.adsbygoogle || []).push({})
+      const timer = setTimeout(() => {
+        try {
+          if (typeof window !== 'undefined') {
+            (window.adsbygoogle = window.adsbygoogle || []).push({})
+          }
+        } catch (e) {
+           console.error('AdSense error:', e)
         }
-      } catch {
-         // Ignorar erro de 'adsbygoogle.push() error: All 'ins' elements... already have ads in them'
-         // Isso acontece em desenvolvimento devido ao React Strict Mode
-      }
+      }, 500) // Delay to ensure container has width
+
+      return () => clearTimeout(timer)
     }
   }, [isMounted])
 
