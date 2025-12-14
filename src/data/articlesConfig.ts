@@ -1,18 +1,18 @@
 /**
  * Articles Configuration with Images
- * 
+ *
  * This file centralizes all article metadata and their associated images.
  * Easy to edit and maintain - simply update the articles array below.
- * 
+ *
  * ============================================================================
  * HOW TO USE THIS FILE:
  * ============================================================================
- * 
+ *
  * 1. ADDING A NEW ARTICLE:
  *    - Copy the template block below (search for "=== TEMPLATE ===")
  *    - Paste it into the articlesConfig array
  *    - Update all fields with your article information
- * 
+ *
  * 2. REQUIRED FIELDS:
  *    - id: Unique identifier (e.g., 'bitcoin-guide-2025')
  *    - title: Article title in Portuguese
@@ -24,7 +24,7 @@
  *    - categorySlug: Reference to category (check @/lib/config for valid slugs)
  *    - tags: Array of relevant tags
  *    - seo: SEO metadata for search engines
- * 
+ *
  * 3. OPTIONAL FIELDS:
  *    - updatedAt: Last update date
  *    - content: Article content (can be empty, loaded from markdown files)
@@ -32,22 +32,22 @@
  *    - canonicalUrl: For SEO redirects
  *    - ogImage: Custom Open Graph image
  *    - noIndex: Set to true to prevent indexing
- * 
+ *
  * 4. IMAGE PATHS:
  *    - All images should be in public/images/ directory
  *    - Use paths like /images/category/filename.jpg
  *    - Keep image sizes around 1200x630 for cover images (OG image standard)
- * 
+ *
  * 5. CATEGORIES:
  *    - Use the categorySlug from your categories config
  *    - Example: 'bitcoin', 'ethereum', 'defi', 'altcoins', etc.
- * 
+ *
  * 6. SEO TIPS:
  *    - metaTitle: Should be 50-60 characters
  *    - metaDescription: Should be 150-160 characters
  *    - keywords: 5-10 relevant keywords
  *    - Use your main focus keyword in title and description
- * 
+ *
  * ============================================================================
  * Structure:
  * - id: Unique identifier
@@ -75,7 +75,7 @@ function getCategoryBySlug(slug: string) {
 
 /**
  * ARTICLE CONFIGURATION - Easy to Edit Section
- * 
+ *
  * Add, remove, or modify articles here. Each article includes:
  * - Complete metadata
  * - Cover image information
@@ -1302,7 +1302,123 @@ export const articlesConfig: Array<{
       metaDescription: 'Aprenda tudo sobre staking de Ethereum: passo a passo, melhores plataformas, cálculo de retornos, riscos e como ganhar até 8% ao ano com ETH.',
       keywords: ['staking ethereum', 'renda passiva cripto', 'como fazer staking eth', 'ethereum 2025', 'ganhar com ethereum', 'staking eth']
     }
-  }
+  },
+  // Novos Artigos Gerados - Dez/Jan 2025
+  {
+    id: 'bitcoin-200k-q1-2025',
+    title: 'Bitcoin Rumo aos $200k: O Que Esperar do Primeiro Trimestre de 2025',
+    slug: 'bitcoin-rumo-200k-o-que-esperar-q1-2025',
+    excerpt: 'Com o Bitcoin quebrando recordes e a adoção institucional acelerada, analistas projetam um primeiro trimestre explosivo. Descubra os catalisadores para os $200k.',
+    contentPath: 'bitcoin-rumo-200k-o-que-esperar-q1-2025.md',
+    coverImage: {
+      src: '/images/bitcoin-200k-outlook.png',
+      alt: 'Bitcoin subindo em gráfico digital rumo a 200k',
+      width: 1200,
+      height: 630
+    },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-01-02',
+    updatedAt: '2025-01-02',
+    categorySlug: 'bitcoin',
+    tags: ['bitcoin', 'previsão 2025', 'investimento institucional', 'análise de mercado', 'BTC $200k'],
+    seo: {
+      metaTitle: 'Bitcoin Rumo aos $200k: Previsões e Análise Q1 2025 | A Cifra',
+      metaDescription: 'Análise detalhada sobre o potencial do Bitcoin atingir $200.000 no início de 2025. Entenda os fatores macroeconômicos e fluxos de ETFs.',
+      keywords: ['bitcoin 2025', 'preço bitcoin', 'btc 200k', 'previsão bitcoin', 'etf bitcoin']
+    }
+  },
+  {
+    id: 'altcoin-season-2025',
+    title: 'Altcoin Season 2025: O Momento da Virada Chegou?',
+    slug: 'altcoin-season-2025-momento-virada-analise',
+    excerpt: 'Com o domínio do Bitcoin mostrando sinais de topo, o mercado se prepara para a Altseason. Analisamos os setores promissores e as criptomoedas líderes.',
+    contentPath: 'altcoin-season-2025-momento-virada-analise.md',
+    coverImage: {
+      src: '/images/altcoin-season-2025.png',
+      alt: 'Altcoin Season 2025 - Diversas criptomoedas em galáxia digital',
+      width: 1200,
+      height: 630
+    },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-01-03',
+    updatedAt: '2025-01-03',
+    categorySlug: 'altcoins',
+    tags: ['altcoin season', 'ethereum', 'solana', 'investimento', 'portfolio', 'diversificação'],
+    seo: {
+      metaTitle: 'Altcoin Season 2025: Análise Completa e Criptomoedas Promissoras',
+      metaDescription: 'A Altcoin Season de 2025 chegou? Análise profunda sobre a dominância do Bitcoin e os setores de IA, RWA e Gaming que podem explodir.',
+      keywords: ['altcoin season', 'melhores altcoins 2025', 'comprar ethereum', 'solana previsão']
+    }
+  },
+  {
+    id: 'regulacao-cripto-eua-2025',
+    title: 'A Nova Era da Regulação Cripto nos EUA: Impactos Globais',
+    slug: 'nova-era-regulacao-cripto-eua-impactos-globais',
+    excerpt: 'Com um novo rumo político nos EUA, a regulação de criptomoedas promete uma transformação radical. Entenda como isso afeta o mercado global.',
+    contentPath: 'nova-era-regulacao-cripto-eua-impactos-globais.md',
+    coverImage: {
+      src: '/images/crypto-regulation-us.png',
+      alt: 'Nova Era da Regulação Cripto nos EUA',
+      width: 1200,
+      height: 630
+    },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-01-04',
+    updatedAt: '2025-01-04',
+    categorySlug: 'analises',
+    tags: ['regulação', 'SEC', 'EUA', 'Trump', 'política cripto', 'legalização'],
+    seo: {
+      metaTitle: 'Regulação Cripto EUA 2025: Nova Era e Impactos Globais',
+      metaDescription: 'Análise profunda sobre a nova postura regulatória dos EUA em 2025. O fim da regulação por execução e o impacto nos preços.',
+      keywords: ['regulação criptomoedas eua', 'sec cripto 2025', 'trump bitcoin', 'lei cripto eua']
+    }
+  },
+  {
+    id: 'ai-agent-tokens',
+    title: 'Tokens de Agentes de IA: A Próxima Grande Narrativa do Mercado',
+    slug: 'tokens-agentes-ia-proxima-grande-narrativa-crypto',
+    excerpt: 'A nova revolução são os Agentes de IA Autônomos que negociam on-chain. Descubra como essa narrativa está redefinindo o futuro da blockchain.',
+    contentPath: 'tokens-agentes-ia-proxima-grande-narrativa-crypto.md',
+    coverImage: {
+      src: '/images/ai-agent-tokens.png',
+      alt: 'Tokens de Agentes de IA - Brain Robot Blockchain',
+      width: 1200,
+      height: 630
+    },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-01-05',
+    updatedAt: '2025-01-05',
+    categorySlug: 'altcoins',
+    tags: ['IA', 'AI Agents', 'Virtuals Protocol', 'ai16z', 'narrativas', 'tendências 2025'],
+    seo: {
+      metaTitle: 'Tokens de Agentes de IA: A Maior Tendência Cripto de 2025',
+      metaDescription: 'Guia completo sobre a narrativa de Agentes de IA em cripto. Entenda o que são, como funcionam e por que podem superar as memecoins.',
+      keywords: ['tokens ia', 'agentes de ia cripto', 'virtuals protocol', 'ai16z', 'investir em ia']
+    }
+  },
+  {
+    id: 'token-unlocks-jan-2025',
+    title: 'Desbloqueios de Tokens em Janeiro 2025: Oportunidade ou Risco?',
+    slug: 'desbloqueios-tokens-janeiro-2025-oportunidade-risco',
+    excerpt: 'Janeiro trará mais de $500 milhões em tokens desbloqueados. Aprenda a analisar os Token Unlocks e transforme a pressão de venda em lucro.',
+    contentPath: 'desbloqueios-tokens-janeiro-2025-oportunidade-risco.md',
+    coverImage: {
+      src: '/images/token-unlocks-jan-2025.png',
+      alt: 'Token Unlocks Janeiro 2025 - Cofre com Tokens',
+      width: 1200,
+      height: 630
+    },
+    author: { name: 'Jonatha Pereira', avatar: '/Jonatha-Pereira-SEO.png' },
+    publishedAt: '2025-01-06',
+    updatedAt: '2025-01-06',
+    categorySlug: 'analises',
+    tags: ['tokenomics', 'token unlocks', 'Sui', 'Aptos', 'Ondo', 'trading'],
+    seo: {
+      metaTitle: 'Token Unlocks Janeiro 2025: Análise de SUI, APT e ONDO',
+      metaDescription: 'Análise completa dos grandes desbloqueios de tokens em Janeiro 2025. Impacto no preço de Sui, Aptos e Ondo.',
+      keywords: ['token unlocks janeiro 2025', 'desbloqueio sui', 'preço aptos', 'tokenomics ondo']
+    }
+  },
 ]
 
 /**
@@ -1344,7 +1460,7 @@ export function getArticlesByCategory(categorySlug: string) {
  * Get all articles sorted by date (newest first)
  */
 export function getAllArticlesConfig() {
-  return articlesConfig.slice().sort((a, b) => 
+  return articlesConfig.slice().sort((a, b) =>
     new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   )
 }
