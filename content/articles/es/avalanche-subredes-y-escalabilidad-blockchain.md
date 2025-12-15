@@ -7,7 +7,7 @@ excerpt: >-
   personalizables y consenso innovador que procesa miles de transacciones por
   segundo.
 coverImage:
-  src: /images/040.jpg
+  src: /images/articles/avalanche-subredes-y-escalabilidad-blockchain.webp
   alt: 'Avalanche: Subnets e Escalabilidade Blockchain'
   width: 1200
   height: 630

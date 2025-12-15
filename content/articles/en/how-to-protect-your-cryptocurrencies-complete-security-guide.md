@@ -7,7 +7,8 @@ excerpt: >-
   scams, and losses. Comprehensive guide with hardware wallets, backups, and
   digital protection.
 coverImage:
-  src: /images/crypto-wallet-protection-styled.jpg
+  src: >-
+    /images/articles/how-to-protect-your-cryptocurrencies-complete-security-guide.webp
   alt: Cadeado digital protegendo criptomoedas com ícones de segurança
   width: 1200
   height: 630

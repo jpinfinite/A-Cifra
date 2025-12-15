@@ -7,7 +7,8 @@ excerpt: >-
   calcular ganancia de capital, evitar multas y usar herramientas de cálculo
   automático.
 coverImage:
-  src: /images/128.png
+  src: >-
+    /images/articles/impuestos-sobre-criptomonedas-en-brasil-2025-gua-completa-del-ir.webp
   alt: Impostos sobre criptomoedas no Brasil - Guia IR 2025
   width: 1200
   height: 630

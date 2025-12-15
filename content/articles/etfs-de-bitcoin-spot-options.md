@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre ETFs de Bitcoin Spot Options. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/etfs-de-bitcoin-spot-options.webp
+  src: /images/articles/etfs-de-bitcoin-spot-options.webp
   alt: 'Opções de ETFs de Bitcoin: Como Impactam a Volatilidade?'
   width: 1200
   height: 630

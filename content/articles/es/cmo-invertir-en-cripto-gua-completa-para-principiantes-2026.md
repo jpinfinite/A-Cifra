@@ -6,7 +6,8 @@ excerpt: >-
   Guía definitiva para empezar a invertir en criptomonedas en 2026: paso a paso,
   estrategias, seguridad y errores a evitar. Perfecto para principiantes.
 coverImage:
-  src: /images/125.jpg
+  src: >-
+    /images/articles/cmo-invertir-en-cripto-gua-completa-para-principiantes-2026.webp
   alt: Guia de Investimento em Cripto 2026
   width: 1200
   height: 630

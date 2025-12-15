@@ -10,7 +10,8 @@ excerpt: >-
   2026: real estate, stocks, commodities, and blockchain titles with 24/7
   liquidity.
 coverImage:
-  src: /images/169.jpg
+  src: >-
+    /images/articles/real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi.webp
   alt: Tokenização RWA 2026
   width: 1200
   height: 630

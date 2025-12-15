@@ -7,7 +7,8 @@ excerpt: >-
   noviembre de 2025. Zcash alcanza su valor más alto en 7 años y Dash supera los
   máximos de 2022. Entiende los factores que están detrás de este movimiento.
 coverImage:
-  src: /images/articles/zcash.png
+  src: >-
+    /images/articles/el-regreso-de-las-monedas-secretas-zcash-y-dash-surge-en-el-mercado.webp
   alt: Zcash and Dash - Privacy Coins on the Rise
   width: 1200
   height: 630

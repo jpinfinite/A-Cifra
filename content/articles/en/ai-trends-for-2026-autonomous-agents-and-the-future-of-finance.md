@@ -6,7 +6,8 @@ excerpt: >-
   Forget simple chatbots. 2026 will be the year of Autonomous AI Agents that
   negotiate, invest, and manage your money on their own. Are we ready?
 coverImage:
-  src: /images/analises/2025-12/ia-agentes-2026.webp
+  src: >-
+    /images/articles/ai-trends-for-2026-autonomous-agents-and-the-future-of-finance.webp
   alt: >-
     Representação futurista de um agente de IA digital gerenciando múltiplos
     fluxos de dados financeiros e moedas

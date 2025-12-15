@@ -10,7 +10,8 @@ excerpt: >-
   revela próximos objetivos: $95k, $98k y $100k. Descubra los catalizadores y
   estrategias para diciembre de 2025.
 coverImage:
-  src: /images/bitcoin-93k-recuperacao.jpg
+  src: >-
+    /images/articles/bitcoin-vuelve-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025.webp
   alt: Bitcoin volta aos $93k - Análise e próximos alvos dezembro 2025
   width: 1200
   height: 630

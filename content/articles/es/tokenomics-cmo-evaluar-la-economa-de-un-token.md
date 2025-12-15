@@ -4,7 +4,7 @@ title: 'Tokenomics: Cómo Evaluar la Economía de un Token'
 slug: tokenomics-cmo-evaluar-la-economa-de-un-token
 excerpt: Guía completa para analizar tokenomics y economía de proyectos criptográficos.
 coverImage:
-  src: /images/crypto-tokenomics-economy-styled.jpg
+  src: /images/articles/tokenomics-cmo-evaluar-la-economa-de-un-token.webp
   alt: 'Tokenomics: Como Avaliar a Economia de um Token'
   width: 1200
   height: 630

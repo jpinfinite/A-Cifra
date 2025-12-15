@@ -4,7 +4,7 @@ title: 'Dominancia Bitcoin y Altseason: Tiempo de Mercado'
 slug: dominancia-bitcoin-y-altseason-tiempo-de-mercado
 excerpt: Aprende a usar la dominancia del Bitcoin para identificar altseasons.
 coverImage:
-  src: /images/bitcoin-dominance-chart-styled.jpg
+  src: /images/articles/dominancia-bitcoin-y-altseason-tiempo-de-mercado.webp
   alt: 'Dominância Bitcoin e Altseason: Timing de Mercado'
   width: 1200
   height: 630

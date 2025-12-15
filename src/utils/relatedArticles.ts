@@ -125,8 +125,8 @@ export function addInlineLinks(
       for (let i = 0; i < lines.length && !replaced; i++) {
         const line = lines[i]
 
-        // Pula linhas que já têm links ou são títulos
-        if (line.includes('](') || line.startsWith('#')) continue
+        // Pula linhas que já têm links (Markdown ou HTML) ou são títulos
+        if (line.includes('](') || line.startsWith('#') || line.includes('<a') || line.includes('href=')) continue
 
         const match = line.match(regex)
         if (match) {

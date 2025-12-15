@@ -6,7 +6,7 @@ excerpt: >-
   Understand MakerDAO, the protocol behind DAI, the most important decentralized
   stablecoin in DeFi, and how it maintains parity with the dollar.
 coverImage:
-  src: /images/093.jpg
+  src: /images/articles/makerdao-and-dai-the-decentralized-stablecoin.webp
   alt: MakerDAO e DAI - Stablecoin descentralizada
   width: 1200
   height: 630

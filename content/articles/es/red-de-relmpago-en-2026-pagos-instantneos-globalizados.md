@@ -6,7 +6,7 @@ excerpt: >-
   Análisis completo sobre Lightning Network 2026. Descubra las predicciones,
   tecnologías y oportunidades para 2026 en este guía exclusivo A Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/lightning-network-2026.webp
+  src: /images/articles/red-de-relmpago-en-2026-pagos-instantneos-globalizados.webp
   alt: 'Lightning Network em 2026: Pagamentos Instantâneos Globalizados'
   width: 1200
   height: 630

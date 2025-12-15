@@ -6,7 +6,8 @@ excerpt: >-
   Descubra las altcoins con mayor potencial para 2025, analizando fundamentos,
   tecnología y adopción real.
 coverImage:
-  src: /images/altcoin-investment-unique-styled.jpg
+  src: >-
+    /images/articles/monedas-alternativas-prometedoras-para-2025-anlisis-fundamentalista.webp
   alt: Gráfico com principais altcoins e suas redes
   width: 1200
   height: 630

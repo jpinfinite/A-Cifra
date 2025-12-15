@@ -6,7 +6,7 @@ excerpt: >-
   Análisis completo de Solana para 2026: predicción de precio, ecosistema DeFi,
   NFTs, y por qué SOL puede ser la blockchain más rápida del mercado.
 coverImage:
-  src: /images/178.jpg
+  src: /images/articles/solana-2026-previsin-anlisis-y-ecosistema-completo.webp
   alt: Solana 2026 Análise
   width: 1200
   height: 630

@@ -6,7 +6,8 @@ excerpt: >-
   Understand what meme coins are, how they emerged, why they became popular, and
   how to invest safely in this volatile but fascinating crypto market.
 coverImage:
-  src: /images/137.jpg
+  src: >-
+    /images/articles/memecoins-the-cultural-phenomenon-that-revolutionized-the-crypto-market.webp
   alt: 'Memecoins - Dogecoin, Shiba Inu e outras criptomoedas meme'
   width: 1200
   height: 630

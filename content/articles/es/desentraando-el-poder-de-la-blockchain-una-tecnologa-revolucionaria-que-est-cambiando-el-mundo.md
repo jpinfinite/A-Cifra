@@ -10,7 +10,8 @@ excerpt: >-
   industrias enteras. Descubra cómo funciona, sus aplicaciones y el impacto en
   el futuro.
 coverImage:
-  src: /images/095.jpg
+  src: >-
+    /images/articles/desentraando-el-poder-de-la-blockchain-una-tecnologa-revolucionaria-que-est-cambiando-el-mundo.webp
   alt: Representação visual da tecnologia blockchain com blocos conectados
   width: 1200
   height: 630

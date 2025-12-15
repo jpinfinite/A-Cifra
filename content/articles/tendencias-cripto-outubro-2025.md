@@ -7,7 +7,7 @@ excerpt: >-
   ETFs, regulamentação, DeFi 2.0 e as oportunidades que estão moldando o futuro
   das criptomoedas.
 coverImage:
-  src: /images/035.jpg
+  src: /images/articles/tendencias-cripto-outubro-2025.webp
   alt: >-
     Tendências do mercado cripto outubro 2025 - Análise completa de Bitcoin,
     Ethereum e DeFi

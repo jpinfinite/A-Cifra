@@ -1,12 +1,24 @@
 ---
-title: 'Tokenização de RWA: O Guia Definitivo sobre Como o Mercado de $16 Trilhões Migrará para a Blockchain até 2030'
+title: >-
+  Tokenização de RWA: O Guia Definitivo sobre Como o Mercado de $16 Trilhões
+  Migrará para a Blockchain até 2030
 date: '2025-12-10'
 category: Investimentos
-excerpt: 'BlackRock, Franklin Templeton e os maiores bancos do mundo já estão se movendo. Entenda profundamente a tese de RWA, a tecnologia por trás e a oportunidade.'
-image: /images/articles/rwa-tokenization-future.png
+excerpt: >-
+  BlackRock, Franklin Templeton e os maiores bancos do mundo já estão se
+  movendo. Entenda profundamente a tese de RWA, a tecnologia por trás e a
+  oportunidade.
 author: Antigravity
 metaTitle: 'Tokenização de RWA: Análise Completa do Mercado de $16 Trilhões'
-metaDescription: 'Um mergulho profundo na tokenização de ativos reais (RWA): tecnologia, regulação, players institucionais e o roteiro para um mercado de 16 trilhões de dólares.'
+metaDescription: >-
+  Um mergulho profundo na tokenização de ativos reais (RWA): tecnologia,
+  regulação, players institucionais e o roteiro para um mercado de 16 trilhões
+  de dólares.
+coverImage:
+  src: /images/articles/tokenizacao-rwa-mercado-16-trilhoes.webp
+  alt: >-
+    Tokenização de RWA: O Guia Definitivo sobre Como o Mercado de $16 Trilhões
+    Migrará para a Blockchain até 2030
 ---
 
 Se você olhar para a história do dinheiro e dos ativos financeiros, perceberá que a evolução é impulsionada por uma única força: a redução do atrito. Do escambo para as moedas de ouro, do ouro para o papel-moeda, e do papel para os dígitos eletrônicos nos bancos centrais. Cada passo tornou a transferência de valor mais rápida e barata.

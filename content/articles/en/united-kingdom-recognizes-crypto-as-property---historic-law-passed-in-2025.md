@@ -7,7 +7,8 @@ excerpt: >-
   and NFTs as legal property. Understand the impact of this historic decision
   for investors, companies, and the future of global crypto regulation.
 coverImage:
-  src: /images/uk-crypto-property-law-2025.jpg
+  src: >-
+    /images/articles/united-kingdom-recognizes-crypto-as-property---historic-law-passed-in-2025.webp
   alt: Reino Unido aprova lei reconhecendo cripto como propriedade
   width: 1200
   height: 630

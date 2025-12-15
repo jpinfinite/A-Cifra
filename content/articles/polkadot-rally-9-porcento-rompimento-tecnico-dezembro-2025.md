@@ -7,7 +7,8 @@ excerpt: >-
   completa do movimento, próximos alvos e o que esperar da parachain líder em
   interoperabilidade.
 coverImage:
-  src: /images/040.jpg
+  src: >-
+    /images/articles/polkadot-rally-9-porcento-rompimento-tecnico-dezembro-2025.webp
   alt: Gráfico mostrando rally de 9% do Polkadot
   width: 1200
   height: 630

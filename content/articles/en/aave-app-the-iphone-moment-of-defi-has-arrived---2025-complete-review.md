@@ -7,7 +7,8 @@ excerpt: >-
   million protection and up to 15% yield. The "iPhone moment" for decentralized
   finance has finally arrived. Full review.
 coverImage:
-  src: /images/articles/aave-app-momento-iphone-defi.jpg
+  src: >-
+    /images/articles/aave-app-the-iphone-moment-of-defi-has-arrived---2025-complete-review.webp
   alt: >-
     Two professionals analyzing data and graphs with smartphones on a white
     table.

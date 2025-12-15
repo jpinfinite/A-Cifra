@@ -9,7 +9,8 @@ excerpt: >-
   Understand crypto regulation in Brazil: Law 14.478/22, Central Bank, CVM,
   taxation, regulated exchanges, market impact and future legislation in 2025.
 coverImage:
-  src: /images/regulacao-cripto-brasil-2025.jpg
+  src: >-
+    /images/articles/cryptocurrency-regulation-in-brazil-2025-complete-scenario-laws-and-market-impact.webp
   alt: Regulação de criptomoedas no Brasil 2025
   width: 1200
   height: 630

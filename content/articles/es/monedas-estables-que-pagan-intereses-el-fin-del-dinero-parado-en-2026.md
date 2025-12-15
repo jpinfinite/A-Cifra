@@ -6,7 +6,8 @@ excerpt: >-
   Análisis profundo (Long-Form) sobre Stablecoins con rendimiento. Un guía
   técnica y financiera completa para el ciclo de 2026.
 coverImage:
-  src: /images/defi/2025-12/yield-bearing-stablecoins.webp
+  src: >-
+    /images/articles/monedas-estables-que-pagan-intereses-el-fin-del-dinero-parado-en-2026.webp
   alt: 'Stablecoins que Pagam Juros: O Fim do Dinheiro Parado em 2026'
   width: 1200
   height: 630

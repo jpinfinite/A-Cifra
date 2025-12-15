@@ -10,7 +10,8 @@ excerpt: >-
   corrección, altcoins sangrando y estrategias prácticas para proteger su
   capital.
 coverImage:
-  src: /images/139.jpg
+  src: >-
+    /images/articles/mercado-cripto-en-noviembre-2025-anlisis-actual-y-cmo-protegerse-de-la-volatilidad.webp
   alt: Mercado de criptomoedas Novembro 2025 - Análise e proteção
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis about Crypto Taxes Guide. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide The Cipher.
 coverImage:
-  src: /images/educacao/2025-12/impostos-cripto-guia.webp
+  src: /images/articles/definitive-guide-to-cryptocurrency-taxes-2026.webp
   alt: Guia Definitivo de Impostos para Criptoativos 2026
   width: 1200
   height: 630

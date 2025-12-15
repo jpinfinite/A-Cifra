@@ -7,7 +7,8 @@ excerpt: >-
   staking, plataformas recomendadas, riesgos y estrategias para maximizar
   rendimientos pasivos.
 coverImage:
-  src: /images/182.jpg
+  src: >-
+    /images/articles/staking-de-criptomonedas-paso-a-paso-para-ganar-recompensas.webp
   alt: Ilustração de staking com moedas gerando recompensas passivas
   width: 1200
   height: 630

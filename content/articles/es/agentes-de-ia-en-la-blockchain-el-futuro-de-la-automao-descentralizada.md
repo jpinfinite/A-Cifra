@@ -7,7 +7,8 @@ excerpt: >-
   Narrativas criptográficas. Un guía técnica y financiera completa para el ciclo
   de 2026.
 coverImage:
-  src: /images/tecnologia/2025-12/ai-agents-crypto-narratives.webp
+  src: >-
+    /images/articles/agentes-de-ia-en-la-blockchain-el-futuro-de-la-automao-descentralizada.webp
   alt: 'Agentes de IA na Blockchain: O Futuro da Automação Descentralizada'
   width: 1200
   height: 630

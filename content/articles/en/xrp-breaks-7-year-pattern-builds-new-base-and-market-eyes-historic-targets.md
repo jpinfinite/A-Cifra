@@ -6,7 +6,8 @@ excerpt: >-
   Technical and macro analysis of the structural breakdown of XRP after 7 years,
   price projections and the impact of a possible ETF on the market.
 coverImage:
-  src: /images/211.jpg
+  src: >-
+    /images/articles/xrp-breaks-7-year-pattern-builds-new-base-and-market-eyes-historic-targets.webp
   alt: XRP - Rompimento Histórico
   width: 1200
   height: 630

@@ -7,7 +7,8 @@ excerpt: >-
   best security and most cryptocurrencies in 2026. Definitive comparison with
   updated fee table.
 coverImage:
-  src: /images/educacao/2025-12/exchanges-comparacao-2026.webp
+  src: >-
+    /images/articles/best-crypto-exchanges-for-2026-complete-comparative-of-fees-and-security.webp
   alt: >-
     Interface comparativa mostrando logos das principais exchanges de
     criptomoedas com gráficos de taxas

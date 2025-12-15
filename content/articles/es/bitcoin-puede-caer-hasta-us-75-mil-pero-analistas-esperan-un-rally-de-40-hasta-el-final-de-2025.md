@@ -11,7 +11,8 @@ excerpt: >-
   acumulan y Wall Street proyecta una recuperación del 40% antes del fin del
   año.
 coverImage:
-  src: /images/224.jpg
+  src: >-
+    /images/articles/bitcoin-puede-caer-hasta-us-75-mil-pero-analistas-esperan-un-rally-de-40-hasta-el-final-de-2025.webp
   alt: Análise técnica do Bitcoin - Bandas MVRV e projeções para 2025
   width: 1200
   height: 630

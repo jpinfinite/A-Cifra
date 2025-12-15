@@ -6,7 +6,8 @@ excerpt: >-
   Learn the best practices to protect your cryptocurrencies: hardware wallets,
   2FA authentication, seed backup, and advanced security strategies.
 coverImage:
-  src: /images/crypto-wallet-protection-styled.jpg
+  src: >-
+    /images/articles/how-to-protect-your-cryptocurrencies-a-comprehensive-security-guide.webp
   alt: Segurança de carteira digital com elementos de proteção blockchain
   width: 1200
   height: 630

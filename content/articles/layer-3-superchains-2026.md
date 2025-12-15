@@ -6,7 +6,7 @@ excerpt: >-
   Descubra Layer 3, Superchains e a nova era de escalabilidade blockchain em
   2026: milhões de TPS, custos de centavos e aplicações impossíveis antes.
 coverImage:
-  src: /images/133.jpg
+  src: /images/articles/layer-3-superchains-2026.webp
   alt: Layer 3 e Superchains 2026
   width: 1200
   height: 630

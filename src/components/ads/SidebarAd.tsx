@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useRef } from 'react'
 
 interface SidebarAdProps {
   slot?: string
@@ -20,6 +20,7 @@ export function SidebarAd({
   className = ''
 }: SidebarAdProps) {
   const [isMounted, setIsMounted] = useState(false)
+  const adRef = useRef<HTMLModElement>(null)
 
   useEffect(() => {
     setIsMounted(true)
@@ -29,11 +30,14 @@ export function SidebarAd({
     if (isMounted) {
       const timer = setTimeout(() => {
         try {
-          if (typeof window !== 'undefined') {
-            (window.adsbygoogle = window.adsbygoogle || []).push({})
+          if (typeof window !== 'undefined' && adRef.current) {
+            // Check if container has width to prevent "No slot size" error
+            if (adRef.current.offsetWidth > 0) {
+              (window.adsbygoogle = window.adsbygoogle || []).push({})
+            }
           }
         } catch (e) {
-           console.error('AdSense error:', e)
+          console.error('AdSense error:', e)
         }
       }, 500) // Delay to ensure container has width
 
@@ -60,6 +64,7 @@ export function SidebarAd({
           Publicidade
         </p>
         <ins
+          ref={adRef}
           className="adsbygoogle"
           style={{ display: 'block', width: '100%' }}
           data-ad-client="ca-pub-1151448515464841"

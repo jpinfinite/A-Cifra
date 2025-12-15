@@ -10,7 +10,8 @@ excerpt: >-
   debajo de 80.000 dólares estadounidenses. Descubra los signos que indican el
   fin de la corrección y el comienzo de la próxima alza.
 coverImage:
-  src: /images/220.jpg
+  src: >-
+    /images/articles/bitcoin-en-us-80000-por-qu-ste-puede-ser-el-fondo-definitivo-del-ciclo-91-de-probabilidad.webp
   alt: Bitcoin análise técnica US$ 80.000 fundo do ciclo
   width: 1200
   height: 630

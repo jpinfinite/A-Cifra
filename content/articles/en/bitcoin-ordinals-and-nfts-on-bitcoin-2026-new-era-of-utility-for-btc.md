@@ -6,7 +6,8 @@ excerpt: >-
   Discover Bitcoin Ordinals, BRC-20, Runes and how NFTs and tokens are
   transforming Bitcoin into 2026 beyond just a store of value.
 coverImage:
-  src: /images/053.jpg
+  src: >-
+    /images/articles/bitcoin-ordinals-and-nfts-on-bitcoin-2026-new-era-of-utility-for-btc.webp
   alt: Bitcoin Ordinals e NFTs
   width: 1200
   height: 630

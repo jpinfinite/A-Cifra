@@ -8,7 +8,7 @@ excerpt: >-
   Descubra como as novas IAs DeepSeek e Gemini estão revolucionando o trading de
   criptomoedas com análises preditivas avançadas e automação inteligente.
 coverImage:
-  src: /images/educacao/2025-12/deepseek-gemini-trading.webp
+  src: /images/articles/deepseek-gemini-ia-trading-criptomoedas.webp
   alt: >-
     Ilustração futurista mostrando gráficos de trading sendo analisados por
     inteligência artificial

@@ -7,7 +7,8 @@ excerpt: >-
   Understand how even the most powerful are not immune to the volatility of the
   crypto market.
 coverImage:
-  src: /images/219.jpg
+  src: >-
+    /images/articles/the-trump-family-loses-1-billion-in-crypto-a-brutal-lesson-in-volatility.webp
   alt: Gráfico mostrando queda das criptomoedas da família Trump
   width: 1200
   height: 630

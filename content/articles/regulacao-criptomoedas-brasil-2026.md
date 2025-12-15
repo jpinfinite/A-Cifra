@@ -1,12 +1,24 @@
 ---
-title: "Regulação de Criptomoedas no Brasil: O Que Esperar para 2026"
-date: "2025-10-31T10:00:00.000Z"
-category: "Regulação"
-tags: ["regulação", "brasil", "drexx", "banco central", "leis cripto", "cvm", "imposto de renda"]
-excerpt: "O Brasil se consolida como líder global na regulação de criptoativos. Analisamos o impacto do Marco Legal, a chegada do Drex, as novas exigências da Receita Federal e o que investidores e empresas devem esperar para 2026."
-coverImage: "/images/crypto-regulation-influence-styled.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Regulação de Criptomoedas no Brasil: O Que Esperar para 2026'
+date: '2025-10-31T10:00:00.000Z'
+category: Regulação
+tags:
+  - regulação
+  - brasil
+  - drexx
+  - banco central
+  - leis cripto
+  - cvm
+  - imposto de renda
+excerpt: >-
+  O Brasil se consolida como líder global na regulação de criptoativos.
+  Analisamos o impacto do Marco Legal, a chegada do Drex, as novas exigências da
+  Receita Federal e o que investidores e empresas devem esperar para 2026.
+coverImage:
+  src: /images/articles/regulacao-criptomoedas-brasil-2026.webp
+  alt: 'Regulação de Criptomoedas no Brasil: O Que Esperar para 2026'
+author: Jonatha Pereira
+status: published
 ---
 
 O Brasil emergiu nos últimos anos como um dos protagonistas globais na adoção e regulação de criptomoedas. Diferente de países que optaram por banir a tecnologia (como a China) ou adotar uma postura de "Laissez-faire" extremo (como El Salvador), o Brasil escolheu um caminho de regulação progressiva e institucional. Com a aprovação do Marco Legal das Criptomoedas (Lei 14.478/2022) e a designação do Banco Central como regulador infra legal, o país estabeleceu as fundações para um mercado seguro e transparente.

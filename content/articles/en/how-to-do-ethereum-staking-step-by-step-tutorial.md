@@ -6,7 +6,7 @@ excerpt: >-
   Complete guide to doing ETH staking: available options, recommended platforms,
   risks, and how to start earning passive rewards.
 coverImage:
-  src: /images/110.jpg
+  src: /images/articles/how-to-do-ethereum-staking-step-by-step-tutorial.webp
   alt: Tutorial de staking de Ethereum
   width: 1200
   height: 630

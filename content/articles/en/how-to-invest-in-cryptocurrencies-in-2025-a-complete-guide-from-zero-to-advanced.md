@@ -9,7 +9,8 @@ excerpt: >-
   Learn step by step how to start investing in cryptocurrencies safely, from
   choosing an exchange to advanced diversification strategies.
 coverImage:
-  src: /images/131.png
+  src: >-
+    /images/articles/how-to-invest-in-cryptocurrencies-in-2025-a-complete-guide-from-zero-to-advanced.webp
   alt: Como investir em criptomoedas em 2025 - Guia completo
   width: 1200
   height: 630

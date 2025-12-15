@@ -10,7 +10,8 @@ excerpt: >-
   phishing, golpes comunes, mejores prácticas y cómo proteger sus Bitcoin,
   Ethereum y altcoins en 2025.
 coverImage:
-  src: /images/seguranca-cripto-guia-2025.jpg
+  src: >-
+    /images/articles/seguridad-en-criptomonedas-gua-completa-2025---cmo-proteger-sus-activos-de-hacks-y-estafas.webp
   alt: Segurança em criptomoedas guia completo 2025
   width: 1200
   height: 630

@@ -7,7 +7,8 @@ excerpt: >-
   descentralizados, seus impactos na sociedade e como a blockchain está
   redefinindo o poder.
 coverImage:
-  src: /images/104.jpg
+  src: >-
+    /images/articles/centralizacao-vs-descentralizacao-dilema-distribuicao-poder.webp
   alt: Representação visual de redes centralizadas vs descentralizadas
   width: 1200
   height: 630

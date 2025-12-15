@@ -1,15 +1,26 @@
 ---
-title: "Cryptocurrency Regulation in Brazil: What to Expect for 2026"
-date: "2025-10-31T10:00:00.000Z"
-category: "Regulation"
-tags: ["regulation", "brazil", "drex", "central bank", "crypto laws", "taxes"]
-excerpt: "Brazil cements itself as a global leader in crypto regulation. We analyze the impact of the Legal Framework, the arrival of Drex, net tax requirements, and what investors and companies should expect for 2026."
-coverImage: "/images/crypto-regulation-cover-fixed.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Cryptocurrency Regulation in Brazil: What to Expect for 2026'
+date: '2025-10-31T10:00:00.000Z'
+category: Regulation
+tags:
+  - regulation
+  - brazil
+  - drex
+  - central bank
+  - crypto laws
+  - taxes
+excerpt: >-
+  Brazil cements itself as a global leader in crypto regulation. We analyze the
+  impact of the Legal Framework, the arrival of Drex, net tax requirements, and
+  what investors and companies should expect for 2026.
+coverImage:
+  src: /images/articles/cryptocurrency-regulation-brazil-2026-expectations.webp
+  alt: 'Cryptocurrency Regulation in Brazil: What to Expect for 2026'
+author: Jonatha Pereira
+status: published
 alternateLanguages:
-  pt-BR: "regulacao-criptomoedas-brasil-2026"
-  es: "regulacion-criptomonedas-brasil-2026-expectativas"
+  pt-BR: regulacao-criptomoedas-brasil-2026
+  es: regulacion-criptomonedas-brasil-2026-expectativas
 ---
 
 Brazil has emerged in recent years as one of the global protagonists in cryptocurrency adoption and regulation. Unlike countries that chose to ban the technology (like China) or adopt an extreme "Laissez-faire" stance (like El Salvador), Brazil chose a path of progressive and institutional regulation. With the approval of the Crypto Legal Framework (Law 14.478/2022) and the designation of the Central Bank as the infra-legal regulator, the country laid the foundations for a secure and transparent market.

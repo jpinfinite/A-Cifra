@@ -7,7 +7,7 @@ excerpt: >-
   práticas e tudo que você precisa saber para tomar decisões informadas.
 coverImage:
   src: >-
-    /images/regulacao/2025-12/regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar.webp
+    /images/articles/regulao-cripto-brasil-2026-o-que-muda-e-como-se-preparar.webp
   alt: Ilustração conceitual sobre Regulação cripto Brasil 2026
   width: 1200
   height: 630

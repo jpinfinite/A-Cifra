@@ -11,7 +11,8 @@ excerpt: >-
   Federal en diciembre. Entienda los impactos económicos y las proyecciones para
   el PIB.
 coverImage:
-  src: /images/034.jpg
+  src: >-
+    /images/articles/goldman-sachs-prev-fin-del-cierre-de-las-oficinas-de-los-eeuu-en-dos-semanas-baja-de-tasas-de-inters.webp
   alt: >-
     Goldman Sachs prevê fim do shutdown dos EUA e corte de juros do Federal
     Reserve

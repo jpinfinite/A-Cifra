@@ -7,7 +7,8 @@ excerpt: >-
   safest, and how to use them to protect your portfolio from cryptocurrency
   volatility.
 coverImage:
-  src: /images/227.jpg
+  src: >-
+    /images/articles/how-stablecoins-work-a-comprehensive-guide-for-beginners-2025.webp
   alt: >-
     Stablecoins e moedas fiduciárias representando estabilidade no mercado
     cripto

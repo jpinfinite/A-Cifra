@@ -6,7 +6,8 @@ excerpt: >-
   Análisis detallado de las 10 mejores exchanges para brasileños: tasas,
   seguridad, criptomonedas disponibles y cuál elegir para su perfil.
 coverImage:
-  src: /images/118.png
+  src: >-
+    /images/articles/mejores-intercambios-de-criptomonedas-en-brasil-en-2025-comparativo-completo.webp
   alt: Melhores exchanges de criptomoedas no Brasil 2025
   width: 1200
   height: 630

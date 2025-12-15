@@ -9,7 +9,7 @@ excerpt: >-
   informadas.
 coverImage:
   src: >-
-    /images/defi/2025-12/tokenizao-de-ativos-reais-rwa-2026-maximize-seus-ganhos-com-segurana.webp
+    /images/articles/tokenizacin-de-activos-reales-rwa-2026-maximize-sus-ganancias-con-seguridad.webp
   alt: Ilustração conceitual sobre Tokenização de Ativos Reais RWA 2026
   width: 1200
   height: 630

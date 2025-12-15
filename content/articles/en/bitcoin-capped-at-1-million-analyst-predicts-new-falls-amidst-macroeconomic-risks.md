@@ -11,7 +11,7 @@ excerpt: >-
   risks.
 coverImage:
   src: >-
-    /images/articles/bitcoin-limitado-a-us-100-mil-analista-prev-novas-quedas-em-meio-a-riscos-macroe.jpg
+    /images/articles/bitcoin-capped-at-1-million-analyst-predicts-new-falls-amidst-macroeconomic-risks.webp
   alt: >-
     Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos
     macroeconômicos

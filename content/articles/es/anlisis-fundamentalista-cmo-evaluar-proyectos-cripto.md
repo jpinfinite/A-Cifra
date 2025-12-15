@@ -7,7 +7,7 @@ excerpt: >-
   tecnología, tokenomics y potencial de adopción para tomar decisiones de
   inversión informadas.
 coverImage:
-  src: /images/162.jpg
+  src: /images/articles/anlisis-fundamentalista-cmo-evaluar-proyectos-cripto.webp
   alt: 'Análise Fundamentalista: Como Avaliar Projetos Cripto'
   width: 1200
   height: 630

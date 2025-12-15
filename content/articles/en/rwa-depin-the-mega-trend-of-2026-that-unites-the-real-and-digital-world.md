@@ -6,7 +6,8 @@ excerpt: >-
   In-depth Analysis (Long-Form) on RWA DePIN Convergence. A comprehensive
   technical and financial guide for the 2026 cycle.
 coverImage:
-  src: /images/defi/2025-12/rwa-depin-convergence.webp
+  src: >-
+    /images/articles/rwa-depin-the-mega-trend-of-2026-that-unites-the-real-and-digital-world.webp
   alt: 'RWA + DePIN: A Mega Tendência de 2026 Que Une o Mundo Real e Digital'
   width: 1200
   height: 630

@@ -8,7 +8,7 @@ excerpt: >-
   Análise macro do índice TOTAL3 e das principais altcoins que sinalizam
   renovada confiança e potencial de valorização no mercado cripto.
 coverImage:
-  src: /images/188.jpg
+  src: /images/articles/total3-altcoins-ciclo-alta-analise.webp
   alt: TOTAL3 - Índice de Altcoins em Alta
   width: 1200
   height: 630

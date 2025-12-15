@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis of Arbitrum vs Optimism 2026. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/arbitrum-vs-optimism-2026.webp
+  src: /images/articles/arbitrum-vs-optimism-who-wins-the-l2-war-in-2026.webp
   alt: 'Arbitrum vs Optimism: Quem Vence a Guerra das L2 em 2026?'
   width: 1200
   height: 630

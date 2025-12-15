@@ -4,7 +4,7 @@ title: 'Volume e Liquidez: Importância para Trading Cripto'
 slug: volume-liquidez-importancia-trading
 excerpt: Entenda por que volume e liquidez são cruciais para trading de criptomoedas.
 coverImage:
-  src: /images/crypto-trading-volume-styled.jpg
+  src: /images/articles/volume-liquidez-importancia-trading.webp
   alt: 'Volume e Liquidez: Importância para Trading Cripto'
   width: 1200
   height: 630

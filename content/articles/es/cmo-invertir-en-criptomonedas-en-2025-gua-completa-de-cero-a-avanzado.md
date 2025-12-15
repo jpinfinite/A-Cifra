@@ -7,7 +7,8 @@ excerpt: >-
   desde la elección de la exchange hasta estrategias avanzadas de
   diversificación.
 coverImage:
-  src: /images/131.png
+  src: >-
+    /images/articles/cmo-invertir-en-criptomonedas-en-2025-gua-completa-de-cero-a-avanzado.webp
   alt: Como investir em criptomoedas em 2025 - Guia completo
   width: 1200
   height: 630

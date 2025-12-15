@@ -7,7 +7,8 @@ excerpt: >-
   criptomonedas en 2025. Guía completa con estrategias prácticas, ejemplos
   reales y configuraciones optimizadas para maximizar tus ganancias.
 coverImage:
-  src: /images/trading-indicators-crypto-2025.jpg
+  src: >-
+    /images/articles/los-7-mejores-indicadores-de-trading-para-criptomonedas-en-2025.webp
   alt: Gráficos de trading com indicadores técnicos para criptomoedas
   width: 1200
   height: 630

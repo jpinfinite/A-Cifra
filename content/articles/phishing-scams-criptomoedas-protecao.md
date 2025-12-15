@@ -4,7 +4,7 @@ title: 'Phishing e Scams em Cripto: Como se Proteger'
 slug: phishing-scams-criptomoedas-protecao
 excerpt: Guia completo sobre golpes comuns em criptomoedas e como evitá-los.
 coverImage:
-  src: /images/027.jpg
+  src: /images/articles/phishing-scams-criptomoedas-protecao.webp
   alt: 'Phishing e Scams em Cripto: Como se Proteger'
   width: 1200
   height: 630

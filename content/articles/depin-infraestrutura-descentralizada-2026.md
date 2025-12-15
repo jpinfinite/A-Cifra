@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre DePIN Infraestrutura Descentralizada 2026. Descubra as
   previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/depin-infraestrutura-descentralizada-2026.webp
+  src: /images/articles/depin-infraestrutura-descentralizada-2026.webp
   alt: 'DePIN Infraestrutura Descentralizada 2026 em 2026: Guia Definitivo'
   width: 1200
   height: 630

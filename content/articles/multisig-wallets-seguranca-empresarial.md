@@ -6,7 +6,7 @@ excerpt: >-
   Descubra como carteiras multisig aumentam segurança através de múltiplas
   assinaturas.
 coverImage:
-  src: /images/050.jpg
+  src: /images/articles/multisig-wallets-seguranca-empresarial.webp
   alt: 'Carteiras Multisig: Segurança para Empresas e DAOs'
   width: 1200
   height: 630

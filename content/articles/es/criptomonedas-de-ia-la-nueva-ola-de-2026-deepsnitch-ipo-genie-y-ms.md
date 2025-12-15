@@ -6,7 +6,8 @@ excerpt: >-
   La fusión de Inteligencia Artificial y Blockchain es la narrativa más fuerte
   para 2026. Conozca los proyectos que están liderando esa revolución.
 coverImage:
-  src: /images/altcoins/2025-12/cripto-ia-2026.webp
+  src: >-
+    /images/articles/criptomonedas-de-ia-la-nueva-ola-de-2026-deepsnitch-ipo-genie-y-ms.webp
   alt: >-
     Cérebro digital futurista conectado a nós de blockchain, representando a
     fusão de IA e Cripto

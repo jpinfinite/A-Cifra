@@ -6,7 +6,8 @@ excerpt: >-
   Understand permanent loss in DeFi: what it is, how to calculate, practical
   examples, and strategies to minimize this risk when providing liquidity.
 coverImage:
-  src: /images/147.jpg
+  src: >-
+    /images/articles/permanent-irreversible-loss-what-it-is-and-how-to-avoid-it.webp
   alt: Perda Impermanente - Guia completo
   width: 1200
   height: 630

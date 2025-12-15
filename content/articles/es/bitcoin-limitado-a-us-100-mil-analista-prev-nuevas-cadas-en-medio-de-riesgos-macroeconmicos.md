@@ -11,7 +11,7 @@ excerpt: >-
   caídas en medio de riesgos macroeconómicos.
 coverImage:
   src: >-
-    /images/articles/bitcoin-limitado-a-us-100-mil-analista-prev-novas-quedas-em-meio-a-riscos-macroe.jpg
+    /images/articles/bitcoin-limitado-a-us-100-mil-analista-prev-nuevas-cadas-en-medio-de-riesgos-macroeconmicos.webp
   alt: >-
     Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos
     macroeconômicos

@@ -10,7 +10,8 @@ excerpt: >-
   $150,000 by the end of 2025, considering technical indicators,
   fundamentalists, and macroeconomic context.
 coverImage:
-  src: /images/bitcoin-price-analysis-styled.jpg
+  src: >-
+    /images/articles/bitcoin-could-reach-150000-by-the-end-of-2025-comprehensive-analysis-of-the-current-moment.webp
   alt: Bitcoin - Análise de Preço 2025
   width: 1200
   height: 630

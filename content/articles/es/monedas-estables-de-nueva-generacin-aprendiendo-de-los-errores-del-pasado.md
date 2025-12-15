@@ -7,7 +7,8 @@ excerpt: >-
   predicciones, tecnologías y oportunidades para 2026 en este guía exclusivo A
   Cifra.
 coverImage:
-  src: /images/defi/2025-12/stablecoins-algortmicas-seguras.webp
+  src: >-
+    /images/articles/monedas-estables-de-nueva-generacin-aprendiendo-de-los-errores-del-pasado.webp
   alt: 'Stablecoins de Nova Geração: Aprendendo com os Erros do Passado'
   width: 1200
   height: 630

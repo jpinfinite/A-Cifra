@@ -10,7 +10,8 @@ excerpt: >-
   MACD, Fibonacci), estrategias comprobadas, gestión de riesgo y cómo evitar
   errores comunes en 2025.
 coverImage:
-  src: /images/trading-cripto-iniciantes-2025.jpg
+  src: >-
+    /images/articles/trading-de-criptomonedas-para-iniciantes-gua-completa-2025---ndices-e-gestin-de-riesgo.webp
   alt: Trading de criptomoedas para iniciantes guia completo 2025
   width: 1200
   height: 630

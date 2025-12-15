@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react'
 import Image from 'next/image'
-import { imagesCatalog, ImageMapping } from '@/utils/imageMapper'
+import { imagesCatalog, ImageMapping } from '@/utils/image/mapper'
 
 interface ImageManagerProps {
   onSelectImage?: (image: ImageMapping) => void
@@ -23,10 +23,10 @@ export const ImageManager = ({ onSelectImage }: ImageManagerProps) => {
   const filteredImages = useMemo(() => {
     return imagesCatalog.filter(img => {
       const matchesCategory = selectedCategory === 'all' || img.category === selectedCategory
-      const matchesSearch = searchTerm === '' || 
+      const matchesSearch = searchTerm === '' ||
         img.alt.toLowerCase().includes(searchTerm.toLowerCase()) ||
         img.keywords.some(k => k.toLowerCase().includes(searchTerm.toLowerCase()))
-      
+
       return matchesCategory && matchesSearch
     })
   }, [selectedCategory, searchTerm])
@@ -72,11 +72,10 @@ export const ImageManager = ({ onSelectImage }: ImageManagerProps) => {
             <button
               key={cat}
               onClick={() => setSelectedCategory(cat)}
-              className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-                selectedCategory === cat
+              className={`px-4 py-2 rounded-lg font-medium transition-colors ${selectedCategory === cat
                   ? 'bg-blue-600 text-white'
                   : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-              }`}
+                }`}
             >
               {cat === 'all' ? 'Todas' : cat.charAt(0).toUpperCase() + cat.slice(1)}
               <span className="ml-2 text-sm opacity-75">
@@ -93,9 +92,8 @@ export const ImageManager = ({ onSelectImage }: ImageManagerProps) => {
           <div
             key={index}
             onClick={() => handleImageClick(image)}
-            className={`group relative bg-white rounded-lg shadow-md overflow-hidden cursor-pointer transition-all hover:shadow-xl ${
-              selectedImage?.src === image.src ? 'ring-4 ring-blue-500' : ''
-            }`}
+            className={`group relative bg-white rounded-lg shadow-md overflow-hidden cursor-pointer transition-all hover:shadow-xl ${selectedImage?.src === image.src ? 'ring-4 ring-blue-500' : ''
+              }`}
           >
             {/* Imagem */}
             <div className="relative aspect-video bg-gray-100">
@@ -106,7 +104,7 @@ export const ImageManager = ({ onSelectImage }: ImageManagerProps) => {
                 className="object-cover group-hover:scale-105 transition-transform duration-300"
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
               />
-              
+
               {/* Overlay com categoria */}
               <div className="absolute top-2 right-2">
                 <span className="px-2 py-1 bg-blue-600 text-white text-xs font-medium rounded">
@@ -216,7 +214,7 @@ export const ImageManager = ({ onSelectImage }: ImageManagerProps) => {
                   </label>
                   <div className="relative">
                     <pre className="bg-gray-900 text-gray-100 p-4 rounded text-xs overflow-x-auto">
-{`coverImage: {
+                      {`coverImage: {
   src: '${selectedImage.src}',
   alt: '${selectedImage.alt}',
   width: 1200,

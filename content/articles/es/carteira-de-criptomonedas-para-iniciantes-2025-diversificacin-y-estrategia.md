@@ -7,7 +7,8 @@ excerpt: >-
   asignación según perfil de riesgo y rebalanceo. Guía completa para
   principiantes.
 coverImage:
-  src: /images/063.png
+  src: >-
+    /images/articles/carteira-de-criptomonedas-para-iniciantes-2025-diversificacin-y-estrategia.webp
   alt: Carteira de criptomoedas para iniciantes - Diversificação
   width: 1200
   height: 630

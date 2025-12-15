@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { findBestImage } from '@/utils/imageMapper'
+import { findBestImage } from '@/utils/image/mapper'
 
 interface UseArticleImageOptions {
   category: string

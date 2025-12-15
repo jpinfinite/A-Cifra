@@ -6,7 +6,7 @@ excerpt: >-
   A aprovação do ETF Spot de Solana pode ser o catalisador para uma nova alta.
   Análise completa do potencial de crescimento para $300 e fatores fundamentais.
 coverImage:
-  src: /images/179.webp
+  src: /images/articles/solana-ascensao-etf-spot-mudar-jogo-300-dolares.webp
   alt: Solana em ascensão com gráfico de crescimento e logo SOL
   width: 1200
   height: 630

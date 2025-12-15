@@ -7,7 +7,7 @@ excerpt: >-
   práticas de "acrobacia financeira" para organizar suas contas, quitar dívidas
   e começar a investir em 2026.
 coverImage:
-  src: /images/educacao/2025-12/acrobacia-financeira.webp
+  src: /images/articles/acrobacia-financeira-organizar-orcamento-2026.webp
   alt: >-
     Ilustração conceitual de uma pessoa fazendo malabarismo com moedas e contas,
     representando o equilíbrio financeiro

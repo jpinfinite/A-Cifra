@@ -7,7 +7,8 @@ excerpt: >-
   Descubre los protocolos auditados, como evitar los rug pulls y maximizar
   ganancias de manera segura.
 coverImage:
-  src: /images/defi/2025-12/yield-farming-seguro.webp
+  src: >-
+    /images/articles/defi-yield-farming-2026-protocolos-seguros-para-multiplicar-su-patrimonio.webp
   alt: >-
     Fazenda digital conceitual com pools de liquidez e moedas crescendo como
     plantações

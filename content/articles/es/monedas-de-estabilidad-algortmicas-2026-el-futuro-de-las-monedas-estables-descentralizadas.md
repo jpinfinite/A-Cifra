@@ -10,7 +10,8 @@ excerpt: >-
   colapso de UST, nuevos modelos y el futuro de las monedas estables
   descentralizadas.
 coverImage:
-  src: /images/033.jpg
+  src: >-
+    /images/articles/monedas-de-estabilidad-algortmicas-2026-el-futuro-de-las-monedas-estables-descentralizadas.webp
   alt: Stablecoins Algorítmicas 2026
   width: 1200
   height: 630

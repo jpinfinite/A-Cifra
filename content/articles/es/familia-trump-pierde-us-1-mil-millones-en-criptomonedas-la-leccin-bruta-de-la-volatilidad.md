@@ -10,7 +10,8 @@ excerpt: >-
   criptomonedas. Entiende cómo incluso los más poderosos no escapan de la
   volatilidad del mercado cripto.
 coverImage:
-  src: /images/219.jpg
+  src: >-
+    /images/articles/familia-trump-pierde-us-1-mil-millones-en-criptomonedas-la-leccin-bruta-de-la-volatilidad.webp
   alt: Gráfico mostrando queda das criptomoedas da família Trump
   width: 1200
   height: 630

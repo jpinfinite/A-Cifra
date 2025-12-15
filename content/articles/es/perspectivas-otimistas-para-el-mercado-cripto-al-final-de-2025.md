@@ -6,7 +6,8 @@ excerpt: >-
   Un análisis técnico sobre la consolidación institucional, avances tecnológicos
   y las tendencias que pueden definir el cierre del ciclo cripto en 2025.
 coverImage:
-  src: /images/crypto-market-trends-styled.jpg
+  src: >-
+    /images/articles/perspectivas-otimistas-para-el-mercado-cripto-al-final-de-2025.webp
   alt: >-
     Perspectivas otimistas para o mercado cripto no final de 2025 - Análise
     técnica e tendências

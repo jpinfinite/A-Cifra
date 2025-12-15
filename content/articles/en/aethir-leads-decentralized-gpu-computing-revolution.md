@@ -6,7 +6,7 @@ excerpt: >-
   Aethir establishes itself as DePIN infrastructure leader with 435,000
   enterprise GPUs, $147M annual revenue, and $344M strategic investment.
 coverImage:
-  src: /images/aethir-gpu-depin-infrastructure.jpg
+  src: /images/articles/aethir-leads-decentralized-gpu-computing-revolution.webp
   alt: Aethir decentralized GPU network for cloud computing
   width: 1200
   height: 630

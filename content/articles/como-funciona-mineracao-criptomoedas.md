@@ -6,7 +6,7 @@ excerpt: >-
   Entenda o processo de mineração de criptomoedas, como os mineradores validam
   transações e ganham recompensas na rede blockchain.
 coverImage:
-  src: /images/141.jpg
+  src: /images/articles/como-funciona-mineracao-criptomoedas.webp
   alt: Equipamento de mineração de criptomoedas
   width: 1200
   height: 630

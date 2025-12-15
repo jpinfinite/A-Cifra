@@ -6,7 +6,7 @@ excerpt: >-
   Análise aprofundada (Long-Form) sobre Restaking Ethereum 2026. Um guia técnico
   e financeiro completo para o ciclo de 2026.
 coverImage:
-  src: /images/ethereum/2025-12/restaking-ethereum-2026.webp
+  src: /images/articles/restaking-ethereum-2026.webp
   alt: 'Restaking e Liquid Staking 2.0: Maximizando Renda Passiva no Ethereum'
   width: 1200
   height: 630

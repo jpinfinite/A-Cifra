@@ -6,7 +6,7 @@ excerpt: >-
   Step-by-step guide to using PancakeSwap: connect wallet, make swap, add
   liquidity, and farm on the largest DEX of the Binance Smart Chain.
 coverImage:
-  src: /images/144.jpg
+  src: /images/articles/how-to-use-pancakeswap-a-comprehensive-tutorial-on-bsc.webp
   alt: Tutorial PancakeSwap - DEX BSC
   width: 1200
   height: 630

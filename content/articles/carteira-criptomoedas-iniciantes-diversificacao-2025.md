@@ -6,7 +6,7 @@ excerpt: >-
   Monte sua carteira de criptomoedas ideal: estratégias de diversificação,
   alocação por perfil de risco e rebalanceamento. Guia completo para iniciantes.
 coverImage:
-  src: /images/063.png
+  src: /images/articles/carteira-criptomoedas-iniciantes-diversificacao-2025.webp
   alt: Carteira de criptomoedas para iniciantes - Diversificação
   width: 1200
   height: 630

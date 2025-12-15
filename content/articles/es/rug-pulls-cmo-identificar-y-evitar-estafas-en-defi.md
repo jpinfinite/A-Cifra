@@ -4,7 +4,7 @@ title: 'Rug Pulls: Cómo Identificar y Evitar Estafas en DeFi'
 slug: rug-pulls-cmo-identificar-y-evitar-estafas-en-defi
 excerpt: Aprenda a identificar señales de rug pulls y proteger sus inversiones en DeFi.
 coverImage:
-  src: /images/091.jpg
+  src: /images/articles/rug-pulls-cmo-identificar-y-evitar-estafas-en-defi.webp
   alt: 'Rug Pulls: Como Identificar e Evitar Golpes em DeFi'
   width: 1200
   height: 630

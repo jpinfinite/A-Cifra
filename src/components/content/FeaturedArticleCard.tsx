@@ -7,7 +7,7 @@ import { Card, CardContent, Text, Heading } from '@/components/ui'
 import { Article } from '@/types'
 import { cn } from '@/utils/cn'
 import { generateImageSizes } from '@/utils/image'
-import { findBestImage } from '@/utils/imageMapper'
+import { findBestImage } from '@/utils/image/mapper'
 
 
 interface FeaturedArticleCardProps {

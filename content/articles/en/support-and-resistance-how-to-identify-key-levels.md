@@ -4,7 +4,7 @@ title: 'Support and Resistance: How to Identify Key Levels'
 slug: support-and-resistance-how-to-identify-key-levels
 excerpt: Practical guide to identify and use levels of support and resistance.
 coverImage:
-  src: /images/technical-analysis-indicators-styled.jpg
+  src: /images/articles/support-and-resistance-how-to-identify-key-levels.webp
   alt: 'Suporte e Resistência: Como Identificar Níveis Chave'
   width: 1200
   height: 630

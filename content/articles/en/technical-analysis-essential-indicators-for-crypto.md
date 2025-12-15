@@ -6,7 +6,7 @@ excerpt: >-
   Master the main technical indicators for cryptocurrency trading: RSI, MACD,
   Moving Averages, Volume, and chart patterns to make informed decisions.
 coverImage:
-  src: /images/038.jpg
+  src: /images/articles/technical-analysis-essential-indicators-for-crypto.webp
   alt: 'Análise Técnica: Indicadores Essenciais para Cripto'
   width: 1200
   height: 630

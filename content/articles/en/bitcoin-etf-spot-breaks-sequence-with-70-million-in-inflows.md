@@ -7,7 +7,8 @@ excerpt: >-
   outflows. Analysis of what changed in the market and its impact on the BTC
   price.
 coverImage:
-  src: /images/blackrock-ibit-outflows-2025-styled.jpg
+  src: >-
+    /images/articles/bitcoin-etf-spot-breaks-sequence-with-70-million-in-inflows.webp
   alt: ETFs Bitcoin spot quebram sequência de saídas
   width: 1200
   height: 630

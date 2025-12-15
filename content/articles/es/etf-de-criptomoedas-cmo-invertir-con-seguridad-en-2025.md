@@ -6,7 +6,7 @@ excerpt: >-
   Descubra cómo invertir en ETFs de Bitcoin y Ethereum con seguridad, cuáles son
   los mejores fondos aprobados por la SEC y cómo declarar en el IR brasileño.
 coverImage:
-  src: /images/ETF.jpg
+  src: /images/articles/etf-de-criptomoedas-cmo-invertir-con-seguridad-en-2025.webp
   alt: >-
     ETF de criptomoedas representando investimento institucional em Bitcoin e
     Ethereum

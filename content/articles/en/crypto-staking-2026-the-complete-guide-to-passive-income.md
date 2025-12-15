@@ -6,7 +6,8 @@ excerpt: >-
   Learn everything about cryptocurrency staking: best coins, returns, risks, and
   how to earn passive income with your investments in 2026.
 coverImage:
-  src: /images/181.jpg
+  src: >-
+    /images/articles/crypto-staking-2026-the-complete-guide-to-passive-income.webp
   alt: Staking Cripto 2026
   width: 1200
   height: 630

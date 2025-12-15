@@ -8,7 +8,7 @@ excerpt: >-
   cycle this time.
 coverImage:
   src: >-
-    /images/articles/por-que-a-grayscale-acredita-que-o-bitcoin-vai-romper-o-ciclo-de-quatro-anos-des.jpg
+    /images/articles/why-grayscale-believes-bitcoin-will-break-the-four-year-cycle-this-time.webp
   alt: >-
     Por que a Grayscale acredita que o Bitcoin vai romper o ciclo de quatro anos
     desta vez

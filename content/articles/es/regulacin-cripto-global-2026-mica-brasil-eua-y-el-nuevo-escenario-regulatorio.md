@@ -8,7 +8,8 @@ excerpt: >-
   Guía completa sobre regulación de criptomonedas en 2026: MiCA en Europa, Marco
   Legal en Brasil, claridad en los EE.UU. y cómo esto afecta sus inversiones.
 coverImage:
-  src: /images/087.jpg
+  src: >-
+    /images/articles/regulacin-cripto-global-2026-mica-brasil-eua-y-el-nuevo-escenario-regulatorio.webp
   alt: Regulação Cripto Global 2026
   width: 1200
   height: 630

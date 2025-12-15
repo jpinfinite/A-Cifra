@@ -10,7 +10,8 @@ excerpt: >-
   Understand what this means for Zcash, the privacy coin market, and if ZEC is a
   good investment in 2025.
 coverImage:
-  src: /images/articles/zcash.png
+  src: >-
+    /images/articles/zcash-etf-can-privacy-coins-be-approved-a-comprehensive-analysis-of-the-grayscale-application.webp
   alt: Zcash ETF - Privacy coins e regulação
   width: 1200
   height: 630

@@ -8,7 +8,7 @@ excerpt: >-
   informadas.
 coverImage:
   src: >-
-    /images/defi/2025-12/staking-ethereum-rendimento-maximize-seus-ganhos-com-segurana.webp
+    /images/articles/staking-ethereum-rendimiento-maximice-sus-ganancias-con-seguridad.webp
   alt: Ilustração conceitual sobre Staking Ethereum rendimento
   width: 1200
   height: 630

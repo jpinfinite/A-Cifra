@@ -8,7 +8,8 @@ excerpt: >-
   Descubra los catalizadores, resistencias y lo que esperar después de romper
   los 6 dígitos.
 coverImage:
-  src: /images/bitcoin-100k-december-2025.jpg
+  src: >-
+    /images/articles/bitcoin-rumbo-a-los-100k-en-diciembre-2025---anlisis-completo-del-camino.webp
   alt: Bitcoin rompendo a marca histórica de $100.000 em dezembro 2025
   width: 1200
   height: 630

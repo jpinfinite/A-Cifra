@@ -10,7 +10,8 @@ excerpt: >-
   encima de $2,800. Las capas 2, el staking institucional, DeFi y ETFs impulsan
   ETH. Descubre por qué expertos proyectan $5K+.
 coverImage:
-  src: /images/articles/ethereum-2025-razoes-otimismo.jpg
+  src: >-
+    /images/articles/ethereum-en-2025-4-razones-para-mantener-eth-por-encima-de-2800---anlisis-completo.webp
   alt: 'Hand writing ETH on a whiteboard, highlighting Ethereum concept.'
   width: 6720
   height: 4480

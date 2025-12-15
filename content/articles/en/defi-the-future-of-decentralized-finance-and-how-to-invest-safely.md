@@ -6,7 +6,8 @@ excerpt: >-
   DeFi is revolutionizing traditional finance. Discover how to invest safely in
   this growing ecosystem and what are the main opportunities.
 coverImage:
-  src: /images/101.jpg
+  src: >-
+    /images/articles/defi-the-future-of-decentralized-finance-and-how-to-invest-safely.webp
   alt: Tablet mostrando interface DeFi com gráficos e criptomoedas
   width: 1200
   height: 630

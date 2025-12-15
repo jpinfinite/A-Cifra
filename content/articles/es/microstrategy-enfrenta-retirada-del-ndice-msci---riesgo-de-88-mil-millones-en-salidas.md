@@ -10,7 +10,8 @@ excerpt: >-
   en salidas de fondos pasivos. Entienda el impacto de esta decisión para MSTR,
   Bitcoin y el mercado cripto.
 coverImage:
-  src: /images/microstrategy-msci-removal-risk-2025.jpg
+  src: >-
+    /images/articles/microstrategy-enfrenta-retirada-del-ndice-msci---riesgo-de-88-mil-millones-en-salidas.webp
   alt: MicroStrategy enfrenta risco de remoção do índice MSCI
   width: 1200
   height: 630

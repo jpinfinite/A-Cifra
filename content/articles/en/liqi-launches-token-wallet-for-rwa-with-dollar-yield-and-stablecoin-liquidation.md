@@ -11,7 +11,7 @@ excerpt: >-
   returns and stablecoin liquidation.
 coverImage:
   src: >-
-    /images/articles/liqi-lana-carteira-para-tokens-rwa-com-rendimento-em-dlar-e-liquidao-em-stableco.jpg
+    /images/articles/liqi-launches-token-wallet-for-rwa-with-dollar-yield-and-stablecoin-liquidation.webp
   alt: >-
     Liqi lança carteira para tokens RWA com rendimento em dólar e liquidação em
     stablecoins

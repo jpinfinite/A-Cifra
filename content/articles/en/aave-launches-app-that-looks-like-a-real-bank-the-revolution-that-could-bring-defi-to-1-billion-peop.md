@@ -10,7 +10,8 @@ excerpt: >-
   million protection, and a user experience identical to a traditional bank. The
   'iPhone moment' for decentralized finance has arrived.
 coverImage:
-  src: /images/028.jpg
+  src: >-
+    /images/articles/aave-launches-app-that-looks-like-a-real-bank-the-revolution-that-could-bring-defi-to-1-billion-peop.webp
   alt: Aave App - Primeiro aplicativo DeFi com experiência bancária tradicional
   width: 1200
   height: 630

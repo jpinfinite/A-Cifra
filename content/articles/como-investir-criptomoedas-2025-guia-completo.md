@@ -6,7 +6,7 @@ excerpt: >-
   Aprenda passo a passo como começar a investir em criptomoedas com segurança,
   desde a escolha da exchange até estratégias avançadas de diversificação.
 coverImage:
-  src: /images/131.png
+  src: /images/articles/como-investir-criptomoedas-2025-guia-completo.webp
   alt: Como investir em criptomoedas em 2025 - Guia completo
   width: 1200
   height: 630

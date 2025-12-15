@@ -7,7 +7,8 @@ excerpt: >-
   crucial MVRV Bands support. Meanwhile, whales accumulate and Wall Street
   projects 40% recovery before year-end.
 coverImage:
-  src: /images/225.jpg
+  src: >-
+    /images/articles/bitcoin-may-drop-to-75k-but-analysts-predict-40-rally-by-end-of-2025.webp
   alt: Bitcoin Technical Analysis - MVRV Bands and 2025 Projections
   width: 1200
   height: 630

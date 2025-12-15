@@ -7,7 +7,7 @@ excerpt: >-
   fundamentalista e on-chain. Ferramentas e estratégias para tomar decisões
   informadas.
 coverImage:
-  src: /images/blockchain-network-tech-styled.jpg
+  src: /images/articles/como-analisar-criptomoedas-guia-completo-investidores.webp
   alt: Setup profissional para análise de criptomoedas com múltiplos monitores
   width: 1200
   height: 630

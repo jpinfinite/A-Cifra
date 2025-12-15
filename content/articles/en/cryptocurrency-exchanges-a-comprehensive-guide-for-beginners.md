@@ -6,7 +6,8 @@ excerpt: >-
   Understand what exchanges are, how CEX and DEX work, and learn how to choose
   the best platform to invest in cryptocurrencies safely.
 coverImage:
-  src: /images/082.jpg
+  src: >-
+    /images/articles/cryptocurrency-exchanges-a-comprehensive-guide-for-beginners.webp
   alt: >-
     Exchanges de criptomoedas - Guia completo para iniciantes sobre como
     escolher e usar plataformas de trading

@@ -6,7 +6,8 @@ excerpt: >-
   Get to know the story of Dogecoin, from its creation as a joke to becoming one
   of the world's most popular cryptocurrencies, backed by Elon Musk.
 coverImage:
-  src: /images/107.jpg
+  src: >-
+    /images/articles/dogecoin-the-history-of-the-meme-coin-that-became-a-global-phenomenon.webp
   alt: Dogecoin - A primeira memecoin
   width: 1200
   height: 630

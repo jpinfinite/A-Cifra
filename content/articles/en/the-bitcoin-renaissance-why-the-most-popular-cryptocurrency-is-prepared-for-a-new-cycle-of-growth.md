@@ -9,7 +9,8 @@ excerpt: >-
   After a period of consolidation, Bitcoin shows signs of being ready for a new
   cycle of growth. We analyze the factors driving this trend.
 coverImage:
-  src: /images/049.jpg
+  src: >-
+    /images/articles/the-bitcoin-renaissance-why-the-most-popular-cryptocurrency-is-prepared-for-a-new-cycle-of-growth.webp
   alt: >-
     Bitcoin conectado globalmente - representando o renascimento e adoção
     mundial

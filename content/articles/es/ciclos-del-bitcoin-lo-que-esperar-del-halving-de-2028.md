@@ -6,7 +6,7 @@ excerpt: >-
   Análisis completo sobre Bitcoin Halving 2028. Descubra las predicciones,
   tecnologías y oportunidades para 2026 en este guía exclusivo A Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/bitcoin-halving-2028.webp
+  src: /images/articles/ciclos-del-bitcoin-lo-que-esperar-del-halving-de-2028.webp
   alt: 'Ciclos do Bitcoin: O Que Esperar do Halving de 2028?'
   width: 1200
   height: 630

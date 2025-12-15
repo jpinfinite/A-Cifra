@@ -7,7 +7,7 @@ excerpt: >-
   1 milhão em 2025. Cenários otimista, realista e pessimista com dados
   concretos.
 coverImage:
-  src: /images/223.jpg
+  src: /images/articles/bitcoin-vai-chegar-1-milhao-2025-analise.webp
   alt: >-
     Bitcoin crescimento - Análise completa 2025 com árvore de crescimento e
     gráficos

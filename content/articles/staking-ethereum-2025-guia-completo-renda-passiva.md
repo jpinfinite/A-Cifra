@@ -9,7 +9,7 @@ excerpt: >-
   ganhar (5-8% ao ano), onde fazer, riscos e estratégias para maximizar
   retornos.
 coverImage:
-  src: /images/ethereum-staking-rewards-styled.jpg
+  src: /images/articles/staking-ethereum-2025-guia-completo-renda-passiva.webp
   alt: Staking de Ethereum - Guia Completo 2025
   width: 1200
   height: 630

@@ -7,7 +7,7 @@ excerpt: >-
   cripto no país, mas novas regras do Banco Central podem trazer o IOF para o
   jogo em 2026.
 coverImage:
-  src: /images/regulacao/2025-12/stablecoins-brasil-iof.webp
+  src: /images/articles/stablecoins-brasil-dominio-risco-iof-2026.webp
   alt: >-
     Ilustração de moedas digitais com a bandeira do Brasil e símbolos de dólar,
     sob uma lupa regulatória

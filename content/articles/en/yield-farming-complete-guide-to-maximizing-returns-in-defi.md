@@ -6,7 +6,8 @@ excerpt: >-
   Learn everything about yield farming: what it is, how it works, best
   strategies, risks, and how to start earning passive income in DeFi.
 coverImage:
-  src: /images/214.jpg
+  src: >-
+    /images/articles/yield-farming-complete-guide-to-maximizing-returns-in-defi.webp
   alt: Yield Farming - Guia completo
   width: 1200
   height: 630

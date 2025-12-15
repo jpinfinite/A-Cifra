@@ -9,7 +9,8 @@ excerpt: >-
   Discover blockchain privacy technologies in 2026: Zero-Knowledge Proofs,
   privacy coins, mixers, and how to protect your on-chain privacy.
 coverImage:
-  src: /images/091.jpg
+  src: >-
+    /images/articles/privacy-in-blockchain-2026-zero-knowledge-mixers-and-the-future-of-on-chain-privacy.webp
   alt: Privacidade Blockchain 2026
   width: 1200
   height: 630

@@ -7,7 +7,7 @@ excerpt: >-
   crucial MVRV Bands support. Meanwhile, whales accumulate and Wall Street
   projects 40% recovery before year-end.
 coverImage:
-  src: /images/225.jpg
+  src: /images/articles/bitcoin-fundo-75-mil-analise-mvrv-2025.en.webp
   alt: Bitcoin Technical Analysis - MVRV Bands and 2025 Projections
   width: 1200
   height: 630

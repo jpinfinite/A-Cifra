@@ -11,7 +11,8 @@ excerpt: >-
   acumulan y Wall Street proyecta una recuperación del 40% antes del fin del
   año.
 coverImage:
-  src: /images/225.jpg
+  src: >-
+    /images/articles/el-bitcoin-puede-caer-a-los-75000-pero-los-analistas-pronostican-un-aumento-del-40-al-final-de-2025.webp
   alt: Bitcoin Technical Analysis - MVRV Bands and 2025 Projections
   width: 1200
   height: 630

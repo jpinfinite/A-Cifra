@@ -6,7 +6,8 @@ excerpt: >-
   Build your ideal cryptocurrency portfolio: diversification strategies, risk
   profile allocation, and rebalancing. Comprehensive guide for beginners.
 coverImage:
-  src: /images/063.png
+  src: >-
+    /images/articles/cryptocurrency-portfolio-for-beginners-2025-diversification-and-strategy.webp
   alt: Carteira de criptomoedas para iniciantes - Diversificação
   width: 1200
   height: 630

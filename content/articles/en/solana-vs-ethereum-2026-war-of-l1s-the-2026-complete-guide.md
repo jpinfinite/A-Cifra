@@ -8,7 +8,7 @@ excerpt: >-
   decisions.
 coverImage:
   src: >-
-    /images/analises/2025-12/solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026.webp
+    /images/articles/solana-vs-ethereum-2026-war-of-l1s-the-2026-complete-guide.webp
   alt: Ilustração conceitual sobre Solana vs Ethereum 2026 Guerra das L1s
   width: 1200
   height: 630

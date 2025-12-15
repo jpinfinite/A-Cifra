@@ -6,7 +6,7 @@ excerpt: >-
   Todo lo que necesita saber sobre Bitcoin para empezar sus inversiones en
   criptomonedas.
 coverImage:
-  src: /images/bitcoin/bitcoin-guide.jpg
+  src: /images/articles/bitcoin-gua-completa-para-principiantes-en-2025.webp
   alt: Bitcoin - Guia para Iniciantes
   width: 1200
   height: 630

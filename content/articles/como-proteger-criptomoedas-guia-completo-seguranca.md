@@ -7,7 +7,7 @@ excerpt: >-
   hardware, autenticação 2FA, backup de seeds e estratégias de segurança
   avançadas.
 coverImage:
-  src: /images/crypto-wallet-protection-styled.jpg
+  src: /images/articles/como-proteger-criptomoedas-guia-completo-seguranca.webp
   alt: Segurança de carteira digital com elementos de proteção blockchain
   width: 1200
   height: 630

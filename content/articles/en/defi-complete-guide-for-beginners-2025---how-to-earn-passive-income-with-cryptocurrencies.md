@@ -10,7 +10,8 @@ excerpt: >-
   Complete 2025 guide with practical strategies to generate passive income with
   cryptocurrencies.
 coverImage:
-  src: /images/defi-guia-completo-2025.jpg
+  src: >-
+    /images/articles/defi-complete-guide-for-beginners-2025---how-to-earn-passive-income-with-cryptocurrencies.webp
   alt: DeFi guia completo para iniciantes 2025
   width: 1200
   height: 630

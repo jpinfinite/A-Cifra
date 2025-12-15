@@ -7,7 +7,8 @@ excerpt: >-
   Comprehensive fundamental analysis, potential for appreciation, risks, and
   portfolio strategies to maximize your gains.
 coverImage:
-  src: /images/articles/top-10-altcoins-dezembro-2025.jpg
+  src: >-
+    /images/articles/top-10-altcoins-to-invest-in-december-2025-complete-fundamental-analysis.webp
   alt: >-
     Smartphone displaying cryptocurrency data next to Bitcoin on a calendar
     offers finance and technology insights.

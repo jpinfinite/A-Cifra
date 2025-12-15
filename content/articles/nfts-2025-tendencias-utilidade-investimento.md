@@ -6,7 +6,7 @@ excerpt: >-
   NFTs evoluíram além de arte digital. Descubra tendências 2025: gaming, RWAs,
   utilidade real, melhores projetos e como investir em NFTs com estratégia.
 coverImage:
-  src: /images/nfts-2025-tendencias.jpg
+  src: /images/articles/nfts-2025-tendencias-utilidade-investimento.webp
   alt: NFTs 2025 tendências e utilidade real
   width: 1200
   height: 630

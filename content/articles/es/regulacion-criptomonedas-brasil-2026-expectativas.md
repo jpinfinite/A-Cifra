@@ -1,15 +1,26 @@
 ---
-title: "Regulación de Criptomonedas en Brasil: Qué Esperar para 2026"
-date: "2025-10-31T10:00:00.000Z"
-category: "Regulación"
-tags: ["regulación", "brasil", "drex", "banco central", "leyes cripto", "impuestos"]
-excerpt: "Brasil se consolida como líder global en la regulación de criptoactivos. Analizamos el impacto del Marco Legal, la llegada del Drex, las nuevas exigencias fiscales y lo que inversores y empresas deben esperar para 2026."
-coverImage: "/images/crypto-regulation-cover-fixed.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Regulación de Criptomonedas en Brasil: Qué Esperar para 2026'
+date: '2025-10-31T10:00:00.000Z'
+category: Regulación
+tags:
+  - regulación
+  - brasil
+  - drex
+  - banco central
+  - leyes cripto
+  - impuestos
+excerpt: >-
+  Brasil se consolida como líder global en la regulación de criptoactivos.
+  Analizamos el impacto del Marco Legal, la llegada del Drex, las nuevas
+  exigencias fiscales y lo que inversores y empresas deben esperar para 2026.
+coverImage:
+  src: /images/articles/regulacion-criptomonedas-brasil-2026-expectativas.webp
+  alt: 'Regulación de Criptomonedas en Brasil: Qué Esperar para 2026'
+author: Jonatha Pereira
+status: published
 alternateLanguages:
-  pt-BR: "regulacao-criptomoedas-brasil-2026"
-  en: "cryptocurrency-regulation-brazil-2026-expectations"
+  pt-BR: regulacao-criptomoedas-brasil-2026
+  en: cryptocurrency-regulation-brazil-2026-expectations
 ---
 
 Brasil ha emergido en los últimos años como uno de los protagonistas globales en la adopción y regulación de criptomonedas. A diferencia de países que optaron por prohibir la tecnología o adoptar una postura de "Laissez-faire" extremo, Brasil eligió un camino de regulación progresiva e institucional. Con la aprobación del Marco Legal de las Criptomonedas (Ley 14.478/2022) y la designación del Banco Central como regulador, el país estableció las bases para un mercado seguro y transparente.

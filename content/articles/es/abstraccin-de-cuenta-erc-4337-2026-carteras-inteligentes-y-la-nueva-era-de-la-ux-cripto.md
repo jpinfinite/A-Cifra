@@ -9,7 +9,8 @@ excerpt: >-
   Descubre Account Abstraction, ERC-4337 y cómo las carteras inteligentes están
   revolucionando la experiencia del usuario en cripto en 2026.
 coverImage:
-  src: /images/030.jpg
+  src: >-
+    /images/articles/abstraccin-de-cuenta-erc-4337-2026-carteras-inteligentes-y-la-nueva-era-de-la-ux-cripto.webp
   alt: Account Abstraction ERC-4337
   width: 1200
   height: 630

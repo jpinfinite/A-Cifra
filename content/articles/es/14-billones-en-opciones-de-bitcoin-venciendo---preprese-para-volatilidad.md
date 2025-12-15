@@ -7,7 +7,8 @@ excerpt: >-
   volatilidad extrema. Entienda el impacto, los niveles clave y cómo los traders
   se están posicionando para el evento.
 coverImage:
-  src: /images/bitcoin-options-expiry-styled.jpg
+  src: >-
+    /images/articles/14-billones-en-opciones-de-bitcoin-venciendo---preprese-para-volatilidad.webp
   alt: $14 bilhões em opções de Bitcoin expirando - volatilidade esperada
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Complete guide to the best cryptocurrency exchanges in 2026: fees, security,
   resources, and welcome bonuses. Compare Binance, Bitget, Coinbase and more.
 coverImage:
-  src: /images/117.jpg
+  src: /images/articles/best-crypto-exchanges-2026-complete-comparison.webp
   alt: Melhores Exchanges Cripto 2026
   width: 1200
   height: 630

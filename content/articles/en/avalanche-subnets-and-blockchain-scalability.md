@@ -6,7 +6,7 @@ excerpt: >-
   Meet Avalanche, a high-performance blockchain with customizable subnets and
   innovative consensus that processes thousands of transactions per second.
 coverImage:
-  src: /images/040.jpg
+  src: /images/articles/avalanche-subnets-and-blockchain-scalability.webp
   alt: 'Avalanche: Subnets e Escalabilidade Blockchain'
   width: 1200
   height: 630

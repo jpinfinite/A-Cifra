@@ -7,7 +7,8 @@ excerpt: >-
   ecosistema, predicciones de precio y por qué grandes fondos están apostando
   por SOL.
 coverImage:
-  src: /images/altcoins/2025-12/solana-2026-previsao.webp
+  src: >-
+    /images/articles/solana-2026-prediccin-de-precio-y-anlisis-del-ecosistema.webp
   alt: Visualização futurista do ecossistema Solana com gráfico de crescimento
   width: 1200
   height: 630

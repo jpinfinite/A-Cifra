@@ -10,7 +10,8 @@ excerpt: >-
   historia. Entienda qué significa esto para Zcash, el mercado de monedas de
   privacidad y si ZEC es una buena inversión en 2025.
 coverImage:
-  src: /images/articles/zcash.png
+  src: >-
+    /images/articles/etf-de-zcash-monedas-de-privacidad-pueden-ser-aprobadas-anlisis-completo-de-la-solicitud-de-grayscal.webp
   alt: Zcash ETF - Privacy coins e regulação
   width: 1200
   height: 630

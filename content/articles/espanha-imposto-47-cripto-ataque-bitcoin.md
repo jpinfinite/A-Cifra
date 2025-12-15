@@ -7,7 +7,7 @@ excerpt: >-
   criptomoedas, gerando revolta na comunidade Bitcoin. Entenda o impacto e como
   investidores podem se proteger.
 coverImage:
-  src: /images/crypto-tax-regulation-2025-styled.jpg
+  src: /images/articles/espanha-imposto-47-cripto-ataque-bitcoin.webp
   alt: Espanha propondo imposto de 47% sobre criptomoedas
   width: 1200
   height: 630

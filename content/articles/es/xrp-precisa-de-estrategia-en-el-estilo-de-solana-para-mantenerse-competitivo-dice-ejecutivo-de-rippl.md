@@ -11,7 +11,7 @@ excerpt: >-
   mantenerse competitivo, dice ejecutivo de Ripple.
 coverImage:
   src: >-
-    /images/articles/xrp-precisa-de-estratgia-no-estilo-da-solana-para-se-manter-competitivo-diz-exec.jpg
+    /images/articles/xrp-precisa-de-estrategia-en-el-estilo-de-solana-para-mantenerse-competitivo-dice-ejecutivo-de-rippl.webp
   alt: >-
     XRP precisa de estratégia no estilo da Solana para se manter competitivo,
     diz executivo da Ripple

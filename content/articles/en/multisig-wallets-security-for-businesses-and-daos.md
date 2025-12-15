@@ -6,7 +6,7 @@ excerpt: >-
   Discover how multi-signature wallets increase security through multiple
   signatures.
 coverImage:
-  src: /images/050.jpg
+  src: /images/articles/multisig-wallets-security-for-businesses-and-daos.webp
   alt: 'Carteiras Multisig: Segurança para Empresas e DAOs'
   width: 1200
   height: 630

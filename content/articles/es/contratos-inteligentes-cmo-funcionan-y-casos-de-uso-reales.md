@@ -6,7 +6,8 @@ excerpt: >-
   Guía completa sobre contratos inteligentes, desde lo básico hasta aplicaciones
   prácticas en el mundo real.
 coverImage:
-  src: /images/020.jpg
+  src: >-
+    /images/articles/contratos-inteligentes-cmo-funcionan-y-casos-de-uso-reales.webp
   alt: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
   width: 1200
   height: 630

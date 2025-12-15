@@ -7,7 +7,8 @@ excerpt: >-
   staking platforms, compare yields and learn the step-by-step guide to start
   today.
 coverImage:
-  src: /images/educacao/2025-12/staking-ethereum-passivo.webp
+  src: >-
+    /images/articles/ethereum-staking-a-comprehensive-guide-to-earning-passive-income-in-2026.webp
   alt: >-
     Ilustração de moedas Ethereum sendo empilhadas automaticamente com gráfico
     de crescimento ao fundo

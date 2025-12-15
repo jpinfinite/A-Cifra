@@ -9,7 +9,8 @@ excerpt: >-
   en el Día de Acción de Gracias. La análisis técnica muestra niveles clave y lo
   que esperar en las próximas horas.
 coverImage:
-  src: /images/bitcoin-95k-rally-2025-styled.jpg
+  src: >-
+    /images/articles/bitcoin-busca-romper-95k-en-accin-de-accin-de-gracias-2025---anlisis-del-rally.webp
   alt: Bitcoin buscando romper $95.000 no Thanksgiving 2025
   width: 1200
   height: 630

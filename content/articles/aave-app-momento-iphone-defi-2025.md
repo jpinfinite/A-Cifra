@@ -7,7 +7,7 @@ excerpt: >-
   proteção de $1 milhão e rendimento de até 15%. O "momento iPhone" das finanças
   descentralizadas finalmente chegou. Review completo.
 coverImage:
-  src: /images/articles/aave-app-momento-iphone-defi.jpg
+  src: /images/articles/aave-app-momento-iphone-defi-2025.webp
   alt: >-
     Two professionals analyzing data and graphs with smartphones on a white
     table.

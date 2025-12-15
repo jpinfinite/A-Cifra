@@ -9,7 +9,7 @@ excerpt: >-
   descrita como ataque direto ao Bitcoin. Entenda o impacto para investidores e
   o mercado global.
 coverImage:
-  src: /images/226.jpg
+  src: /images/articles/espanha-imposto-47-cripto-ataque-bitcoin-2025.webp
   alt: >-
     Bandeira da Espanha com símbolos de Bitcoin e impostos representando a
     proposta de taxa de 47% sobre criptomoedas

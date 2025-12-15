@@ -7,7 +7,7 @@ excerpt: >-
   estão mudando a forma como torcedores interagem com seus times e lucram com
   sua paixão.
 coverImage:
-  src: /images/altcoins/2025-12/mundial-fan-tokens.webp
+  src: /images/articles/mundial-clubes-2025-fan-tokens.webp
   alt: >-
     Estádio de futebol lotado com hologramas de tokens digitais flutuando sobre
     a torcida

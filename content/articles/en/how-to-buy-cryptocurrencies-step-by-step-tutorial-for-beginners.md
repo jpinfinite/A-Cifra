@@ -7,7 +7,7 @@ excerpt: >-
   Practical Tips, and Everything You Need to Know to Make Informed Decisions.
 coverImage:
   src: >-
-    /images/educacao/2025-12/como-comprar-criptomoedas-tutorial-passo-a-passo-para-iniciantes.webp
+    /images/articles/how-to-buy-cryptocurrencies-step-by-step-tutorial-for-beginners.webp
   alt: Ilustração conceitual sobre Como comprar criptomoedas
   width: 1200
   height: 630

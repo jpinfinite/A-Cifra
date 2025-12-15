@@ -6,15 +6,15 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  
+
   // Otimizações de performance
   compress: true,
   poweredByHeader: false,
-  
+
   images: {
     unoptimized: true,
     loader: 'custom',
-    loaderFile: './src/utils/imageLoader.js',
+    loaderFile: './src/utils/image/loader.ts',
     formats: ['image/webp', 'image/avif'],
     deviceSizes: [384, 662, 1024, 1920],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
@@ -34,11 +34,11 @@ const nextConfig = {
       },
     ],
   },
-  
+
   experimental: {
     optimizePackageImports: ['lucide-react', 'react-markdown'],
   },
-  
+
   // Headers para cache e performance
   async headers() {
     return [
@@ -80,7 +80,7 @@ const nextConfig = {
       },
     ]
   },
-  
+
   // Webpack optimizations
   webpack: (config, { dev, isServer }) => {
     // Otimizações de produção
@@ -128,7 +128,7 @@ const nextConfig = {
         }
       }
     }
-    
+
     return config
   },
 }

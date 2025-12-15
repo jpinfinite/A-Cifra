@@ -7,7 +7,8 @@ excerpt: >-
   predicciones, tecnologías y oportunidades para 2026 en este guía exclusivo A
   Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/bitcoin-sovereign-wealth-funds.webp
+  src: >-
+    /images/articles/pases-que-compram-bitcoin-la-nueva-carrera-del-oro-digital.webp
   alt: 'Países Comprando Bitcoin: A Nova Corrida do Ouro Digital'
   width: 1200
   height: 630

@@ -6,7 +6,8 @@ excerpt: >-
   Learn to identify meme coins with potential before they explode, analyzing
   community, liquidity, holders, and other key indicators.
 coverImage:
-  src: /images/136.jpg
+  src: >-
+    /images/articles/how-to-identify-promising-memecoins-before-the-explosion.webp
   alt: Análise de memecoins promissoras
   width: 1200
   height: 630

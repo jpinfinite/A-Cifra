@@ -6,7 +6,7 @@ excerpt: >-
   Análisis completo sobre Base Chain Coinbase. Descubra las predicciones,
   tecnologías y oportunidades para 2026 en este guía exclusivo A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/base-chain-coinbase.webp
+  src: /images/articles/base-chain-el-gigante-de-coinbase-dominando-el-defi.webp
   alt: 'Base Chain: O Gigante da Coinbase Dominando o DeFi'
   width: 1200
   height: 630

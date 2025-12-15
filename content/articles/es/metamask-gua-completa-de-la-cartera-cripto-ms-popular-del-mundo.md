@@ -6,7 +6,8 @@ excerpt: >-
   Aprenda todo sobre MetaMask: cómo instalar, configurar, usar con seguridad y
   aprovechar todos los recursos de esta cartera esencial para DeFi y Web3.
 coverImage:
-  src: /images/140.jpg
+  src: >-
+    /images/articles/metamask-gua-completa-de-la-cartera-cripto-ms-popular-del-mundo.webp
   alt: MetaMask - Carteira de criptomoedas e gateway para Web3
   width: 1200
   height: 630

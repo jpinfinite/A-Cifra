@@ -7,7 +7,8 @@ excerpt: >-
   your cryptocurrencies and how to protect your assets from hackers. A
   comprehensive guide with comparisons, recommendations, and best practices.
 coverImage:
-  src: /images/cold-hot-wallet-security-2025.jpg
+  src: >-
+    /images/articles/cold-wallet-vs-hot-wallet---definitive-crypto-security-guide-2025.webp
   alt: Comparação entre carteira fria hardware e carteira quente mobile
   width: 1200
   height: 630

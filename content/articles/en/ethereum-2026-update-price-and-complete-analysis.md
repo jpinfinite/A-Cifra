@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive Ethereum analysis for 2026: technical updates, price prediction,
   staking, and the future of the most widely used blockchain in the market.
 coverImage:
-  src: /images/222.jpg
+  src: /images/articles/ethereum-2026-update-price-and-complete-analysis.webp
   alt: Ethereum 2026 Análise
   width: 1200
   height: 630

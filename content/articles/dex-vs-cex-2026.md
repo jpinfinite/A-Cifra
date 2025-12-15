@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre DEX vs CEX 2026. Descubra as previsões, tecnologias e
   oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/defi/2025-12/dex-vs-cex-2026.webp
+  src: /images/articles/dex-vs-cex-2026.webp
   alt: 'DEX vs CEX: Por Que o Volume Está Migrando para Descentralizadas'
   width: 1200
   height: 630

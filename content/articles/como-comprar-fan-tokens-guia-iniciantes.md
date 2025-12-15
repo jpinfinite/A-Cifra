@@ -6,7 +6,7 @@ excerpt: >-
   Quer apoiar seu time e ainda investir? Aprenda como comprar Fan Tokens de
   forma segura e prática nas principais corretoras.
 coverImage:
-  src: /images/educacao/2025-12/como-comprar-fan-tokens.webp
+  src: /images/articles/como-comprar-fan-tokens-guia-iniciantes.webp
   alt: >-
     Smartphone exibindo aplicativo de compra de fan tokens com escudos de times
     de futebol ao fundo

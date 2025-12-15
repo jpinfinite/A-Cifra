@@ -7,7 +7,7 @@ excerpt: >-
   predictions, technologies, and opportunities for 2026 in this exclusive guide
   A Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/lightning-network-2026.webp
+  src: /images/articles/lightning-network-in-2026-globalized-instant-payments.webp
   alt: 'Lightning Network em 2026: Pagamentos Instantâneos Globalizados'
   width: 1200
   height: 630

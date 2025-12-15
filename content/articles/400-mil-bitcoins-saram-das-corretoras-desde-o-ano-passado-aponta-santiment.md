@@ -9,7 +9,7 @@ excerpt: >-
   preço futuro.
 coverImage:
   src: >-
-    /images/articles/400-mil-bitcoins-saram-das-corretoras-desde-o-ano-passado-aponta-santiment.jpg
+    /images/articles/400-mil-bitcoins-saram-das-corretoras-desde-o-ano-passado-aponta-santiment.webp
   alt: '400 mil Bitcoins saíram das corretoras desde o ano passado, aponta Santiment'
   width: 1200
   height: 630

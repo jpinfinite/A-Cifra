@@ -6,7 +6,7 @@ excerpt: >-
   Guía paso a paso para usar PancakeSwap: conectar cartera, hacer swap, agregar
   liquidez y hacer farming en la mayor DEX de la Binance Smart Chain.
 coverImage:
-  src: /images/144.jpg
+  src: /images/articles/cmo-usar-pancakeswap-tutorial-completo-en-bsc.webp
   alt: Tutorial PancakeSwap - DEX BSC
   width: 1200
   height: 630

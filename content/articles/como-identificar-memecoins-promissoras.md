@@ -6,7 +6,7 @@ excerpt: >-
   Aprenda a identificar memecoins com potencial antes que explod am, analisando
   comunidade, liquidez, holders e outros indicadores-chave.
 coverImage:
-  src: /images/136.jpg
+  src: /images/articles/como-identificar-memecoins-promissoras.webp
   alt: Análise de memecoins promissoras
   width: 1200
   height: 630

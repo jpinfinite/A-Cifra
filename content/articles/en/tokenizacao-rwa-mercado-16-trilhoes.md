@@ -1,13 +1,23 @@
 ---
-title: RWA Tokenization: How the $16 Trillion Market Will Migrate to Blockchain by 2030
+title: >-
+  RWA Tokenization: How the $16 Trillion Market Will Migrate to Blockchain by
+  2030
 date: '2025-12-10'
 category: Investment
-excerpt: 'From Treasury bills to luxury real estate: understand why Real World Assets (RWA) tokenization is the "killer app" bringing Wall Street to Crypto.'
-image: /images/articles/rwa-tokenization-future.png
+excerpt: >-
+  From Treasury bills to luxury real estate: understand why Real World Assets
+  (RWA) tokenization is the "killer app" bringing Wall Street to Crypto.
 author: Antigravity
 metaTitle: 'RWA Tokenization: The Future of Real Assets on Blockchain'
-metaDescription: 'Larry Fink (BlackRock) called tokenization "the next generation for markets". Learn how RWAs will unlock trillions in global liquidity.'
+metaDescription: >-
+  Larry Fink (BlackRock) called tokenization "the next generation for markets".
+  Learn how RWAs will unlock trillions in global liquidity.
 language: en
+coverImage:
+  src: /images/articles/tokenizacao-rwa-mercado-16-trilhoes.webp
+  alt: >-
+    RWA Tokenization: How the $16 Trillion Market Will Migrate to Blockchain by
+    2030
 ---
 
 If you think cryptocurrencies are just about "digital coins" like Bitcoin, you are missing the biggest financial revolution since credit cards. We are talking about the migration of real-world assets (real estate, bonds, gold, art) to blockchain infrastructure.

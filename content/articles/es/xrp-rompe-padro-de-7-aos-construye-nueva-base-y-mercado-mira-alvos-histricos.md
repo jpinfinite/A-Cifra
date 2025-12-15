@@ -8,7 +8,8 @@ excerpt: >-
   Análisis técnico y macro del rompimiento estructural de la XRP después de 7
   años, proyecciones de precio e impacto del posible ETF en el mercado.
 coverImage:
-  src: /images/211.jpg
+  src: >-
+    /images/articles/xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos.webp
   alt: XRP - Rompimento Histórico
   width: 1200
   height: 630

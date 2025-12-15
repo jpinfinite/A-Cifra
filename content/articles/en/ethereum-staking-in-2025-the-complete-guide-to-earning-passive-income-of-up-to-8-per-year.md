@@ -10,7 +10,8 @@ excerpt: >-
   can earn (5-8% per year), where to do it, risks, and strategies to maximize
   returns.
 coverImage:
-  src: /images/ethereum-staking-rewards-styled.jpg
+  src: >-
+    /images/articles/ethereum-staking-in-2025-the-complete-guide-to-earning-passive-income-of-up-to-8-per-year.webp
   alt: Staking de Ethereum - Guia Completo 2025
   width: 1200
   height: 630

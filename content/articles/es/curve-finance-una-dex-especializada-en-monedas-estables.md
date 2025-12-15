@@ -6,7 +6,8 @@ excerpt: >-
   Conoce Curve Finance, la DEX optimizada para stablecoins con bajo slippage,
   altos rendimientos y el token CRV.
 coverImage:
-  src: /images/092.jpg
+  src: >-
+    /images/articles/curve-finance-una-dex-especializada-en-monedas-estables.webp
   alt: Curve Finance - DEX Stablecoins
   width: 1200
   height: 630

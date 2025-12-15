@@ -10,7 +10,8 @@ excerpt: >-
   weeks, paving the way for a Federal Reserve interest rate cut in December.
   Understand the economic impacts and GDP projections.
 coverImage:
-  src: /images/034.jpg
+  src: >-
+    /images/articles/goldman-sachs-predicts-end-of-us-shutdown-in-two-weeks-fed-rate-cut-in-december-gains-momentum.webp
   alt: >-
     Goldman Sachs prevê fim do shutdown dos EUA e corte de juros do Federal
     Reserve

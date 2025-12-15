@@ -7,7 +7,7 @@ excerpt: >-
   volatilidade extrema. Entenda o impacto, níveis-chave e como traders estão se
   posicionando para o evento.
 coverImage:
-  src: /images/bitcoin-options-expiry-styled.jpg
+  src: /images/articles/bitcoin-14-bilhoes-opcoes-expirando-volatilidade.webp
   alt: $14 bilhões em opções de Bitcoin expirando - volatilidade esperada
   width: 1200
   height: 630

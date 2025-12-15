@@ -7,7 +7,8 @@ excerpt: >-
   computacional GPU a través de blockchain, revolucionando industrias creativas
   e inteligencia artificial.
 coverImage:
-  src: /images/015.jpg
+  src: >-
+    /images/articles/render-network-rndr-revolucin-en-renderizacin-gpu-descentralizada.webp
   alt: 'Render Network (RNDR): Renderização GPU Descentralizada'
   width: 1200
   height: 630

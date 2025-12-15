@@ -9,7 +9,8 @@ excerpt: >-
   Legal Framework in Brazil, clarity in the US, and how this affects your
   investments.
 coverImage:
-  src: /images/087.jpg
+  src: >-
+    /images/articles/global-crypto-regulation-2026-mica-brazil-usa-and-the-new-regulatory-scenario.webp
   alt: Regulação Cripto Global 2026
   width: 1200
   height: 630

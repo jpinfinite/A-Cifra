@@ -7,7 +7,8 @@ excerpt: >-
   transactions in the country, but new rules from the Central Bank may bring IOF
   into the game in 2026.
 coverImage:
-  src: /images/regulacao/2025-12/stablecoins-brasil-iof.webp
+  src: >-
+    /images/articles/stablecoins-dominate-brazil-90-of-the-volume-and-the-new-iof-risk.webp
   alt: >-
     Ilustração de moedas digitais com a bandeira do Brasil e símbolos de dólar,
     sob uma lupa regulatória

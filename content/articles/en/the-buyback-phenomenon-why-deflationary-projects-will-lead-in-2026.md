@@ -6,7 +6,8 @@ excerpt: >-
   In-depth Analysis (Long-Form) on Buyback Meta Crypto. A comprehensive
   technical and financial guide for the 2026 cycle.
 coverImage:
-  src: /images/analises/2025-12/buyback-meta-crypto.webp
+  src: >-
+    /images/articles/the-buyback-phenomenon-why-deflationary-projects-will-lead-in-2026.webp
   alt: 'O Fenômeno Buyback: Por Que Projetos Deflacionários Vão Liderar 2026?'
   width: 1200
   height: 630

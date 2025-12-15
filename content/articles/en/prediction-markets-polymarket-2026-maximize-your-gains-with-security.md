@@ -7,7 +7,8 @@ excerpt: >-
   forecasts, technologies, and opportunities for 2026 in this exclusive guide A
   Cifra.
 coverImage:
-  src: /images/defi/2025-12/prediction-markets-polymarket-2026.webp
+  src: >-
+    /images/articles/prediction-markets-polymarket-2026-maximize-your-gains-with-security.webp
   alt: 'Prediction Markets Polymarket 2026: Maximize Seus Ganhos com Segurança'
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Conoce el Compound, uno de los primeros protocolos DeFi de préstamos: cómo
   funciona, tasas, el token COMP y cómo ganar rendimientos.
 coverImage:
-  src: /images/072.jpg
+  src: /images/articles/compound-finance-protocolo-de-prstamos-autnomos.webp
   alt: Compound Finance - Lending DeFi
   width: 1200
   height: 630

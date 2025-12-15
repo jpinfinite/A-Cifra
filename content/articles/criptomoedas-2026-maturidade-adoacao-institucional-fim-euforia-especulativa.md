@@ -9,7 +9,8 @@ excerpt: >-
   maturidade, adoção institucional e avanços tecnológicos concretos. Análise
   profunda das tendências que moldarão o futuro.
 coverImage:
-  src: /images/083.jpg
+  src: >-
+    /images/articles/criptomoedas-2026-maturidade-adoacao-institucional-fim-euforia-especulativa.webp
   alt: Análise do mercado de criptomoedas em 2026 - Tendências e previsões
   width: 1200
   height: 630

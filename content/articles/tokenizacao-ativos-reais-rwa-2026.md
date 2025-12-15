@@ -9,7 +9,7 @@ excerpt: >-
   investimentos em 2026: imóveis, ações, commodities e títulos na blockchain com
   liquidez 24/7.
 coverImage:
-  src: /images/169.jpg
+  src: /images/articles/tokenizacao-ativos-reais-rwa-2026.webp
   alt: Tokenização RWA 2026
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Aprende a usar Uniswap paso a paso: conectar cartera, hacer swap de tokens,
   agregar liquidez y evitar errores comunes en la DEX más popular.
 coverImage:
-  src: /images/195.jpg
+  src: /images/articles/cmo-usar-uniswap-tutorial-completo-de-swap-de-tokens.webp
   alt: Tutorial Uniswap - Como fazer swap
   width: 1200
   height: 630

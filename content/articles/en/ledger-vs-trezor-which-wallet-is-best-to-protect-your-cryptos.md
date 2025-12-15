@@ -6,7 +6,8 @@ excerpt: >-
   The Battle of Cold Wallets. We compared the latest models of Ledger and Trezor
   to help you choose the ideal digital fortress for your Bitcoins.
 coverImage:
-  src: /images/seguranca/2025-12/ledger-vs-trezor.webp
+  src: >-
+    /images/articles/ledger-vs-trezor-which-wallet-is-best-to-protect-your-cryptos.webp
   alt: >-
     Comparativo visual lado a lado de uma carteira Ledger e uma carteira Trezor
     sobre uma mesa tecnológica

@@ -6,7 +6,8 @@ excerpt: >-
   Liquidity pools are fundamental to DeFi, enabling efficient trades and rewards
   for providers. Discover how they work and how to participate.
 coverImage:
-  src: /images/161.webp
+  src: >-
+    /images/articles/liquidity-pools-the-heart-of-decentralized-finance-defi.webp
   alt: Representação visual de pools de liquidez DeFi com gráficos e moedas
   width: 1200
   height: 630

@@ -7,7 +7,8 @@ excerpt: >-
   Tokens están cambiando la forma en que los aficionados interactúan con sus
   equipos y ganan con su pasión.
 coverImage:
-  src: /images/altcoins/2025-12/mundial-fan-tokens.webp
+  src: >-
+    /images/articles/mundial-de-clubes-2025-fan-tokens-y-la-revolucin-del-enganche-esportivo.webp
   alt: >-
     Estádio de futebol lotado com hologramas de tokens digitais flutuando sobre
     a torcida

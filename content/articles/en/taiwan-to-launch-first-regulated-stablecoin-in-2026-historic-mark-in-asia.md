@@ -7,7 +7,8 @@ excerpt: >-
   becoming a pioneer in Asia. Understand the impact on the crypto market and
   institutional adoption.
 coverImage:
-  src: /images/029.jpg
+  src: >-
+    /images/articles/taiwan-to-launch-first-regulated-stablecoin-in-2026-historic-mark-in-asia.webp
   alt: Bandeira de Taiwan com símbolos de stablecoin e blockchain
   width: 1200
   height: 630

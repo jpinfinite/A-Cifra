@@ -10,7 +10,8 @@ excerpt: >-
   strategies of "financial acrobatics" to organize your accounts, pay off debts,
   and start investing in 2026.
 coverImage:
-  src: /images/educacao/2025-12/acrobacia-financeira.webp
+  src: >-
+    /images/articles/financial-acrobatics-how-to-organize-your-budget-and-get-out-of-the-red-in-2026.webp
   alt: >-
     Ilustração conceitual de uma pessoa fazendo malabarismo com moedas e contas,
     representando o equilíbrio financeiro

@@ -1,12 +1,22 @@
 ---
-title: 'Zero-Knowledge Proofs: A Tecnologia Invisível que Tornará a Blockchain Privada e Corporativa'
+title: >-
+  Zero-Knowledge Proofs: A Tecnologia Invisível que Tornará a Blockchain Privada
+  e Corporativa
 date: '2025-12-10'
 category: Tecnologia
-excerpt: 'Como provar que você tem dinheiro sem mostrar seu saldo? Entenda como ZK-Proofs resolvem o paradoxo da privacidade e escalabilidade no Ethereum.'
-image: /images/articles/zk-proofs-technology.png
+excerpt: >-
+  Como provar que você tem dinheiro sem mostrar seu saldo? Entenda como
+  ZK-Proofs resolvem o paradoxo da privacidade e escalabilidade no Ethereum.
 author: Antigravity
 metaTitle: 'Zero-Knowledge Proofs: O Guia Definitivo sobre Privacidade Blockchain'
-metaDescription: 'ZK-Rollups e Provas de Conhecimento Zero explicados em profundidade. Por que Vitalik Buterin aposta tudo nessa tecnologia para o futuro do Ethereum?'
+metaDescription: >-
+  ZK-Rollups e Provas de Conhecimento Zero explicados em profundidade. Por que
+  Vitalik Buterin aposta tudo nessa tecnologia para o futuro do Ethereum?
+coverImage:
+  src: /images/articles/zero-knowledge-proofs-privacidade-corporativa.webp
+  alt: >-
+    Zero-Knowledge Proofs: A Tecnologia Invisível que Tornará a Blockchain
+    Privada e Corporativa
 ---
 
 No mundo ideal dos cypherpunks, a blockchain é transparente: "Don't trust, verify". Para verificar, você precisa ver. E é por isso que no Bitcoin e no Ethereum, todas as transações, saldos e históricos são públicos.

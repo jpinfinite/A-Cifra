@@ -7,7 +7,7 @@ excerpt: >-
   predicciones, tecnologías y oportunidades para 2026 en este guía exclusivo A
   Cifra.
 coverImage:
-  src: /images/defi/2025-12/emprstimos-sem-colateral-defi.webp
+  src: /images/articles/crdito-on-chain-el-santo-grial-de-los-prstamos-defi.webp
   alt: 'Crédito On-Chain: O Santo Graal dos Empréstimos DeFi'
   width: 1200
   height: 630

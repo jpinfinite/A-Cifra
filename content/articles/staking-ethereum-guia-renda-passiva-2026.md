@@ -6,7 +6,7 @@ excerpt: >-
   Ganhe até 4% ao ano em ETH sem fazer nada. Descubra as melhores plataformas de
   staking, compare rendimentos e aprenda o passo a passo para começar hoje.
 coverImage:
-  src: /images/educacao/2025-12/staking-ethereum-passivo.webp
+  src: /images/articles/staking-ethereum-guia-renda-passiva-2026.webp
   alt: >-
     Ilustração de moedas Ethereum sendo empilhadas automaticamente com gráfico
     de crescimento ao fundo

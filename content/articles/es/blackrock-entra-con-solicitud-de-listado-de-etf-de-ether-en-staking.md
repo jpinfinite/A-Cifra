@@ -7,7 +7,7 @@ excerpt: >-
   en staking.
 coverImage:
   src: >-
-    /images/articles/blackrock-entra-com-pedido-de-listagem-de-etf-de-ether-em-staking.jpg
+    /images/articles/blackrock-entra-con-solicitud-de-listado-de-etf-de-ether-en-staking.webp
   alt: BlackRock entra com pedido de listagem de ETF de Ether em staking
   width: 1200
   height: 630

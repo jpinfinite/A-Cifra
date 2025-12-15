@@ -9,7 +9,8 @@ excerpt: >-
   In-depth analysis (Long-Form) on AI Agents Crypto Narratives. A comprehensive
   technical and financial guide for the 2026 cycle.
 coverImage:
-  src: /images/tecnologia/2025-12/ai-agents-crypto-narratives.webp
+  src: >-
+    /images/articles/artificial-intelligence-agents-in-blockchain-the-future-of-decentralized-automation.webp
   alt: 'Agentes de IA na Blockchain: O Futuro da Automação Descentralizada'
   width: 1200
   height: 630

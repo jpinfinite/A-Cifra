@@ -6,7 +6,7 @@ excerpt: >-
   Learn to use VPN and Tor to protect your privacy in cryptocurrency
   transactions.
 coverImage:
-  src: /images/crypto-security-shield-styled.jpg
+  src: /images/articles/vpn-and-tor-increasing-privacy-in-crypto-transactions.webp
   alt: 'VPN e Tor: Aumentando Privacidade em Transações Cripto'
   width: 1200
   height: 630

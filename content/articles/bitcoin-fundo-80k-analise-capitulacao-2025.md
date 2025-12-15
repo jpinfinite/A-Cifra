@@ -9,7 +9,7 @@ excerpt: >-
   US$ 80.000. Descubra os sinais que indicam o fim da correção e o início da
   próxima alta.
 coverImage:
-  src: /images/220.jpg
+  src: /images/articles/bitcoin-fundo-80k-analise-capitulacao-2025.webp
   alt: Bitcoin análise técnica US$ 80.000 fundo do ciclo
   width: 1200
   height: 630

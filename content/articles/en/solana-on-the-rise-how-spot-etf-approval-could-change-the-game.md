@@ -7,7 +7,8 @@ excerpt: >-
   Comprehensive analysis of the growth potential up to $300 and fundamental
   factors.
 coverImage:
-  src: /images/179.webp
+  src: >-
+    /images/articles/solana-on-the-rise-how-spot-etf-approval-could-change-the-game.webp
   alt: Solana em ascensão com gráfico de crescimento e logo SOL
   width: 1200
   height: 630

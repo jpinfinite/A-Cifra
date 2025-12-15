@@ -7,7 +7,8 @@ excerpt: >-
   Understand the risks of leverage and how to protect your investments from
   extreme volatility.
 coverImage:
-  src: /images/027.jpg
+  src: >-
+    /images/articles/crypto-liquidations-triple-in-december-2025-the-dangers-of-excessive-leverage.webp
   alt: Gráfico mostrando liquidações massivas no mercado de criptomoedas
   width: 1200
   height: 630

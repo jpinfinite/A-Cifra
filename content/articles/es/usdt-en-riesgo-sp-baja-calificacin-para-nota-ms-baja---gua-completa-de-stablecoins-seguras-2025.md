@@ -10,7 +10,8 @@ excerpt: >-
   que esto significa, los riesgos involucrados y cuáles son las stablecoins más
   seguras para proteger su patrimonio en 2025.
 coverImage:
-  src: /images/usdt.jpg
+  src: >-
+    /images/articles/usdt-en-riesgo-sp-baja-calificacin-para-nota-ms-baja---gua-completa-de-stablecoins-seguras-2025.webp
   alt: 'Análise de stablecoins e segurança - USDT, USDC, DAI'
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Descubra como jogos blockchain e GameFi estão revolucionando a indústria de
   games em 2026: play-to-earn, NFTs, economia player-owned e AAA on-chain.
 coverImage:
-  src: /images/084.jpg
+  src: /images/articles/cripto-gaming-gamefi-2026.webp
   alt: Cripto Gaming e GameFi 2026
   width: 1200
   height: 630

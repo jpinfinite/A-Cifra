@@ -6,7 +6,8 @@ excerpt: >-
   Comprehensive analysis of Solana Firedancer. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/solana-firedancer.webp
+  src: >-
+    /images/articles/solana-firedancer-the-client-that-can-process-1-million-tps.webp
   alt: 'Solana Firedancer: O Cliente que Pode Processar 1 Milhão de TPS'
   width: 1200
   height: 630

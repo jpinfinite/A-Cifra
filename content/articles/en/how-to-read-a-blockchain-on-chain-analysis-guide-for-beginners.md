@@ -6,7 +6,8 @@ excerpt: >-
   Comprehensive analysis on Basic On-Chain Analysis. Discover forecasts,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/anlise-on-chain-bsica.webp
+  src: >-
+    /images/articles/how-to-read-a-blockchain-on-chain-analysis-guide-for-beginners.webp
   alt: 'Como Ler a Blockchain: Guia de Análise On-Chain para Iniciantes'
   width: 1200
   height: 630

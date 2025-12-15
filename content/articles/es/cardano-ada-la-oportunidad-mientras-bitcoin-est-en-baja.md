@@ -7,7 +7,8 @@ excerpt: >-
   promissora. Descubra por qué ADA puede ser la mejor opción para los inversores
   en 2025.
 coverImage:
-  src: /images/061.jpg
+  src: >-
+    /images/articles/cardano-ada-la-oportunidad-mientras-bitcoin-est-en-baja.webp
   alt: Cardano ADA - Blockchain de terceira geração com abordagem científica
   width: 1200
   height: 630

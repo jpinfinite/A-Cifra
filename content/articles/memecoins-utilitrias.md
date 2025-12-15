@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Memecoins Utilitárias. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/memecoins-utilitrias.webp
+  src: /images/articles/memecoins-utilitrias.webp
   alt: 'A Evolução das Memecoins: De Piada para Ecossistema'
   width: 1200
   height: 630

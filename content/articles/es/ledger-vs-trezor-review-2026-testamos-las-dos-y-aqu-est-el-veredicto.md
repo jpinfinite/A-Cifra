@@ -7,7 +7,8 @@ excerpt: >-
   mercado. Probamos Ledger Nano Gen5 y Trezor Safe 7 durante 3 meses. Descubre
   cuál vale la pena tu inversión.
 coverImage:
-  src: /images/seguranca/2025-12/ledger-trezor-review.webp
+  src: >-
+    /images/articles/ledger-vs-trezor-review-2026-testamos-las-dos-y-aqu-est-el-veredicto.webp
   alt: >-
     Ledger e Trezor lado a lado em teste de bancada com ferramentas de análise
     de segurança

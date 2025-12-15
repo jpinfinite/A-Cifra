@@ -6,7 +6,7 @@ excerpt: >-
   Entenda como atomic swaps permitem trocas trustless entre diferentes
   criptomoedas.
 coverImage:
-  src: /images/024.jpg
+  src: /images/articles/atomic-swaps-trocas-descentralizadas.webp
   alt: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
   width: 1200
   height: 630

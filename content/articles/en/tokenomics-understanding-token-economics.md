@@ -6,7 +6,7 @@ excerpt: >-
   Learn what tokenomics is, how to analyze a token's economy, and identify
   projects with solid fundamentals in the crypto market.
 coverImage:
-  src: /images/075.jpg
+  src: /images/articles/tokenomics-understanding-token-economics.webp
   alt: Gráficos e análise de tokenomics
   width: 1200
   height: 630

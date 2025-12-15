@@ -7,7 +7,8 @@ excerpt: >-
   into force in 2026. Understand the impact on your privacy, taxes and
   investments.
 coverImage:
-  src: /images/regulacao/2025-12/drex-regulacao.webp
+  src: >-
+    /images/articles/drex-and-crypto-regulation-2026-what-changes-for-the-brazilian-investor.webp
   alt: >-
     Conceito visual do Drex (Real Digital) conectado à blockchain e documentos
     regulatórios do Brasil

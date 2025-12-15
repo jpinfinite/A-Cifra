@@ -7,7 +7,8 @@ excerpt: >-
   shows why December 2025 may be the historic month. Discover the catalysts,
   resistances, and what to expect after breaking six digits.
 coverImage:
-  src: /images/bitcoin-100k-december-2025.jpg
+  src: >-
+    /images/articles/bitcoin-heading-to-100k-by-december-2025---comprehensive-analysis-of-the-path.webp
   alt: Bitcoin rompendo a marca histórica de $100.000 em dezembro 2025
   width: 1200
   height: 630

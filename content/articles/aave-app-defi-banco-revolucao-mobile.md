@@ -9,7 +9,7 @@ excerpt: >-
   rendimento, proteção de $1 milhão e experiência de usuário idêntica a um banco
   tradicional. O 'momento iPhone' das finanças descentralizadas chegou.
 coverImage:
-  src: /images/028.jpg
+  src: /images/articles/aave-app-defi-banco-revolucao-mobile.webp
   alt: Aave App - Primeiro aplicativo DeFi com experiência bancária tradicional
   width: 1200
   height: 630

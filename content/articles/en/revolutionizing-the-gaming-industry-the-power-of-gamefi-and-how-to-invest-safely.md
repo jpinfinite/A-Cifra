@@ -9,7 +9,8 @@ excerpt: >-
   GameFi is transforming the gaming industry, combining gaming with DeFi and
   blockchain. Discover how it works and how to invest safely in this revolution.
 coverImage:
-  src: /images/122.webp
+  src: >-
+    /images/articles/revolutionizing-the-gaming-industry-the-power-of-gamefi-and-how-to-invest-safely.webp
   alt: Gamer jogando com elementos de criptomoedas e GameFi ao redor
   width: 1200
   height: 630

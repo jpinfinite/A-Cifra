@@ -7,7 +7,8 @@ excerpt: >-
   seguridad en este ecosistema en crecimiento y cuáles son las principales
   oportunidades.
 coverImage:
-  src: /images/101.jpg
+  src: >-
+    /images/articles/defi-el-futuro-de-la-finanza-descentralizada-y-cmo-invertir-con-seguridad.webp
   alt: Tablet mostrando interface DeFi com gráficos e criptomoedas
   width: 1200
   height: 630

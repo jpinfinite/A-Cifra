@@ -7,7 +7,8 @@ excerpt: >-
   fondos de mercado. Entiende qué esto significa para los inversores y si es
   hora de comprar BTC.
 coverImage:
-  src: /images/bitcoin-sharpe-ratio-analysis.jpg
+  src: >-
+    /images/articles/ndice-de-sharpe-del-bitcoin-en-cero-oportunidad-de-compra-o-trampa.webp
   alt: Gráfico mostrando o índice de Sharpe do Bitcoin em níveis baixos
   width: 1200
   height: 630

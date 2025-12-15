@@ -6,7 +6,7 @@ excerpt: >-
   Understand what DAOs are, how they work, use cases, and why they represent a
   new form of decentralized organization and governance.
 coverImage:
-  src: /images/094.jpg
+  src: /images/articles/decentralized-autonomous-organizations-daos.webp
   alt: 'DAOs: Organizações Autônomas Descentralizadas'
   width: 1200
   height: 630

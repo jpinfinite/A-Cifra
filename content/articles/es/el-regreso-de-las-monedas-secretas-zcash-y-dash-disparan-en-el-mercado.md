@@ -8,7 +8,8 @@ excerpt: >-
   sus máximas de 2022. Entiende los factores que se esconden detrás de este
   movimiento.
 coverImage:
-  src: /images/articles/zcash.png
+  src: >-
+    /images/articles/el-regreso-de-las-monedas-secretas-zcash-y-dash-disparan-en-el-mercado.webp
   alt: Zcash e Dash - Moedas de Privacidade em Alta
   width: 1200
   height: 630

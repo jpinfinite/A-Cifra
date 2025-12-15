@@ -9,7 +9,7 @@ excerpt: >-
   Análise técnica e fundamentalista completa dos 4 fatores-chave que
   determinarão o próximo grande movimento do BTC.
 coverImage:
-  src: /images/041.jpg
+  src: /images/articles/bitcoin-100k-analise-completa-caminho-2025.webp
   alt: Bitcoin análise técnica - Caminho para $100.000
   width: 1200
   height: 630

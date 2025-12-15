@@ -6,7 +6,7 @@ excerpt: >-
   Discover the story of PEPE, a meme coin based on the Pepe the Frog meme that
   exploded in 2023 and generated astronomical returns for initial investors.
 coverImage:
-  src: /images/146.jpg
+  src: /images/articles/pepe-coin-the-memecoin-phenomenon-of-2023.webp
   alt: PEPE Coin - Memecoin de 2023
   width: 1200
   height: 630

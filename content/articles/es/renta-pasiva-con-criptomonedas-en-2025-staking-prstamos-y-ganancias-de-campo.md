@@ -9,7 +9,8 @@ excerpt: >-
   lending, yield farming y piscinas de liquidez. Aprende a ganar hasta un 20% al
   año.
 coverImage:
-  src: /images/165.png
+  src: >-
+    /images/articles/renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-ganancias-de-campo.webp
   alt: Renda passiva com criptomoedas - Staking e Lending
   width: 1200
   height: 630

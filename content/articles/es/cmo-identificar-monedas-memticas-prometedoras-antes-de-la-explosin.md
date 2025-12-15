@@ -6,7 +6,8 @@ excerpt: >-
   Aprenda a identificar memecoins con potencial antes de que exploten,
   analizando comunidad, liquidez, holders y otros indicadores clave.
 coverImage:
-  src: /images/136.jpg
+  src: >-
+    /images/articles/cmo-identificar-monedas-memticas-prometedoras-antes-de-la-explosin.webp
   alt: Análise de memecoins promissoras
   width: 1200
   height: 630

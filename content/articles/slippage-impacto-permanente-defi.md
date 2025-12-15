@@ -4,7 +4,7 @@ title: Slippage e Impacto de Preço em DeFi
 slug: slippage-impacto-permanente-defi
 excerpt: 'Entenda slippage, impacto de preço e como minimizar perdas em trocas DeFi.'
 coverImage:
-  src: /images/025.jpg
+  src: /images/articles/slippage-impacto-permanente-defi.webp
   alt: Slippage e Impacto de Preço em DeFi
   width: 1200
   height: 630

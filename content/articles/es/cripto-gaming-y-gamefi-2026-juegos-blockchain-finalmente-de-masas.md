@@ -7,7 +7,8 @@ excerpt: >-
   industria de los videojuegos en 2026: play-to-earn, NFTs, economía propiedad
   del jugador y AAA en cadena.
 coverImage:
-  src: /images/084.jpg
+  src: >-
+    /images/articles/cripto-gaming-y-gamefi-2026-juegos-blockchain-finalmente-de-masas.webp
   alt: Cripto Gaming e GameFi 2026
   width: 1200
   height: 630

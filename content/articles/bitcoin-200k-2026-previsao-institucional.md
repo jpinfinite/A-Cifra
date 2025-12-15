@@ -7,7 +7,7 @@ excerpt: >-
   fundamentos por trás dessa previsão audaciosa e como se posicionar para o
   próximo Bull Run.
 coverImage:
-  src: /images/bitcoin/2025-12/bitcoin-200k-institucional.webp
+  src: /images/articles/bitcoin-200k-2026-previsao-institucional.webp
   alt: >-
     Gráfico futurista do Bitcoin com projeção ascendente para $200.000, logos da
     BlackRock e MicroStrategy ao fundo

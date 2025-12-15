@@ -6,7 +6,7 @@ excerpt: >-
   Entienda los ciclos de mercado en criptomonedas y cómo posicionarse en cada
   fase.
 coverImage:
-  src: /images/crypto-market-cycles-styled.jpg
+  src: /images/articles/ciclos-de-mercado-cripto-mercados-alcistas-y-bajistas.webp
   alt: 'Ciclos de Mercado Cripto: Bull e Bear Markets'
   width: 1200
   height: 630

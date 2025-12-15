@@ -9,7 +9,7 @@ excerpt: >-
   completa, potencial de valorização e estratégias de investimento. Guia
   definitivo para diversificar seu portfólio cripto.
 coverImage:
-  src: /images/altcoins-2026-promissoras.jpg
+  src: /images/articles/altcoins-promissoras-2026-analise-completa.webp
   alt: 15 Altcoins Promissoras para 2026 - Análise Completa
   width: 1200
   height: 630

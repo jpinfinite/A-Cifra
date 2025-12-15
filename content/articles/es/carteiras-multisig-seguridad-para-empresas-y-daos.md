@@ -6,7 +6,7 @@ excerpt: >-
   Descubra cómo las carteras multisignatura aumentan la seguridad a través de
   múltiples firmas.
 coverImage:
-  src: /images/050.jpg
+  src: /images/articles/carteiras-multisig-seguridad-para-empresas-y-daos.webp
   alt: 'Carteiras Multisig: Segurança para Empresas e DAOs'
   width: 1200
   height: 630

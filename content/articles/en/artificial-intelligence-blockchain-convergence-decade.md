@@ -1,15 +1,27 @@
 ---
-title: "Artificial Intelligence and Blockchain: The Tech Convergence of the Decade"
-date: "2025-11-01T10:00:00.000Z"
-category: "Technology"
-tags: ["ai", "blockchain", "convergence", "future", "technology", "web3", "autonomous agents"]
-excerpt: "AI and Blockchain are the two most disruptive technologies of the century. Discover what happens when they converge: decentralized autonomous agents, identity verification in a deepfake world, and fair data markets."
-coverImage: "/images/ai-blockchain-cover-fixed.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Artificial Intelligence and Blockchain: The Tech Convergence of the Decade'
+date: '2025-11-01T10:00:00.000Z'
+category: Technology
+tags:
+  - ai
+  - blockchain
+  - convergence
+  - future
+  - technology
+  - web3
+  - autonomous agents
+excerpt: >-
+  AI and Blockchain are the two most disruptive technologies of the century.
+  Discover what happens when they converge: decentralized autonomous agents,
+  identity verification in a deepfake world, and fair data markets.
+coverImage:
+  src: /images/articles/artificial-intelligence-blockchain-convergence-decade.webp
+  alt: 'Artificial Intelligence and Blockchain: The Tech Convergence of the Decade'
+author: Jonatha Pereira
+status: published
 alternateLanguages:
-  pt-BR: "inteligencia-artificial-blockchain-convergencia"
-  es: "inteligencia-artificial-blockchain-convergencia-decada"
+  pt-BR: inteligencia-artificial-blockchain-convergencia
+  es: inteligencia-artificial-blockchain-convergencia-decada
 ---
 
 We are living in a unique moment in the history of technology. Two revolutions of tectonic magnitude are occurring simultaneously, but, until recently, on parallel tracks. On one side, **Artificial Intelligence (AI)**, with its exponential capability to generate content, analyze patterns, and make decisions—a force of "abundance" and centralization of computational power. On the other, **Blockchain**, the machine of truth, digital scarcity, and decentralization.

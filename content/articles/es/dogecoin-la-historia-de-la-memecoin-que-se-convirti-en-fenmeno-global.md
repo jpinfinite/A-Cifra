@@ -7,7 +7,8 @@ excerpt: >-
   convertirse en una de las criptomonedas más populares del mundo, apoyada por
   Elon Musk.
 coverImage:
-  src: /images/107.jpg
+  src: >-
+    /images/articles/dogecoin-la-historia-de-la-memecoin-que-se-convirti-en-fenmeno-global.webp
   alt: Dogecoin - A primeira memecoin
   width: 1200
   height: 630

@@ -6,7 +6,8 @@ excerpt: >-
   Entienda cómo Chainlink conecta contratos inteligentes a datos del mundo real
   a través de oráculos descentralizados y por qué es esencial para DeFi.
 coverImage:
-  src: /images/066.jpg
+  src: >-
+    /images/articles/chainlink-orculos-descentralizados-para-contratos-inteligentes.webp
   alt: Chainlink - Oráculos Descentralizados
   width: 1200
   height: 630

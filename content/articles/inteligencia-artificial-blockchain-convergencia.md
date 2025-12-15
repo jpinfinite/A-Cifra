@@ -1,12 +1,24 @@
 ---
-title: "Inteligência Artificial e Blockchain: A Convergência Tecnológica da Década"
-date: "2025-11-01T10:00:00.000Z"
-category: "Tecnologia"
-tags: ["ia", "blockchain", "convergência", "futuro", "tecnologia", "web3", "agentes autonomos"]
-excerpt: "IA e Blockchain são as duas tecnologias mais disruptivas do século. Descubra o que acontece quando elas convergem: agentes autônomos descentralizados, verificação de identidade em um mundo de deepfakes e mercados de dados justos."
-coverImage: "/images/088.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Inteligência Artificial e Blockchain: A Convergência Tecnológica da Década'
+date: '2025-11-01T10:00:00.000Z'
+category: Tecnologia
+tags:
+  - ia
+  - blockchain
+  - convergência
+  - futuro
+  - tecnologia
+  - web3
+  - agentes autonomos
+excerpt: >-
+  IA e Blockchain são as duas tecnologias mais disruptivas do século. Descubra o
+  que acontece quando elas convergem: agentes autônomos descentralizados,
+  verificação de identidade em um mundo de deepfakes e mercados de dados justos.
+coverImage:
+  src: /images/articles/inteligencia-artificial-blockchain-convergencia.webp
+  alt: 'Inteligência Artificial e Blockchain: A Convergência Tecnológica da Década'
+author: Jonatha Pereira
+status: published
 ---
 
 Estamos vivendo um momento único na história da tecnologia. Duas revoluções de magnitude tectônica estão ocorrendo simultaneamente, mas, até recentemente, em trilhos paralelos. De um lado, a **Inteligência Artificial (IA)**, com sua capacidade exponencial de gerar conteúdo, analisar padrões e tomar decisões — uma força de "abundância" e centralização de poder computacional. Do outro, a **Blockchain**, a máquina da verdade, da escassez digital e da descentralização.

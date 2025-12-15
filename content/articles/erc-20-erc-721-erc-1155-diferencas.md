@@ -6,7 +6,7 @@ excerpt: >-
   Guia completo sobre os principais padrões de tokens no Ethereum e suas
   diferenças.
 coverImage:
-  src: /images/022.jpg
+  src: /images/articles/erc-20-erc-721-erc-1155-diferencas.webp
   alt: 'Padrões de Tokens: ERC-20, ERC-721 e ERC-1155'
   width: 1200
   height: 630

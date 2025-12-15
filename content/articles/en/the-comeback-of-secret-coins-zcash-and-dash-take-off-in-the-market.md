@@ -7,7 +7,8 @@ excerpt: >-
   7-year high and Dash reaches 2022 highs. Understand the factors behind this
   movement.
 coverImage:
-  src: /images/articles/zcash.png
+  src: >-
+    /images/articles/the-comeback-of-secret-coins-zcash-and-dash-take-off-in-the-market.webp
   alt: Zcash e Dash - Moedas de Privacidade em Alta
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Entenda de forma simples e clara o que é blockchain, como funciona essa
   tecnologia revolucionária e por que ela está mudando o mundo.
 coverImage:
-  src: /images/057.webp
+  src: /images/articles/o-que-e-blockchain-guia-iniciantes.webp
   alt: Representação visual da tecnologia blockchain
   width: 1200
   height: 630

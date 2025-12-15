@@ -7,7 +7,7 @@ excerpt: >-
   segurança, recursos e bônus de boas-vindas. Compare Binance, Bitget, Coinbase
   e mais.
 coverImage:
-  src: /images/117.jpg
+  src: /images/articles/melhores-exchanges-cripto-2026-comparacao.webp
   alt: Melhores Exchanges Cripto 2026
   width: 1200
   height: 630

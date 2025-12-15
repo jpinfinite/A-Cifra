@@ -6,7 +6,8 @@ excerpt: >-
   The fusion of Artificial Intelligence and Blockchain is the strongest
   narrative for 2026. Get to know the projects leading this revolution.
 coverImage:
-  src: /images/altcoins/2025-12/cripto-ia-2026.webp
+  src: >-
+    /images/articles/ai-cryptocurrencies-the-new-wave-of-2026-deepsnitch-ipo-genie-and-more.webp
   alt: >-
     Cérebro digital futurista conectado a nós de blockchain, representando a
     fusão de IA e Cripto

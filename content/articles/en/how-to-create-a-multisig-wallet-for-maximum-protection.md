@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis on Multi-Sig Wallet Tutorial. Discover forecasts,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/carteira-multisig-tutorial.webp
+  src: /images/articles/how-to-create-a-multisig-wallet-for-maximum-protection.webp
   alt: Como Criar uma Carteira Multisig para Proteção Máxima
   width: 1200
   height: 630

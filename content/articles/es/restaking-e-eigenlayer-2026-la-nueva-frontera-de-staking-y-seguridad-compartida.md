@@ -9,7 +9,8 @@ excerpt: >-
   Descubre restaking, EigenLayer y cómo puedes ganar rendimientos múltiples
   utilizando el mismo ETH en 2026. La revolución de la seguridad compartida.
 coverImage:
-  src: /images/167.jpg
+  src: >-
+    /images/articles/restaking-e-eigenlayer-2026-la-nueva-frontera-de-staking-y-seguridad-compartida.webp
   alt: Restaking EigenLayer 2026
   width: 1200
   height: 630

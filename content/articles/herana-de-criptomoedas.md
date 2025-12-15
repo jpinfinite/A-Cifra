@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Herança de Criptomoedas. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/herana-de-criptomoedas.webp
+  src: /images/articles/herana-de-criptomoedas.webp
   alt: 'Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros'
   width: 1200
   height: 630

@@ -6,7 +6,8 @@ excerpt: >-
   In 2026, hackers are using AI to create perfect scams. Learn advanced defense
   techniques to shield your digital assets.
 coverImage:
-  src: /images/seguranca/2025-12/ciberseguranca-crypto.webp
+  src: >-
+    /images/articles/cybersecurity-in-2026-how-to-protect-your-cryptocurrencies-from-new-scams.webp
   alt: >-
     Escudo digital brilhante protegendo moedas virtuais contra ataques
     cibernéticos em um fundo escuro estilo Matrix

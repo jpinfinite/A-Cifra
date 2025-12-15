@@ -6,7 +6,8 @@ excerpt: >-
   Explore the fundamental differences between centralized and decentralized
   systems, their impacts on society, and how blockchain is redefining power.
 coverImage:
-  src: /images/104.jpg
+  src: >-
+    /images/articles/centralization-vs-decentralization-the-dilemma-of-power-distribution.webp
   alt: Representação visual de redes centralizadas vs descentralizadas
   width: 1200
   height: 630

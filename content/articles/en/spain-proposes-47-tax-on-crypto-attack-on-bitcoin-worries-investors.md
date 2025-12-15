@@ -7,7 +7,8 @@ excerpt: >-
   described as a direct attack on Bitcoin. Understand the impact for investors
   and the global market.
 coverImage:
-  src: /images/226.jpg
+  src: >-
+    /images/articles/spain-proposes-47-tax-on-crypto-attack-on-bitcoin-worries-investors.webp
   alt: >-
     Bandeira da Espanha com símbolos de Bitcoin e impostos representando a
     proposta de taxa de 47% sobre criptomoedas

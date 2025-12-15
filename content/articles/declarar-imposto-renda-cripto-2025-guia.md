@@ -9,7 +9,7 @@ excerpt: >-
   alíquotas, isenções, DeFi, staking e como evitar malha fina. Atualizado com
   novas regras.
 coverImage:
-  src: /images/declarar-cripto-ir-2025.jpg
+  src: /images/articles/declarar-imposto-renda-cripto-2025-guia.webp
   alt: Como declarar criptomoedas no imposto de renda 2025
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Conheça o The Graph, o protocolo de indexação que permite consultas rápidas e
   eficientes de dados blockchain, essencial para dApps e DeFi.
 coverImage:
-  src: /images/124.jpg
+  src: /images/articles/the-graph-indexacao-dados-blockchain.webp
   alt: 'The Graph (GRT): Indexação de Dados Blockchain'
   width: 1200
   height: 630

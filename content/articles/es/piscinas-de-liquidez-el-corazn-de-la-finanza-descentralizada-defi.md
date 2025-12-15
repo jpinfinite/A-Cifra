@@ -7,7 +7,8 @@ excerpt: >-
   negociaciones eficientes y recompensas para los proveedores. Descubra cómo
   funcionan y cómo participar.
 coverImage:
-  src: /images/161.webp
+  src: >-
+    /images/articles/piscinas-de-liquidez-el-corazn-de-la-finanza-descentralizada-defi.webp
   alt: Representação visual de pools de liquidez DeFi com gráficos e moedas
   width: 1200
   height: 630

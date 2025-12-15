@@ -6,7 +6,7 @@ excerpt: >-
   With Bitcoin in negative territory, Cardano emerges as a promising
   alternative. Discover why ADA may be the best choice for investors in 2025.
 coverImage:
-  src: /images/061.jpg
+  src: /images/articles/cardano-ada-the-opportunity-while-bitcoin-is-down.webp
   alt: Cardano ADA - Blockchain de terceira geração com abordagem científica
   width: 1200
   height: 630

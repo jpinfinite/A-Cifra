@@ -10,7 +10,8 @@ excerpt: >-
   zkSync), advantages, differences and why they are the future of Ethereum in
   2025.
 coverImage:
-  src: /images/layer-2-ethereum-guia-2025.jpg
+  src: >-
+    /images/articles/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability.webp
   alt: Layer 2 Ethereum guia completo 2025
   width: 1200
   height: 630

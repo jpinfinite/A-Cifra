@@ -7,7 +7,7 @@ excerpt: >-
   RSI, MACD, Medias Móviles, Volumen y patrones gráficos para tomar decisiones
   informadas.
 coverImage:
-  src: /images/038.jpg
+  src: /images/articles/anlisis-tcnico-indicadores-esenciales-para-cripto.webp
   alt: 'Análise Técnica: Indicadores Essenciais para Cripto'
   width: 1200
   height: 630

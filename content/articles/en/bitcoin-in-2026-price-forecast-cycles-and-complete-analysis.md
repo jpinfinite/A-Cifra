@@ -7,7 +7,8 @@ excerpt: >-
   new crypto winter? Detailed analysis of market cycles, price predictions from
   experts and strategies for the next year.
 coverImage:
-  src: /images/bitcoin/2025-12/bitcoin-previsao-2026-analise.webp
+  src: >-
+    /images/articles/bitcoin-in-2026-price-forecast-cycles-and-complete-analysis.webp
   alt: Bitcoin Previsão 2026 e Análise de Mercado
   width: 1200
   height: 630

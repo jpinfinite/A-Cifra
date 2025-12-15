@@ -6,7 +6,8 @@ excerpt: >-
   Learn everything about MetaMask: how to install, set up, use safely and take
   advantage of all the resources of this essential wallet for DeFi and Web3.
 coverImage:
-  src: /images/140.jpg
+  src: >-
+    /images/articles/metamask-the-complete-guide-to-the-most-popular-crypto-wallet-in-the-world.webp
   alt: MetaMask - Carteira de criptomoedas e gateway para Web3
   width: 1200
   height: 630

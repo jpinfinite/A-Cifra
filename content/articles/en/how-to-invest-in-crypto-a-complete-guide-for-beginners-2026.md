@@ -6,7 +6,8 @@ excerpt: >-
   Definitive guide to start investing in cryptocurrencies in 2026: step by step,
   strategies, security, and mistakes to avoid. Perfect for beginners.
 coverImage:
-  src: /images/125.jpg
+  src: >-
+    /images/articles/how-to-invest-in-crypto-a-complete-guide-for-beginners-2026.webp
   alt: Guia de Investimento em Cripto 2026
   width: 1200
   height: 630

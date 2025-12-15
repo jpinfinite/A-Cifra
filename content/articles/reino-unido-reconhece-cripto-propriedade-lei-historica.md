@@ -7,7 +7,7 @@ excerpt: >-
   propriedade legal. Entenda o impacto desta decisão histórica para
   investidores, empresas e o futuro da regulação cripto global.
 coverImage:
-  src: /images/uk-crypto-property-law-2025.jpg
+  src: /images/articles/reino-unido-reconhece-cripto-propriedade-lei-historica.webp
   alt: Reino Unido aprova lei reconhecendo cripto como propriedade
   width: 1200
   height: 630

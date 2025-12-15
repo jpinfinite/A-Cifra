@@ -10,7 +10,8 @@ excerpt: >-
   señalan fundamentos sólidos y prevén un retorno a los $100 mil aún en
   diciembre de 2025. Consulte el análisis completo.
 coverImage:
-  src: /images/bitcoin-93k-recuperacao.jpg
+  src: >-
+    /images/articles/bitcoin-recupera-93-mil-despus-de-la-correccin-analistas-prevn-regreso-a-los-100k-en-diciembre.webp
   alt: Bitcoin Recupera $93 Mil - Análise Dezembro 2025
   width: 1200
   height: 630

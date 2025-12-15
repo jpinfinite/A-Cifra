@@ -4,8 +4,7 @@ title: 'Wrapped Tokens: Levando Bitcoin para Ethereum'
 slug: wrapped-tokens-bitcoin-ethereum
 excerpt: Aprenda como wrapped tokens funcionam e por que são importantes para DeFi.
 coverImage:
-  src: >-
-    /images/bitcoin/bitcoin-cryptocurrency-ethereum-blockchain-litecoin-bitcoin-9aca8d162b74e8e5a6be9dcfedc8a5c4.png
+  src: /images/articles/wrapped-tokens-bitcoin-ethereum.webp
   alt: 'Wrapped Tokens: Levando Bitcoin para Ethereum'
   width: 1200
   height: 630

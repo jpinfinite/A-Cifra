@@ -7,7 +7,7 @@ excerpt: >-
   eficientes e recompensas para fornecedores. Descubra como funcionam e como
   participar.
 coverImage:
-  src: /images/161.webp
+  src: /images/articles/pools-liquidez-coracao-financa-descentralizada-defi.webp
   alt: Representação visual de pools de liquidez DeFi com gráficos e moedas
   width: 1200
   height: 630

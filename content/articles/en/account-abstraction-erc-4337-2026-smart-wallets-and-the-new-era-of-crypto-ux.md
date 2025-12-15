@@ -8,7 +8,8 @@ excerpt: >-
   Discover Account Abstraction, ERC-4337 and how smart wallets are
   revolutionizing the user experience in crypto in 2026.
 coverImage:
-  src: /images/030.jpg
+  src: >-
+    /images/articles/account-abstraction-erc-4337-2026-smart-wallets-and-the-new-era-of-crypto-ux.webp
   alt: Account Abstraction ERC-4337
   width: 1200
   height: 630

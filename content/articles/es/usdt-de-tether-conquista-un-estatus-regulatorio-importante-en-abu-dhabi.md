@@ -7,7 +7,7 @@ excerpt: >-
   regulatorio en Abu Dhabi.
 coverImage:
   src: >-
-    /images/articles/usdt-da-tether-conquista-status-regulatrio-importante-em-abu-dhabi.jpg
+    /images/articles/usdt-de-tether-conquista-un-estatus-regulatorio-importante-en-abu-dhabi.webp
   alt: USDt da Tether conquista status regulatório importante em Abu Dhabi
   width: 1200
   height: 630

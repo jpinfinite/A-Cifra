@@ -6,7 +6,8 @@ excerpt: >-
   In-depth analysis of Cryptocurrency Inheritance. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/herana-de-criptomoedas.webp
+  src: >-
+    /images/articles/ational-estate-planning-how-to-leave-cryptocurrency-to-your-heirs.webp
   alt: 'Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros'
   width: 1200
   height: 630

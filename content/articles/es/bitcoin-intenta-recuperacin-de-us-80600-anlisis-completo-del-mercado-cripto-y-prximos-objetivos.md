@@ -10,7 +10,8 @@ excerpt: >-
   técnico completo de las 10 principales criptomonedas, niveles de soporte y
   resistencia para las próximas semanas.
 coverImage:
-  src: /images/221.jpg
+  src: >-
+    /images/articles/bitcoin-intenta-recuperacin-de-us-80600-anlisis-completo-del-mercado-cripto-y-prximos-objetivos.webp
   alt: Bitcoin recuperação US$ 80.600 análise técnica mercado cripto
   width: 1200
   height: 630

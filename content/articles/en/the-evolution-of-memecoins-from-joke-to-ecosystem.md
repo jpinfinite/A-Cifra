@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis on Utility Memecoins. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide The Digit.
 coverImage:
-  src: /images/altcoins/2025-12/memecoins-utilitrias.webp
+  src: /images/articles/the-evolution-of-memecoins-from-joke-to-ecosystem.webp
   alt: 'A Evolução das Memecoins: De Piada para Ecossistema'
   width: 1200
   height: 630

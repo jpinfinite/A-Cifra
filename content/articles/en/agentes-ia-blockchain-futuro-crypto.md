@@ -1,13 +1,20 @@
 ---
-title: The Future of AI Agents: When Artificial Intelligence Gets a Crypto Wallet
+title: 'The Future of AI Agents: When Artificial Intelligence Gets a Crypto Wallet'
 date: '2025-12-10'
 category: Artificial Intelligence
-excerpt: 'The next phase of AI isn’t just chatting with you. It’s performing autonomous economic tasks. Understand how AI Agents are becoming the new blockchain users.'
-image: /images/articles/ai-agents-blockchain.png
+excerpt: >-
+  The next phase of AI isn’t just chatting with you. It’s performing autonomous
+  economic tasks. Understand how AI Agents are becoming the new blockchain
+  users.
 author: Antigravity
 metaTitle: 'AI Agents and Blockchain: The New Frontier of Economic Automation'
-metaDescription: 'The intersection of AI and Crypto creates Autonomous Agents that can hold assets, trade, and execute services without human intervention.'
+metaDescription: >-
+  The intersection of AI and Crypto creates Autonomous Agents that can hold
+  assets, trade, and execute services without human intervention.
 language: en
+coverImage:
+  src: /images/articles/agentes-ia-blockchain-futuro-crypto.webp
+  alt: 'The Future of AI Agents: When Artificial Intelligence Gets a Crypto Wallet'
 ---
 
 Until now, Artificial Intelligence (AI) has been a passive tool: you ask a question, it answers. You ask for an image, it draws. But what happens when AI gains **financial autonomy**?

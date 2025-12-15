@@ -7,7 +7,7 @@ excerpt: >-
   2025. Zcash atinge maior valor em 7 anos e Dash alcança máximas de 2022.
   Entenda os fatores por trás desse movimento.
 coverImage:
-  src: /images/articles/zcash.png
+  src: /images/articles/zcash-dash-moedas-privacidade-disparam.webp
   alt: Zcash e Dash - Moedas de Privacidade em Alta
   width: 1200
   height: 630

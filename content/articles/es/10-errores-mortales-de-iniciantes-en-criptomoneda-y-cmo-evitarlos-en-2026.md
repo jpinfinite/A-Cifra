@@ -7,7 +7,8 @@ excerpt: >-
   costosos que los iniciados cometen en criptomonedas y cómo evitarlos para
   proteger tu patrimonio.
 coverImage:
-  src: /images/educacao/2025-12/erros-cripto-iniciantes.webp
+  src: >-
+    /images/articles/10-errores-mortales-de-iniciantes-en-criptomoneda-y-cmo-evitarlos-en-2026.webp
   alt: Ilustração conceitual de armadilhas e erros comuns em criptomoedas
   width: 1200
   height: 630

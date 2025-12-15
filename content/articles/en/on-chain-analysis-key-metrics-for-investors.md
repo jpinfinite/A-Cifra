@@ -4,7 +4,7 @@ title: 'On-Chain Analysis: Key Metrics for Investors'
 slug: on-chain-analysis-key-metrics-for-investors
 excerpt: Discover the main on-chain metrics for cryptocurrency analysis.
 coverImage:
-  src: /images/crypto-market-analysis-new-styled.jpg
+  src: /images/articles/on-chain-analysis-key-metrics-for-investors.webp
   alt: 'Análise On-Chain: Métricas Importantes para Investidores'
   width: 1200
   height: 630

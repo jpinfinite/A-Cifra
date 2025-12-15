@@ -6,7 +6,7 @@ excerpt: >-
   Understand Curve Finance, the DEX optimized for stablecoins with low slippage,
   high yields and the CRV token.
 coverImage:
-  src: /images/092.jpg
+  src: /images/articles/curve-finance-a-dex-specialized-in-stablecoins.webp
   alt: Curve Finance - DEX Stablecoins
   width: 1200
   height: 630

@@ -10,7 +10,8 @@ excerpt: >-
   Análisis completo de los factores que llevaron a la caída, impacto en los
   inversores y lo que esperar para los próximos meses.
 coverImage:
-  src: /images/056.jpg
+  src: >-
+    /images/articles/bitcoin-en-territorio-negativo-en-el-ao-anlisis-del-mercado-bajista-y-perspectivas.webp
   alt: Bitcoin em queda - Análise do mercado baixista
   width: 1200
   height: 630

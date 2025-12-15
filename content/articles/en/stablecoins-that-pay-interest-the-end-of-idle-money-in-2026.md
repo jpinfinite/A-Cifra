@@ -6,7 +6,8 @@ excerpt: >-
   In-depth Analysis (Long-Form) on Yield Bearing Stablecoins. A comprehensive
   technical and financial guide for the 2026 cycle.
 coverImage:
-  src: /images/defi/2025-12/yield-bearing-stablecoins.webp
+  src: >-
+    /images/articles/stablecoins-that-pay-interest-the-end-of-idle-money-in-2026.webp
   alt: 'Stablecoins que Pagam Juros: O Fim do Dinheiro Parado em 2026'
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: Patrones Gráficos y Candlestick en Criptomonedas
 slug: patrones-grficos-y-candlestick-en-criptomonedas
 excerpt: Aprende los principales patrones de velas para trading de criptomonedas.
 coverImage:
-  src: /images/crypto-trading-candlestick-styled.jpg
+  src: /images/articles/patrones-grficos-y-candlestick-en-criptomonedas.webp
   alt: Padrões Gráficos e Candlestick em Cripto
   width: 1200
   height: 630

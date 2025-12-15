@@ -7,7 +7,7 @@ excerpt: >-
   Entenda como até os mais poderosos não escapam da volatilidade do mercado
   cripto.
 coverImage:
-  src: /images/219.jpg
+  src: /images/articles/trump-familia-perde-bilhoes-cripto-2025.webp
   alt: Gráfico mostrando queda das criptomoedas da família Trump
   width: 1200
   height: 630

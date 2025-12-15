@@ -7,7 +7,8 @@ excerpt: >-
   analysis, practical tips, and everything you need to know to make informed
   decisions.
 coverImage:
-  src: /images/analises/2025-12/agentes-de-ia-em-crypto-guia-completo-2026.webp
+  src: >-
+    /images/articles/artificial-intelligence-agents-in-crypto-2026-complete-guide.webp
   alt: Ilustração conceitual sobre Agentes de IA em Crypto
   width: 1200
   height: 630

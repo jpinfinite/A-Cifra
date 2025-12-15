@@ -7,7 +7,8 @@ excerpt: >-
   cryptocurrencies and what this means for the future of money and online
   shopping.
 coverImage:
-  src: /images/analises/2025-12/ecommerce-crypto.webp
+  src: >-
+    /images/articles/amazon-and-mercado-livre-the-future-of-cryptocurrency-payments-in-e-commerce.webp
   alt: >-
     Conceito visual misturando logotipos de e-commerce com moedas digitais como
     Bitcoin e Ethereum

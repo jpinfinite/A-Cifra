@@ -6,7 +6,8 @@ excerpt: >-
   With the new format of the 2025 Club World Cup, discover how Fan Tokens are
   changing the way fans interact with their teams and profit from their passion.
 coverImage:
-  src: /images/altcoins/2025-12/mundial-fan-tokens.webp
+  src: >-
+    /images/articles/2025-fifa-club-world-cup-fan-tokens-and-the-revolution-of-sports-engagement.webp
   alt: >-
     Estádio de futebol lotado com hologramas de tokens digitais flutuando sobre
     a torcida

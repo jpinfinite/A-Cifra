@@ -7,7 +7,8 @@ excerpt: >-
   herramientas esenciales que utilizan IA para prever tendencias y analizar el
   mercado cripto.
 coverImage:
-  src: /images/analises/2025-12/ferramentas-ia-crypto.webp
+  src: >-
+    /images/articles/mejores-herramientas-de-ia-para-anlisis-de-criptomonedas-en-2026.webp
   alt: >-
     Interface holográfica mostrando diversas ferramentas de análise de dados
     impulsionadas por inteligência artificial

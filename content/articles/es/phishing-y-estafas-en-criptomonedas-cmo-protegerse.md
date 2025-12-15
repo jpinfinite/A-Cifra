@@ -4,7 +4,7 @@ title: 'Phishing y Estafas en Criptomonedas: Cómo Protegerse'
 slug: phishing-y-estafas-en-criptomonedas-cmo-protegerse
 excerpt: Guía completa sobre golpes comunes en criptomonedas y cómo evitarlos.
 coverImage:
-  src: /images/027.jpg
+  src: /images/articles/phishing-y-estafas-en-criptomonedas-cmo-protegerse.webp
   alt: 'Phishing e Scams em Cripto: Como se Proteger'
   width: 1200
   height: 630

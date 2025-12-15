@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis of Illuvium and Star Atlas. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/games/2025-12/illuvium-e-star-atlas.webp
+  src: /images/articles/aaa-games-on-blockchain-the-return-of-gamefi.webp
   alt: 'Jogos AAA na Blockchain: O Retorno do GameFi'
   width: 1200
   height: 630

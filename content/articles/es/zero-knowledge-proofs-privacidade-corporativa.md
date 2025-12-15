@@ -1,13 +1,23 @@
 ---
-title: Zero-Knowledge Proofs: La Tecnología Invisible que Hará la Blockchain Privada y Corporativa
+title: >-
+  Zero-Knowledge Proofs: La Tecnología Invisible que Hará la Blockchain Privada
+  y Corporativa
 date: '2025-12-10'
 category: Tecnología
-excerpt: '¿Cómo probar que eres mayor de edad sin mostrar tu identificación? Las pruebas ZK resuelven la paradoja de la privacidad en blockchains públicas.'
-image: /images/articles/zk-proofs-technology.png
+excerpt: >-
+  ¿Cómo probar que eres mayor de edad sin mostrar tu identificación? Las pruebas
+  ZK resuelven la paradoja de la privacidad en blockchains públicas.
 author: Antigravity
 metaTitle: 'Zero-Knowledge Proofs: Privacidad y Escala en la Adopción Corporativa'
-metaDescription: 'ZK-Rollups y Pruebas de Conocimiento Cero explicados: la tecnología esencial para escalar Ethereum y traer privacidad real a las empresas.'
+metaDescription: >-
+  ZK-Rollups y Pruebas de Conocimiento Cero explicados: la tecnología esencial
+  para escalar Ethereum y traer privacidad real a las empresas.
 language: es
+coverImage:
+  src: /images/articles/zero-knowledge-proofs-privacidade-corporativa.webp
+  alt: >-
+    Zero-Knowledge Proofs: La Tecnología Invisible que Hará la Blockchain
+    Privada y Corporativa
 ---
 
 Blockchain es celebrada por su transparencia. Todo es público. Todo el mundo ve todo.

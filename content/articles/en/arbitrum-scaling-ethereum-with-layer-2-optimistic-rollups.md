@@ -6,7 +6,8 @@ excerpt: >-
   Discover how Arbitrum is revolutionizing Ethereum scalability with optimistic
   rollups and low fees.
 coverImage:
-  src: /images/009.jpg
+  src: >-
+    /images/articles/arbitrum-scaling-ethereum-with-layer-2-optimistic-rollups.webp
   alt: 'Arbitrum: Escalando Ethereum com Layer 2 Optimistic Rollups'
   width: 1200
   height: 630

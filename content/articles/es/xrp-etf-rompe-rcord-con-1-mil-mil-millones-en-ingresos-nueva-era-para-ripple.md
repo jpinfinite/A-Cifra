@@ -9,7 +9,8 @@ excerpt: >-
   sinalizando fuerte demanda institucional y posible aprobación de la SEC.
   Análisis completo del impacto.
 coverImage:
-  src: /images/028.jpg
+  src: >-
+    /images/articles/xrp-etf-rompe-rcord-con-1-mil-mil-millones-en-ingresos-nueva-era-para-ripple.webp
   alt: Gráfico mostrando entradas recordes no ETF de XRP
   width: 1200
   height: 630

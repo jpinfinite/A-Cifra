@@ -7,7 +7,8 @@ excerpt: >-
   predicciones, tecnologías y oportunidades para 2026 en este guía exclusivo A
   Cifra.
 coverImage:
-  src: /images/defi/2025-12/prediction-markets-polymarket-2026.webp
+  src: >-
+    /images/articles/mercados-de-predicciones-polymarket-2026-maximice-sus-ganancias-con-seguridad.webp
   alt: 'Prediction Markets Polymarket 2026: Maximize Seus Ganhos com Segurança'
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ import { Card, CardContent, Text, Heading } from '@/components/ui'
 import { ResponsiveImage } from '@/components/ui/ResponsiveImage'
 import { Article } from '@/types'
 import { cn } from '@/utils/cn'
-import { findBestImage } from '@/utils/imageMapper'
+import { findBestImage } from '@/utils/image/mapper'
 
 
 interface ArticleCardProps {

@@ -9,7 +9,8 @@ excerpt: >-
   Macro analysis of the TOTAL3 index and major altcoins indicating renewed
   confidence and potential for appreciation in the crypto market.
 coverImage:
-  src: /images/188.jpg
+  src: >-
+    /images/articles/total3-altcoins-confirm-structural-strength-and-prepare-ground-for-new-high-cycle.webp
   alt: TOTAL3 - Índice de Altcoins em Alta
   width: 1200
   height: 630

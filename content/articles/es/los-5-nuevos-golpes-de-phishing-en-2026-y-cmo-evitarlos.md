@@ -6,7 +6,8 @@ excerpt: >-
   Análisis completo sobre Golpes Cripto 2026. Descubra las predicciones,
   tecnologías y oportunidades para 2026 en este guía exclusivo A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/golpes-cripto-2026.webp
+  src: >-
+    /images/articles/los-5-nuevos-golpes-de-phishing-en-2026-y-cmo-evitarlos.webp
   alt: Os 5 Novos Golpes de Phishing em 2026 e Como Evitar
   width: 1200
   height: 630

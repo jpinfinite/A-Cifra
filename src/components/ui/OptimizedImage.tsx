@@ -36,7 +36,7 @@ export function OptimizedImage({
 
   // Fallback para imagem padrão se houver erro
   const fallbackSrc = '/images/general/placeholder.svg'
-  
+
   // Garantir que o src está correto
   const imageSrc = imageError ? fallbackSrc : (src.startsWith('/') ? src : `/${src}`)
 
@@ -59,7 +59,7 @@ export function OptimizedImage({
       {isLoading && (
         <div className="absolute inset-0 bg-gradient-to-br from-gray-100 to-gray-200 animate-pulse" />
       )}
-      
+
       <Image
         src={imageSrc}
         alt={alt}
@@ -69,7 +69,7 @@ export function OptimizedImage({
         sizes={sizes}
         priority={priority}
         quality={quality}
-        loading={loading}
+        loading={priority ? undefined : loading}
         className={cn(
           'transition-opacity duration-300',
           isLoading ? 'opacity-0' : 'opacity-100',

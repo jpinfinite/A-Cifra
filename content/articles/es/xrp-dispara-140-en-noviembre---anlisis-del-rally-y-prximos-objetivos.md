@@ -7,7 +7,8 @@ excerpt: >-
   rally, catalizadores fundamentales y por qué $3-5 puede ser el próximo
   objetivo.
 coverImage:
-  src: /images/xrp-price-surge-2025-styled.jpg
+  src: >-
+    /images/articles/xrp-dispara-140-en-noviembre---anlisis-del-rally-y-prximos-objetivos.webp
   alt: XRP disparando 140% em novembro 2025
   width: 1200
   height: 630

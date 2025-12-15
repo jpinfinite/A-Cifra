@@ -6,7 +6,7 @@ excerpt: >-
   Descubra o universo das Finanças Descentralizadas (DeFi) e como elas estão
   redefinindo empréstimos, investimentos e serviços financeiros globais.
 coverImage:
-  src: /images/103.jpg
+  src: /images/articles/defi-revolucionando-financas-tradicionais.webp
   alt: Ilustração de DeFi conectando pessoas ao redor do mundo
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Discover the universe of Decentralized Finance (DeFi) and how it's redefining
   global lending, investments, and financial services.
 coverImage:
-  src: /images/103.jpg
+  src: /images/articles/defi-revolutionizing-traditional-finance.webp
   alt: Ilustração de DeFi conectando pessoas ao redor do mundo
   width: 1200
   height: 630

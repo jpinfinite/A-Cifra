@@ -9,7 +9,8 @@ excerpt: >-
   Discover how Artificial Intelligence and Blockchain are converging in 2026:
   autonomous AI agents, intelligent oracles, and the Web3 + AI revolution.
 coverImage:
-  src: /images/032.jpg
+  src: >-
+    /images/articles/artificial-intelligence-and-blockchain-2026-the-convergence-that-is-changing-the-digital-world.webp
   alt: IA e Blockchain 2026
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Discover how to invest in Bitcoin and Ethereum ETFs safely, which are the best
   funds approved by the SEC and how to declare them in the Brazilian IR.
 coverImage:
-  src: /images/ETF.jpg
+  src: /images/articles/cryptocurrency-etf-how-to-invest-safely-in-2025.webp
   alt: >-
     ETF de criptomoedas representando investimento institucional em Bitcoin e
     Ethereum

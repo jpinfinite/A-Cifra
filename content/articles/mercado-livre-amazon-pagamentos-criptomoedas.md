@@ -7,7 +7,7 @@ excerpt: >-
   criptomoedas e o que isso significa para o futuro do dinheiro e das compras
   online.
 coverImage:
-  src: /images/analises/2025-12/ecommerce-crypto.webp
+  src: /images/articles/mercado-livre-amazon-pagamentos-criptomoedas.webp
   alt: >-
     Conceito visual misturando logotipos de e-commerce com moedas digitais como
     Bitcoin e Ethereum

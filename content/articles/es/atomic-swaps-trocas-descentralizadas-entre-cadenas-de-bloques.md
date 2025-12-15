@@ -6,7 +6,8 @@ excerpt: >-
   Entienda cómo los intercambios atómicos permiten transacciones sin confianza
   entre diferentes criptomonedas.
 coverImage:
-  src: /images/024.jpg
+  src: >-
+    /images/articles/atomic-swaps-trocas-descentralizadas-entre-cadenas-de-bloques.webp
   alt: 'Atomic Swaps: Trocas Descentralizadas Entre Blockchains'
   width: 1200
   height: 630

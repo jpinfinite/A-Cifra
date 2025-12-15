@@ -6,7 +6,8 @@ excerpt: >-
   Comprehensive tutorial for beginners: learn to safely buy your first
   cryptocurrency, from exchange selection to storage.
 coverImage:
-  src: /images/044.jpg
+  src: >-
+    /images/articles/how-to-buy-your-first-cryptocurrency-step-by-step-guide.webp
   alt: Como comprar criptomoedas - Tutorial passo a passo
   width: 1200
   height: 630

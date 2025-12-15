@@ -6,7 +6,8 @@ excerpt: >-
   Comprehensive analysis of Bitcoin ETF approval in the US: how they work,
   market impact, best options, and investment opportunities for 2025.
 coverImage:
-  src: /images/050.jpg
+  src: >-
+    /images/articles/bitcoin-etf-approved-in-the-us-market-impact-and-opportunities-in-2025.webp
   alt: Bitcoin ETF Aprovado EUA 2025
   width: 1200
   height: 630

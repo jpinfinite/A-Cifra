@@ -8,7 +8,8 @@ excerpt: >-
   Complete guide to generating passive income with cryptocurrencies: staking,
   lending, yield farming, and liquidity pools. Learn to earn up to 20% per year.
 coverImage:
-  src: /images/165.png
+  src: >-
+    /images/articles/passive-income-with-cryptocurrencies-in-2025-staking-lending-and-yield-farming.webp
   alt: Renda passiva com criptomoedas - Staking e Lending
   width: 1200
   height: 630

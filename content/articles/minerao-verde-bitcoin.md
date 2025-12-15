@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Mineração Verde Bitcoin. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/minerao-verde-bitcoin.webp
+  src: /images/articles/minerao-verde-bitcoin.webp
   alt: 'Mineração Sustentável: O Futuro Verde do Bitcoin'
   width: 1200
   height: 630

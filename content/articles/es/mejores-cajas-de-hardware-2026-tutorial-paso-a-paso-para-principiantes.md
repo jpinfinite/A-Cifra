@@ -9,7 +9,7 @@ excerpt: >-
   informadas.
 coverImage:
   src: >-
-    /images/educacao/2025-12/melhores-carteiras-de-hardware-2026-tutorial-passo-a-passo-para-iniciantes.webp
+    /images/articles/mejores-cajas-de-hardware-2026-tutorial-paso-a-paso-para-principiantes.webp
   alt: Ilustração conceitual sobre Melhores Carteiras de Hardware 2026
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: Graphic Patterns and Candlestick in Crypto
 slug: graphic-patterns-and-candlestick-in-crypto
 excerpt: Learn the main candlestick patterns for cryptocurrency trading.
 coverImage:
-  src: /images/crypto-trading-candlestick-styled.jpg
+  src: /images/articles/graphic-patterns-and-candlestick-in-crypto.webp
   alt: Padrões Gráficos e Candlestick em Cripto
   width: 1200
   height: 630

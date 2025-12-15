@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Empréstimos Sem Colateral DeFi. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/defi/2025-12/emprstimos-sem-colateral-defi.webp
+  src: /images/articles/emprstimos-sem-colateral-defi.webp
   alt: 'Crédito On-Chain: O Santo Graal dos Empréstimos DeFi'
   width: 1200
   height: 630

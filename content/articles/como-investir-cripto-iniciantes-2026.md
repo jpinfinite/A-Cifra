@@ -6,7 +6,7 @@ excerpt: >-
   Guia definitivo para começar a investir em criptomoedas em 2026: passo a
   passo, estratégias, segurança e erros a evitar. Perfeito para iniciantes.
 coverImage:
-  src: /images/125.jpg
+  src: /images/articles/como-investir-cripto-iniciantes-2026.webp
   alt: Guia de Investimento em Cripto 2026
   width: 1200
   height: 630

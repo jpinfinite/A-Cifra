@@ -9,7 +9,8 @@ excerpt: >-
   Bitcoin seeks recovery after touching $80,600. Complete technical analysis of
   the top 10 cryptocurrencies, support and resistance levels for the next weeks.
 coverImage:
-  src: /images/221.jpg
+  src: >-
+    /images/articles/bitcoin-tries-to-recover-at-80600-comprehensive-crypto-market-analysis-and-next-targets.webp
   alt: Bitcoin recuperação US$ 80.600 análise técnica mercado cripto
   width: 1200
   height: 630

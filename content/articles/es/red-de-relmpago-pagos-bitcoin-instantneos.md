@@ -6,7 +6,7 @@ excerpt: >-
   Descubra cómo la red Lightning está haciendo que el Bitcoin sea viable para
   pagos diarios.
 coverImage:
-  src: /images/023.jpg
+  src: /images/articles/red-de-relmpago-pagos-bitcoin-instantneos.webp
   alt: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
   width: 1200
   height: 630

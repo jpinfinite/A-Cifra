@@ -8,7 +8,7 @@ excerpt: >-
   practical tips, and everything you need to know to make informed decisions.
 coverImage:
   src: >-
-    /images/educacao/2025-12/melhores-carteiras-de-hardware-2026-tutorial-passo-a-passo-para-iniciantes.webp
+    /images/articles/best-hardware-portfolios-2026-step-by-step-tutorial-for-beginners.webp
   alt: Ilustração conceitual sobre Melhores Carteiras de Hardware 2026
   width: 1200
   height: 630

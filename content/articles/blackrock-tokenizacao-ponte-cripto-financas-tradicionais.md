@@ -7,7 +7,8 @@ excerpt: >-
   gestão. Entenda como a maior gestora do mundo está construindo a ponte entre
   TradFi e DeFi.
 coverImage:
-  src: /images/030.jpg
+  src: >-
+    /images/articles/blackrock-tokenizacao-ponte-cripto-financas-tradicionais.webp
   alt: Logo da BlackRock com símbolos de blockchain e tokenização
   width: 1200
   height: 630

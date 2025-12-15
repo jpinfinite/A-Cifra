@@ -9,7 +9,8 @@ excerpt: >-
   US$ 80,000. Discover the signs that indicate the end of the correction and the
   start of the next high.
 coverImage:
-  src: /images/220.jpg
+  src: >-
+    /images/articles/bitcoin-at-80000-why-this-could-be-the-final-fund-of-the-cycle-91-probability.webp
   alt: Bitcoin análise técnica US$ 80.000 fundo do ciclo
   width: 1200
   height: 630

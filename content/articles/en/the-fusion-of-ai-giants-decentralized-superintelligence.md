@@ -7,7 +7,8 @@ excerpt: >-
   predictions, technologies, and opportunities for 2026 in this exclusive guide
   A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/fetchai-e-ocean-protocol.webp
+  src: >-
+    /images/articles/the-fusion-of-ai-giants-decentralized-superintelligence.webp
   alt: 'A Fusão dos Gigantes de IA: Superinteligência Descentralizada'
   width: 1200
   height: 630

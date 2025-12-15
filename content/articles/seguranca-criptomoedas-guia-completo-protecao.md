@@ -9,7 +9,7 @@ excerpt: >-
   comuns, melhores práticas e como proteger seus Bitcoin, Ethereum e altcoins em
   2025.
 coverImage:
-  src: /images/seguranca-cripto-guia-2025.jpg
+  src: /images/articles/seguranca-criptomoedas-guia-completo-protecao.webp
   alt: Segurança em criptomoedas guia completo 2025
   width: 1200
   height: 630

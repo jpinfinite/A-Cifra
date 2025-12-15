@@ -7,7 +7,7 @@ excerpt: >-
   criptomoneda de forma segura, desde la elección de la exchange hasta el
   almacenamiento.
 coverImage:
-  src: /images/044.jpg
+  src: /images/articles/cmo-comprar-su-primera-criptomoneda-gua-paso-a-paso.webp
   alt: Como comprar criptomoedas - Tutorial passo a passo
   width: 1200
   height: 630

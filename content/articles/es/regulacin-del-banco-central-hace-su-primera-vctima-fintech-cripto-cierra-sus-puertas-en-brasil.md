@@ -11,7 +11,7 @@ excerpt: >-
   víctima: la fintech cripto cierra sus puertas en Brasil.
 coverImage:
   src: >-
-    /images/articles/regulamentao-do-banco-central-faz-primeira-vtima-fintech-cripto-fecha-as-portas-.jpg
+    /images/articles/regulacin-del-banco-central-hace-su-primera-vctima-fintech-cripto-cierra-sus-puertas-en-brasil.webp
   alt: >-
     Regulamentação do Banco Central faz primeira vítima: fintech cripto fecha as
     portas no Brasil

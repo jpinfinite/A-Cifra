@@ -6,7 +6,7 @@ excerpt: >-
   Entenda a perda impermanente em DeFi: o que é, como calcular, exemplos
   práticos e estratégias para minimizar esse risco ao fornecer liquidez.
 coverImage:
-  src: /images/147.jpg
+  src: /images/articles/impermanent-loss-explicado.webp
   alt: Perda Impermanente - Guia completo
   width: 1200
   height: 630

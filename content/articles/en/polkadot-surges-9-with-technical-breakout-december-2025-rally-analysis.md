@@ -7,7 +7,8 @@ excerpt: >-
   technical analysis of the movement, next targets and what to expect from the
   leading parachain in interoperability.
 coverImage:
-  src: /images/040.jpg
+  src: >-
+    /images/articles/polkadot-surges-9-with-technical-breakout-december-2025-rally-analysis.webp
   alt: Gráfico mostrando rally de 9% do Polkadot
   width: 1200
   height: 630

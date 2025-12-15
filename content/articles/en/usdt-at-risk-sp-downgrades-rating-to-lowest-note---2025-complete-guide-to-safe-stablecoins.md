@@ -10,7 +10,8 @@ excerpt: >-
   means, the risks involved, and which stablecoins are the safest to protect
   your assets in 2025.
 coverImage:
-  src: /images/usdt.jpg
+  src: >-
+    /images/articles/usdt-at-risk-sp-downgrades-rating-to-lowest-note---2025-complete-guide-to-safe-stablecoins.webp
   alt: 'Análise de stablecoins e segurança - USDT, USDC, DAI'
   width: 1200
   height: 630

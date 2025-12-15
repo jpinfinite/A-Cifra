@@ -7,7 +7,8 @@ excerpt: >-
   the need for wrapped tokens. Understand how it works and the impact of this
   revolutionary integration.
 coverImage:
-  src: /images/babylon-aave-bitcoin-lending-2025.jpg
+  src: >-
+    /images/articles/babylon-aave-native-loans-with-bitcoin-arrive-at-defi-in-2025.webp
   alt: Babylon e Aave trazem empréstimos nativos com Bitcoin ao DeFi
   width: 1200
   height: 630

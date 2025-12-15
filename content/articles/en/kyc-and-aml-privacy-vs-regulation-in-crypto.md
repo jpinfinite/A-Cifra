@@ -6,7 +6,7 @@ excerpt: >-
   Understand the debate between privacy and regulation in the world of
   cryptocurrencies.
 coverImage:
-  src: /images/055.jpg
+  src: /images/articles/kyc-and-aml-privacy-vs-regulation-in-crypto.webp
   alt: 'KYC e AML: Privacidade vs Regulação em Cripto'
   width: 1200
   height: 630

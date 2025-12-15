@@ -10,7 +10,8 @@ excerpt: >-
   Análisis fundamental completo, potencial de valorización, riesgos y
   estrategias de cartera para maximizar sus ganancias.
 coverImage:
-  src: /images/articles/top-10-altcoins-dezembro-2025.jpg
+  src: >-
+    /images/articles/top-10-monedas-alternativas-para-invertir-en-diciembre-2025-anlisis-fundamentalista-completo.webp
   alt: >-
     Smartphone displaying cryptocurrency data next to Bitcoin on a calendar
     offers finance and technology insights.

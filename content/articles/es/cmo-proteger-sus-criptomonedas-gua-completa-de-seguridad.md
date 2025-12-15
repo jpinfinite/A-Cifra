@@ -7,7 +7,8 @@ excerpt: >-
   hardware, autenticación 2FA, copia de seguridad de semillas y estrategias de
   seguridad avanzadas.
 coverImage:
-  src: /images/crypto-wallet-protection-styled.jpg
+  src: >-
+    /images/articles/cmo-proteger-sus-criptomonedas-gua-completa-de-seguridad.webp
   alt: Segurança de carteira digital com elementos de proteção blockchain
   width: 1200
   height: 630

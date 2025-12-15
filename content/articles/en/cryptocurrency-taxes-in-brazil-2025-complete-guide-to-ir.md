@@ -6,7 +6,8 @@ excerpt: >-
   Definitive guide to cryptocurrency taxes: how to declare in IR 2025, calculate
   capital gain, avoid fines and use automatic calculation tools.
 coverImage:
-  src: /images/128.png
+  src: >-
+    /images/articles/cryptocurrency-taxes-in-brazil-2025-complete-guide-to-ir.webp
   alt: Impostos sobre criptomoedas no Brasil - Guia IR 2025
   width: 1200
   height: 630

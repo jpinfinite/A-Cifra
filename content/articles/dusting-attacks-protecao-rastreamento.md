@@ -4,7 +4,7 @@ title: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
 slug: dusting-attacks-protecao-rastreamento
 excerpt: Entenda o que são dusting attacks e como se proteger contra rastreamento.
 coverImage:
-  src: /images/064.jpg
+  src: /images/articles/dusting-attacks-protecao-rastreamento.webp
   alt: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
   width: 1200
   height: 630

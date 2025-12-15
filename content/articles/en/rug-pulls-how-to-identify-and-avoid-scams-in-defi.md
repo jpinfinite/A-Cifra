@@ -4,7 +4,7 @@ title: 'Rug Pulls: How to Identify and Avoid Scams in DeFi'
 slug: rug-pulls-how-to-identify-and-avoid-scams-in-defi
 excerpt: Learn to identify rug pull signs and protect your DeFi investments.
 coverImage:
-  src: /images/091.jpg
+  src: /images/articles/rug-pulls-how-to-identify-and-avoid-scams-in-defi.webp
   alt: 'Rug Pulls: Como Identificar e Evitar Golpes em DeFi'
   width: 1200
   height: 630

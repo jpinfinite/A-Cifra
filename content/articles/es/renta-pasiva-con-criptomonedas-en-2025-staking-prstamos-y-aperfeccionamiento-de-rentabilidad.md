@@ -10,7 +10,8 @@ excerpt: >-
   lending, acuicultura de rendimiento y piscinas de liquidez. Aprende a ganar
   hasta un 20% al año.
 coverImage:
-  src: /images/165.png
+  src: >-
+    /images/articles/renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad.webp
   alt: Renda passiva com criptomoedas - Staking e Lending
   width: 1200
   height: 630

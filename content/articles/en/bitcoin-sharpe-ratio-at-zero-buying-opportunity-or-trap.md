@@ -7,7 +7,8 @@ excerpt: >-
   market funds. Understand what this means for investors and if it's time to buy
   BTC.
 coverImage:
-  src: /images/bitcoin-sharpe-ratio-analysis.jpg
+  src: >-
+    /images/articles/bitcoin-sharpe-ratio-at-zero-buying-opportunity-or-trap.webp
   alt: Gráfico mostrando o índice de Sharpe do Bitcoin em níveis baixos
   width: 1200
   height: 630

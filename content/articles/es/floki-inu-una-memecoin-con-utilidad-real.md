@@ -6,7 +6,7 @@ excerpt: >-
   Conoce al Floki Inu, la memecoin inspirada en el perro de Elon Musk que está
   construyendo un ecosistema con utilidad real: metaverso, DeFi y NFTs.
 coverImage:
-  src: /images/120.jpg
+  src: /images/articles/floki-inu-una-memecoin-con-utilidad-real.webp
   alt: Floki Inu - Memecoin com utilidade
   width: 1200
   height: 630

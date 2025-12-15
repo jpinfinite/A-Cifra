@@ -6,7 +6,7 @@ excerpt: >-
   Meet Aave, leading DeFi lending protocol: how it works, lending and borrowing,
   rates and yields.
 coverImage:
-  src: /images/029.jpg
+  src: /images/articles/aave-the-most-popular-defi-lending-protocol.webp
   alt: Aave - Protocolo DeFi
   width: 1200
   height: 630

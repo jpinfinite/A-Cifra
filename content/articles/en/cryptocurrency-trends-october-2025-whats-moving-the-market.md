@@ -7,7 +7,8 @@ excerpt: >-
   regulation, DeFi 2.0, and the opportunities shaping the future of
   cryptocurrencies.
 coverImage:
-  src: /images/035.jpg
+  src: >-
+    /images/articles/cryptocurrency-trends-october-2025-whats-moving-the-market.webp
   alt: >-
     Tendências do mercado cripto outubro 2025 - Análise completa de Bitcoin,
     Ethereum e DeFi

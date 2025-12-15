@@ -9,7 +9,8 @@ excerpt: >-
   reliable platforms, APYs, risks, and strategies to generate passive income in
   2025.
 coverImage:
-  src: /images/staking-cripto-guia-2025.jpg
+  src: >-
+    /images/articles/cryptocurrency-staking-a-2025-complete-guide---how-to-earn-passive-income-of-3-to-20-per-year.webp
   alt: Staking de criptomoedas guia completo 2025
   width: 1200
   height: 630

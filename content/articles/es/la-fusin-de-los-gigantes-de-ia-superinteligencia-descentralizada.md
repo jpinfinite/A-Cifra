@@ -6,7 +6,8 @@ excerpt: >-
   Análisis completo sobre Fetch.ai e Ocean Protocol. Descubra las predicciones,
   tecnologías e oportunidades para 2026 en este guía exclusivo A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/fetchai-e-ocean-protocol.webp
+  src: >-
+    /images/articles/la-fusin-de-los-gigantes-de-ia-superinteligencia-descentralizada.webp
   alt: 'A Fusão dos Gigantes de IA: Superinteligência Descentralizada'
   width: 1200
   height: 630

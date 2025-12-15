@@ -11,7 +11,7 @@ excerpt: >-
   de 35.000 Bitcoins em duas semanas das exchanges.
 coverImage:
   src: >-
-    /images/articles/bitcoin-perde-os-us-90000-na-abertura-dos-eua-com-sadas-de-35000-bitcoins-em-dua.jpg
+    /images/articles/bitcoin-perde-os-us-90000-na-abertura-dos-eua-com-sadas-de-35000-bitcoins-em-dua.webp
   alt: >-
     Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000
     Bitcoins em duas semanas das exchanges

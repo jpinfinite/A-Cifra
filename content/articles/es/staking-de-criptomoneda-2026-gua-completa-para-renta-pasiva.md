@@ -6,7 +6,8 @@ excerpt: >-
   Aprenda todo sobre staking de criptomonedas: mejores monedas, retornos,
   riesgos y cómo ganar ingresos pasivos con sus inversiones en 2026.
 coverImage:
-  src: /images/181.jpg
+  src: >-
+    /images/articles/staking-de-criptomoneda-2026-gua-completa-para-renta-pasiva.webp
   alt: Staking Cripto 2026
   width: 1200
   height: 630

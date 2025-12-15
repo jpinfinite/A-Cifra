@@ -6,7 +6,7 @@ excerpt: >-
   XRP explode 140% ero 2025, saindo de $0.58 para $1.40. Análise completa do
   rally, catalisadores fundamentais e por que $3-5 pode ser o próximo alvo.
 coverImage:
-  src: /images/xrp-price-surge-2025-styled.jpg
+  src: /images/articles/xrp-dispara-140-porcento-novembro-analise.webp
   alt: XRP disparando 140% em novembro 2025
   width: 1200
   height: 630

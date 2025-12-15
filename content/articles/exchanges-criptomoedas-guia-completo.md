@@ -6,7 +6,7 @@ excerpt: >-
   Entenda o que são exchanges, como funcionam CEX e DEX, e aprenda a escolher a
   melhor plataforma para investir em criptomoedas com segurança.
 coverImage:
-  src: /images/082.jpg
+  src: /images/articles/exchanges-criptomoedas-guia-completo.webp
   alt: >-
     Exchanges de criptomoedas - Guia completo para iniciantes sobre como
     escolher e usar plataformas de trading

@@ -6,7 +6,7 @@ excerpt: >-
   Descubra Bitcoin Ordinals, BRC-20, Runes e como NFTs e tokens estão
   transformando Bitcoin em 2026 além de apenas reserva de valor.
 coverImage:
-  src: /images/053.jpg
+  src: /images/articles/bitcoin-ordinals-nfts-bitcoin-2026.webp
   alt: Bitcoin Ordinals e NFTs
   width: 1200
   height: 630

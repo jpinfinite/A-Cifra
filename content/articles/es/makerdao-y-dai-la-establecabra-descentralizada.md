@@ -7,7 +7,7 @@ excerpt: >-
   descentralizada más importante del DeFi y cómo ella mantiene paridad con el
   dólar.
 coverImage:
-  src: /images/093.jpg
+  src: /images/articles/makerdao-y-dai-la-establecabra-descentralizada.webp
   alt: MakerDAO e DAI - Stablecoin descentralizada
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Understand the market cycles in cryptocurrencies and how to position yourself
   in each phase.
 coverImage:
-  src: /images/crypto-market-cycles-styled.jpg
+  src: /images/articles/cryptocurrency-market-cycles-bull-and-bear-markets.webp
   alt: 'Ciclos de Mercado Cripto: Bull e Bear Markets'
   width: 1200
   height: 630

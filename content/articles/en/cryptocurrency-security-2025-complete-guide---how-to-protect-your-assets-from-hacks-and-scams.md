@@ -10,7 +10,8 @@ excerpt: >-
   scams, best practices, and how to protect your Bitcoin, Ethereum, and altcoins
   in 2025.
 coverImage:
-  src: /images/seguranca-cripto-guia-2025.jpg
+  src: >-
+    /images/articles/cryptocurrency-security-2025-complete-guide---how-to-protect-your-assets-from-hacks-and-scams.webp
   alt: Segurança em criptomoedas guia completo 2025
   width: 1200
   height: 630

@@ -7,7 +7,7 @@ excerpt: >-
   sinalizando forte demanda institucional e possível aprovação da SEC. Análise
   completa do impacto.
 coverImage:
-  src: /images/028.jpg
+  src: /images/articles/xrp-etf-recorde-1-bilhao-entradas-dezembro-2025.webp
   alt: Gráfico mostrando entradas recordes no ETF de XRP
   width: 1200
   height: 630

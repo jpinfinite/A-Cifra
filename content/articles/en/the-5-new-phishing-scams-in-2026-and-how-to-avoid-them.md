@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis on Crypto Scams 2026. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/golpes-cripto-2026.webp
+  src: /images/articles/the-5-new-phishing-scams-in-2026-and-how-to-avoid-them.webp
   alt: Os 5 Novos Golpes de Phishing em 2026 e Como Evitar
   width: 1200
   height: 630

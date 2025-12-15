@@ -7,7 +7,8 @@ excerpt: >-
   Descubre las 7 estrategias probadas de renta pasiva para 2026, desde el
   staking hasta el yield farming.
 coverImage:
-  src: /images/defi/2025-12/renda-passiva-cripto.webp
+  src: >-
+    /images/articles/renta-pasiva-con-cripto-en-2026-7-estrategias-que-funcionan.webp
   alt: Conceito de renda passiva com criptomoedas crescendo automaticamente
   width: 1200
   height: 630

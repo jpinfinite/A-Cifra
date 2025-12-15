@@ -4,8 +4,7 @@ title: BlackRock files for listing of Ether ETF in staking.
 slug: blackrock-files-for-listing-of-ether-etf-in-staking
 excerpt: 'Summary of the news: BlackRock files for listing of Ether ETF in staking.'
 coverImage:
-  src: >-
-    /images/articles/blackrock-entra-com-pedido-de-listagem-de-etf-de-ether-em-staking.jpg
+  src: /images/articles/blackrock-files-for-listing-of-ether-etf-in-staking.webp
   alt: BlackRock entra com pedido de listagem de ETF de Ether em staking
   width: 1200
   height: 630

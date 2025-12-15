@@ -10,7 +10,7 @@ excerpt: >-
   reformas no Reino Unido.
 coverImage:
   src: >-
-    /images/articles/rgo-de-fiscalizao-pede-feedback-do-setor-cripto-sobre-reformas-no-reino-unido.jpg
+    /images/articles/rgo-de-fiscalizao-pede-feedback-do-setor-cripto-sobre-reformas-no-reino-unido.webp
   alt: >-
     Órgão de fiscalização pede feedback do setor cripto sobre reformas no Reino
     Unido

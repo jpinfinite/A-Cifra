@@ -6,7 +6,8 @@ excerpt: >-
   15% annual yield is possible in DeFi? Yes, but with strategy. Discover audited
   protocols, how to avoid rug pulls and maximize gains with safety.
 coverImage:
-  src: /images/defi/2025-12/yield-farming-seguro.webp
+  src: >-
+    /images/articles/defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth.webp
   alt: >-
     Fazenda digital conceitual com pools de liquidez e moedas crescendo como
     plantações

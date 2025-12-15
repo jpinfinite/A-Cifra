@@ -7,7 +7,8 @@ excerpt: >-
   20%. Entienda el impacto en las tarifas, velocidad y preparación para el
   upgrade Fusaka en 2026.
 coverImage:
-  src: /images/ethereum-gas-limit-upgrade-styled.jpg
+  src: >-
+    /images/articles/ethereum-aumenta-gas-limit-para-60m---lo-que-cambia-en-la-red-en-2025.webp
   alt: Ethereum aumentando gas limit para 60 milhões - upgrade de rede
   width: 1200
   height: 630

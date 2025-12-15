@@ -10,7 +10,8 @@ excerpt: >-
   protocolos principales. Guía completa 2025 con estrategias prácticas para
   generar ingresos pasivos con criptomonedas.
 coverImage:
-  src: /images/defi-guia-completo-2025.jpg
+  src: >-
+    /images/articles/defi-gua-completa-para-principiantes-2025---cmo-ganar-renta-pasiva-con-criptomonedas.webp
   alt: DeFi guia completo para iniciantes 2025
   width: 1200
   height: 630

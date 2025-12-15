@@ -6,7 +6,7 @@ excerpt: >-
   Complete comparison between cold and hot wallets for secure cryptocurrency
   storage.
 coverImage:
-  src: /images/026.jpg
+  src: /images/articles/cold-wallet-vs-hot-wallet-which-is-more-secure.webp
   alt: 'Cold Wallet vs Hot Wallet: Qual é Mais Segura?'
   width: 1200
   height: 630

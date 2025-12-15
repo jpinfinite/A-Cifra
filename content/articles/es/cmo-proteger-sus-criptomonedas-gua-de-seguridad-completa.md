@@ -7,7 +7,8 @@ excerpt: >-
   contra hackeos, estafas y pérdidas. Guía completa con carteras hardware,
   respaldos y protección digital.
 coverImage:
-  src: /images/crypto-wallet-protection-styled.jpg
+  src: >-
+    /images/articles/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa.webp
   alt: Cadeado digital protegendo criptomoedas com ícones de segurança
   width: 1200
   height: 630

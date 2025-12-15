@@ -33,18 +33,21 @@ export function Image({
     onError?.(error)
   }
 
+  // Filter loading if priority is true to avoid Next.js error
+  const { priority, loading, ...otherProps } = props
+
   return (
     <NextImage
       src={imgSrc}
       alt={alt}
+      priority={priority}
+      loading={priority ? undefined : loading}
       onError={handleError}
-      loading="lazy"
-      decoding="async"
       className={cn(
         hasError && 'grayscale',
         className
       )}
-      {...props}
+      {...otherProps}
     />
   )
 }

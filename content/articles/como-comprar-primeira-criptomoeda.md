@@ -6,7 +6,7 @@ excerpt: >-
   Tutorial completo para iniciantes: aprenda a comprar sua primeira criptomoeda
   de forma segura, desde a escolha da exchange até o armazenamento.
 coverImage:
-  src: /images/044.jpg
+  src: /images/articles/como-comprar-primeira-criptomoeda.webp
   alt: Como comprar criptomoedas - Tutorial passo a passo
   width: 1200
   height: 630

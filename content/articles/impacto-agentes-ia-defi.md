@@ -1,12 +1,24 @@
 ---
-title: "O Impacto dos Agentes de IA nas Finanças Descentralizadas (DeFi) em 2026"
-date: "2025-12-13T16:00:00.000Z"
-category: "Tecnologia"
-tags: ["ia", "defi", "agentes autonomos", "blockchain", "ethereum", "finanças"]
-excerpt: "Agentes autônomos de Inteligência Artificial estão começando a operar protocolos DeFi sozinhos. Descubra como essa convergência vai eliminar intermediários, otimizar rendimentos e criar uma nova economia máquina-a-máquina."
-coverImage: "/images/ai-agents-defi-cover.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: O Impacto dos Agentes de IA nas Finanças Descentralizadas (DeFi) em 2026
+date: '2025-12-13T16:00:00.000Z'
+category: Tecnologia
+tags:
+  - ia
+  - defi
+  - agentes autonomos
+  - blockchain
+  - ethereum
+  - finanças
+excerpt: >-
+  Agentes autônomos de Inteligência Artificial estão começando a operar
+  protocolos DeFi sozinhos. Descubra como essa convergência vai eliminar
+  intermediários, otimizar rendimentos e criar uma nova economia
+  máquina-a-máquina.
+coverImage:
+  src: /images/articles/impacto-agentes-ia-defi.webp
+  alt: O Impacto dos Agentes de IA nas Finanças Descentralizadas (DeFi) em 2026
+author: Jonatha Pereira
+status: published
 ---
 
 A convergência entre Inteligência Artificial (IA) e tecnologia Blockchain não é mais uma promessa distante; é uma realidade que está reescrevendo as regras do jogo financeiro. Enquanto o DeFi (Finanças Descentralizadas) eliminou os bancos como intermediários, os **Agentes de IA** estão prestes a eliminar a necessidade de intervenção humana na gestão complexa dessas finanças.

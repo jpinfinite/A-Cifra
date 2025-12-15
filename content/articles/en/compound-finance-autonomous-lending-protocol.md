@@ -6,7 +6,7 @@ excerpt: >-
   Get to know Compound, one of the first DeFi lending protocols: how it works,
   fees, the COMP token, and how to earn yields.
 coverImage:
-  src: /images/072.jpg
+  src: /images/articles/compound-finance-autonomous-lending-protocol.webp
   alt: Compound Finance - Lending DeFi
   width: 1200
   height: 630

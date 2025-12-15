@@ -7,7 +7,8 @@ excerpt: >-
   forecasts, technologies, and opportunities for 2026 in this exclusive guide A
   Cifra.
 coverImage:
-  src: /images/defi/2025-12/tokenizao-ttulos-pblicos.webp
+  src: >-
+    /images/articles/treasury-tokenized-titles-fixed-income-on-the-blockchain.webp
   alt: 'Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain'
   width: 1200
   height: 630

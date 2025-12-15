@@ -7,7 +7,8 @@ excerpt: >-
   Stake, sharding, and scalability improvements that promise to transform the
   DeFi ecosystem and dApps.
 coverImage:
-  src: /images/115.jpg
+  src: >-
+    /images/articles/ethereum-20-the-future-of-the-second-largest-cryptocurrency.webp
   alt: Ilustração do Ethereum 2.0 com beacon chain e shards
   width: 1200
   height: 630

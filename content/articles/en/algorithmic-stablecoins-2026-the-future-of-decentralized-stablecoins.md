@@ -6,7 +6,8 @@ excerpt: >-
   Discover algorithmic stablecoins in 2026: how they work, lessons from the UST
   collapse, new models, and the future of decentralized stablecoins.
 coverImage:
-  src: /images/033.jpg
+  src: >-
+    /images/articles/algorithmic-stablecoins-2026-the-future-of-decentralized-stablecoins.webp
   alt: Stablecoins Algorítmicas 2026
   width: 1200
   height: 630

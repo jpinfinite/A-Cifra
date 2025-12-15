@@ -7,7 +7,8 @@ excerpt: >-
   consecutivos de salidas. Análisis de lo que cambió en el mercado y impacto en
   el precio del BTC.
 coverImage:
-  src: /images/blackrock-ibit-outflows-2025-styled.jpg
+  src: >-
+    /images/articles/bitcoin-etf-spot-quebra-sequncia-con-70-millones-en-entradas.webp
   alt: ETFs Bitcoin spot quebram sequência de saídas
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Understand the cryptocurrency mining process, how miners validate transactions
   and earn rewards on the blockchain network.
 coverImage:
-  src: /images/141.jpg
+  src: /images/articles/how-does-cryptocurrency-mining-work.webp
   alt: Equipamento de mineração de criptomoedas
   width: 1200
   height: 630

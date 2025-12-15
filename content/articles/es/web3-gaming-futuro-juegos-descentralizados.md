@@ -1,15 +1,26 @@
 ---
-title: "Web3 Gaming: El Futuro de los Juegos Descentralizados y la Propiedad Digital"
-date: "2025-10-30T10:00:00.000Z"
-category: "Games"
-tags: ["web3", "games", "nft", "play-to-earn", "blockchain gaming", "metaverso"]
-excerpt: "La industria de los videojuegos está al borde de una revolución. Descubre cómo la Web3 está convirtiendo a los jugadores en propietarios, redefiniendo las economías digitales y creando el futuro del entretenimiento interactivo."
-coverImage: "/images/web3-gaming-cover-fixed.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Web3 Gaming: El Futuro de los Juegos Descentralizados y la Propiedad Digital'
+date: '2025-10-30T10:00:00.000Z'
+category: Games
+tags:
+  - web3
+  - games
+  - nft
+  - play-to-earn
+  - blockchain gaming
+  - metaverso
+excerpt: >-
+  La industria de los videojuegos está al borde de una revolución. Descubre cómo
+  la Web3 está convirtiendo a los jugadores en propietarios, redefiniendo las
+  economías digitales y creando el futuro del entretenimiento interactivo.
+coverImage:
+  src: /images/articles/web3-gaming-futuro-juegos-descentralizados.webp
+  alt: 'Web3 Gaming: El Futuro de los Juegos Descentralizados y la Propiedad Digital'
+author: Jonatha Pereira
+status: published
 alternateLanguages:
-  pt-BR: "web3-gaming-futuro-jogos-descentralizados"
-  en: "web3-gaming-future-decentralized-games"
+  pt-BR: web3-gaming-futuro-jogos-descentralizados
+  en: web3-gaming-future-decentralized-games
 ---
 
 La industria de los videojuegos, un coloso que genera más ingresos anuales que las industrias del cine y la música combinadas, se encuentra en un punto de inflexión histórico. Durante décadas, el modelo tradicional de juegos ha operado bajo una premisa centralizada: los desarrolladores y estudios mantenían el control absoluto sobre los activos del juego, las economías internas y los datos de los usuarios. Los jugadores dedicaban miles de horas y recursos financieros para adquirir ítems, skins y personajes que, en última instancia, no les pertenecían realmente. Eran meras licencias de uso, revocables en cualquier momento, atrapadas dentro de "jardines amurallados".

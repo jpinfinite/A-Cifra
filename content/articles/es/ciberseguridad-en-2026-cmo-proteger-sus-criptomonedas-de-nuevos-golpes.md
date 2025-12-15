@@ -6,7 +6,8 @@ excerpt: >-
   En 2026, los hackers están utilizando la IA para crear golpes perfectos.
   Aprenda las técnicas avanzadas de defensa para blindar su patrimonio digital.
 coverImage:
-  src: /images/seguranca/2025-12/ciberseguranca-crypto.webp
+  src: >-
+    /images/articles/ciberseguridad-en-2026-cmo-proteger-sus-criptomonedas-de-nuevos-golpes.webp
   alt: >-
     Escudo digital brilhante protegendo moedas virtuais contra ataques
     cibernéticos em um fundo escuro estilo Matrix

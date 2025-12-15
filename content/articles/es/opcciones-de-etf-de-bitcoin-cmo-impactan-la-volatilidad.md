@@ -7,7 +7,8 @@ excerpt: >-
   predicciones, tecnologías y oportunidades para 2026 en este guía exclusivo A
   Cifra.
 coverImage:
-  src: /images/bitcoin/2025-12/etfs-de-bitcoin-spot-options.webp
+  src: >-
+    /images/articles/opcciones-de-etf-de-bitcoin-cmo-impactan-la-volatilidad.webp
   alt: 'Opções de ETFs de Bitcoin: Como Impactam a Volatilidade?'
   width: 1200
   height: 630

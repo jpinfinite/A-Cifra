@@ -10,7 +10,8 @@ excerpt: >-
   Base, zkSync), ventajas, diferencias y por qué son el futuro del Ethereum en
   2025.
 coverImage:
-  src: /images/layer-2-ethereum-guia-2025.jpg
+  src: >-
+    /images/articles/capa-2-de-ethereum-gua-completa-2025---arbitrum-optimism-base-y-el-futuro-de-la-escalabilidad.webp
   alt: Layer 2 Ethereum guia completo 2025
   width: 1200
   height: 630

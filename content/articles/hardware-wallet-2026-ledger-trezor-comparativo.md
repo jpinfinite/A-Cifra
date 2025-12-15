@@ -7,7 +7,7 @@ excerpt: >-
   melhor segurança, suporte a moedas e custo-benefício em 2026. Comparativo
   completo com tabela.
 coverImage:
-  src: /images/seguranca/2025-12/hardware-wallets-2026.webp
+  src: /images/articles/hardware-wallet-2026-ledger-trezor-comparativo.webp
   alt: Comparação visual detalhada entre carteiras hardware Ledger e Trezor
   width: 1200
   height: 630

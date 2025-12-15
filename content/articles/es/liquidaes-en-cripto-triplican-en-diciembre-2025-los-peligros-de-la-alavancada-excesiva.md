@@ -10,7 +10,8 @@ excerpt: >-
   los riesgos de la alavancé y cómo proteger sus inversiones de la volatilidad
   extrema.
 coverImage:
-  src: /images/027.jpg
+  src: >-
+    /images/articles/liquidaes-en-cripto-triplican-en-diciembre-2025-los-peligros-de-la-alavancada-excesiva.webp
   alt: Gráfico mostrando liquidações massivas no mercado de criptomoedas
   width: 1200
   height: 630

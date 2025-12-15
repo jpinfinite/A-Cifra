@@ -9,7 +9,7 @@ excerpt: >-
   está pronta para reabrir suas portas nos Estados Unidos com aval regulatório e
   investimentos colossais.
 coverImage:
-  src: /images/160.jpg
+  src: /images/articles/polymarket-retorno-eua-mercados-previsao.webp
   alt: Polymarket - Retorno aos EUA
   width: 1200
   height: 630

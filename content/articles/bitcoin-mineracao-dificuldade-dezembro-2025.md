@@ -9,7 +9,7 @@ excerpt: >-
   previsões indicam aumento em dezembro enquanto hashprice atinge mínimas
   históricas. Análise completa do impacto.
 coverImage:
-  src: /images/bitcoin-mining-difficulty-2025-styled.jpg
+  src: /images/articles/bitcoin-mineracao-dificuldade-dezembro-2025.webp
   alt: Dificuldade de mineração Bitcoin e hashprice em dezembro 2025
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: 'Seed Phrase: Secure Wallet Backup and Recovery'
 slug: seed-phrase-secure-wallet-backup-and-recovery
 excerpt: Learn the importance of seed phrase and best practices for secure backup.
 coverImage:
-  src: /images/031.jpg
+  src: /images/articles/seed-phrase-secure-wallet-backup-and-recovery.webp
   alt: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
   width: 1200
   height: 630

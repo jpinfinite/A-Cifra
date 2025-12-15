@@ -7,7 +7,8 @@ excerpt: >-
   alta. Análisis completo del potencial de crecimiento para $300 y factores
   fundamentales.
 coverImage:
-  src: /images/179.webp
+  src: >-
+    /images/articles/solana-en-ascensin-cmo-la-aprobacin-del-etf-spot-puede-cambiar-el-juego.webp
   alt: Solana em ascensão com gráfico de crescimento e logo SOL
   width: 1200
   height: 630

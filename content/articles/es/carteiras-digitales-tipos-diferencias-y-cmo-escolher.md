@@ -7,7 +7,7 @@ excerpt: >-
   billeteras frías, billeteras de hardware y cómo elegir la mejor opción para
   sus necesidades.
 coverImage:
-  src: /images/062.jpg
+  src: /images/articles/carteiras-digitales-tipos-diferencias-y-cmo-escolher.webp
   alt: Diferentes tipos de carteiras digitais de criptomoedas
   width: 1200
   height: 630

@@ -10,7 +10,8 @@ excerpt: >-
   Descubra cómo funcionan, principales mercados y el impacto en la industria
   creativa.
 coverImage:
-  src: /images/nft-art-collection-unique-styled.jpg
+  src: >-
+    /images/articles/nfts-lo-que-son-y-cmo-estn-cambiando-la-forma-en-que-compramos-y-vendemos-arte-y-coleccionables.webp
   alt: Coleção de NFTs e arte digital com visual moderno
   width: 1200
   height: 630

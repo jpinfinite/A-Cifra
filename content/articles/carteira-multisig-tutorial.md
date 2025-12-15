@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Carteira Multisig Tutorial. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/carteira-multisig-tutorial.webp
+  src: /images/articles/carteira-multisig-tutorial.webp
   alt: Como Criar uma Carteira Multisig para Proteção Máxima
   width: 1200
   height: 630

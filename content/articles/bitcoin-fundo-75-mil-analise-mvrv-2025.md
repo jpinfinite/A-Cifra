@@ -9,7 +9,7 @@ excerpt: >-
   suporte crucial das Bandas MVRV. Enquanto isso, baleias acumulam e Wall Street
   projeta recuperação de 40% antes do fim do ano.
 coverImage:
-  src: /images/224.jpg
+  src: /images/articles/bitcoin-fundo-75-mil-analise-mvrv-2025.webp
   alt: Análise técnica do Bitcoin - Bandas MVRV e projeções para 2025
   width: 1200
   height: 630

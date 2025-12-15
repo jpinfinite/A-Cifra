@@ -10,7 +10,8 @@ excerpt: >-
   de criptomonedas con análisis predictivos avanzados y automatización
   inteligente.
 coverImage:
-  src: /images/educacao/2025-12/deepseek-gemini-trading.webp
+  src: >-
+    /images/articles/deepseek-e-gemini-la-nueva-era-de-la-inteligencia-artificial-en-el-trading-de-criptomonedas.webp
   alt: >-
     Ilustração futurista mostrando gráficos de trading sendo analisados por
     inteligência artificial

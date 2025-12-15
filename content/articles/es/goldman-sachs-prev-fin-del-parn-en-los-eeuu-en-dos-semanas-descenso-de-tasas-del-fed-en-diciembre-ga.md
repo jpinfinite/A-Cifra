@@ -10,7 +10,8 @@ excerpt: >-
   semanas, abriendo camino para corte de tipos de interés de la Reserva Federal
   en diciembre. Entienda los impactos económicos y las proyecciones para el PIB.
 coverImage:
-  src: /images/034.jpg
+  src: >-
+    /images/articles/goldman-sachs-prev-fin-del-parn-en-los-eeuu-en-dos-semanas-descenso-de-tasas-del-fed-en-diciembre-ga.webp
   alt: >-
     Goldman Sachs prevê fim do shutdown dos EUA e corte de juros do Federal
     Reserve

@@ -7,7 +7,7 @@ excerpt: >-
   future of the internet with decentralization, data ownership, and new
   opportunities.
 coverImage:
-  src: /images/208.jpg
+  src: /images/articles/web3-the-decentralized-internet-of-the-future.webp
   alt: 'Web3: A Internet Descentralizada do Futuro'
   width: 1200
   height: 630

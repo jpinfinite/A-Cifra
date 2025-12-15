@@ -7,7 +7,8 @@ excerpt: >-
   fundamental analysis: Solana, Cardano, Polkadot, Avalanche and more. Potential
   for appreciation.
 coverImage:
-  src: /images/melhores-altcoins-dezembro-2025.jpg
+  src: >-
+    /images/articles/top-10-best-altcoins-to-invest-in-december-2025---fundamental-analysis.webp
   alt: Top 10 melhores altcoins para investir dezembro 2025
   width: 1200
   height: 630

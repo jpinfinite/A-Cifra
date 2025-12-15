@@ -7,7 +7,7 @@ excerpt: >-
   com transações rápidas, baratas e eficientes para bancos e instituições
   financeiras.
 coverImage:
-  src: /images/212.jpg
+  src: /images/articles/xrp-pagamentos-globais.webp
   alt: 'XRP e Ripple: Revolucionando Pagamentos Globais'
   width: 1200
   height: 630

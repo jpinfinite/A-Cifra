@@ -1,4 +1,4 @@
-'mport Lent'
+import Link from 'next/link'
 
 import { Article } from '@/types'
 import { ArticleCard } from './ArticleCard'
@@ -83,7 +83,7 @@ export function RelatedArticles({
 
       {/* CTA para ver mais */}
       <div className="text-center mt-8">
-        <a
+        <Link
           href={`/categoria/${currentArticle.category.slug}`}
           className="inline-flex items-center gap-2 px-6 py-3 bg-brand-primary-blue text-white rounded-lg hover:bg-brand-medium-blue transition-colors font-medium"
         >
@@ -91,7 +91,7 @@ export function RelatedArticles({
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
           </svg>
-        </a>
+        </Link>
       </div>
     </section>
   )

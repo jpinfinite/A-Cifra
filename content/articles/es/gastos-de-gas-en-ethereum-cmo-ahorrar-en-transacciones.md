@@ -6,7 +6,7 @@ excerpt: >-
   Aprenda estrategias prácticas para reducir costos de gas en Ethereum y
   optimizar sus transacciones.
 coverImage:
-  src: /images/018.jpg
+  src: /images/articles/gastos-de-gas-en-ethereum-cmo-ahorrar-en-transacciones.webp
   alt: 'Gas Fees no Ethereum: Como Economizar em Transações'
   width: 1200
   height: 630

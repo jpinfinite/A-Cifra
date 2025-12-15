@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Regulação SEC Innovation Exemption 2026. Descubra as
   previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/regulacao/2025-12/regulao-sec-innovation-exemption-2026.webp
+  src: /images/articles/regulao-sec-innovation-exemption-2026.webp
   alt: 'Regulação SEC Innovation Exemption 2026: O Que Muda e Como Se Preparar'
   width: 1200
   height: 630

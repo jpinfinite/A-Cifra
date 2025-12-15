@@ -10,7 +10,8 @@ excerpt: >-
   histórica. A partir de 2026, el impuesto sobre cripto cae para un 20%.
   Entiende el impacto global.
 coverImage:
-  src: /images/analises/2025-12/japao-imposto-cripto.webp
+  src: >-
+    /images/articles/japn-reduce-impuesto-cripto-al-20-el-desencadenante-para-el-mercado-de-bolsa-de-2026.webp
   alt: >-
     Conceito artístico misturando elementos tradicionais japoneses (Torii, Monte
     Fuji) com gráficos de alta do Bitcoin e símbolos de porcentagem

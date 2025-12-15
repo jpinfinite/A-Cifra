@@ -10,7 +10,8 @@ excerpt: >-
   Fibonacci), proven strategies, risk management and how to avoid common
   mistakes in 2025.
 coverImage:
-  src: /images/trading-cripto-iniciantes-2025.jpg
+  src: >-
+    /images/articles/cryptocurrency-trading-for-beginners-complete-guide-2025---indicators-and-risk-management.webp
   alt: Trading de criptomoedas para iniciantes guia completo 2025
   width: 1200
   height: 630

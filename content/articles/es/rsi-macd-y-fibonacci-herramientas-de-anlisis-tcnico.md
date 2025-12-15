@@ -4,7 +4,7 @@ title: 'RSI, MACD y Fibonacci: Herramientas de Análisis Técnico'
 slug: rsi-macd-y-fibonacci-herramientas-de-anlisis-tcnico
 excerpt: 'Aprende a usar RSI, MACD y Fibonacci para análisis técnico en criptomonedas.'
 coverImage:
-  src: /images/086.jpg
+  src: /images/articles/rsi-macd-y-fibonacci-herramientas-de-anlisis-tcnico.webp
   alt: 'RSI, MACD e Fibonacci: Ferramentas de Análise Técnica'
   width: 1200
   height: 630

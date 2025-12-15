@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Stablecoins Algorítmicas Seguras. Descubra as
   previsões, tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/defi/2025-12/stablecoins-algortmicas-seguras.webp
+  src: /images/articles/stablecoins-algortmicas-seguras.webp
   alt: 'Stablecoins de Nova Geração: Aprendendo com os Erros do Passado'
   width: 1200
   height: 630

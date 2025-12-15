@@ -6,7 +6,8 @@ excerpt: >-
   Aprenda la importancia de la seed phrase y mejores prácticas para un backup
   seguro.
 coverImage:
-  src: /images/031.jpg
+  src: >-
+    /images/articles/palabra-semilla-copia-de-seguridad-y-recuperacin-segura-de-carteras.webp
   alt: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
   width: 1200
   height: 630

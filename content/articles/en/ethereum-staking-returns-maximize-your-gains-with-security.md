@@ -7,7 +7,7 @@ excerpt: >-
   practical tips, and everything you need to know to make informed decisions.
 coverImage:
   src: >-
-    /images/defi/2025-12/staking-ethereum-rendimento-maximize-seus-ganhos-com-segurana.webp
+    /images/articles/ethereum-staking-returns-maximize-your-gains-with-security.webp
   alt: Ilustração conceitual sobre Staking Ethereum rendimento
   width: 1200
   height: 630

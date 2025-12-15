@@ -4,7 +4,7 @@ title: 'Análisis En-Chain: Métricas Importantes para Inversores'
 slug: anlisis-en-chain-mtricas-importantes-para-inversores
 excerpt: Descubra las principales métricas on-chain para análisis de criptomonedas.
 coverImage:
-  src: /images/crypto-market-analysis-new-styled.jpg
+  src: /images/articles/anlisis-en-chain-mtricas-importantes-para-inversores.webp
   alt: 'Análise On-Chain: Métricas Importantes para Investidores'
   width: 1200
   height: 630

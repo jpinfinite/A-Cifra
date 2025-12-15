@@ -4,7 +4,7 @@ title: 'Volume and Liquidity: Importance for Crypto Trading'
 slug: volume-and-liquidity-importance-for-crypto-trading
 excerpt: Understand why volume and liquidity are crucial for cryptocurrency trading.
 coverImage:
-  src: /images/crypto-trading-volume-styled.jpg
+  src: /images/articles/volume-and-liquidity-importance-for-crypto-trading.webp
   alt: 'Volume e Liquidez: Importância para Trading Cripto'
   width: 1200
   height: 630

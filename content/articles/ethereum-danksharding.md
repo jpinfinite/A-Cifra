@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Ethereum Danksharding. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/ethereum/2025-12/ethereum-danksharding.webp
+  src: /images/articles/ethereum-danksharding.webp
   alt: 'Danksharding: A Atualização que Vai Escalar o Ethereum para Milhões'
   width: 1200
   height: 630

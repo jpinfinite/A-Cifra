@@ -1,12 +1,22 @@
 ---
-title: 'O Futuro dos Agentes de IA: Quando a Inteligência Artificial Ganha uma Carteira Crypto'
+title: >-
+  O Futuro dos Agentes de IA: Quando a Inteligência Artificial Ganha uma
+  Carteira Crypto
 date: '2025-12-10'
 category: Inteligência Artificial
-excerpt: 'A próxima fase da IA não é apenas criar textos, é executar tarefas econômicas. Descubra como Agentes de IA On-Chain operarão a economia de 2030.'
-image: /images/articles/ai-agents-blockchain.png
+excerpt: >-
+  A próxima fase da IA não é apenas criar textos, é executar tarefas econômicas.
+  Descubra como Agentes de IA On-Chain operarão a economia de 2030.
 author: Antigravity
 metaTitle: 'Agentes de IA e Blockchain: A Revolução da Economia M2M'
-metaDescription: 'Uma análise profunda sobre a convergência de IA e Cripto: como agentes autônomos com carteiras digitais vão transformar finanças e a economia.'
+metaDescription: >-
+  Uma análise profunda sobre a convergência de IA e Cripto: como agentes
+  autônomos com carteiras digitais vão transformar finanças e a economia.
+coverImage:
+  src: /images/articles/agentes-ia-blockchain-futuro-crypto.webp
+  alt: >-
+    O Futuro dos Agentes de IA: Quando a Inteligência Artificial Ganha uma
+    Carteira Crypto
 ---
 
 Imagine o seguinte cenário: é 2030. Você está dormindo. Enquanto isso, um software pessoal seu — uma Inteligência Artificial — detecta uma oportunidade de arbitragem entre duas corretoras descentralizadas na Ásia. Ele não te acorda. Ele não pede permissão. Ele usa os fundos alocados na carteira digital dele, executa a operação, lucra 0.5%, paga as taxas de gás e registra tudo em um relatório matinal.

@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Tokenização Títulos Públicos. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/defi/2025-12/tokenizao-ttulos-pblicos.webp
+  src: /images/articles/tokenizao-ttulos-pblicos.webp
   alt: 'Títulos do Tesouro Tokenizados: Renda Fixa na Blockchain'
   width: 1200
   height: 630

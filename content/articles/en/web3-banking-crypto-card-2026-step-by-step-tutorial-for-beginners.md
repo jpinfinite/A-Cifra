@@ -6,7 +6,8 @@ excerpt: >-
   In-depth analysis on Web3 Banking Crypto Card 2026. Discover predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/web3-banking-carto-cripto-2026.webp
+  src: >-
+    /images/articles/web3-banking-crypto-card-2026-step-by-step-tutorial-for-beginners.webp
   alt: 'Web3 Banking Cartão Cripto 2026: Tutorial Passo a Passo para Iniciantes'
   width: 1200
   height: 630

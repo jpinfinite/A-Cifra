@@ -6,7 +6,7 @@ excerpt: >-
   Entenda a importância de auditorias de segurança em smart contracts e como
   funcionam.
 coverImage:
-  src: /images/048.jpg
+  src: /images/articles/smart-contract-audits-importancia.webp
   alt: 'Auditorias de Smart Contracts: Por Que São Essenciais'
   width: 1200
   height: 630

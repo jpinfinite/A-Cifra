@@ -7,7 +7,8 @@ excerpt: >-
   R$ 1 million in 2025. Optimistic, realistic, and pessimistic scenarios with
   concrete data.
 coverImage:
-  src: /images/223.jpg
+  src: >-
+    /images/articles/will-bitcoin-reach-r-1-million-in-2025-comprehensive-and-realistic-analysis.webp
   alt: >-
     Bitcoin crescimento - Análise completa 2025 com árvore de crescimento e
     gráficos

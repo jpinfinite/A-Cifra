@@ -7,7 +7,7 @@ excerpt: >-
   Conheça a trajetória da mulher mais influente do mercado cripto e o que muda
   na maior exchange do mundo.
 coverImage:
-  src: /images/yi-he-binance-ceo-2025.jpg
+  src: /images/articles/yi-he-co-ceo-binance-mulher-poderosa-cripto.webp
   alt: Yi He nomeada Co-CEO da Binance - Mulher mais poderosa do cripto
   width: 1200
   height: 630

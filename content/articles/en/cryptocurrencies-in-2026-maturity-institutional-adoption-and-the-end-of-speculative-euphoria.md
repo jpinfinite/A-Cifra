@@ -10,7 +10,8 @@ excerpt: >-
   maturity, institutional adoption, and concrete technological advancements.
   In-depth analysis of the trends that will shape the future.
 coverImage:
-  src: /images/083.jpg
+  src: >-
+    /images/articles/cryptocurrencies-in-2026-maturity-institutional-adoption-and-the-end-of-speculative-euphoria.webp
   alt: Análise do mercado de criptomoedas em 2026 - Tendências e previsões
   width: 1200
   height: 630

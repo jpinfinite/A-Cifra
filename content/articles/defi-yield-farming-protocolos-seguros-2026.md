@@ -6,7 +6,7 @@ excerpt: >-
   Renda de 15% ao ano é possível no DeFi? Sim, mas com estratégia. Descubra os
   protocolos auditados, como evitar rug pulls e maximizar ganhos com segurança.
 coverImage:
-  src: /images/defi/2025-12/yield-farming-seguro.webp
+  src: /images/articles/defi-yield-farming-protocolos-seguros-2026.webp
   alt: >-
     Fazenda digital conceitual com pools de liquidez e moedas crescendo como
     plantações

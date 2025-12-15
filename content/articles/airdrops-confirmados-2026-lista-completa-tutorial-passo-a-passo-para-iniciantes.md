@@ -11,7 +11,7 @@ excerpt: >-
   dicas práticas e tudo que você precisa saber para tomar decisões informadas.
 coverImage:
   src: >-
-    /images/educacao/2025-12/airdrops-confirmados-2026-lista-completa-tutorial-passo-a-passo-para-iniciantes.webp
+    /images/articles/airdrops-confirmados-2026-lista-completa-tutorial-passo-a-passo-para-iniciantes.webp
   alt: Ilustração conceitual sobre Airdrops Confirmados 2026 Lista Completa
   width: 1200
   height: 630

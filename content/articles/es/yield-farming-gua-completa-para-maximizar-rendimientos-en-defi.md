@@ -6,7 +6,8 @@ excerpt: >-
   Aprenda todo sobre la agricultura de rendimiento: qué es, cómo funciona,
   mejores estrategias, riesgos y cómo empezar a ganar ingresos pasivos en DeFi.
 coverImage:
-  src: /images/214.jpg
+  src: >-
+    /images/articles/yield-farming-gua-completa-para-maximizar-rendimientos-en-defi.webp
   alt: Yield Farming - Guia completo
   width: 1200
   height: 630

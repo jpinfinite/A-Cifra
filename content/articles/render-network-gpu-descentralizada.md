@@ -6,7 +6,7 @@ excerpt: >-
   Descubra como Render Network está democratizando acesso a poder computacional
   GPU através de blockchain, revolucionando indústrias criativas e IA.
 coverImage:
-  src: /images/015.jpg
+  src: /images/articles/render-network-gpu-descentralizada.webp
   alt: 'Render Network (RNDR): Renderização GPU Descentralizada'
   width: 1200
   height: 630

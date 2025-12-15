@@ -6,7 +6,7 @@ excerpt: >-
   Complete cryptocurrency staking guide: how it works, which coins staking,
   recommended platforms, risks, and strategies to maximize passive earnings.
 coverImage:
-  src: /images/182.jpg
+  src: /images/articles/cryptocurrency-staking-step-by-step-to-earn-rewards.webp
   alt: Ilustração de staking com moedas gerando recompensas passivas
   width: 1200
   height: 630

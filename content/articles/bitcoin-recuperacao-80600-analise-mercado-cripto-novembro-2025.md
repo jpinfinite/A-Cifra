@@ -9,7 +9,8 @@ excerpt: >-
   10 principais criptomoedas, níveis de suporte e resistência para as próximas
   semanas.
 coverImage:
-  src: /images/221.jpg
+  src: >-
+    /images/articles/bitcoin-recuperacao-80600-analise-mercado-cripto-novembro-2025.webp
   alt: Bitcoin recuperação US$ 80.600 análise técnica mercado cripto
   width: 1200
   height: 630

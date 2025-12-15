@@ -4,7 +4,7 @@ title: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
 slug: seed-phrase-backup-recuperacao-carteira
 excerpt: Aprenda a importância da seed phrase e melhores práticas para backup seguro.
 coverImage:
-  src: /images/031.jpg
+  src: /images/articles/seed-phrase-backup-recuperacao-carteira.webp
   alt: 'Seed Phrase: Backup e Recuperação Segura de Carteiras'
   width: 1200
   height: 630

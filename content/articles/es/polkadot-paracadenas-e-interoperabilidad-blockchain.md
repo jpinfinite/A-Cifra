@@ -6,7 +6,7 @@ excerpt: >-
   Descubra cómo el Polkadot está revolucionando la interoperabilidad blockchain
   con parachains, relay chain y el token DOT.
 coverImage:
-  src: /images/159.jpg
+  src: /images/articles/polkadot-paracadenas-e-interoperabilidad-blockchain.webp
   alt: Polkadot - Parachains e Interoperabilidade
   width: 1200
   height: 630

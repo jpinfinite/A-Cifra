@@ -9,7 +9,8 @@ excerpt: >-
   network upgrades, increasing staking, and ETFs. Discover the next targets and
   strategies.
 coverImage:
-  src: /images/ethereum-4k-analise-2025.jpg
+  src: >-
+    /images/articles/ethereum-bound-for-4000-comprehensive-analysis-and-catalysts-for-december-2025.webp
   alt: Ethereum rumo aos $4.000 - Análise completa dezembro 2025
   width: 1200
   height: 630

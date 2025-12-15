@@ -10,7 +10,8 @@ excerpt: >-
   mejor seguridad y más criptomonedas en 2026. Comparativo definitivo con tabla
   de tasas actualizada.
 coverImage:
-  src: /images/educacao/2025-12/exchanges-comparacao-2026.webp
+  src: >-
+    /images/articles/mejores-intermediarios-de-criptomonedas-para-2026-comparativa-completa-de-tasas-y-seguridad.webp
   alt: >-
     Interface comparativa mostrando logos das principais exchanges de
     criptomoedas com gráficos de taxas

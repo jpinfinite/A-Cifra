@@ -6,7 +6,7 @@ excerpt: >-
   Descubra como Inteligência Artificial e Blockchain estão convergindo em 2026:
   agentes de IA autônomos, oráculos inteligentes, e a revolução da Web3 + AI.
 coverImage:
-  src: /images/032.jpg
+  src: /images/articles/inteligencia-artificial-blockchain-2026.webp
   alt: IA e Blockchain 2026
   width: 1200
   height: 630

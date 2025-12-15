@@ -7,7 +7,8 @@ excerpt: >-
   technologies, and opportunities for 2026 in this exclusive guide known as The
   Cipher.
 coverImage:
-  src: /images/ethereum/2025-12/ethereum-staking-lquido.webp
+  src: >-
+    /images/articles/lido-and-rocket-pool-the-state-of-liquid-staking-in-2026.webp
   alt: 'Lido e Rocket Pool: O Estado do Staking Líquido em 2026'
   width: 1200
   height: 630

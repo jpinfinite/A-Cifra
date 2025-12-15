@@ -10,7 +10,8 @@ excerpt: >-
   enterprise GPUs, $147 million in annual revenue and $344 million in
   investment.
 coverImage:
-  src: /images/aethir-gpu-depin-infrastructure.jpg
+  src: >-
+    /images/articles/aethir-leads-decentralized-gpu-computing-revolution-with-147-million-in-revenue.webp
   alt: Rede descentralizada de GPUs da Aethir para computação em nuvem
   width: 1200
   height: 630

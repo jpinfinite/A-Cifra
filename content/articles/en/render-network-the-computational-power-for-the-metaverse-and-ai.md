@@ -6,7 +6,8 @@ excerpt: >-
   Comprehensive analysis on Render Network GPU. Discover the predictions,
   technologies, and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/altcoins/2025-12/render-network-gpu.webp
+  src: >-
+    /images/articles/render-network-the-computational-power-for-the-metaverse-and-ai.webp
   alt: 'Render Network: O Poder Computacional para o Metaverso e IA'
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Understand the importance of security audits in smart contracts and how they
   work.
 coverImage:
-  src: /images/048.jpg
+  src: /images/articles/smart-contract-audits-why-they-are-essential.webp
   alt: 'Auditorias de Smart Contracts: Por Que São Essenciais'
   width: 1200
   height: 630

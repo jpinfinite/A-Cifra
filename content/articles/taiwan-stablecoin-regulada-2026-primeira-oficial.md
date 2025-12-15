@@ -7,7 +7,7 @@ excerpt: >-
   tornando-se pioneira na Ásia. Entenda o impacto para o mercado cripto e adoção
   institucional.
 coverImage:
-  src: /images/029.jpg
+  src: /images/articles/taiwan-stablecoin-regulada-2026-primeira-oficial.webp
   alt: Bandeira de Taiwan com símbolos de stablecoin e blockchain
   width: 1200
   height: 630

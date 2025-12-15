@@ -8,7 +8,8 @@ excerpt: >-
   ha llegado el "momento iPhone" de las finanzas descentralizadas. Revisión
   completa.
 coverImage:
-  src: /images/articles/aave-app-momento-iphone-defi.jpg
+  src: >-
+    /images/articles/aave-app-el-momento-iphone-del-defi-ha-llegado---revisin-completa-2025.webp
   alt: >-
     Two professionals analyzing data and graphs with smartphones on a white
     table.

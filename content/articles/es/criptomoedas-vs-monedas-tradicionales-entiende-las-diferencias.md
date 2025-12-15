@@ -6,7 +6,8 @@ excerpt: >-
   Descubra las principales diferencias entre criptomonedas y monedas
   tradicionales, ventajas, desventajas y el futuro del dinero digital.
 coverImage:
-  src: /images/077.jpg
+  src: >-
+    /images/articles/criptomoedas-vs-monedas-tradicionales-entiende-las-diferencias.webp
   alt: Comparação entre criptomoedas e moedas tradicionais
   width: 1200
   height: 630

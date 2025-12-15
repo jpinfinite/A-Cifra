@@ -9,7 +9,7 @@ excerpt: >-
   para um novo ciclo de crescimento. Analisamos os fatores que impulsionam essa
   tendência.
 coverImage:
-  src: /images/049.jpg
+  src: /images/articles/renascimento-bitcoin-novo-ciclo-crescimento-2025.webp
   alt: >-
     Bitcoin conectado globalmente - representando o renascimento e adoção
     mundial

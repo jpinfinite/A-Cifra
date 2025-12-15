@@ -7,7 +7,8 @@ excerpt: >-
   Comprehensive analysis of the factors leading to the decline, impact on
   investors and what to expect for the next months.
 coverImage:
-  src: /images/056.jpg
+  src: >-
+    /images/articles/bitcoin-in-negative-territory-for-the-year-market-analysis-and-outlook.webp
   alt: Bitcoin em queda - Análise do mercado baixista
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Discover how Polygon is revolutionizing Ethereum scalability with zkEVM,
   sidechains and the MATIC token.
 coverImage:
-  src: /images/134.jpg
+  src: /images/articles/polygon-zkevm-and-scalability-for-ethereum.webp
   alt: Polygon zkEVM - Escalabilidade Ethereum
   width: 1200
   height: 630

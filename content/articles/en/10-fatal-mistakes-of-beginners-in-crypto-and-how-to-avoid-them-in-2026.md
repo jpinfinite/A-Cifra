@@ -7,7 +7,8 @@ excerpt: >-
   beginners make in cryptocurrencies and how to avoid them to protect your
   assets.
 coverImage:
-  src: /images/educacao/2025-12/erros-cripto-iniciantes.webp
+  src: >-
+    /images/articles/10-fatal-mistakes-of-beginners-in-crypto-and-how-to-avoid-them-in-2026.webp
   alt: Ilustração conceitual de armadilhas e erros comuns em criptomoedas
   width: 1200
   height: 630

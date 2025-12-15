@@ -6,7 +6,7 @@ excerpt: >-
   Guia completo sobre smart contracts, desde o básico até aplicações práticas no
   mundo real.
 coverImage:
-  src: /images/020.jpg
+  src: /images/articles/smart-contracts-funcionamento-casos-uso.webp
   alt: 'Smart Contracts: Como Funcionam e Casos de Uso Reais'
   width: 1200
   height: 630

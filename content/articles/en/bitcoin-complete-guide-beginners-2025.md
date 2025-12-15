@@ -6,7 +6,7 @@ excerpt: >-
   Everything you need to know about Bitcoin to start your cryptocurrency
   investment journey.
 coverImage:
-  src: /images/bitcoin/bitcoin-guide.jpg
+  src: /images/articles/bitcoin-complete-guide-beginners-2025.webp
   alt: Bitcoin - Beginners Guide
   width: 1200
   height: 630

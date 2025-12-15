@@ -10,7 +10,8 @@ excerpt: >-
   industries. Discover how it works, its applications, and its impact on the
   future.
 coverImage:
-  src: /images/095.jpg
+  src: >-
+    /images/articles/unveiling-the-power-of-blockchain-a-revolutionary-technology-thats-changing-the-world.webp
   alt: Representação visual da tecnologia blockchain com blocos conectados
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Descubra como as stablecoins mantêm seu valor estável, quais são as mais
   seguras e como usá-las para proteger seu patrimônio da volatilidade cripto.
 coverImage:
-  src: /images/227.jpg
+  src: /images/articles/como-funcionam-stablecoins-guia-completo-2025.webp
   alt: >-
     Stablecoins e moedas fiduciárias representando estabilidade no mercado
     cripto

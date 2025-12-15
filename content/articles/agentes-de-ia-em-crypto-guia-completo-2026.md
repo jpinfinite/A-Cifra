@@ -6,7 +6,7 @@ excerpt: >-
   Agentes de IA em Crypto. Guia completo com análise detalhada, dicas práticas e
   tudo que você precisa saber para tomar decisões informadas.
 coverImage:
-  src: /images/analises/2025-12/agentes-de-ia-em-crypto-guia-completo-2026.webp
+  src: /images/articles/agentes-de-ia-em-crypto-guia-completo-2026.webp
   alt: Ilustração conceitual sobre Agentes de IA em Crypto
   width: 1200
   height: 630

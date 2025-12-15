@@ -1,13 +1,24 @@
 ---
-title: El Futuro de los Agentes de IA: Cuando la Inteligencia Artificial Obtiene una Billetera Crypto
+title: >-
+  El Futuro de los Agentes de IA: Cuando la Inteligencia Artificial Obtiene una
+  Billetera Crypto
 date: '2025-12-10'
 category: Inteligencia Artificial
-excerpt: 'La próxima fase de la IA no es solo chatear contigo. Es realizar tareas económicas autónomas. Entiende cómo los Agentes de IA se están convirtiendo en los nuevos usuarios de blockchain.'
-image: /images/articles/ai-agents-blockchain.png
+excerpt: >-
+  La próxima fase de la IA no es solo chatear contigo. Es realizar tareas
+  económicas autónomas. Entiende cómo los Agentes de IA se están convirtiendo en
+  los nuevos usuarios de blockchain.
 author: Antigravity
 metaTitle: 'Agentes de IA y Blockchain: La Nueva Frontera de la Automatización Económica'
-metaDescription: 'La intersección entre IA y Crypto crea Agentes Autónomos que pueden poseer activos, comerciar y ejecutar servicios sin intervención humana.'
+metaDescription: >-
+  La intersección entre IA y Crypto crea Agentes Autónomos que pueden poseer
+  activos, comerciar y ejecutar servicios sin intervención humana.
 language: es
+coverImage:
+  src: /images/articles/agentes-ia-blockchain-futuro-crypto.webp
+  alt: >-
+    El Futuro de los Agentes de IA: Cuando la Inteligencia Artificial Obtiene
+    una Billetera Crypto
 ---
 
 Hasta ahora, la Inteligencia Artificial (IA) ha sido una herramienta pasiva: haces una pregunta, responde. Pides una imagen, la dibuja. Pero, ¿qué sucede cuando la IA gana **autonomía financiera**?

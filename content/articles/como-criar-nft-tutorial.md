@@ -6,7 +6,7 @@ excerpt: >-
   Tutorial passo a passo para criar, mintar e vender seu primeiro NFT no
   OpenSea: da criação da arte até a primeira venda.
 coverImage:
-  src: /images/143.jpg
+  src: /images/articles/como-criar-nft-tutorial.webp
   alt: Como criar NFT - Tutorial completo
   width: 1200
   height: 630

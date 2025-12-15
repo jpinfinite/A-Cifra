@@ -11,7 +11,8 @@ excerpt: >-
   idéntica a una institución bancaria tradicional. El 'momento iPhone' de las
   finanzas descentralizadas ha llegado.
 coverImage:
-  src: /images/028.jpg
+  src: >-
+    /images/articles/aave-lanza-aplicacin-que-parece-un-banco-real-la-revolucin-que-puede-llevar-defi-a-1-mil-millones-de.webp
   alt: Aave App - Primeiro aplicativo DeFi com experiência bancária tradicional
   width: 1200
   height: 630

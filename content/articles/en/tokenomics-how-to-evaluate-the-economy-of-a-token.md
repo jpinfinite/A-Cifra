@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive guide to analyze cryptocurrency project tokenomics and
   economics.
 coverImage:
-  src: /images/crypto-tokenomics-economy-styled.jpg
+  src: /images/articles/tokenomics-how-to-evaluate-the-economy-of-a-token.webp
   alt: 'Tokenomics: Como Avaliar a Economia de um Token'
   width: 1200
   height: 630

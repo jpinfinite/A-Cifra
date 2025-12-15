@@ -9,7 +9,8 @@ excerpt: >-
   NFTs are revolutionizing the digital art and collectibles market. Discover how
   they work, main markets, and their impact on the creative industry.
 coverImage:
-  src: /images/nft-art-collection-unique-styled.jpg
+  src: >-
+    /images/articles/nfts-what-they-are-and-how-they-are-changing-the-way-we-buy-and-sell-art-and-collectibles.webp
   alt: Coleção de NFTs e arte digital com visual moderno
   width: 1200
   height: 630

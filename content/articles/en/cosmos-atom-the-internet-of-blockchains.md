@@ -6,7 +6,7 @@ excerpt: >-
   Discover how the Cosmos is creating an interconnected ecosystem of independent
   blockchains through the IBC protocol and the Cosmos Hub.
 coverImage:
-  src: /images/074.jpg
+  src: /images/articles/cosmos-atom-the-internet-of-blockchains.webp
   alt: 'Cosmos (ATOM): A Internet das Blockchains'
   width: 1200
   height: 630

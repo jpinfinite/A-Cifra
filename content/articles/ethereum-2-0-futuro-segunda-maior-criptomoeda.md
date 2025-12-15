@@ -7,7 +7,7 @@ excerpt: >-
   shardings e melhorias de escalabilidade que prometem transformar o ecossistema
   DeFi e dApps.
 coverImage:
-  src: /images/115.jpg
+  src: /images/articles/ethereum-2-0-futuro-segunda-maior-criptomoeda.webp
   alt: Ilustração do Ethereum 2.0 com beacon chain e shards
   width: 1200
   height: 630

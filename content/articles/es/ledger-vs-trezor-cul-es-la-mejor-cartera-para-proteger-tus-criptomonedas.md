@@ -7,7 +7,8 @@ excerpt: >-
   Ledger y Trezor para ayudarte a elegir la fortaleza digital ideal para tus
   Bitcoins.
 coverImage:
-  src: /images/seguranca/2025-12/ledger-vs-trezor.webp
+  src: >-
+    /images/articles/ledger-vs-trezor-cul-es-la-mejor-cartera-para-proteger-tus-criptomonedas.webp
   alt: >-
     Comparativo visual lado a lado de uma carteira Ledger e uma carteira Trezor
     sobre uma mesa tecnológica

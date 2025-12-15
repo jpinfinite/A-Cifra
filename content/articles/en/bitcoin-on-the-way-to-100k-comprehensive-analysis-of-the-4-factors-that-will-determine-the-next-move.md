@@ -10,7 +10,8 @@ excerpt: >-
   correction? Complete technical and fundamental analysis of the 4 key factors
   that will determine the next major BTC movement.
 coverImage:
-  src: /images/041.jpg
+  src: >-
+    /images/articles/bitcoin-on-the-way-to-100k-comprehensive-analysis-of-the-4-factors-that-will-determine-the-next-move.webp
   alt: Bitcoin análise técnica - Caminho para $100.000
   width: 1200
   height: 630

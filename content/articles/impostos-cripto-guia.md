@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Impostos Cripto Guia. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/impostos-cripto-guia.webp
+  src: /images/articles/impostos-cripto-guia.webp
   alt: Guia Definitivo de Impostos para Criptoativos 2026
   width: 1200
   height: 630

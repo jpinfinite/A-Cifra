@@ -9,7 +9,7 @@ excerpt: >-
   tributação, exchanges reguladas, impacto no mercado e futuro da legislação em
   2025.
 coverImage:
-  src: /images/regulacao-cripto-brasil-2025.jpg
+  src: /images/articles/regulacao-cripto-brasil-2025-cenario-completo.webp
   alt: Regulação de criptomoedas no Brasil 2025
   width: 1200
   height: 630

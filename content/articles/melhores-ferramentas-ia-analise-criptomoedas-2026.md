@@ -6,7 +6,7 @@ excerpt: >-
   Potencialize seus lucros com Inteligência Artificial. Conheça as ferramentas
   essenciais que usam IA para prever tendências e analisar o mercado cripto.
 coverImage:
-  src: /images/analises/2025-12/ferramentas-ia-crypto.webp
+  src: /images/articles/melhores-ferramentas-ia-analise-criptomoedas-2026.webp
   alt: >-
     Interface holográfica mostrando diversas ferramentas de análise de dados
     impulsionadas por inteligência artificial

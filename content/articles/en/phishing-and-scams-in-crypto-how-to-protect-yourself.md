@@ -4,7 +4,7 @@ title: 'Phishing and Scams in Crypto: How to Protect Yourself'
 slug: phishing-and-scams-in-crypto-how-to-protect-yourself
 excerpt: Complete guide to common cryptocurrency scams and how to avoid them.
 coverImage:
-  src: /images/027.jpg
+  src: /images/articles/phishing-and-scams-in-crypto-how-to-protect-yourself.webp
   alt: 'Phishing e Scams em Cripto: Como se Proteger'
   width: 1200
   height: 630

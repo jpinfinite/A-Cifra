@@ -7,7 +7,8 @@ excerpt: >-
   Thanksgiving. Technical analysis shows key levels and what to expect in the
   next few hours.
 coverImage:
-  src: /images/bitcoin-95k-rally-2025-styled.jpg
+  src: >-
+    /images/articles/bitcoin-seeks-to-break-95k-on-thanksgiving-2025---rally-analysis.webp
   alt: Bitcoin buscando romper $95.000 no Thanksgiving 2025
   width: 1200
   height: 630

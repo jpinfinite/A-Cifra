@@ -7,7 +7,8 @@ excerpt: >-
   gaming, RWAs, utilidad real, mejores proyectos y cómo invertir en NFTs con
   estrategia.
 coverImage:
-  src: /images/nfts-2025-tendencias.jpg
+  src: >-
+    /images/articles/nfts-en-2025-tendencias-utilidad-real-y-cmo-invertir-con-inteligencia.webp
   alt: NFTs 2025 tendências e utilidade real
   width: 1200
   height: 630

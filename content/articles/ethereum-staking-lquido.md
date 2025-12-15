@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre Ethereum Staking Líquido. Descubra as previsões,
   tecnologias e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/ethereum/2025-12/ethereum-staking-lquido.webp
+  src: /images/articles/ethereum-staking-lquido.webp
   alt: 'Lido e Rocket Pool: O Estado do Staking Líquido em 2026'
   width: 1200
   height: 630

@@ -7,8 +7,7 @@ excerpt: >-
   analysis, practical tips, and everything you need to know to make informed
   decisions.
 coverImage:
-  src: >-
-    /images/analises/2025-12/solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026.webp
+  src: /images/articles/solana-vs-ethereum-2026-war-of-l1s-complete-guide-2026.webp
   alt: Ilustração conceitual sobre Solana vs Ethereum 2026 Guerra das L1s
   width: 1200
   height: 630

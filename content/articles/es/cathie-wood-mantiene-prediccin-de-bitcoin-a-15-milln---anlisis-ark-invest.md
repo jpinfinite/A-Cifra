@@ -7,7 +7,8 @@ excerpt: >-
   explica por qué $300 mil millones en liquidez pueden impulsar cripto y IA.
   Análisis completo de la tesis bullish más osada del mercado.
 coverImage:
-  src: /images/cathie-wood-bitcoin-prediction-styled.jpg
+  src: >-
+    /images/articles/cathie-wood-mantiene-prediccin-de-bitcoin-a-15-milln---anlisis-ark-invest.webp
   alt: Cathie Wood e previsão de Bitcoin a 1.5 milhão de dólares
   width: 1200
   height: 630

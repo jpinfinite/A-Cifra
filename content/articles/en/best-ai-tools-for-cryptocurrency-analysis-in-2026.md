@@ -6,7 +6,7 @@ excerpt: >-
   Maximize your profits with Artificial Intelligence. Discover the essential
   tools that use AI to predict trends and analyze the crypto market.
 coverImage:
-  src: /images/analises/2025-12/ferramentas-ia-crypto.webp
+  src: /images/articles/best-ai-tools-for-cryptocurrency-analysis-in-2026.webp
   alt: >-
     Interface holográfica mostrando diversas ferramentas de análise de dados
     impulsionadas por inteligência artificial

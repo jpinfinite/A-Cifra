@@ -9,7 +9,7 @@ excerpt: >-
   fundamentalista completa: Solana, Cardano, Polkadot, Avalanche e mais.
   Potencial de valorização.
 coverImage:
-  src: /images/melhores-altcoins-dezembro-2025.jpg
+  src: /images/articles/melhores-altcoins-investir-dezembro-2025.webp
   alt: Top 10 melhores altcoins para investir dezembro 2025
   width: 1200
   height: 630

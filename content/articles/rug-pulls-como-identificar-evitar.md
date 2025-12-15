@@ -6,7 +6,7 @@ excerpt: >-
   Aprenda a identificar sinais de rug pulls e proteger seus investimentos em
   DeFi.
 coverImage:
-  src: /images/091.jpg
+  src: /images/articles/rug-pulls-como-identificar-evitar.webp
   alt: 'Rug Pulls: Como Identificar e Evitar Golpes em DeFi'
   width: 1200
   height: 630

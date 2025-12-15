@@ -6,7 +6,7 @@ excerpt: >-
   Solana may be the fastest blockchain of 2026. Comprehensive analysis of the
   ecosystem, price predictions and why major funds are betting on SOL.
 coverImage:
-  src: /images/altcoins/2025-12/solana-2026-previsao.webp
+  src: /images/articles/solana-2026-price-forecast-and-ecosystem-analysis.webp
   alt: Visualização futurista do ecossistema Solana com gráfico de crescimento
   width: 1200
   height: 630

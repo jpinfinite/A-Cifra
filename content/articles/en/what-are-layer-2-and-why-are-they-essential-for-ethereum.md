@@ -7,7 +7,8 @@ excerpt: >-
   cheaper, and scalable transactions. Comprehensive guide to rollups,
   sidechains, and the future of scalability.
 coverImage:
-  src: /images/132.jpg
+  src: >-
+    /images/articles/what-are-layer-2-and-why-are-they-essential-for-ethereum.webp
   alt: >-
     Diagrama mostrando Ethereum Layer 1 com múltiplas soluções Layer 2
     conectadas

@@ -7,7 +7,8 @@ excerpt: >-
   $2,800. Layer 2s, Institutional Staking, DeFi, and ETFs Drive ETH. Discover
   Why Experts Project $5K+.
 coverImage:
-  src: /images/articles/ethereum-2025-razoes-otimismo.jpg
+  src: >-
+    /images/articles/ethereum-in-2025-4-reasons-to-keep-eth-above-2800---comprehensive-analysis.webp
   alt: 'Hand writing ETH on a whiteboard, highlighting Ethereum concept.'
   width: 6720
   height: 4480

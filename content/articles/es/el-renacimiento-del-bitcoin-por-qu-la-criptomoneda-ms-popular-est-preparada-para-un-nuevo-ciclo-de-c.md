@@ -10,7 +10,8 @@ excerpt: >-
   preparado para un nuevo ciclo de crecimiento. Analizamos los factores que
   impulsan esa tendencia.
 coverImage:
-  src: /images/049.jpg
+  src: >-
+    /images/articles/el-renacimiento-del-bitcoin-por-qu-la-criptomoneda-ms-popular-est-preparada-para-un-nuevo-ciclo-de-c.webp
   alt: >-
     Bitcoin conectado globalmente - representando o renascimento e adoção
     mundial

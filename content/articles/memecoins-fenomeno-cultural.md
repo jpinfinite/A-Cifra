@@ -7,7 +7,7 @@ excerpt: >-
   como investir com segurança neste setor volátil mas fascinante do mercado
   cripto.
 coverImage:
-  src: /images/137.jpg
+  src: /images/articles/memecoins-fenomeno-cultural.webp
   alt: 'Memecoins - Dogecoin, Shiba Inu e outras criptomoedas meme'
   width: 1200
   height: 630

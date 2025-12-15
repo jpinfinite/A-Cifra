@@ -7,7 +7,8 @@ excerpt: >-
   management. Understand how the world's largest manager is building the bridge
   between TradFi and DeFi.
 coverImage:
-  src: /images/030.jpg
+  src: >-
+    /images/articles/blackrock-and-tokenization-the-bridge-between-crypto-and-traditional-finance.webp
   alt: Logo da BlackRock com símbolos de blockchain e tokenização
   width: 1200
   height: 630

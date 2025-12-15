@@ -6,7 +6,8 @@ excerpt: >-
   Japan, the giant of Asian economy, has approved a historic fiscal reform. From
   2026, the crypto tax drops to 20%. Understand the global impact.
 coverImage:
-  src: /images/analises/2025-12/japao-imposto-cripto.webp
+  src: >-
+    /images/articles/japan-cuts-crypto-tax-to-20-the-trigger-for-the-2026-bull-market.webp
   alt: >-
     Conceito artístico misturando elementos tradicionais japoneses (Torii, Monte
     Fuji) com gráficos de alta do Bitcoin e símbolos de porcentagem

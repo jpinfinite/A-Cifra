@@ -7,7 +7,8 @@ excerpt: >-
   (technology, team, adoption) and technical indicators (price, volume,
   patterns) for informed investment decisions.
 coverImage:
-  src: /images/crypto-market-analysis-new-styled.jpg
+  src: >-
+    /images/articles/how-to-analyze-cryptocurrencies-fundamental-and-technical-indicators.webp
   alt: Gráfico com múltiplos indicadores de análise de criptomoedas
   width: 1200
   height: 630

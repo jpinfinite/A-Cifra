@@ -4,7 +4,7 @@ title: 'Billeteras de Hardware: Ledger vs Trezor Comparación'
 slug: billeteras-de-hardware-ledger-vs-trezor-comparacin
 excerpt: Comparación detallada entre las principales hardware wallets del mercado.
 coverImage:
-  src: /images/051.jpg
+  src: /images/articles/billeteras-de-hardware-ledger-vs-trezor-comparacin.webp
   alt: 'Hardware Wallets: Ledger vs Trezor Comparação'
   width: 1200
   height: 630

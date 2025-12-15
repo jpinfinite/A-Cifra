@@ -7,7 +7,7 @@ excerpt: >-
   predictions, technologies, and opportunities for 2026 in this exclusive guide
   A Cifra.
 coverImage:
-  src: /images/educacao/2025-12/herana-de-criptomoedas.webp
+  src: /images/articles/succession-planning-how-to-leave-crypto-for-your-heirs.webp
   alt: 'Planejamento Sucessório: Como Deixar Cripto para Seus Herdeiros'
   width: 1200
   height: 630

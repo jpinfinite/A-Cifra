@@ -8,7 +8,7 @@ excerpt: >-
   A blockchain é uma tecnologia revolucionária que está transformando indústrias
   inteiras. Descubra como funciona, suas aplicações e o impacto no futuro.
 coverImage:
-  src: /images/095.jpg
+  src: /images/articles/blockchain-tecnologia-revolucionaria-mudando-mundo.webp
   alt: Representação visual da tecnologia blockchain com blocos conectados
   width: 1200
   height: 630

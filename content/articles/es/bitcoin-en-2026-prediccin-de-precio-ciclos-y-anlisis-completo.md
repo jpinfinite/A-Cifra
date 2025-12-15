@@ -7,7 +7,8 @@ excerpt: >-
   cripto? Análisis detallado de los ciclos de mercado, predicciones de precio de
   expertos y estrategias para el próximo año.
 coverImage:
-  src: /images/bitcoin/2025-12/bitcoin-previsao-2026-analise.webp
+  src: >-
+    /images/articles/bitcoin-en-2026-prediccin-de-precio-ciclos-y-anlisis-completo.webp
   alt: Bitcoin Previsão 2026 e Análise de Mercado
   width: 1200
   height: 630

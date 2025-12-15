@@ -11,7 +11,7 @@ excerpt: >-
   financia robots humanoides de una empresa italiana.
 coverImage:
   src: >-
-    /images/articles/tether-amplia-aposta-em-ia-e-financia-robs-humanoides-de-empresa-italiana.jpg
+    /images/articles/tether-ampla-apuesta-en-inteligencia-artificial-y-financia-robots-humanoides-de-una-empresa-italiana.webp
   alt: Tether amplia aposta em IA e financia robôs humanoides de empresa italiana
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Análise completa sobre ZK-Rollups Privacy. Descubra as previsões, tecnologias
   e oportunidades para 2026 neste guia exclusivo A Cifra.
 coverImage:
-  src: /images/ethereum/2025-12/zk-rollups-privacy.webp
+  src: /images/articles/zk-rollups-privacy.webp
   alt: 'ZK-Rollups: Privacidade e Escalabilidade Total no Ethereum'
   width: 1200
   height: 630

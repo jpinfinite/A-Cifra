@@ -7,7 +7,8 @@ excerpt: >-
   explains why $300 billion in liquidity can drive crypto and AI. Comprehensive
   analysis of the most audacious bullish thesis in the market.
 coverImage:
-  src: /images/cathie-wood-bitcoin-prediction-styled.jpg
+  src: >-
+    /images/articles/cathie-wood-maintains-bitcoin-prediction-at-15-million---ark-invest-analysis.webp
   alt: Cathie Wood e previsão de Bitcoin a 1.5 milhão de dólares
   width: 1200
   height: 630

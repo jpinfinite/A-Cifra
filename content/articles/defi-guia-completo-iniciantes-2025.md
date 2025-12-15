@@ -9,7 +9,7 @@ excerpt: >-
   Guia completo 2025 com estratégias práticas para gerar renda passiva com
   criptomoedas.
 coverImage:
-  src: /images/defi-guia-completo-2025.jpg
+  src: /images/articles/defi-guia-completo-iniciantes-2025.webp
   alt: DeFi guia completo para iniciantes 2025
   width: 1200
   height: 630

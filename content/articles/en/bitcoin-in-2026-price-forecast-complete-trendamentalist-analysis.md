@@ -7,7 +7,8 @@ excerpt: >-
   pessimistic scenarios, technical and fundamental analysis. Discover what to
   expect from BTC in 2026.
 coverImage:
-  src: /images/bitcoin-2026-previsao.jpg
+  src: >-
+    /images/articles/bitcoin-in-2026-price-forecast-complete-trendamentalist-analysis.webp
   alt: Bitcoin 2026 - Previsão de Preço e Análise Completa
   width: 1200
   height: 630

@@ -10,7 +10,8 @@ excerpt: >-
   empresariales, US$ 147 millones en ingresos anuales y inversión de US$ 344
   millones.
 coverImage:
-  src: /images/aethir-gpu-depin-infrastructure.jpg
+  src: >-
+    /images/articles/aethir-lidera-revolucin-de-la-computacin-gpu-descentralizada-con-147-millones-en-ingresos.webp
   alt: Rede descentralizada de GPUs da Aethir para computação em nuvem
   width: 1200
   height: 630

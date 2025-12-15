@@ -11,7 +11,7 @@ excerpt: >-
   Ripple levou a uma avaliação de US$ 40 bilhões.
 coverImage:
   src: >-
-    /images/articles/wall-street-entra-na-jogada-como-a-mudana-discreta-da-ripple-levou-a-uma-avaliao.jpg
+    /images/articles/wall-street-entra-na-jogada-como-a-mudana-discreta-da-ripple-levou-a-uma-avaliao.webp
   alt: >-
     Wall Street entra na jogada: como a mudança discreta da Ripple levou a uma
     avaliação de US$ 40 bilhões

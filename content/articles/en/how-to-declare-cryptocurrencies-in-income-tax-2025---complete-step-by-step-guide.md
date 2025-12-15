@@ -10,7 +10,8 @@ excerpt: >-
   rate table, exemptions, DeFi, staking, and how to avoid the fine mesh. Updated
   with new rules.
 coverImage:
-  src: /images/declarar-cripto-ir-2025.jpg
+  src: >-
+    /images/articles/how-to-declare-cryptocurrencies-in-income-tax-2025---complete-step-by-step-guide.webp
   alt: Como declarar criptomoedas no imposto de renda 2025
   width: 1200
   height: 630

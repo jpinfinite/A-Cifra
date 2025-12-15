@@ -6,7 +6,7 @@ excerpt: >-
   Discover how XRP and Ripple are transforming international payments with fast,
   cheap, and efficient transactions for banks and financial institutions.
 coverImage:
-  src: /images/212.jpg
+  src: /images/articles/ripple-and-xrp-revolutionizing-global-payments.webp
   alt: 'XRP e Ripple: Revolucionando Pagamentos Globais'
   width: 1200
   height: 630

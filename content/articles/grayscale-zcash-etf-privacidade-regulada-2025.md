@@ -7,7 +7,7 @@ excerpt: >-
   privacidade regulada é realmente privacidade. Análise completa do impacto para
   privacy coins e investidores.
 coverImage:
-  src: /images/zcash-grayscale-etf-privacy-styled.jpg
+  src: /images/articles/grayscale-zcash-etf-privacidade-regulada-2025.webp
   alt: Grayscale ETF de Zcash - privacidade regulada
   width: 1200
   height: 630

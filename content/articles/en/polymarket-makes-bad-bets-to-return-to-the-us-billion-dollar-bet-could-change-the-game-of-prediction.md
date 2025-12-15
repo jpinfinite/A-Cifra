@@ -10,7 +10,8 @@ excerpt: >-
   Polymarket is ready to reopen its doors in the United States with regulatory
   approval and massive investments.
 coverImage:
-  src: /images/160.jpg
+  src: >-
+    /images/articles/polymarket-makes-bad-bets-to-return-to-the-us-billion-dollar-bet-could-change-the-game-of-prediction.webp
   alt: Polymarket - Retorno aos EUA
   width: 1200
   height: 630

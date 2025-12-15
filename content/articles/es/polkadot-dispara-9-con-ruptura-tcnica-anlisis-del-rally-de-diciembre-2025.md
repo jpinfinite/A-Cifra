@@ -7,7 +7,8 @@ excerpt: >-
   completo del movimiento, próximos objetivos y lo que esperar de la parachain
   líder en interoperabilidad.
 coverImage:
-  src: /images/040.jpg
+  src: >-
+    /images/articles/polkadot-dispara-9-con-ruptura-tcnica-anlisis-del-rally-de-diciembre-2025.webp
   alt: Gráfico mostrando rally de 9% do Polkadot
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Meet Injective, the first fully decentralized DEX for derivatives and
   perpetual trading.
 coverImage:
-  src: /images/017.jpg
+  src: /images/articles/injective-protocol-fully-decentralized-derivatives-dex.webp
   alt: 'Injective Protocol: DEX de Derivativos Totalmente Descentralizada'
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Discover how the Lightning Network is making Bitcoin viable for everyday
   payments.
 coverImage:
-  src: /images/023.jpg
+  src: /images/articles/lightning-network-instant-bitcoin-payments.webp
   alt: 'Lightning Network: Pagamentos Bitcoin Instantâneos'
   width: 1200
   height: 630

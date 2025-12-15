@@ -6,7 +6,7 @@ excerpt: >-
   Conheça a história do Dogecoin, desde sua criação como piada até se tornar uma
   das criptomoedas mais populares do mundo, apoiada por Elon Musk.
 coverImage:
-  src: /images/107.jpg
+  src: /images/articles/dogecoin-historia-e-futuro.webp
   alt: Dogecoin - A primeira memecoin
   width: 1200
   height: 630

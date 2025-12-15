@@ -10,7 +10,8 @@ excerpt: >-
   Conocimiento Cero, monedas de privacidad, mezcladores y cómo proteger su
   privacidad en cadena.
 coverImage:
-  src: /images/091.jpg
+  src: >-
+    /images/articles/privacidad-en-blockchain-2026-cero-conocimiento-mezcladores-y-el-futuro-de-la-privacidad-en-chain.webp
   alt: Privacidade Blockchain 2026
   width: 1200
   height: 630

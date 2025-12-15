@@ -6,7 +6,7 @@ excerpt: >-
   Entienda el slippage, impacto de precio y cómo minimizar pérdidas en trocas
   DeFi.
 coverImage:
-  src: /images/025.jpg
+  src: /images/articles/slippage-e-impacto-de-precio-en-defi.webp
   alt: Slippage e Impacto de Preço em DeFi
   width: 1200
   height: 630

@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive analysis on DeFi 2.0 Real Yield. Discover the predictions,
   technologies and opportunities for 2026 in this exclusive guide A Cifra.
 coverImage:
-  src: /images/defi/2025-12/defi-20-real-yield.webp
+  src: /images/articles/real-yield-the-end-of-inflationary-tokens-in-defi.webp
   alt: 'Real Yield: O Fim dos Tokens Inflacionários no DeFi'
   width: 1200
   height: 630

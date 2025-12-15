@@ -6,7 +6,7 @@ excerpt: >-
   Complete guide to cryptocurrency wallets: hot wallets, cold wallets, hardware
   wallets and how to choose the best option for your needs.
 coverImage:
-  src: /images/062.jpg
+  src: /images/articles/digital-wallets-types-differences-and-how-to-choose.webp
   alt: Diferentes tipos de carteiras digitais de criptomoedas
   width: 1200
   height: 630

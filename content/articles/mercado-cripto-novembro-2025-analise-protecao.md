@@ -8,7 +8,7 @@ excerpt: >-
   Análise completa do mercado de criptomoedas em Novembro 2025: Bitcoin em
   correção, altcoins sangrando e estratégias práticas para proteger seu capital.
 coverImage:
-  src: /images/139.jpg
+  src: /images/articles/mercado-cripto-novembro-2025-analise-protecao.webp
   alt: Mercado de criptomoedas Novembro 2025 - Análise e proteção
   width: 1200
   height: 630

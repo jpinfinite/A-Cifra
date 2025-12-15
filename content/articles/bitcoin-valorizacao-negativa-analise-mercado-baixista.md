@@ -9,7 +9,7 @@ excerpt: >-
   completa dos fatores que levaram à queda, impacto nos investidores e o que
   esperar para os próximos meses.
 coverImage:
-  src: /images/056.jpg
+  src: /images/articles/bitcoin-valorizacao-negativa-analise-mercado-baixista.webp
   alt: Bitcoin em queda - Análise do mercado baixista
   width: 1200
   height: 630

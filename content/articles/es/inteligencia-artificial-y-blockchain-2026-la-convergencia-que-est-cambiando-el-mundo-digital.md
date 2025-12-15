@@ -10,7 +10,8 @@ excerpt: >-
   2026: agentes de IA autónomos, oráculos inteligentes, y la revolución de la
   Web3 + AI.
 coverImage:
-  src: /images/032.jpg
+  src: >-
+    /images/articles/inteligencia-artificial-y-blockchain-2026-la-convergencia-que-est-cambiando-el-mundo-digital.webp
   alt: IA e Blockchain 2026
   width: 1200
   height: 630

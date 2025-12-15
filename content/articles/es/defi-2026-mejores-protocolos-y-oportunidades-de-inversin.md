@@ -6,7 +6,8 @@ excerpt: >-
   Guía completa de DeFi para 2026: mejores protocolos, oportunidades de
   rendimiento, riesgos y cómo ganar con finanzas descentralizadas.
 coverImage:
-  src: /images/102.jpg
+  src: >-
+    /images/articles/defi-2026-mejores-protocolos-y-oportunidades-de-inversin.webp
   alt: >-
     DeFi 2026: Melhores Protocolos e Oportunidades de Investimento - Ethereum e
     Bitcoin

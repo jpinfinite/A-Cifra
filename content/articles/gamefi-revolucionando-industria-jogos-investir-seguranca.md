@@ -9,7 +9,8 @@ excerpt: >-
   blockchain. Descubra como funciona e como investir com segurança nesta
   revolução.
 coverImage:
-  src: /images/122.webp
+  src: >-
+    /images/articles/gamefi-revolucionando-industria-jogos-investir-seguranca.webp
   alt: Gamer jogando com elementos de criptomoedas e GameFi ao redor
   width: 1200
   height: 630

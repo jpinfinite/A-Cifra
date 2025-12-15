@@ -6,7 +6,7 @@ excerpt: >-
   Conheça Optimism, a solução Layer 2 que está revolucionando o financiamento de
   bens públicos com RetroPGF.
 coverImage:
-  src: /images/010.jpg
+  src: /images/articles/optimism-layer2-ethereum-retroativo.webp
   alt: 'Optimism: Layer 2 do Ethereum com Financiamento Retroativo'
   width: 1200
   height: 630

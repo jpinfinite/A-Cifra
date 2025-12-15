@@ -11,7 +11,7 @@ excerpt: >-
   according to Santiment.
 coverImage:
   src: >-
-    /images/articles/400-mil-bitcoins-saram-das-corretoras-desde-o-ano-passado-aponta-santiment.jpg
+    /images/articles/approximately-400-million-bitcoins-have-left-exchanges-since-last-year-according-to-santiment.webp
   alt: '400 mil Bitcoins saíram das corretoras desde o ano passado, aponta Santiment'
   width: 1200
   height: 630

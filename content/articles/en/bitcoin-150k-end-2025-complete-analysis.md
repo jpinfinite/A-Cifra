@@ -7,7 +7,7 @@ excerpt: >-
   by the end of 2025, considering technical indicators, fundamentals, and
   macroeconomic context.
 coverImage:
-  src: /images/041.jpg
+  src: /images/articles/bitcoin-150k-end-2025-complete-analysis.webp
   alt: Bitcoin - Price Analysis 2025
   width: 1200
   height: 630

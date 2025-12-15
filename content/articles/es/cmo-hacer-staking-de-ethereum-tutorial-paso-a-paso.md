@@ -6,7 +6,7 @@ excerpt: >-
   Guía completa para hacer staking de ETH: opciones disponibles, plataformas
   recomendadas, riesgos y cómo empezar a ganar recompensas pasivas.
 coverImage:
-  src: /images/110.jpg
+  src: /images/articles/cmo-hacer-staking-de-ethereum-tutorial-paso-a-paso.webp
   alt: Tutorial de staking de Ethereum
   width: 1200
   height: 630

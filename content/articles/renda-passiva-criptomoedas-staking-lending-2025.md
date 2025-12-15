@@ -6,7 +6,7 @@ excerpt: >-
   Guia completo para gerar renda passiva com criptomoedas: staking, lending,
   yield farming e liquidity pools. Aprenda a ganhar até 20% ao ano.
 coverImage:
-  src: /images/165.png
+  src: /images/articles/renda-passiva-criptomoedas-staking-lending-2025.webp
   alt: Renda passiva com criptomoedas - Staking e Lending
   width: 1200
   height: 630

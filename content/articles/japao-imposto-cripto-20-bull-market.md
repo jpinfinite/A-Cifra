@@ -6,7 +6,7 @@ excerpt: >-
   O Japão, gigante da economia asiática, aprovou uma reforma fiscal histórica. A
   partir de 2026, o imposto sobre cripto cai para 20%. Entenda o impacto global.
 coverImage:
-  src: /images/analises/2025-12/japao-imposto-cripto.webp
+  src: /images/articles/japao-imposto-cripto-20-bull-market.webp
   alt: >-
     Conceito artístico misturando elementos tradicionais japoneses (Torii, Monte
     Fuji) com gráficos de alta do Bitcoin e símbolos de porcentagem

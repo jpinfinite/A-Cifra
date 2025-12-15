@@ -6,7 +6,7 @@ excerpt: >-
   Discover how Filecoin is creating a global decentralized storage network using
   blockchain.
 coverImage:
-  src: /images/016.jpg
+  src: /images/articles/filecoin-fil-decentralized-data-storage.webp
   alt: 'Filecoin (FIL): Armazenamento Descentralizado de Dados'
   width: 1200
   height: 630

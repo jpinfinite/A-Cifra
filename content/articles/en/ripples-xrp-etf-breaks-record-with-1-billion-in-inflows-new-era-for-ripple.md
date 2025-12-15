@@ -7,7 +7,8 @@ excerpt: >-
   institutional demand and possible SEC approval. Comprehensive analysis of the
   impact.
 coverImage:
-  src: /images/028.jpg
+  src: >-
+    /images/articles/ripples-xrp-etf-breaks-record-with-1-billion-in-inflows-new-era-for-ripple.webp
   alt: Gráfico mostrando entradas recordes no ETF de XRP
   width: 1200
   height: 630

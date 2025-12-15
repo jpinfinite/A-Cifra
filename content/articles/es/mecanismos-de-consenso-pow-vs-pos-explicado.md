@@ -6,7 +6,7 @@ excerpt: >-
   Entienda las diferencias entre Proof of Work y Proof of Stake y sus
   implicaciones para blockchain.
 coverImage:
-  src: /images/019.jpg
+  src: /images/articles/mecanismos-de-consenso-pow-vs-pos-explicado.webp
   alt: 'Mecanismos de Consenso: PoW vs PoS Explicado'
   width: 1200
   height: 630

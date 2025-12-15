@@ -10,7 +10,8 @@ excerpt: >-
   una medida descrita como un ataque directo al Bitcoin. Entienda el impacto
   para los inversores y el mercado global.
 coverImage:
-  src: /images/226.jpg
+  src: >-
+    /images/articles/espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversores.webp
   alt: >-
     Bandeira da Espanha com símbolos de Bitcoin e impostos representando a
     proposta de taxa de 47% sobre criptomoedas

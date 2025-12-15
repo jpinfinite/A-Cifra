@@ -9,7 +9,7 @@ excerpt: >-
   plataformas confiáveis, APYs, riscos e estratégias para gerar renda passiva em
   2025.
 coverImage:
-  src: /images/staking-cripto-guia-2025.jpg
+  src: /images/articles/staking-criptomoedas-guia-renda-passiva-2025.webp
   alt: Staking de criptomoedas guia completo 2025
   width: 1200
   height: 630

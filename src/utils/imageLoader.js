@@ -1,23 +1,16 @@
 /**
  * Custom Image Loader para Cloudflare Pages
- * Garante que as imagens sejam carregadas corretamente
+ * Em static export ('output: export'), não devemos injetar domínio absoluto
+ * Cloudflare resolve caminhos relativos à raiz automaticamente
  */
 
 export default function imageLoader({ src }) {
-  // Se for uma URL absoluta, retorna como está
+  // URLs externas continuam intactas
   if (src.startsWith('http')) {
     return src
   }
 
-  // Para imagens locais, garante que começam com /
-  const imageSrc = src.startsWith('/') ? src : `/${src}`
-  
-  // Em produção (Cloudflare Pages), usa o domínio correto
-  if (process.env.NODE_ENV === 'production') {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://a-cifra.com.br'
-    return `${baseUrl}${imageSrc}`
-  }
-  
-  // Em desenvolvimento, usa o caminho relativo
-  return imageSrc
+  // Sempre retornar caminho absoluto a partir da raiz
+  // Ex: '/images/photo.jpg' é resolvido corretamente pelo browser/host
+  return src.startsWith('/') ? src : `/${src}`
 }

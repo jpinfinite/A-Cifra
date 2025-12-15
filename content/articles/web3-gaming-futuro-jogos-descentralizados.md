@@ -1,12 +1,24 @@
 ---
-title: "Web3 Gaming: O Futuro dos Jogos Descentralizados e da Propriedade Digital"
-date: "2025-10-30T10:00:00.000Z"
-category: "Games"
-tags: ["web3", "games", "nft", "play-to-earn", "blockchain gaming", "metaverso"]
-excerpt: "A indústria de jogos está à beira de uma revolução. Descubra como a Web3 está transformando jogadores em proprietários, redefinindo economias digitais e criando o futuro do entretenimento interativo através da descentralização e NFTs."
-coverImage: "/images/gamefi-revolucao-jogos.webp"
-author: "Jonatha Pereira"
-status: "published"
+title: 'Web3 Gaming: O Futuro dos Jogos Descentralizados e da Propriedade Digital'
+date: '2025-10-30T10:00:00.000Z'
+category: Games
+tags:
+  - web3
+  - games
+  - nft
+  - play-to-earn
+  - blockchain gaming
+  - metaverso
+excerpt: >-
+  A indústria de jogos está à beira de uma revolução. Descubra como a Web3 está
+  transformando jogadores em proprietários, redefinindo economias digitais e
+  criando o futuro do entretenimento interativo através da descentralização e
+  NFTs.
+coverImage:
+  src: /images/articles/web3-gaming-futuro-jogos-descentralizados.webp
+  alt: 'Web3 Gaming: O Futuro dos Jogos Descentralizados e da Propriedade Digital'
+author: Jonatha Pereira
+status: published
 ---
 
 A indústria de jogos eletrônicos, um colosso que movimenta mais receita anualmente do que as indústrias de cinema e música combinadas, encontra-se em um ponto de inflexão histórico. Durante décadas, o modelo tradicional de jogos operou sob uma premissa centralizada: desenvolvedores e estúdios mantinham controle absoluto sobre os ativos do jogo, economias internas e dados dos usuários. Jogadores dedicavam milhares de horas e recursos financeiros para adquirir itens, skins e personagens que, em última análise, não lhes pertenciam de fato. Eram meras licenças de uso, revogáveis a qualquer momento, presas dentro de "jardins murados" (walled gardens) digitais.

@@ -6,7 +6,7 @@ excerpt: >-
   Comprehensive DeFi Guide for 2026: Top protocols, yield opportunities, risks,
   and how to profit with decentralized finance.
 coverImage:
-  src: /images/102.jpg
+  src: /images/articles/defi-2026-best-protocols-and-investment-opportunities.webp
   alt: >-
     DeFi 2026: Melhores Protocolos e Oportunidades de Investimento - Ethereum e
     Bitcoin

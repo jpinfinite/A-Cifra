@@ -4,7 +4,8 @@ title: 'Ataques de Pulverización: Protección Contra el Rastreo de Carteras'
 slug: ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-carteras
 excerpt: Entienda qué son los ataques de dusting y cómo protegerse contra el rastreo.
 coverImage:
-  src: /images/064.jpg
+  src: >-
+    /images/articles/ataques-de-pulverizacin-proteccin-contra-el-rastreo-de-carteras.webp
   alt: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: 'Dusting Attacks: Protection Against Wallet Tracking'
 slug: dusting-attacks-protection-against-wallet-tracking
 excerpt: Understand what dusting attacks are and how to protect yourself from tracking.
 coverImage:
-  src: /images/064.jpg
+  src: /images/articles/dusting-attacks-protection-against-wallet-tracking.webp
   alt: 'Dusting Attacks: Proteção Contra Rastreamento de Carteiras'
   width: 1200
   height: 630

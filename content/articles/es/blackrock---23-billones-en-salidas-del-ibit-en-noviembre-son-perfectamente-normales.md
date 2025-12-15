@@ -10,7 +10,8 @@ excerpt: >-
   Bitcoin IBIT en noviembre son normales después de una demanda que llevó el
   fondo a cerca de $100 billones. Análisis del impacto en el mercado.
 coverImage:
-  src: /images/bitcoin-etf-outflows-2025-styled.jpg
+  src: >-
+    /images/articles/blackrock---23-billones-en-salidas-del-ibit-en-noviembre-son-perfectamente-normales.webp
   alt: BlackRock IBIT - saídas de $2.3 bilhões em novembro 2025
   width: 1200
   height: 630

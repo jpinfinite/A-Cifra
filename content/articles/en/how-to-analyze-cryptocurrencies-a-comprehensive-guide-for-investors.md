@@ -7,7 +7,8 @@ excerpt: >-
   analysis, fundamentalist, and on-chain analysis. Tools and strategies for
   making informed decisions.
 coverImage:
-  src: /images/blockchain-network-tech-styled.jpg
+  src: >-
+    /images/articles/how-to-analyze-cryptocurrencies-a-comprehensive-guide-for-investors.webp
   alt: Setup profissional para análise de criptomoedas com múltiplos monitores
   width: 1200
   height: 630

@@ -4,7 +4,7 @@ title: 'Soporte y Resistencia: Cómo Identificar Niveles Clave'
 slug: soporte-y-resistencia-cmo-identificar-niveles-clave
 excerpt: Guía práctica para identificar y usar niveles de soporte y resistencia.
 coverImage:
-  src: /images/technical-analysis-indicators-styled.jpg
+  src: /images/articles/soporte-y-resistencia-cmo-identificar-niveles-clave.webp
   alt: 'Suporte e Resistência: Como Identificar Níveis Chave'
   width: 1200
   height: 630

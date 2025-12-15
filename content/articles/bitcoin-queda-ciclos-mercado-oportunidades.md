@@ -7,7 +7,7 @@ excerpt: >-
   históricos do mercado para te mostrar por que correções são saudáveis e onde
   estão as oportunidades.
 coverImage:
-  src: /images/bitcoin/2025-12/bitcoin-queda-ciclos.webp
+  src: /images/articles/bitcoin-queda-ciclos-mercado-oportunidades.webp
   alt: >-
     Gráfico de velas do Bitcoin mostrando uma queda vermelha seguida de uma
     recuperação verde, com um fundo de análise técnica

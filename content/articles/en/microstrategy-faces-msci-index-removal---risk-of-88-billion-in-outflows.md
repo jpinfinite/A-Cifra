@@ -7,7 +7,8 @@ excerpt: >-
   passive fund outflows. Understand the impact of this decision on MSTR,
   Bitcoin, and the crypto market.
 coverImage:
-  src: /images/microstrategy-msci-removal-risk-2025.jpg
+  src: >-
+    /images/articles/microstrategy-faces-msci-index-removal---risk-of-88-billion-in-outflows.webp
   alt: MicroStrategy enfrenta risco de remoção do índice MSCI
   width: 1200
   height: 630
