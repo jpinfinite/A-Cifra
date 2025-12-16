@@ -40,23 +40,18 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
       hover
       className={cn(
         'group overflow-hidden',
-        featured ? 'md:flex md:flex-row' : 'flex flex-col',
         className
       )}
     >
-      <Link
-        href={`/artigo/${article.slug}`}
-        className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 rounded-xl"
-        aria-label={`Ler artigo: ${article.title}`}
-      >
+      <div className={cn('flex', featured ? 'md:flex-row flex-col' : 'flex-col')}>
         {/* Article Image */}
-        <div
+        <Link
+          href={`/artigo/${article.slug}`}
           className={cn(
-            'relative overflow-hidden',
-            featured
-              ? 'md:w-1/2 md:flex-shrink-0 h-48 md:h-auto'
-              : 'w-full'
+            'relative overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 rounded-t-xl',
+            featured ? 'md:w-1/2 md:flex-shrink-0 h-48 md:h-auto md:rounded-l-xl md:rounded-tr-none' : 'w-full'
           )}
+          aria-label={`Ver imagem do artigo: ${article.title}`}
         >
           <ResponsiveImage
             src={imageSrc}
@@ -82,7 +77,7 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
               {article.category.name}
             </span>
           </div>
-        </div>
+        </Link>
 
         {/* Article Content */}
         <CardContent
@@ -93,15 +88,20 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
         >
           <div className="flex-1">
             {/* Article Title */}
-            <Heading
-              level={featured ? 2 : 3}
-              className={cn(
-                'group-hover:text-brand-primary-blue transition-colors duration-200 line-clamp-2',
-                featured ? 'text-xl md:text-2xl mb-3' : 'text-lg mb-2'
-              )}
+            <Link
+              href={`/artigo/${article.slug}`}
+              className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 rounded"
             >
-              {article.title}
-            </Heading>
+              <Heading
+                level={featured ? 2 : 3}
+                className={cn(
+                  'group-hover:text-brand-primary-blue transition-colors duration-200 line-clamp-2',
+                  featured ? 'text-xl md:text-2xl mb-3' : 'text-lg mb-2'
+                )}
+              >
+                {article.title}
+              </Heading>
+            </Link>
 
             {/* Article Excerpt */}
             <Text
@@ -159,7 +159,8 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
             </div>
           </div>
         </CardContent>
-      </Link>
+      </div>
     </Card>
   )
 }
+```
