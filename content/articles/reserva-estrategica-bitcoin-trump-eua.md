@@ -1,8 +1,10 @@
 ---
+id: "reserva-estrategica-bitcoin-trump-eua"
 title: "Reserva Estratégica de Bitcoin: Trump Transforma EUA em Superpotência Cripto"
 excerpt: "Em movimento histórico, Donald Trump assina ordem executiva criando Reserva Estratégica de Bitcoin nos EUA. Com 198 mil BTC em posse do governo, a decisão pode redefinir o futuro das criptomoedas globalmente e desencadear uma corrida entre nações."
-coverImage: "/images/articles/trump-bitcoin-reserve.jpg"
-date: "2025-12-16"
+image: "/images/articles/trump-bitcoin-reserve.jpg"
+publishedAt: "2025-12-16"
+categorySlug: "bitcoin"
 author:
   name: "Jonatha Pereira"
   picture: "/images/authors/jonatha.jpg"

@@ -1,8 +1,10 @@
 ---
+id: "ethereum-pectra-atualizacao-marco-2025"
 title: "Ethereum Pectra: A Atualização Explosiva que Pode Fazer ETH Disparar em Março 2025"
 excerpt: "A maior atualização do Ethereum em 2025 está chegando. Pectra promete revolucionar staking, carteiras inteligentes e escalabilidade. Descubra por que analistas preveem que esta atualização pode catapultar o preço do ETH e transformar o ecossistema cripto."
-coverImage: "/images/articles/ethereum-pectra-upgrade.jpg"
-date: "2025-12-16"
+image: "/images/articles/ethereum-pectra-upgrade.jpg"
+publishedAt: "2025-12-16"
+categorySlug: "ethereum"
 author:
   name: "Jonatha Pereira"
   picture: "/images/authors/jonatha.jpg"
