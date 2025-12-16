@@ -105,8 +105,8 @@ const markdownComponents = {
               const target = e.currentTarget
               // Verificação de segurança para evitar loop infinito
               if (target.src.indexOf('cifra-principal.png') === -1) {
-                 target.src = '/images/general/cifra-principal.png'
-                 target.classList.add('grayscale')
+                target.src = '/images/general/cifra-principal.png'
+                target.classList.add('grayscale')
               }
             }}
           />
@@ -182,7 +182,8 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
     let processedContent = content
 
     if (relatedArticles.length > 0) {
-      processedContent = addInlineLinks(processedContent, relatedArticles)
+      // TEMPORARIAMENTE DESABILITADO - Pode estar causando Links aninhados
+      // processedContent = addInlineLinks(processedContent, relatedArticles)
     }
 
     // Substitui componentes customizados por placeholders HTML
