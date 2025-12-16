@@ -1,7 +1,7 @@
 import { Metadata } from 'next'
 import { MainLayout } from '@/components/layout'
 import { Container, Heading, Text } from '@/components/ui'
-import { BookOpen, Target, Clock, Alert, TrendingUp, Search } from '@/components/icons/SocialIcons'
+import { BookOpen, Target, Clock, Alert, TrendingUp } from '@/components/icons/SocialIcons'
 import { DCACalculator, ProfitLossCalculator, StakingCalculator, CryptoTicker, CryptoConverter } from '@/components/tools'
 
 export const metadata: Metadata = {
