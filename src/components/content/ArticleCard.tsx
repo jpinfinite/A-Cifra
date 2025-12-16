@@ -163,4 +163,4 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
     </Card>
   )
 }
-```
+
