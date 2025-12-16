@@ -1,13 +1,17 @@
 ---
 id: "5-altcoins-100x-altcoin-season-2025"
 title: "5 Altcoins Prontas Para 100x em 2025: A Altcoin Season Finalmente Chegou?"
+slug: "5-altcoins-100x-altcoin-season-2025"
 excerpt: "Enquanto o Bitcoin consolida, altcoins explodem com ganhos de 744%. Hyperliquid, Solana, Ondo Finance e outras criptomoedas prometem retornos astronômicos. Descubra as 5 altcoins com maior potencial de multiplicar seu investimento em 100x durante a Altcoin Season de 2025."
-image: "/images/articles/altcoin-season-2025.jpg"
-publishedAt: "2025-12-16"
-categorySlug: "altcoins"
+coverImage:
+  src: "/images/articles/altcoin-season-2025.jpg"
+  alt: "5 Altcoins Prontas Para 100x em 2025: A Altcoin Season Finalmente Chegou?"
+  width: 1200
+  height: 630
 author:
   name: "Jonatha Pereira"
-  picture: "/images/authors/jonatha.jpg"
+publishedAt: "2025-12-16"
+categorySlug: "altcoins"
 category:
   name: "Altcoins"
   slug: "altcoins"
