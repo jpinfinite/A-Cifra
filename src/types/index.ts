@@ -17,6 +17,10 @@ export interface Article {
     [key: string]: string
   }
   readingTime?: number
+  faq?: {
+    question: string
+    answer: string
+  }[]
 }
 
 export interface ImageData {

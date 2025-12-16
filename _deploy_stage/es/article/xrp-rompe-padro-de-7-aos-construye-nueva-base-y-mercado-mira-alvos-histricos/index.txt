@@ -1,0 +1,327 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"CookieConsent"]
+4:["slug","xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["es",{"children":["article",{"children":[["slug","xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos","d"],{"children":["__PAGE__?{\"slug\":\"xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["es",{"children":["article",{"children":[["slug","xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"ExchangeAffiliateLinks"]
+11:T25f9,XRP: Rompimento Histórico, Acumulação Forte e Novo Ciclo à Vista
+
+O mercado cripto vive um novo capítulo: após **sete longos [anos](/artigo/xrp-rompimento-historico-etf-analise "XRP Rompe Padrão de 7 Anos, Constrói Nova Base e Mercado Mira Alvos Históricos") de compressão**, a XRP finalmente rompeu um dos maiores triângulos simétricos do cenário macro. Agora, o ativo é negociado acima das máximas de 2021, consolidando uma estrutura que pode redefinir o topo do ciclo.
+
+## 📊 Resumo Técnico
+
+**Confirmado o rompimento estrutural de 7 anos da XRP.** Acumulação intensa entre **US$ 2,00** e **US$ 3,00**. Cresce a expectativa para novo ciclo altista, impulsionado por clareza regulatória e possível ETF.
+
+## Macro: Quebra de Padrão Multi-Anual e Zona de Acumulação
+
+A XRP é negociada a **US$ 2,51**, sustentando ganhos mesmo após um rompimento de padrão raro no mercado. O movimento colocou o ativo consistentemente acima das resistências históricas — máximas de 2021 — e estabeleceu uma faixa clara de suporte entre US$ 2,00 e US$ 3,00.
+
+### 🔍 Ponto-Chave
+
+Segundo ChartNerd, a antiga resistência se converteu numa zona de acumulação robusta, potencializando o impulso para o próximo ciclo.
+
+Estruturalmente, a XRP ecoa o padrão observado em 2017: consolidação prolongada seguida por rali explosivo. Projeções otimistas miram **US$ 5** no curto-médio prazo. Ferramentas de Fibonacci sugerem alvos estendidos em US$ 8, US$ 13 e até US$ 27 — baseados na altura do triângulo rompido e no histórico do ativo.
+
+## O Triângulo Simétrico de 7 Anos
+
+### Anatomia do Padrão
+
+**Formação (2018-2024)**
+- Início após o topo de 2018 em US$ 3,84
+- Compressão gradual de volatilidade
+- Múltiplos toques nas linhas de tendência
+- Volume decrescente típico de consolidação
+
+**Rompimento (2024)**
+- Quebra explosiva acima da resistência
+- Volume massivo confirmando movimento
+- Reteste bem-sucedido do nível rompido
+- Continuação da tendência de alta
+
+### Significado Técnico
+
+Triângulos simétricos de longo prazo são padrões extremamente poderosos:
+
+**Características**
+- Quanto maior o tempo de formação, maior o movimento esperado
+- Rompimentos tendem a ser explosivos
+- Alvos medidos pela altura do triângulo
+- Alta taxa de sucesso quando confirmados
+
+**Projeções Baseadas no Padrão**
+- Altura do triângulo: ~US$ 3,50
+- Ponto de rompimento: ~US$ 0,50
+- Alvo mínimo: US$ 4,00
+- Alvo estendido: US$ 8,00+
+
+## Curto Prazo: Sentimento Misto e Zonas Críticas
+
+Apesar do cenário de alta no longo prazo, o curto prazo exige cautela. O analista **CRYPTOWZRD** destaca que o fechamento diário foi mais fraco, sinalizando atenção para o próximo fechamento mensal.
+
+### Níveis Técnicos Críticos
+
+**Resistência-Chave: US$ 2,75**
+- Rompimento pode acelerar a próxima onda compradora
+- Zona de realização de lucros
+- Confluência com Fibonacci 0.618
+
+**Suporte Curto Prazo: US$ 2,27**
+- Perda pode ampliar consolidação
+- Reteste da antiga resistência
+- Zona de reacumulação
+
+**Suporte Forte: US$ 2,00**
+- Piso psicológico importante
+- Base da zona de acumulação
+- Último bastião antes de correção maior
+
+### Indicadores Técnicos
+
+**TD Sequential**
+- Mostrou possíveis sinais de venda
+- Típico em fases de respiro após grandes altas
+- Não invalida tendência de longo prazo
+- Sugere consolidação saudável
+
+**RSI (Relative Strength Index)**
+- Zona de sobrecompra no diário
+- Divergências bearish de curto prazo
+- Semanal ainda saudável
+- Mensal extremamente bullish
+
+**MACD**
+- Cruzamento bullish confirmado no semanal
+- Histograma expandindo
+- Momentum forte e acelerando
+
+## Comportamento dos Grandes Detentores
+
+### Realização de Lucros
+
+Grandes detentores (whales) realizaram lucro parcial após o rompimento:
+
+**Dados On-Chain**
+- Saídas de exchanges diminuíram
+- Algumas carteiras grandes venderam parcialmente
+- Comportamento normal após grandes altas
+- Não indica topo, mas consolidação
+
+### Acumulação Institucional
+
+Apesar das realizações, o fluxo institucional permanece forte:
+
+**Indicadores Positivos**
+- Volume institucional crescente
+- Interesse de ETFs aumentando
+- Adoção corporativa expandindo
+- Clareza regulatória atraindo capital
+
+## Análise de Volume
+
+### Volume Profile
+
+**Zona de Alto Volume (US$ 2,00 - US$ 3,00)**
+- Maior concentração de negociações
+- Suporte forte estabelecido
+- Base sólida para próximo movimento
+
+**Gaps de Volume**
+- Acima de US$ 3,00: pouca resistência
+- Potencial para movimento rápido
+- Alvos em US$ 5,00 com baixa fricção
+
+### Volume Trend
+
+**Tendência Crescente**
+- Volume aumentando em altas
+- Diminuindo em quedas
+- Padrão saudável de acumulação
+- Confirma força do movimento
+
+## Fatores Catalisadores: ETF & Clareza Regulatória
+
+O sentimento positivo se intensifica com o avanço regulatório nos EUA e rumores crescentes sobre um possível **ETF spot de XRP**.
+
+### Status do ETF
+
+**Canary Capital**
+- Atualizou pedido junto à SEC
+- Remoção da cláusula de atraso
+- Possível aprovação em **13 de novembro**
+- Precedente do ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) favorável
+
+**Impacto Potencial**
+- Demanda institucional crescente
+- Legitimação do ativo
+- Liquidez massiva
+- Comparação com ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+
+### Clareza Regulatória
+
+**Caso Ripple vs SEC**
+- Vitória parcial da Ripple em 2023
+- XRP não é security em vendas programáticas
+- Apelação da SEC pendente
+- Sentimento geral positivo
+
+**Ambiente Regulatório**
+- Mudança de postura da SEC
+- Maior clareza para criptomoedas
+- Ripple expandindo globalmente
+- Parcerias bancárias crescendo
+
+## Comparação com Ciclo de 2017
+
+### Semelhanças Estruturais
+
+**Consolidação Prolongada**
+- 2014-2017: 3 anos
+- 2018-2024: 7 anos
+- Padrão similar de compressão
+
+**Rompimento Explosivo**
+- 2017: 0,006 → 3,84 (64.000%)
+- 2024: 0,50 → ? (em andamento)
+
+**Catalisadores**
+- 2017: Adoção bancária, hype
+- 2024: ETF, clareza regulatória, adoção real
+
+### Diferenças Importantes
+
+**Maturidade do Mercado**
+- Mais liquidez hoje
+- Participação institucional maior
+- Infraestrutura mais robusta
+- Regulação mais clara
+
+**Expectativas Realistas**
+- Ganhos de 64.000% improváveis
+- Alvos de 5-10x mais realistas
+- Base de preço muito maior
+- Market cap considerations
+
+## Projeções de Preço
+
+### Cenário Conservador
+
+**Alvo: US$ 5,00**
+- Baseado em Fibonacci 1.618
+- Resistência histórica
+- Ganho de 100% do preço atual
+- Probabilidade: 70%
+
+### Cenário Moderado
+
+**Alvo: US$ 8,00 - US$ 10,00**
+- Extensão completa do triângulo
+- Zona de resistência de 2018
+- Ganho de 220-300%
+- Probabilidade: 50%
+
+### Cenário Otimista
+
+**Alvo: US$ 13,00 - US$ 27,00**
+- Baseado em extensões de Fibonacci
+- Requer euforia de mercado
+- Ganho de 420-980%
+- Probabilidade: 20%
+
+### Fatores que Podem Impulsionar
+
+✅ Aprovação de ETF spot
+✅ Vitória definitiva contra SEC
+✅ Adoção bancária massiva
+✅ Bull market geral de cripto
+✅ Escassez de oferta em exchanges
+
+### Fatores que Podem Limitar
+
+⚠️ Resistência em US$ 3,00 - US$ 3,84
+⚠️ Realização de lucros de holders antigos
+⚠️ Correção geral do mercado cripto
+⚠️ Notícias regulatórias negativas
+⚠️ Competição de outras criptos
+
+## Estratégias de Trading
+
+### Para Holders de Longo Prazo
+
+**Acumulação**
+- Comprar em quedas para US$ 2,00 - US$ 2,20
+- DCA (Dollar Cost Averaging)
+- Não vender antes de alvos principais
+
+**Gestão**
+- Realizar parcialmente em US$ 5,00
+- Manter core position para alvos maiores
+- Usar trailing stops acima de US$ 3,00
+
+### Para Swing Traders
+
+**Entrada**
+- Retestes de US$ 2,27 - US$ 2,40
+- Rompimentos confirmados de US$ 2,75
+
+**Saída**
+- Alvos em US$ 3,00, US$ 3,50, US$ 5,00
+- Stop loss abaixo de US$ 2,00
+
+### Para Day Traders
+
+**Zonas de Operação**
+- Range atual: US$ 2,30 - US$ 2,70
+- Comprar suportes, vender resistências
+- Stop loss apertado (2-3%)
+
+## Gestão de Risco
+
+### Princípios Fundamentais
+
+**Tamanho de Posição**
+- Não mais que 5-10% do portfolio em XRP
+- Ajustar conforme volatilidade
+- Considerar correlação com mercado
+
+**Stop Loss**
+- Abaixo de US$ 2,00 para posições longas
+- Ajustar conforme movimento
+- Respeitar sempre
+
+**Diversificação**
+- Não concentrar apenas em XRP
+- Balancear com BTC, ETH e outras alts
+- Manter reserva em stablecoins
+
+## FAQ Rápido
+
+**O rompimento da XRP é sustentável?**
+A estrutura técnica sugere que sim — desde que mantenha suporte acima das máximas anteriores (US$ 2,00) e volume crescente. O padrão de 7 anos é extremamente significativo.
+
+**Quais são os principais riscos no curto prazo?**
+Volatilidade típica após grandes rompimentos, realização parcial de lucros por grandes detentores, decisão regulatória pendente e possível correção do mercado geral de cripto.
+
+**Quão impactante pode ser um ETF spot?**
+Um ETF pode destravar nova onda institucional, elevando liquidez e legitimidade do ativo — potencialmente catalisando novos topos. O precedente do ETF de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) mostra o potencial transformador.
+
+**XRP pode chegar a US$ 10?**
+Tecnicamente possível se houver aprovação de ETF, vitória regulatória completa e bull market forte. Requer confluência de fatores positivos e tempo (6-12 meses).
+
+**Qual o melhor momento para comprar XRP?**
+Idealmente em retestes de suporte (US$ 2,00 - US$ 2,27) ou após rompimentos confirmados de resistências-chave com volume. Evite comprar em topos de euforia.
+
+## Conclusão
+
+O rompimento histórico da XRP após 7 anos de consolidação marca um momento crucial para
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"es","alternateSlugPt":"xrp-rompimento-historico-etf-analise","alternateSlugEn":"xrp-breaks-7-year-pattern-builds-new-base-and-market-eyes-historic-targets"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"XRP Rompe Padrão de 7 Años, Construye Nueva Base y Mercado Mira Alvos Históricos"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"Análisis técnico y macro del rompimiento estructural de la XRP después de 7 años, proyecciones de precio e impacto del posible ETF en el mercado."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["Por ","Jonatha Pereira"]}],["$","time",null,{"dateTime":"2025-11-02","children":"1 de noviembre de 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos.webp","alt":"XRP - Rompimento Histórico","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"XRP Rompe Padrão de 7 Años: Análisis del Rompimiento y ETF | A Cifra"}],["$","meta","3",{"name":"description","content":"Análisis completo del rompimiento histórico de la XRP después de 7 años, nueva base de acumulación, proyecciones de precio y impacto del posible ETF spot."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"xrp,ripple,rompimento,análise técnica,etf xrp,projeções xrp,altcoins"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/es/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","link","18",{"rel":"alternate","hrefLang":"es","href":"https://a-cifra.com.br/es/"}],["$","meta","19",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","20",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","21",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","22",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","23",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","24",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","25",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","26",{"property":"og:title","content":"XRP Rompe Padrão de 7 Años, Construye Nueva Base y Mercado Mira Alvos Históricos"}],["$","meta","27",{"property":"og:description","content":"Análisis técnico y macro del rompimiento estructural de la XRP después de 7 años, proyecciones de precio e impacto del posible ETF en el mercado."}],["$","meta","28",{"property":"og:locale","content":"es_ES"}],["$","meta","29",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/xrp-rompe-padro-de-7-aos-construye-nueva-base-y-mercado-mira-alvos-histricos.webp"}],["$","meta","30",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","31",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","32",{"name":"twitter:creator","content":"@acifra"}],["$","meta","33",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","34",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","35",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","36",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","37",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

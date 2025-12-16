@@ -84,8 +84,8 @@ async function postToMedium(articlePath) {
         // Digitar parágrafo por parágrafo para formatar melhor
         const paragraphs = bodyText.split('\n').filter(p => p.trim().length > 0);
 
-        // Limitar para não demorar horas no teste
-        const maxParas = 15; // Postar intro
+        // Limitar removido para produção
+        const maxParas = 500; // Postar tudo
 
         for (let i = 0; i < Math.min(paragraphs.length, maxParas); i++) {
             await page.keyboard.type(paragraphs[i]);

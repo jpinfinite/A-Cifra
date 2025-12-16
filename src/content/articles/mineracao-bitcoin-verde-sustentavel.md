@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Verde: Como a Mineração Está Impulsionando a Energia Renovável (Sem Você Saber)"
 date: '2025-12-15'
-category: Criptomoedas & Blockchain
+category: Bitcoin
 excerpt: 'Esqueça a narrativa de que o Bitcoin ferve os oceanos. Dados mostram como a mineração cripto está se tornando a maior aliada das energias solar e eólica.'
 image: /images/articles/mineracao-bitcoin-verde-sustentavel.webp
 author: Antigravity

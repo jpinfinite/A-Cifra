@@ -8,7 +8,7 @@ import { CryptoWidget } from '@/components/crypto/CryptoWidget'
 import { NewsletterCTA } from '@/components/newsletter'
 import { SidebarAd } from '@/components/ads/SidebarAd'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
-import { ArticleSchema, BreadcrumbSchema } from '@/components/seo'
+import { ArticleSchema, BreadcrumbSchema, FAQSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
 import { generateArticleMetadata } from '@/utils/seo'
 import { getRelatedArticles } from '@/utils/relatedArticles'
@@ -92,17 +92,21 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         category={article.category.name}
         tags={article.tags}
       />
-      <BreadcrumbSchema items={breadcrumbItems} />
+
+      {/* FAQ Schema */}
+      {article.faq && article.faq.length > 0 && (
+        <FAQSchema faqs={article.faq} />
+      )}
 
       <Container size="xl" className="py-8">
-            {/* Language Toggle */}
-            <div className="mb-6">
-              <LanguageToggle
-                currentLang="pt-BR"
-                alternateSlugEn={article.alternateLanguages?.en}
-                alternateSlugEs={article.alternateLanguages?.es}
-              />
-            </div>
+        {/* Language Toggle */}
+        <div className="mb-6">
+          <LanguageToggle
+            currentLang="pt-BR"
+            alternateSlugEn={article.alternateLanguages?.en}
+            alternateSlugEs={article.alternateLanguages?.es}
+          />
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           {/* Main Content */}

@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin DeFi: Por que a Maior Criptomoeda do Mundo Está Mudando (De Novo)"
 date: '2025-12-15'
-category: Criptomoedas & Blockchain
+category: Bitcoin
 excerpt: 'O Bitcoin não é apenas ouro digital. Uma nova camada de tecnologia está transformando a rede em um ecossistema financeiro completo. Entenda as Layer 2.'
 image: /images/articles/bitcoin-layer-2-escalabilidade.webp
 author: Antigravity

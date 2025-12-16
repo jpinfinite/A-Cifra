@@ -1,0 +1,290 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"CookieConsent"]
+4:["slug","bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["en",{"children":["article",{"children":[["slug","bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis","d"],{"children":["__PAGE__?{\"slug\":\"bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["en",{"children":["article",{"children":[["slug","bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"ExchangeAffiliateLinks"]
+11:T2339,# [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) Volta aos $93k Após Correção - Próximos Alvos e Análise Dezembro 2025
+
+O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) demonstrou mais uma vez sua resiliência ao recuperar o nível de **$93.000** após uma correção saudável que levou o preço temporariamente para $90.000. Esta movimentação reforça a tendência de alta e abre caminho para novos alvos em dezembro de 2025.
+
+## 📊 Contexto Atual do Mercado
+
+### Recuperação Técnica Sólida
+
+Após atingir a máxima histórica de **$126.198** em outubro de 2025, o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) passou por uma correção natural de aproximadamente 26%, encontrando suporte forte na região dos $90.000. Esta correção era esperada e saudável, permitindo que o mercado consolidasse ganhos antes de buscar novos patamares.
+
+**Dados atuais (3 de dezembro de 2025):**
+- **Preço:** $92.960
+- **Market Cap:** $1,85 trilhões
+- **Volume 24h:** $76,77 bilhões
+- **Dominância:** 58,3%
+- **Variação 24h:** +1,75%
+
+### Por Que a Correção Foi Saudável?
+
+1. **Limpeza de Alavancagem:** Liquidou posições excessivamente alavancadas
+2. **Redistribuição:** Permitiu entrada de novos investidores
+3. **Teste de Suporte:** Confirmou $90k como suporte forte
+4. **Reset de Indicadores:** RSI e outros indicadores saíram de sobrecompra
+5. **Acumulação Institucional:** Grandes players aproveitaram para acumular
+
+## 🎯 Análise Técnica Completa
+
+### Níveis de Suporte Críticos
+
+**Suportes Imediatos:**
+- **$92.000:** Suporte de curto prazo (atual)
+- **$90.000:** Suporte forte testado recentemente
+- **$87.500:** Suporte secundário importante
+- **$85.000:** Último bastião antes de correção maior
+
+**Suportes de Longo Prazo:**
+- **$80.000:** Zona de acumulação institucional
+- **$75.000:** Suporte psicológico crítico
+- **$70.000:** Base da tendência de alta atual
+
+### Resistências e Próximos Alvos
+
+**Resistências Imediatas:**
+- **$95.000:** Primeira resistência significativa
+- **$98.000:** Zona de consolidação anterior
+- **$100.000:** Barreira psicológica histórica
+- **$105.000:** Resistência técnica forte
+
+**Alvos de Médio Prazo (Dezembro 2025):**
+- **Cenário Conservador:** $98.000 - $102.000
+- **Cenário Base:** $105.000 - $110.000
+- **Cenário Otimista:** $115.000 - $120.000
+- **Cenário Muito Otimista:** Reteste de $126.000
+
+### Indicadores Técnicos
+
+**RSI (Relative Strength Index):**
+- **Atual:** 62 (neutro para alta)
+- **Análise:** Saiu da zona de sobrecompra (>70), indicando espaço para subida
+- **Sinal:** Positivo para continuação da alta
+
+**MACD (Moving Average Convergence Divergence):**
+- **Status:** Cruzamento altista recente
+- **Histograma:** Crescente
+- **Sinal:** Forte indicação de momentum comprador
+
+**Médias Móveis:**
+- **MA 20:** $91.500 (suporte dinâmico)
+- **MA 50:** $88.000 (suporte forte)
+- **MA 200:** $75.000 (tendência de alta confirmada)
+- **Golden Cross:** Confirmado desde agosto 2025
+
+**Bollinger Bands:**
+- **Banda Superior:** $97.000
+- **Banda Média:** $92.000
+- **Banda Inferior:** $87.000
+- **Análise:** Preço testando banda superior, indicando força compradora
+
+**Volume Profile:**
+- **POC (Point of Control):** $91.000
+- **Volume Acumulado:** Crescente nas altas
+- **Análise:** Distribuição saudável, sem sinais de topo
+
+### Padrões Gráficos Identificados
+
+**1. Bull Flag (Bandeira de Alta)**
+- **Formação:** Consolidação após rally forte
+- **Alvo:** $105.000 (medido pela haste da bandeira)
+- **Probabilidade:** 75% de sucesso
+
+**2. Ascending Triangle**
+- **Resistência:** $95.000
+- **Suporte Ascendente:** Linha de tendência desde $85k
+- **Breakout Target:** $108.000
+
+**3. Cup and Handle (Xícara com Alça)**
+- **Formação:** Em desenvolvimento no gráfico semanal
+- **Alvo Projetado:** $135.000
+- **Timeframe:** Q1 2026
+
+## 🚀 Catalisadores Fundamentais
+
+### 1. Adoção Institucional Crescente
+
+**ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):**
+- **Fluxos Líquidos:** +$2,3 bilhões em novembro
+- **AUM Total:** $85 bilhões
+- **Principais Players:** BlackRock, Fidelity, Grayscale
+
+**MicroStrategy e Corporações:**
+- **MicroStrategy:** 189.150 BTC (~$17,5 bilhões)
+- **Tesla:** 11.509 BTC
+- **Marathon Digital:** 25.000+ BTC
+- **Tendência:** Mais empresas anunciando alocação em BTC
+
+### 2. Política Monetária Global
+
+**Federal Reserve (Fed):**
+- **Taxa de Juros:** Mantida em 5,25-5,50%
+- **Expectativa:** Possível corte em Q1 2026
+- **Impacto:** Positivo para ativos de risco como [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)
+
+**Inflação:**
+- **CPI (EUA):** 3,2% (em queda)
+- **Narrativa:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) como hedge contra inflação
+- **Demanda:** Crescente em países com alta inflação
+
+### 3. Halving de 2024 - Efeitos Prolongados
+
+**Redução de Oferta:**
+- **Novo Subsídio:** 3,125 BTC por bloco
+- **Redução:** 50% na emissão diária
+- **Histórico:** Halvings anteriores precederam altas de 300-2000%
+
+**Ciclo Pós-Halving:**
+- **Fase Atual:** 18 meses pós-halving (zona de alta histórica)
+- **Padrão Histórico:** Topos ocorrem 12-18 meses após halving
+- **Projeção:** Possível extensão do ciclo até Q2 [2026](/artigo/bitcoin-2026-previsao-preco-analise-completa "Bitcoin em 2026: Previsão de Preço, Análise Téndamentalista Completa")
+
+### 4. Regulação Favorável
+
+**Estados Unidos:**
+- **SEC:** Postura mais clara sobre criptomoedas
+- **Legislação:** Avanços no Congresso para regulação
+- **Impacto:** Redução de incerteza regulatória
+
+**Europa:**
+- **MiCA:** Regulação harmonizada implementada
+- **Adoção:** Facilitada para instituições financeiras
+
+**Ásia:**
+- **Hong Kong:** Hub cripto em desenvolvimento
+- **Japão:** Expansão de ETFs e produtos cripto
+
+### 5. Desenvolvimentos Tecnológicos
+
+**Lightning Network:**
+- **Capacidade:** 5.500+ BTC
+- **Canais:** 75.000+
+- **Adoção:** Crescente para pagamentos
+
+**Taproot e Ordinals:**
+- **NFTs no [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** Novo caso de uso
+- **Demanda por Block Space:** Aumentando
+- **Fees:** Gerando receita adicional para mineradores
+
+## 💼 Estratégias de Trading e Investimento
+
+### Para Day Traders
+
+**Setup de Compra:**
+1. **Entrada:** $92.500 - $93.000
+2. **Stop Loss:** $91.000 (-2%)
+3. **Take Profit 1:** $95.000 (+2,7%)
+4. **Take Profit 2:** $98.000 (+5,4%)
+5. **Risk/Reward:** 1:2,7
+
+**Setup de Venda (Short):**
+- **Não recomendado** na tendência atual
+- **Aguardar:** Sinais claros de reversão
+
+### Para Swing Traders
+
+**Estratégia de Médio Prazo:**
+1. **Acumulação:** Entre $90k - $93k
+2. **Holding:** Até $105k - $110k
+3. **Parcial:** Realizar 30-50% em $100k
+4. **Stop:** Abaixo de $87k
+5. **Timeframe:** 2-4 semanas
+
+### Para Holders (HODLers)
+
+**Estratégia de Longo Prazo:**
+1. **DCA (Dollar Cost Averaging):** Compras mensais fixas
+2. **Acumulação:** Em correções de 10-15%
+3. **Holding:** Mínimo 12-24 meses
+4. **Meta:** $150k - $200k (2026)
+5. **Gestão:** Nunca vender tudo, manter core position
+
+### Gestão de Risco
+
+**Regras Fundamentais:**
+1. **Nunca invista mais do que pode perder**
+2. **Diversifique:** [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) não deve ser 100% do portfólio
+3. **Stop Loss:** Sempre defina antes de entrar
+4. **Alavancagem:** Evite ou use com extrema cautela
+5. **Emoções:** Não tome decisões baseadas em FOMO ou pânico
+
+**Alocação Sugerida:**
+- **Conservador:** 5-10% do portfólio
+- **Moderado:** 10-20% do portfólio
+- **Agressivo:** 20-40% do portfólio
+- **Muito Agressivo:** 40%+ (apenas para perfil adequado)
+
+## 🔮 Cenários para Dezembro 2025
+
+### Cenário 1: Bullish (Probabilidade: 60%)
+
+**Gatilhos:**
+- Rompimento de $95k com volume
+- Fluxos positivos em ETFs
+- Notícias positivas sobre regulação
+
+**Projeção:**
+- **Alvo 1:** $100.000 (psicológico)
+- **Alvo 2:** $108.000 (técnico)
+- **Alvo 3:** $115.000 (extensão Fibonacci)
+
+**Timeframe:** 2-3 semanas
+
+### Cenário 2: Consolidação (Probabilidade: 30%)
+
+**Gatilhos:**
+- Resistência forte em $95k
+- Realização de lucros
+- Notícias neutras
+
+**Projeção:**
+- **Range:** $90.000 - $95.000
+- **Duração:** 2-4 semanas
+- **Resolução:** Provável rompimento para cima
+
+### Cenário 3: Correção (Probabilidade: 10%)
+
+**Gatilhos:**
+- Perda de $90k
+- Notícias negativas inesperadas
+- Crash em mercados tradicionais
+
+**Projeção:**
+- **Suporte 1:** $87.500
+- **Suporte 2:** $85.000
+- **Suporte 3:** $80.000
+
+**Ação:** Oportunidade de acumulação
+
+## 📈 Análise On-Chain
+
+### Métricas de Holders
+
+**Supply em Exchanges:**
+- **Atual:** 2,1 milhões BTC (10,5%)
+- **Tendência:** Decrescente (sinal altista)
+- **Análise:** Holders preferem cold storage
+
+**Endereços Ativos:**
+- **Diários:** 950.000+
+- **Crescimento:** +15% vs. mês anterior
+- **Sinal:** Aumento de adoção e uso
+
+**Whale Activity:**
+- **Endereços >1.000
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"en","alternateSlugPt":"bitcoin-volta-93k-analise-proximos-alvos-dezembro","alternateSlugEs":"bitcoin-vuelve-a-los-93k-despus-de-la-correccin---prximos-objetivos-y-anlisis-diciembre-2025"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Bitcoin Returns to $93k After Correction - Next Targets and December 2025 Analysis"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"Bitcoin recovers $93k after healthy correction. Technical analysis reveals next targets: $95k, $98k, and $100k. Discover the catalysts and strategies for December 2025."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["By ","Equipe A Cifra"]}],["$","time",null,{"dateTime":"2025-12-03","children":"December 2, 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis.webp","alt":"Bitcoin volta aos $93k - Análise e próximos alvos dezembro 2025","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Bitcoin $93k: Next Targets and December 2025 Analysis | The Cipher"}],["$","meta","3",{"name":"description","content":"Bitcoin recovers $93k. A complete technical analysis shows next targets ($95k, $98k, $100k) and strategies for December. See catalysts and key levels."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"bitcoin 93k,btc dezembro 2025,próximos alvos bitcoin,análise bitcoin,bitcoin 100k"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/en/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","meta","18",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","19",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","20",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","21",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","22",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","23",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","24",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","25",{"property":"og:title","content":"Bitcoin Returns to $93k After Correction - Next Targets and December 2025 Analysis"}],["$","meta","26",{"property":"og:description","content":"Bitcoin recovers $93k after healthy correction. Technical analysis reveals next targets: $95k, $98k, and $100k. Discover the catalysts and strategies for December 2025."}],["$","meta","27",{"property":"og:locale","content":"en_US"}],["$","meta","28",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/bitcoin-returns-to-93k-after-correction---next-targets-and-december-2025-analysis.webp"}],["$","meta","29",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","30",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","31",{"name":"twitter:creator","content":"@acifra"}],["$","meta","32",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","33",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","34",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","35",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","36",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

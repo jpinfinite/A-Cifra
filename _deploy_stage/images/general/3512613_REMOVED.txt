@@ -1,0 +1,17 @@
+LARGE EPS FILE REMOVED
+=====================
+
+Original file: 3512613.eps
+Original size: 16.51 MB
+Removed on: 2025-10-30T19:58:39.893Z
+
+Reason: EPS files are vector format and too large for web deployment.
+This file exceeded the 25MB Cloudflare Pages limit.
+
+To restore: Convert the original EPS to a web-friendly format like:
+- WebP (recommended): Use online converter or ImageMagick
+- PNG: For images with transparency
+- JPEG: For photos without transparency
+
+Suggested command (if you have ImageMagick):
+magick "3512613.eps" -strip -quality 85 "3512613.webp"

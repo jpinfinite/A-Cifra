@@ -1,0 +1,279 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"CookieConsent"]
+4:["slug","renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["es",{"children":["article",{"children":[["slug","renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad","d"],{"children":["__PAGE__?{\"slug\":\"renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["es",{"children":["article",{"children":[["slug","renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"ExchangeAffiliateLinks"]
+11:T1fd5,[Renda](/artigo/renda-passiva-criptomoedas-staking-lending-2025 "Renda Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming") Passiva com Criptomoedas em 2025: Staking, Lending e Yield Farming
+
+Imagine ganhar dinheiro enquanto dorme, apenas mantendo suas criptomoedas. Não é ficção: **renda passiva com [cripto](/artigo/renta-pasiva-con-cripto-en-2026-7-estrategias-que-funcionan "Renta Pasiva con Cripto en 2026: 7 Estrategias que Funcionan")** é real e acessível para qualquer pessoa em 2025.
+
+Neste [guia](/artigo/defi-guia-completo-iniciantes-2025 "DeFi: Guia Completo para Iniciantes 2025 - Como Ganhar Renda Passiva com Criptomoedas") completo, você vai aprender **4 formas comprovadas** de gerar renda passiva com criptomoedas, com retornos que variam de **3% a 20% ao ano** (ou mais, com maior risco).
+
+## O Que É Renda Passiva com Criptomoedas?
+
+**[Renda](/artigo/renda-passiva-cripto-2026-estrategias "Renda Passiva com Cripto em 2026: 7 Estratégias que Funcionam") passiva** é ganhar dinheiro sem trabalho ativo contínuo. No mundo cripto, você pode:
+
+- **Emprestar** suas criptomoedas e receber juros
+- **Fazer staking** e ganhar recompensas
+- **Prover liquidez** em pools e receber taxas
+- **Fazer yield farming** e maximizar retornos
+
+**Diferença para trading:**
+- Trading = trabalho ativo, análise constante
+- Renda passiva = configurar e deixar render
+
+## 4 Formas de Gerar Renda Passiva
+
+### 1. Staking - A Mais Segura
+
+**O que é:** Travar suas criptomoedas para validar transações na blockchain e receber recompensas.
+
+**Como funciona:**
+1. Você "trava" suas moedas por um período
+2. Elas ajudam a validar transações (Proof of Stake)
+3. Você recebe recompensas em mais moedas
+
+**Retorno típico:** 3% a 15% ao ano
+
+#### Melhores Criptomoedas para Staking
+
+##### Ethereum (ETH) - 3,5% ao ano
+- ✅ Segunda maior criptomoeda
+- ✅ Segurança máxima
+- ✅ Liquidez alta
+- ⚠️ Mínimo: 32 ETH (ou pools)
+- ⚠️ Período de lock variável
+
+**Como fazer:**
+- Binance Earn
+- Lido Finance (liquid staking)
+- Rocket Pool
+- Coinbase (4% APR)
+
+##### Solana (SOL) - 7% ao ano
+- ✅ Blockchain rápida
+- ✅ Sem período de lock
+- ✅ Fácil de fazer
+- ⚠️ Mais volátil que ETH
+
+**Como fazer:**
+- Phantom Wallet
+- Binance Earn
+- Marinade Finance (liquid staking)
+
+##### Cardano (ADA) - 5% ao ano
+- ✅ Sem lock period
+- ✅ Pode retirar a qualquer momento
+- ✅ Descentralizado
+- ✅ Baixo risco
+
+**Como fazer:**
+- Daedalus Wallet
+- Yoroi Wallet
+- Binance Earn
+
+##### Polkadot (DOT) - 12% ao ano
+- ✅ Retorno alto
+- ✅ Projeto sólido
+- ⚠️ Lock de 28 dias
+- ⚠️ Mais volátil
+
+**Como fazer:**
+- Polkadot.js
+- Binance Earn
+- Kraken
+
+##### Cosmos (ATOM) - 15% ao ano
+- ✅ Retorno muito alto
+- ✅ Ecossistema crescente
+- ⚠️ Lock de 21 dias
+- ⚠️ Risco moderado
+
+**Como fazer:**
+- Keplr Wallet
+- Binance Earn
+
+#### Staking Centralizado vs Descentralizado
+
+**Centralizado (Exchange):**
+- ✅ Fácil de usar
+- ✅ Sem mínimo
+- ✅ Liquidez (pode retirar)
+- ⚠️ [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) controla suas moedas
+- **Exemplos:** Binance Earn, Coinbase, Kraken
+
+**Descentralizado (Wallet):**
+- ✅ Você controla as chaves
+- ✅ Retornos geralmente maiores
+- ✅ Mais descentralizado
+- ⚠️ Mais complexo
+- ⚠️ Pode ter mínimos altos
+- **Exemplos:** Lido, Rocket Pool, Marinade
+
+#### Liquid Staking - O Melhor dos Dois Mundos
+
+**O que é:** Fazer staking mas receber um token que representa sua posição, permitindo usar em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).
+
+**Exemplo com Lido (ETH):**
+1. Deposita ETH no Lido
+2. Recebe stETH (1:1)
+3. stETH rende 3,5% ao ano
+4. Pode usar stETH em outros protocolos [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
+5. **Resultado:** Ganha staking + pode usar o capital
+
+**Protocolos de Liquid Staking:**
+- **Lido** (ETH, SOL, MATIC)
+- **Rocket Pool** (ETH)
+- **Marinade** (SOL)
+- **Ankr** (múltiplas chains)
+
+### 2. Lending (Empréstimo) - Juros Fixos
+
+**O que é:** Emprestar suas criptomoedas para outros usuários e receber juros.
+
+**Como funciona:**
+1. Deposita cripto em plataforma de lending
+2. Outros usuários pegam emprestado
+3. Você recebe juros (APY)
+4. Pode retirar a qualquer momento (geralmente)
+
+**Retorno típico:** 2% a 12% ao ano
+
+#### Plataformas Centralizadas (CeFi)
+
+##### Binance Earn
+- **Stablecoins:** 5-8% ao ano
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** 1-3% ao ano
+- **Altcoins:** 3-10% ao ano
+- ✅ Fácil de usar
+- ✅ Seguro ([exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) grande)
+- ⚠️ Taxas podem variar
+
+##### Nexo
+- **Stablecoins:** 8-12% ao ano
+- **[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):** 4-6% ao ano
+- ✅ Juros diários
+- ✅ Seguro de custódia
+- ⚠️ Menos conhecido no Brasil
+
+##### YouHodler
+- **Stablecoins:** 7-12% ao ano
+- ✅ Juros semanais
+- ✅ Múltiplas moedas
+- ⚠️ Regulamentação limitada
+
+#### Plataformas Descentralizadas (DeFi)
+
+##### Aave - Líder em [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Lending
+- **Stablecoins:** 3-8% ao ano
+- **ETH:** 1-3% ao ano
+- ✅ Protocolo auditado
+- ✅ Descentralizado
+- ✅ Você controla as chaves
+- ⚠️ Risco de smart contract
+
+**Como usar:**
+1. Conecte MetaMask
+2. Acesse app.aave.com
+3. Deposite USDC, DAI ou ETH
+4. Receba aTokens (ex: aUSDC)
+5. Ganhe juros automaticamente
+
+##### Compound Finance
+- **Stablecoins:** 2-6% ao ano
+- ✅ Protocolo pioneiro
+- ✅ Auditado múltiplas vezes
+- ⚠️ Taxas de gas (Ethereum)
+
+##### Curve Finance (para Stablecoins)
+- **Stablecoins:** 3-10% ao ano
+- ✅ Especializado em stablecoins
+- ✅ Baixo impermanent loss
+- ✅ Juros + taxas de trading
+
+#### Comparação: CeFi vs [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) Lending
+
+| Aspecto | CeFi (Binance) | [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) (Aave) |
+|---------|----------------|-------------|
+| **Facilidade** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Controle** | [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) | Você |
+| **Retorno** | Médio | Médio-Alto |
+| **Risco** | Risco de [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) | Risco de smart contract |
+| **Liquidez** | Alta | Alta |
+| **Mínimo** | Nenhum | Gas fees |
+
+### 3. Liquidity Pools - Taxas de Trading
+
+**O que é:** Prover liquidez para exchanges descentralizadas (DEXs) e ganhar parte das taxas de trading.
+
+**Como funciona:**
+1. Deposita 2 criptomoedas em um pool (ex: ETH + USDC)
+2. Traders usam seu pool para trocar moedas
+3. Você ganha parte das taxas (0,3% por trade)
+4. Recebe tokens LP (Liquidity Provider)
+
+**Retorno típico:** 5% a 30% ao ano (+ risco de impermanent loss)
+
+#### Principais DEXs para Liquidity Pools
+
+##### Uniswap (Ethereum)
+- **Pares populares:** ETH/USDC, WBTC/ETH
+- **Retorno:** 10-25% ao ano
+- ✅ Maior DEX do mundo
+- ✅ Liquidez alta
+- ⚠️ Gas fees altos (Ethereum)
+- ⚠️ Impermanent loss
+
+**Como fazer:**
+1. Acesse app.uniswap.org
+2. Conecte MetaMask
+3. Vá em "Pool"
+4. Adicione liquidez (50/50 de cada token)
+5. Receba tokens LP
+6. Ganhe taxas automaticamente
+
+##### PancakeSwap (BNB Chain)
+- **Pares populares:** BNB/BUSD, CAKE/BNB
+- **Retorno:** 15-40% ao ano
+- ✅ Gas fees baixíssimos
+- ✅ Fácil de usar
+- ⚠️ Mais centralizado que Ethereum
+
+##### Curve Finance (Stablecoins)
+- **Pares:** USDC/USDT/DAI
+- **Retorno:** 5-15% ao ano
+- ✅ Baixo impermanent loss (stablecoins)
+- ✅ Ideal para conservadores
+- ✅ Juros + taxas + CRV rewards
+
+##### Balancer (Multi-token Pools)
+- **Pools:** 3-8 tokens
+- **Retorno:** 10-30% ao ano
+- ✅ Diversificação automática
+- ✅ Rebalanceamento automático
+- ⚠️ Mais complexo
+
+#### ⚠️ Impermanent Loss - O Maior Risco
+
+**O que é:** Perda temporária quando preço dos tokens muda muito.
+
+**Exemplo:**
+1. Você deposita 1 ETH ($3.000) + 3.000 USDC
+2. ETH sobe para $6.000
+3. Pool rebalanceia automaticamente
+4. Você tem agora 0,707 ETH + 4.242 USDC = $8.484
+5. Se tivesse apenas segurado: 1 ETH ($6.000) + 3.000 USDC = $9.000
+6. **Perda:**
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"es","alternateSlugPt":"renda-passiva-criptomoedas-staking-lending-2025","alternateSlugEn":"passive-income-with-cryptocurrencies-in-2025-staking-lending-and-yield-farming"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Renta Pasiva con Criptomonedas en 2025: Staking, Préstamos y Aperfeccionamiento de Rentabilidad"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"Guía completa para generar ingresos pasivos con criptomonedas: staking, lending, acuicultura de rendimiento y piscinas de liquidez. Aprende a ganar hasta un 20% al año."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["Por ","Jonatha Pereira"]}],["$","time",null,{"dateTime":"2025-11-22","children":"21 de noviembre de 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad.webp","alt":"Renda passiva com criptomoedas - Staking e Lending","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Renta Pasiva con Criptomonedas 2025: Staking, Préstamos y Rentabilidad | A Cifra"}],["$","meta","3",{"name":"description","content":"Aprende a generar ingresos pasivos con criptomonedas: staking (hasta un 15% al año), préstamos, agricultura de rendimiento y piscinas de liquidez. Guía completa con estrategias seguras."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"renda passiva criptomoedas,staking criptomoedas,yield farming,lending cripto,ganhar com bitcoin"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/es/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","link","18",{"rel":"alternate","hrefLang":"es","href":"https://a-cifra.com.br/es/"}],["$","meta","19",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","20",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","21",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","22",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","23",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","24",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","25",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","26",{"property":"og:title","content":"Renta Pasiva con Criptomonedas en 2025: Staking, Préstamos y Aperfeccionamiento de Rentabilidad"}],["$","meta","27",{"property":"og:description","content":"Guía completa para generar ingresos pasivos con criptomonedas: staking, lending, acuicultura de rendimiento y piscinas de liquidez. Aprende a ganar hasta un 20% al año."}],["$","meta","28",{"property":"og:locale","content":"es_ES"}],["$","meta","29",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/renta-pasiva-con-criptomonedas-en-2025-staking-prstamos-y-aperfeccionamiento-de-rentabilidad.webp"}],["$","meta","30",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","31",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","32",{"name":"twitter:creator","content":"@acifra"}],["$","meta","33",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","34",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","35",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","36",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","37",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

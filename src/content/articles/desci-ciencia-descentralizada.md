@@ -1,7 +1,7 @@
 ---
 title: "DeSci: A Ciência Descentralizada é a Próxima Revolução Pós-DeFi?"
 date: '2025-12-15'
-category: Criptomoedas & Blockchain
+category: Web3
 excerpt: 'O sistema científico tradicional está quebrado. Descubra como a DeSci (Ciência Descentralizada) usa blockchain para financiar, compartilhar e acelerar a cura de doenças.'
 image: /images/articles/desci-ciencia-descentralizada.webp
 author: Antigravity

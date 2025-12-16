@@ -35,6 +35,10 @@ interface ArticleFromFile {
     metaDescription?: string
     keywords?: string[]
   }
+  faq?: {
+    question: string
+    answer: string
+  }[]
 }
 
 export function getArticlesByLanguage(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): ArticleFromFile[] {
@@ -58,9 +62,34 @@ export function getArticlesByLanguage(language: 'pt-BR' | 'en' | 'es' = 'pt-BR')
       const fileContents = fs.readFileSync(fullPath, 'utf8')
       const { data, content } = matter(fileContents)
 
+      // Extração automática de FAQs do conteúdo Markdown
+      // Procura por seção ## FAQ ou ## Perguntas Frequentes
+      // E extrai pares de H3 (Pergunta) + Parágrafos (Resposta)
+      let extractedFaq = data.faq as { question: string, answer: string }[] | undefined
+
+      if (!extractedFaq) {
+        const faqRegex = /##\s*(?:FAQ|Perguntas Frequentes)([\s\S]*?)(?:##|$)/i
+        const faqMatch = content.match(faqRegex)
+
+        if (faqMatch && faqMatch[1]) {
+           const faqSection = faqMatch[1]
+           // Procura por perguntas (### Pergunta) e respostas (texto subsequente)
+           const qaRegex = /###\s+(.*?)\n+([\s\S]*?)(?=(?:###|$))/g
+           const matches = Array.from(faqSection.matchAll(qaRegex))
+
+           if (matches.length > 0) {
+             extractedFaq = matches.map(match => ({
+               question: match[1].trim(),
+               answer: match[2].trim()
+             }))
+           }
+        }
+      }
+
       return {
         ...data,
         content,
+        faq: extractedFaq,
         slug,
         language
       } as ArticleFromFile
@@ -189,7 +218,8 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       ? fileArticle.language
       : undefined,
     alternateLanguages: fileArticle.alternateLanguages,
-    readingTime: Math.ceil(fileArticle.content.split(/\s+/).length / 200)
+    readingTime: Math.ceil(fileArticle.content.split(/\s+/).length / 200),
+    faq: fileArticle.faq
   }
 }
 

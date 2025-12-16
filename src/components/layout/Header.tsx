@@ -40,6 +40,7 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
     { label: navDict.security || 'Segurança', href: '/categoria/seguranca' },
     { label: navDict.analysis || 'Análises', href: '/categoria/analises' },
     { label: navDict.education || 'Educação', href: '/categoria/educacao' },
+    { label: 'Glossário', href: '/glossario' },
     { label: navDict.about || 'Sobre Nós', href: '/sobre' },
     { label: navDict.contact || 'Contatos', href: '/contatos' },
   ]

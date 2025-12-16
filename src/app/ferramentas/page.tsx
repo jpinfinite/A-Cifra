@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import { MainLayout } from '@/components/layout'
 import { Container, Heading, Text } from '@/components/ui'
 import { BookOpen, Target, Clock, Alert, TrendingUp, Search } from '@/components/icons/SocialIcons'
-import { DCACalculator, ProfitLossCalculator, StakingCalculator, CryptoTicker } from '@/components/tools'
+import { DCACalculator, ProfitLossCalculator, StakingCalculator, CryptoTicker, CryptoConverter } from '@/components/tools'
 
 export const metadata: Metadata = {
   title: 'Calculadoras e Ferramentas Cripto | A Cifra',
@@ -15,7 +15,7 @@ export default function FerramentasPage() {
     <MainLayout>
       {/* Crypto Ticker - Cotações em Tempo Real */}
       <CryptoTicker />
-      
+
       <Container className="py-8">
         {/* Header */}
         <div className="text-center mb-12">
@@ -28,7 +28,7 @@ export default function FerramentasPage() {
             Calculadoras e Ferramentas
           </Heading>
           <Text className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Ferramentas essenciais para planejar e analisar seus investimentos em criptomoedas. 
+            Ferramentas essenciais para planejar e analisar seus investimentos em criptomoedas.
             Calcule DCA, lucros, staking e muito mais.
           </Text>
         </div>
@@ -53,7 +53,7 @@ export default function FerramentasPage() {
               <h3 className="text-lg font-semibold">Calculadora Mining</h3>
             </div>
             <p className="text-gray-600 mb-4">
-              Estime lucratividade da mineração de criptomoedas 
+              Estime lucratividade da mineração de criptomoedas
               considerando hardware e custos de energia.
             </p>
             <div className="space-y-3">
@@ -79,38 +79,7 @@ export default function FerramentasPage() {
           </div>
 
           {/* Currency Converter */}
-          <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="text-brand-gold">
-                <Search size="24" />
-              </div>
-              <h3 className="text-lg font-semibold">Conversor de Moedas</h3>
-            </div>
-            <p className="text-gray-600 mb-4">
-              Converta entre criptomoedas e moedas fiduciárias 
-              em tempo real.
-            </p>
-            <div className="space-y-3">
-              <input
-                type="number"
-                placeholder="Valor"
-                className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold"
-              />
-              <select className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold">
-                <option>De: Bitcoin (BTC)</option>
-                <option>De: Ethereum (ETH)</option>
-                <option>De: Real (BRL)</option>
-              </select>
-              <select className="w-full px-3 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-gold">
-                <option>Para: Real (BRL)</option>
-                <option>Para: Dólar (USD)</option>
-                <option>Para: Bitcoin (BTC)</option>
-              </select>
-              <button className="w-full py-2 bg-brand-primary-blue text-white rounded-lg hover:bg-brand-medium-blue transition-colors">
-                Converter
-              </button>
-            </div>
-          </div>
+          <CryptoConverter />
 
           {/* Portfolio Tracker */}
           <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-shadow">
@@ -121,7 +90,7 @@ export default function FerramentasPage() {
               <h3 className="text-lg font-semibold">Acompanhador de Carteira</h3>
             </div>
             <p className="text-gray-600 mb-4">
-              Acompanhe o desempenho da sua carteira de criptomoedas 
+              Acompanhe o desempenho da sua carteira de criptomoedas
               com análise detalhada.
             </p>
             <div className="space-y-3">
@@ -159,7 +128,7 @@ export default function FerramentasPage() {
               </div>
               <h3 className="font-semibold mb-2">Planejamento</h3>
               <p className="text-gray-300 text-sm">
-                Use as calculadoras para planejar estratégias de investimento 
+                Use as calculadoras para planejar estratégias de investimento
                 e entender potenciais retornos.
               </p>
             </div>
@@ -169,7 +138,7 @@ export default function FerramentasPage() {
               </div>
               <h3 className="font-semibold mb-2">Acompanhamento</h3>
               <p className="text-gray-300 text-sm">
-                Monitore seus investimentos e calcule lucros/prejuízos 
+                Monitore seus investimentos e calcule lucros/prejuízos
                 em tempo real.
               </p>
             </div>
@@ -179,7 +148,7 @@ export default function FerramentasPage() {
               </div>
               <h3 className="font-semibold mb-2">Análise</h3>
               <p className="text-gray-300 text-sm">
-                Analise diferentes cenários e tome decisões 
+                Analise diferentes cenários e tome decisões
                 mais informadas.
               </p>
             </div>
@@ -189,7 +158,7 @@ export default function FerramentasPage() {
               </div>
               <h3 className="font-semibold mb-2">Otimização</h3>
               <p className="text-gray-300 text-sm">
-                Otimize suas estratégias de DCA, staking e 
+                Otimize suas estratégias de DCA, staking e
                 alocação de ativos.
               </p>
             </div>
@@ -199,9 +168,9 @@ export default function FerramentasPage() {
         {/* Important Notice */}
         <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 rounded-lg mb-12">
           <div className="flex items-start gap-3">
-              <div className="text-yellow-600 flex-shrink-0 mt-1">
-                <Alert size="24" />
-              </div>
+            <div className="text-yellow-600 flex-shrink-0 mt-1">
+              <Alert size="24" />
+            </div>
             <div>
               <h3 className="font-semibold text-yellow-800 mb-2">
                 Aviso Importante
@@ -278,7 +247,7 @@ export default function FerramentasPage() {
         {/* CTA */}
         <div className="mt-12 text-center">
           <Text className="mb-6">
-            Precisa de ajuda para usar nossas ferramentas? 
+            Precisa de ajuda para usar nossas ferramentas?
             <br />
             Nossa equipe está disponível para auxiliar!
           </Text>

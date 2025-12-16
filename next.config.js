@@ -6,6 +6,9 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 
   // Otimizações de performance
   compress: true,

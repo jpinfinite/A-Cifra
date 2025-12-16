@@ -1,0 +1,296 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"CookieConsent"]
+4:["slug","ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["es",{"children":["article",{"children":[["slug","ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025","d"],{"children":["__PAGE__?{\"slug\":\"ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["es",{"children":["article",{"children":[["slug","ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"ExchangeAffiliateLinks"]
+11:T2818,1. Aumenta Gas Limit para 60M - O Que Muda na Rede em 2025
+
+27 de novembro de 2025 - A rede [Ethereum](/artigo/ethereum-increases-gas-limit-to-60m---what-changes-on-the-network-in-2025 "Ethereum Increases Gas Limit to 60M - What Changes on the Network in 2025") acaba de implementar um upgrade significativo: o gas limit por bloco aumentou de 50 milhões para 60 milhões, representando uma expansão de 20% na capacidade da rede. Vitalik Buterin, co-fundador do Ethereum, confirmou a mudança e indicou que mais ajustes virão em 2026.
+
+2. O Que É Gas Limit?
+
+Gas limit é o máximo de gas (unidade de computação) que pode ser usado em um único bloco do [Ethereum](/artigo/ethereum-aumenta-gas-limit-para-60m---lo-que-cambia-en-la-red-en-2025 "Ethereum Aumenta Gas Limit para 60M - Lo Que Cambia en la Red en 2025").
+
+Analogia simples: Pense no gas limit como o tamanho de um ônibus:
+- Gas limit maior = ônibus maior = mais passageiros (transações) por viagem (bloco)
+- Gas limit menor = ônibus menor = menos passageiros por viagem
+
+3. Como Funciona
+
+Cada transação no Ethereum consome gas:
+- Transferência simples de ETH: ~21.000 gas
+- Swap na Uniswap: ~150.000 gas
+- Mint de NFT: ~80.000 gas
+- Transação complexa [defi]: 300.000+ gas
+
+Com gas limit de 50M:
+- ~2.380 transferências simples por bloco
+- ~333 swaps na Uniswap por bloco
+- ~625 mints de NFT por bloco
+
+Com gas limit de 60M (novo):
+- ~2.857 transferências simples por bloco (+20%)
+- ~400 swaps na Uniswap por bloco (+20%)
+- ~750 mints de NFT por bloco (+20%)
+
+4. Por Que Aumentar o Gas Limit?
+
+1. Demanda Crescente
+
+A rede [Ethereum](/artigo/ethereum-gas-limit-60m-upgrade-2025 "Ethereum Aumenta Gas Limit para 60M - O Que Muda na Rede em 2025") está processando mais transações do que nunca:
+- Estatísticas (novembro 2025):
+- 1,2 milhão de transações/dia (média)
+- Blocos 95%+ cheios (congestionamento)
+- Gas price médio: 15-25 gwei (alto)
+
+Resultado: Rede congestionada = taxas altas = usuários migrando para Layer 2s.
+
+2. Preparação para Fusaka (2026)
+
+Fusaka é o próximo grande upgrade do [Ethereum](/artigo/ethereum-20-the-future-of-the-second-largest-cryptocurrency "Ethereum 2.0: The Future of the Second Largest Cryptocurrency") (previsto para Q2 2026):
+- Melhorias esperadas:
+- Aumento adicional de capacidade
+- Otimizações de EVM (Ethereum Virtual Machine)
+- Melhor eficiência de gas
+- Suporte aprimorado para Layer 2s
+
+Vitalik Buterin disse:
+> "Esperamos crescimento contínuo em 2026, mas com ajustes mais inteligentes que expandem capacidade sem criar novos gargalos."
+
+3. Competição com Layer 2s
+
+Layer 2s (Arbitrum, Optimism, Base) estão crescendo rapidamente:
+- Volume de transações (nov/2025):
+- Arbitrum: 3M transações/dia
+- Optimism: 1,5M transações/dia
+- Base: 2M transações/dia
+- Ethereum L1: 1,2M transações/dia
+
+Problema: Layer 2s estão processando mais transações que a mainnet.
+
+Solução: Aumentar capacidade da L1 para manter relevância e reduzir taxas.
+
+5. Impacto nas Taxas de Gas
+
+Antes do Upgrade (Gas Limit 50M)
+- Cenário típico:
+- Demanda alta: 55M gas necessário
+- Capacidade: 50M gas disponível
+- Resultado: Congestionamento, taxas sobem para 50-100 gwei
+
+Custo de transação:
+- Transferência ETH: $3-$5
+- Swap Uniswap: $15-$30
+- Mint NFT: $10-$20
+
+Depois do Upgrade (Gas Limit 60M)
+- Cenário típico:
+- Demanda alta: 55M gas necessário
+- Capacidade: 60M gas disponível
+- Resultado: Sem congestionamento, taxas caem para 10-20 gwei
+
+Custo de transação:
+- Transferência ETH: $1-$2 (-50%)
+- Swap Uniswap: $8-$15 (-50%)
+- Mint NFT: $5-$10 (-50%)
+
+Economia estimada: 40-60% nas taxas durante períodos de alta demanda.
+
+6. Riscos e Desafios
+
+1. Aumento do Tamanho da Blockchain
+
+Problema: Blocos maiores = blockchain cresce mais rápido.
+
+Números:
+- Antes: ~50 KB por bloco
+- Depois: ~60 KB por bloco (+20%)
+- Por ano: +1,5 TB adicional
+
+Impacto: Rodar um nó completo fica mais caro (mais armazenamento necessário).
+
+Mitigação:
+- Pruning (poda de dados antigos)
+- State expiry (expiração de estados não usados)
+- Verkle trees (estrutura de dados mais eficiente)
+
+2. Centralização de Validadores
+
+Problema: Blocos maiores exigem hardware mais potente.
+
+Requisitos atuais para validar:
+- CPU: 4+ cores
+- RAM: 16 GB
+- Armazenamento: 2 TB SSD
+- Internet: 10 Mbps
+
+Com gas limit 60M:
+- RAM: 20-24 GB (recomendado)
+- Armazenamento: 2,5 TB SSD
+- Internet: 15 Mbps
+
+Risco: Validadores pequenos podem não conseguir acompanhar = centralização.
+
+Mitigação: Ethereum Foundation está trabalhando em otimizações para manter requisitos acessíveis.
+
+3. Possíveis Bugs
+
+Problema: Mudanças na rede podem introduzir bugs.
+
+Histórico:
+- Shanghai upgrade (2023): Sem problemas
+- Dencun upgrade (2024): Pequenos bugs, corrigidos rapidamente
+- Gas limit 60M (2025): Monitoramento ativo
+
+Mitigação: Testnet extensivo antes de mainnet, monitoramento 24/7.
+
+7. Comparação com Outras Blockchains
+
+| Blockchain | TPS (Transações/Segundo) | Gas Limit | Custo Médio |
+|------------|--------------------------|-----------|-------------|
+| Ethereum (antes) | 15-20 | 50M | $3-$5 |
+| Ethereum (agora) | 18-24 | 60M | $1,50-$3 |
+| Solana | 3.000-5.000 | N/A | $0,0001 |
+| BSC | 50-100 | 140M | $0,10-$0,50 |
+| Polygon | 50-100 | 30M | $0,01-$0,05 |
+| Arbitrum (L2) | 4.000+ | N/A | $0,10-$0,50 |
+
+Conclusão: Ethereum ainda é mais lento e caro que alternativas, mas o upgrade ajuda.
+
+8. O Que Vitalik Buterin Disse
+
+Em post no X (Twitter), Vitalik comentou:
+> "O aumento para 60M é um passo importante, mas não o último. Em 2026, com Fusaka, veremos melhorias mais significativas na eficiência e capacidade. O objetivo é escalar Ethereum sem comprometer descentralização."
+
+Pontos-chave:
+1. ✅ Mais aumentos virão (possivelmente 70-80M em 2026)
+2. ✅ Foco em "ajustes inteligentes" (não apenas aumentar limite)
+3. ✅ Prioridade: Manter descentralização
+4. ✅ Layer 2s continuam sendo a solução de longo prazo
+
+9. Impacto no Preço do ETH
+
+Reação Imediata
+- Preço do ETH:
+- Antes do anúncio: $3.650
+- Após o anúncio: $3.720 (+1,9%)
+- Atual: $3.680 (consolidando)
+
+Interpretação: Mercado vê upgrade como positivo, mas não revolucionário.
+
+Impacto de Longo Prazo
+- Fatores bullish:
+- ✅ Taxas menores = mais uso da rede
+- ✅ Mais uso = mais ETH queimado (EIP-1559)
+- ✅ Mais ETH queimado = oferta reduzida = preço sobe
+
+Cálculo:
+- Se uso da rede aumentar 20% (proporcional ao gas limit):
+- ETH queimado/dia atual: ~1.500 ETH
+- ETH queimado/dia projetado: ~1.800 ETH (+20%)
+- Por ano: +109.500 ETH queimado adicional
+
+Impacto no preço: Modesto, mas positivo no longo prazo.
+
+10. O Que Isso Significa para Você
+
+Se Você Usa Ethereum
+- Benefícios:
+- ✅ Taxas 40-60% menores em períodos de alta demanda
+- ✅ Transações mais rápidas (menos congestionamento)
+- ✅ Melhor experiência em DeFi e NFTs
+
+Ação: Continue usando Ethereum normalmente. Aproveite taxas menores.
+
+Se Você Investe em ETH
+- Análise:
+- ✅ Upgrade é positivo para adoção
+- ✅ Mais uso = mais valor para a rede
+- ✅ Preparação para Fusaka 2026 (upgrade maior)
+
+Estratégia:
+- HODL se você acredita em Ethereum de longo prazo
+- Considere acumular antes do Fusaka (Q2 2026)
+
+Se Você Desenvolve em Ethereum
+- Impacto:
+- ✅ Seus dApps ficam mais baratos de usar
+- ✅ Mais usuários podem acessar (barreira de entrada menor)
+- ✅ Menos migração para Layer 2s (por enquanto)
+
+Ação: Otimize contratos para aproveitar gas limit maior.
+
+11. Próximos Passos: Fusaka 2026
+
+O Que Esperar
+- Fusaka (previsto para Q2 2026) trará:
+- Verkle Trees: Estrutura de dados mais eficiente (-30% tamanho da blockchain)
+- EVM Improvements: Execução mais rápida de contratos
+- Gas Limit 70-80M: Aumento adicional de capacidade
+- Better L2 Integration: Melhor suporte para rollups
+
+Impacto esperado:
+- Taxas 50-70% menores que hoje
+- Capacidade 50-80% maior
+- Blockchain 30% menor (mais fácil rodar nó)
+
+Cronograma
+- Q4 2025: Testes em testnet (Sepolia, Goerli)
+- Q1 2026: Auditoria de segurança
+- Q2 2026: Deploy na mainnet
+
+12. Perguntas Frequentes
+
+1. Minhas taxas vão cair imediatamente?
+- Sim, mas depende da demanda. Em períodos de alta demanda, taxas podem cair 40-60%. Em períodos de baixa demanda, diferença será menor.
+
+2. Preciso fazer algo?
+- Não. O upgrade é automático. Usuários e desenvolvedores não precisam fazer nada.
+
+3. Meus ETH estão seguros?
+- Sim. O upgrade não afeta saldos ou segurança. É apenas uma mudança de parâmetro.
+
+4. Layer 2s ainda são necessários?
+- Sim. Mesmo com gas limit 60M, Ethereum L1 ainda é mais caro que Layer 2s. L2s continuam sendo a solução de longo prazo para escalabilidade.
+
+5. Quando vem o próximo aumento?
+- Provavelmente em 2026 com o upgrade Fusaka. Vitalik indicou que aumentos continuarão, mas de forma gradual e inteligente.
+
+6. Isso afeta staking?
+- Não diretamente. Validadores precisarão de um pouco mais de hardware (RAM, armazenamento), mas requisitos ainda são acessíveis.
+
+7. ETH vai subir por causa disso?
+- Modestamente. Upgrade é positivo, mas não é game-changer. Impacto maior virá com Fusaka em 2026.
+
+8. Posso rodar um nó com hardware normal?
+- Sim, ainda é possível. Requisitos aumentaram um pouco, mas um PC decente (16-24 GB RAM, 2,5 TB SSD) ainda funciona.
+
+9. Isso resolve o problema de escalabilidade?
+- Parcialmente. Ajuda, mas não resolve completamente. Ethereum ainda precisa de Layer 2s para escalar para bilhões de usuários.
+
+10. Vale a pena investir em ETH agora?
+- Dependendo do seu horizonte. Se você acredita em Ethereum de longo prazo (2-5 anos), sim. Se busca ganhos rápidos, talvez não seja o melhor momento.
+
+Conclusão: Passo na Direção Certa
+- O aumento do gas limit para 60 milhões é um upgrade positivo e necessário para Ethereum.
+- Embora não seja revolucionário, representa:
+- ✅ 20% mais capacidade
+- ✅ 40-60% menos taxas em alta demanda
+- ✅ Preparação para Fusaka 2026
+- ✅ Compromisso com escalabilidade
+- Ethereum está evoluindo gradualmente, priorizando descentralização e segurança sobre velocidade pura.
+- Para investidores e usuários, isso é uma boa notícia.
+- Próximo grande marco: Fusaka em Q2 2026, que deve trazer melhorias ainda mais
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"es","alternateSlugPt":"ethereum-gas-limit-60m-upgrade-2025","alternateSlugEn":"ethereum-increases-gas-limit-to-60m---what-changes-on-the-network-in-2025"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Ethereum Aumenta Límite de Gas para 60M - Lo Que Cambia en la Red en 2025"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"Ethereum eleva gas limit para 60 millones, expandiendo capacidad de la red en 20%. Entienda el impacto en las tarifas, velocidad y preparación para el upgrade Fusaka en 2026."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["Por ","Equipe A Cifra"]}],["$","time",null,{"dateTime":"2025-11-27","children":"26 de noviembre de 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025.webp","alt":"Ethereum aumentando gas limit para 60 milhões - upgrade de rede","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Ethereum Gas Limit 60M: Upgrade Aumenta Capacidade 20% | A Cifra"}],["$","meta","3",{"name":"description","content":"Ethereum aumenta gas limit para 60 millones, expandiendo capacidad en 20%. Vitalik Buterin explica impacto en las tasas y preparación para Fusaka 2026."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"ethereum gas limit,ethereum upgrade 2025,gas limit 60m,ethereum escalabilidade,vitalik buterin"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/es/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","link","18",{"rel":"alternate","hrefLang":"es","href":"https://a-cifra.com.br/es/"}],["$","meta","19",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","20",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","21",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","22",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","23",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","24",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","25",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","26",{"property":"og:title","content":"Ethereum Aumenta Límite de Gas para 60M - Lo Que Cambia en la Red en 2025"}],["$","meta","27",{"property":"og:description","content":"Ethereum eleva gas limit para 60 millones, expandiendo capacidad de la red en 20%. Entienda el impacto en las tarifas, velocidad y preparación para el upgrade Fusaka en 2026."}],["$","meta","28",{"property":"og:locale","content":"es_ES"}],["$","meta","29",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/ethereum-aumenta-lmite-de-gas-para-60m---lo-que-cambia-en-la-red-en-2025.webp"}],["$","meta","30",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","31",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","32",{"name":"twitter:creator","content":"@acifra"}],["$","meta","33",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","34",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","35",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","36",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","37",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

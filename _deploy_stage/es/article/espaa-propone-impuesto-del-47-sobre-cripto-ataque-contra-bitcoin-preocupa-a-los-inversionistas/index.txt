@@ -1,0 +1,282 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"CookieConsent"]
+4:["slug","espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["es",{"children":["article",{"children":[["slug","espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas","d"],{"children":["__PAGE__?{\"slug\":\"espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["es",{"children":["article",{"children":[["slug","espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"ExchangeAffiliateLinks"]
+11:T2a3e,A Espanha pode estar prestes a implementar uma das políticas fiscais mais agressivas contra criptomoedas da Europa. O **Sumar**, partido júnior da coalizão governista espanhola, propôs um **imposto de 47% sobre ganhos com criptomoedas**, em uma medida que críticos já descrevem como um "ataque direto contra o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)".
+
+A proposta, anunciada em 26 de novembro de 2025, gerou ondas de choque no mercado cripto europeu e levanta questões importantes sobre o futuro da regulação de ativos digitais no continente.
+
+## O Que Está Sendo Proposto?
+
+A proposta do partido Sumar prevê:
+
+- **Taxa de 47% sobre ganhos de capital** com criptomoedas
+- Aplicação tanto para trading quanto para holding de longo prazo
+- Equiparação de cripto a "ativos especulativos de alto risco"
+- Possível implementação já em 2026
+
+Segundo fontes do governo espanhol, a medida visa "proteger investidores de ativos voláteis" e "aumentar a arrecadação fiscal" em um momento de pressão orçamentária.
+
+## Por Que Isso É Considerado um "Ataque ao [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)"?
+
+Críticos da proposta, incluindo membros da comunidade cripto espanhola e europeia, argumentam que:
+
+### 1. **Taxa Confiscatória**
+Com 47%, a [Espanha](/artigo/espanha-imposto-47-cripto-ataque-bitcoin-2025 "Espanha Propõe Imposto de 47% Sobre Cripto: "Ataque Contra Bitcoin" Preocupa Investidores") teria uma das maiores taxas sobre cripto do mundo, superando até mesmo países conhecidos por alta tributação como:
+
+- **Alemanha:** 0% após 1 ano de holding
+- **Portugal:** 0% para pessoas físicas (até recentemente)
+- **França:** 30% flat tax
+- **Reino Unido:** 20% capital gains tax
+
+### 2. **Desincentivo à Inovação**
+A medida pode afastar empresas de blockchain e startups cripto da [Espanha](/artigo/espanha-imposto-47-cripto-ataque-bitcoin "Espanha Propõe Imposto de 47% sobre Cripto - Ataque ao Bitcoin?"), prejudicando o ecossistema de inovação tecnológica do país.
+
+### 3. **Fuga de Capital**
+Investidores espanhóis podem simplesmente mover seus ativos para jurisdições mais favoráveis, como:
+
+- **Suíça:** Regulação clara e favorável
+- **Dubai:** Zero impostos sobre cripto
+- **Singapura:** Ambiente regulatório amigável
+
+### 4. **Contradição com Política da UE**
+A proposta vai na contramão do **MiCA (Markets in [Crypto](/artigo/spain-proposes-47-tax-on-crypto-attack-on-bitcoin-worries-investors "Spain Proposes 47% Tax on Crypto: "Attack on Bitcoin" Worries Investors")-Assets)**, o framework regulatório da União Europeia que busca harmonizar regras sem sufocar o setor.
+
+## Impacto no Mercado Cripto Europeu
+
+### **Reação Imediata**
+Embora ainda seja apenas uma proposta, o mercado já demonstra preocupação:
+
+- Discussões intensas em fóruns cripto espanhóis
+- Empresas de blockchain considerando relocação
+- Investidores buscando alternativas legais
+
+### **Efeito Dominó?**
+A grande preocupação é que outros países europeus possam seguir o exemplo espanhol, criando um ambiente hostil para criptomoedas em toda a UE.
+
+**Países que podem ser influenciados:**
+- Itália (já tem tributação de 26%)
+- França (considerando aumentar taxas)
+- Bélgica (debate sobre tributação cripto)
+
+## Comparação: Como Outros Países Taxam Cripto?
+
+| País | Taxa sobre Cripto | Observações |
+|------|-------------------|-------------|
+| **Espanha (proposta)** | 47% | Proposta em discussão |
+| **Alemanha** | 0% após 1 ano | Isento se segurar por 12+ meses |
+| **Portugal** | 0-28% | Mudanças recentes em 2023 |
+| **EUA** | 15-37% | Varia por faixa de renda |
+| **Brasil** | 15-22.5% | Progressivo por faixa |
+| **Suíça** | 0% | Considerado propriedade privada |
+| **Dubai** | 0% | Zona franca para cripto |
+
+## O Que Investidores Espanhóis Podem Fazer?
+
+### **1. Acompanhar o Processo Legislativo**
+A proposta ainda precisa:
+- Aprovação no parlamento espanhol
+- Passar por comissões técnicas
+- Ser sancionada pelo governo
+
+**Tempo estimado:** 6-12 meses (se aprovada)
+
+### **2. Considerar Holding de Longo Prazo**
+Alguns especialistas sugerem que a lei pode ter exceções para:
+- Holdings superiores a 1 ano
+- Pequenos investidores (abaixo de certo valor)
+- Uso de cripto para pagamentos
+
+### **3. Planejamento Tributário Legal**
+Opções dentro da legalidade:
+- Estruturação via empresas
+- Relocação para países com tratados fiscais favoráveis
+- Uso de veículos de investimento regulados
+
+### **4. Participar do Debate Público**
+A comunidade cripto espanhola está se mobilizando:
+- Petições online
+- Cartas abertas ao governo
+- Campanhas de conscientização
+
+## Opinião de Especialistas
+
+### **A Favor da Proposta**
+Economistas tradicionais argumentam:
+- "Cripto é especulação, não investimento produtivo"
+- "Alta tributação protege investidores inexperientes"
+- "Arrecadação pode financiar serviços públicos"
+
+### **Contra a Proposta**
+Especialistas em blockchain alertam:
+- "Vai matar a inovação tecnológica na Espanha"
+- "Investidores simplesmente vão para outros países"
+- "Contradiz o espírito do MiCA europeu"
+
+**Alberto Gómez, advogado especializado em cripto:**
+> "Esta proposta é contraproducente. Em vez de proteger investidores, vai empurrá-los para plataformas não reguladas e exchanges offshore."
+
+## Contexto: Por Que Agora?
+
+A proposta surge em um momento específico:
+
+### **1. Pressão Fiscal**
+- Espanha enfrenta déficit orçamentário
+- Governo busca novas fontes de receita
+- Cripto vista como "alvo fácil"
+
+### **2. Volatilidade Recente**
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) caiu de $108K para $88K em semanas
+- Perdas de investidores de varejo
+- Pressão política para "fazer algo"
+
+### **3. Eleições à Vista**
+- Partido Sumar busca diferenciação política
+- Proposta popular entre eleitores tradicionais
+- Crítica ao "capitalismo especulativo"
+
+## Lições Para Investidores Brasileiros
+
+### **O Brasil Está Melhor?**
+Comparando com a proposta espanhola:
+
+**Brasil:**
+- 15% até R$ 5 milhões
+- 17,5% de R$ 5M a R$ 10M
+- 20% de R$ 10M a R$ 30M
+- 22,5% acima de R$ 30M
+- Isenção para vendas até R$ 35 mil/mês
+
+**Vantagens do modelo brasileiro:**
+- Progressivo e mais justo
+- Isenção para pequenos investidores
+- Clareza regulatória desde 2019
+
+### **Atenção aos Sinais**
+A situação espanhola serve de alerta:
+- Regulação pode mudar rapidamente
+- Importância de diversificação geográfica
+- Necessidade de planejamento tributário
+
+## Próximos Passos: O Que Esperar?
+
+### **Curto Prazo (1-3 meses)**
+- Debate público intenso
+- Audiências no parlamento
+- Pressão da indústria cripto
+
+### **Médio Prazo (3-6 meses)**
+- Possíveis emendas à proposta
+- Negociações políticas
+- Definição de texto final
+
+### **Longo Prazo (6-12 meses)**
+- Votação no parlamento
+- Implementação (se aprovada)
+- Reação do mercado
+
+## Alternativas em Discussão
+
+Especialistas sugerem modelos mais equilibrados:
+
+### **1. Modelo Alemão**
+- Isenção após 1 ano de holding
+- Incentiva investimento de longo prazo
+- Reduz especulação
+
+### **2. Modelo Suíço**
+- Tributação como propriedade
+- Integração com sistema fiscal existente
+- Clareza e previsibilidade
+
+### **3. Modelo Português (antigo)**
+- Isenção para pessoas físicas
+- Tributação apenas para empresas
+- Atraiu muitos investidores
+
+## Impacto Global: Por Que Isso Importa?
+
+Mesmo que você não seja espanhol, esta proposta é relevante porque:
+
+### **1. Precedente Regulatório**
+- Outros países podem copiar
+- Influencia debate global
+- Afeta percepção institucional
+
+### **2. Mercado Interconectado**
+- Investidores europeus são grandes players
+- Fuga de capital afeta liquidez global
+- Empresas podem relocar para outros continentes
+
+### **3. Sinal Para Instituições**
+- Governos veem cripto como fonte de receita
+- Pressão por regulação aumenta
+- Necessidade de lobby organizado
+
+## FAQ - Perguntas Frequentes
+
+### **1. A proposta já está aprovada?**
+Não. É apenas uma proposta do partido Sumar que precisa passar por todo o processo legislativo espanhol.
+
+### **2. Quando pode entrar em vigor?**
+Se aprovada, provavelmente não antes de 2026. O processo legislativo leva meses.
+
+### **3. Afeta apenas [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?**
+Não. A proposta abrange todas as criptomoedas, incluindo [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), altcoins e stablecoins.
+
+### **4. Investidores podem evitar legalmente?**
+Sim, através de planejamento tributário legal, como holding de longo prazo ou estruturação empresarial.
+
+### **5. Outros países europeus vão seguir?**
+Possível, mas não certo. Cada país tem sua própria dinâmica política e fiscal.
+
+### **6. Como isso afeta o MiCA?**
+Não contradiz diretamente o MiCA, que foca em regulação operacional, não tributária. Mas vai contra o espírito de harmonização.
+
+### **7. O que investidores espanhóis devem fazer agora?**
+Acompanhar o processo, participar do debate público e considerar planejamento tributário com profissionais qualificados.
+
+### **8. Isso pode matar o mercado cripto na Espanha?**
+Pode reduzir significativamente, mas não eliminar. Investidores encontram formas de se adaptar.
+
+## Conclusão: Um Momento Decisivo Para Cripto na Europa
+
+A proposta espanhola de taxar criptomoedas em 47% representa um dos maiores desafios regulatórios que o setor enfrenta na Europa. Descrita por críticos como um "ataque contra o [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)", a medida pode ter consequências profundas não apenas para a Espanha, mas para todo o continente.
+
+**Pontos-chave para lembrar:**
+
+✅ É apenas uma proposta - ainda não é lei
+✅ Processo legislativo pode levar meses
+✅ Comunidade cripto está se mobilizando
+✅ Outros países europeus estão observando
+✅ Investidores têm opções legais de planejamento
+
+**Para investidores brasileiros**, a situação serve como lembrete da importância de:
+- Diversificação geográfica
+- Planejamento tributário adequado
+- Acompanhamento de mudanças regulatórias
+- Participação ativa em debates sobre regulação
+
+O mercado cripto sempre se adaptou a desafios regulatórios. A questão não é **se** vai sobreviver, mas **como** vai evoluir diante dessas pressões.
+
+<xchangeAffiliateLinks variant="compact" />
+
+**Disclaimer:** Este artigo é apenas informativo e não constitui aconselhamento jurídico ou tributário. Consulte profissionais qualificados para orientação específica sobre sua situação fiscal.
+
+---
+
+**Mantenha-se atualizado:** A situação está em desenvolvimento. Acompanhe o A Cifra para as últimas notícias sobre regulação cripto na Europa e no mundo.
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"es","alternateSlugPt":"espanha-imposto-47-cripto-ataque-bitcoin-2025","alternateSlugEn":"spain-proposes-47-tax-on-crypto-attack-on-bitcoin-worries-investors"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"España Propone Impuesto del 47% Sobre Cripto: \"Ataque Contra Bitcoin\" Preocupa a los Inversionistas"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"Partido de gobierno español propone una tasa del 47% sobre criptomonedas en una medida descrita como un ataque directo al Bitcoin. Entienda el impacto para los inversores y el mercado global."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["Por ","Equipe A Cifra"]}],["$","time",null,{"dateTime":"2025-11-26","children":"25 de noviembre de 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas.webp","alt":"Bandeira da Espanha com símbolos de Bitcoin e impostos representando a proposta de taxa de 47% sobre criptomoedas","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"España Propone Impuesto del 47% Sobre Cripto - Ataque al Bitcoin | A Cifra"}],["$","meta","3",{"name":"description","content":"El partido de gobierno español quiere gravar las criptomonedas en un 47%. Entienda el impacto de esta propuesta considerada un ataque directo al Bitcoin y al mercado cripto europeo."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"imposto cripto espanha,taxa 47% bitcoin,regulação criptomoedas europa,tributação bitcoin espanha,ataque bitcoin espanha"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/es/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","link","18",{"rel":"alternate","hrefLang":"es","href":"https://a-cifra.com.br/es/"}],["$","meta","19",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","20",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","21",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","22",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","23",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","24",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","25",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","26",{"property":"og:title","content":"España Propone Impuesto del 47% Sobre Cripto: \"Ataque Contra Bitcoin\" Preocupa a los Inversionistas"}],["$","meta","27",{"property":"og:description","content":"Partido de gobierno español propone una tasa del 47% sobre criptomonedas en una medida descrita como un ataque directo al Bitcoin. Entienda el impacto para los inversores y el mercado global."}],["$","meta","28",{"property":"og:locale","content":"es_ES"}],["$","meta","29",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/espaa-propone-impuesto-del-47-sobre-cripto-ataque-contra-bitcoin-preocupa-a-los-inversionistas.webp"}],["$","meta","30",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","31",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","32",{"name":"twitter:creator","content":"@acifra"}],["$","meta","33",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","34",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","35",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","36",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","37",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

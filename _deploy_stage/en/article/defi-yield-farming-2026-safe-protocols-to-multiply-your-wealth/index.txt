@@ -1,0 +1,224 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"CookieConsent"]
+4:["slug","defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["en",{"children":["article",{"children":[["slug","defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth","d"],{"children":["__PAGE__?{\"slug\":\"defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["en",{"children":["article",{"children":[["slug","defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"ExchangeAffiliateLinks"]
+11:T2083,Yield Farming 2026: Safe Protocols for Multiplying Your Wealth
+
+You've probably heard of APYs (annual yields) of 50%, 100%, or even 1,000% in the world of [DeFi](/artigo/defi-yield-farming-protocolos-seguros-2026 "DeFi Yield Farming 2026: Protocolos Seguros para Multiplicar seu Patrimônio") and thought, "This is a scam, right?" The answer is: **it depends**.
+
+In 2026, [DeFi](/artigo/defi-yield-farming-2026-protocolos-seguros-para-multiplicar-su-patrimonio "DeFi Yield Farming 2026: Protocolos Seguros para Multiplicar su Patrimonio") has matured. Established protocols offer realistic and sustainable yields of 5% to 20% per year – much higher than the meager 0.5% of traditional savings. But you need to know how to separate the wheat from the chaff.
+
+In this definitive guide, I'll teach you **real yield farming**, focused on **security**, audited protocols, and strategies that won't leave you crying in the corner.
+
+## What is Yield Farming?
+
+Imagine you're a bank. You lend money and charge interest. **Yield Farming** is you playing the role of "bank" in decentralized finance (DeFi), providing [liquidity](/artigo/liquidity-pools-the-heart-of-decentralized-finance-defi "Liquidity Pools: The Heart of Decentralized Finance (DeFi)") to protocols and earning fees + rewards in return.
+
+### Example:
+
+1. You deposit $10,000 in USDC (stablecoin) in a liquidity pool on Curve Finance.
+2. Traders use this pool to swap between stablecoins, generating fees.
+3. You receive a portion of these fees + CRV tokens (Curve's token) as a reward.
+4. Result: 8-12% per year in passive income.
+
+It seems like magic, but it's just decentralized financial math.
+
+## Safest Protocols of 2026 (Audited and Proven)
+
+Let's look at the giants that have withstood the test of time and never been significantly hacked:
+
+### 1. Aave (The King of DeFi Lending)
+
+**What is it:** A decentralized lending protocol. You deposit assets, earn interest. Others borrow using collateral.
+
+**APY Median (2026):**
+
+*   **USDC/USDT:** 5% to 8%
+*   **DAI:** 6% to 9%
+*   **ETH:** 2% to 4%
+
+**Why is it safe:**
+
+*   ✅ Audited by OpenZeppelin, Trail of Bits, and others.
+*   ✅ TVL (Total Value Locked) of **$15 billion+** – liquidity is proof of trust.
+*   ✅ Security module with an emergency fund.
+
+**Recommended strategy:** Deposit stablecoins for low volatility. Use aToken (e.g., aUSDC) as collateral on other platforms for double income.
+
+### 2. Curve Finance (Stablecoin Specialist)
+
+**What is it:** An Automated Market Maker (AMM) focused on low-slippage trades between similar-value assets (stablecoins and wrapped assets).
+
+**APY Median (2026):**
+
+*   **3Pool (USDC+USDT+DAI):** 8% to 12%
+*   **stETH/ETH:** 4% to 7%
+
+**Why is it safe:**
+
+*   ✅ Over **$10 billion** in TVL.
+*   ✅ Focus on stablecoins = less risk of permanent loss.
+*   ✅ Multiple audits and 4+ years of solid history.
+
+**Recommended strategy:** Provide liquidity in stablecoin [pools](/artigo/pools-de-liquidez-el-corazn-de-la-finanza-descentralizada-defi "Pools de Liquidez: El Corazón de la Finanza Descentralizada (DeFi)"). Volatility is minimal, and yields are stable.
+
+### 3. Uniswap (The Giant of DEXs)
+
+**What is it:** The largest decentralized exchange (DEX) in the world. Liquidity providers earn 0.3% of all transactions in the pool they provided.
+
+**APY Median (2026):**
+
+*   **ETH/USDC:** 10% to 15%
+*   **WBTC/ETH:** 8% to 12%
+
+**Why is it safe:**
+
+*   ✅ **$7 billion+** in TVL.
+*   ✅ Open-source code widely audited.
+*   ✅ Version 4 (with custom hooks) brought even more flexibility.
+
+**Recommended strategy:** Pairs with blue-chips (ETH/USDC) have high volume = more fees. Be cautious of permanent loss.
+
+### 4. Compound (The Pioneer)
+
+**What is it:** One of the first lending protocols, with interest rates algorithmically adjusted by supply/demand.
+
+**APY Median (2026):**
+
+*   **USDC:** 5% to 7%
+*   **DAI:** 6% to 8%
+
+**Why is it safe:**
+
+*   ✅ 6+ years of history.
+*   ✅ Decentralized governance with COMP token.
+*   ✅ Multiple layers of audit.
+
+**Recommended strategy:** Ideal for those who prefer simplicity. Deposit and forget.
+
+### 5. Yearn Finance (Yield Aggregator)
+
+**What is it:** A "robo-advisor" DeFi protocol. Yearn automatically moves your money between protocols to maximize yield.
+
+**APY Median (2026):**
+
+*   **Vaults of Stablecoin:** 8% to 15%
+*   **Vaults of ETH:** 5% to 10%
+
+**Why is it safe:**
+
+*   ✅ Automates the search for best APYs.
+*   ✅ Audited and has a solid history.
+
+**Recommended strategy:** For those who want "set and forget." You deposit, and the protocol optimizes.
+
+## Risks of Yield Farming (And How to Avoid Them)
+
+### 1. Permanent Loss (Impermanent Loss)
+
+When you provide liquidity to a pair (e.g., ETH/USDC) and one asset's price moves significantly, you may end up with less total value than if you had just held the assets.
+
+**Solution:** Use stablecoin pools (e.g., USDC/DAI) or pools where both assets move in the same direction (e.g., stETH/ETH).
+
+### 2. Smart Contract Risk
+
+Bugs in the code can be exploited. This is rare in established protocols, but it happens.
+
+**Solution:** Only use protocols with multiple audits (Aave, Curve, Uniswap). Avoid new protocols with absurd APYs.
+
+### 3. Rug Pulls (Scams)
+
+Malicious projects create pools with 1,000%+ APYs to attract victims and disappear with the money.
+
+**Solution:** If the APY seems too good to be true, it probably is. Stay away.
+
+### 4. Volatility Risk
+
+If you deposit volatile assets (obscure altcoins), you may lose everything if the price plummets.
+
+**Solution:** Prioritize stablecoins (70-80% of allocation) and blue-chips (ETH, WBTC).
+
+## Conservative Yield Farming Strategy for Beginners
+
+**Goal:** 10-12% per year with low risk.
+
+**Step-by-Step:**
+
+1.  Buy $10,000 in USDC on a low-fee exchange.
+2.  Transfer to a MetaMask or Ledger connected to your account.
+3.  Go to **Curve.fi** and deposit in the 3Pool (USDC+USDT+DAI).
+4.  Earn ~8-10% in swap fees.
+5.  Stake the LP tokens (Liquidity Provider) from Curve on the platform itself to earn additional CRV → Total ~10-12%.
+
+**Result:** Passive income with controlled risk.
+
+## Advanced Strategy: "Looping" for 20%+
+
+**Note:** This strategy is for experienced users.
+
+**How it works:**
+
+1.  Deposit 10 ETH in Aave.
+2.  Use those 10 ETH as collateral to borrow 5 ETH.
+3.  Deposit the 5 ETH borrowed again.
+4.  Repeat the cycle (with caution to avoid liquidation).
+
+You'll be earning interest on your leveraged position, but the risk of liquidation increases greatly.
+
+**Only do this if you understand liquidation, loan-to-value (LTV), and can monitor your position 24/7.**
+
+## Table: Where to Farm Safely in 2026
+
+| Protocol | Type | APY Median | Risk | Ideal For |
+|-----------|------|-----------|-------|------------|
+| **Aave** | Lending | 5-8% | Low | Stablecoins |
+| **Curve** | AMM | 8-12% | Low | Stablecoins |
+| **Uniswap** | DEX | 10-15% | Medium | ETH/Altcoins |
+| **Yearn** | Aggregator | 8-15% | Low | Automatization |
+| **Compound** | Lending | 5-7% | Low | Simplicity |
+
+## Conclusion: Realistic Yield Farming in DeFi
+
+Yield farming is not a magic formula for "getting rich quick." It's a legitimate strategy for generating passive income **if you do it right**.
+
+Golden rules:
+
+1.  ✅ Use only audited protocols with $1B+ in TVL.
+2.  ✅ Prioritize stablecoins to minimize volatility.
+3.  ✅ Never put more than 10-20% of your portfolio in DeFi with high risk.
+4.  ✅ Diversify between protocols.
+
+If you follow these guidelines, you can realistically achieve 10-15% per year with controlled risk – much better than leaving money idle.
+
+**Key points:**
+
+*   Aave, Curve, and Uniswap are the safest protocols.
+*   Stablecoin pools offer 8-12% with low risk.
+*   Be cautious of permanent loss in volatile pairs.
+*   Absurd APYs (500%+) are scams.
+
+## Next Steps
+
+*   [Staking Ethereum: A Guide to Passive Income](/artigo/staking-ethereum-guia-renda-passiva-2026)
+*   [How to Protect Your Cryptos in DeFi](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes)
+*   [Best Exchanges for Buying DeFi Cryptos](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas)
+
+---
+
+**Last updated:** December 5, 2025
+
+**Disclaimer:** DeFi involves technical and market risks. This article is educational. Never invest more than you can afford to lose.
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"en","alternateSlugPt":"defi-yield-farming-protocolos-seguros-2026","alternateSlugEs":"defi-yield-farming-2026-protocolos-seguros-para-multiplicar-su-patrimonio"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"DeFi Yield Farming 2026: Safe Protocols to Multiply Your Wealth"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"15% annual yield is possible in DeFi? Yes, but with strategy. Discover audited protocols, how to avoid rug pulls and maximize gains with safety."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["By ","Jonatha Pereira"]}],["$","time",null,{"dateTime":"2025-12-05","children":"December 4, 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth.webp","alt":"Fazenda digital conceitual com pools de liquidez e moedas crescendo como plantações","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Yield Farming Secure 2026: Best DeFi Protocols | Complete Guide"}],["$","meta","3",{"name":"description","content":"Learn yield farming in practice with the safest protocols of 2026. Aave, Curve, Uniswap and strategies for 15%+ per year."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"yield farming,defi seguro,liquidity pools,aave farming,curve finance"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/en/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","meta","18",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","19",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","20",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","21",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","22",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","23",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","24",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","25",{"property":"og:title","content":"DeFi Yield Farming 2026: Safe Protocols to Multiply Your Wealth"}],["$","meta","26",{"property":"og:description","content":"15% annual yield is possible in DeFi? Yes, but with strategy. Discover audited protocols, how to avoid rug pulls and maximize gains with safety."}],["$","meta","27",{"property":"og:locale","content":"en_US"}],["$","meta","28",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/defi-yield-farming-2026-safe-protocols-to-multiply-your-wealth.webp"}],["$","meta","29",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","30",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","31",{"name":"twitter:creator","content":"@acifra"}],["$","meta","32",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","33",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","34",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","35",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","36",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

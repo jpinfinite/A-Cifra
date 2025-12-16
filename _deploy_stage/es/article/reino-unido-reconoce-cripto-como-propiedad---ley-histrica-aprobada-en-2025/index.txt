@@ -1,0 +1,312 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","2763","static/chunks/app/es/page-4e160a020dbb2106.js"],"CookieConsent"]
+4:["slug","reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["es",{"children":["article",{"children":[["slug","reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025","d"],{"children":["__PAGE__?{\"slug\":\"reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["es",{"children":["article",{"children":[["slug","reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","es","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","4505","static/chunks/app/es/article/%5Bslug%5D/page-f216f3a75432a62d.js"],"ExchangeAffiliateLinks"]
+11:T2551,**3 de dezembro de 2025** - Em um marco histórico para a indústria cripto, o **[Reino](/artigo/reino-unido-reconhece-cripto-propriedade-lei-historica "Reino Unido Reconhece Cripto como Propriedade - Lei Histórica Aprovada em 2025") Unido aprovou oficialmente** o **Property (Digital Assets etc) Act**, lei que reconhece formalmente **criptomoedas, NFTs e outros ativos digitais como propriedade legal**. A lei recebeu Royal Assent (aprovação real) na terça-feira, tornando-se oficialmente parte do sistema jurídico britânico.
+
+## O Que É o Property (Digital Assets) Act?
+
+### Resumo da Lei
+
+**Nome oficial:** Property (Digital Assets etc) Act 2025
+**Aprovação:** 3 de dezembro de 2025
+**Status:** Lei oficial (Royal Assent concedido)
+**Objetivo:** Clarificar que leis de propriedade se aplicam a ativos digitais
+
+**Em termos simples:** [Cripto](/artigo/regulacin-cripto-brasil-2026-lo-que-cambia-y-cmo-prepararse "Regulación cripto Brasil 2026: Lo Que Cambia y Cómo Prepararse") agora é **legalmente reconhecido como propriedade** no Reino Unido, assim como uma casa, carro ou ações.
+
+### O Que Isso Significa?
+
+**Antes da lei:**
+- Status legal de cripto era **ambíguo**
+- Difícil processar roubos de cripto
+- Incerteza em divórcios, heranças, falências
+- Empresas hesitantes em adotar cripto
+
+**Depois da lei:**
+- Cripto é **propriedade legal** reconhecida
+- Roubos de cripto são **crime contra propriedade**
+- Cripto pode ser **herdado, dividido em divórcio**
+- **Clareza jurídica** para empresas e investidores
+
+## Cronologia: Como Chegamos Aqui
+
+### 2018-2022: Incerteza Legal
+
+**Problema:** Casos judiciais não sabiam como tratar cripto
+
+**Exemplos:**
+- **Divórcios:** Como dividir [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) entre cônjuges?
+- **Falências:** Cripto conta como ativo recuperável?
+- **Roubos:** É crime contra propriedade ou fraude eletrônica?
+
+**Resultado:** Decisões inconsistentes, incerteza jurídica.
+
+### 2023: Law Commission Recomenda Mudança
+
+**Law Commission** (órgão que revisa leis) publicou relatório:
+
+**Recomendação:** Criar nova categoria de propriedade para ativos digitais
+
+**Razão:** Cripto não se encaixa perfeitamente em categorias existentes:
+- Não é "propriedade física" (como casa)
+- Não é "propriedade intangível tradicional" (como ações)
+- É algo **novo** que precisa de tratamento específico
+
+### 2024: Projeto de Lei Apresentado
+
+**Março 2024:** Governo apresenta Property (Digital Assets) Bill
+
+**Conteúdo:**
+- Reconhece ativos digitais como "terceira categoria" de propriedade
+- Aplica leis de propriedade existentes a cripto
+- Cobre criptomoedas, NFTs, tokens, ativos tokenizados
+
+**Reação:** Amplamente positiva da indústria cripto
+
+### 2025: Aprovação e Royal Assent
+
+**Novembro 2025:** Parlamento aprova lei
+**3 de dezembro 2025:** Rainha (ou Rei) concede Royal Assent
+**Status:** **Lei oficial do Reino Unido**
+
+## O Que a Lei Cobre?
+
+### Ativos Incluídos
+
+**Explicitamente cobertos:**
+- ✅ **Criptomoedas** ([bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional), [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026), etc.)
+- ✅ **NFTs** (arte digital, colecionáveis)
+- ✅ **Tokens** (utility, security, governance)
+- ✅ **Ativos tokenizados** (RWA - Real World Assets)
+- ✅ **Stablecoins**
+- ✅ **Chaves privadas** (acesso a ativos)
+
+**Não cobertos:**
+- ❌ Dados pessoais
+- ❌ Informações confidenciais
+- ❌ Propriedade intelectual tradicional
+
+### Direitos Garantidos
+
+**Como proprietário de cripto, você agora tem:**
+
+**1. Direito de Propriedade:**
+- Cripto é **seu** legalmente
+- Ninguém pode tomar sem consentimento
+- Protegido por lei de propriedade
+
+**2. Direito de Transferência:**
+- Pode vender, doar, emprestar
+- Transferências são legalmente reconhecidas
+- Contratos envolvendo cripto são válidos
+
+**3. Direito de Herança:**
+- Cripto pode ser incluído em testamento
+- Herdeiros têm direito legal aos ativos
+- Processo de sucessão clarificado
+
+**4. Proteção contra Roubo:**
+- Roubo de cripto é **crime contra propriedade**
+- Vítimas podem processar criminalmente
+- Recuperação de ativos facilitada
+
+**5. Direitos em Divórcio:**
+- Cripto é considerado em divisão de bens
+- Cônjuges têm direito a parte dos ativos
+- Tribunais podem ordenar transferência
+
+**6. Direitos em Falência:**
+- Cripto é ativo recuperável
+- Credores podem reivindicar
+- Processo de insolvência clarificado
+
+## Impacto para Investidores
+
+### Proteção Legal Aumentada
+
+**Antes:**
+- Roubo de cripto: difícil processar
+- Fraude: jurisdição incerta
+- Recuperação: quase impossível
+
+**Agora:**
+- Roubo: crime claro, polícia investiga
+- Fraude: leis de propriedade aplicam
+- Recuperação: tribunais podem ordenar devolução
+
+**Exemplo prático:**
+
+Alguém hackeia sua carteira e rouba 10 BTC:
+
+**Antes da lei:**
+- Polícia: "Não sabemos se é crime de propriedade"
+- Tribunal: "Status legal de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é incerto"
+- Você: Provavelmente perde o dinheiro
+
+**Depois da lei:**
+- Polícia: "É roubo de propriedade, vamos investigar"
+- Tribunal: "[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é propriedade, deve ser devolvido"
+- Você: Chances reais de recuperar
+
+## Impacto para Empresas
+
+### Adoção Corporativa Facilitada
+
+**Antes da lei:**
+- Empresas hesitantes em aceitar cripto
+- Risco legal incerto
+- Contabilidade complicada
+
+**Depois da lei:**
+- Cripto é ativo reconhecido
+- Pode ser incluído em balanço
+- Tratamento contábil clarificado
+
+**Resultado:** Mais empresas vão adotar cripto
+
+### Empréstimos com Cripto como Garantia
+
+**Antes:**
+- Bancos: "Não aceitamos cripto como colateral"
+- Razão: Status legal incerto
+
+**Depois:**
+- Bancos: "Cripto é propriedade, aceitamos como garantia"
+- Resultado: Empréstimos com cripto como colateral
+
+**Exemplo:**
+
+Você quer empréstimo de £100.000:
+
+**Antes:** Banco não aceita seus 5 BTC como garantia
+**Depois:** Banco aceita, você consegue empréstimo
+
+### Custódia Institucional
+
+**Impacto:** Bancos e instituições podem oferecer custódia de cripto com [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) jurídica
+
+**Antes:**
+- Bancos: "Não podemos custodiar cripto, status legal incerto"
+
+**Depois:**
+- Bancos: "Cripto é propriedade, podemos custodiar legalmente"
+
+**Resultado:** Mais opções de custódia segura para investidores
+
+## Comparação Global: UK vs Outros Países
+
+### Reino Unido (2025)
+
+**Status:** ✅ Cripto é propriedade legal reconhecida
+**Lei:** Property (Digital Assets) Act
+**Clareza:** 10/10
+
+### Estados Unidos
+
+**Status:** ⚠️ Parcialmente reconhecido
+**Problema:** SEC vs CFTC (jurisdição indefinida)
+**Clareza:** 5/10
+
+**Situação:**
+- [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional): Commodity (CFTC)
+- [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026): Incerto (SEC diz security, CFTC diz commodity)
+- Altcoins: Maioria considerada securities (SEC)
+
+### União Europeia
+
+**Status:** ✅ Regulado via MiCA
+**Lei:** Markets in Crypto-Assets Regulation
+**Clareza:** 8/10
+
+**Diferença do UK:**
+- MiCA foca em **regulação de mercado**
+- UK foca em **direitos de propriedade**
+- Ambos são complementares
+
+### Brasil
+
+**Status:** ✅ Reconhecido como ativo
+**Lei:** Lei 14.478/2022 (Marco Legal das Criptomoedas)
+**Clareza:** 7/10
+
+**Situação:**
+- Cripto é ativo financeiro
+- Exchanges reguladas pela CVM
+- Imposto de renda aplicável
+
+### China
+
+**Status:** ❌ Proibido
+**Lei:** Ban de 2021
+**Clareza:** 10/10 (claramente proibido)
+
+### Ranking de Clareza Legal
+
+1. **Reino Unido** - 10/10 (lei específica de propriedade)
+2. **União Europeia** - 8/10 (MiCA abrangente)
+3. **Brasil** - 7/10 (marco legal claro)
+4. **Japão** - 7/10 (regulação desde 2017)
+5. **Estados Unidos** - 5/10 (jurisdição confusa)
+6. **China** - 10/10 (claramente proibido)
+
+## Reação da Indústria Cripto
+
+### Exchanges
+
+**Coinbase UK:**
+> "Esta é uma vitória massiva para a indústria cripto no Reino Unido. Clareza legal é fundamental para crescimento sustentável."
+
+**Binance:**
+> "Reino Unido está se posicionando como líder global em regulação cripto inteligente."
+
+**Kraken:**
+> "Finalmente! Investidores britânicos agora têm proteção legal que merecem."
+
+### Empresas Blockchain
+
+**Consensys (Ethereum):**
+> "Lei histórica que dá a cripto o reconhecimento legal que sempre mereceu."
+
+**Ripple:**
+> "Reino Unido mostra como regulação pode ser feita corretamente - clareza sem sufocar inovação."
+
+### Advogados Especializados
+
+**Law Society (Associação de Advogados):**
+> "Esta lei resolve décadas de incerteza jurídica. É um modelo para outros países."
+
+**Crypto Legal UK:**
+> "Clientes agora têm base legal sólida para proteger seus ativos digitais."
+
+### Investidores
+
+**Twitter/X:**
+- "UK just became the best place for [crypto](/artigo/brazil-crypto-regulation-2026-what-changes-and-how-to-prepare "Brazil Crypto Regulation 2026: What Changes and How to Prepare") in Europe" - @CryptoWhale
+- "This is HUGE for institutional adoption" - @BitcoinMagazine
+- "Finally, my [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) is legally recognized as MY property" - @UKCryptoInvestor
+
+## Casos de Uso Práticos
+
+### Caso 1: Roubo de NFT
+
+**Situação:** Hacker rouba NFT valioso (Bored Ape) de colecionador
+
+**Antes da lei:**
+- Vítima: Reporta à polícia
+- Polícia: "NFT não é propriedade legal, não podemos ajudar"
+- Resultado: NFT
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"es","alternateSlugPt":"reino-unido-reconhece-cripto-propriedade-lei-historica","alternateSlugEn":"united-kingdom-recognizes-crypto-as-property---historic-law-passed-in-2025"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Reino Unido Reconoce Cripto como Propiedad - Ley Histórica Aprobada en 2025"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"El Reino Unido aprueba la ley que reconoce formalmente criptomonedas y NFTs como propiedad legal. Entienda el impacto de esta decisión histórica para inversores, empresas y el futuro de la regulación cripto global."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["Por ","Equipe A Cifra"]}],["$","time",null,{"dateTime":"2025-12-03","children":"2 de diciembre de 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025.webp","alt":"Reino Unido aprova lei reconhecendo cripto como propriedade","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Reconoce el Reino Unido la Cripto como Propiedad: Ley Histórica 2025 | El Cifrado"}],["$","meta","3",{"name":"description","content":"El Reino Unido aprueba el Property (Digital Assets) Act, reconociendo criptomonedas y NFTs como propiedad legal. Entienda el impacto de esta ley revolucionaria."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"uk cripto lei,reino unido criptomoedas,crypto property uk,regulação cripto,lei digital assets"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/es/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","link","18",{"rel":"alternate","hrefLang":"es","href":"https://a-cifra.com.br/es/"}],["$","meta","19",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","20",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","21",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","22",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","23",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","24",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","25",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","26",{"property":"og:title","content":"Reino Unido Reconoce Cripto como Propiedad - Ley Histórica Aprobada en 2025"}],["$","meta","27",{"property":"og:description","content":"El Reino Unido aprueba la ley que reconoce formalmente criptomonedas y NFTs como propiedad legal. Entienda el impacto de esta decisión histórica para inversores, empresas y el futuro de la regulación cripto global."}],["$","meta","28",{"property":"og:locale","content":"es_ES"}],["$","meta","29",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/reino-unido-reconoce-cripto-como-propiedad---ley-histrica-aprobada-en-2025.webp"}],["$","meta","30",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","31",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","32",{"name":"twitter:creator","content":"@acifra"}],["$","meta","33",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","34",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","35",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","36",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","37",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

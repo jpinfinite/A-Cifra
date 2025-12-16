@@ -1,0 +1,17 @@
+LARGE EPS FILE REMOVED
+=====================
+
+Original file: 1002_yuan_digital.eps
+Original size: 16.04 MB
+Removed on: 2025-10-30T19:58:39.826Z
+
+Reason: EPS files are vector format and too large for web deployment.
+This file exceeded the 25MB Cloudflare Pages limit.
+
+To restore: Convert the original EPS to a web-friendly format like:
+- WebP (recommended): Use online converter or ImageMagick
+- PNG: For images with transparency
+- JPEG: For photos without transparency
+
+Suggested command (if you have ImageMagick):
+magick "1002_yuan_digital.eps" -strip -quality 85 "1002_yuan_digital.webp"

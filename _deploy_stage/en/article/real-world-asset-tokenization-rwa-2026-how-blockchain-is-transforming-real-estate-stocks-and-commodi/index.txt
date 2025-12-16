@@ -1,0 +1,334 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["3185","static/chunks/app/layout-294ef2bce3ca4045.js"],""]
+7:I[376,["8592","static/chunks/common-6e4007c3927cea0b.js","7601","static/chunks/app/error-cb0774f380a788bd.js"],"default"]
+8:I[5217,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"SkipToContent"]
+9:I[8278,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"Header"]
+a:I[7750,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"TopBannerAd"]
+b:I[2972,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],""]
+c:I[5878,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"Image"]
+d:I[5849,["8592","static/chunks/common-6e4007c3927cea0b.js","3479","static/chunks/app/en/page-83779f28dbd2aed9.js"],"CookieConsent"]
+4:["slug","real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi","d"]
+0:["-tXwyAL_cdXAMIkE-_xDB",[[["",{"children":["en",{"children":["article",{"children":[["slug","real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi","d"],{"children":["__PAGE__?{\"slug\":\"real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["en",{"children":["article",{"children":[["slug","real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","article","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children","article","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","en","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/47b7640844e6e603.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5ad87db22d9ccf4.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"pt-BR","className":"__variable_f367f3 __variable_d5a796 scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://pagead2.googlesyndication.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://www.googletagmanager.com"}],["$","link",null,{"rel":"preconnect","href":"https://news.google.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://www.google-analytics.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"dns-prefetch","href":"https://fonts.gstatic.com"}],["$","link",null,{"rel":"preload","href":"/images/logos/favcoin.png","as":"image","type":"image/png"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"WebSite\",\n  \"name\": \"A Cifra\",\n  \"description\": \"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises profundas, notícias atualizadas e educação financeira sobre Bitcoin, Ethereum, DeFi e NFTs.\",\n  \"url\": \"https://a-cifra.com.br\",\n  \"potentialAction\": {\n    \"@type\": \"SearchAction\",\n    \"target\": {\n      \"@type\": \"EntryPoint\",\n      \"urlTemplate\": \"https://a-cifra.com.br/busca?q={search_term_string}\"\n    },\n    \"query-input\": \"required name=search_term_string\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"A Cifra\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"/images/logos/cifra-principal.png\",\n      \"alt\": \"A Cifra - Blog sobre Criptomoedas\"\n    },\n    \"sameAs\": [\n      \"https://x.com/acifra_btc\",\n      \"https://www.instagram.com/cifras_coins\"\n    ]\n  }\n}"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white","suppressHydrationWarning":true,"children":[["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841","strategy":"lazyOnload","crossOrigin":"anonymous"}],["$","$L6",null,{"src":"https://news.google.com/swg/js/v1/swg-basic.js","strategy":"afterInteractive","async":true}],["$","$L6",null,{"id":"reader-revenue-manager","strategy":"afterInteractive","children":"\n            (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\n              basicSubscriptions.init({\n                type: \"NewsArticle\",\n                isPartOfType: [\"Product\"],\n                isPartOfProductId: \"CAowlPfdCw:openaccess\",\n                clientOptions: {\n                  theme: \"light\",\n                  lang: \"pt-BR\"\n                },\n              });\n            });\n          "}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR","strategy":"afterInteractive"}],["$","$L6",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-TFBC1HD2BR');\n          "}],["$","a",null,{"href":"#main-content","className":"skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 z-50 bg-brand-primary-blue text-white px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-brand-gold","children":"Pular para o conteúdo principal"}],["$","div",null,{"id":"main-content","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],["$","$L9",null,{"dictionary":"$undefined","locale":"$undefined"}],["$","main",null,{"id":"main-content","className":"flex-1 pt-16","children":[["$","$La",null,{}],["$","div",null,{"className":"mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl py-16","children":["$","div",null,{"className":"text-center max-w-md mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"text-8xl font-bold text-brand-primary-blue mb-4","children":"404"}],["$","div",null,{"className":"w-24 h-24 mx-auto mb-6 text-gray-400","children":["$","svg",null,{"fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","aria-hidden":"true","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M9.172 16.172a4 4 0 015.656 0M9 12h6m-6-4h6m2 5.291A7.962 7.962 0 0112 15c-2.34 0-4.467-.881-6.08-2.33m0 0l-.431-.431A7.963 7.963 0 016 10.5a7.963 7.963 0 01.49-2.675m0 0L6 6.5a7.963 7.963 0 011.5-1.5m0 0L9 3.5a7.963 7.963 0 013-1.5m0 0L15 3.5a7.963 7.963 0 013 1.5m0 0L19.5 6.5a7.963 7.963 0 011.5 1.5m0 0l.431.431A7.963 7.963 0 0121 10.5a7.963 7.963 0 01-.49 2.675"}]}]}]]}],["$","h1",null,{"className":"font-heading text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4","children":"Página não encontrada"}],["$","p",null,{"className":"text-base font-normal text-gray-600 mb-8","children":"Ops! A página que você está procurando não existe ou foi movida. Que tal explorar nossos artigos mais recentes?"}],["$","div",null,{"className":"space-y-4","children":[["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 btn-gradient text-white shadow-md hover:shadow-lg h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/","children":"Voltar ao Início"}]}],["$","span",null,{"className":"inline-flex items-center justify-center rounded-lg font-medium transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border-2 border-brand-primary-blue text-brand-primary-blue hover:bg-brand-primary-blue hover:text-white h-11 px-6 text-base min-w-touch min-h-touch w-full","children":["$","$Lb",null,{"href":"/artigos","children":"Ver Todos os Artigos"}]}]]}],["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","p",null,{"className":"text-sm font-normal text-gray-500 mb-4","children":"Ou explore por categoria:"}],["$","div",null,{"className":"flex flex-wrap gap-2 justify-center","children":[["$","$Lb","bitcoin",{"href":"/categoria/bitcoin","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Bitcoin"}],["$","$Lb","defi",{"href":"/categoria/defi","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"DeFi"}],["$","$Lb","nfts",{"href":"/categoria/nfts","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"NFTs"}],["$","$Lb","analises",{"href":"/categoria/analises","className":"px-3 py-1 text-sm bg-brand-off-white text-brand-primary-blue rounded-full hover:bg-brand-primary-blue hover:text-white transition-colors duration-200","children":"Análises"}]]}]]}]]}]}]]}],["$","footer",null,{"className":"bg-brand-dark-blue text-white","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5","children":[["$","div",null,{"className":"lg:col-span-1","children":[["$","$Lb",null,{"href":"/","className":"flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105 focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue","aria-label":"A Cifra - Página inicial","children":["$","$Lc",null,{"src":"/images/logos/logo-positiva.png","alt":"A Cifra - Logo","className":"w-auto object-contain h-12","width":150,"height":50,"priority":false}]}],["$","p",null,{"className":"text-base font-normal mt-4 text-gray-300 max-w-xs","children":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais. Análises, notícias e educação financeira."}],["$","div",null,{"className":"mt-6 flex items-center gap-2 text-gray-300","children":[["$","svg",null,{"className":"w-5 h-5 text-brand-gold","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"}]}],["$","a",null,{"href":"mailto:cifraaessenciacoin@gmail.com","className":"hover:text-brand-gold transition-colors duration-200 text-sm","children":"cifraaessenciacoin@gmail.com"}]]}],["$","div",null,{"className":"mt-6 flex space-x-4","children":[["$","$Lb","X (Twitter)",{"href":"https://x.com/acifra_btc","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no X (Twitter)","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-twitter h-5 w-5","aria-hidden":"true","children":[["$","path","pff0z6",{"d":"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"}],"$undefined"]}]}],["$","$Lb","Instagram",{"href":"https://www.instagram.com/cifras_coins","className":"text-gray-400 hover:text-brand-gold transition-colors duration-200 p-2 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue min-h-touch min-w-touch flex items-center justify-center","aria-label":"Seguir no Instagram","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-instagram h-5 w-5","aria-hidden":"true","children":[["$","rect","2e1cvw",{"width":"20","height":"20","x":"2","y":"2","rx":"5","ry":"5"}],["$","path","9exkf1",{"d":"M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"}],["$","line","r4j83e",{"x1":"17.5","x2":"17.51","y1":"6.5","y2":"6.5"}],"$undefined"]}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Categorias"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/bitcoin",{"children":["$","$Lb",null,{"href":"/categoria/bitcoin","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Bitcoin"}]}],["$","li","/categoria/altcoins",{"children":["$","$Lb",null,{"href":"/categoria/altcoins","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Altcoins"}]}],["$","li","/categoria/defi",{"children":["$","$Lb",null,{"href":"/categoria/defi","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"DeFi"}]}],["$","li","/categoria/nfts",{"children":["$","$Lb",null,{"href":"/categoria/nfts","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"NFTs"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Recursos"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/categoria/analises",{"children":["$","$Lb",null,{"href":"/categoria/analises","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Análises"}]}],["$","li","/categoria/educacao",{"children":["$","$Lb",null,{"href":"/categoria/educacao","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Educação"}]}],["$","li","/glossario",{"children":["$","$Lb",null,{"href":"/glossario","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Glossário"}]}],["$","li","/ferramentas",{"children":["$","$Lb",null,{"href":"/ferramentas","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Calculadoras"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Empresa"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","/sobre",{"children":["$","$Lb",null,{"href":"/sobre","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Sobre Nós"}]}],["$","li","/contatos",{"children":["$","$Lb",null,{"href":"/contatos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Contato"}]}],["$","li","/privacidade",{"children":["$","$Lb",null,{"href":"/privacidade","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Política de Privacidade"}]}],["$","li","/termos",{"children":["$","$Lb",null,{"href":"/termos","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded","children":"Termos de Uso"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold uppercase tracking-wider text-brand-gold","children":"Parceiros"}],["$","ul",null,{"className":"mt-4 space-y-3","children":[["$","li","https://detailingprime.com.br",{"children":["$","a",null,{"href":"https://detailingprime.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Detailing Prime",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}],["$","li","https://www.cronixverso.com.br",{"children":["$","a",null,{"href":"https://www.cronixverso.com.br","target":"_blank","rel":"noopener noreferrer","className":"text-gray-300 hover:text-white transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded inline-flex items-center gap-1","children":["Cronixverso",["$","svg",null,{"className":"w-3 h-3","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"}]}]]}]}]]}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-brand-medium-blue pt-8","children":["$","div",null,{"className":"flex flex-col items-center justify-between space-y-4 md:flex-row md:space-y-0","children":[["$","p",null,{"className":"font-normal text-gray-400 text-sm","children":["© ",2025," A Cifra. Todos os direitos reservados."]}],["$","p",null,{"className":"font-normal text-gray-400 text-sm flex items-center gap-1","children":"Cifra a comunidade crypto brasileira"}]]}]}]]}]}],["$","$Ld",null,{}]],"notFoundStyles":[]}]}]]}]]}]],null],null],["$Le",null]]]]
+f:I[666,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"LanguageToggle"]
+10:I[4122,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"default"]
+12:I[3572,["8592","static/chunks/common-6e4007c3927cea0b.js","5005","static/chunks/app/en/article/%5Bslug%5D/page-3735442ac226d602.js"],"ExchangeAffiliateLinks"]
+11:T251c,Tokenização de [Ativos](/artigo/tokenizacao-ativos-reais-rwa-2026 "Tokenização de Ativos Reais (RWA) 2026: Como Blockchain Está Transformando Imóveis, Ações e Commodities") Reais (RWA) 2026: Como Blockchain Está Transformando Imóveis, Ações e Commodities
+
+A tokenização de ativos reais (RWA - [Real](/artigo/tokenization-of-real-assets-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commoditi "Tokenization of Real Assets (RWA) 2026: How Blockchain is Transforming Real Estate, Stocks, and Commodities") World Assets) é uma das tendências mais disruptivas de 2026, trazendo trilhões de dólares em ativos tradicionais para a blockchain.
+
+O Que São Ativos Reais Tokenizados (RWA)?
+
+RWA são ativos do mundo físico representados digitalmente na blockchain através de tokens. Cada token representa uma fração de propriedade do ativo real, com todos os direitos e obrigações registrados em smart contracts.
+
+Tipos de RWA Tokenizados em 2026
+
+1. Imóveis Tokenizados
+- Prédios comerciais
+- Residências de alto padrão
+- Terrenos e fazendas
+- REITs (Real Estate Investment Trusts) on-chain
+
+2. Títulos e Renda Fixa
+- Títulos do Tesouro (T-Bills)
+- Debêntures corporativas
+- CDBs e LCIs tokenizados
+- Bonds governamentais
+
+3. Commodities
+- Ouro e metais preciosos
+- Petróleo e gás
+- Produtos agrícolas
+- Créditos de carbono
+
+4. Ações e Equity
+- Ações de empresas privadas
+- Participações em startups
+- Fundos de investimento
+- Private equity tokenizado
+
+5. Arte e Colecionáveis
+- Obras de arte
+- Vinhos raros
+- Carros clássicos
+- Relógios de luxo
+
+Por Que RWA Está Explodindo em 2026?
+
+1. Mercado Massivo
+- Tamanho do mercado global:
+  - Imóveis: $280 trilhões
+  - Títulos: $130 trilhões
+  - Ações: $100 trilhões
+  - Commodities: $20 trilhões
+  - Total: $530+ trilhões
+  Apenas 1% desse mercado tokenizado representa $5.3 trilhões - mais que todo o mercado cripto atual.
+
+2. Liquidez 24/7
+- Antes (Mercado Tradicional):
+  - Vender imóvel: 3-12 meses
+  - Horário: 9h-17h dias úteis
+  - Burocracia: Cartórios, bancos, advogados
+  - Custos: 5-10% do valor
+- Agora (RWA Tokenizado):
+  - Vender fração: Minutos
+  - Horário: 24/7/365
+  - Processo: Automático via smart contract
+  - Custos: 0.1-1% do valor
+
+3. Fracionamento e Acessibilidade
+- Exemplo Real:
+  Um prédio comercial de $10 milhões pode ser dividido em 10 milhões de tokens de $1 cada.
+- Benefícios:
+  - Investidor pequeno pode comprar $100
+  - Diversificação facilitada
+  - Entrada em mercados antes inacessíveis
+  - Liquidez para ativos ilíquidos
+
+4. Transparência e Compliance
+- Smart Contracts garantem:
+  - Distribuição automática de dividendos
+  - Registro imutável de propriedade
+  - Compliance regulatório programado
+  - Auditoria em tempo real
+
+5. Eficiência de Custos
+- Redução de intermediários:
+  - Sem corretores (economia de 3-6%)
+  - Sem cartórios (economia de 1-2%)
+  - Sem bancos custodian (economia de 0.5-1%)
+  - Total: 5-10% de economia
+
+Principais Protocolos RWA em 2026
+
+1. Centrifuge (CFG)
+- O que faz: Tokenização de ativos de crédito e recebíveis
+- Números:
+  - TVL: $500+ milhões
+  - Ativos tokenizados: Faturas, crédito imobiliário, financiamento de equipamentos
+  - Parceiros: MakerDAO, Aave
+- Como funciona:
+  1. Empresa tokeniza recebíveis
+  2. Investe em pool de liquidez
+  3. Recebe financiamento instantâneo
+  4. Paga juros aos investidores
+- APY típico: 8-15%
+
+2. Ondo Finance (ONDO)
+- O que faz: Títulos do Tesouro dos EUA tokenizados
+- Produtos:
+  - OUSG: US Government Bonds (4-5% APY)
+  - OMMF: Money Market Funds (5-6% APY)
+  - Acesso institucional a [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
+- Vantagens:
+  - Backed por T-Bills reais
+  - Liquidez diária
+  - Compliance total
+  - Segurado até $250k (FDIC)
+
+3. Maple Finance (MPL)
+- O que faz: Empréstimos institucionais on-chain
+- Modelo:
+  - Pool Delegates (gestores profissionais)
+  - Empréstimos para empresas verificadas
+  - Garantias reais tokenizadas
+- Performance:
+  - $1.5+ bilhões emprestados
+  - Default rate: <
+  - APY para investidores: 10-18%
+
+4. Goldfinch (GFI)
+- O que faz: Crédito para mercados emergentes
+- Foco:
+  - Empréstimos sem colateral cripto
+  - Análise de crédito tradicional
+  - Impacto social
+- Casos de uso:
+  - Financiamento de pequenas empresas
+  - Microcrédito
+  - Crédito agrícola
+
+5. RealT
+- O que faz: Imóveis tokenizados nos EUA
+- Como funciona:
+  1. RealT compra imóvel físico
+  2. Tokeniza em milhares de frações
+  3. Investidores compram tokens
+  4. Recebem aluguel diariamente
+- Exemplo real:
+  - Imóvel: Casa em Detroit ($50.000)
+  - Tokens: 50.000 (1 token = $1)
+  - Aluguel mensal: $500
+  - Yield anual: 12%
+  - Distribuição: Diária via USDC
+
+6. Backed Finance
+- O que faz: Ações tokenizadas
+- Produtos:
+  - bCSPX: S&P 500 tokenizado
+  - bIB01: Títulos do Tesouro
+  - Ações individuais tokenizadas
+- Vantagens:
+  - Negociação 24/7
+  - Fracionamento
+  - Sem corretora tradicional
+  - Custos baixíssimos
+
+Como Investir em RWA em 2026
+
+1. Escolha o Tipo de Ativo
+  - Para iniciantes:
+    - Títulos do Tesouro tokenizados (baixo risco)
+    - Fundos imobiliários tokenizados
+    - Stablecoins lastreadas em RWA
+  - Para intermediários:
+    - Imóveis fracionados
+    - Crédito privado
+    - Commodities tokenizadas
+  - Para avançados:
+    - Private equity tokenizado
+    - Arte e colecionáveis
+    - Crédito para mercados emergentes
+
+2. Verifique Compliance
+  - Checklist de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes):
+    - ✅ Empresa registrada e regulada
+    - ✅ Auditoria dos ativos reais
+    - ✅ Smart contracts auditados
+    - ✅ Custódia profissional
+    - ✅ Seguro dos ativos
+    - ✅ Relatórios financeiros públicos
+
+3. Entenda os Riscos
+  - Riscos específicos de RWA:
+    1. Risco Legal:
+      - Mudanças regulatórias
+      - Jurisdição dos ativos
+      - Enforcement de direitos
+    2. Risco de Custódia:
+      - Quem guarda o ativo real?
+      - Seguro adequado?
+      - Auditoria regular?
+    3. Risco de Liquidez:
+      - Mercado secundário ativo?
+      - Spread bid-ask razoável?
+      - Volume de negociação?
+    4. Risco de Contraparte:
+      - Solidez do emissor
+      - Histórico de pagamentos
+      - Garantias reais
+
+4. Diversifique
+  - Portfólio RWA balanceado:
+    - Conservador (70% RWA):
+      - 40% Títulos do Tesouro tokenizados
+      - 20% Imóveis comerciais
+      - 10% Commodities (ouro)
+      - 30% Cripto tradicional (BTC, ETH)
+    - Moderado (50% RWA):
+      - 20% Títulos do Tesouro
+      - 15% Imóveis
+      - 10% Crédito privado
+      - 5% Commodities
+      - 50% Cripto
+    - Agressivo (30% RWA):
+      - 10% Títulos
+      - 10% Imóveis
+      - 5% Crédito emergente
+      - 5% Arte/Colecionáveis
+      - 70% Cripto
+
+Caso de Uso Reais em 2026
+
+1. Investidor Brasileiro em Imóveis dos EUA
+  - Antes:
+    - Capital mínimo: $100.000+
+    - Burocracia: Meses
+    - Custos: 10-15%
+    - Liquidez: Baixíssima
+  - Com RWA:
+    - Capital mínimo: $100
+    - Processo: 10 minutos
+    - Custos: 1-2%
+    - Liquidez: Venda em minutos
+  - Resultado:
+    - Investiu $5.000 em 5 imóveis diferentes
+    - Recebe aluguel diário em USDC
+    - Yield: 10-12% ao ano
+    - Pode vender a qualquer momento
+
+2. Empresa Tokenizando Recebíveis
+  - Situação:
+    - Empresa tem $1 milhão em faturas a receber em 90 dias, mas precisa de capital agora.
+  - Solução RWA:
+    1. Tokeniza as faturas via Centrifuge
+    2. Vende tokens para investidores [defi](/artigo/defi-yield-farming-protocolos-seguros-2026)
+    3. Recebe $950.000 imediatamente
+    4. Investidores ganham 20% APY
+    5. Empresa paga quando recebe das faturas
+  - Vantagens:
+    - Sem banco (economia de juros)
+    - Processo automático
+    - Transparência total
+    - Win-win para ambos
+
+3. Aposentado Gerando Renda Passiva
+  - Perfil:
+    - 65 anos, aposentado
+    - $100.000 para investir
+    - Busca renda estável e segura
+  - Estratégia RWA:
+    - $40.000 em T-Bills tokenizados (5% APY)
+    - $30.000 em imóveis comerciais (10% APY)
+    - $20.000 em crédito privado (12% APY)
+    - $10.000 em stablecoins (8% APY)
+  - Resultado:
+    - Renda mensal: $750
+    - Yield médio: 9% ao ano
+    - Liquidez: Pode sacar parte a qualquer momento
+    - Risco: Baixo a moderado
+
+Regulação de RWA em 2026
+
+1. Estados Unidos
+  - Framework atual:
+    - SEC regulando securities tokenizados
+    - CFTC para commodities
+    - Reg D, Reg S para ofertas privadas
+    - Reg A+ para ofertas públicas menores
+  - Avanços em 2026:
+    - Clareza sobre classificação de tokens
+    - Sandbox regulatório para RWA
+    - Integração com sistema financeiro tradicional
+
+2. União Europeia
+  - MiCA (Markets in Crypto-Assets):
+    - Regras claras para RWA
+    - Passaporte europeu para emissores
+    - Proteção ao investidor
+    - Requisitos de capital
+
+3. Brasil
+  - Marco Legal das Criptomoedas:
+    - CVM regulando tokens de valores mobiliários
+    - Banco Central para stablecoins
+    - Sandbox regulatório ativo
+    - Crescimento de RWA local
+
+4. Ásia
+  - Singapura:
+    - Líder em regulação RWA
+    - MAS (Monetary Authority) progressiva
+    - Hub de tokenização
+  - Hong Kong:
+    - Licenças para plataformas RWA
+    - Integração com mercado tradicional
+
+Futuro dos RWA: 2026 e Além
+
+1. Tendências para os Próximos Anos
+  - 1. Adoção Institucional Massiva:
+    - Bancos tradicionais tokenizando ativos
+2:["$","main",null,{"className":"min-h-screen bg-gray-50","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-6","children":["$","$Lf",null,{"currentLang":"en","alternateSlugPt":"tokenizacao-ativos-reais-rwa-2026","alternateSlugEs":"tokenizacin-de-activos-reales-rwa-2026-cmo-la-blockchain-est-transformando-inmuebles-acciones-y-comm"}]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Real-World Asset Tokenization (RWA) 2026: How Blockchain Is Transforming Real Estate, Stocks, and Commodities"}],["$","p",null,{"className":"text-xl text-gray-600 mb-4","children":"Discover how real asset tokenization (RWA) is revolutionizing investments in 2026: real estate, stocks, commodities, and blockchain titles with 24/7 liquidity."}],["$","div",null,{"className":"flex items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":["By ","Equipe A Cifra"]}],["$","time",null,{"dateTime":"2025-11-23","children":"November 22, 2025"}]]}]]}],["$","div",null,{"className":"mb-8 relative w-full h-[400px]","children":["$","$Lc",null,{"src":"/images/articles/real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi.webp","alt":"Tokenização RWA 2026","fill":true,"className":"object-cover rounded-lg shadow-lg","priority":true}]}],["$","$L10",null,{"content":"$11"}],["$","div",null,{"className":"my-12","children":["$","$L12",null,{"variant":"default"}]}]]}]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Real Assets Tokenization (RWA) 2026 | The Figure"}],["$","meta","3",{"name":"description","content":"Discover how real asset tokenization (RWA) is revolutionizing investments in 2026: real estate, stocks, commodities, and bonds on the blockchain."}],["$","link","4",{"rel":"author","href":"https://a-cifra.com.br"}],["$","meta","5",{"name":"author","content":"Jonatha Pereira"}],["$","link","6",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"keywords","content":"RWA,tokenização,ativos reais,blockchain investimentos"}],["$","meta","8",{"name":"creator","content":"Jonatha Pereira"}],["$","meta","9",{"name":"publisher","content":"A Cifra"}],["$","meta","10",{"name":"robots","content":"index, follow"}],["$","meta","11",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","12",{"name":"theme-color","content":"#155C8B"}],["$","meta","13",{"name":"msapplication-TileColor","content":"#155C8B"}],["$","meta","14",{"name":"referrer","content":"origin"}],["$","link","15",{"rel":"canonical","href":"https://a-cifra.com.br/en/"}],["$","link","16",{"rel":"alternate","hrefLang":"pt-BR","href":"https://a-cifra.com.br/"}],["$","link","17",{"rel":"alternate","hrefLang":"en","href":"https://a-cifra.com.br/en/"}],["$","meta","18",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","19",{"name":"google-site-verification","content":"EQ1NeuKXQewCi95LfnGYswqQP4ZANquqMzEc0OllRbE"}],["$","meta","20",{"name":"msvalidate.01","content":"22305352092034B05EEE259DED78FD7D"}],["$","meta","21",{"name":"p:domain_verify","content":"38a79713556767bf793e421871b13067"}],["$","meta","22",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","23",{"name":"apple-mobile-web-app-title","content":"A Cifra"}],["$","meta","24",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","25",{"property":"og:title","content":"Real-World Asset Tokenization (RWA) 2026: How Blockchain Is Transforming Real Estate, Stocks, and Commodities"}],["$","meta","26",{"property":"og:description","content":"Discover how real asset tokenization (RWA) is revolutionizing investments in 2026: real estate, stocks, commodities, and blockchain titles with 24/7 liquidity."}],["$","meta","27",{"property":"og:locale","content":"en_US"}],["$","meta","28",{"property":"og:image","content":"https://a-cifra.com.br/images/articles/real-world-asset-tokenization-rwa-2026-how-blockchain-is-transforming-real-estate-stocks-and-commodi.webp"}],["$","meta","29",{"property":"og:locale:alternate","content":"pt_BR"}],["$","meta","30",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","31",{"name":"twitter:creator","content":"@acifra"}],["$","meta","32",{"name":"twitter:title","content":"A Cifra - Blog sobre Criptomoedas | Análises & Educação Crypto"}],["$","meta","33",{"name":"twitter:description","content":"Seu guia completo sobre criptomoedas, blockchain e investimentos digitais."}],["$","meta","34",{"name":"twitter:image","content":"https://a-cifra.com.br/images/cifra-principal.png"}],["$","link","35",{"rel":"icon","href":"/images/logos/favcoin.png"}],["$","link","36",{"rel":"apple-touch-icon","href":"/images/logos/favcoin.png"}]]
+1:null

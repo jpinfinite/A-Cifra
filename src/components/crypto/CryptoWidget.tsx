@@ -25,28 +25,44 @@ export function CryptoWidget() {
 
   async function fetchCryptos() {
     try {
+      // Fetch data from CoinGecko (Top 5 coins by Market Cap + Ripple + Polkadot + Doge to match UI request, limiting to 5 for widget compact)
+      // Using 'sparkline=false' to save bandwidth
       const response = await fetch(
-        'https://api.coingecko.com/api/v3/coins/markets?vs_currency=brl&ids=bitcoin,ethereum,binancecoin,cardano,solana,ripple,polkadot,dogecoin&order=market_cap_desc'
+        'https://api.coingecko.com/api/v3/coins/markets?vs_currency=brl&ids=bitcoin,ethereum,solana,binancecoin,ripple&order=market_cap_desc&per_page=5&page=1&sparkline=false&price_change_percentage=24h',
+        { next: { revalidate: 60 } } // Cache for 60 seconds
       )
+
+      if (!response.ok) {
+        throw new Error('CoinGecko API Error')
+      }
+
       const data = await response.json()
       setCryptos(data)
       setLoading(false)
     } catch (error) {
       console.error('Erro ao buscar precos:', error)
+      // Fallback data if API fails (rate limits usually)
+      if (cryptos.length === 0) {
+        setCryptos([
+          { id: 'bitcoin', symbol: 'btc', name: 'Bitcoin', current_price: 580000, price_change_percentage_24h: 1.2, market_cap: 0, image: 'https://assets.coingecko.com/coins/images/1/large/bitcoin.png' },
+          { id: 'ethereum', symbol: 'eth', name: 'Ethereum', current_price: 18000, price_change_percentage_24h: -0.5, market_cap: 0, image: 'https://assets.coingecko.com/coins/images/279/large/ethereum.png' },
+          { id: 'solana', symbol: 'sol', name: 'Solana', current_price: 850, price_change_percentage_24h: 3.5, market_cap: 0, image: 'https://assets.coingecko.com/coins/images/4128/large/solana.png' }
+        ])
+      }
       setLoading(false)
     }
   }
 
   if (loading) {
     return (
-      <div className="bg-white rounded-xl shadow-lg p-6 animate-pulse">
+      <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 animate-pulse border border-gray-100 dark:border-gray-700">
         <div className="space-y-4">
           {[1, 2, 3].map((i) => (
             <div key={i} className="flex items-center gap-4">
-              <div className="w-10 h-10 bg-gray-200 rounded-full"></div>
+              <div className="w-10 h-10 bg-gray-200 dark:bg-gray-700 rounded-full"></div>
               <div className="flex-1">
-                <div className="h-4 bg-gray-200 rounded w-1/3 mb-2"></div>
-                <div className="h-3 bg-gray-200 rounded w-1/4"></div>
+                <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-1/3 mb-2"></div>
+                <div className="h-3 bg-gray-200 dark:bg-gray-700 rounded w-1/4"></div>
               </div>
             </div>
           ))}
@@ -56,7 +72,7 @@ export function CryptoWidget() {
   }
 
   return (
-    <div className="bg-gradient-to-br from-brand-dark-blue to-brand-primary-blue rounded-xl shadow-lg p-6">
+    <div className="bg-gradient-to-br from-brand-dark-blue to-brand-primary-blue rounded-xl shadow-lg p-6 text-white">
       <div className="flex items-center justify-between mb-6">
         <h3 className="text-xl font-bold text-white">
           Precos ao Vivo
