@@ -172,7 +172,7 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
 
             {/* Desktop Navigation */}
             <div className="hidden lg:block">
-              <div className="flex items-center space-x-1">
+              <div className="flex items-center space-x-2">
                 {navigation.map((item) => (
                   <div key={item.href} className="relative">
                     {item.children ? (
@@ -184,8 +184,8 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
                             toggleDropdown(item.label)
                           }}
                           className={cn(
-                            'px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200',
-                            'min-h-touch min-w-touch flex items-center justify-center space-x-1',
+                            'px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200',
+                            'min-h-touch flex items-center justify-center gap-1',
                             'hover:bg-brand-off-white hover:text-brand-primary-blue',
                             'focus:outline-none focus:ring-2 focus:ring-brand-primary-blue focus:ring-offset-2',
                             openDropdown === item.label
@@ -231,8 +231,8 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
                       <Link
                         href={item.href}
                         className={cn(
-                          'px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200',
-                          'min-h-touch min-w-touch flex items-center justify-center',
+                          'px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200',
+                          'min-h-touch flex items-center justify-center',
                           'hover:bg-brand-off-white hover:text-brand-primary-blue',
                           'focus:outline-none focus:ring-2 focus:ring-brand-primary-blue focus:ring-offset-2',
                           isActive(item.href)
