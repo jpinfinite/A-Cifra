@@ -6,7 +6,7 @@ import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 
 import { Article } from '@/types'
-import { addInlineLinks } from '@/utils/relatedArticles'
+// import { addInlineLinks } from '@/utils/relatedArticles' // TEMPORARIAMENTE DESABILITADO
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
 import { AdSenseInArticle, AdSenseInArticle2, AdSenseInArticle3, AdSenseMultiplex } from '@/components/ads'
 
