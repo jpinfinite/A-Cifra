@@ -1,67 +1,87 @@
-/**
- * Article Schema Component
- * Adiciona JSON-LD para artigos melhorando SEO
- */
+import { Article } from '@/types'
 
 interface ArticleSchemaProps {
-  title: string
-  description: string
-  author: string
-  publishedAt: string
-  updatedAt: string
-  image: string
-  url: string
-  category: string
-  tags: string[]
-  wordCount?: number
-  language?: string
+  article: Article
 }
 
-export function ArticleSchema({
-  title,
-  description,
-  author,
-  publishedAt,
-  updatedAt,
-  image,
-  url,
-  category,
-  tags,
-  wordCount,
-  language = 'pt-BR'
-}: ArticleSchemaProps) {
+export function ArticleSchema({ article }: ArticleSchemaProps) {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: title,
-    description: description,
-    image: `https://a-cifra.com.br${image}`,
-    datePublished: publishedAt,
-    dateModified: updatedAt,
+    headline: article.title,
+    description: article.excerpt,
+    image: article.coverImage?.src ? `https://a-cifra.com.br${article.coverImage.src}` : undefined,
+    datePublished: article.publishedAt?.toISOString(),
+    dateModified: article.updatedAt?.toISOString() || article.publishedAt?.toISOString(),
     author: {
       '@type': 'Person',
-      name: author,
-      url: 'https://a-cifra.com.br'
+      name: article.author.name,
+      url: 'https://a-cifra.com.br/sobre'
     },
     publisher: {
       '@type': 'Organization',
       name: 'A Cifra',
-      url: 'https://a-cifra.com.br',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://a-cifra.com.br/images/logos/favcoin.png',
-        width: 600,
-        height: 60
+        url: 'https://a-cifra.com.br/logo.png'
       }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': url
+      '@id': `https://a-cifra.com.br/artigo/${article.slug}`
     },
-    articleSection: category,
-    keywords: tags.join(', '),
-    inLanguage: language,
-    ...(wordCount && { wordCount })
+    articleSection: article.category.name,
+    keywords: article.tags.join(', '),
+    wordCount: article.content.split(' ').length,
+    inLanguage: article.language || 'pt-BR'
+  }
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  )
+}
+
+export function OrganizationSchema() {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'A Cifra',
+    url: 'https://a-cifra.com.br',
+    logo: 'https://a-cifra.com.br/logo.png',
+    sameAs: [
+      'https://twitter.com/acifra_btc',
+      'https://facebook.com/acifra',
+      'https://instagram.com/acifra'
+    ],
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'Customer Service',
+      email: 'contato@a-cifra.com.br'
+    }
+  }
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  )
+}
+
+export function WebSiteSchema() {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'A Cifra',
+    url: 'https://a-cifra.com.br',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: 'https://a-cifra.com.br/busca?q={search_term_string}',
+      'query-input': 'required name=search_term_string'
+    }
   }
 
   return (
