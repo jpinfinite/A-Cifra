@@ -80,7 +80,7 @@ async function getTrendingTopic() {
 async function generateArticleContent(topic) {
   log(`🧠 Gerando artigo completo com Gemini Pro sobre: ${topic.title}...`);
 
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
+  const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
 
   const prompt = `
     Você é um especialista sênior em criptomoedas, DeFi e Web3 escrevendo para o blog 'A Cifra'.
@@ -103,7 +103,7 @@ async function generateArticleContent(topic) {
 // 3. Gerar Metadados (Frontmatter) com Gemini
 async function generateMetadata(topic, content) {
   log('🏷️ Gerando metadados com Gemini...');
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
+  const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
 
   const prompt = `
     Analise este artigo sobre "${topic.title}" e gere um JSON com os seguintes campos:
@@ -188,7 +188,7 @@ function downloadImage(url, filepath) {
 // 5. Traduzir com Gemini
 async function translateContent(content, language) {
   log(`🌍 Traduzindo para ${language} com Gemini...`);
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
+  const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
 
   const prompt = `
     Traduza o seguinte artigo Markdown para ${language}.
