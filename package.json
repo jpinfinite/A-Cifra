@@ -36,6 +36,7 @@
     "twitter:generate": "node scripts/gerar-tweet.js"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@next/bundle-analyzer": "^14.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",

@@ -1,5 +1,7 @@
+```javascript
 const Parser = require('rss-parser');
 const OpenAI = require('openai');
+const { GoogleGenerativeAI } = require('@google/generative-ai');
 const fs = require('fs');
 const path = require('path');
 const slugify = require('unique-slug');
@@ -7,6 +9,7 @@ const { execSync } = require('child_process');
 const sharp = require('sharp');
 const https = require('https');
 const dotenv = require('dotenv');
+
 dotenv.config();
 dotenv.config({ path: '.env.local' });
 
@@ -16,10 +19,13 @@ const RSS_FEEDS = [
   'https://www.coindesk.com/arc/outboundfeeds/rss/'
 ];
 
-// Inicializar OpenAI
+// Inicializar APIs
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
+  apiKey: process.env.OPENAI_API_KEY, // Necessário apenas para imagens (DALL-E 3)
 });
+
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
 
 const parser = new Parser();
 
@@ -78,115 +84,93 @@ async function getTrendingTopic() {
   return selected;
 }
 
-// 2. Gerar Artigo com IA
+// 2. Gerar Artigo com Google Gemini
 async function generateArticleContent(topic) {
-  log(`🧠 Gerando artigo completo sobre: ${topic.title}...`);
-
-  const systemPrompt = `
-    Você é um especialista sênior em criptomoedas, blockchain e finanças descentralizadas (DeFi) escrevendo para o blog 'A Cifra'.
-    Seu objetivo é escrever artigos altamente técnicos, educacionais e otimizados para SEO e Google Discover.
-
-    Diretrizes:
-    - O artigo deve ter MAIS DE 1600 PALAVRAS. Isso é mandatório.
-    - Estrutura: Introdução ganchuda, H2s explicativos, H3s detalhados, Listas (bullets), e Conclusão.
-    - Tom de voz: Profissional, autoritativo, mas acessível.
-    - Use Markdown.
-    - NÃO inclua o título H1 no corpo do texto (ele irá no frontmatter).
-    - Inclua uma chamada para ação (CTA) no final.
-    - Otimize para palavras-chave relacionadas à notícia.
-  `;
-
-  const userPrompt = `
-    Escreva um artigo completo e profundo baseado nesta notícia recente: "${topic.title}".
-    Contexto adicional: ${topic.content}
-
-    O artigo deve focar em:
-    1. O que aconteceu (fatos).
-    2. Por que isso importa (análise fundamentalista).
-    3. Impacto no mercado e preços.
-    4. Perspectivas futuras (2025+).
-    5. Aspectos técnicos (se aplicável).
-
-    Retorne APENAS o conteúdo em Markdown, sem blocos de código (ex: não use \`\`\`markdown).
-  `;
-
-  const completion = await openai.chat.completions.create({
-    model: "gpt-4-turbo-preview", // Use modelo turbo para contextos longos
-    messages: [
-      { role: "system", content: systemPrompt },
-      { role: "user", content: userPrompt }
-    ],
-    temperature: 0.7,
-  });
-
-  return completion.choices[0].message.content;
-}
-
-// 3. Gerar Metadados (Frontmatter)
-async function generateMetadata(topic, content) {
-  log('🏷️ Gerando metadados e título SEO...');
-
-  const completion = await openai.chat.completions.create({
-    model: "gpt-3.5-turbo",
-    messages: [
-      { role: "system", content: "Gere metadados JSON para um artigo de blog sobre cripto." },
-      { role: "user", content: `
-        Baseado neste título de notícia: "${topic.title}" e neste conteúdo (início): "${content.substring(0, 500)}...",
-        Gere um objeto JSON com:
-        - title: Um título SEO altamente clicável e atraente (máx 60 chars).
-        - excerpt: Um resumo curto e instigante para meta description (máx 160 chars).
-        - tags: Array de 5-8 tags relevantes.
-        - category: Uma destas categorias: "Criptomoedas", "DeFi", "NFTs", "Metaverso", "Regulação", "Segurança", "Blockchain", "Tecnologia".
-        - slug: Um slug URL-friendly.
-      `}
-    ],
-    response_format: { type: "json_object" }
-  });
-
-  return JSON.parse(completion.choices[0].message.content);
-}
-
-// 4. Gerar Imagem com DALL-E 3
-async function generateImage(metadata) {
-  log('🎨 Criando imagem de capa com IA...');
+  log(`🧠 Gerando artigo completo com Gemini Pro sobre: ${topic.title}...`);
 
   const prompt = `
-    Editorial style illustration for a cryptocurrency news article titled "${metadata.title}".
-    Theme: Modern, futuristic, digital finance, blockchain, ethereum style, high tech, neon accents, 3d render, 8k resolution, cinematic lighting.
-    No text, no letters, no words in the image.
-    Aspect ratio: Wide (16:9).
+    Você é um especialista sênior em criptomoedas escrevendo para o blog 'A Cifra'.
+    Escreva um artigo completo (>1600 palavras) baseado nesta notícia: "${topic.title}".
+    Resumo da notícia: ${topic.content}
+
+    Diretrizes:
+    - Estrutura Markdown (H2, H3, bullets).
+    - Tom profissional e educacional.
+    - Foco em análise fundamentalista e impacto futuro (2025).
+    - NÃO repita o título como H1. Comece com uma introdução engajante.
+    - SEO Otimizado.
   `;
 
-  const response = await openai.images.generate({
-    model: "dall-e-3",
-    prompt: prompt,
-    n: 1,
-    size: "1024x1024", // DALL-E 3 standard
-    quality: "standard",
-    response_format: "url",
-  });
+  const result = await model.generateContent(prompt);
+  return result.response.text();
+}
 
-  const imageUrl = response.data[0].url;
-  const imageFileName = `${metadata.slug}-cover.png`; // Baixamos como PNG primeiro
-  const imagePath = path.join(IMAGES_DIR, imageFileName);
+// 3. Gerar Metadados (Frontmatter) com Gemini
+async function generateMetadata(topic, content) {
+  log('🏷️ Gerando metadados com Gemini...');
 
-  // Download da imagem
-  await downloadImage(imageUrl, imagePath);
+  const prompt = `
+    Analise este artigo sobre "${topic.title}" e gere um JSON com os seguintes campos:
+    - title: Título SEO (max 60 chars)
+    - excerpt: Meta description (max 160 chars)
+    - tags: Array de strings (5-8 tags)
+    - category: Uma categoria ("Criptomoedas", "DeFi", "NFTs", "Regulação", "Bitcoin", "Ethereum")
+    - slug: URL slug (ex: titulo-do-artigo)
 
-  // Otimizar para WebP
-  const webpFileName = `${metadata.slug}-cover.webp`;
-  const webpPath = path.join(IMAGES_DIR, webpFileName);
+    Retorne APENAS o JSON válido, sem markdown code blocks.
+  `;
 
-  log('⚙️ Otimizando imagem para WebP...');
-  await sharp(imagePath)
-    .resize(1200, 630, { fit: 'cover' })
-    .webp({ quality: 80 })
-    .toFile(webpPath);
+  const result = await model.generateContent(prompt);
+  let text = result.response.text();
 
-  // Remove PNG original para economizar espaço
-  fs.unlinkSync(imagePath);
+  // Limpeza caso venha com markdown
+  text = text.replace(/```json/g, '').replace(/```/g, '').trim();
 
-  return webpFileName;
+  return JSON.parse(text);
+}
+
+// 4. Gerar Imagem com DALL-E 3 (OpenAI)
+// Mantemos OpenAI para imagem pois a API do Gemini Vision foca em input, e Imagen 3 via API requer setup complexo de GCP.
+async function generateImage(metadata) {
+  log('🎨 Criando imagem de capa com DALL-E 3...');
+
+  try {
+    const prompt = `
+      Editorial style illustration for a cryptocurrency news article titled "${metadata.title}".
+      Theme: Modern, futuristic, digital finance, blockchain 3d render, high tech neon, 8k.
+      No text in image. Wide aspect ratio 16:9.
+    `;
+
+    const response = await openai.images.generate({
+      model: "dall-e-3",
+      prompt: prompt,
+      n: 1,
+      size: "1024x1024",
+      quality: "standard",
+      response_format: "url",
+    });
+
+    const imageUrl = response.data[0].url;
+    const imageFileName = `${metadata.slug}-cover.png`;
+    const imagePath = path.join(IMAGES_DIR, imageFileName);
+
+    await downloadImage(imageUrl, imagePath);
+
+    const webpFileName = `${metadata.slug}-cover.webp`;
+    const webpPath = path.join(IMAGES_DIR, webpFileName);
+
+    log('⚙️ Otimizando imagem para WebP...');
+    await sharp(imagePath)
+      .resize(1200, 630, { fit: 'cover' })
+      .webp({ quality: 80 })
+      .toFile(webpPath);
+
+    fs.unlinkSync(imagePath);
+    return webpFileName;
+  } catch (error) {
+    log(`⚠️ Erro ao gerar imagem: ${error.message}. Usando fallback.`);
+    return 'default-crypto-cover.webp'; // Fallback se falhar
+  }
 }
 
 function downloadImage(url, filepath) {
@@ -204,21 +188,22 @@ function downloadImage(url, filepath) {
   });
 }
 
-// 5. Traduzir Artigo
+// 5. Traduzir com Gemini
 async function translateContent(content, language) {
-  log(`🌍 Traduzindo para ${language}...`);
-  // Usaremos GPT-3.5-turbo para tradução por ser mais rápido e barato para textos longos
-  // Dividimos em chunks se necessário (simplificado aqui para 1 chunk large context)
+  log(`🌍 Traduzindo para ${language} com Gemini...`);
 
-  const completion = await openai.chat.completions.create({
-    model: "gpt-3.5-turbo-16k",
-    messages: [
-      { role: "system", content: `Você é um tradutor profissional expert em criptomoedas. Traduza o seguinte texto Markdown para ${language}. Mantenha a formatação Markdown intacta.` },
-      { role: "user", content: content }
-    ]
-  });
+  const prompt = `
+    Traduza o seguinte artigo Markdown para ${language}.
+    Mantenha toda a formatação Markdown intacta.
+    Adapte o tom para ser nativo e fluente.
 
-  return completion.choices[0].message.content;
+    Artigo:
+    ${content.substring(0, 30000)}
+  `;
+  // Gemini 1.5 Pro suporta context windows gigantes (1M tokens), então podemos passar o artigo inteiro sem medo.
+
+  const result = await model.generateContent(prompt);
+  return result.response.text();
 }
 
 function createMarkdownFile(lang, metadata, content, imageName) {
@@ -266,7 +251,7 @@ async function deployToGit() {
   log('🚀 Iniciando deploy para o GitHub...');
   try {
     execSync('git add .');
-    execSync('git commit -m "auto: New article generated by Auto-Publisher"');
+    execSync('git commit -m "auto: New article generated by Gemini Auto-Publisher"');
     execSync('git push origin main');
     log('✅ Deploy enviado com sucesso!');
   } catch (error) {
@@ -276,54 +261,56 @@ async function deployToGit() {
 
 // === MAIN LOOP ===
 async function main() {
-  log('=== INICIANDO AUTO-PUBLISHER ===');
+  log('=== INICIANDO AUTO-PUBLISHER (GEMINI POWERED) ===');
+
+  if (!process.env.GEMINI_API_KEY) {
+    log('❌ ERRO: GEMINI_API_KEY não encontrada no .env');
+    return;
+  }
 
   try {
-    // 1. Tópico
     const topic = await getTrendingTopic();
 
-    // 2. Conteúdo PT-BR
     const contentPT = await generateArticleContent(topic);
     const metadata = await generateMetadata(topic, contentPT);
 
-    // 3. Imagem
-    const imageName = await generateImage(metadata);
+    // Imagem ainda usa OpenAI se disponível, senão fallback
+    let imageName = 'default-crypto-cover.webp';
+    if (process.env.OPENAI_API_KEY) {
+      imageName = await generateImage(metadata);
+    } else {
+      log('⚠️ OPENAI_API_KEY ausente. Pulando geração de imagem (usando default).');
+    }
 
-    // 4. Salvar PT-BR
     createMarkdownFile('pt-BR', metadata, contentPT, imageName);
 
-    // 5. Traduzir e Salvar EN
-    const metadataEN = { ...metadata }; // Em um mundo ideal traduziríamos o título também, mas vamos manter simples por enquanto ou usar a mesma função de tradução
-    // Traduzir metadados rapidinho
+    // Traduções
+    // Traduzir metadados para gerar arquivos corretos em EN/ES
     const metaEnRaw = await translateContent(JSON.stringify(metadata), "English");
-    const metaEn = JSON.parse(metaEnRaw);
+    const metaEn = JSON.parse(metaEnRaw.replace(/```json/g, '').replace(/```/g, '').trim());
     const contentEN = await translateContent(contentPT, "English");
     createMarkdownFile('en', metaEn, contentEN, imageName);
 
-    // 6. Traduzir e Salvar ES
     const metaEsRaw = await translateContent(JSON.stringify(metadata), "Spanish");
-    const metaEs = JSON.parse(metaEsRaw);
+    const metaEs = JSON.parse(metaEsRaw.replace(/```json/g, '').replace(/```/g, '').trim());
     const contentES = await translateContent(contentPT, "Spanish");
     createMarkdownFile('es', metaEs, contentES, imageName);
 
-    // 7. Validar
     const buildSuccess = await runBuild();
 
-    // 8. Deploy
     if (buildSuccess) {
       await deployToGit();
     } else {
-      // Se falhar, talvez devêssemos reverter os arquivos criados?
-      // Por enquanto, deixamos lá para debug.
       log('⚠️ Deploy cancelado devido a erro no build.');
     }
 
   } catch (error) {
     log(`❌ FALHA FATAL: ${error.message}`);
-    if (error.response) console.error(error.response.data);
+    console.error(error);
   }
 
   log('=== FIM DA EXECUÇÃO ===');
 }
 
 main();
+```
