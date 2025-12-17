@@ -81,17 +81,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
     <MainLayout>
       {/* SEO Schema */}
-      <ArticleSchema
-        title={article.title}
-        description={article.excerpt}
-        author={article.author.name}
-        publishedAt={article.publishedAt?.toISOString() || new Date().toISOString()}
-        updatedAt={(article.updatedAt || article.publishedAt)?.toISOString() || new Date().toISOString()}
-        image={article.coverImage.src}
-        url={currentUrl}
-        category={article.category.name}
-        tags={article.tags}
-      />
+      <ArticleSchema article={article} />
 
       {/* FAQ Schema */}
       {article.faq && article.faq.length > 0 && (
