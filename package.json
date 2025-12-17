@@ -44,6 +44,7 @@
     "gray-matter": "^4.0.3",
     "lucide-react": "latest",
     "next": "^14.0.0",
+    "openai": "^6.14.0",
     "puppeteer": "^24.32.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -55,10 +56,12 @@
     "remark-html": "^16.0.1",
     "resend": "^6.5.2",
     "rss": "^1.2.2",
+    "rss-parser": "^3.13.0",
     "sanitize-html": "^2.17.0",
     "server-only": "^0.0.1",
     "sib-api-v3-sdk": "^8.5.0",
     "tailwind-merge": "^3.3.1",
+    "unique-slug": "^6.0.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
