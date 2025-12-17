@@ -25,7 +25,7 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
     }).format(date)
   }
 
-  const estimatedReadTime = article.readingTime || Math.ceil(article.content.split(' ').length / 200)
+  const estimatedReadTime = article.readingTime || (article.content ? Math.ceil(article.content.split(' ').length / 200) : 5)
 
   // Obter imagem otimizada baseada na categoria
   const imageData = article.coverImage?.src
@@ -151,12 +151,14 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
             </div>
 
             {/* Publication Date */}
-            <div className="flex items-center space-x-1">
-              <Calendar className="h-4 w-4" />
-              <time dateTime={article.publishedAt?.toISOString()} suppressHydrationWarning>
-                {article.publishedAt && formatDate(article.publishedAt)}
-              </time>
-            </div>
+            {article.publishedAt && (
+              <div className="flex items-center space-x-1">
+                <Calendar className="h-4 w-4" />
+                <time dateTime={article.publishedAt.toISOString()} suppressHydrationWarning>
+                  {formatDate(article.publishedAt)}
+                </time>
+              </div>
+            )}
           </div>
         </CardContent>
       </div>

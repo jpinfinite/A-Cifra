@@ -25,6 +25,18 @@ export default function Error({
           <Text className="mb-6">
             Ocorreu um erro inesperado. Nossa equipe já foi notificada e está trabalhando para resolver.
           </Text>
+          {process.env.NODE_ENV === 'development' && (
+            <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg text-left max-w-2xl mx-auto">
+              <p className="text-sm font-mono text-red-800 mb-2">
+                <strong>Erro:</strong> {error.message}
+              </p>
+              {error.stack && (
+                <pre className="text-xs text-red-600 overflow-auto max-h-40">
+                  {error.stack}
+                </pre>
+              )}
+            </div>
+          )}
           <button
             onClick={reset}
             className="inline-block px-6 py-3 bg-brand-primary-blue text-white rounded-lg hover:bg-brand-medium-blue transition-colors"

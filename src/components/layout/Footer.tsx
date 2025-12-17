@@ -57,11 +57,15 @@ export function Footer({ dictionary }: FooterProps) {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5">
           {/* Brand Section */}
           <div className="lg:col-span-1">
-            <Logo
-              size="md"
-              variant="footer"
-              className="focus-visible:ring-brand-gold focus-visible:ring-offset-brand-dark-blue"
-            />
+            <Link
+              href="/"
+              className="inline-block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-gold focus-visible:ring-offset-2 focus-visible:ring-offset-brand-dark-blue rounded-lg transition-transform duration-200 hover:scale-105"
+              aria-label="A Cifra - Página inicial"
+            >
+              <h2 className="text-3xl font-bold text-white mb-4">
+                a cifra
+              </h2>
+            </Link>
             <Text className="mt-4 text-gray-300 max-w-xs">
               Seu guia completo sobre criptomoedas, blockchain e investimentos digitais.
               Análises, notícias e educação financeira.

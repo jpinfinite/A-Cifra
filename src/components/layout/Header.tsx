@@ -163,7 +163,7 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
             <div className="flex-shrink-0">
               <Link
                 href="/"
-                className="flex items-center group"
+                className="flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105"
                 aria-label="A Cifra - Página inicial"
               >
                 <Logo size="md" priority />

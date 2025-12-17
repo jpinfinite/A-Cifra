@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import Link from 'next/link'
 import { cn } from '@/utils/cn'
 
 interface LogoProps {
@@ -13,6 +12,8 @@ interface LogoProps {
  * Logo component com variantes para header e footer
  * - default/header: usa cabecalho.png
  * - white/footer: usa cifra-positivo.png
+ *
+ * NOTA: Este componente NÃO inclui Link - adicione um Link ao redor se necessário
  */
 export function Logo({
   className,
@@ -30,29 +31,21 @@ export function Logo({
 
   // Selecionar logo baseado na variante
   const logoSrc = variant === 'white' || variant === 'footer'
-    ? '/images/logos/logo-positiva.png'
+    ? '/images/logos/cifra-positivo.webp'
     : '/images/logos/cabecalho.png'
 
   return (
-    <Link
-      href="/"
+    <Image
+      src={logoSrc}
+      alt="A Cifra - Logo"
       className={cn(
-        'flex items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary-blue focus-visible:ring-offset-2 rounded-lg transition-transform duration-200 hover:scale-105',
+        'w-auto object-contain',
+        sizeConfig.class,
         className
       )}
-      aria-label="A Cifra - Página inicial"
-    >
-      <Image
-        src={logoSrc}
-        alt="A Cifra - Logo"
-        className={cn(
-          'w-auto object-contain',
-          sizeConfig.class
-        )}
-        width={sizeConfig.width}
-        height={sizeConfig.height}
-        priority={priority}
-      />
-    </Link>
+      width={sizeConfig.width}
+      height={sizeConfig.height}
+      priority={priority}
+    />
   )
 }
