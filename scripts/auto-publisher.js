@@ -1,6 +1,4 @@
-```javascript
 const Parser = require('rss-parser');
-const OpenAI = require('openai');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const fs = require('fs');
 const path = require('path');
@@ -19,13 +17,11 @@ const RSS_FEEDS = [
   'https://www.coindesk.com/arc/outboundfeeds/rss/'
 ];
 
-// Inicializar APIs
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY, // Necessário apenas para imagens (DALL-E 3)
-});
-
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
+// Inicializar Gemini
+// Nota: O usuário pode não ter a chave ainda, vamos tratar isso no main()
+const genAI = process.env.GEMINI_API_KEY
+  ? new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
+  : null;
 
 const parser = new Parser();
 
@@ -71,10 +67,6 @@ async function getTrendingTopic() {
   // Ordenar por data (mais recente)
   articles.sort((a, b) => b.pubDate - a.pubDate);
 
-  // Verificar se já falamos sobre isso (verificação simples por título nos arquivos existentes)
-  // Ignora se encontrar palavra-chave similar nos últimos arquivos.
-  // Esta parte é simplificada para MVP.
-
   if (articles.length === 0) {
     throw new Error('Nenhuma notícia recente encontrada.');
   }
@@ -88,17 +80,20 @@ async function getTrendingTopic() {
 async function generateArticleContent(topic) {
   log(`🧠 Gerando artigo completo com Gemini Pro sobre: ${topic.title}...`);
 
+  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
+
   const prompt = `
-    Você é um especialista sênior em criptomoedas escrevendo para o blog 'A Cifra'.
+    Você é um especialista sênior em criptomoedas, DeFi e Web3 escrevendo para o blog 'A Cifra'.
     Escreva um artigo completo (>1600 palavras) baseado nesta notícia: "${topic.title}".
     Resumo da notícia: ${topic.content}
 
     Diretrizes:
+    - O artigo deve ser longo, técnico e educativo.
     - Estrutura Markdown (H2, H3, bullets).
-    - Tom profissional e educacional.
-    - Foco em análise fundamentalista e impacto futuro (2025).
+    - Tom profissional, autoritativo e otimista (mas realista).
+    - Foco em análise fundamentalista, tokenomics e impacto futuro.
     - NÃO repita o título como H1. Comece com uma introdução engajante.
-    - SEO Otimizado.
+    - Otimize para SEO e Google Discover.
   `;
 
   const result = await model.generateContent(prompt);
@@ -108,13 +103,14 @@ async function generateArticleContent(topic) {
 // 3. Gerar Metadados (Frontmatter) com Gemini
 async function generateMetadata(topic, content) {
   log('🏷️ Gerando metadados com Gemini...');
+  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
 
   const prompt = `
     Analise este artigo sobre "${topic.title}" e gere um JSON com os seguintes campos:
-    - title: Título SEO (max 60 chars)
+    - title: Título SEO (max 60 chars, clickbait saudável)
     - excerpt: Meta description (max 160 chars)
     - tags: Array de strings (5-8 tags)
-    - category: Uma categoria ("Criptomoedas", "DeFi", "NFTs", "Regulação", "Bitcoin", "Ethereum")
+    - category: Escolha UMA: "Criptomoedas", "DeFi", "NFTs", "Regulação", "Bitcoin", "Ethereum", "Altcoins"
     - slug: URL slug (ex: titulo-do-artigo)
 
     Retorne APENAS o JSON válido, sem markdown code blocks.
@@ -126,34 +122,35 @@ async function generateMetadata(topic, content) {
   // Limpeza caso venha com markdown
   text = text.replace(/```json/g, '').replace(/```/g, '').trim();
 
-  return JSON.parse(text);
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    log('Erro ao parsear JSON dos metadados. Tentando fallback simples.');
+    return {
+      title: topic.title,
+      excerpt: topic.content.substring(0, 150),
+      tags: ['Crypto', 'News'],
+      category: 'Criptomoedas',
+      slug: slugify(topic.title)
+    };
+  }
 }
 
-// 4. Gerar Imagem com DALL-E 3 (OpenAI)
-// Mantemos OpenAI para imagem pois a API do Gemini Vision foca em input, e Imagen 3 via API requer setup complexo de GCP.
+// 4. Gerar Imagem Gratuita (Pollinations.ai)
 async function generateImage(metadata) {
-  log('🎨 Criando imagem de capa com DALL-E 3...');
+  log('🎨 Criando imagem de capa Gratuita (Pollinations/Flux)...');
+
+  // Prompt otimizado para renderizadores artísticos como Flux/Midjourney style
+  const prompt = `cinematic shot, crypto news illustration about ${metadata.title}, futuristic, blockchain, ethereum style, high tech, neon accents, 3d render, 8k resolution, highly detailed, dramatic lighting, aspect ratio 16:9`;
+
+  // Usamos o modelo 'flux' que é excelente e gratuito via Pollinations
+  const encodedPrompt = encodeURIComponent(prompt);
+  const imageUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}?width=1280&height=720&model=flux&seed=${Math.floor(Math.random() * 1000)}`;
+
+  const imageFileName = `${metadata.slug}-cover.png`;
+  const imagePath = path.join(IMAGES_DIR, imageFileName);
 
   try {
-    const prompt = `
-      Editorial style illustration for a cryptocurrency news article titled "${metadata.title}".
-      Theme: Modern, futuristic, digital finance, blockchain 3d render, high tech neon, 8k.
-      No text in image. Wide aspect ratio 16:9.
-    `;
-
-    const response = await openai.images.generate({
-      model: "dall-e-3",
-      prompt: prompt,
-      n: 1,
-      size: "1024x1024",
-      quality: "standard",
-      response_format: "url",
-    });
-
-    const imageUrl = response.data[0].url;
-    const imageFileName = `${metadata.slug}-cover.png`;
-    const imagePath = path.join(IMAGES_DIR, imageFileName);
-
     await downloadImage(imageUrl, imagePath);
 
     const webpFileName = `${metadata.slug}-cover.webp`;
@@ -169,7 +166,7 @@ async function generateImage(metadata) {
     return webpFileName;
   } catch (error) {
     log(`⚠️ Erro ao gerar imagem: ${error.message}. Usando fallback.`);
-    return 'default-crypto-cover.webp'; // Fallback se falhar
+    return 'default-crypto-cover.webp';
   }
 }
 
@@ -182,7 +179,7 @@ function downloadImage(url, filepath) {
         file.close(resolve);
       });
     }).on('error', err => {
-      fs.unlink(filepath);
+      if (fs.existsSync(filepath)) fs.unlinkSync(filepath);
       reject(err);
     });
   });
@@ -191,16 +188,16 @@ function downloadImage(url, filepath) {
 // 5. Traduzir com Gemini
 async function translateContent(content, language) {
   log(`🌍 Traduzindo para ${language} com Gemini...`);
+  const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro-latest" });
 
   const prompt = `
     Traduza o seguinte artigo Markdown para ${language}.
     Mantenha toda a formatação Markdown intacta.
-    Adapte o tom para ser nativo e fluente.
+    Adapte o tom para ser nativo e fluente para um público investidor.
 
     Artigo:
     ${content.substring(0, 30000)}
   `;
-  // Gemini 1.5 Pro suporta context windows gigantes (1M tokens), então podemos passar o artigo inteiro sem medo.
 
   const result = await model.generateContent(prompt);
   return result.response.text();
@@ -208,6 +205,7 @@ async function translateContent(content, language) {
 
 function createMarkdownFile(lang, metadata, content, imageName) {
   const dateStr = new Date().toISOString();
+  // Se for tradução, podemos adaptar o título se tivermos, mas vamos usar o título original por enquanto ou traduzir depois
 
   const fileContent = `---
 title: "${metadata.title}"
@@ -261,11 +259,12 @@ async function deployToGit() {
 
 // === MAIN LOOP ===
 async function main() {
-  log('=== INICIANDO AUTO-PUBLISHER (GEMINI POWERED) ===');
+  log('=== INICIANDO AUTO-PUBLISHER (GEMINI + POLLINATIONS) ===');
 
   if (!process.env.GEMINI_API_KEY) {
-    log('❌ ERRO: GEMINI_API_KEY não encontrada no .env');
-    return;
+    log('❌ ERRO: GEMINI_API_KEY não encontrada no .env. Configure-a para continuar.');
+    log('Obtenha em: https://aistudio.google.com/app/apikey');
+    return; // Aborta se não tiver chave
   }
 
   try {
@@ -274,25 +273,33 @@ async function main() {
     const contentPT = await generateArticleContent(topic);
     const metadata = await generateMetadata(topic, contentPT);
 
-    // Imagem ainda usa OpenAI se disponível, senão fallback
-    let imageName = 'default-crypto-cover.webp';
-    if (process.env.OPENAI_API_KEY) {
-      imageName = await generateImage(metadata);
-    } else {
-      log('⚠️ OPENAI_API_KEY ausente. Pulando geração de imagem (usando default).');
-    }
+    // Imagem via Pollinations (Gratuito)
+    const imageName = await generateImage(metadata);
 
     createMarkdownFile('pt-BR', metadata, contentPT, imageName);
 
     // Traduções
-    // Traduzir metadados para gerar arquivos corretos em EN/ES
+    // Para simplificar, vamos usar os mesmos metadados traduzidos apenas no conteúdo
+    // Mas idealmente traduziríamos o título e excerpt também.
+    // Vamos fazer um quick-translate dos metadados para inglês e espanhol para manter qualidade.
+
+    // EN
     const metaEnRaw = await translateContent(JSON.stringify(metadata), "English");
-    const metaEn = JSON.parse(metaEnRaw.replace(/```json/g, '').replace(/```/g, '').trim());
+    let metaEn = metadata;
+    try {
+        metaEn = JSON.parse(metaEnRaw.replace(/```json/g, '').replace(/```/g, '').trim());
+    } catch(e) {}
+
     const contentEN = await translateContent(contentPT, "English");
     createMarkdownFile('en', metaEn, contentEN, imageName);
 
+    // ES
     const metaEsRaw = await translateContent(JSON.stringify(metadata), "Spanish");
-    const metaEs = JSON.parse(metaEsRaw.replace(/```json/g, '').replace(/```/g, '').trim());
+    let metaEs = metadata;
+    try {
+        metaEs = JSON.parse(metaEsRaw.replace(/```json/g, '').replace(/```/g, '').trim());
+    } catch(e) {}
+
     const contentES = await translateContent(contentPT, "Spanish");
     createMarkdownFile('es', metaEs, contentES, imageName);
 
@@ -313,4 +320,3 @@ async function main() {
 }
 
 main();
-```
