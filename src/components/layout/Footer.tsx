@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Twitter, Instagram } from 'lucide-react'
-import { Text, Logo } from '@/components/ui'
+import { Text } from '@/components/ui'
 
 interface FooterProps {
   dictionary?: any
