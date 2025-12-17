@@ -28,18 +28,29 @@ export function SidebarAd({
 
   useEffect(() => {
     if (isMounted) {
-      const timer = setTimeout(() => {
+      const initAd = () => {
         try {
           if (typeof window !== 'undefined' && adRef.current) {
-            // Check if container has width to prevent "No slot size" error
-            if (adRef.current.offsetWidth > 0) {
+            // Check if container has width and is visible
+            const width = adRef.current.offsetWidth
+            if (width > 0 && window.getComputedStyle(adRef.current).display !== 'none') {
               (window.adsbygoogle = window.adsbygoogle || []).push({})
+            } else {
+              // Retry once after a delay if width is 0 (e.g., initial render in hidden tab or collapsed sidebar)
+              setTimeout(() => {
+                if (adRef.current?.offsetWidth && adRef.current.offsetWidth > 0) {
+                  (window.adsbygoogle = window.adsbygoogle || []).push({})
+                }
+              }, 1000)
             }
           }
         } catch (e) {
           console.error('AdSense error:', e)
         }
-      }, 500) // Delay to ensure container has width
+      }
+
+      // Initial attempt with small delay to ensure layout stability
+      const timer = setTimeout(initAd, 1000)
 
       return () => clearTimeout(timer)
     }
@@ -66,7 +77,7 @@ export function SidebarAd({
         <ins
           ref={adRef}
           className="adsbygoogle"
-          style={{ display: 'block', width: '100%' }}
+          style={{ display: 'block', width: '100%', minWidth: '250px' }}
           data-ad-client="ca-pub-1151448515464841"
           data-ad-slot={slot}
           data-ad-format="vertical"

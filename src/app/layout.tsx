@@ -123,8 +123,7 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
 
-        {/* Preload recursos críticos */}
-        <link rel="preload" href="/images/logos/favcoin.png" as="image" type="image/png" />
+
 
         {/* Structured Data */}
         <StructuredData data={generateWebsiteStructuredData()} />
