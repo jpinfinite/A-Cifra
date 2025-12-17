@@ -716,3 +716,4 @@ Lembre-se: **Um hack pode custar todo o seu patrimônio cripto. Um [hardware wal
 
 **Quer aprender mais sobre segurança?** Confira nossos outros artigos sobre [proteção de criptomoedas](/categoria/seguranca) e [melhores práticas](/categoria/educacao).
 
+

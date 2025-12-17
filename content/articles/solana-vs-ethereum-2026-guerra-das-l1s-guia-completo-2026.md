@@ -179,3 +179,4 @@ A: A segurança de Solana é considerada ser igual à de Ethereum. Ambas as plat
 ### Q: Qual é o futuro de Solana em comparação com Ethereum?
 
 A: O futuro de Solana é considerado ser promissor. A plataforma está continuando a se desenvolver e a melhorar, e está ganhando popularidade entre os desenvolvedores e os investidores. No entanto, Ethereum ainda é a plataforma mais estabelecida e é provável que continue a ser a líder no mercado de blockchain por um longo tempo.
+

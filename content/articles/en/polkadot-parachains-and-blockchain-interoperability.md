@@ -200,3 +200,4 @@ Polkadot represents an ambitious vision for the future of blockchains: an interc
 With its innovative parachain architecture, decentralized governance, and focus on interoperability, Polkadot is well-positioned to be one of the main infrastructures of Web3.
 
 For investors, DOT offers multiple opportunities: staking, participating in crowdloans, and exposure to one of the most technically advanced projects in the crypto space.
+

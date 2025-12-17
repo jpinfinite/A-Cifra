@@ -612,3 +612,4 @@ O futuro da regulação cripto no Brasil é promissor. Com equilíbrio entre ino
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** Trimestral (mudanças regulatórias)
 
+

@@ -383,3 +383,4 @@ Breaking the sequence of exits with **$70 million in inflows** is a **positive s
 **Expectation:** December should bring **$2-3 [billion](/artigo/blackrock---23-billion-in-ibit-exits-in-november-are-perfectly-normal "BlackRock - $2.3 Billion in IBIT Exits in November are Perfectly Normal") in net inflows**, pushing Bitcoin to **$100K-$110K**.
 
 **For investors:** Favorable time to accumulate or maintain positions. Corrections to $92K-$95K are buying opportunities.
+

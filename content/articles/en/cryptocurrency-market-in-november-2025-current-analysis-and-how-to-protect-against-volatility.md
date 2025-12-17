@@ -123,3 +123,4 @@ metaDescription: >-
 **Últimas 24 horas:**
 - **$380 milhões** em posições liquidadas
 - 68% er
+

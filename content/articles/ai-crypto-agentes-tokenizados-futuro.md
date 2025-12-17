@@ -231,3 +231,4 @@ Com:
 ---
 
 **Aviso Legal:** Não é consultoria financeira. AI tokens são altamente voláteis. Invista apenas o que pode perder.
+

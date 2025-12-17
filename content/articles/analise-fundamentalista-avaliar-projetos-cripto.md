@@ -169,3 +169,4 @@ A: Avalie a equipe e liderança do projeto, a tecnologia e inovação, a demanda
 ### Q: Quais são os principais riscos de investir em projetos cripto?
 
 A: Os principais riscos incluem a volatilidade do mercado, a falta de regulamentação, a possibilidade de rug pulls e golpes, e a perda de valor do investimento. É importante diversificar a carteira e gerenciar os riscos de forma eficaz.
+

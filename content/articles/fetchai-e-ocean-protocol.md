@@ -164,3 +164,4 @@ A: Os benefícios da superinteligência descentralizada incluem maior segurança
 ### Q: Quais são os riscos da superinteligência descentralizada?
 
 A: Os riscos da superinteligência descentralizada incluem a possibilidade de perdas financeiras, a falta de regulamentação e a possibilidade de ataques cibernéticos.
+

@@ -147,3 +147,4 @@ La explosión de las monedas de privacidad refleja una combinación de narrativa
 3. ✅ Mantente alerta a los desarrollos regulatorios
 
 Y recuerda: **los activos enfocados en la privacidad conllevan riesgos específicos**. Siempre consulta a un experto financiero o legal antes de invertir.
+

@@ -314,3 +314,4 @@ Cripto é o futuro das finanças, mas é um ambiente hostil para quem não se pr
 ---
 
 **Última atualização:** 09 de dezembro de
+

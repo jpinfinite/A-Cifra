@@ -203,3 +203,4 @@ Para investidores, o DOT oferece m√∫ltiplas oportunidades: [staking], participa√
 ## Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+

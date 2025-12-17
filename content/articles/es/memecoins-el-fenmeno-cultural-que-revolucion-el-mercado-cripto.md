@@ -169,3 +169,4 @@ Verifique: equipo identificado, contrato auditado, comunidad genuína, liquidez 
 Sí, pero es extremadamente raro y arriscado. Para cada historia de éxito, existen milhares de pérdidas.
 
 > *"Memecoins son el lado salvaje del cripto - pueden ser extremadamente lucrativas, pero también devastadoramente peligrosas. Invierte con sabiduría, no con emoción."* - A Cifra
+

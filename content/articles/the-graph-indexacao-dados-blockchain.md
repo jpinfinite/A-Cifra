@@ -205,3 +205,4 @@ A: O objetivo de The Graph é fornecer uma solução eficiente e escalável para
 ### Q: Quais são as oportunidades de investimento em The Graph?
 
 A: As oportunidades de investimento em The Graph incluem a possibilidade de ganhos significativos, a chance de participar de um projeto inovador e a oportunidade de diversificar seu portfólio com uma criptomoeda promissora.
+

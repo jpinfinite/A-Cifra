@@ -413,3 +413,4 @@ Practique en cuenta demo, mantenga un diario de trades y aprenda con sus errores
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

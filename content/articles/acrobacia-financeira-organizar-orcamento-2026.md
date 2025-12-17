@@ -167,3 +167,4 @@ Comece hoje. Não espere a segunda-feira, não espere [2026](/artigo/airdrops-co
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: Este artigo é educativo e não substitui a consultoria de um planejador financeiro profissional. Investimentos envolvem riscos.*
+

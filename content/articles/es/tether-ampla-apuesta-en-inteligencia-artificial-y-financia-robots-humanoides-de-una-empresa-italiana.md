@@ -57,3 +57,4 @@ La Tether está invirtiendo en tecnologías que puedan transformar la forma en q
 La empresa italiana con la que la Tether está colaborando cuenta con experiencia en el desarrollo de robots humanoides y ha trabajado en proyectos similares en el pasado. La colaboración entre las dos empresas busca crear robots que puedan operar de forma autónoma y que puedan ser utilizados en diferentes contextos industriales.
 
 La visión de la Tether es crear una red de robots humanoides que puedan ser utilizados en diferentes industrias y que puedan ayudar a las empresas a aumentar su productividad y reducir costos. La colaboración con la empresa italiana es un paso importante en este sentido, y puede tener un impacto significativo en el futuro de la industria.
+

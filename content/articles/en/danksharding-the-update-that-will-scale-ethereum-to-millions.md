@@ -115,3 +115,4 @@ In 2030, we can expect to see a global digital economy, with Ethereum as the lea
 **Disclaimer**
 
 Remember that investing in cryptocurrencies and blockchain is risky and may result in significant losses. It is essential to do your own research and carefully consider the risks before investing.
+

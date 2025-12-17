@@ -350,3 +350,4 @@ Declare como "outros bens e direitos" (código 81 - criptoativos) se o total for
 ### Posso usar stablecoins para dolarizar meu patrimônio?
 
 Sim, é uma forma popular de dolarização digital no Brasil. Converta reais para USDC ou USDT e mantenha em carteira própria ou [exchange](/artigo/melhores
+

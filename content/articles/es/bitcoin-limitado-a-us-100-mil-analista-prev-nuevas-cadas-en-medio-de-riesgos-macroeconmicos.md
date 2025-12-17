@@ -93,3 +93,4 @@ Resposta: Isso significa que o preço do Bitcoin pode diminuir drasticamente, af
 
 Pergunta 2: Por que o mercado de criptomoedas é tão volátil?
 Resposta: O mercado de criptomoedas é altamente volátil devido à natureza descentralizada e à falta de regulamentação, o que pode levar a mudanças rápidas no preço das criptomoedas.
+

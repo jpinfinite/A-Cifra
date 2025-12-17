@@ -220,3 +220,4 @@ Mantenha-se informado sobre:
 - Divulgação de dados econômicos
 - Comunicados do Fed
 - Reação dos mercados
+

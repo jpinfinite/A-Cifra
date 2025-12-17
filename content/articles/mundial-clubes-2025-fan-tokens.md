@@ -215,3 +215,4 @@ Os principais desafios associados aos Fan Tokens incluem a falta de regulamenta�
 ### 5. Quais são as principais tendências no mercado de Fan Tokens?
 
 As principais tendências no mercado de Fan Tokens incluem a crescente popularidade dos tokens de clubes de futebol, a expansão da oferta de tokens de clubes de outras ligas esportivas e a increasing demanda por tokens de clubes com uma boa reputação e um histórico de sucesso.
+

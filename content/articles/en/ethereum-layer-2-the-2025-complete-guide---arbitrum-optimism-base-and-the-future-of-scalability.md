@@ -312,3 +312,4 @@ Contras:
 | Fees | $0,10-0,70 | $0,10-0,40 |
 | Maturidade | Alta | Média |
 | Futuro | Bom
+

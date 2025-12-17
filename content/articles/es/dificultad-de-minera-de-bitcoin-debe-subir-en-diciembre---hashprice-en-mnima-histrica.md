@@ -266,3 +266,4 @@ A mineração de Bitcoin é um negócio complexo e competitivo.
 A dificuldade de mineração caiu 1,2% em 28 de novembro, mas a folga pode ser de curta duração. 
 
 O hashprice é a receita por terahash de poder computacional e permanece próximo de mínimas histó
+

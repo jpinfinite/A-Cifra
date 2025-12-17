@@ -286,3 +286,4 @@ Contratos inteligentes são códigos auto-executáveis na blockchain que automat
 ✅ Não coloque tudo em um pool  
 ✅ Entenda os riscos antes de investir  
 ✅ Mantenha reserva
+

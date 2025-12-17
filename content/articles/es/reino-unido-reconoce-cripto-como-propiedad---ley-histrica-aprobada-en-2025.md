@@ -342,3 +342,4 @@ Você quer empréstimo de £100.000:
 - Vítima: Reporta à polícia
 - Polícia: "NFT não é propriedade legal, não podemos ajudar"
 - Resultado: NFT
+

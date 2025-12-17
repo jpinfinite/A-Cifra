@@ -151,3 +151,4 @@ Tokenização é o processo de converter direitos de propriedade de um ativo [re
 ## Conclusão
 
 A entrada da BlackRock na tokenização não é um experimento, mas uma aposta estratégica de longo prazo que está legitimando a tecnologia blockchain para institucionais, construindo a ponte entre TradFi e DeFi, acelerando a adoção de RWA e transformando o sistema financeiro global.
+

@@ -96,3 +96,4 @@ Injective está trayendo sofisticação de finanzas tradicionales para [defi](/a
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

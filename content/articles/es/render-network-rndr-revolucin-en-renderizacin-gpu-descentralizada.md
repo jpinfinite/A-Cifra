@@ -213,3 +213,4 @@ La renderización 3D de alta calidad es extremadamente intensiva en recursos. Lo
 Para comprar RNDR y otras criptomonedas:
 
 **Vea la nota de pie de página**
+

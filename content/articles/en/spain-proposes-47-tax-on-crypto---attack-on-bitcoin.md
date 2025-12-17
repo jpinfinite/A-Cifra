@@ -379,3 +379,4 @@ Disclaimer: Este artigo é apenas informativo e não constitui aconselhamento ju
 Acompanhe: A votação deve acontecer em dezembro/2025. Atualizaremos este artigo com novos desenvolvimentos.
 
 Mais sobre regulação: Confira nossos artigos sobre impostos cripto no Brasil e melhores países para investir em cripto.
+

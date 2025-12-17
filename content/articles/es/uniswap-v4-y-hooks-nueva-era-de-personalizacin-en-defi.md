@@ -88,3 +88,4 @@ Uniswap V4 abre posibilidades infinitas para innovación en [defi](/artigo/defi-
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

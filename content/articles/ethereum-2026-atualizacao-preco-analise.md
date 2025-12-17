@@ -201,3 +201,4 @@ A: O Ethereum é uma das principais blockchains do ecossistema cripto e é funda
 ### Q: O que é a melhor estratégia para investir no Ethereum?
 
 A: A melhor estratégia para investir no Ethereum é diversificar seu portfólio e não confiar apenas no ETH. Além disso, é importante fazer sua própria pesquisa e análise antes de tomar qualquer decisão. É também importante estabelecer um orçamento e não excedê-lo.
+

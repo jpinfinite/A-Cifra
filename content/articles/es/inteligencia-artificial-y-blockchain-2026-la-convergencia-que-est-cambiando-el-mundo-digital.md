@@ -471,3 +471,4 @@ Aprenda:
 - Como usar IA para trading
 
 O futuro é inteligente e descentralizado. IA + Blockchain não é apenas uma tendência - é a próxima revolução tecnológica. Você está
+

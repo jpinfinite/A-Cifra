@@ -199,3 +199,4 @@ Neste guia completo, você vai aprender tudo sobre [defi](/artigo/defi-yield-far
 4. Monitore Impermanent Loss
 
 ### Estratégia 4: Yield Farming Avançado (Risco Alto
+

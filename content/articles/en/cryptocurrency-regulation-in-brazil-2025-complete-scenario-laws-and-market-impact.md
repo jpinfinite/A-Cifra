@@ -388,3 +388,4 @@ Efeitos Negativos
 3. Privacidade Reduzida
 - Todas transações rastreáveis
 - Dados
+

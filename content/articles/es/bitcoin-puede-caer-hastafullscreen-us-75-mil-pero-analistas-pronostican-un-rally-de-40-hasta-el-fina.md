@@ -219,3 +219,4 @@ O [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está em um ponto 
 - **Mantenha perspectiva de longo prazo** — [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) é volátil
 - **Diversifique** — nunca coloque tudo em um ativo
 - **Faça sua própria pesquisa** — este artigo é educacional, não conselho financeiro
+

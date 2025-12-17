@@ -162,3 +162,4 @@ A: O Cosmos é importante porque ele resolve a fragmentação blockchain, permit
 ### Q: O que é o ATOM e como ele é utilizado?
 
 A: O ATOM é a moeda nativa do Cosmos e é utilizada para pagar taxas de transação e para votar em propostas de atualização do protocolo. O ATOM também é utilizado para financiar a criação de novas blockchains e para compensar os provedores de serviços do ecossistema.
+

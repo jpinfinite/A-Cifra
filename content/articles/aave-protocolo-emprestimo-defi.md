@@ -228,3 +228,4 @@ Para proteger seu investimento na Aave, é importante:
 ### 5. Quais são as perspectivas de crescimento da Aave?
 
 As perspectivas de crescimento da Aave são promissoras, com a plataforma continuando a se expandir e a se tornar mais popular. Além disso, a Aave está trabalhando em várias atualizações e melhorias para melhorar a experiência do usuário e reduzir os riscos associados ao empréstimo.
+

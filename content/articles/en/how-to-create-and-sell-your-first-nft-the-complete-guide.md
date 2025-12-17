@@ -140,3 +140,4 @@ Creating NFTs is simple, but selling requires marketing and community. Start on 
 To buy the cryptocurrencies mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

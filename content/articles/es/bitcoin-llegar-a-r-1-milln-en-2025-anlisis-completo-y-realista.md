@@ -140,3 +140,4 @@ A pergunta que não quer calar: **[bitcoin](/artigo/bitcoin-200k-2026-previsao-i
 
 **Preço alvo até Dez 2025:** R$ 650.000 - R$ 750.000
 **Preço alvo até Jun 2026:** R
+

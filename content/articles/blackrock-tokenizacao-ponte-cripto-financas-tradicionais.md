@@ -676,3 +676,4 @@ Protocolos como Aave, Ondo e Centrifuge podem se beneficiar do crescimento de RW
 
 **Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Tokenização e criptomoedas são ativos de risco. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir.
 
+

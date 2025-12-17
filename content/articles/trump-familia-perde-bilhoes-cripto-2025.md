@@ -313,3 +313,4 @@ Aprofunde seus conhecimentos sobre investimento em criptomoedas:
 **Última atualização:** 24 de novembro de 2025
 
 **Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Criptomoedas são ativos de alto risco. A família Trump pode ter estratégias e informações que não são públicas. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir.
+

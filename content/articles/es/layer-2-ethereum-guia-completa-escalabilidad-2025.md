@@ -6,7 +6,7 @@ tags: ["Layer 2", "Ethereum", "Escalabilidad", "Arbitrum", "Optimism", "zkSync",
 date: "2025-12-17"
 author: "Equipo A Cifra"
 featured: true
-image: "/images/articles/layer2-ethereum-cover.png"
+image: "/images/articles/layer2-ethereum-cover.webp"
 readingTime: 13
 ---
 
@@ -450,3 +450,4 @@ Layer 2 ya no es el futuro – es el presente. Con **millones de transacciones d
 ---
 
 **Disclaimer:** Este artículo es solo para fines educativos y no constituye asesoramiento financiero. Siempre haz tu propia investigación (DYOR) antes de usar cualquier protocolo blockchain.
+

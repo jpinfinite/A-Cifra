@@ -257,3 +257,4 @@ Para comprar as criptomoedas mencionadas neste artigo, use uma das [exchanges](/
 <xchangeAffiliateLinks />
 
 ---
+

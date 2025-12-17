@@ -145,3 +145,4 @@ A disparada das moedas de privacidade reflete uma combinação de narrativa, fat
 3. ✅ Fique atento à evolução das regulações
 
 E lembre-se: **ativos focados em privacidade envolvem riscos específicos**. Consulte sempre um especialista financeiro ou jurídico antes de investir.
+

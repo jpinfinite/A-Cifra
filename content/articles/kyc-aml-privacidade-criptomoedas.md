@@ -190,3 +190,4 @@ Em resumo, a implementação de medidas de KYC e AML em criptomoedas é necessá
 ### 5. Quais são as consequências de não implementar medidas de KYC e AML em criptomoedas?
 
 **Resposta**: As consequências de não implementar medidas de KYC e AML em criptomoedas podem incluir a lavagem de dinheiro, o financiamento do terrorismo, a fraude e a corrupção. Além disso, a falta de medidas de KYC e AML pode prejudicar a reputação e a confiança dos usuários em serviços de criptomoedas.
+

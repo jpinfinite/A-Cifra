@@ -118,3 +118,4 @@ Não. A DeSci atua como um complemento e uma nova via de financiamento e publica
 
 ### 4. É seguro investir em tokens DeSci?
 Como qualquer setor nascente em cripto, é de alto risco. Muitos projetos são experimentais. Faça sua própria pesquisa (DYOR) e nunca invista dinheiro que você não pode perder.
+

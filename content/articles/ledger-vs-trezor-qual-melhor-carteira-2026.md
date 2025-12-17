@@ -211,3 +211,4 @@ A Ledger oferece conectividade via Bluetooth e Wi-Fi, enquanto a Trezor oferece 
 ### **5. Quais são os recursos adicionais das carteiras Ledger e Trezor?**
 
 Ambas as carteiras oferecem recursos adicionais, como suporte ao cliente e atualizações de software. Além disso, a Ledger oferece uma variedade de aplicativos e serviços, como a Ledger Live e a Ledger Vault.
+

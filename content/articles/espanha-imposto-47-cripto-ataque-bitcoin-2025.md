@@ -317,3 +317,4 @@ O mercado cripto sempre se adaptou a desafios regulatórios. A questão não é 
 ---
 
 **Mantenha-se atualizado:** A situação está em desenvolvimento. Acompanhe o A Cifra para as últimas notícias sobre regulação cripto na Europa e no mundo.
+

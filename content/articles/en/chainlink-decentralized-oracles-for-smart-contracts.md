@@ -254,3 +254,4 @@ With its decentralized network of oracles, Chainlink enables DeFi, NFTs, gaming,
 For investors, LINK represents exposure to a vital infrastructure being adopted by almost all major DeFi protocols and beyond.
 
 As more blockchain applications require external data, the importance and value of Chainlink tend to grow.
+

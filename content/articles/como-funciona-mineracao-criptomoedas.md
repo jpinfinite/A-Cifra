@@ -214,3 +214,4 @@ As vantagens da mineração de criptomoedas incluem a criação de novas unidade
 ### 5. Qual é a segurança da mineração de criptomoedas?
 
 A segurança da mineração de criptomoedas é garantida por meio de algoritmos complexos e equipamentos de alta potência. A mineração também ajuda a prevenir fraudes e garantir a integridade do sistema. No entanto, é importante notar que a segurança da mineração de criptomoedas não é perfeita e pode ser vulnerável a ataques e fraude.
+

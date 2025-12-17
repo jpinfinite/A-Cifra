@@ -129,3 +129,4 @@ Inheritance planning for cryptocurrency will be essential to ensure that heirs r
 **Disclaimer**
 
 The content of this article is for informational purposes only and should not be considered as financial or legal advice. The decision to leave crypto to your heirs should be made after consulting a qualified professional and conducting a thorough analysis of the risks and benefits involved.
+

@@ -184,3 +184,4 @@ A perda de uma fintech cripto no Brasil pode ter consequências significativas, 
 ### **5. O que o Banco Central e as autoridades reguladoras podem fazer para evitar a perda de fintechs cripto no Brasil?**
 
 O Banco Central e as autoridades reguladoras podem trabalhar em conjunto com as fintechs cripto para encontrar uma solução que equilibre a necessidade de regulamentação com a necessidade de inovação e competitividade no setor financeiro. Isso pode incluir a implementação de regulamentações mais flexíveis e adaptáveis, além de incentivos para as fintechs cripto para investir no setor.
+

@@ -206,3 +206,4 @@ Comparação detalhada: USDT vs USDC vs DAI
 |----------|------|------|-----|
 | Market Cap | $184B | $75B | $4,4B |
 | Transparência | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐
+

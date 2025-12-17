@@ -94,3 +94,4 @@ DAI es la stablecoin más [descentralizada](/artigo/makerdao-y-dai-la-establecam
 ## ¡Vamos a invertir en criptomonedas!
 
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas.
+

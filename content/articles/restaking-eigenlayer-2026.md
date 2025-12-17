@@ -673,3 +673,4 @@ Para comprar ETH e começar a fazer restaking:
 ---
 
 *Aviso: [Restaking](/artigo/restaking-e-eigenlayer-2026-la-nueva-frontera-de-staking-y-seguridad-compartida "Restaking e EigenLayer 2026: La Nueva Frontera de Staking y Seguridad Compartida") envolve riscos adicionais incluindo slashing. Faça sua própria pesquisa e invista apenas o que pode perder.*
+

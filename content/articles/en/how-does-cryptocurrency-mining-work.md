@@ -106,3 +106,4 @@ Mining continues to be essential for [blockchain](/artigo/qu-es-blockchain-gua-c
 To buy the cryptocurrencies mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

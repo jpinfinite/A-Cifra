@@ -179,3 +179,4 @@ Para proteger suas criptomoedas em uma carteira quente, é importante usar uma s
 ### **5. Quais são as vantagens de usar uma carteira fria?**
 
 As vantagens de usar uma carteira fria incluem a segurança adicional, a proteção contra riscos cibernéticos e a possibilidade de armazenar suas criptomoedas de forma física. Além disso, as carteiras frias geralmente são mais resistentes à perda ou roubo de informações.
+

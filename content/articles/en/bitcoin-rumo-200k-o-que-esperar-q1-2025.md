@@ -118,3 +118,4 @@ Clear regulation allows massive pension funds and insurers (controlling trillion
 
 ### 5. What are the best indicators to watch?
 Beyond price, keep an eye on daily Spot Bitcoin ETF flows, Bitcoin Dominance (BTC.D), FED interest rates, and the DXY index (dollar strength). All these indicators offer clues about trend health.
+

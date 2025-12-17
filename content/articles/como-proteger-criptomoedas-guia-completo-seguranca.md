@@ -202,3 +202,4 @@ Uma carteira de segurança deve ter as seguintes características: autenticaçã
 ### 5. Como posso saber se uma carteira é segura?
 
 Para saber se uma carteira é segura, é importante verificar as seguintes características: autenticação de dois fatores (2FA), criptografia forte, interface amigável e suporte a várias criptomoedas. Além disso, é importante verificar as avaliações e comentários de outros usuários e verificar se a carteira é atualizada regularmente com as últimas patches de segurança.
+

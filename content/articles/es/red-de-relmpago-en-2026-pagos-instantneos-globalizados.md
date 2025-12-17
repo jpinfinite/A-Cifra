@@ -119,3 +119,4 @@ El futuro es promisorio, y estamos ansiosos por ver cómo el Lightning Network c
 **Aviso**
 
 El contenido de este artículo es solo informativo y no debe ser considerado como consejo de inversión. Las criptomonedas y el mercado de criptomonedas son altamente volátiles y envuelven riesgos significativos. Es importante hacer su propia investigación y considerar sus propias circunstancias antes de invertir en cualquier criptomoneda.
+

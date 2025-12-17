@@ -638,3 +638,4 @@ Lembre-se: **traders consistentes não acertam sempre, mas gerenciam bem quando 
 
 **Quer aprender mais?** Confira nossos outros artigos sobre [análise técnica](/categoria/trading) e [estratégias de trading](/categoria/educacao).
 
+

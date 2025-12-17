@@ -186,3 +186,4 @@ Sim, é possível investir em criptomoedas durante um mercado Bear. No entanto, 
 ### Q: Como posso proteger meu investimento em criptomoedas durante um mercado Bear?
 
 Existem várias maneiras de proteger seu investimento em criptomoedas durante um mercado Bear. Por exemplo, você pode diversificar seu portfólio investindo em diferentes tipos de criptomoedas, ou você pode usar estratégias de hedging para reduzir o risco de perda. Além disso, é importante lembrar que os mercados cripto são imprevisíveis e pode ser difícil prever quando um mercado Bear terminará.
+

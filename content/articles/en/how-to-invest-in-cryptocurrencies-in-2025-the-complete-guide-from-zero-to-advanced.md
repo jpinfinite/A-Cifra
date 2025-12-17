@@ -338,3 +338,4 @@ A cada 3-6 meses:
 - Ninguém conhecido usa/recomenda
 
 ## Passo 9: Acompanhe o Merc
+

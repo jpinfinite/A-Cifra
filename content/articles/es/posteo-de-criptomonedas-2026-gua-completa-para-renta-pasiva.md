@@ -202,3 +202,4 @@ O [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) é uma das formas 
 * MetaMask
 * Phantom
 * Keplr
+

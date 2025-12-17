@@ -185,3 +185,4 @@ Pense em sua carteira como uma pirâmide:
 
 #### Desvantagens
 ⚠️ Retorno menor que portfólios
+

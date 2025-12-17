@@ -402,3 +402,4 @@ Mede o humor do mercado:
 - Acumulação vs distribuição
 
 ### 3. Mé
+

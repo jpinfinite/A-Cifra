@@ -85,3 +85,4 @@ O futuro da blockchain é promissor, com tendências emergentes como blockchain 
 Para se preparar para o futuro da blockchain, é importante educar-se sobre os conceitos fundamentais, experimentar a tecnologia em prática e se conectar com comunidades e especialistas. Isso pode incluir cursos, documentação, comunidades e eventos.
 
 Em resumo, a blockchain é uma tecnologia revolucionária que está mudando a forma como pensamos sobre confiança, transparência e valor na era digital. Seu potencial transformador é inegável, e é importante se preparar para o futuro da blockchain.
+

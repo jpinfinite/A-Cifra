@@ -112,3 +112,4 @@ Market analysis is a skill that develops with continuous practice and study. Use
 To buy the cryptocurrencies mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

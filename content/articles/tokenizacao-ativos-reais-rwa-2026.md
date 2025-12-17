@@ -560,3 +560,4 @@ Para investir em protocolos RWA e criptomoedas, você precisa de uma [exchange](
 ---
 
 *Aviso: Este artigo é apenas informativo. RWA envolve riscos regulatórios, de custódia e de mercado. Faça sua própria pesquisa e consulte um consultor financeiro.*
+

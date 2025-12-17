@@ -271,3 +271,4 @@ A análise técnica, dados onchain e padrões históricos convergem para um cen�
 ---
 
 **Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Criptomoedas são ativos de alto risco. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir.
+

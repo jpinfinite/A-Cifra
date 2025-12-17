@@ -121,3 +121,4 @@ El [Dogecoin](/artigo/dogecoin-the-history-of-the-meme-coin-that-became-a-global
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

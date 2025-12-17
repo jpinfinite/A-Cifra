@@ -74,3 +74,4 @@ No entanto, as pools de liquidez também apresentam riscos significativos, espec
 Para investidores interessados em participar, é essencial começar com educação sólida, entender completamente os riscos envolvidos e começar com quantias pequenas em pools mais conservadoras antes de explorar estratégias mais agressivas.
 
 O futuro das finanças é descentralizado, e as pools de liquidez são o motor que impulsiona essa transformação revolucionária.
+

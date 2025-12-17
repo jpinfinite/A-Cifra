@@ -123,3 +123,4 @@ Em resumo, a Base Chain é a plataforma de DeFi do futuro, e em 2030, ela será 
 **Disclaimer**
 
 A Base Chain é uma plataforma de DeFi que envolve riscos, incluindo riscos de perda de capital, riscos de segurança e riscos de mercado. É importante que os usuários entendam esses riscos antes de utilizar a plataforma. Não é recomendado que os investidores iniciantes utilizem a Base Chain sem antes consultar um profissional financeiro.
+

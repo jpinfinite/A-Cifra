@@ -147,3 +147,4 @@ Sim, a Polymarket 2026 é uma plataforma segura e transparente. Com a integraç�
 **Disclaimer**
 
 A Polymarket 2026 é uma plataforma de apostas e investimento que envolve riscos. As apostas podem resultar em perdas financeiras. É importante lembrar que a previsão de mercado é um processo sujeito a incertezas e imprevisibilidades. Não é recomendado investir mais do que você pode perder. É importante ler e entender os termos e condições da Polymarket 2026 antes de investir.
+

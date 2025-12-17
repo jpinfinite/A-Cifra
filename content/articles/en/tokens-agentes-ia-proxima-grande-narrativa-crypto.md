@@ -111,3 +111,4 @@ There will likely be a bubble, yes. The technology is real, but market excitemen
 
 ### 5. Where to follow new projects?
 Twitter (X) is the nervous system of this narrative. Follow influential developers, monitor hashtags like #AIagents and #Virtuals, and join project Discords to feel the community "vibe" before investing.
+

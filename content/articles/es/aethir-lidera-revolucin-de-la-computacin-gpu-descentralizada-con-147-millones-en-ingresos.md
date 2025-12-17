@@ -372,3 +372,4 @@ O token ATH é usado para pagamentos de serviços, [staking](/artigo/staking-eth
 
 6. A Aethir é segura para uso empresarial?
 Sim, a Aethir já fornece serviços para empresas de IA e gaming de nível empresarial, com mais de 1,4 bilhões de horas de computação entreg
+

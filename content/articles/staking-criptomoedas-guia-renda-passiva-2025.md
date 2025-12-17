@@ -635,3 +635,4 @@ Para comprar criptomoedas e começar a fazer [staking](/artigo/staking-ethereum-
 
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
+

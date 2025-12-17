@@ -166,3 +166,4 @@ Principais takeaways:
 5. Preserve capital (sobreviver > lucrar)
 
 Lembre-se: no trading, não é sobre quanto você ganha quando acerta, mas quanto você perde quando erra. Traders bem-sucedidos não são os que nunca perdem, mas os que gerenciam perdas eficientemente.
+

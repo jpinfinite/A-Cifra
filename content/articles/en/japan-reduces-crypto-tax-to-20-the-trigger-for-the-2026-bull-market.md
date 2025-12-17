@@ -81,3 +81,4 @@ The market may have found its bottom in the last few weeks. If history repeats i
 Conclusion
 
 Japan's decision is not just about taxes; it's about recognizing crypto assets as a legitimate and vital class of investment for the future of the economy. The Asian dragon has awakened.
+

@@ -172,3 +172,4 @@ A: As principais desvantagens de investir em criptomoedas incluem a volatilidade
 ### Q: Quais são as principais criptomoedas para investir?
 
 A: As principais criptomoedas para investir incluem Bitcoin, Ethereum, Litecoin e outras criptomoedas estabelecidas e com uma boa reputação. É importante lembrar que a escolha da criptomoeda deve ser baseada em sua pesquisa e análise.
+

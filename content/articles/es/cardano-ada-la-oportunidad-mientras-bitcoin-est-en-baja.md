@@ -230,3 +230,4 @@ Cardano separa funcionalidades em duas camadas:
   - Prazo: 12-18 meses
 - Cenário Moderado (35% de probabilidade):
   - Preço alvo: $2.00 - $3.00
+

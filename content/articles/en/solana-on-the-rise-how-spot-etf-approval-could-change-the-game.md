@@ -157,3 +157,4 @@ Start Investing in Cryptocurrencies
 To buy the [cryptocurrencies](/artigo/how-to-analyze-cryptocurrencies-a-comprehensive-guide-for-investors "How to Analyze Cryptocurrencies: A Comprehensive Guide for Investors") mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

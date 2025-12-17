@@ -215,3 +215,4 @@ A melhor forma de evitar perdas em investimentos em criptomoedas é diversificar
 ### Pergunta 5: Qual é a perspectiva de longo prazo para as criptomoedas?
 
 A perspectiva de longo prazo para as criptomoedas é incerta e depende de vários fatores, incluindo a adoção e a regulamentação. No entanto, muitos especialistas acreditam que as criptomoedas têm o potencial de se tornar uma forma de pagamento e investimento mais amplamente aceita e que o mercado pode continuar a crescer no longo prazo.
+

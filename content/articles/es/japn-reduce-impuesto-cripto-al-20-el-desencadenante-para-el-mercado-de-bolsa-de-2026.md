@@ -89,3 +89,4 @@ El [mercado](/artigo/ciclos-de-mercado-cripto-mercados-al-alza-y-bajos "Ciclos d
 **Conclusión**
 
 La decisión de Japón no es solo sobre impuestos; es sobre reconocer criptoativos como una clase de inversión legítima y vital para el futuro de la economía. El dragón asiático ha despertado.
+

@@ -141,3 +141,4 @@ A planejamento sucessório cripto será essencial para garantir que os herdeiros
 **Disclaimer**
 
 O conteúdo deste artigo é para fins informativos apenas e não deve ser considerado como conselho financeiro ou jurídico. A decisão de deixar cripto para seus herdeiros deve ser tomada após consultar um profissional qualificado e realizar uma análise cuidadosa dos riscos e benefícios envolvidos.
+

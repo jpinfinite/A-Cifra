@@ -575,3 +575,4 @@ Layer 2s não são apenas melhoria técnica - são revolução que torna [ethere
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
 
+

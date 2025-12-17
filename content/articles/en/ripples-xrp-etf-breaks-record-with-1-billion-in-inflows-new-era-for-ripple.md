@@ -277,3 +277,4 @@ Em julho de 2023, a Ripple obteve uma vitória parcial no processo contra a SEC:
 | **TPS** | 1.500 | 65.000 |
 | **Uptime** | 99,99% | 95% (outages) |
 | **Foco** | Pagamentos |
+

@@ -379,3 +379,4 @@ Principais takeaways:
 2. Gestão de risco é essencial (stop-loss, tamanho de posição)
 3. Monitore indicadores (OI, funding, long/short)
 4.
+

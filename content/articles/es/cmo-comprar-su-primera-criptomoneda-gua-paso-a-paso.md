@@ -154,3 +154,4 @@ Parabéns por dar el primer paso en el mundo cripto!
 Para comprar las criptomonedas mencionadas en este artículo, usa una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

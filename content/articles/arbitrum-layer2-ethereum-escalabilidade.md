@@ -191,3 +191,4 @@ A: Arbitrum se destaca das outras soluções de camada 2 por sua tecnologia de R
 ### Q: Quais são as perspectivas futuras para a tecnologia de Arbitrum?
 
 A: As perspectivas futuras para a tecnologia de Arbitrum são muito promissoras. Com a implementação de Arbitrum na rede Ethereum, é possível que a rede seja escalonada de forma mais eficiente e que os custos de transação sejam reduzidos. Além disso, a tecnologia de Rollups Optimistas de Arbitrum pode ser aplicada em outras redes de blockchain, tornando-a uma solução escalável e eficiente para a indústria de blockchain.
+

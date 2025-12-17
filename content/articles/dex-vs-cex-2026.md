@@ -158,3 +158,4 @@ As principais vantagens das DEXs em relação às CEXs são:
 * **Descentralização**: As DEXs permitem que os usuários negociem entre si de forma descentralizada e segura.
 * **Transparência**: As DEXs são mais transparentes do que as CEXs porque todos os negócios são registrados em blockchain e podem ser verificados por qualquer um.
 * **Controle**: As DEXs permitem que os usuários tenham mais controle sobre suas carteiras e negócios, o que é uma vantagem significativa em um mercado de criptomoedas cada vez mais volátil.
+

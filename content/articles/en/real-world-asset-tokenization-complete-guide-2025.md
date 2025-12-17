@@ -6,7 +6,7 @@ tags: ["RWA", "Tokenization", "DeFi", "Investments", "Blockchain", "Real Assets"
 date: "2025-12-17"
 author: "A Cifra Team"
 featured: true
-image: "/images/articles/rwa-tokenization-cover.png"
+image: "/images/articles/rwa-tokenization-cover.webp"
 readingTime: 12
 ---
 
@@ -316,3 +316,4 @@ RWA tokenization is building the bridge between the traditional financial world 
 ---
 
 **Disclaimer:** This article is for educational purposes only and does not constitute financial advice. Always do your own research (DYOR) and consult a financial professional before investing.
+

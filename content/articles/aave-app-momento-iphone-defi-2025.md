@@ -678,3 +678,4 @@ Já migrei minha reserva de emergência (que estava na poupança rendendo 0.5%) 
 
 *Foto de capa por [Yan Krukau](https://www.pexels.com/@yankrukov) no [Pexels](https://www.pexels.com)*
 
+

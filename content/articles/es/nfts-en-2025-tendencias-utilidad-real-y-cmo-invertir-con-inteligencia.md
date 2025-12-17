@@ -431,3 +431,4 @@ NFT (Non-Fungible Token) = Token único e não intercambiável
 ### 5. Mudanças de Mercado
 
 **Risco:** Tendências mudam rápido
+

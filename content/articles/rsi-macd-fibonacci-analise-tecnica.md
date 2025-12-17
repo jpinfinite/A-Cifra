@@ -184,3 +184,4 @@ A: Os riscos associados ao uso de RSI, MACD e Fibonacci em análise técnica inc
 2. Overfitting: A sobreajuste das ferramentas de análise técnica pode levar a perdas significativas.
 3. Diversão de mercado: A diversão de mercado pode afetar a precisão das ferramentas de análise técnica.
 4. Falta de conhecimento: A falta de conhecimento sobre as ferramentas de análise técnica pode levar a perdas significativas.
+

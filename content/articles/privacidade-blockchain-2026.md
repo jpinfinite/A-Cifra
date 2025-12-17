@@ -663,3 +663,4 @@ Para comprar privacy coins e explorar ferramentas de privacidade:
 ---
 
 *Aviso: Privacidade é legal, mas use responsavelmente. Conheça as leis locais. Este artigo é educacional, não aconselhamento legal.*
+

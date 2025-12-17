@@ -435,3 +435,4 @@ A parceria **Babylon + Aave** é um **marco histórico** para [defi](/artigo/def
 - [Como Ganhar Renda Passiva com Bitcoin](/categoria/bitcoin)
 - [DeFi: Riscos e Como se Proteger](/categoria/seguranca)
 
+

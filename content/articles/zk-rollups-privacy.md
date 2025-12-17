@@ -150,3 +150,4 @@ A: Os ZK-Rollups são diferentes dos Rollups tradicionais porque eles utilizam t
 ### Q: Quais são as vantagens dos ZK-Rollups?
 
 A: As vantagens dos ZK-Rollups incluem a escalabilidade, a privacidade e a segurança. Eles permitem que as transações sejam processadas de forma escalável e privada, sem a necessidade de comprometer a segurança e a privacidade dos usuários. Além disso, os ZK-Rollups permitem que os desenvolvedores criem aplicações descentralizadas (dApps) escaláveis e seguras, sem a necessidade de comprometer a privacidade dos usuários.
+

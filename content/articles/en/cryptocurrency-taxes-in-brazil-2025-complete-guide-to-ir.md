@@ -273,3 +273,4 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 
 **Código:** 
 - **81** - Criptoativos
+

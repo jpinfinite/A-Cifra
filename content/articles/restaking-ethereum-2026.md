@@ -171,3 +171,4 @@ A: As condições necessárias para participar do restaking e liquid staking inc
 **Disclaimer sobre Riscos**
 
 O investimento em criptomoedas e tokens de staking envolve riscos, incluindo a possibilidade de perda de valor, a instabilidade do mercado e a possibilidade de erros de cálculo ou implementação. É fundamental realizar uma análise de mercado profunda e considerar suas próprias necessidades e objetivos financeiros antes de tomar qualquer decisão de investimento. Além disso, é importante lembrar que a criptomoeda é um ativo de alto risco e não é adequada para todos os investidores.
+

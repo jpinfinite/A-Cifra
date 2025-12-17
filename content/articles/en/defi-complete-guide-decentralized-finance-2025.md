@@ -6,7 +6,7 @@ tags: ["DeFi", "Decentralized Finance", "Yield Farming", "Staking", "Lending", "
 date: "2025-12-17"
 author: "A Cifra Team"
 featured: true
-image: "/images/articles/defi-guide-cover.png"
+image: "/images/articles/defi-guide-cover.webp"
 readingTime: 14
 ---
 
@@ -441,3 +441,4 @@ DeFi is democratizing access to sophisticated financial services that were once 
 ---
 
 **Disclaimer:** This article is for educational purposes only and does not constitute financial advice. DeFi involves significant risks, including total loss of invested capital. Always do your own research (DYOR) and consult a financial professional before investing.
+

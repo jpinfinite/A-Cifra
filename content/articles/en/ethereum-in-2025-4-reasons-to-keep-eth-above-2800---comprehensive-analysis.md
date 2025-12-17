@@ -125,3 +125,4 @@ Neste artigo completo, vou mostrar:
 
 **Agora (com Layer 2s):**
 - 100.000+ TPS combinados
+

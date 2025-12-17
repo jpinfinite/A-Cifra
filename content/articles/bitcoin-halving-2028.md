@@ -123,3 +123,4 @@ Em 2028, o próximo Halving do Bitcoin promete trazer mudanças significativas p
 * O investimento em criptomoedas é sujeito a riscos e pode resultar em perdas significativas.
 * É importante realizar uma pesquisa cuidadosa e considerar a sua tolerância ao risco antes de investir.
 * A previsão para o futuro é baseada em análises de mercado e não é garantida.
+

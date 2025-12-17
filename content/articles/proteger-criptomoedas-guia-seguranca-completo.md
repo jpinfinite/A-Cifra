@@ -729,3 +729,4 @@ No mundo cripto, ser seu próprio banco significa ser seu próprio segurança. C
 **Última atualização:** 23 de novembro de 2025
 
 *Sua segurança é seu patrimônio. Proteja-se!*
+

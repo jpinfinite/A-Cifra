@@ -111,3 +111,4 @@ Probablemente habrá una burbuja, sí. La tecnología es real, pero el entusiasm
 
 ### 5. ¿Dónde seguir nuevos proyectos?
 Twitter (X) es el centro nervioso de esta narrativa. Sigue a desarrolladores influyentes, monitorea hashtags como #AIagents y #Virtuals, y participa en los Discords de los proyectos para sentir la "vibe" de la comunidad antes de invertir.
+

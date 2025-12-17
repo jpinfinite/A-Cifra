@@ -242,3 +242,4 @@ Compre um valor fixo regularmente (ex: R$ 500/mês), independente do preço. Red
 
 ### HODL (Hold On for Dear Life)
 Compre e
+

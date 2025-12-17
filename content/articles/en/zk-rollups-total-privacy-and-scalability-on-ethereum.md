@@ -114,3 +114,4 @@ The future of Ethereum is promising, and the adoption of ZK-Rollups is a signifi
 **Disclaimer**
 
 The information contained in this article is based on emerging technologies and may be subject to change. The adoption of ZK-Rollups may involve risks, including the loss of funds or system instability. It is essential to conduct your own research and consult a professional before investing or participating in any project related to ZK-Rollups.
+

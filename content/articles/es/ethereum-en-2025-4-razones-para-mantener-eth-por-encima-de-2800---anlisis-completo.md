@@ -123,3 +123,4 @@ E não, não é hype. São dados concretos que mostram por que ETH está apenas 
 **Total Value Locked (TVL) em Layer 2s:**
 - **Arbitrum:** $2.8 bilhões
 - **Optimism:** $1.9
+

@@ -250,3 +250,4 @@ O **[Aave](/artigo/aave-app-the-iphone-moment-of-defi-has-arrived---2025-complet
 ---
 
 ### Passo 5: Sacar (Quando Quiser)
+

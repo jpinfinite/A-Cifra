@@ -113,3 +113,4 @@ FAQ
 Disclaimer
 
 Crédito On-Chain is a high-risk product and may not be suitable for all investors. It's essential to conduct thorough research and consider your financial goals and risk tolerance before investing in Crédito On-Chain. Additionally, please remember that the value of Crédito On-Chain can fluctuate, and there may be a loss of value. It's not recommended to invest more than you can afford to lose.
+

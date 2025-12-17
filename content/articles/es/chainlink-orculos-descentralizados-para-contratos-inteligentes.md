@@ -262,3 +262,4 @@ Para investidores, LINK representa exposição a uma infraestrutura essencial qu
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

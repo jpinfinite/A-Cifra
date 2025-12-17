@@ -148,3 +148,4 @@ A: O staking no ETHB oferece a oportunidade de gerar rendimentos adicionais sobr
 #### Q: Quais são os riscos envolvidos no investimento no ETHB?
 
 A: O investimento no ETHB envolve riscos associados ao mercado cripto, incluindo flutuações de mnio, volatilidade e riscos de segurança. Além disso, o staking pode envolver riscos de liquidez e de crédito. É importante que os investidores avaliem cuidadosamente os riscos envolvidos antes de tomar qualquer decisão de investimento.
+

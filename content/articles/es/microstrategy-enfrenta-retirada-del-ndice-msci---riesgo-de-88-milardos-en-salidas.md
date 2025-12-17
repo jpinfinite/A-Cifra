@@ -275,3 +275,4 @@ MSCI Inc. (maior provedor de índices do mundo) está considerando reclassificar
   - Aguardar fundo (~$85K-$88K)
   - Comprar em correção
   - Hold para $100K+
+

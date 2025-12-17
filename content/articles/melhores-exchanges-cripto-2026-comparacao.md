@@ -435,3 +435,4 @@ Você pode perder seus fundos. Por isso é importante: 1) Usar exchanges grandes
 ### Vale a pena aproveitar os bônus de boas-vindas?
 
 Sim! Bônus de até $30.000 (Bitget) ou 50% de desconto em taxas são vantagens reais. Mas leia os termos: geralmente exigem volume mínimo de trading ou têm período de validade. Aproveite, mas não deixe isso ser o único critério de escolha.
+

@@ -257,3 +257,4 @@ Médio Prazo (2026):
 - Mithril (sincronização rápida)
 - Sidechains e interoperabilidade
 - Adoção
+

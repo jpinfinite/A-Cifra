@@ -78,3 +78,4 @@ Para a maioria dos investidores em 2025, a melhor estratégia não é escolher u
 Se você está começando agora e tem pouco capital, uma Hot Wallet bem configurada (com senha forte e Seed Phrase guardada offline) é suficiente. Porém, assim que seu portfólio crescer a ponto de "tirar seu sono", o investimento em uma Cold Wallet torna-se indispensável.
 
 Lembre-se: **Not your keys, not your coins.** A segurança é o alicerce da liberdade financeira que o cripto oferece.
+

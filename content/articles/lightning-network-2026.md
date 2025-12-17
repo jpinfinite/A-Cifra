@@ -175,3 +175,4 @@ O **Lightning Network** funciona criando uma rede de canais de pagamento entre o
 ### 3. É seguro investir no Lightning Network?
 
 O **Lightning Network** é uma tecnologia em desenvolvimento, e como qualquer investimento, há riscos associados. No entanto, a equipe por trás do **Lightning Network** é composta por especialistas em tecnologia blockchain e financeiros, e a solução está sendo desenvolvida com a segurança e a estabilidade em mente.
+

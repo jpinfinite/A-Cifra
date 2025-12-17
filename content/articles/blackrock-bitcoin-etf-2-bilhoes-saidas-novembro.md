@@ -415,3 +415,4 @@ As saídas de $2,34 bilhões do IBIT em novembro parecem alarmantes, mas são **
 
 **Quer mais sobre ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional)?** Confira nossos artigos sobre [Bitcoin institucional](/categoria/bitcoin) e [investimentos](/categoria/analises).
 
+

@@ -207,3 +207,4 @@ A: Existem várias opções de carteiras de staking para Ethereum, incluindo Led
 ### Q: Quais são as taxas de rede para staking de Ethereum?
 
 A: As taxas de rede para staking de Ethereum variam dependendo da carteira e da configuração de delegação de validator. Em geral, as taxas de rede são baixas e variam de 0,01% a 0,1% do valor total dos ETH staked.
+

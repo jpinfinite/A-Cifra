@@ -58,3 +58,4 @@ Não. O custo dessa infraestrutura é pago por empresas privadas que veem valor 
 
 ### 3. E se um satélite cair?
 A rede é descentralizada. A queda de um, dez ou cem satélites não para o Bitcoin, pois existem milhares de cópias da blockchain rodando em computadores na Terra simultaneamente.
+

@@ -466,3 +466,4 @@ Para participantes, DAOs oferecem oportunidades de contribuir para projetos glob
 Para fundadores, DAOs permitem construir organizações verdadeiramente descentralizadas e alinhadas com a comunidade.
 
 O futuro do trabalho, organizações e coordenação humana pode estar sendo construído através de DAOs. Participe, experimente e ajude a moldar essa nova forma de organização.
+

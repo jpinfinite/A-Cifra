@@ -303,3 +303,4 @@ $95K é um número redondo. Historicamente, [bitcoin](/artigo/bitcoin-200k-2026-
 - **Geopolítica:** Tensões globais podem afetar mercados
 
 ## Comparação
+

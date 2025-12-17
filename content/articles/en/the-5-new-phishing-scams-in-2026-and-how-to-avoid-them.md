@@ -102,3 +102,4 @@ Resposta: Se você acredita que foi vítima de um golpe de phishing, é importan
 Disclaimer
 
 O conteúdo deste artigo é fornecido apenas como orientação geral e não deve ser considerado como conselho específico. A segurança cibernética é um campo em constante evolução, e é importante ficar atualizado sobre as últimas ameaças e tendências. Além disso, é importante lembrar que a vigilância e a educação são as principais ferramentas para proteger nossos dados e nossas identidades.
+

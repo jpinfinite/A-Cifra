@@ -193,3 +193,4 @@ A diferença entre o Bitcoin e outras criptomoedas é que o Bitcoin é a criptom
 ### 5. Posso perder todo o meu dinheiro investindo no Bitcoin?
 
 Sim, é possível perder todo o seu dinheiro investindo no Bitcoin. O mercado de criptomoedas é volátil e pode ser perigoso. Além disso, o Bitcoin é uma tecnologia em desenvolvimento e pode ser sujeito a riscos e vulnerabilidades. É importante fazer sua pesquisa e entender os riscos e benefícios do investimento no Bitcoin antes de investir.
+

@@ -391,3 +391,4 @@ Durante liquidações massivas:
 - Abriu posição long em Bitcoin a $97.000
 - Usou alavancagem 20x
 - Capital:
+

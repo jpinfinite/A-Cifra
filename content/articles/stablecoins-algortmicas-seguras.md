@@ -168,3 +168,4 @@ A: Os riscos de investir em stablecoins incluem a possibilidade de perda de valo
 ### Q: Quais são as vantagens de investir em stablecoins?
 
 A: As vantagens de investir em stablecoins incluem a estabilidade do valor, a liquidez e a possibilidade de ganhos de juros.
+

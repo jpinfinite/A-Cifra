@@ -102,3 +102,4 @@ Provavelmente não banidas, mas forçadas a se adequar. Aquelas que se recusarem
 
 ### 5. O que acontece se eu não declarar minhas criptomoedas?
 A Receita Federal tem 5 anos para auditar suas contas. Com a implementação do IN 1.888 e acordos internacionais de troca de informações, o risco de ser pego na "malha fina" é altíssimo. A multa por sonegação pode chegar a 150% do imposto devido, além de juros e possíveis processos criminais por evasão, dependendo do valor.
+

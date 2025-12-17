@@ -358,3 +358,4 @@ Comece pequeno, aprenda continuamente e explore esse novo mundo financeiro com r
 **Última atualização:** 23 de novembro de 2025
 
 O futuro das finanças é descentralizado, transparente e acessível a todos. Bem-vindo ao [defi](/artigo/defi-yield-farming-protocolos-seguros-2026).
+

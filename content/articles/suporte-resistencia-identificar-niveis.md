@@ -180,3 +180,4 @@ A: A análise de suporte e resistência pode ajudar a identificar níveis chave 
 ### Q: Qual é a importância da gestão de risco em investimentos em criptomoedas?
 
 A: A gestão de risco é fundamental para evitar perdas significativas no mercado. É importante estabelecer uma estratégia de investimento que considere a gestão de risco e a diversificação de investimentos para minimizar as perdas.
+

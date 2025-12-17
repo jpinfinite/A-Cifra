@@ -452,3 +452,4 @@ Mercado grande mas controlado.
 | **EUA** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Singapura** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Hong Kong** | ⭐⭐⭐⭐ |
+

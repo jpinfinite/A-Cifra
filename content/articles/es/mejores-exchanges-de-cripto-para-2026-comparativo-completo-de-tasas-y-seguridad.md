@@ -157,3 +157,4 @@ Todas as exchanges listadas têm histórico sólido de [segurança](/artigo/cibe
 *   **Bybit:** Multi-assinatura e cold storage. Sem hacks históricos.
 
 > **Regra de Ouro:** Mesmo em exchanges seguras, para valores grandes (acima de $10k), considere uma [Hardware Wallet Ledger ou Trezor](/artigo/ledger-vs-trezor-qual-melhor-carteira-2026).
+

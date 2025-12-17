@@ -294,3 +294,4 @@ Neste guia completo, você vai entender o que são [Layer](/artigo/layer-2-ether
 - ✅ Saques rápidos (1-2h)
 - ✅ Potencial de privacidade
 -
+

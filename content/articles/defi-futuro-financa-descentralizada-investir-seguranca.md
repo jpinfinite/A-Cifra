@@ -175,3 +175,4 @@ A: A DeFi é um mercado de alto risco e apresenta vários riscos, incluindo risc
 ### Q: Como posso proteger minhas informações de segurança na DeFi?
 
 A: Para proteger suas informações de segurança na DeFi, é importante usar senhas fortes e únicas para cada protocolo DeFi que você use. Além disso, é importante evitar compartilhar suas informações de segurança com ninguém e manter-se atualizado sobre as mudanças no mercado.
+

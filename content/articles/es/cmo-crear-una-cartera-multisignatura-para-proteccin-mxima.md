@@ -123,3 +123,4 @@ Es hora de aprovechar el futuro de la seguridad en criptomoedas y crear una cart
 **Disclaimer**
 
 La creación y uso de carteiras multisig involucran riesgos, incluyendo la pérdida de claves, ataques cibernéticos y errores humanos. Es importante realizar una investigación cuidadosa y entender los riesgos involucrados antes de crear una carteira multisig. Además, es recomendable consultar un profesional de seguridad cibernética o un especialista en criptomoedas antes de tomar cualquier decisión.
+

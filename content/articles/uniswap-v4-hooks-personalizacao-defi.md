@@ -187,3 +187,4 @@ Para proteger-se contra os riscos associados ao uso de Uniswap V4 e Hooks, os us
 * **Familiarizar-se com a plataforma**: Os usuários devem entender como funcionam a Uniswap V4 e os Hooks antes de criar e implementar suas próprias estratégias de negócios.
 * **Usar ferramentas de segurança**: Os usuários devem usar ferramentas de segurança, como contratos inteligentes e wallets de criptomoedas seguros, para proteger suas criptomoedas e dados.
 * **Manter-se atualizado**: Os usuários devem manter-se atualizado sobre as últimas tendências e desenvolvimentos na área de DeFi e criptomoedas para evitar serem pegos de surpresa por mudanças no mercado.
+

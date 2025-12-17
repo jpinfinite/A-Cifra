@@ -226,3 +226,4 @@ Próximos pasos:
 Última actualización: 08 de diciembre de 2025
 
 Disclaimer: Renta pasiva en cripto implica riesgos. Este artículo es educacional, no recomendación financiera. Investir con responsabilidad.
+

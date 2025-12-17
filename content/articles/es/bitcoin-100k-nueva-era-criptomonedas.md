@@ -158,3 +158,4 @@ La pregunta ya no es "si" Bitcoin llegará a $500k o $1 millón.
 ---
 
 **Aviso Legal:** Este artículo es solo para fines informativos y educativos. No constituye asesoramiento financiero, de inversión o legal. Las criptomonedas son activos volátiles y de alto riesgo. Siempre haz tu propia investigación (DYOR) y consulta a un profesional financiero antes de invertir.
+

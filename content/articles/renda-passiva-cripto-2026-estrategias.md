@@ -152,3 +152,4 @@ A: Os principais riscos envolvidos em investir em criptomoedas incluem a volatil
 ### Q: É seguro investir em criptomoedas?
 
 A: O investimento em criptomoedas é arriscado e não é recomendado para todos. É fundamental entender os riscos envolvidos e ter uma estratégia de investimento clara antes de investir. Além disso, é importante escolher uma plataforma de investimento confiável e segura.
+

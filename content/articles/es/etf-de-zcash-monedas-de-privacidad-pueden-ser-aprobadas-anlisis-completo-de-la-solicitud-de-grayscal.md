@@ -128,3 +128,4 @@ Desafios Futuros: Quantum Computing, Regulação Mais Rígida, Competição, Ado
 ## Conclusão
 
 O pedido da Grayscale para um ETF de Zcash é histórico e potencialmente revolucionário. Se aprovado, pode legitimar privacy coins, trazer bilhões em capital institucional e valorizar ZEC em 100-300%. Mas os riscos são reais: rejeição é possível, regulação pode endurecer, competição é forte e volatilidade será alta. Zcash é uma aposta especulativa de alto risco e alto retorno. Para investidores que acreditam no futuro da privacidade financeira, podem tolerar volatilidade extrema e têm horizonte de 2-3 anos, ZEC pode ser uma excelente oportunidade.
+

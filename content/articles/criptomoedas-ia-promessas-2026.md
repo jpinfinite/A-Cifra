@@ -203,3 +203,4 @@ Para investir em criptomoedas de IA, é importante:
 * **Entender os riscos**: entenda os riscos associados às criptomoedas de IA e tome decisões informadas.
 * **Diversificar sua carteira**: diversifique sua carteira de investimentos para minimizar os riscos.
 * **Consultar um profissional**: consulte um profissional financeiro para obter aconselhamento personalizado.
+

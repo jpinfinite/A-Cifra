@@ -196,3 +196,4 @@ As desvantagens do Lightning Network incluem a necessidade de criptografia e a p
 ### 5. Quais são as perspectivas para o futuro do Lightning Network?
 
 As perspectivas para o futuro do Lightning Network são muito positivas. A tecnologia está em constante desenvolvimento e há uma grande demanda por pagamentos instantâneos e baratos em Bitcoin. Além disso, a comunidade de desenvolvedores está trabalhando arduamente para melhorar e expandir a rede.
+

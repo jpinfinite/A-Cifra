@@ -70,3 +70,4 @@ DeSci es la abreviación de *Decentralized Science* (Ciencia Descentralizada). E
 
 ### 2. ¿Es seguro invertir en tokens DeSci?
 Como cualquier sector naciente en cripto, es de alto riesgo. Muchos proyectos son experimentales. Haz tu propia investigación (DYOR) y nunca inviertas dinero que no puedas perder.
+

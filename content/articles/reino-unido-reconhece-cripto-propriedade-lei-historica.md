@@ -575,3 +575,4 @@ A aprovação do **Property (Digital Assets) Act** no Reino Unido é um **moment
 - [Como Proteger Seus Ativos Cripto Legalmente](/categoria/seguranca)
 - [Impostos sobre Criptomoedas no Brasil](/categoria/regulacao)
 
+

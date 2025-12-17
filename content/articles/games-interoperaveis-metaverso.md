@@ -98,3 +98,4 @@ Cada vez menos. Com tecnologias como a Abstração de Conta, muitos jogos novos 
 
 ### 4. Como ganho dinheiro com isso?
 Jogando e conquistando itens raros que tenham demanda de outros jogadores, ou criando conteúdo/itens para esses mundos. Marketplaces abertos permitem que você venda esses itens para qualquer pessoa, sem depender do mercado interno do jogo.
+

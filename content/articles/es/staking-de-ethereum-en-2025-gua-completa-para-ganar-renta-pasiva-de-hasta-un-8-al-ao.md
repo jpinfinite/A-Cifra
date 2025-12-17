@@ -189,3 +189,4 @@ Vamos comparar o [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de 
 | **Poupança** | 0.5% - 1% | Alta | Muito Baixo | Isento até R$40k |
 | **Tesouro Direto** | 6% - 7% | Média | Baixo | IR progressivo |
 | **
+

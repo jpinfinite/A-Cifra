@@ -66,3 +66,4 @@ Este texto no constituye recomendación de inversión. Es importante consultar a
 
 **Pregunta 2:** ¿Por qué el cambio de Ripple es importante?
 **Respuesta:** El cambio de Ripple puede afectar la forma en que las personas invierten en activos y puede llevar a nuevas oportunidades de inversión.
+

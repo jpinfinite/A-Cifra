@@ -182,3 +182,4 @@ A: Os riscos associados aos stablecoins incluem a volatilidade dos preços dos a
 ### Q: Como posso proteger meu investimento em stablecoins?
 
 A: Para proteger seu investimento em stablecoins, é fundamental que você esteja ciente dos riscos e benefícios associados a eles. Além disso, é importante que você faça suas próprias pesquisas e análises antes de investir em qualquer ativo. É também recomendável que você considere diversificar seu portfólio para minimizar os riscos.
+

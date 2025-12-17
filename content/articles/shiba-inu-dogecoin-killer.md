@@ -181,3 +181,4 @@ O potencial de crescimento do Shiba Inu (SHIB) é difícil de prever, pois o mer
 ### 5. É seguro investir no Shiba Inu (SHIB)?
 
 Investir no Shiba Inu (SHIB) é arriscado e pode resultar em perdas financeiras. O mercado de criptomoedas é altamente volátil e o valor do SHIB pode variar rapidamente. Além disso, o SHIB é uma criptomoeda que ainda está em desenvolvimento e pode ter problemas de segurança. É importante fazer uma pesquisa cuidadosa e considerar os riscos antes de investir no SHIB.
+

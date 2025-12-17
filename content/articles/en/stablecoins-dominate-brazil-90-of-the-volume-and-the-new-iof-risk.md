@@ -86,3 +86,4 @@ Probably not. The efficiency of stablecoins is unbeatable. Even with a potential
 **Conclusion**
 
 The dominance of stablecoins proves that the Brazilian wants a strong currency. [Regulation](/artigo/drex-and-crypto-regulation-2026-what-changes-for-the-brazilian-investor "Drex and Crypto Regulation 2026: What Changes for the Brazilian Investor?") is inevitable, but it shouldn't kill innovation. 2026 will be the year to test the resilience of this market against the taxman.
+

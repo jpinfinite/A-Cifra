@@ -189,3 +189,4 @@ Vamos comparar o [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de 
 | **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) ETH** | 5% - 8% | Média/Alta | Médio | Ganho de capital |
 | **Poupança** | 0.5% - 1% | Alta | Muito Baixo | Isento até R$40k |
 | **Tesouro Direto** | 6% - 7% | Méd
+

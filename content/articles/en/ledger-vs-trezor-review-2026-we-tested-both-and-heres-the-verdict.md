@@ -293,3 +293,4 @@ O Safe 7 a $199 compete com Ledger Flex ($249), mas a Flex tem tela maior.
 - Você tem altcoins diversificadas
 - Quer a experiência mais "plug and play"
 - Planeja usar [defi](/artigo/
+

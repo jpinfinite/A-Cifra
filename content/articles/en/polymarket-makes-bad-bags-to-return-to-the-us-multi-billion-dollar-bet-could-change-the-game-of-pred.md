@@ -459,3 +459,4 @@ Polymarket represents a bet on the future of decentralized prediction markets. W
 The return to the US means more liquidity, better markets, and greater confidence in the platform. If you're interested in prediction markets, this is the time to pay attention.
 
 **Polymarket is back. And the game is just beginning.**
+

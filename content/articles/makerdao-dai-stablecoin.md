@@ -181,3 +181,4 @@ A: Como qualquer outra criptomoeda, DAI é sujeita a riscos de volatilidade e pe
 ### Q: Quais são as taxas de juros do MakerDAO?
 
 A: As taxas de juros do MakerDAO variam dependendo do tipo de conta e da quantidade de DAI criada. Em geral, as taxas de juros são mais altas para contas com maior quantidade de DAI e mais baixas para contas com menor quantidade de DAI. Além disso, as taxas de juros podem variar dependendo da demanda e da oferta de DAI no mercado.
+

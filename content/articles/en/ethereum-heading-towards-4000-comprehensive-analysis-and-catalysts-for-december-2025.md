@@ -152,3 +152,4 @@ O [Ethereum](/artigo/ethereum-bound-for-4000-comprehensive-analysis-and-catalyst
 - **Aave:** $12 bilhões
 - **MakerDAO:** $8 bilhões
 - **Uniswap:** $6 bilhões
+

@@ -52,3 +52,4 @@ Vitalik Buterin, creador de Ethereum, afirmó que *"los ZK-Rollups ganarán en t
 A medida que más empresas entran en Web3, la demanda de privacidad selectiva explotará. Los ZKPs permiten el cumplimiento (probar que no es lavado de dinero) sin vigilancia total (exponer todos los datos).
 
 Invertir tiempo en entender y usar ecosistemas ZK hoy es como aprender sobre HTTPS en los 90: la capa de seguridad que hizo posible el comercio electrónico.
+

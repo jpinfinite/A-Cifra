@@ -167,3 +167,4 @@ A: A RNDR funcionaverige os artistas enviam trabalhos de renderização, os nós
 ### Q: É seguro investir em RNDR?
 
 A: Sim, a RNDR é uma plataforma segura e descentralizada que utiliza tecnologia blockchain para garantir a segurança e a transparência dos transações.
+

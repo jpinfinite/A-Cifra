@@ -101,3 +101,4 @@ Depende. Na Lightning, você usa o próprio Bitcoin. Em outras redes como Stacks
 
 ### 4. O DeFi no Bitcoin é igual ao Ethereum?
 O conceito é o mesmo (finanças sem bancos), mas a tecnologia é diferente. O Ethereum foi feito para isso nativamente, enquanto o Bitcoin está adaptando essa funcionalidade através de camadas, o que traz desafios e seguranças diferentes.
+

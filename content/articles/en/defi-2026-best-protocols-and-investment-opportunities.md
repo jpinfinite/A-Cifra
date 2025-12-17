@@ -384,3 +384,4 @@ DeFi em [2026](/artigo/crypto-staking-2026-a-comprehensive-guide-to-passive-inco
 ---
 
 *Aviso: DeFi envolve riscos significativos. Este artigo é apenas educacional. Invista apenas o que pode perder.*
+

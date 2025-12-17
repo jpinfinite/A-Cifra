@@ -91,3 +91,4 @@ Answer: This means that the price of Bitcoin may decrease drastically, affecting
 
 Question 2: Why is the cryptocurrency market so volatile?
 Answer: The cryptocurrency market is highly volatile due to its decentralized nature and lack of regulation, which can lead to rapid changes in the price of cryptocurrencies.
+

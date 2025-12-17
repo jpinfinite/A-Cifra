@@ -66,3 +66,4 @@ Fazer isso manualmente é insano se você faz muitos trades. Recomendamos o uso 
 ## Conclusão
 
 Não tenha medo da regulação. Ela é um sinal de amadurecimento do mercado. Manter sua conformidade fiscal é o que garante que você possa usufruir dos seus lucros no "mundo real" (comprar casa, carro) sem problemas legais no futuro. Organize-se agora para ter um 2026 tranquilo.
+

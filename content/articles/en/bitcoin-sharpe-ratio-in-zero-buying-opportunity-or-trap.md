@@ -65,3 +65,4 @@ Em 2019, 2020 e 2022, quando o índice ficou próximo de zero, o Bitcoin eventua
 Plataformas como CryptoQuant, Glassnode e TradingView oferecem dados onchain e indicadores técnicos, incluindo o índice de Sharpe.
 
 O mais importante é não tomar decisões emocionais. Estude, planeje sua estratégia e invista apenas o que pode perder.
+

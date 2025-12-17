@@ -326,3 +326,4 @@ Para investidores, GRT oferece exposição a uma camada de infraestrutura críti
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

@@ -108,3 +108,4 @@ Estamos vivendo a fase de infraestrutura. É como a internet em 1998.
 Para o investidor, a oportunidade não está apenas em comprar um token de imóvel, mas em investir nos protocolos que fornecem a infraestrutura para essa nova economia: blockchains corporativas, oráculos e plataformas de identidade.
 
 Até 2030, todo ativo financeiro será um token em algum ledger. A migração já começou.
+

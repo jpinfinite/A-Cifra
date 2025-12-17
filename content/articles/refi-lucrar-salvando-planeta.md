@@ -58,3 +58,4 @@ Não. A tokenização permite comprar frações de ativos. Com $10 ou $50, você
 
 ### 3. Quais são os riscos?
 O maior risco é regulatório (mudanças nas leis de carbono) e tecnológico (falhas nos smart contracts). Nunca invista dinheiro que você não pode perder, mesmo que a causa seja nobre.
+

@@ -173,3 +173,4 @@ Ambos têm espaço para crescer trilhões. A questão é **quanto alocar em cada
 ---
 
 **Aviso Legal:** Não é consultoria financeira. Faça sua própria pesquisa. Criptomoedas são voláteis e arriscadas.
+

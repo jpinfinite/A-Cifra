@@ -205,3 +205,4 @@ Se o [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) continuar sua 
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) envolve riscos. Os rendimentos variam e não são garantidos. Este artigo é educacional e não é recomendação de investimento.*
+

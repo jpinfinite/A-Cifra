@@ -186,3 +186,4 @@ A: A Curve Finance é segura e transparente, com uma equipe de desenvolvedores e
 ### Q: Quais são as taxas de negociação da Curve Finance?
 
 A: As taxas de negociação da Curve Finance são baixas e competitivas, variando dependendo do tipo de negociação e do volume de transação. Além disso, a plataforma oferece um sistema de recompensas para os usuários que realizam negociações em grande escala.
+

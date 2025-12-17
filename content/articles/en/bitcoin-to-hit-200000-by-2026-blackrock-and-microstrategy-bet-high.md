@@ -184,3 +184,4 @@ A pergunta não é "se" o [bitcoin](/artigo/bitcoin-200k-2026-previsao-instituci
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: Previsões são apenas opiniões, não fatos. Rentabilidade passada não garante resultados futuros. Invista com responsabilidade.*
+

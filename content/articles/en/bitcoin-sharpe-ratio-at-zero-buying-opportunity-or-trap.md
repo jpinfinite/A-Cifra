@@ -73,3 +73,4 @@ O índice de Sharpe do Bitcoin em níveis próximos de zero é um sinal importan
 Para investidores de longo prazo, este pode ser um momento interessante para acumular Bitcoin gradualmente através de DCA. Para traders, cautela e gestão de risco são essenciais.
 
 O mais importante é não tomar decisões emocionais. Estude, planeje sua estratégia e invista apenas o que pode perder.
+

@@ -313,3 +313,4 @@ A questão não é mais "se" Bitcoin vai para $500k ou $1 milhão.
 ---
 
 **Aviso Legal:** Este artigo é apenas para fins informativos e educacionais. Não constitui consultoria financeira, de investimento ou jurídica. Criptomoedas são ativos voláteis e de alto risco. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir. Invista apenas o que pode perder.
+

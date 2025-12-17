@@ -193,3 +193,4 @@ Um golpe de phishing é uma tentativa de roubo de informações pessoais ou fina
 ### 3. Como posso saber se uma oferta de investimento em criptomoedas é legítima?
 
 Você pode saber se uma oferta de investimento em criptomoedas é legítima verificando a autenticidade da oferta e do emissor, e pesquisando sobre a criptomoeda antes de investir.
+

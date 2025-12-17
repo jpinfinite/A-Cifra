@@ -228,3 +228,4 @@ Os riscos do Compound Finance incluem:
 ### 5. Como posso investir no Compound Finance?
 
 Para investir no Compound Finance, você precisará criar uma conta na plataforma e depositar criptomoedas. Em seguida, você poderá emprestar criptomoedas para outros usuários e receber juros sobre o valor emprestado. É importante lembrar que o investimento em criptomoedas é arriscado e pode resultar em perdas. É recomendável que você faça sua própria pesquisa e consulte um profissional antes de investir.
+

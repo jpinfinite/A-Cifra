@@ -125,3 +125,4 @@ FAQ
 Disclaimer
 
 DePIN 2026 is an event aimed at promoting education and awareness about decentralized technologies. However, it's essential to remember that cryptocurrencies and blockchain technologies involve risks, including value appreciation, security risks, and regulatory risks. It's crucial for investors and users of decentralized technologies to conduct their own research and make informed decisions before participating in any activity related to DePIN 2026.
+

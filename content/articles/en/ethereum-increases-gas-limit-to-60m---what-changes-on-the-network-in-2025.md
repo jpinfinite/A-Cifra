@@ -334,3 +334,4 @@ Se uso da rede aumentar 20% (proporcional ao gas limit):
 ### 10. Vale a pena investir em ETH agora?
 
 **Depende do seu horizonte.** Se você acred
+

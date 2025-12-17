@@ -210,3 +210,4 @@ As principais desvantagens da Yield Farming incluem:
 * Risco de crédito e liquidez mais alto em comparação com outros tipos de investimentos em DeFi.
 * Requerimento de conhecimentos e habilidades especializados para investir de forma eficaz.
 * Possibilidade de perda de investimento em caso de fraude ou falsificação de ativos.
+

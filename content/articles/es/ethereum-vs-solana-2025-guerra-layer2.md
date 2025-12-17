@@ -147,3 +147,4 @@ Ambos tienen espacio para crecer billones. La pregunta es **cuánto asignar a ca
 ---
 
 **Aviso Legal:** No es asesoramiento financiero. Haz tu propia investigación. Las criptomonedas son volátiles y riesgosas.
+

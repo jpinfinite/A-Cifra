@@ -346,3 +346,4 @@ Expirações de opções são eventos de **alta volatilidade** e **alto risco**.
 ### 3. CoinGlass
 
 **URL
+

@@ -130,3 +130,4 @@ Tu patrimonio es el fruto de tu tiempo de vida. Protegélo no es una opción, es
 **Última actualización:** 05 de diciembre de 2025
 
 *Disclaimer: [seguridad](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) es un proceso continuo. Manténse siempre actualizado sobre nuevas amenazas.*
+

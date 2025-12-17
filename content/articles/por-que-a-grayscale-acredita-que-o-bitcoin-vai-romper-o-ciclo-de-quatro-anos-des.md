@@ -211,3 +211,4 @@ A: Para proteger seu investimento em criptomoedas, é importante diversificar se
 ### Q: Quais são as principais criptomoedas que posso investir?
 
 A: As principais criptomoedas que você pode investir incluem Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) e Bitcoin Cash (BCH). É importante realizar pesquisas e análises rigorosas antes de investir em qualquer criptomoeda.
+

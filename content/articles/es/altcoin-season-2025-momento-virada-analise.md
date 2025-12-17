@@ -116,3 +116,4 @@ Es la historia o tema que está atrayendo la atención de los inversores en el m
 
 ### 5. ¿Dónde comprar estas altcoins menores?
 Mientras que Bitcoin y Ethereum están en todos los exchanges, muchas "gemas" de pequeña capitalización están disponibles solo en Exchanges Descentralizados (DEXs) como Uniswap (para red Ethereum) o Raydium/Jupiter (para red Solana) o en exchanges centralizados enfocados en altcoins.
+

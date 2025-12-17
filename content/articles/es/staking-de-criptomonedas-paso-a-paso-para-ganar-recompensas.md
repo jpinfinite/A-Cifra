@@ -325,3 +325,4 @@ Ao fazer [staking](/artigo/staking-ethereum-guia-renda-passiva-2026), você:
    - Envie da [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxas) para carteira
 
 4. **Es
+

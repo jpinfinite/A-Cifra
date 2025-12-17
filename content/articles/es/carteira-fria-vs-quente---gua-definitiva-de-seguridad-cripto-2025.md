@@ -154,3 +154,4 @@ metaDescription: >-
 100. Teste com pequena quantia primeiro.
 101. Atualize firmware regularmente.
 102. Nunca compartilhe seed phrase com n
+

@@ -57,3 +57,4 @@ O guia completo inclui informações sobre:
 - Recursos adicionais
 
 O guia é destinado a iniciantes e visa fornecer uma visão geral completa do [Bitcoin](/artigo/bitcoin-complete-guide-beginners-2025 "Bitcoin: Complete Guide for Beginners in 2025") e suas implicações financeiras.
+

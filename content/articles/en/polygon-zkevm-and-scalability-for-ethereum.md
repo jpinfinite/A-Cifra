@@ -213,3 +213,4 @@ The Polygon is one of the most successful scalability solutions for Ethereum, wi
 With zkEVM, the Polygon is positioning itself for the next generation of [blockchain](/artigo/avalanche-subnets-and-blockchain-scalability "Avalanche: Subnets and Blockchain Scalability") scalability, combining security, speed, and low cost.
 
 For investors, MATIC offers exposure to an [essential](/artigo/what-are-layer-2-and-why-are-they-essential-for-ethereum "What Are Layer 2 and Why Are They Essential for Ethereum") infrastructure being adopted by DeFi, NFTs, gaming, and even traditional companies.
+

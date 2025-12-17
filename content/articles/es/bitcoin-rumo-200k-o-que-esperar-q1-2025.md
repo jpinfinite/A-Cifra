@@ -118,3 +118,4 @@ Una regulación clara permite que grandes fondos de pensiones y aseguradoras (qu
 
 ### 5. ¿Cuáles son los mejores indicadores para seguir?
 Además del precio, vigila los flujos diarios de los ETFs de Bitcoin (Spot ETF flows), la Dominancia de Bitcoin (BTC.D), las tasas de interés de la FED y el índice DXY (fuerza del dólar). Todos estos indicadores ofrecen pistas sobre la salud de la tendencia.
+

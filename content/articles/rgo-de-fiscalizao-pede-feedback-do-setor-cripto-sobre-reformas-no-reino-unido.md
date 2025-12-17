@@ -121,3 +121,4 @@ Aってきた A blockchain é a tecnologia por trás das criptomoedas, mas elas 
 
 Investir em criptomoedas pode ser arriscado, mas existem algumas dicas para investir de forma segura. É importante fazer sua própria pesquisa, entender os riscos envolvidos e não investir mais do que você pode perder. Além disso, é importante escolher uma plataforma de troca de criptomoedas confiável e segura.
 
+

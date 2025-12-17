@@ -185,3 +185,4 @@ A: Para proteger seu dinheiro contra scams em criptomoedas, é importante ser ca
 ### Q: O que devo fazer se eu sou vítima de phishing ou scam em criptomoedas?
 
 A: Se você é vítima de phishing ou scam em criptomoedas, é importante agir rapidamente para proteger seus ativos digitais. Verifique se sua conta de criptomoeda foi comprometida e se é necessário mudar a senha ou realizar outras ações de segurança. Além disso, informe a plataforma de troca ou a criptomoeda sobre o incidente e siga as instruções para resolver o problema.
+

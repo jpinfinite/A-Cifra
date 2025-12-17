@@ -444,3 +444,4 @@ Web3 não é apenas sobre tecnologia - é sobre reimaginar como coordenamos, cri
 Para comprar as [criptomoedas](/artigo/como-funciona-mineracao-criptomoedas "Como Funciona a Mineração de Criptomoedas?") mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

@@ -345,3 +345,4 @@ A resposta depende do seu horizonte de tempo:
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

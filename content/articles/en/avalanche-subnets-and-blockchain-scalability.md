@@ -256,3 +256,4 @@ Avalanche is one of the most technically advanced blockchains, offering speed, [
 With its innovative consensus protocol, compatibility with Ethereum, and focus on corporate use cases, Avalanche is well-positioned for growth.
 
 For investors, AVAX offers exposure to a platform that is attracting developers, users, and even traditional businesses, with the added benefit of attractive staking rewards.
+

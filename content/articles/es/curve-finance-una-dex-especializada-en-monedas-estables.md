@@ -91,3 +91,4 @@ El **[Curve](/artigo/curve-finance-stablecoins "Curve Finance: A DEX Especializa
 ## 🚀 Comece a Invertir en Criptomonedas
 
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
+

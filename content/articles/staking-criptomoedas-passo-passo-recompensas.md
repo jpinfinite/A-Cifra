@@ -542,3 +542,4 @@ Sim. Recompensas de [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) 
 **Última atualização:** 23 de novembro de 2025
 
 *Comece a fazer [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) hoje e transforme suas criptomoedas em ativos geradores de renda!*
+

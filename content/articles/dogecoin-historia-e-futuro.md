@@ -162,3 +162,4 @@ O valor do Dogecoin varia ao longo do tempo e depende de vários fatores, inclui
 ### **5. É seguro investir em Dogecoin?**
 
 O investimento em Dogecoin, como em qualquer outra criptomoeda, envolve riscos. A volatilidade do mercado e a possibilidade de perda de valor da memecoin são apenas alguns dos riscos associados ao investimento em Dogecoin. Além disso, a falta de regulamentação e a possibilidade de fraude também são preocupações importantes. É importante fazer sua própria pesquisa e considerar cuidadosamente os riscos antes de investir em Dogecoin.
+

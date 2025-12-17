@@ -189,3 +189,4 @@ A opção de "prioridade baixa" no Ethereum é uma opção que permite que as tr
 ### 5. O que é a opção de "gas limit" no Ethereum?
 
 A opção de "gas limit" no Ethereum é uma opção que permite que você estabeleça um limite para a quantidade de gas utilizada para processar a transação. Isso pode ajudar a reduzir a gas fee e a evitar que a transação seja rejeitada devido à falta de gas.
+

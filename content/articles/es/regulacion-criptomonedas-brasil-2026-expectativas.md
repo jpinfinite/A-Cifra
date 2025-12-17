@@ -57,3 +57,4 @@ Para 2026, se espera un control aún mayor sobre los activos en el extranjero. L
 ## Conclusión
 
 La regulación cripto en Brasil para 2026 apunta a un mercado maduro, seguro e integrado al sistema financiero tradicional. Brasil está construyendo una "criptoeconomía limpia" que puede atraer billones en inversiones globales.
+

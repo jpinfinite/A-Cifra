@@ -191,3 +191,4 @@ Deixar [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) parado em 20
 *   ✅ Mantém exposição à valorização do ETH.
 
 Se o [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) continuar sua trajetória de adoção (ETFs, [defi](/artigo/defi-yield-farming-protocolos-seguros-2026), NFTs),
+

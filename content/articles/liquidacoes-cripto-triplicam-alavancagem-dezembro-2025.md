@@ -557,3 +557,4 @@ Pare de operar imediatamente. Analise o que deu errado. Estude gestão de risco.
 
 **Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Trading com alavancagem é extremamente arriscado e pode resultar em perda total do capital. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de operar com derivativos.
 
+

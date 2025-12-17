@@ -174,3 +174,4 @@ No entanto, investidores devem manter uma abordagem equilibrada, considerando ta
 ## 🚀 Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
+

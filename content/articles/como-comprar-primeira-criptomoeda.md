@@ -212,3 +212,4 @@ A: As principais criptomoedas para investir incluem Bitcoin, Ethereum, Litecoin 
 ### Q: Posso comprar criptomoedas com cartão de crédito?
 
 A: Sim, é possível comprar criptomoedas com cartão de crédito, mas é importante verificar as taxas e condições da plataforma de troca antes de fazer uma compra. Além disso, é importante lembrar que o uso de cartão de crédito para comprar criptomoedas pode ser considerado um risco alto.
+

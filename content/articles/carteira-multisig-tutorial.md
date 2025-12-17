@@ -167,3 +167,4 @@ Para criar uma carteira multisig, você pode usar uma plataforma de criptomoedas
 ### 3. Qual é o risco de perda de dinheiro e dados com uma carteira multisig?
 
 O risco de perda de dinheiro e dados com uma carteira multisig é menor do que com uma carteira normal, pois a assinatura de pelo menos dois usuários é necessária para realizar transações. No entanto, é importante lembrar que a segurança criptográfica é uma responsabilidade compartilhada e que a educação e a conscientização são fundamentais para proteger seus ativos digitais.
+

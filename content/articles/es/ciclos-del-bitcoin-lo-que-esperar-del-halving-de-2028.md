@@ -72,3 +72,4 @@ Las implicaciones para los inversores son importantes. El Halving de 2028 puede 
 Conclusión
 
 El Halving de 2028 es un evento importante que puede tener un impacto significativo en el mercado de criptomonedas. La reducción de la recompensa de minado en mitad puede llevar a una valorización del Bitcoin, ya que los inversores pueden esperar una mayor demanda y una menor oferta de moneda. Además, el Halving también puede aumentar la dificultad de minado, lo que es fundamental para la seguridad de la red. Es importante que los inversores estén preparados para las implicaciones del Halving de 2028 y ajusten sus estrategias de inversión de acuerdo.
+

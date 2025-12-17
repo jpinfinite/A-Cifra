@@ -189,3 +189,4 @@ Solana é uma plataforma de blockchain que se destaca por sua velocidade e efici
 ### 5. Qual é a melhor maneira de monitorar as tendências do mercado cripto?
 
 A melhor maneira de monitorar as tendências do mercado cripto é através de fontes confiáveis, como CoinDesk ou Coindesk. É importante lembrar de fazer uma pesquisa aprofundada e considerar os seus objetivos de investimento antes de tomar qualquer decisão.
+

@@ -186,3 +186,4 @@ Não, é importante não compartilhar sua seed phrase com ninguém. A seed phras
 ### 5. **O que devo fazer se eu perder minha seed phrase?**
 
 Se você perder sua seed phrase, você pode gerá-la novamente usando a plataforma de criptomoedas que você está usando. No entanto, é importante lembrar que a seed phrase é única para cada carteira, então você precisará gerá-la novamente para cada carteira que você criar. Além disso, é importante verificar se você tem acesso a sua carteira de criptomoedas antes de gerar uma nova seed phrase.
+

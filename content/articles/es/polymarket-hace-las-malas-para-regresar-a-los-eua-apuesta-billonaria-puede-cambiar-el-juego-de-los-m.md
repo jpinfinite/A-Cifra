@@ -420,3 +420,4 @@ A Polymarket volta ao jogo com cartas fortes:
 - Lançamento gradual nos EUA
 - Foco em apostas esportivas
 - Construção de base
+

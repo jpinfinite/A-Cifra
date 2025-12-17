@@ -184,3 +184,4 @@ Historicamente, maior adoção institucional tem impulsionado o preço, mas vola
 ---
 
 **⚠️ Aviso Legal:** Este artigo é apenas para fins educacionais e informativos. Não constitui aconselhamento financeiro, de investimento ou jurídico. Criptomoedas são ativos de alto risco. Sempre faça sua própria pesquisa (DYOR) e consulte profissionais qualificados antes de investir.
+

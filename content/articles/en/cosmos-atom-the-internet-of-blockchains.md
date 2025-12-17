@@ -286,3 +286,4 @@ With IBC, Cosmos SDK, and Tendermint, the project provides the necessary tools t
 For investors, ATOM offers exposure to a growing ecosystem with attractive staking and potential for appreciation as more chains connect via IBC.
 
 Cosmos 2.0 promises to bring even more utility to ATOM, making the Cosmos Hub the center of a universe of interconnected blockchains.
+

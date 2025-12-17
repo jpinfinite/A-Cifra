@@ -102,3 +102,4 @@ No es una cuestión de sustitución, sino de coexistencia. Ambos los sistemas ti
 Para [comprar](/artigo/como-comprar-criptomoedas-tutorial-passo-a-passo-para-iniciantes "Como comprar criptomoedas: Tutorial Passo a Passo para Iniciantes") las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

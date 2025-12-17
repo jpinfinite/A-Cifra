@@ -602,3 +602,4 @@ Para comprar e usar stablecoins algorítmicas:
 ---
 
 *Aviso: Stablecoins algorítmicas envolvem riscos incluindo perda de peg e smart contract bugs. Faça sua própria pesquisa e invista apenas o que pode perder.*
+

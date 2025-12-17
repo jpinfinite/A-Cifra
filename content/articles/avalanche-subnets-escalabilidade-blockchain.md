@@ -154,3 +154,4 @@ A: O Avalanche oferece várias vantagens em relação a outras plataformas block
 ### Q: O que é um subnet e como ele funciona?
 
 A: Um subnet é uma sub-red de rede que permite que os usuários criem e gerenciem suas próprias redes separadas dentro da rede Avalanche. Isso permite que os usuários criem casos de uso específicos e personalizados dentro da rede Avalanche.
+

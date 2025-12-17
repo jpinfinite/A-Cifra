@@ -449,3 +449,4 @@ Para iniciantes, considere:
 **Plataformas**:
 - Bitget Copy Trading
 -
+

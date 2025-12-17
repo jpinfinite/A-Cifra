@@ -152,3 +152,4 @@ O [Ethereum](/artigo/ethereum-heading-towards-4000-comprehensive-analysis-and-ca
 - **Aave:** $12 bilhões
 - **MakerDAO:** $8 bilhões
 - **Uniswap:** $6 bilhões
+

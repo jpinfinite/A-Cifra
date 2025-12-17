@@ -69,3 +69,4 @@ metaDescription: >-
 **Melhores Criptomoedas para [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) 2025**
 
 1. **[ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026)** (ETH) - APY: 3,5
+

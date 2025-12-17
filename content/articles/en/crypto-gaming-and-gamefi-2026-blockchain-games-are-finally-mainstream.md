@@ -394,3 +394,4 @@ Para comprar tokens de gaming e NFTs:
 <xchangeAffiliateLinks />
 
 Aviso: Gaming e NFTs são especulativos. Jogue por diversão primeiro, lucro segundo. Invista apenas o que pode perder.
+

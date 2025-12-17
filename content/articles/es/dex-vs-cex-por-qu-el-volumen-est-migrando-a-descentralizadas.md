@@ -108,3 +108,4 @@ En un futuro próximo, el mercado de criptomonedas será completamente transform
 **Pregunta 3:** **Cuáles son los principales beneficios de las DEXs?**
 
 **Respuesta:** Los principales beneficios de las DEXs son la descentralización, la transparencia y la seguridad. Ellas también ofrecen una experiencia de negociación más rápida y eficiente, porque no hay necesidad de intermediarios.
+

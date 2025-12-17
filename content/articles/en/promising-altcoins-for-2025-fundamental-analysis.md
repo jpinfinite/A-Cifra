@@ -392,3 +392,4 @@ Injective é uma exchange descentralizada focada em derivativos, com velocidade 
 | Altcoin | Market Cap | Preço | Potencial 2025 | Risco | Categoria |
 |---------|------------|-------|----------------|-------|-----------|
 | Ethereum (ETH) | $230B | $
+

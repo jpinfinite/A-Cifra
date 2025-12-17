@@ -116,3 +116,4 @@ En 2030, podemos esperar ver una economía digital global, con el Ethereum como 
 **Disclaimer**
 
 Recuerde que el inversión en criptomonedas y blockchain es arriesgada y puede resultar en pérdidas significativas. Es importante hacer su propia investigación y considerar cuidadosamente los riesgos antes de invertir.
+

@@ -181,3 +181,4 @@ A: As principais vantagens de usar uma carteira multisig para empresas e DAOs in
 ### Q: Quais são as principais desvantagens de usar uma carteira multisig?
 
 A: As principais desvantagens de usar uma carteira multisig incluem a necessidade de múltiplas autenticações e aprovações para executar transações, o que pode ser lento e burocrático, e a possibilidade de erros humanos ou ataques cibernéticos que possam resultar na perda de fundos.
+

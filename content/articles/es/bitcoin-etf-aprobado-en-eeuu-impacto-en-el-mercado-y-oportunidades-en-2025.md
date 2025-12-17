@@ -340,3 +340,4 @@ A aprovação dos ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-instituci
 
 **Em desenvolvimento:**
 - ETFs de [ethereum](/artigo/staking-ethereum-g
+

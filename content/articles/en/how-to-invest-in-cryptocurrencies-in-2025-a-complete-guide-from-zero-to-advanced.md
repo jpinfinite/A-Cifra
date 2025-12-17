@@ -350,3 +350,4 @@ A cada 3-6 meses:
 - Pressão para investir rápido
 - Site sem HTTPS ou domínio suspeito
 - Ninguém
+

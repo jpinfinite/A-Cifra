@@ -79,3 +79,4 @@ Yes, the Lightning Network is considered safe for daily transactions. It uses pa
 
 ### 3. Is Bitcoin DeFi the same as Ethereum?
 The concept is the same (banking without banks), but the technology is different. Ethereum was natively built for this, while Bitcoin is adapting this functionality through layers.
+

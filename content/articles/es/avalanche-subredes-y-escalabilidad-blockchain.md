@@ -262,3 +262,4 @@ Para investidores, AVAX oferece exposição a uma plataforma que está atraindo 
 ## Comece a Investir em Criptomoedas
 
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas: <xchangeAffiliateLinks />
+

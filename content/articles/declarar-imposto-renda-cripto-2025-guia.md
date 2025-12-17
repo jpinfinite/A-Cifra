@@ -518,3 +518,4 @@ Declarar corretamente não é apenas obrigação legal, é proteção para você
 
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** Janeiro de 2026 (após publicação de novas regras)
+

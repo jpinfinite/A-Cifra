@@ -185,3 +185,4 @@ O impacto de preço é o efeito que as operações de negociação têm no preç
 ### 5. Como posso evitar o impacto de preço?
 
 Para evitar o impacto de preço, é importante realizar operações de negociação com liquidez suficiente, utilizar estratégias de negociação que minimizem a exposição ao mercado e monitorar o mercado em tempo real. Além disso, é importante utilizar ferramentas de análise de mercado para tomar decisões informadas e ajustar as estratégias de negociação conforme necessário.
+

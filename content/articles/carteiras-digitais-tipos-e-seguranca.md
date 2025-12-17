@@ -289,3 +289,4 @@ Os riscos associados às carteiras digitais incluem a perda de criptomoedas devi
 ### 5. Como proteger minhas criptomoedas em uma carteira digital?
 
 Para proteger suas criptomoedas em uma carteira digital, é importante usar uma senha forte, habilitar a autenticação de dois fatores e manter o software da carteira atualizado. Além disso, é fundamental ter em mente que as carteiras digitais podem ser vulneráveis a ataques cibernéticos, então é importante tomar medidas de segurança adicionais.
+

@@ -168,3 +168,4 @@ Independente do cenário de curto prazo, a tese de longo prazo do Bitcoin como "
 
 ---
 **Disclaimer:** *As informações contidas neste artigo têm caráter meramente informativo e educacional. Não constituem aconselhamento financeiro, recomendação de investimento ou oferta de compra ou venda de quaisquer ativos. O mercado de criptomoedas é altamente volátil e arriscado. Faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de tomar decisões.*
+

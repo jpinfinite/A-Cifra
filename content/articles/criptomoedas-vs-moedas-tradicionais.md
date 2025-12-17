@@ -205,3 +205,4 @@ As criptomoedas e as moedas tradicionais têm características e benefícios ún
 ### **5. Posso usar criptomoedas para realizar pagamentos em lojas físicas?**
 
 Sim, é possível usar criptomoedas para realizar pagamentos em lojas físicas. Muitas lojas físicas estão começando a aceitar pagamentos em criptomoedas, especialmente aquelas que têm uma presença online. Além disso, existem várias opções de cartões de criptomoedas que permitem que você use suas criptomoedas para realizar pagamentos em lojas físicas.
+

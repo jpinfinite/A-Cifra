@@ -143,3 +143,4 @@ El Drex facilitará negocios, la regla trará grandes inversores institucionales
 **Última actualización:** 05 de diciembre de 2025
 
 *Disclaimer: Las leyes tributarias cambian frecuentemente. Consulte siempre un contador o abogado tributarista actualizado.*
+

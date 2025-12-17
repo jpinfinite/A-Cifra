@@ -118,3 +118,4 @@ Sim, o cartão é projetado para ser seguro, com tecnologia de criptografia avan
 **Disclaimer**
 
 O uso do Web3 Banking Cartão Cripto envolve riscos, incluindo perda de valor das criptomoedas, fraude e outros riscos associados à tecnologia blockchain. É importante que os usuários entendam esses riscos antes de usar o cartão. Além disso, é importante lembrar que o valor das criptomoedas pode variar rapidamente e pode haver perda de valor. É recomendável que os usuários façam suas próprias pesquisas e consultem um profissional antes de usar o cartão.
+

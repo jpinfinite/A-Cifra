@@ -312,3 +312,4 @@ Neste [guia](/artigo/defi-guia-completo-iniciantes-2025 "DeFi: Guia Completo par
 4. Você tem agora 0,707 ETH + 4.242 USDC = $8.484
 5. Se tivesse apenas segurado: 1 ETH ($6.000) + 3.000 USDC = $9.000
 6. **Perda:**
+

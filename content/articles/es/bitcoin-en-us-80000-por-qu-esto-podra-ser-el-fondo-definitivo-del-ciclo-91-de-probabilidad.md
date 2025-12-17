@@ -130,3 +130,4 @@ A análise técnica, dados onchain e padrões históricos convergem para um cen�
 - ✅ Liquidez macroeconômica melhorando
 - ✅ Absorção rápida de vendedores forçados
 - ✅ Fundamentos de longo prazo intactos
+

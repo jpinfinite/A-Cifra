@@ -106,3 +106,4 @@ Em 2030, as stablecoins de nova geração terão mudado a forma como as pessoas 
 As stablecoins de nova geração serão capazes de lidar com flutuações de mercado e eventos de stress, mantendo sua estabilidade e valor. Elas serão também mais transparentes e mais eficientes, permitindo que os usuários realizem transações de forma rápida e segura.
 
 Em 2030, as stablecoins de nova geração serão uma parte integral da infraestrutura financeira global, permitindo que as pessoas e as empresas realizem transações de forma segura e eficiente. Elas serão
+

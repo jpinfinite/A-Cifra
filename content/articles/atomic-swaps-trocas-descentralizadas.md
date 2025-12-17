@@ -191,3 +191,4 @@ Os Atomic Swaps enfrentam desafios técnicos e regulatórios, incluindo a necess
 ### 5. Quais são as perspectivas para os Atomic Swaps no futuro?
 
 As perspectivas para os Atomic Swaps são positivas, com a tecnologia tendo o potencial de revolucionar o setor de criptomoedas. Além disso, a implementação de Atomic Swaps pode ajudar a aumentar a interoperabilidade e a flexibilidade no mercado de criptomoedas, tornando-o mais acessível e atrativo para um público mais amplo.
+

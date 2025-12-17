@@ -190,3 +190,4 @@ Você pode comprar FIL em várias exchanges de criptomoedas e armazená-lo em um
 ### **5. Qual é o futuro do Filecoin?**
 
 O futuro do Filecoin é promissor, pois a plataforma está em constante evolução e melhoria. Além disso, a comunidade de desenvolvedores e usuários está crescendo rapidamente, o que pode levar a novas aplicações e soluções baseadas no Filecoin.
+

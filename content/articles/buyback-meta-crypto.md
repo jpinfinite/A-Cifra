@@ -171,3 +171,4 @@ A: Os riscos de investir em projetos deflacionários incluem a possibilidade de 
 ## Disclaimer sobre Riscos
 
 Investir em criptomoedas é um investimento de alto risco e pode resultar em perda de valor total. É importante fazer sua própria pesquisa e considerar seus próprios riscos antes de investir em qualquer projeto. Não é recomendado investir mais do que você pode perder e é importante ter uma compreensão clara das tendências e dos riscos do mercado antes de tomar qualquer decisão de investimento.
+

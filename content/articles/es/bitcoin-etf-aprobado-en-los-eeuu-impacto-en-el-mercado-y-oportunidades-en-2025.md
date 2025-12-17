@@ -403,3 +403,4 @@ Disclaimer: Este artigo é apenas educacional. Não é recomendação de investi
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

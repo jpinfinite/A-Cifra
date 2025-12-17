@@ -160,3 +160,4 @@ Investir em agentes de IA na blockchain pode ser uma opção arriscada e complex
 **Disclaimer sobre Riscos**
 
 A automação descentralizada é um campo em desenvolvimento e apresenta riscos e desafios significativos. Investidores devem ser cautelosos e realizar suas próprias pesquisas antes de investir em qualquer projeto ou tecnologia relacionada. A integração de agentes de IA na blockchain pode ser afetada por mudanças no mercado ou na economia, e pode ser afetada por erros ou falhas nos algoritmos de IA. Além disso, a automação descentralizada pode ser mais vulnerável a ataques cibernéticos e a perda de controle sobre a rede.
+

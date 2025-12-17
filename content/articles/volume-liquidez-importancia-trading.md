@@ -186,3 +186,4 @@ A: O volume e a liquidez podem ser medidos usando vários indicadores e ferramen
 * O gráfico de liquidez
 
 Esses indicadores e ferramentas podem ser usados para avaliar a demanda e a oferta de uma criptomoeda e ajustar as estratégias de negociação de acordo com as condições do mercado.
+

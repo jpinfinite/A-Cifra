@@ -194,3 +194,4 @@ A carteira de tokens RWA da Liqi, como qualquer outro investimento em criptomoed
 ### **5. Como posso investir na carteira de tokens RWA da Liqi?**
 
 Para investir na carteira de tokens RWA da Liqi, você precisará criar uma conta na plataforma da Liqi e seguir os passos para investir em tokens RWA. É importante lembrar que a carteira de tokens RWA da Liqi é oferecida apenas para investidores que atendem aos critérios de elegibilidade da Liqi.
+

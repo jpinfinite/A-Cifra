@@ -98,3 +98,4 @@ Ambos focam em interoperabilidade. DOT oferece segurança compartilhada (paracha
 Depende do perfil. DOT é mais seguro (ativo base). Parachains têm maior potencial de valorização mas mais risco. Estratégia balanceada: 60-70% DOT, 30-40% parachains promissoras (GLMR, ACA, ASTR).
 
 Este artigo é apenas informativo e não constitui recomendação de investimento. Criptomoedas são ativos de alto risco. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir.
+

@@ -197,3 +197,4 @@ Os riscos associados ao Crédito On-Chain incluem a possibilidade de inadimplên
 ### 3. Como posso investir em Crédito On-Chain?
 
 Você pode investir em Crédito On-Chain através de plataformas de empréstimos DeFi que oferecem serviços de investimento em empréstimos sem colateral. É importante fazer sua pesquisa e entender os riscos associados antes de investir.
+

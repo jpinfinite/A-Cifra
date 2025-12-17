@@ -125,3 +125,4 @@ Disclaimer
 Riscos Associados ao Investimento em Criptomoedas
 
 O investimento em criptomoedas é altamente especulativo e pode envolver riscos significativos, incluindo perda de valor, volatilidade e incerteza. É importante que os investidores façam suas próprias pesquisas e considerem cuidadosamente os riscos antes de investir em qualquer ativo. A Cifra não é responsável por qualquer perda ou dano resultante de investimentos baseados em nossas publicações.
+

@@ -181,3 +181,4 @@ A parceria entre a Tether e a empresa italiana pode ter implicações significat
 ### 5. Quais são os riscos associados à parceria?
 
 Os riscos associados à parceria incluem a possibilidade de falha na implementação da tecnologia, a perda de confiança dos investidores e a competição com outras empresas que também estão investindo em tecnologia avançada.
+

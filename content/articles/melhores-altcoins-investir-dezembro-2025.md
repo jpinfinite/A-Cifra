@@ -554,3 +554,4 @@ A altseason está se aproximando. Posicione-se agora, mas sempre com gestão de 
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
 
+

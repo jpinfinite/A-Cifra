@@ -274,3 +274,4 @@ Custo Médio = (Valor Total Investido) / (Quantidade Total)
 **Ficha:** Bens e Direitos
 
 **Código:**
+

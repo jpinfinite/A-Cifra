@@ -322,3 +322,4 @@ Conclusão: Passo na Direção Certa
 - Ethereum está evoluindo gradualmente, priorizando descentralização e segurança sobre velocidade pura.
 - Para investidores e usuários, isso é uma boa notícia.
 - Próximo grande marco: Fusaka em Q2 2026, que deve trazer melhorias ainda mais
+

@@ -259,3 +259,4 @@ Se você seguir essas diretrizes, pode realisticamente atingir 10-15% ao ano com
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: [defi](/artigo/defi-yield-farming-protocolos-seguros-2026) envolve riscos técnicos e de mercado. Este artigo é educacional. Faça sua própria pesquisa e nunca invista mais do que pode perder.*
+

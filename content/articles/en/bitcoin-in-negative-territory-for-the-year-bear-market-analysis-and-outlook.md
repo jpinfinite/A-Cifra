@@ -351,3 +351,4 @@ The answer depends on your time horizon:
 - 🎯 Important support levels at $75K-80K
 - ⏰ Recovery may take 3-12 months
 - ✅ Opportunity for accumulation for long-term investors
+

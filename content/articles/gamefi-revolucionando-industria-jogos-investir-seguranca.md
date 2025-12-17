@@ -480,3 +480,4 @@ Para comprar as [criptomoedas](/artigo/como-proteger-criptomoedas-guia-completo-
 <ExchangeAffiliateLinks />
 
 ---
+

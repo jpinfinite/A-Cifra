@@ -172,3 +172,4 @@ Curto Prazo (2026): BUIDL atinge $10 bilhões AUM.
 Médio Prazo (2027-2028): RWA ultrapassa $500 bilhões.
 
 Longo Prazo (2030+): $10-
+

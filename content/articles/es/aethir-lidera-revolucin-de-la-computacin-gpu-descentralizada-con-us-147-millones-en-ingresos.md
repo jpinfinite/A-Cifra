@@ -345,3 +345,4 @@ DePIN (Decentralized Physical Infrastructure Network) é um modelo que utiliza b
 
 4. Qual a vantagem da Aethir sobre AWS ou Google Cloud?
 A Aethir oferece custos 40-60% menores, escalabilidade instantânea, resistência
+

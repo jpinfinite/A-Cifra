@@ -227,3 +227,4 @@ Para saber se um airdrop é legítimo, você precisa investigar a plataforma ou 
 ### 5. Quais são as melhores práticas para investir em airdrops?
 
 As melhores práticas para investir em airdrops incluem fazer sua própria pesquisa, avaliar os riscos e não investir mais do que você pode perder. Além disso, é importante ter uma estratégia de investimento clara e não se deixar levar pela emoção ou pela pressão de outros investidores.
+

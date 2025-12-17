@@ -377,3 +377,4 @@ O ETF de Zcash da Grayscale é um **marco histórico** para privacy coins, mas v
 
 **Quer mais sobre privacy coins?** Confira nossos artigos sobre [segurança cripto](/categoria/seguranca) e [regulação](/categoria/regulacao).
 
+

@@ -102,3 +102,4 @@ Custos: Máquina: $3.000-$8.000 (Antminer S21), Energia: $200-$400/mês, Barulho
 Lucro: $50-$150/mês (se energia for barata)
 
 Conclusão: Só vale a pena se você tem energia muito barata (<0,05/kWh) ou quer minerar por hobby.
+

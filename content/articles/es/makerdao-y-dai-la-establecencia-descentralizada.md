@@ -96,3 +96,4 @@ DAI es la stablecoin más descentralizada y fundamental para [defi](/artigo/defi
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

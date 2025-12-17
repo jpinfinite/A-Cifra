@@ -567,3 +567,4 @@ Não necessariamente. Você pode [investir](/artigo/como-investir-criptomoedas-2
 ### Qual a melhor estratégia para iniciantes?
 
 A melhor estratégia é: 1) Comece pequeno (R$ 100-500), 2) Compre BTC e ETH, 3) Use DCA mensal, 4) Não venda no pânico, 5) Pense em 3-5 anos mínimo, 6) Continue estudando. Simples, mas eficaz.
+

@@ -101,3 +101,4 @@ Es una propuesta legislativa histórica en EE.UU. ("Financial Innovation and Tec
 
 ### 5. ¿La regulación va a acabar con DeFi?
 No va a acabar, pero va a bifurcar el sector. Probablemente tendremos un "DeFi Institucional" (con KYC y Whitelists) totalmente regulado, y un "DeFi Dark/Puro" que continuará operando en las sombras, fuera del alcance regulatorio, accesible solo a los más técnicos y dispuestos a correr riesgos legales.
+

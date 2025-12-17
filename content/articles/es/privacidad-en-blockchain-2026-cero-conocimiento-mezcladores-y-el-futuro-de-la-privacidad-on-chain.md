@@ -490,3 +490,4 @@ Serviços que misturam transações de múltiplos usuários.
 - Não misture
 
 **3. Evite Exchanges Centralizadas:
+

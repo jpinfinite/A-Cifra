@@ -130,3 +130,4 @@ metaDescription: >-
 ### 3. Liquidações em Massa
 
 **Últimas 24 horas:
+

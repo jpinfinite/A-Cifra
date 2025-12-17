@@ -114,3 +114,4 @@ Blockchain is the technology behind cryptocurrencies, but they are not the same 
 Investing in cryptocurrencies can be risky, but there are some tips to invest safely. It is essential to do your own research, understand the risks involved, and not invest more than you can afford to lose. Additionally, it is essential to choose a reputable and secure cryptocurrency exchange.
 
 Note: The translation is provided as is, without any modifications or additions.
+

@@ -427,3 +427,4 @@ Consenso de que Ordinals vieram para ficar. Mercado se adapta.
 
 **2. UX Complexa:**
 - Cart
+

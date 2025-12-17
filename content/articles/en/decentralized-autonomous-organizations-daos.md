@@ -396,3 +396,4 @@ For participants, DAOs offer opportunities to contribute to global projects, ear
 For founders, DAOs allow for the creation of truly decentralized and community-aligned organizations.
 
 The future of work, organizations, and human coordination may be being built through DAOs. Participate, experiment, and help shape this new form of organization.
+

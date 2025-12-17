@@ -140,3 +140,4 @@ Crear NFTs es simple, pero vender requiere marketing y comunidad. Comienza en Po
 Para [comprar](/artigo/como-comprar-primeira-criptomoeda "Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo") las criptomonedas mencionadas en este artículo, usa una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

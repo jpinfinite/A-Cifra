@@ -448,3 +448,4 @@ Comece a Investir em Criptomoedas
 Para comprar as [criptomoedas](/artigo/como-funciona-mineracao-criptomoedas "Como Funciona a Mineração de Criptomoedas?") mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

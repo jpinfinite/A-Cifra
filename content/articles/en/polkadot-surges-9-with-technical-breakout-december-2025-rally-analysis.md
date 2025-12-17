@@ -333,3 +333,4 @@ Alocação: 5-15% do portfólio cripto
 Perfil: Investidor disciplinado
 
 Estratég
+

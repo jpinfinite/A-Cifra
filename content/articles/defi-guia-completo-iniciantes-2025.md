@@ -578,3 +578,4 @@ O futuro das finanças é descentralizado. Posicione-se agora, mas com inteligê
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
 
+

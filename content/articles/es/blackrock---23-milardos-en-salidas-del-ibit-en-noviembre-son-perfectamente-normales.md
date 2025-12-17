@@ -322,3 +322,4 @@ IBIT tem volume diário de $1-2B. Fácil comprar/vender.
 **Onde comprar:** Qualquer corretora dos EUA (Fidelity, Schwab, etc.)
 
 ### Opção 2: Comprar [bitcoin](/artigo/bitcoin-200k-2026
+

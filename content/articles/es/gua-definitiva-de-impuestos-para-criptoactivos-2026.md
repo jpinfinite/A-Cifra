@@ -155,3 +155,4 @@ Además, la criptoeconomía habrá sido expandida a otros sectores, como la salu
 **Disclaimer**
 
 La presente publicación es solo una orientación general y no debe ser considerada como un consejo individualizado. La criptoeconomía es un mercado de alto riesgo y puede resultar en pérdidas significativas. Es importante que usted haga sus propias investigaciones y consulte a un profesional antes de invertir en criptoativos.
+

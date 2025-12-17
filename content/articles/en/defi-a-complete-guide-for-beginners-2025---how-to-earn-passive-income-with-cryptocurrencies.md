@@ -304,3 +304,4 @@ This comprehensive guide will teach you everything about [DeFi](/artigo/defi-com
 
 1. Deposit ETH in Aave
 2. Take
+

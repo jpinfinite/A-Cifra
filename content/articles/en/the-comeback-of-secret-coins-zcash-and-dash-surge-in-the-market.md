@@ -153,3 +153,4 @@ Key Points
 - Dash offers CoinJoin, InstantSend, and ChainLocks
 - Regulatory pressure limits availability on exchanges
 - Zcash's next halving could further boost the price
+

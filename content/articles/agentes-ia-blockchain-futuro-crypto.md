@@ -97,3 +97,4 @@ Os setores beneficiados:
 
 A fusão de IA e Blockchain é uma necessidade técnica. A IA precisa de uma camada financeira nativa da internet. A Blockchain precisa da IA para melhorar a eficiência.
 Estamos nos movendo para um mundo onde transações econômicas serão feitas por agentes de software. A infraestrutura para isso está sendo construída hoje.
+

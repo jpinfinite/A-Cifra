@@ -145,3 +145,4 @@ A blockchain é mais do que uma tecnologia inovadora, é um novo paradigma para 
 **Disclaimer**
 
 A análise on-chain envolve riscos, incluindo perda de capital, e não é adequada para todos os investidores. É importante realizar suas próprias pesquisas e consultar um profissional antes de tomar qualquer decisão de investimento. A Cifra não é responsável por qualquer perda ou dano causado por informações ou conselhos fornecidos em nosso conteúdo.
+

@@ -101,3 +101,4 @@ Depende. Altcoins que são descentralizadas o suficiente (como Ethereum, presumi
 
 ### 5. A regulação vai acabar com o DeFi?
 Não vai acabar, mas vai bifurcar o setor. Provavelmente teremos um "DeFi Institucional" (com KYC e Whitelists) totalmente regulado, e um "DeFi Dark/Puro" que continuará operando nas sombras, fora do alcance regulatório, acessível apenas aos mais técnicos e dispostos a correr riscos legais.
+

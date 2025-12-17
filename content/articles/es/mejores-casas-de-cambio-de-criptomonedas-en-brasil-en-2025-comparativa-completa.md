@@ -255,3 +255,4 @@ Avaliamos cada [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxa
 - **Trading:** 0,1% (maker) / 0,1% (taker)
 - **Depósito:** Grátis
 - **Saque:** Var
+

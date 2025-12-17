@@ -391,3 +391,4 @@ Injective é uma exchange descentralizada focada em derivativos, com velocidade 
 ## Tabela Comparativa
 
 | Altcoin | Market Cap | Preço | Potencial 202
+

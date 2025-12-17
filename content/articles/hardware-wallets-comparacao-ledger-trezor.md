@@ -196,3 +196,4 @@ A: Sim, é possível usar a Ledger e a Trezor ao mesmo tempo. Ambas as opções 
 ### Q: Como posso escolher a melhor opção entre Ledger e Trezor?
 
 A: A escolha entre Ledger e Trezor depende das suas necessidades específicas e preferências. É importante considerar a compatibilidade com diferentes tipos de criptomoedas, a interface de usuário e a segurança oferecida por cada opção. Além disso, é importante ler as avaliações e comentários de outros usuários para obter uma ideia melhor da experiência de uso de cada opção.
+

@@ -151,3 +151,4 @@ Se demanda continuar crescendo (ETFs, empresas, países) enquanto oferta cai pel
 **Projeção da ARK:**
 
 Se apenas **1% das empresas do S&P 500** alocarem **5% de caixa** em [bitcoin](/artigo
+

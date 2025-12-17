@@ -150,3 +150,4 @@ Se o servidor da [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-ta
 ### Melhores Carteiras Quentes de 2025
 
 #### 1. MetaMask (Melhor para [ethereum](/artigo/staking-ethereum
+

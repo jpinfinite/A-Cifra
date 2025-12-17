@@ -118,3 +118,4 @@ A: The main benefits of DEXs are security, privacy, and flexibility. They offer 
 Disclaimer
 
 Remember that the cryptocurrency market is highly volatile and prone to risks. DEXs and CEXs may have risks associated with them, such as the loss of funds or price manipulation. It's essential to do your own research and make informed decisions before investing in any cryptocurrency.
+

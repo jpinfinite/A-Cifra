@@ -84,3 +84,4 @@ Zero-Knowledge Proofs são para a blockchain o que o HTTPS foi para a internet.
 Antes do HTTPS, o comércio eletrônico era inseguro.
 Com ZKPs, a blockchain ganha a camada de privacidade e eficiência necessária para que o sistema financeiro mundial migre para on-chain de verdade.
 Em 2030, a mágica matemática será o padrão invisível da confiança digital.
+

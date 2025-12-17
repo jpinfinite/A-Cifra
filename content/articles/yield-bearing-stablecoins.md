@@ -195,3 +195,4 @@ A: Para investir em stablecoins que pagam juros, é necessário realizar uma an�
 **Disclaimer sobre Riscos**
 
 O investimento em stablecoins que pagam juros envolve riscos, incluindo a volatilidade dos mercados de criptomoedas, a falta de regulamentação e a concorrência entre os diferentes ativos. Além disso, a possibilidade de fraude ou manipulação de preços também é um risco significativo. É fundamental realizar uma análise cuidadosa dos riscos e oportunidades envolvidos antes de investir em qualquer ativo. A participação em diferentes ativos pode ajudar a minimizar os riscos e maximizar as oportunidades.
+

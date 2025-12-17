@@ -414,3 +414,4 @@ A mineração de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) est
 ---
 
 **Quer mais sobre mineração?** Confira nossos artigos sobre [Bitcoin](/categoria/bitcoin) e [tecnologia blockchain](/categoria/educacao).
+

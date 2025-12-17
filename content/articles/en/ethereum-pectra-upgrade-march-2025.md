@@ -104,3 +104,4 @@ The Pectra upgrade represents a **decisive moment** for Ethereum. It's not just 
 ---
 
 **⚠️ Legal Disclaimer:** This article is for educational and informational purposes only. It does not constitute financial, investment, or legal advice. Cryptocurrencies are high-risk assets. Always do your own research (DYOR) and consult qualified professionals before investing.
+

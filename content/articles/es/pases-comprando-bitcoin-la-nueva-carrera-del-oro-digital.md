@@ -128,3 +128,4 @@ A: Las mejores opciones para invertir en criptomonedas varían dependiendo de su
 **Disclaimer**
 
 La corrida del oro digital es un mercado volátil y arriscado. Es importante recordar que invertir en criptomonedas puede resultar en pérdidas significativas. Antes de invertir, es importante hacer su propia investigación y considerar cuidadosamente los riesgos. La Cifra no es responsable por cualquier pérdida o daño resultante de inversiones en criptomonedas.
+

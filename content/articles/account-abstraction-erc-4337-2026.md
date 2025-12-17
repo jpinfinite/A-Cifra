@@ -646,3 +646,4 @@ Aprofunde seus conhecimentos sobre o ecossistema [ethereum](/artigo/staking-ethe
 **Última atualização:** 23 de novembro de 2025
 
 **Disclaimer:** Este artigo é apenas informativo e não constitui recomendação de investimento. Account Abstraction é uma tecnologia emergente. Sempre faça sua própria pesquisa (DYOR) e use carteiras auditadas de desenvolvedores confiáveis.
+

@@ -104,3 +104,4 @@ A blockchain é a tecnologia que permite a criação e a manutenção de registr
 2. É seguro investir em criptomoedas?
 
 O investimento em criptomoedas é sujeito a riscos e incertezas. É importante lembrar que as criptomoedas são sujeitas a flutuações de preço e podem perder valor rapidamente. Além disso, a falta de regulamentação e a segurança da tecnologia blockchain podem aumentar os riscos de investimento. É importante fazer uma pesquisa cuidadosa e considerar os riscos antes de investir em criptomoedas.
+

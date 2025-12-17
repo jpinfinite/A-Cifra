@@ -194,3 +194,4 @@ As empresas de criptomoedas podem se preparar para as mudanças regulatórias de
 * Estabelecer processos de auditoria e avaliação de segurança;
 * Informar os usuários sobre as mudanças regulatórias e como elas afetam os serviços;
 * Manter-se atualizado sobre as mudanças regulatórias e adaptar os processos e políticas conforme necessário.
+

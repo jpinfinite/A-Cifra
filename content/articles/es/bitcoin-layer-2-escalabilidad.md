@@ -79,3 +79,4 @@ Sí, la Lightning Network se considera segura para transacciones del día a día
 
 ### 3. ¿DeFi en Bitcoin es igual a Ethereum?
 El concepto es el mismo (finanzas sin bancos), pero la tecnología es diferente. Ethereum fue hecho para esto nativamente, mientras que Bitcoin está adaptando esta funcionalidad a través de capas.
+

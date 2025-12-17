@@ -184,3 +184,4 @@ A: Os principais riscos envolvidos em investir em stablecoins que pagam juros in
 ### Q: Quais são as principais vantagens de investir em stablecoins que pagam juros?
 
 A: As principais vantagens de investir em stablecoins que pagam juros incluem a possibilidade de gerar renda passiva, a diversificação da carteira e a est
+

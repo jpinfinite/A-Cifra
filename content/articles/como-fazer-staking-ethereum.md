@@ -215,3 +215,4 @@ Para configurar o staking de Ethereum, você precisa conectar sua carteira ao po
 ### **5. Como monitorar e gerenciar o staking de Ethereum?**
 
 Para monitorar e gerenciar o staking de Ethereum, você precisa verificar o balanço de ETH, a taxa de comissão e as recompensas. Além disso, é importante verificar se o pool de staking está funcionando corretamente e se há algum problema com a rede Ethereum.
+

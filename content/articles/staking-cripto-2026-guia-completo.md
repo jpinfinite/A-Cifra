@@ -578,3 +578,4 @@ Para iniciantes: [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) (E
 ---
 
 *Aviso: [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) envolve riscos. Este artigo é apenas educacional. Faça sua própria pesquisa.*
+

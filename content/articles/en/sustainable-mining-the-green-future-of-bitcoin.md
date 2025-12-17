@@ -113,3 +113,4 @@ In 2030, Bitcoin will be more than just a digital currency; it will be a symbol 
 **Disclaimer**
 
 Bitcoin mining involves risks, including market risks, credit risks, and liquidity risks. Additionally, Bitcoin mining may be subject to regulations and laws that can affect the industry. It is essential to conduct thorough research and consult a professional before investing in Bitcoin mining or any other related activity.
+

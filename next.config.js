@@ -38,8 +38,17 @@ const nextConfig = {
     ],
   },
 
+  // Compiler optimizations
+  swcMinify: true,
+  productionBrowserSourceMaps: false,
+
+  compiler: {
+    removeConsole: process.env.NODE_ENV === 'production',
+  },
+
   experimental: {
     optimizePackageImports: ['lucide-react', 'react-markdown'],
+    optimizeCss: true,
   },
 
   // Headers para cache e performance

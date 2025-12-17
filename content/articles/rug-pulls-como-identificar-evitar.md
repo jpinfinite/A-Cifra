@@ -173,3 +173,4 @@ A: Para evitar um rug pull em DeFi, é importante fazer sua própria pesquisa e 
 ### Q: O que devo fazer se eu sou vítima de um rug pull em DeFi?
 
 A: Se você é vítima de um rug pull em DeFi, é importante agir rapidamente para proteger seus investimentos. Primeiramente, é importante notificar as autoridades e as agências de regulamentação relevantes. Além disso, é importante procurar aconselhamento de um advogado especializado em direito digital ou em segurança cibernética. É também importante não tentar recuperar seus investimentos sozinho, pois isso pode piorar a situação. Em vez disso, é importante deixar que as autoridades e os especialistas lidem com a situação.
+

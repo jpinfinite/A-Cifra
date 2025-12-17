@@ -66,3 +66,4 @@ La Inteligencia Artificial exige estabilidad las 24 horas del día y latencia ba
 
 ### 3. ¿Cómo puedo invertir en minería sostenible?
 Puedes invertir en acciones de empresas de minería listadas en bolsa que tienen compromisos ESG fuertes (como Marathon o Riot) o participar en pools de minería que auditan sus fuentes de energía.
+

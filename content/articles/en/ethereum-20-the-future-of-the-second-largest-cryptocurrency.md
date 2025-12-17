@@ -365,3 +365,4 @@ Enquanto o sharding não chega, [Layer](/artigo/what-are-layer-2-and-why-are-the
 **Implementações:**
 - Proposer-Builder Separation
 - Distributed Validator
+

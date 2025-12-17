@@ -75,3 +75,4 @@ La actualización Pectra representa un **momento decisivo** para Ethereum. No es
 ---
 
 **⚠️ Aviso Legal:** Este artículo es solo para fines educativos e informativos. No constituye asesoramiento financiero, de inversión o jurídico.
+

@@ -451,3 +451,4 @@ Para um portfólio cripto balanceado: 40-50% [bitcoin](/artigo/bitcoin-200k-2026
 ### Solana pode falhar novamente como em 2022?
 
 O risco existe, mas é menor. A rede está mais madura, o ecossistema é mais diversificado e não há dependência de um único player (como era com FTX). O upgrade Firedancer reduzirá ainda mais os riscos técnicos.
+

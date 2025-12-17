@@ -242,3 +242,4 @@ Os principais riscos de investir em memecoins incluem a volatilidade do mercado,
 ### 5. Posso investir em memecoins se eu sou um investidor iniciante?
 
 Sim, é possível investir em memecoins se você é um investidor iniciante. No entanto, é importante fazer sua própria pesquisa e análise antes de investir e considerar os riscos envolvidos. Além disso, é importante diversificar sua carteira e não colocar todos os seus ovos em uma cesta.
+

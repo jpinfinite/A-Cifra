@@ -60,3 +60,4 @@ Es importante recordar que el mercado cripto es conocido por su volatilidad y in
 **Conclusión**
 
 En resumen, la salida de 400 mil Bitcoins de las corretoras puede ser un signo de que los inversores están transfiriendo sus monedas a carteras de almacenamiento individuales o que ven el mercado cripto como una oportunidad de inversión a largo plazo. Sin embargo, es importante recordar que el mercado cripto es volátil y que los inversores deben hacer sus propias investigaciones y tomar decisiones informadas antes de invertir en cualquier activo.
+

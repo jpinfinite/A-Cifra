@@ -127,3 +127,4 @@ Plano de Emergencia
 Conclusión
 
 La seguridad en criptomoedas requiere vigilancia constante y múltiples capas de protección. Invertir en seguridad adecuada es tan importante como elegir buenos inversiones. Recuerde: en el mundo cripto, usted es su propio banco.
+

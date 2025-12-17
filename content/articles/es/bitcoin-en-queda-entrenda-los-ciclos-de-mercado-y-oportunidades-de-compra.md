@@ -154,3 +154,4 @@ Respira hondo, desliga el gráfico de 15 minutos, dé un zoom out para el gráfi
 **Última actualización:** 05 de diciembre de 2025
 
 *Disclaimer: Rentabilidad pasada no es garantía de futuro. Este artículo no es recomendación de compra.*
+

@@ -115,3 +115,4 @@ Market [analysis](/artigo/on-chain-analysis-key-metrics-for-investors "On-Chain 
 To buy the [cryptocurrencies](/artigo/how-to-analyze-cryptocurrencies-a-comprehensive-guide-for-investors "How to Analyze Cryptocurrencies: A Comprehensive Guide for Investors") mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

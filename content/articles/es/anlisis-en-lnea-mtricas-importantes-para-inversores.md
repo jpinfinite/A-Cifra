@@ -100,3 +100,4 @@ A análise on-chain pode ajudar os investidores a reduzir o risco de perda de in
 A análise on-chain pode ajudar os investidores a aumentar o retorno de investimento ao identificar as criptomoedas que estão em ascensão.
 
 Em resumo, a análise on-chain é uma ferramenta poderosa para investidores de criptomoedas, permitindo que eles obtenham insights valiosos sobre o desempenho e a saúde de uma moeda. Ao entender as métricas importantes como volume de transação, taxa de transação, saldo de carteira, taxa de retorno e desvio padrão, os investidores podem tomar decisões informadas e reduzir o risco de perda de investimento.
+

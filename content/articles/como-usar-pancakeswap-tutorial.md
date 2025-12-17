@@ -248,3 +248,4 @@ Sim, o PancakeSwap é uma plataforma global e pode ser acessada de qualquer luga
 ### 5. Qual é a política de devolução do PancakeSwap?
 
 A política de devolução do PancakeSwap é clara e transparente. Se você tiver problemas com uma transação ou precisar de ajuda, basta entrar em contato com o suporte ao cliente do PancakeSwap. Eles trabalharão com você para resolver o problema e garantir que você receba sua devolução.
+

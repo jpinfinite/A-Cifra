@@ -328,3 +328,4 @@ Todos os ativos analisados mostram **correlação positiva forte** com o índice
 - Volume seco em ralis
 - Divergências bearish em múltiplos ativos
 - [bitcoin](/artigo/bitcoin-200k-2026-pre
+

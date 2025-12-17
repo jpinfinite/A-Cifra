@@ -354,3 +354,4 @@ A proposta espanhola de **imposto de 47% sobre cripto** é um exemplo de **regul
 - ❌ Beneficiar apenas países vizinhos
 
 **Lição:** Regulação é necessária, mas precisa ser **equilibrada**. Impostos muito altos são contrap
+

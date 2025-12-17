@@ -233,3 +233,4 @@ A: Os dados de transação e de rede podem ser usados para entender melhor o com
 ### Q: O que é a volatilidade e como ela afeta o preço do Bitcoin?
 
 A: A volatilidade é a amplitude de variação do preço do Bitcoin ao longo do tempo. A volatilidade pode afetar o preço do Bitcoin, pois pode levar a uma alta ou baixa repentina do preço.
+

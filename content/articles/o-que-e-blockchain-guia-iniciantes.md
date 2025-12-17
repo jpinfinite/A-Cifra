@@ -213,3 +213,4 @@ O futuro da blockchain é promissor, com muitas aplicações em diferentes setor
 ### 5. **Como posso começar a usar a blockchain?**
 
 Para começar a usar a blockchain, você pode começar a aprender sobre as diferentes aplicações da tecnologia. Você pode também começar a experimentar com plataformas de blockchain como a Ethereum ou a Bitcoin. Além disso, você pode começar a investir em criptomoedas ou a criar seus próprios smart contracts.
+

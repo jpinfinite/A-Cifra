@@ -75,3 +75,4 @@ Todavía no directamente entre gigantes centralizados. La interoperabilidad est�
 
 ### 2. Si el juego quiebra, ¿pierdo mis ítems?
 Esa es la belleza de la Web3: **No.** El ítem (NFT) continúa en tu billetera en la blockchain. Incluso si el servidor del juego se apaga, el ítem es tuyo. Otro desarrollador podría incluso crear un nuevo juego que acepte esos ítems "huérfanos", reviviendo la comunidad.
+

@@ -341,3 +341,4 @@ Após atingir a máxima histórica de $126.198 em outubro de 2025, o [Bitcoin](/
 ## Contexto Macroeconômico
 
 ### Mercados Trad
+

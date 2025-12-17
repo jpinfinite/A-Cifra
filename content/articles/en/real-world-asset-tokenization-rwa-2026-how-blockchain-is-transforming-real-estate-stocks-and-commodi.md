@@ -363,3 +363,4 @@ Futuro dos RWA: 2026 e Além
 1. Tendências para os Próximos Anos
   - 1. Adoção Institucional Massiva:
     - Bancos tradicionais tokenizando ativos
+

@@ -198,3 +198,4 @@ Os smart contracts têm vários casos de uso reais, incluindo a criação de con
 ### **5. Quais são os riscos associados aos smart contracts?**
 
 Os smart contracts podem ter vários riscos associados, incluindo a possibilidade de erros de programação, a falta de segurança e a possibilidade de ataques cibernéticos. Além disso, os smart contracts também podem ter riscos legais e regulatórios associados, especialmente se forem usados para criar contratos de seguro ou outros tipos de contratos legais.
+

@@ -115,3 +115,4 @@ Análisis de [mercado](/artigo/ciclos-de-mercado-cripto-mercados-buey-y-oso "Cic
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

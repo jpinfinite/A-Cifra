@@ -188,3 +188,4 @@ A: Alguns dos riscos de criar e vender NFTs incluem a volatilidade do mercado de
 ### Q: Quais são as perspectivas para o mercado de NFTs no futuro?
 
 A: O mercado de NFTs está em constante evolução e é difícil prever o que o futuro reserva. No entanto, é provável que o mercado de NFTs continue a crescer e se tornar mais maduro, com mais opções de investimento e mais oportunidades para criadores e compradores. Além disso, é provável que as plataformas de criptomoedas e as tecnologias blockchain sejam cada vez mais integradas ao mercado de NFTs.
+

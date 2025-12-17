@@ -215,3 +215,4 @@ Com BlackRock, JPMorgan e Franklin Templeton liderando, a tokenização de ativo
 ---
 
 **Aviso Legal:** Não é consultoria financeira. RWA envolve riscos. Faça sua própria pesquisa.
+

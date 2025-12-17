@@ -241,3 +241,4 @@ Antes de apresentar as [altcoins](/artigo/melhores-altcoins-investir-dezembro-20
 - **Market Cap:** $3,1 bilhões (#25)
 - **TVL:** $18 bilhões (maior L2)
 - **Trans
+

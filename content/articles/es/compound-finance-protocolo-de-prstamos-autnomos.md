@@ -107,3 +107,4 @@ Compound es sólido y confiable para empréstitos [defi](/artigo/defi-yield-farm
 Para comprar las criptomonedas mencionadas en este artículo, utilice una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

@@ -185,3 +185,4 @@ DeFi ya no es experimento — **es realidad con $124 mil millones probándolo**.
 ---
 
 **Aviso Legal:** DeFi involucra riesgos significativos incluyendo pérdida total de capital. Este artículo es solo educacional. Siempre haz tu propia investigación (DYOR) y consulta a un profesional financiero.
+

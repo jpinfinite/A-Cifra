@@ -175,3 +175,4 @@ A: Sim, é seguro investir no Chainlink, desde que você faça sua pesquisa e en
 ### Q: Como posso obter mais informações sobre o Chainlink?
 
 A: Você pode obter mais informações sobre o Chainlink visitando o site oficial do Chainlink, lendo artigos e blogues especializados e participando de comunidades online de discussão sobre blockchain e criptomoedas.
+

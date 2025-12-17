@@ -264,3 +264,4 @@ Lembre-se: no cripto, não é sobre acertar sempre. É sobre sobreviver às qued
 
 Próximos Passos
 Aprofunde seus conhecimentos sobre investimento em criptomoedas: como investir em criptomoedas, análise de criptomoedas, gestão de risco em criptomoedas.
+

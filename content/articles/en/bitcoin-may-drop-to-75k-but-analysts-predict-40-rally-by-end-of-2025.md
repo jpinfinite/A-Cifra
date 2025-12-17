@@ -217,3 +217,4 @@ The truth? Nobody knows for sure where price will go short-term. But history sho
 - Maintain long-term perspective — Bitcoin is volatile
 - Diversify — never put everything in one asset
 - Do your own research — this article is educational, not financial advice
+

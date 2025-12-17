@@ -138,3 +138,4 @@ En resumen, el futuro del staking líquido en 2030 es prometedor y lleno de opor
 **Disclaimer**
 
 El staking líquido involucra riesgos y puede no ser adecuado para todos los inversores. Es importante realizar una investigación detallada y considerar cuidadosamente las posibles consecuencias antes de participar en el staking líquido. Además, es fundamental elegir una plataforma de staking líquido confiable y transparente.
+

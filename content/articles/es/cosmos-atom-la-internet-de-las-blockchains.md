@@ -286,3 +286,4 @@ Con el IBC, Cosmos SDK y Tendermint, el proyecto ofrece las herramientas necesar
 Para inversores, ATOM ofrece exposición a un ecosistema en crecimiento con [Staking](/artigo/staking-ethereum-guia-renda-passiva-2026) atractivo y potencial de valorización a medida que más cadenas se conectan a través del IBC.
 
 El Cosmos 2.0 promete traer aún más utilidad a ATOM, convirtiendo el Cosmos Hub en el centro de un universo interconectado de blockchains.
+

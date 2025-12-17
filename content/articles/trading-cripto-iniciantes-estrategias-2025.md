@@ -748,3 +748,4 @@ Trading não é caminho rápido para riqueza. É profissão que requer anos de p
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
 
+

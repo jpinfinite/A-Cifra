@@ -76,3 +76,4 @@ A aprovação dos ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-instituci
 
 - **$50 bilhões** em entradas líquidas (jan-nov)
 - Black
+

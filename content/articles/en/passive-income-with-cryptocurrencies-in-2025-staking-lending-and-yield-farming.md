@@ -310,3 +310,4 @@ Neste [guia](/artigo/defi-guia-completo-iniciantes-2025 "DeFi: Guia Completo par
 6. **Perda:** $516 (5,7%)
 
 **
+

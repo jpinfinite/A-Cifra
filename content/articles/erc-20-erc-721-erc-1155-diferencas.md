@@ -290,3 +290,4 @@ NFTs (Non-Fungible Tokens) são tokens não fungíveis que têm características
 ### 5. Como proteger meus tokens contra perda ou roubo?
 
 Para proteger seus tokens contra perda ou roubo, é importante armazená-los em um carteira de criptomoeda segura, como uma carteira de hardware ou uma carteira de software que utilize a tecnologia de segurança de segundo fator. Além disso, é importante manter suas informações de segurança atualizadas e não compartilhá-las com ninguém. É também importante estar ciente das práticas de segurança e das ameaças de segurança que podem afetar seus tokens.
+

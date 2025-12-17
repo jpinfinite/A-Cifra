@@ -641,3 +641,4 @@ Segurança é investimento, não custo. R$500 em [hardware wallet](/artigo/ledge
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
 
+

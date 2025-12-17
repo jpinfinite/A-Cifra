@@ -78,3 +78,4 @@ O bitcoin em 2026 pode ser um ano decisivo para o mercado cripto, com fundamento
 A principal diferença entre o bitcoin e outras criptomoedas é que o bitcoin é a única criptomoeda verdadeiramente descentralizada, com maior segurança, liquidez e adoção. Outras criptos têm casos de uso diferentes. 
 
 O bitcoin é reserva de valor, e as outras são mais especulativas. A recomendação é investir apenas o que se pode perder, usar DCA, pensar em longo prazo, diversificar e educar-se continuamente. A custódia segura é fundamental, especialmente para grandes quantias.
+

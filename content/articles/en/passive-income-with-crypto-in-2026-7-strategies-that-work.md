@@ -293,3 +293,4 @@ This is how I would distribute $10,000 in 2026:
 **Last Update:** December 8, 2025
 
 *Disclaimer: Passive income in crypto involves risks. This article is educational, not a financial recommendation. Invest responsibly.*
+

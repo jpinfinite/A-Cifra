@@ -493,3 +493,4 @@ A regulated stablecoin is a [cryptocurrency](/artigo/brazil-cryptocurrency-regul
 **2. What is the difference between stablecoin and CBDC?**
 
 Stablecoin is issued by private banks and
+

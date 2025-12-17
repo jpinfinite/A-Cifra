@@ -90,3 +90,4 @@ Atualmente, não. A criptografia usada pelo Bitcoin (SHA-256 e Curvas Elípticas
 
 ### 5. Por que IAs precisam de criptomoedas?
 Porque IAs são software, não cidadãos. Elas não podem abrir contas bancárias, passar por verificação facial ou apresentar comprovante de residência. Criptomoedas são dinheiro nativo da internet, permitindo transações permissionless (sem permissão), instantâneas, globais e programáveis, perfeitas para a velocidade e automação de agentes de IA.
+

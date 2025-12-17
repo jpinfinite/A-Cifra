@@ -518,3 +518,4 @@ Para comprar tokens como TAO, FET, OCEAN e RNDR, use uma [exchange](/artigo/melh
 ---
 
 *Aviso: Este artigo é apenas informativo. Investimentos em [cripto](/artigo/regulacin-cripto-global-2026-mica-brasil-eua-y-el-nuevo-escenario-regulatorio "Regulación Cripto Global 2026: MiCA, Brasil, EUA y el Nuevo Escenario Regulatorio") e IA envolvem riscos. Faça sua própria pesquisa.*
+

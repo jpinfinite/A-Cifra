@@ -101,3 +101,4 @@ Yes, both are blockchains with very high technology and growing adoption. Token 
 
 ### 5. Do AI tokens suffer from unlocks?
 Yes, most recently launched AI projects (like Worldcoin) have extremely high FDVs and few tokens in circulation. This requires extra caution, as future selling pressure will be immense.
+

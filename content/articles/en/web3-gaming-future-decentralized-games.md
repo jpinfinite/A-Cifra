@@ -54,3 +54,4 @@ To eliminate the prohibitive entry barrier (where players needed to spend hundre
 
 ### 3. Sustainable Circular Economies
 Instead of issuing inflationary tokens infinitely, new games focus on token "sinks"—mechanisms that remove tokens from circulation, such as crafting fees, item repair, or tournaments with entry fees—to create healthy, long-term digital economies.
+

@@ -66,3 +66,4 @@ Artificial Intelligence requires 24/7 stability and extremely low latency. It ca
 
 ### 3. How can I invest in sustainable mining?
 You can invest in stocks of listed mining companies with strong ESG commitments (like Marathon or Riot) or participate in mining pools that audit their energy sources.
+

@@ -518,3 +518,4 @@ O futuro dos NFTs é brilhante, mas apenas para projetos com valor real. Invista
 **Última atualização:** 4 de dezembro de 2025
 **Próxima revisão:** 11 de dezembro de 2025
 
+

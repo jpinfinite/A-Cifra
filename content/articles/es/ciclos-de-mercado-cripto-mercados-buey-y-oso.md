@@ -116,3 +116,4 @@ Análisis de [mercado](/artigo/ciclos-de-mercado-cripto-mercados-alcistas-y-baji
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

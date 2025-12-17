@@ -321,3 +321,4 @@ Neste guia completo, você vai aprender tudo sobre [trading](/artigo/cryptocurre
 ### Estratégia 3: Range Trading
 
 **Conceito:** Comprar suporte, vender resistência em range
+

@@ -115,3 +115,4 @@ Em 2030, podemos esperar que a regulação seja ainda mais eficiente e transpare
 **Disclaimer**
 
 A informação contida nesse artigo é para fins educacionais e não deve ser considerada como conselho de investimento. A regulação de criptomoedas e blockchain é complexa e pode variar dependendo do país e da jurisdição. É fundamental que os investidores façam suas próprias pesquisas e consultem com profissionais antes de tomar qualquer decisão de investimento. Além disso, a criptomoeda é um ativo de alto risco e pode resultar em perdas significativas.
+

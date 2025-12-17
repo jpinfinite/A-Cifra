@@ -105,3 +105,4 @@ La seguridad en cripto es responsabilidad individual. Implementa estas práctica
 ## 🚀 Comienza a invertir en criptomonedas
 
 Para comprar las criptomonedas mencionadas en este artículo, utiliza una de las exchanges recomendadas.
+

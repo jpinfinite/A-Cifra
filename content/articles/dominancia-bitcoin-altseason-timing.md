@@ -166,3 +166,4 @@ Investir em um altseason pode ser arriscado, pois o mercado de criptomoedas é a
 - Diversifique seu portfólio investindo em várias criptomoedas.
 - Mantenha-se disciplinado e paciente ao investir.
 - Não hesite em sair do mercado se você não estiver confortável com o risco.
+

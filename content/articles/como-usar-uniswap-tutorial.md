@@ -211,3 +211,4 @@ Para proteger sua conta e seus tokens no Uniswap, você pode seguir os seguintes
 - Ative a autenticação de dois fatores;
 - Monitore suas transações e alertas;
 - Não compartilhe sua senha ou informações de segurança com ninguém.
+

@@ -144,3 +144,4 @@ References
 Disclaimer on Risks
 
 Investing in cryptocurrencies and tokens of staking involves risks, including the possibility of loss of value, market instability, and the possibility of errors in calculation or implementation. It is essential to conduct a thorough market analysis and consider your own needs and financial objectives before making any investment decision. Additionally, it is crucial to remember that cryptocurrency is a high-risk asset and not suitable for all investors.
+

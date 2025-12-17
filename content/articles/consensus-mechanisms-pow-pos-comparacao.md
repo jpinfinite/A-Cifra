@@ -197,3 +197,4 @@ A: As desvantagens do PoW incluem a necessidade de investir em hardware de alta 
 ### Q: Quais são as desvantagens do PoS?
 
 A: As desvantagens do PoS incluem a possibilidade de ataques de 51% e a necessidade de ter uma quantia significativa de tokens da rede (stake) para ter a chance de validar as transações e criar um bloco novo.
+

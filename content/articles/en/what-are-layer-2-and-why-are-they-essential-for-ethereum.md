@@ -271,3 +271,4 @@ Comparação das Principais Layer 2s
 | Layer 2 | Tipo | TVL | TPS | Custo | Retirada | EVM |
 |---------|------|-----|-----|-------|----------|-----|
 | **Arbitrum** | Optimistic | $2.5B | 4.000 | $0.10-1 | 7 dias |
+

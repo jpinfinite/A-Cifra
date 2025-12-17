@@ -166,3 +166,4 @@ Para se proteger e prosperar nesse novo ambiente regulatório, é fundamental:
 ### Q: O que devo fazer para se proteger e prosperar nesse novo ambiente regulatório?
 
 **A:** Para se proteger e prosperar nesse novo ambiente regulatório, é fundamental entender as novas regras e regulamentações, avaliar as oportunidades institucionais e de investimento, tomar medidas para se conformar às novas exigências, diversificar sua carteira de investimentos e manter-se informado sobre as últimas tendências e desenvolvimentos.
+

@@ -75,3 +75,4 @@ Not yet directly between centralized giants. Interoperability is happening mainl
 
 ### 2. If the game goes bankrupt, do I lose my items?
 That's the beauty of Web3: **No.** The item (NFT) remains in your wallet on the blockchain. Even if the game server shuts down, the item is yours. Another developer could even create a new game accepting those "orphan" items, reviving the community.
+

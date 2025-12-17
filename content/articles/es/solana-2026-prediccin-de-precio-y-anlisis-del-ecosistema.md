@@ -184,3 +184,4 @@ Solana não é unanimidade, mas é impossível ignorar. Se o ecossistema continu
 **Última atualização:** 07 de dezembro de 2025
 
 *Disclaimer: Este artigo é educacional. Solana é um ativo de alto risco. Invista apenas o que pode perder.*
+

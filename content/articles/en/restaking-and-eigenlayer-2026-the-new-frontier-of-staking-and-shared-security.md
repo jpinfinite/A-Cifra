@@ -245,3 +245,4 @@ Protocolos que pagam para usar a [segurança](/artigo/ciberseguranca-2026-proteg
 - AVS rewards: 3-8%
 - Taxas de protocolo: -0.5-1%
 - **Total: 5.5-12
+

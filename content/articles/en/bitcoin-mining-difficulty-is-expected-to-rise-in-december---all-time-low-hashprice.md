@@ -352,3 +352,4 @@ Novas máquinas são 2-3x mais eficientes, permitindo mais hashrate com mesma en
 ### 4. O que acontece se muitos mineradores desligarem?
 
 **Dificuldade c
+

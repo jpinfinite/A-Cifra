@@ -176,3 +176,4 @@ Existem várias opções de investimento em RWA e DePIN, incluindo a compra de t
 **Disclaimer sobre Riscos**
 
 Investir em tecnologias inovadoras e disruptivas como a RWA e o DePIN pode ser arriscado e não é adequado para todos os investidores. É importante realizar uma pesquisa cuidadosa e consultar com um profissional financeiro antes de tomar qualquer decisão de investimento. Além disso, é importante lembrar que a valorização de qualquer investimento pode variar e não há garantia de retorno.
+

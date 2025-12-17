@@ -126,3 +126,4 @@ A: Sim, é seguro investir em jogos da blockchain, desde que você faça suas pe
 **Disclaimer**
 
 O conteúdo deste artigo é apenas informativo e não deve ser considerado como conselho de investimento. O mercado de criptomoedas é volátil e pode ser afetado por fatores externos, incluindo mudanças na regulamentação, concorrência e outros fatores. É importante lembrar que o investimento em criptomoedas é arriscado e pode resultar em perdas financeiras. Antes de investir, é importante fazer suas pesquisas e compreender os riscos envolvidos.
+

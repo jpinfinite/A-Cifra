@@ -345,3 +345,4 @@ Start small, learn continuously, and explore this new financial world with respo
 **Last updated:** November 23, 2025
 
 The future of finance is decentralized, transparent, and accessible to all. Welcome to DeFi.
+

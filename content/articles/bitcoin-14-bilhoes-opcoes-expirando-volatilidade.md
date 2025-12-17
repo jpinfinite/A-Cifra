@@ -425,3 +425,4 @@ Expirações de opções são eventos de **alta volatilidade** e **alto risco**.
 **Acompanhe em tempo real:** Sexta-feira (29/nov) será decisiva. Atualizaremos com análise pós-expiração.
 
 **Quer aprender mais sobre trading?** Confira nossos artigos sobre [análise técnica](/categoria/trading) e [derivativos](/categoria/educacao).
+

@@ -716,3 +716,4 @@ O pedido da Grayscale para um ETF de [Zcash](/artigo/zcash-grayscale-etf---regul
 ---
 
 **Gostou desta análise?** Compartilhe com outros investidores interessados em privacy coins! E assine nossa newsletter para receber análises exclusivas do mercado cripto.
+

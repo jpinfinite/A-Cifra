@@ -181,3 +181,4 @@ A: A combinação de fatores técnicos, fechamento de posições curtas e expect
 ### Q: É seguro investir em moedas de privacidade?
 
 A: Como em qualquer investimento em criptomoedas, há riscos associados. É importante fazer sua pesquisa, diversificar seu portfólio e estabelecer um orçamento para minimizar riscos. Além disso, é fundamental entender os fundamentos e como a moeda funciona antes de investir.
+

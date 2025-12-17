@@ -97,3 +97,4 @@ Ambas son infinitamente más seguras que cualquier Hot Wallet o [exchange](/arti
 **Conclusión**
 
 El inversión en una [hardware wallet](/artigo/ledger-vs-trezor-review) cuesta menos que el dolor de perder tus fondos. Escolha la que mejor se adapte a tu perfil y retira tus criptomonedas de la red hoy mismo.
+

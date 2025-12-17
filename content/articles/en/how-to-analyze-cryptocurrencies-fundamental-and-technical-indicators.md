@@ -230,3 +230,4 @@ Lembre-se:
 - Paciência é uma virtude
 
 Com as ferramentas e conhecimentos deste guia, você está preparado para analisar criptomoedas como um profissional. Comece devagar, pratique muito e sempre faça sua própria pesquisa.
+

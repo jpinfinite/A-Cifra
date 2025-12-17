@@ -502,3 +502,4 @@ Moeda estável descentralizada, sem depender de bancos ou custódia centralizada
 - Quando acaba, fuga
 
 **Mitigação
+

@@ -209,3 +209,4 @@ Antes de investir em qualquer projeto, faça sua própria pesquisa sobre a token
 ### 5. O que é o papel da equipe em tokenomics?
 
 A equipe é fundamental para o sucesso de um projeto cripto. A equipe deve ter experiência e conhecimento em áreas como desenvolvimento de software, marketing e gestão de projetos. Além disso, a equipe deve ter uma visão clara sobre como gerenciar a economia do projeto e tomar decisões importantes.
+

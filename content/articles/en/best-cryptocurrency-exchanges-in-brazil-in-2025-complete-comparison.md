@@ -253,3 +253,4 @@ Avaliamos cada [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxa
 - **Saque:** Varia
 
 #### Criptomoedas
+

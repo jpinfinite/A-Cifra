@@ -112,3 +112,4 @@ la seguridad en cripto es responsabilidad individual. Implemente estas práctica
 Para comprar las [criptomonedas](/artigo/cmo-proteger-sus-criptomonedas-gua-completa-de-seguridad "Cómo Proteger Sus Criptomonedas: Guía Completa de Seguridad") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

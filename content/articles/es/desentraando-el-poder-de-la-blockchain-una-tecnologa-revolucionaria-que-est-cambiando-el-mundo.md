@@ -218,3 +218,4 @@ A blockchain é uma tecnologia revolucionária que está mudando a forma como pe
 Desde finanças descentralizadas até cadeias de suprimentos transparentes, desde identidade digital até governança participativa, a blockchain está criando novas possibilidades em praticamente todos os setores da economia.
 
 O futuro pertence Ã queles que compreendem e abraçam esta tecnologia. Seja você um indivídu
+

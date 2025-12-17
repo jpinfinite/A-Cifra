@@ -167,3 +167,4 @@ Sim, é possível se proteger contra um Dusting Attack se você estiver usando u
 ### **5. Quais são as consequências de ser vítima de um Dusting Attack?**
 
 As consequências de ser vítima de um Dusting Attack podem incluir a perda de criptomoedas, a exposição de informações pessoais e a possibilidade de ser vítima de um ataque mais avançado. Além disso, um Dusting Attack pode ser usado como uma tática para roubar criptomoedas de uma carteira.
+

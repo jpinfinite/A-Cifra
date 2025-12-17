@@ -306,3 +306,4 @@ Nossa opinião: É um passo na direção certa, mas privacidade verdadeira ainda
 O futuro: Se ZCSH for bem-sucedido, podemos ver ETFs de Monero, Dash e outras privacy coins. A batalha entre privacidade e regulação está apenas começando.
 
 Disclaimer: Este artigo é apenas informativo e não constitui recomendação de investimento. Privacy coins são controversas e podem enfrentar restrições regulatórias. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional antes de investir.
+

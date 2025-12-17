@@ -125,3 +125,4 @@ En resumen, el Render Network está en el camino correcto para crear un futuro m
 **Aviso de Privacidad**
 
 El uso del Render Network y la tecnología de renderización en la nube puede implicar riesgos, incluyendo la pérdida de datos, la violación de seguridad y la interrupción del servicio. Es importante que los usuarios tomen medidas para proteger sus datos y garantizar la seguridad de su red y sistema. Además, es importante que los usuarios estén conscientes de los términos y condiciones del servicio y del contrato de uso antes de iniciar el uso del Render Network.
+

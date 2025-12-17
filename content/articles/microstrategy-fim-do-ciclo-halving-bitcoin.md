@@ -161,3 +161,4 @@ O fim dos ciclos de 4 anos pode ter implicações significativas para o mercado 
 ### 5. O que os investidores devem fazer daqui para frente?
 
 Os investidores devem manter-se informados sobre as últimas notícias e desenvolvimentos no mercado de criptomoedas. Eles também devem diversificar seu portfólio investindo em diferentes ativos, incluindo Bitcoin, Ethereum e outras criptomoedas. Além disso, os investidores devem considerar investir em empresas que adotam o Bitcoin como forma de pagamento, como a MicroStrategy.
+

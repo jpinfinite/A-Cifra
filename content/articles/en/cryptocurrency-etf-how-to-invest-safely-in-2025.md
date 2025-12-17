@@ -121,3 +121,4 @@ O fundo investe em contratos futuros de [bitcoin](/artigo/bitcoin-etf-spot-quebr
 * Localização na declaração: "Fundo de investimento no exterior" (código 74)
 * Situação em 31/12: Valor em reais (cotação PTAX)
 * Ganhos de capital: Tributados em 15-22,5% se acima de R$ 35.000/m
+

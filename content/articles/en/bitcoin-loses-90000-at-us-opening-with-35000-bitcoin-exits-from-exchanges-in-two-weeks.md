@@ -59,3 +59,4 @@ A: This means that [approximately](/artigo/approximately-400-million-bitcoins-ha
 **Q: Why is the cryptocurrency market so volatile?**
 
 A: The cryptocurrency market is highly volatile due to the lack of regulation, high demand, and limited supply, as well as other factors that can affect the price of cryptocurrencies.
+

@@ -368,3 +368,4 @@ Recomendação: Bitget ou Bybit
 <xchangeAffiliateLinks />
 
 ---
+

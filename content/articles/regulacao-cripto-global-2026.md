@@ -612,3 +612,4 @@ Use exchanges que seguem as regulações locais e internacionais:
 ---
 
 *Aviso: Este artigo é informativo e não constitui aconselhamento jurídico. Consulte advogados especializados para sua situação específica.*
+

@@ -400,3 +400,4 @@ Em um movimento que pode redefinir o cenário de stablecoins na Ásia, [Taiwan](
 **Risco:**
 - USDT/USDC já dominam mercado
 - Outras
+

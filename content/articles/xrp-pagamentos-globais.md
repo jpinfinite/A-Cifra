@@ -183,3 +183,4 @@ A: Você pode comprar XRP em várias exchanges de criptomoedas, como Binance, Co
 ### Q: O XRP é um investimento a longo prazo?
 
 A: Sim, o XRP é um investimento a longo prazo. A tecnologia Ripple está em constante evolução e o XRP tem o potencial de aumentar de valor com o tempo. No entanto, é importante lembrar que o investimento no XRP é arriscado e pode resultar em perdas significativas.
+

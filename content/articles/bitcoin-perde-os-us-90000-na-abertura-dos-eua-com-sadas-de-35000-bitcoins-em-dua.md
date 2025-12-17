@@ -188,3 +188,4 @@ Os riscos associados ao investimento em criptomoedas incluem a volatilidade do m
 ### **5. Como posso proteger meu investimento em criptomoedas?**
 
 Para proteger seu investimento em criptomoedas, é importante realizar uma pesquisa aprofundada sobre a criptomoeda em questão, entender os riscos associados e tomar decisões informadas. Além disso, é importante diversificar seu portfólio e não investir mais do que você pode perder. É também importante manter suas criptomoedas em um bolsa de investimento confiável e segura.
+

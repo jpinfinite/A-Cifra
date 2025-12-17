@@ -152,3 +152,4 @@ A: Os riscos associados ao investimento em criptomoedas incluem a volatilidade d
 ### Q: Como posso investir em criptomoedas?
 
 A: Existem várias opções para investir em criptomoedas, incluindo a compra direta de criptomoedas, a compra de ETFs ou fundos de investimento que investem em criptomoedas, e a participação em plataformas de investimento em criptomoedas. É fundamental que os investidores façam suas próprias pesquisas e avaliações antes de investir em qualquer ativo, incluindo criptomoedas.
+

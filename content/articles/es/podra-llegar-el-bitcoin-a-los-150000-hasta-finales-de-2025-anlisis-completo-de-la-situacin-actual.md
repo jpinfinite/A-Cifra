@@ -283,3 +283,4 @@ Quer se aprofundar mais no universo Bitcoin? Confira nossos outros artigos:
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

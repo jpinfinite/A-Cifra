@@ -149,3 +149,4 @@ Com o valor do seu portfólio potencialmente aumentando, a segurança se torna c
 
 ### O Bitcoin vai cair em 2026?
 Historicamente, o ano seguinte ao pico do ciclo de halving (que se espera ser 2025) traz correções de mercado. É altamente provável que vejamos volatilidade neg
+

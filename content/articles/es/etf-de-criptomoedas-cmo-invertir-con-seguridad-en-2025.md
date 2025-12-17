@@ -123,3 +123,4 @@ O fundo investe em contratos futuros de [bitcoin](/artigo/bitcoin-etf-spot-break
 ## Conclusão
 
 ETFs de criptomoedas representam um marco histórico na adoção institucional de [bitcoin](/artigo/bitcoin-etf-spot-quebra-sequncia-con-70-millones-en-entradas "Bitcoin ETF Spot Quebra Sequência con $70 Millones en Entradas") e ethereum. Eles oferecem simplicidade, segurança, acessibilidade e legitimação. No entanto, também apresentam desvantagens e riscos. É importante fazer sua própria pesquisa e consultar um profissional financeiro antes de investir.
+

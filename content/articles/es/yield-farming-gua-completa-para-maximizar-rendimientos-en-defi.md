@@ -196,3 +196,4 @@ Comienza pequeño, aprende y escale gradualmente.
 Para comprar las criptomonedas mencionadas en este artículo, usa una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

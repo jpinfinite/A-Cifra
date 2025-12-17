@@ -199,3 +199,4 @@ Alternativas Seguras: Melhores Stablecoins 2025
   ✅ Tudo on-chain e verificável
   ✅ Sobre-colateralizado (>150%)
   ✅ Resistente à Cens
+

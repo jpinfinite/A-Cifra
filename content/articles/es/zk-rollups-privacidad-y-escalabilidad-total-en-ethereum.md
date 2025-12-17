@@ -122,3 +122,4 @@ El futuro de la Ethereum es promisorio, y la adopción de ZK-Rollups es un paso 
 --------------
 
 La información contenida en este artículo es baseada en tecnologías en desarrollo y puede ser sujeta a cambios. La adopción de ZK-Rollups puede envolver riesgos, incluyendo la pérdida de fondos o la inestabilidad del sistema. Es importante realizar su propia investigación y consultar a un profesional antes de invertir o participar en cualquier proyecto relacionado con ZK-Rollups.
+

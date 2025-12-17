@@ -267,3 +267,4 @@ XRP tiene **utilidad real** (RippleNet, 300+ bancos), no es solo especulación.
 <xchangeAffiliateLinks variant="compact" />
 
 **Aviso:** Este artículo es solo informativo y no constituye recomendación de inversión. Criptomonedas son activos de alto riesgo. Siempre haga su propia investigación (DYOR) y consulte a un profesional financiero antes de invertir.
+

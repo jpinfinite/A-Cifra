@@ -104,3 +104,4 @@ La seguridad en [cripto](/artigo/phishing-scams-criptomoedas-protecao "Phishing 
 Para comprar las [criptomonedas](/artigo/cmo-proteger-sus-criptomonedas-gua-de-seguridad-completa "Cómo Proteger Sus Criptomonedas: Guía de Seguridad Completa") mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

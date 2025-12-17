@@ -181,3 +181,4 @@ O Federal Reserve está em uma encruzilhada:
 - ✅ Narrativa de "ouro digital" fortalece
 - ✅ Demanda institucional aumenta
 - ⚠️
+

@@ -89,3 +89,4 @@ Probablemente no. La eficiencia de las stablecoins es imbatible. Mesmo con una e
 **Conclusión**
 
 El dominio de las stablecoins prueba que el brasileño quiere una moneda fuerte. La reglamentación es inevitable, pero no debe matar la innovación. [2026](/artigo/sec-innovation-exemption-2026-whats-changing-and-how-to-prepare "SEC Innovation Exemption 2026: What's Changing and How to Prepare") será el año de probar la resiliencia de ese mercado frente al Fisco.
+

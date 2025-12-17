@@ -685,3 +685,4 @@ A MSCI está revisando sua política sobre empresas que mantêm [bitcoin](/artig
 
 **Gostou desta análise?** Compartilhe com outros investidores e traders! E não esqueça de assinar nossa newsletter para receber análises semanais do mercado cripto.
 
+

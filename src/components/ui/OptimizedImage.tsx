@@ -1,85 +1,53 @@
-'use client'
-
-import { useState } from 'react'
 import Image from 'next/image'
-import { cn } from '@/utils/cn'
+import { useState } from 'react'
 
 interface OptimizedImageProps {
   src: string
   alt: string
   width?: number
   height?: number
-  fill?: boolean
-  className?: string
-  sizes?: string
   priority?: boolean
-  quality?: number
-  loading?: 'lazy' | 'eager'
-  onError?: () => void
+  className?: string
+  fill?: boolean
+  sizes?: string
 }
 
+/**
+ * Componente de imagem otimizado com lazy loading e placeholder
+ */
 export function OptimizedImage({
   src,
   alt,
   width,
   height,
-  fill = false,
-  className,
-  sizes,
   priority = false,
-  quality = 85,
-  loading = 'lazy',
-  onError
+  className = '',
+  fill = false,
+  sizes
 }: OptimizedImageProps) {
-  const [imageError, setImageError] = useState(false)
   const [isLoading, setIsLoading] = useState(true)
 
-  // Fallback para imagem padrão se houver erro
-  const fallbackSrc = '/images/general/placeholder.svg'
-
-  // Garantir que o src está correto
-  const imageSrc = imageError ? fallbackSrc : (src.startsWith('/') ? src : `/${src}`)
-
-  const handleError = () => {
-    if (process.env.NODE_ENV === 'development') {
-      console.warn(`Erro ao carregar imagem: ${src}`)
-    }
-    setImageError(true)
-    setIsLoading(false)
-    onError?.()
-  }
-
-  const handleLoad = () => {
-    setIsLoading(false)
-  }
-
   return (
-    <div className={cn('relative overflow-hidden', className)}>
-      {/* Loading placeholder */}
-      {isLoading && (
-        <div className="absolute inset-0 bg-gradient-to-br from-gray-100 to-gray-200 animate-pulse" />
-      )}
-
+    <div className={`relative overflow-hidden ${className}`}>
       <Image
-        src={imageSrc}
+        src={src}
         alt={alt}
         width={width}
         height={height}
         fill={fill}
-        sizes={sizes}
         priority={priority}
-        quality={quality}
-        loading={priority ? undefined : loading}
-        className={cn(
-          'transition-opacity duration-300',
-          isLoading ? 'opacity-0' : 'opacity-100',
-          className
-        )}
-        onError={handleError}
-        onLoad={handleLoad}
-        // Força o unoptimized para static export
-        unoptimized={process.env.NODE_ENV === 'production'}
+        loading={priority ? 'eager' : 'lazy'}
+        sizes={sizes || '(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw'}
+        className={`
+          duration-700 ease-in-out
+          ${isLoading ? 'scale-110 blur-2xl grayscale' : 'scale-100 blur-0 grayscale-0'}
+        `}
+        onLoadingComplete={() => setIsLoading(false)}
+        quality={85}
       />
+      {isLoading && (
+        <div className="absolute inset-0 bg-gray-200 animate-pulse" />
+      )}
     </div>
   )
 }

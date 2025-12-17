@@ -400,3 +400,4 @@ O futuro é promissor para ambos os caminhos. O importante é estar exposto a es
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

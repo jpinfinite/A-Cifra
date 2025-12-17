@@ -149,3 +149,4 @@ La disparada de las monedas de privacidad refleja una combinación de narrativa,
 3. ✅ Fique atento a la evolución de las regulaciones
 
 Y recuerde: **activos enfocados en privacidad involucran riesgos específicos**. Consulte siempre a un especialista financiero o jurídico antes de invertir.
+

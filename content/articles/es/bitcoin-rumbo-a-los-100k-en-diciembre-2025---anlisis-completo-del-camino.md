@@ -76,3 +76,4 @@ Nesta análise completa, vamos examinar:
 - **Julho-Setembro:** Rompimento e nova ATH ($70K → $85K)
 - **Outubro:** Correção saudável ($85K → $75K)
 - **Novembro:**
+

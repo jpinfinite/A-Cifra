@@ -121,3 +121,4 @@ El valor de las inversiones en la Polymarket 2026 es grande, ya que la plataform
 Disclaimer
 
 La Polymarket 2026 es una plataforma de previsión de mercado que permite a los usuarios apuestan en eventos futuros de forma segura y transparente. La plataforma no es responsable de cualquier pérdida o daño que pueda resultar de la utilización de la plataforma. Los usuarios deben utilizar la plataforma con responsabilidad y prudencia.
+

@@ -315,3 +315,4 @@ Enquanto o sharding não chega, [Layer](/artigo/what-are-layer-2-and-why-are-the
 | **Cardano** | 250 | 20s | Baixo | Alta |
 | **Avalanche** | 4.500 | 1s | Médio | Média |
 | **Polygon** | 7.000 | 2s |
+

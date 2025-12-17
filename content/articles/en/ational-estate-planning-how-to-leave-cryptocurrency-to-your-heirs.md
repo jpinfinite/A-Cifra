@@ -126,3 +126,4 @@ In 2030, cryptocurrency will become an integral part of our global economy. With
 **Disclaimer**
 
 The content of this article is for informational purposes only and should not be considered as financial or legal advice. The decision to leave cryptocurrency to your heirs should be made after consulting a qualified professional and conducting a thorough analysis of the risks and benefits involved.
+

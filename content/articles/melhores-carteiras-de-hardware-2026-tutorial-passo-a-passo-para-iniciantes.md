@@ -206,3 +206,4 @@ Sim, muitas carteiras de hardware são compatíveis com diferentes dispositivos,
 ### **5. Quais são os custos associados à compra e manutenção de uma carteira de hardware?**
 
 Os custos associados à compra e manutenção de uma carteira de hardware variam dependendo da marca e modelo da carteira. Além disso, é importante considerar os custos de energia e manutenção da carteira ao longo do tempo. No entanto, a maioria das carteiras de hardware é projetada para ser durável e resistente a danos, o que pode ajudar a minimizar os custos de manutenção.
+

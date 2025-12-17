@@ -390,3 +390,4 @@ Durante liquidações massivas:
 - Exchanges ganharam taxas de liquidação
 - Assumiram posições a preços favoráveis
 - Lucro estimado
+

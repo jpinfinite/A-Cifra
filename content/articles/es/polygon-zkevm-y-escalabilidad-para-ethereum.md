@@ -214,3 +214,4 @@ El Polygon es una de las soluciones de [escalabilidad](/artigo/avalanche-subrede
 Con el zkEVM, el Polygon está se posicionando para la próxima generación de escalabilidad [blockchain](/artigo/avalanche-subnets-and-blockchain-scalability "Avalanche: Subnets and Blockchain Scalability"), combinando seguridad, velocidad y bajo costo.
 
 Para inversores, MATIC ofrece exposición a una infraestructura esencial que está siendo adoptada por aplicaciones DeFi, NFTs, gaming y hasta empresas tradicionales.
+

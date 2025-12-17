@@ -396,3 +396,4 @@ A [quebra](/artigo/bitcoin-etf-spot-quebra-sequncia-con-70-millones-en-entradas 
 
 **Quer mais análises?** Confira nossos artigos sobre [Bitcoin](/categoria/bitcoin) e [investimento institucional](/categoria/analises).
 
+

@@ -145,3 +145,4 @@ Se o mercado corrigir conforme o padrão histórico, 2026 será um excelente ano
 
 ### Qual a previsão máxima para o Bitcoin em 2026?
 Alguns modelos preditivos mais agressivos, como variações do Stock-to-Flow e análises de curva de adoção logarítmica, sugerem que o preço pode ultrapassar a marca de **$200.000** se a demanda institucional continuar superando a oferta reduzida pelo Halving e houver um choque de oferta nas exchanges (liqu
+

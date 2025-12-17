@@ -81,3 +81,4 @@ DeSci stands for *Decentralized Science*. It's a movement applying blockchain te
 
 ### 2. Is DeSci safe to invest in?
 Like any nascent sector in crypto, it is high risk. Many projects are experimental. Do your own research (DYOR).
+

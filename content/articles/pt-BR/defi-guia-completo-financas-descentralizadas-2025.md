@@ -6,7 +6,7 @@ tags: ["DeFi", "Finanças Descentralizadas", "Yield Farming", "Staking", "Lendin
 date: "2025-12-17"
 author: "Equipe A Cifra"
 featured: true
-image: "/images/articles/defi-guide-cover.png"
+image: "/images/articles/defi-guide-cover.webp"
 readingTime: 14
 ---
 
@@ -441,3 +441,4 @@ O DeFi está democratizando acesso a serviços financeiros sofisticados que ante
 ---
 
 **Disclaimer:** Este artigo é apenas para fins educacionais e não constitui aconselhamento financeiro. DeFi envolve riscos significativos, incluindo perda total do capital investido. Sempre faça sua própria pesquisa (DYOR) e consulte um profissional financeiro antes de investir.
+

@@ -341,3 +341,4 @@ Você quer empréstimo de £100.000:
 - Resultado: NFT perdido
 
 **Depois da lei:
+

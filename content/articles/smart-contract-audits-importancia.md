@@ -184,3 +184,4 @@ As ferramentas e técnicas utilizadas em uma auditoria de smart contracts inclue
 * Ferramentas de análise de código, como o Solidity-Analyzer
 * Ferramentas de simulação, como o Truffle
 * Técnicas de análise de segurança, como a análise de fluxo de dados e a análise de vulnerabilidades
+

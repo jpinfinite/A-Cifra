@@ -105,3 +105,4 @@ La minería sigue siendo esencial para la [seguridad](/artigo/ciberseguranca-202
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

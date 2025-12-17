@@ -464,3 +464,4 @@ Depende da estratégia e risco. Stablecoins em protocolos seguros: 5-15% ao ano.
 ### Preciso de muito dinheiro para começar em DeFi?
 
 Não! Você pode começar com $50-100 em blockchains baratas como Arbitrum
+

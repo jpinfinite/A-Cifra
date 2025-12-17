@@ -180,3 +180,4 @@ A: PEPE Coin está disponível em várias exchanges de criptomoedas, incluindo a
 ### Q: O que acontece se o preço de PEPE Coin cair?
 
 A: Se o preço de PEPE Coin cair, você pode perder parte ou todo o seu investimento. É importante considerar a sua tolerância ao risco e fazer sua própria pesquisa antes de investir em PEPE Coin ou qualquer outra criptomoeda.
+

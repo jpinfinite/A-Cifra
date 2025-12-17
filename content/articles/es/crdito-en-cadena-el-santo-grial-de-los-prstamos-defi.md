@@ -113,3 +113,4 @@ Respuesta: Sí, el crédito on-chain es seguro porque utiliza blockchain para ge
 Disclaimer
 
 El crédito on-chain es un producto de riesgo y puede no ser adecuado para todos los inversores. Es importante realizar una investigación cuidadosa y considerar sus objetivos financieros y tolerancia al riesgo antes de invertir en crédito on-chain. Además, es importante recordar que el valor del crédito on-chain puede fluctuar y puede haber pérdida de valor. No es recomendado invertir más de lo que se puede perder.
+

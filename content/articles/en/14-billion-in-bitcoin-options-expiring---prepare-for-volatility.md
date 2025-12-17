@@ -378,3 +378,4 @@ Expirações de opções são eventos de **alta volatilidade** e **alto risco**.
 ### 6. Isso afeta altcoins?
 
 **Sim.** Bitcoin move o mercado. Se BTC cai 5%, altcoins caem
+

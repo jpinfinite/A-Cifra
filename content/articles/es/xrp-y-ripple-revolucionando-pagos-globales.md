@@ -318,3 +318,4 @@ Para investidores, XRP oferece exposição a um caso de uso claro e adoção ins
 Para comprar as criptomoedas mencionadas neste artigo, use uma das exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

@@ -64,3 +64,4 @@ A previsão de especialistas é que o bitcoin atinja $1,5 milhão até 2030, com
 Três cenários são possíveis para 2026: um cenário otimista, com um preço alvo de $150.000 a $200.000; um cenário base, com um preço alvo de $100.000 a $130.000; e um cenário pessimista, com um preço alvo de $60.000 a $80.000.
 
 A recomendação é investir apenas o que se pode perder, usar o Dollar-Cost Averaging, pensar em longo prazo, diversificar, educar-se continuamente e custodiar o ativo de forma segura.
+

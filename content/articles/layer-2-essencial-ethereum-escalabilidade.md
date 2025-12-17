@@ -757,3 +757,4 @@ O futuro do [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026) é mult
 **Última atualização:** 23 de novembro de 2025
 
 *As [Layer](/artigo/ethereum-layer-2-the-2025-complete-guide---arbitrum-optimism-base-and-the-future-of-scalability "Ethereum Layer 2: The 2025 Complete Guide - Arbitrum, Optimism, Base and the Future of Scalability") 2s são o presente e futuro da escalabilidade blockchain. Explore este novo mundo!*
+

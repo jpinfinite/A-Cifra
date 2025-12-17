@@ -655,3 +655,4 @@ Para comprar OP, ARB, MATIC e outros tokens de escalabilidade:
 ---
 
 *Aviso: Este artigo é apenas informativo. Tecnologias L3 são novas e experimentais. Faça sua própria pesquisa.*
+

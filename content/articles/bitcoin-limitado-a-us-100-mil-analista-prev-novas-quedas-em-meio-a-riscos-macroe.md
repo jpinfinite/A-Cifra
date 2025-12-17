@@ -190,3 +190,4 @@ A: A inteligência artificial é a capacidade de máquinas de processar e analis
 ### Q: Quais são as implicações do investimento em criptomoedas para a economia global?
 
 A: O investimento em criptomoedas pode ter implicações para a economia global, pois pode afetar a estabilidade financeira e a confiança nos sistemas financeiros tradicionais. Além disso, o investimento em criptomoedas pode ser visto como uma forma de investimento alternativa, o que pode atrair investidores e recursos para a economia global.
+

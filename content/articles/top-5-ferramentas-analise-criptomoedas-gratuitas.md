@@ -49,3 +49,4 @@ Um agregador de notícias em tempo real. O mercado cripto reage em segundos a no
 ## Conclusão
 
 Ter as ferramentas não garante lucro, mas elimina erros amadores. Dedique um fim de semana para explorar cada uma dessas plataformas. Sua confiança ao apertar o botão "Comprar" ou "Vender" será outra.
+

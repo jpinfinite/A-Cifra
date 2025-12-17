@@ -63,3 +63,4 @@ Não. O PIX é um meio de pagamento instantâneo. O Drex é a própria moeda em 
 
 ### 3. Como me proteger do controle financeiro?
 Manter parte do patrimônio em ativos descentralizados (Bitcoin) e em custódia própria (carteira fria) é a única forma matemática de garantir que seus recursos não podem ser confiscados ou censurados por terceiros.
+

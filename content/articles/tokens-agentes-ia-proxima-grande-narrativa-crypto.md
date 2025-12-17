@@ -111,3 +111,4 @@ Provavelmente haverá uma bolha, sim. A tecnologia é real, mas a empolgação d
 
 ### 5. Onde acompanhar novos projetos?
 O Twitter (X) é o centro nervoso dessa narrativa. Siga desenvolvedores influentes, monitore hashtags como #AIagents e #Virtuals, e participe dos Discords dos projetos para sentir a "vibe" da comunidade antes de investir.
+

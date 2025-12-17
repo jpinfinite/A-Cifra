@@ -152,3 +152,4 @@ A: Como em qualquer investimento, há riscos envolvidos em investir em XRP. É i
 ### Q: Qual é o futuro de XRP?
 
 A: É difícil prever o futuro de XRP, pois o mercado de criptomoedas é altamente volátil e os preços podem cair rapidamente. No entanto, a Ripple está trabalhando para melhorar a infraestrutura e a adoção da tecnologia, o que pode impulsionar o preço do XRP no futuro.
+

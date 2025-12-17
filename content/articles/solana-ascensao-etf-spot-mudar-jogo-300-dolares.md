@@ -188,3 +188,4 @@ Você pode investir em Solana comprando criptomoedas diretamente no mercado ou i
 ### 5. Qual é a perspectiva a longo prazo para Solana?
 
 A perspectiva a longo prazo para Solana é positiva, pois a criptomoeda está em constante evolução e melhoria. Além disso, a Solana está se tornando cada vez mais popular e visível no mercado de criptomoedas. No entanto, é importante lembrar que o mercado de criptomoedas é altamente volátil e pode ser arriscado.
+

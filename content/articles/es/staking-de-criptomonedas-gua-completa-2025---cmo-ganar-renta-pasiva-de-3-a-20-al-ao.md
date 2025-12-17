@@ -84,3 +84,4 @@ metaDescription: >-
 - Blockchain mais segura e descentralizada
 - Liquid [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) disponível (Lido, Rocket Pool)
 - Supply deflacionário
+

@@ -324,3 +324,4 @@ O Safe 7 a $199 compete com Ledger Flex ($249), mas a Flex tem tela maior.
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: Este review é baseado em experiência pessoal de 3 meses de uso. Suas necessidades podem variar. Os links de compra são afiliados — você não paga mais por isso, mas nos ajuda a produzir mais conteúdo.*
+

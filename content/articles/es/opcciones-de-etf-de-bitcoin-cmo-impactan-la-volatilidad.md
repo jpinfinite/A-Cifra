@@ -120,3 +120,4 @@ Resposta: Os riscos associados aos ETFs de Bitcoin incluem a volatilidade do mer
 **Disclaimer**
 
 Os investimentos em criptomoedas e ETFs de Bitcoin envolvem riscos e podem resultar em perdas significativas. É importante fazer sua própria pesquisa e considerar sua tolerância ao risco antes de investir. Não é recomendado investir mais do que você pode se permitir perder.
+

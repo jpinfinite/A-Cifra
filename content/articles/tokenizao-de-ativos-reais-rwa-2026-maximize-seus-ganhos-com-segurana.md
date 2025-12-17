@@ -218,3 +218,4 @@ A tokenização de ativos reais pode aumentar a liquidez e a valorização dos a
 ### **5. Quais são as oportunidades de investimento na tokenização de ativos reais?**
 
 As oportunidades de investimento na tokenização de ativos reais incluem a criação de tokens digitais para ativos reais, a compra e venda de tokens digitais e a participação em projetos de tokenização de ativos reais. É fundamental que os investidores tomem medidas para mitigar os riscos associados à tokenização de ativos reais e garantir a segurança dos investimentos.
+

@@ -38,3 +38,4 @@ Contenido del artículo en español...
 1. Crear un archivo .md en esta carpeta.
 2. Asegurar que el slug sea único.
 3. Vincular con versiones en PT y EN usando `alternateLanguages`.
+

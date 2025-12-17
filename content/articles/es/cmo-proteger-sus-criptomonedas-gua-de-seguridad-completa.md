@@ -268,3 +268,4 @@ Desvantagens: - Mais complexo - Custos maiores - Menos suporte
 Perda de Dispositivo: - Preparação: Backup da seed phrase, Lista de todas as carteiras, Instruções de recuperação - Ação: 1. Acesse backup da seed phrase 2. Baixe carteira em novo dispositivo 3. Restaure usando seed phrase 4. Transfira fundos para nova carteira
 
 Morte ou Incapacitação: - Preparação: Instruções claras para herdeiros, Localização dos backups, Senhas necessárias, Contatos importantes - Documentos necessários: Lista de carteiras e exchanges, Localização
+

@@ -183,3 +183,4 @@ metaDescription: >-
 **1. Adoção Lenta** - Risco: Holders de BTC são conservadores - Mitigação: Educação e marketing
 
 **2. Competição**
+

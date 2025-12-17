@@ -272,3 +272,4 @@ metaDescription: >-
   - Aguardar fundo (~$85K-$88K)
   - Comprar em correção
   - Hold para $100K+
+

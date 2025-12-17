@@ -146,3 +146,4 @@ Additionally, the cryptoeconomy will have expanded to other sectors, such as hea
 **Disclaimer**
 
 This publication is only a general guide and should not be considered as individualized advice. The cryptoeconomy is a high-risk market and may result in significant losses. It is essential to do your own research and consult a professional before investing in cryptocurrencies.
+

@@ -103,3 +103,4 @@ Diferente de jogos tradicionais que simplesmente "morrem", em jogos Web3 os ativ
 
 ### 5. Quais são as principais blockchains para jogos atualmente?
 As redes mais populares para jogos incluem **Immutable X**, **Ronin**, **Polygon**, **Solana** e **Avalanche**. Elas são escolhidas por sua alta velocidade e baixas taxas de transação, essenciais para a dinâmica rápida dos jogos.
+

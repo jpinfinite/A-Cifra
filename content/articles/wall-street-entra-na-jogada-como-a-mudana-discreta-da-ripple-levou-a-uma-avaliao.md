@@ -171,3 +171,4 @@ A avaliação de US$ 40 bilhões da Ripple é um reflexo da confiança dos inves
 ### **5. Quais são as perspectivas para a Ripple no futuro?**
 
 A Ripple tem uma perspectiva positiva no futuro, com uma crescente demanda por soluções de pagamento em tempo real. A empresa está em uma posição forte para continuar a crescer e se expandir no mercado de criptomoedas. A parceria com a SBI Holdings também visa expandir as operações da Ripple no Japão e em outros mercados.
+

@@ -101,3 +101,4 @@ It is a historic legislative proposal in the US ("Financial Innovation and Techn
 
 ### 5. Will regulation kill DeFi?
 It won't kill it, but it will bifurcate the sector. We will likely have "Institutional DeFi" (with KYC and Whitelists) fully regulated, and "Dark/Pure DeFi" that will continue operating in the shadows, out of regulatory reach, accessible only to the most technical and risk-tolerant users.
+

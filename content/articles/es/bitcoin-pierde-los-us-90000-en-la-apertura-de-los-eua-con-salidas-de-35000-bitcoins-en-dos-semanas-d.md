@@ -69,3 +69,4 @@ El mercado de criptomonedas es conocido por su volatilidad y incertidumbre. Es f
 **Pregunta 2:** ¿Por qué el mercado de criptomonedas es tan volátil?
 
 **Respuesta:** El mercado de criptomonedas es altamente volátil debido a la falta de regulación, la gran demanda y la oferta limitada, además de otros factores que pueden afectar el precio de las criptomonedas.
+

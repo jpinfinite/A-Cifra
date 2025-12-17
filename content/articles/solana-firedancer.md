@@ -121,3 +121,4 @@ Imagine um mundo onde transações financeiras, contratos inteligentes e dados s
 **Disclaimer**
 
 O conteúdo deste artigo é puramente informativo e não deve ser considerado como conselho de investimento. A criptomoeda é um ativo de alto risco e pode resultar em perdas significativas. É importante realizar sua própria pesquisa e considerar sua tolerância ao risco antes de investir.
+

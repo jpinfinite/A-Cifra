@@ -73,3 +73,4 @@ Si la Grayscale está correcta, el panorama futuro puede ser positivo para el Bi
 * Una mayor competencia entre las principales criptomonedas, lo que puede llevar a una carrera para el topo.
 
 Es importante notar que estos son solo posibles desdobramentos y que el futuro es incierto. Es importante que los inversores hagan sus propias investigaciones y tomen decisiones informadas antes de invertir en criptomonedas.
+

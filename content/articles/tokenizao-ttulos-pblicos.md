@@ -136,3 +136,4 @@ Em resumo, a renda fixa tokenizada na blockchain é o futuro do mercado financei
 **Disclaimer**
 
 A renda fixa tokenizada é um investimento de alto risco e pode resultar em perdas significativas. É importante que os investidores entendam bem os riscos associados antes de investir. A "A Cifra" não é responsável por qualquer perda ou dano resultante de investimentos em renda fixa tokenizada.
+

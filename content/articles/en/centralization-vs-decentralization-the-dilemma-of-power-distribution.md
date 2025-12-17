@@ -164,3 +164,4 @@ A descentralização é a distribuição de [poder](/artigo/desentraando-el-pode
 ## Conclusão
 
 O [dilema](/artigo/centralizacao-vs-descentralizacao-dilema-distribuicao-poder "Centralização vs Descentralização: O Dilema da Distribuição de Poder") entre centralização e descentralização não tem uma resposta única ou definitiva. Cada modelo tem suas vantagens e desvantagens, e a escolha ideal depende do contexto, objetivos e valores de cada sistema ou organização.
+

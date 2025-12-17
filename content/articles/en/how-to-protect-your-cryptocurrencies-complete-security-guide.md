@@ -272,3 +272,4 @@ Perda de Dispositivo: - Preparação: Backup da seed phrase, Lista de todas as c
 Morte ou Incapacitação: - Preparação: Instruções claras para herdeiros, Localização dos backups, Senhas necessárias, Contatos importantes - Documentos necessários: Lista de carteiras e exchanges, Localização de hardware wallets, Instruções de acesso, Contatos de advogados/contadores
 
 ### 2.
+

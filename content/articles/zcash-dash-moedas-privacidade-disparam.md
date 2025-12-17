@@ -156,3 +156,4 @@ A: As principais características das moedas de privacidade incluem a utilizaç�
 ### Q: O que é o Zcash e o Dash?
 
 A: O Zcash (ZEC) e o Dash (DASH) são duas das principais moedas de privacidade no mercado. O Zcash é conhecido por sua criptografia avançada e capacidade de ocultar detalhes das transações, enquanto o Dash é conhecido por sua velocidade e capacidade de processar transações em tempo real.
+

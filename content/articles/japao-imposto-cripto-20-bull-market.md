@@ -170,3 +170,4 @@ A redução do imposto cripto pode ter implicações positivas para a segurança
 ### 5. Quais são as perspectivas para o mercado de criptomoedas em 2026?
 
 As perspectivas para o mercado de criptomoedas em 2026 são positivas, pois a redução do imposto cripto pode atrair mais investidores e aumentar a demanda por criptomoedas. Isso pode levar a um aumento no preço das criptomoedas e uma maior adoção de tecnologias blockchain e criptomoedas em diferentes setores da economia.
+

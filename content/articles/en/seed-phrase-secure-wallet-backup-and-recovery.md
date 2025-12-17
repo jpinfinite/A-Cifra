@@ -105,3 +105,4 @@ Start Investing in Cryptocurrencies
 To buy the [cryptocurrencies](/artigo/how-to-protect-your-cryptocurrencies-complete-security-guide "How to Protect Your Cryptocurrencies: Complete Security Guide") mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

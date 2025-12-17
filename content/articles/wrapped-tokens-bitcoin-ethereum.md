@@ -187,3 +187,4 @@ Os riscos associados aos wrapped tokens incluem a possibilidade de fraude, a per
 ## **5. Como posso investir em wrapped tokens?**
 
 Para investir em wrapped tokens, você precisará comprar ativos existentes, como Bitcoin, e então converter esses ativos em wrapped tokens. Isso pode ser feito através de exchanges de criptomoedas ou plataformas de investimento que oferecem serviços de wrapped tokens. Além disso, é importante realizar uma pesquisa cuidadosa e considerar os riscos antes de investir em wrapped tokens.
+

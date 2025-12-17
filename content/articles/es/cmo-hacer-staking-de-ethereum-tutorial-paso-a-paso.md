@@ -112,3 +112,4 @@ Fazer **[staking](/artigo/staking-ethereum-guia-renda-passiva-2026) de [ethereum
 Para [comprar](/artigo/como-comprar-primeira-criptomoeda "Como Comprar Sua Primeira Criptomoeda: Guia Passo a Passo") las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

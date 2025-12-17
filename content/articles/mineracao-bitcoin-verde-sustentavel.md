@@ -88,3 +88,4 @@ A indústria está evoluindo para a reciclagem e reutilização. Além disso, m�
 
 ### 4. Como posso investir em mineração sustentável?
 Você pode investir em ações de empresas de mineração listadas na bolsa que têm compromissos ESG fortes (como Marathon ou Riot) ou participar de pools de mineração que auditam suas fontes de energia.
+

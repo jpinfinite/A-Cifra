@@ -229,3 +229,4 @@ Identifying promising meme coins is possible, but:
 4. Accept that you may lose everything
 
 Remember: meme coins are a lottery with better odds, not serious investment.
+

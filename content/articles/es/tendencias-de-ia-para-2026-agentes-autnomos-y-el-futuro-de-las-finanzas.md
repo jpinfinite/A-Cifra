@@ -134,3 +134,4 @@ Prepare-se. O futuro das finanças é autônomo, inteligente e está chegando ma
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: O uso de IA em finanças envolve riscos técnicos. Teste sempre com pequenos valores antes de automatizar grandes quantias.*
+

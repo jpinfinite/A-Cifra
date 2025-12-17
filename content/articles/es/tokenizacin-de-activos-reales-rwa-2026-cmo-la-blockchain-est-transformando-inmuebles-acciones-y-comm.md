@@ -433,3 +433,4 @@ Empresa tem $1 milhão em faturas a receber em 90 dias, mas precisa de capital a
 - Smart contracts gerenciando tudo
 - IA para análise de crédito
 - Oráculos para dados do mundo real
+

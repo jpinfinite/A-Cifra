@@ -536,3 +536,4 @@ Pontos-Chave
 ✅ **UX Web2:** Blockchain invisível
 
 Mensagem Final
+

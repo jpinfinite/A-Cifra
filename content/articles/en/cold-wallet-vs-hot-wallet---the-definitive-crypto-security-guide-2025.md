@@ -167,3 +167,4 @@ Contras:
 
 - Tipo: App mobile (iOS/Android)
 - Blockchains
+

@@ -434,3 +434,4 @@ O caminho para $100k está aberto, mas volatilidade é parte do jogo. Mantenha d
 
 **Última atualização:** 3 de dezembro de 2025
 **Próxima revisão:** 10 de dezembro de 2025
+

@@ -182,3 +182,4 @@ A: Sim, o Injective Protocol é seguro. A plataforma utiliza uma arquitetura des
 ### Q: Como posso começar a negociar no Injective Protocol?
 
 A: Para começar a negociar no Injective Protocol, você precisará criar uma conta e depositar criptomoedas em sua carteira. Em seguida, você pode acessar a plataforma e começar a negociar derivativos de criptomoedas. Se você tiver alguma dúvida ou precisar de ajuda, a equipe do Injective Protocol está disponível para ajudá-lo.
+

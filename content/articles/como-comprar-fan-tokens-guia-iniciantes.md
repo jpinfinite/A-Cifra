@@ -207,3 +207,4 @@ Os riscos de comprar fan tokens incluem a volatilidade do mercado, a possibilida
 ### 5. **Posso vender meus fan tokens?**
 
 Sim, é possível vender seus fan tokens em algumas plataformas de troca. No entanto, é importante verificar as políticas de venda da plataforma e garantir que o fan token seja compatível com as transações de venda. Além disso, é importante considerar os impostos e taxas aplicáveis à venda de fan tokens.
+

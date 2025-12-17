@@ -371,3 +371,4 @@ A proposta espanhola de **imposto de 47% sobre cripto** é um exemplo de **regul
 
 **Mais sobre regulação:** Confira nossos artigos sobre [impostos cripto no Brasil](/categoria/regulacao) e [melhores países para investir em cripto](/categoria/educacao).
 
+

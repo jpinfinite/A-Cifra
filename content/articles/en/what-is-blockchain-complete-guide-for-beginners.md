@@ -87,3 +87,4 @@ A blockchain tem várias aplicações, incluindo:
 **Conclusão**
 
 A blockchain é uma tecnologia revolucionária que tem o potencial de transformar a forma como as informações são armazenadas e trocadas. Com sua estrutura [descentralizada](/artigo/web3-la-internet-descentralizada-del-futuro "Web3: La Internet Descentralizada del Futuro") e distribuída, a blockchain oferece uma forma segura e transparente de criar e trocar informações. Com as aplicações em criptomoedas, smart contracts e identidade digital, a blockchain é um campo em constante evolução e tem o potencial de mudar a forma como vivemos e trabalhamos.
+

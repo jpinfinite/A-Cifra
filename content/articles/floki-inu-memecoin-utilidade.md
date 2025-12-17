@@ -182,3 +182,4 @@ Sim, é seguro investir em Floki Inu. A memecoin tem uma equipe de desenvolvimen
 ### 5. Como posso comprar Floki Inu?
 
 Você pode comprar Floki Inu em várias plataformas de troca de criptomoedas, incluindo Binance, Coinbase e Huobi. Antes de comprar, é importante verificar a disponibilidade da memecoin em sua plataforma de escolha e seguir as instruções para realizar a compra.
+

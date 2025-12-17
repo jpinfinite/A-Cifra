@@ -235,3 +235,4 @@ O [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) é uma das formas 
 ### É seguro fazer [staking](/artigo/staking-ethereum-guia-renda-passiva-2026)?
 
 Sim, se feito corretamente. Use plataformas confiáveis (Binance, Bitget, Coinbase) ou carteiras oficiais. O maior risco é a volatilidade do preço da criptomoeda, não o [staking](/artigo/staking-ethereum-guia-renda-passiva-2026) em si. Diversifique entre várias moedas para reduzir riscos
+

@@ -158,3 +158,4 @@ The question is no longer "if" Bitcoin will reach $500k or $1 million.
 ---
 
 **Legal Disclaimer:** This article is for informational and educational purposes only. It does not constitute financial, investment, or legal advice. Cryptocurrencies are volatile and high-risk assets. Always do your own research (DYOR) and consult a financial professional before investing.
+

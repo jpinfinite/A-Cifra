@@ -95,3 +95,4 @@ DAI is the most decentralized and fundamental stablecoin for [defi](/artigo/defi
 To buy the cryptocurrencies mentioned in this article, use one of the recommended exchanges:
 
 <xchangeAffiliateLinks />
+

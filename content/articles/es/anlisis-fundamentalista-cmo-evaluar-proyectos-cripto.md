@@ -354,3 +354,4 @@ Invista tempo em educação, desenvolva suas habilidades de análise e sempre fa
 Comece a Investir em Criptomoedas
 
 Para comprar as [criptomoedas](/artigo/analisar-criptomoedas-indicadores-fundamentais-tecnicos "Como Analisar Criptomoedas: Indicadores Fundamentais e Técnicos") mencionadas neste artigo, use uma das exchanges recomendadas.
+

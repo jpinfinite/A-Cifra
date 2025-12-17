@@ -286,3 +286,4 @@ Novas máquinas são 2-3x mais eficientes, permitindo mais hashrate com mesma en
 **3. Devo investir em ações de mineradoras?**
 **Se você acredita em [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) de longo prazo:** Sim, ações de mineradoras dão leverage.
 **Se busca estabilidade:** Não, são muito voláte
+

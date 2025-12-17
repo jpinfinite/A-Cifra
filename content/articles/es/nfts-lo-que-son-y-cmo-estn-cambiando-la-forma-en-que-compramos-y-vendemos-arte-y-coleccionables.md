@@ -221,3 +221,4 @@ Os [NFTs](/artigo/nfts-revolucionando-arte-colecionaveis-mercado-digital "NFTs: 
 ## Conclusão
 
 Os NFTs representam uma revolução genuína na forma como criamos, compramos e vendemos arte e colecionáveis digitais. Embora ainda enfrentem desafios e críticas, o potencial transformador desta tecnologia é inegável.
+

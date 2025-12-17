@@ -197,3 +197,4 @@ A: Os riscos de usar a análise gráfica para tomar decisões de investimento in
  + Perda de confiança no mercado
 
 Lembre-se de que a análise gráfica é apenas uma ferramenta e não deve ser usada em isolamento para tomar decisões de investimento. É importante considerar outros fatores e tomar decisões informadas antes de investir em criptomoedas.
+

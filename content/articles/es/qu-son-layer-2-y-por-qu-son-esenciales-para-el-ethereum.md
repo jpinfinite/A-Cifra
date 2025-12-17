@@ -377,3 +377,4 @@ Aumentar blocos compromete descentralização:
 
 **Tipo:** ZK-Rollup  
 **TVL
+

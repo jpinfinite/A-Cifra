@@ -196,3 +196,4 @@ Quando o preço se aproxima de um HVN, há grande probabilidade de reação (bou
 **Exemplo - [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional):**
 
 BTC tinha um HVN em $85.000 (muito volume negociado nesse nível). Quando o preço cai
+

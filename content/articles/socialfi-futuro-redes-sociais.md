@@ -62,3 +62,4 @@ Potencialmente sim. Em redes SocialFi, usuários podem dar "tips" (gorjetas) em 
 
 ### 3. É seguro conectar minha carteira principal?
 Embora as plataformas sejam auditadas, o ideal é sempre usar uma carteira secundária ("burner wallet") para interações sociais diárias, mantendo seus investimentos pesados em uma hardware wallet separada.
+

@@ -101,3 +101,4 @@ Sí, ambos son blockchains de altísima tecnología y adopción creciente. La in
 
 ### 5. ¿Tokens de IA sufren con unlocks?
 Sí, la mayoría de los proyectos de IA lanzados recientemente (como Worldcoin) tienen FDVs altísimos y pocos tokens en circulación. Esto exige cautela redoblada, pues la presión de venta futura será inmensa.
+

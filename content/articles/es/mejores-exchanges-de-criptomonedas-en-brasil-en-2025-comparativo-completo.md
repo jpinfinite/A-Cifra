@@ -251,3 +251,4 @@ Avaliamos cada [exchange](/artigo/melhores-exchanges-cripto-2026-comparacao-taxa
 
 #### Contras
 - ⚠️ Menos conhec
+

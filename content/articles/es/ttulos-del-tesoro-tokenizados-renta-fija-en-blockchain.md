@@ -138,3 +138,4 @@ En resumen, la renta fija tokenizada en la blockchain es el futuro del mercado f
 ----------
 
 La renta fija tokenizada es un inversión de alto riesgo y puede resultar en pérdidas significativas. Es importante que los inversores entiendan bien los riesgos asociados antes de invertir. La "A Cifra" no es responsable por cualquier pérdida o daño resultante de inversiones en renta fija tokenizada.
+

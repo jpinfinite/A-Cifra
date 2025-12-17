@@ -362,3 +362,4 @@ O aumento do gas limit para 60 milhões é um **upgrade positivo e necessário**
 
 **Mais sobre [ethereum](/artigo/staking-ethereum-guia-renda-passiva-2026):** Leia nossos artigos sobre [staking de ETH](/categoria/ethereum) e [DeFi](/categoria/defi).
 
+

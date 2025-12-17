@@ -117,3 +117,4 @@ Yes, the card is designed to be safe, with advanced encryption technology and mu
 **Disclaimer**
 
 The use of the Web3 Banking Crypto Card involves risks, including loss of value of cryptocurrencies, fraud, and other risks associated with blockchain technology. It is essential that users understand these risks before using the card. Additionally, it is essential to remember that the value of cryptocurrencies can fluctuate rapidly and may result in loss of value. It is recommended that users conduct their own research and consult a professional before using the card.
+

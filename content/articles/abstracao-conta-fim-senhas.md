@@ -102,3 +102,4 @@ O padrão ERC-4337 nasceu no Ethereum, mas redes compatíveis (EVM) como Polygon
 
 ### 4. Preciso pagar para criar uma Smart Account?
 Criar um contrato inteligente na blockchain tem um pequeno custo de *gas*. No entanto, muitos aplicativos e carteiras estão subsidiando esse custo inicial para atrair novos usuários, tornando a criação gratuita na prática.
+

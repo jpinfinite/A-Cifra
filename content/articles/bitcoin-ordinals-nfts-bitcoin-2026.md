@@ -611,3 +611,4 @@ Para comprar [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) e explo
 ---
 
 *Aviso: Ordinals e tokens no [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) são experimentais e especulativos. Invista apenas o que pode perder. Faça sua própria pesquisa.*
+

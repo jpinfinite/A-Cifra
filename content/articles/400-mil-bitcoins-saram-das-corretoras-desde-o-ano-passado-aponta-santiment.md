@@ -154,3 +154,4 @@ A: As "baleias" estão retirando seus ativos das corretoras porque elas acredita
 ### Q: O que significa para os investidores do varejo?
 
 A: Para os investidores do varejo, a retirada de ativos das corretoras pode significar que o preço da criptomoeda pode subir no longo prazo, pois as "baleias" estão acumulando ativos. No entanto, é importante lembrar que o mercado de criptomoedas é altamente volátil e que as flutuações de preço podem ser rápidas e imprevisíveis.
+

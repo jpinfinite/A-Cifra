@@ -255,3 +255,4 @@ BUIDL (BlackRock USD Institutional Digital Liquidity Fund) is a tokenized fund t
 BUIDL is restricted to qualified institutional investors with a minimum of $5 million. Retail investors can have indirect exposure via DeFi protocols that accept BUIDL as collateral or by investing in related tokens (ONDO, AAVE).
 
 3. What is tokenization of assets
+

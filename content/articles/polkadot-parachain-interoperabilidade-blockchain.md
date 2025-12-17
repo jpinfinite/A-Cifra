@@ -193,3 +193,4 @@ A: Os riscos associados ao Polkadot incluem a volatilidade do mercado de criptom
 ### Q: Como posso investir no Polkadot?
 
 A: Você pode investir no Polkadot comprando tokens de parachains ou bridges. Além disso, você pode investir em tokens de criptomoedas que são compatíveis com a plataforma. É importante lembrar de fazer sua própria pesquisa e avaliação antes de investir.
+

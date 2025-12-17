@@ -133,3 +133,4 @@ Principais pontos:
 Última atualização: 2025-12-04
 
 Disclaimer: Fan Tokens são ativos de utilidade e alto risco. O desempenho passado não garante futuro. Invista com responsabilidade.
+

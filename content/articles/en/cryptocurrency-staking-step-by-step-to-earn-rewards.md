@@ -391,3 +391,4 @@ Mais conveniente, mas menos seguro que carteira própria. Use exchanges regulada
 Sim. Recompensas de staking são consideradas rendimento e devem ser declaradas.
 
 **Qual a
+

@@ -80,3 +80,4 @@ Depende de la configuración. Generalmente, puedes usar la "Recuperación Social
 
 ### 3. ¿Esto funciona solo en Ethereum?
 El estándar ERC-4337 nació en Ethereum, pero redes compatibles (EVM) como Polygon, Arbitrum, Optimism y Base también están adoptando agresivamente la tecnología.
+

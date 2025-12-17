@@ -251,3 +251,4 @@ Start small, learn constantly, and never invest more than you can lose. Financia
 Continue your Financially Decentralized education, join communities, and always stay updated with the latest trends and developments.
 
 Comece a investir em criptomoedas.
+

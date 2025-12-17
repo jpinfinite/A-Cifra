@@ -359,3 +359,4 @@ Idealmente em retestes de suporte (US$ 2,00 - US$ 2,27) ou após rompimentos con
 ## Conclusão
 
 O rompimento histórico da XRP após 7 anos de consolidação marca um momento crucial para
+

@@ -138,3 +138,4 @@ Arbitrum y Optimism están en una posición fuerte para liderar esta carrera, pe
 **Disclaimer**
 
 Recuerda que la tecnología de criptomonedas es altamente volátil y puede ser arriscada. No es recomendado invertir más de lo que puedes perder. Haz tu propia investigación y consulta a un profesional antes de tomar cualquier decisión de inversión.
+

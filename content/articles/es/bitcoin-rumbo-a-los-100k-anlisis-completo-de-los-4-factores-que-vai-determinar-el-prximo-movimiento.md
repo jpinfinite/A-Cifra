@@ -179,3 +179,4 @@ O Federal Reserve está em uma encruzilhada:
 - ✅ [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) como proteção de valor
 - ✅ Narrativa de "ouro digital" fortalece
 - ✅ Demanda instituc
+

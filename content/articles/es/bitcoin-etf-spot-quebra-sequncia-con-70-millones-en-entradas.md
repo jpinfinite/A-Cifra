@@ -370,3 +370,4 @@ metaDescription: >-
 ### 10. Vale a pena investir agora?
 
 **Sim, se você tem horizonte de 6+ meses.** Curto prazo pode
+

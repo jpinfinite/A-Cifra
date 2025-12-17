@@ -446,3 +446,4 @@ Carteiras como smart contracts, não apenas chaves privadas.
 - Abstração para desenvolvedores
 
 **2. Fragmentação de Liquidez
+

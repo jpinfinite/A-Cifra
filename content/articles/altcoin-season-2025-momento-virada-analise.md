@@ -116,3 +116,4 @@ Lembre-se: quanto mais alts, maior a volatilidade e o risco de perda permanente.
 
 ### 5. Onde comprar essas altcoins menores?
 Enquanto Bitcoin e Ethereum estão em todas as corretoras, muitas "gemas" de pequena capitalização estão disponíveis apenas em Corretoras Descentralizadas (DEXs) como Uniswap (para rede Ethereum) ou Raydium/Jupiter (para rede Solana) ou em corretoras centralizadas focadas em altcoins.
+

@@ -96,3 +96,4 @@ Both are infinitely more secure than any Hot [Wallet](/artigo/hardware-wallet-20
 **Conclusion**
 
 Investing in a [hardware](/artigo/hardware-wallet-2026-ledger-trezor-o-otro-comparativo-definitivo "Hardware Wallet 2026: Ledger, Trezor o Otro? Comparativo Definitivo") wallet costs less than the pain of losing your funds. Choose the one that best fits your profile and take your cryptos off the internet today.
+

@@ -322,3 +322,4 @@ Neste guia completo, você vai aprender tudo sobre [trading](/artigo/trading-cri
 
 **Setup:**
 1. Identifique range
+

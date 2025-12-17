@@ -230,3 +230,4 @@ Para proteger seu investimento em criptomoedas, é importante:
 ### 5. Posso investir em criptomoedas com um cartão de crédito?
 
 Sim, é possível investir em criptomoedas com um cartão de crédito. Algumas das principais plataformas de compra de criptomoedas, como a Binance e a Coinbase, permitem que você compre criptomoedas com um cartão de crédito. No entanto, é importante lembrar que investir em criptomoedas com um cartão de crédito pode ser arriscado e pode resultar em perda de dinheiro. Além disso, é importante verificar as taxas e condições de uso do cartão de crédito antes de investir.
+

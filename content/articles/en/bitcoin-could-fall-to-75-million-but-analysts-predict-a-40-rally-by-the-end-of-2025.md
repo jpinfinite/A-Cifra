@@ -219,3 +219,4 @@ A verdade? Ninguém sabe com certeza para onde o preço irá no curto prazo. Mas
 - Mantenha perspectiva de longo prazo — Bitcoin é volátil
 - Diversifique — nunca coloque tudo em um ativo
 - Faça sua própria pesquisa — este artigo é educacional, não conselho financeiro
+

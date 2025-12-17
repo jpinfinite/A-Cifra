@@ -94,3 +94,4 @@ Resposta: Os ETFs de Bitcoin podem aumentar a volatilidade do mercado, pois perm
 **Pergunta 3:** Quais são os riscos associados aos ETFs de Bitcoin?
 
 Resposta: Os riscos associados aos ETFs de Bitcoin incluem a volatilidade do mercado, a possibilidade de perda de valor da criptomoeda e a exposição a regulamentações e riscos de segurança.
+

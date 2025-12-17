@@ -182,3 +182,4 @@ Start today. Don't wait for Monday, don't wait for 2026. Open your spreadsheet, 
 **Última atualização:** 05 de dezembro de 2025
 
 *Disclaimer: Este artigo é educativo e não substitui a consultoria de um planejador financeiro profissional. Investimentos envolvem riscos.*
+

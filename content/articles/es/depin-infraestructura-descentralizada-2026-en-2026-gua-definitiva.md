@@ -130,3 +130,4 @@ A DePIN 2026 abordará tecnologias como blockchain, criptomoedas, inteligência 
 **Disclaimer**
 
 A DePIN 2026 é um evento que visa promover a educação e a conscientização sobre as tecnologias descentralizadas. No entanto, é importante lembrar que as criptomoedas e as tecnologias blockchain envolvem riscos, incluindo riscos de valorização, riscos de segurança e riscos de regulamentação. É fundamental que os investidores e os usuários de tecnologias descentralizadas realizem suas próprias pesquisas e tomem decisões informadas antes de participar de qualquer atividade relacionada à DePIN 2026.
+

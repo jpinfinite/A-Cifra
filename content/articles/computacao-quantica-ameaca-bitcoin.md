@@ -62,3 +62,4 @@ Se a criptografia base for quebrada, a confiança no sistema entraria em colapso
 
 ### 3. Existem criptomoedas seguras contra isso hoje?
 Sim, existem projetos focados especificamente em resistência quântica, como QRL, e blockchains maiores como Ethereum já pesquisam ativamente a implementação da Criptografia Pós-Quântica (PQC).
+

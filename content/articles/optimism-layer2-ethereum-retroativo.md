@@ -194,3 +194,4 @@ Os riscos do uso de Optimism incluem:
 ### 5. Como posso começar a usar Optimism?
 
 Para começar a usar Optimism, você precisará criar uma conta na plataforma e configurar suas configurações de segurança. Em seguida, você poderá começar a realizar transações e explorar as funcionalidades da plataforma. É importante lembrar que a plataforma de Optimism está constantemente sendo melhorada e atualizada, então é importante verificar as atualizações e manuais de instruções regularmente.
+

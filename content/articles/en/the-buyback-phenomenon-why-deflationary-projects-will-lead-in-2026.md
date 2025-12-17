@@ -164,3 +164,4 @@ A: Alguns dos projetos deflacionários mais populares incluem o Binance Coin (BN
 Q: Como posso investir em projetos deflacionários?
 
 A: Você pode investir em projetos defl
+

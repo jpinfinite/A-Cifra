@@ -63,3 +63,4 @@ O cenário base (45% de probabilidade) prevê um preço alvo de $100.000 - $130.
 O cenário pessimista (15% de probabilidade) prevê um preço alvo de $60.000 - $80.000, com riscos como recessão global, regulação restritiva inesperada, saída massiva de ETFs, evento de [segurança](/artigo/ciberseguranca-2026-proteger-criptomoedas-golpes) grave e perda do suporte dos $75.000.
 
 A recomendação é investir apenas o que pode perder, usar DCA, pensar em longo prazo, diversificar, educar-se continuamente, custódia segura e declarar no IR.
+

@@ -80,3 +80,4 @@ Entender la cadena de bloques es esencial para comprender el futuro de la tecnol
 Para comprar las criptomonedas mencionadas en este artículo, use una de las exchanges recomendadas:
 
 <xchangeAffiliateLinks />
+

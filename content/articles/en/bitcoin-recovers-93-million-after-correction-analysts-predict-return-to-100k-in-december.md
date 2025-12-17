@@ -235,3 +235,4 @@ Os ETFs de [bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) continuam
 **Posição:** Bullish de longo prazo
 
 *"[bitcoin](/artigo/bitcoin-200k-2026-previsao-institucional) está se consolidando como reserva de valor digital. $93k é apenas o começo. Vemos $
+

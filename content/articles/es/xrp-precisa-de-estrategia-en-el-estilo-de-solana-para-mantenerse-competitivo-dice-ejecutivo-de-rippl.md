@@ -90,3 +90,4 @@ A: Isso significa que o XRP precisa de uma abordagem inovadora e agressiva para 
 
 Q: Qual é o impacto disso para os investidores?
 A: O impacto disso pode ser significativo, pois a competitividade dos ativos digitais pode afetar os lucros dos investidores. No entanto, é importante lembrar que o mercado de criptomoedas é incerto e cheio de riscos.
+

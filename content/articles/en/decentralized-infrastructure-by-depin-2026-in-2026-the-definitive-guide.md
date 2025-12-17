@@ -197,3 +197,4 @@ The DePIN has several key features that make it an attractive solution for netwo
 
 *   **Security**: The DePIN is designed to be secure and reliable, with a consensus algorithm that ensures that all nodes are in sync and that the network is functioning correctly.
 *   **Decentralization**: The DePIN is a decentralized infrastructure, which means that there is no single point
+

@@ -113,3 +113,4 @@ En 2030, el Bitcoin será más que solo una moneda digital; será un símbolo de
 **Aclaración**
 
 La minería de Bitcoin involucra riesgos, incluyendo riesgos de mercado, riesgos de crédito y riesgos de liquidez. Además, la minería de Bitcoin puede estar sujeta a regulaciones y leyes que pueden afectar la industria. Es importante realizar una investigación cuidadosa y consultar a un profesional antes de invertir en minería de Bitcoin o cualquier otra actividad relacionada.
+
