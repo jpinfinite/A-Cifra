@@ -77,6 +77,18 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
     setOpenDropdown(null)
   }, [pathname])
 
+  // Bloquear scroll do body quando menu estiver aberto
+  useEffect(() => {
+    if (isMenuOpen) {
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = 'unset'
+    }
+    return () => {
+      document.body.style.overflow = 'unset'
+    }
+  }, [isMenuOpen])
+
   // Fechar menu ao pressionar ESC
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
@@ -279,16 +291,12 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
                 aria-controls="mobile-menu"
                 aria-label={isMenuOpen ? 'Fechar menu' : 'Abrir menu'}
               >
-                {isMenuOpen ? (
-                  <X className="h-5 w-5" />
-                ) : (
-                  <Menu className="h-5 w-5" />
-                )}
+                <Menu className="h-6 w-6" />
               </Button>
             </div>
           </div>
 
-          {/* Search Bar */}
+          {/* Search Bar (Expandable) */}
           {isSearchOpen && (
             <div className="py-4 border-t border-gray-100 animate-fade-in">
               <div className="max-w-2xl mx-auto">
@@ -319,111 +327,136 @@ export function Header({ dictionary, locale = 'pt-BR' }: HeaderProps) {
         </nav>
       </header>
 
-      {/* Mobile Navigation */}
+      {/* Mobile Menu Overlay / Backdrop */}
+      {isMenuOpen && (
+        <div
+          className="fixed inset-0 z-40 bg-black/60 backdrop-blur-sm lg:hidden transition-opacity duration-300"
+          onClick={() => setIsMenuOpen(false)}
+          aria-hidden="true"
+        />
+      )}
+
+      {/* Mobile Navigation Drawer */}
       <div
         id="mobile-menu"
         className={cn(
-          'fixed top-16 left-0 right-0 z-40 lg:hidden transition-all duration-300 ease-in-out',
-          'bg-white border-b border-gray-200 shadow-lg',
-          isMenuOpen
-            ? 'max-h-96 opacity-100'
-            : 'max-h-0 opacity-0 overflow-hidden'
+          'fixed inset-y-0 right-0 z-50 w-[85vw] max-w-sm bg-white shadow-2xl transform transition-transform duration-300 ease-in-out lg:hidden overflow-hidden flex flex-col',
+          isMenuOpen ? 'translate-x-0' : 'translate-x-full'
         )}
       >
-        <nav className="px-4 py-4" aria-label="Menu mobile">
-          <div className="space-y-1">
+        {/* Drawer Header */}
+        <div className="flex items-center justify-between p-4 border-b border-gray-100 bg-gray-50/50">
+          <div className="flex items-center gap-2">
+            <Logo size="sm" />
+          </div>
+          <Button
+            variant="ghost"
+            size="sm"
+            onClick={() => setIsMenuOpen(false)}
+            className="text-gray-500 hover:text-red-500 hover:bg-red-50"
+          >
+            <X className="h-6 w-6" />
+          </Button>
+        </div>
+
+        {/* Drawer Content */}
+        <nav className="flex-1 overflow-y-auto px-4 py-6 scrollbar-thin scrollbar-thumb-gray-200" aria-label="Menu mobile">
+          <div className="space-y-4">
+
+            {/* Busca Mobile integrada */}
+            <div className="relative mb-6">
+              <input
+                type="search"
+                placeholder="O que você procura?"
+                className="w-full pl-10 pr-4 py-2.5 bg-gray-50 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-brand-primary-blue text-brand-dark-blue"
+              />
+              <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-gray-400" />
+            </div>
+
             {navigation.map((item) => (
-              <div key={item.href}>
+              <div key={item.href} className="border-b border-gray-50 last:border-0 pb-2 last:pb-0">
                 {item.children ? (
                   // Mobile dropdown
-                  <div>
+                  <div className="space-y-2">
                     <button
                       onClick={() => toggleDropdown(item.label)}
                       className={cn(
-                        'w-full flex items-center justify-between px-4 py-3 rounded-lg text-base font-medium',
-                        'transition-all duration-200 min-h-touch',
-                        'hover:bg-brand-off-white hover:text-brand-primary-blue',
-                        'focus:outline-none focus:ring-2 focus:ring-brand-primary-blue focus:ring-offset-2',
-                        openDropdown === item.label
-                          ? 'bg-brand-primary-blue text-white shadow-md'
-                          : 'text-brand-dark-blue'
+                        'w-full flex items-center justify-between py-2 text-lg font-semibold text-brand-dark-blue',
+                        'transition-colors duration-200',
+                        openDropdown === item.label ? 'text-brand-primary-blue' : ''
                       )}
                       aria-expanded={openDropdown === item.label}
                     >
-                      <span>{item.label}</span>
+                      <span className="flex items-center gap-2">
+                        {/* Ícones ou prefixos podem ser adicionados aqui */}
+                        {item.label}
+                      </span>
                       <ChevronDown className={cn(
-                        'h-4 w-4 transition-transform duration-200',
-                        openDropdown === item.label ? 'rotate-180' : ''
+                        'h-5 w-5 transition-transform duration-300',
+                        openDropdown === item.label ? 'rotate-180 text-brand-primary-blue' : 'text-gray-400'
                       )} />
                     </button>
 
                     {/* Mobile submenu */}
-                    {openDropdown === item.label && (
-                      <div className="mt-1 ml-4 space-y-1 animate-fade-in">
+                    <div className={cn(
+                      "grid gap-1 pl-4 transition-all duration-300 ease-in-out overflow-hidden",
+                      openDropdown === item.label ? "grid-rows-[1fr] opacity-100 mt-2" : "grid-rows-[0fr] opacity-0 mt-0"
+                    )}>
+                      <div className="overflow-hidden space-y-2">
                         {item.children.map((child) => (
                           <Link
                             key={child.href}
                             href={child.href}
+                            onClick={() => setIsMenuOpen(false)}
                             className={cn(
-                              'block px-4 py-2 rounded-lg text-sm font-medium',
-                              'transition-all duration-200 min-h-touch',
-                              'hover:bg-brand-off-white hover:text-brand-primary-blue',
-                              'focus:outline-none focus:ring-2 focus:ring-brand-primary-blue focus:ring-offset-2',
+                              'block py-2 px-3 rounded-md text-base font-medium transition-colors',
+                              'hover:bg-blue-50 hover:text-brand-primary-blue',
                               isActive(child.href)
-                                ? 'bg-brand-primary-blue text-white shadow-md'
-                                : 'text-brand-dark-blue'
+                                ? 'bg-blue-50 text-brand-primary-blue font-semibold'
+                                : 'text-gray-600'
                             )}
-                            aria-current={isActive(child.href) ? 'page' : undefined}
                           >
                             {child.label}
                           </Link>
                         ))}
                       </div>
-                    )}
+                    </div>
                   </div>
                 ) : (
                   // Regular mobile link
                   <Link
                     href={item.href}
+                    onClick={() => setIsMenuOpen(false)}
                     className={cn(
-                      'flex items-center justify-between px-4 py-3 rounded-lg text-base font-medium',
-                      'transition-all duration-200 min-h-touch',
-                      'hover:bg-brand-off-white hover:text-brand-primary-blue',
-                      'focus:outline-none focus:ring-2 focus:ring-brand-primary-blue focus:ring-offset-2',
+                      'flex items-center justify-between py-2 text-lg font-semibold',
+                      'transition-colors duration-200 hover:text-brand-primary-blue',
                       isActive(item.href)
-                        ? 'bg-brand-primary-blue text-white shadow-md'
+                        ? 'text-brand-primary-blue'
                         : 'text-brand-dark-blue'
                     )}
-                    aria-current={isActive(item.href) ? 'page' : undefined}
                   >
                     <span>{item.label}</span>
-                    {isActive(item.href) && (
-                      <ChevronDown className="h-4 w-4 rotate-180" />
-                    )}
+                    {isActive(item.href) && <div className="w-1.5 h-1.5 rounded-full bg-brand-primary-blue"></div>}
                   </Link>
                 )}
               </div>
             ))}
-
-            {/* Mobile Language Switcher and Search */}
-            <div className="pt-4 border-t border-gray-100 space-y-2">
-              <div className="md:hidden">
-                <LanguageSwitcher />
-              </div>
-
-              <Button
-                variant="outline"
-                size="sm"
-                className="w-full justify-start items-center space-x-2"
-                onClick={toggleSearch}
-                aria-label="Pesquisar artigos"
-              >
-                <Search className="h-4 w-4" />
-                <span>Pesquisar artigos</span>
-              </Button>
-            </div>
           </div>
         </nav>
+
+        {/* Drawer Footer */}
+        <div className="p-6 bg-gray-50 border-t border-gray-100">
+          <div className="flex flex-col gap-4">
+            <div className="flex justify-center">
+              <LanguageSwitcher />
+            </div>
+            <div className="text-center">
+              <p className="text-xs text-gray-500">
+                &copy; {new Date().getFullYear()} A Cifra. Todos os direitos reservados.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   )
