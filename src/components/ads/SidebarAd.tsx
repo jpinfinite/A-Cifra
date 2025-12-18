@@ -20,69 +20,79 @@ export function SidebarAd({
   className = ''
 }: SidebarAdProps) {
   const [isMounted, setIsMounted] = useState(false)
-  const adRef = useRef<HTMLModElement>(null)
+  const [isVisible, setIsVisible] = useState(false)
+  const adRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     setIsMounted(true)
   }, [])
 
   useEffect(() => {
-    if (isMounted) {
+    if (!isMounted || !adRef.current) return
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setIsVisible(true)
+          observer.disconnect()
+        }
+      },
+      { rootMargin: '200px' } // Carrega quando estiver a 200px de entrar na tela
+    )
+
+    observer.observe(adRef.current)
+
+    return () => observer.disconnect()
+  }, [isMounted])
+
+  useEffect(() => {
+    if (isVisible) {
       const initAd = () => {
         try {
-          if (typeof window !== 'undefined' && adRef.current) {
-            // Check if container has width and is visible
-            const width = adRef.current.offsetWidth
-            if (width > 0 && window.getComputedStyle(adRef.current).display !== 'none') {
-              (window.adsbygoogle = window.adsbygoogle || []).push({})
-            } else {
-              // Retry once after a delay if width is 0 (e.g., initial render in hidden tab or collapsed sidebar)
-              setTimeout(() => {
-                if (adRef.current?.offsetWidth && adRef.current.offsetWidth > 0) {
-                  (window.adsbygoogle = window.adsbygoogle || []).push({})
-                }
-              }, 1000)
-            }
+          if (typeof window !== 'undefined') {
+            (window.adsbygoogle = window.adsbygoogle || []).push({})
           }
         } catch (e) {
           console.error('AdSense error:', e)
         }
       }
 
-      // Initial attempt with small delay to ensure layout stability
-      const timer = setTimeout(initAd, 1000)
-
+      // Delay pequeno para garantir layout
+      const timer = setTimeout(initAd, 100)
       return () => clearTimeout(timer)
     }
-  }, [isMounted])
+  }, [isVisible])
 
   if (!isMounted) {
     return (
-      <div className={`sidebar-ad-container ${sticky ? 'lg:sticky lg:top-24' : ''} ${className} min-h-[250px]`}>
-        <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 h-full flex items-center justify-center min-h-[inherit] animate-pulse">
-          <p className="text-xs text-gray-400 dark:text-gray-500">
-            Publicidade
-          </p>
-        </div>
-      </div>
+      <div className={`sidebar-ad-container ${sticky ? 'lg:sticky lg:top-24' : ''} ${className} min-h-[250px] bg-gray-50 dark:bg-gray-800 rounded-lg animate-pulse`} />
     )
   }
 
   return (
-    <div className={`sidebar-ad-container ${sticky ? 'lg:sticky lg:top-24' : ''} ${className} min-h-[250px]`}>
+    <div
+      ref={adRef}
+      className={`sidebar-ad-container ${sticky ? 'lg:sticky lg:top-24' : ''} ${className} min-h-[250px] overflow-hidden`}
+    >
       <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 min-h-[inherit]">
         <p className="text-xs text-gray-500 dark:text-gray-400 mb-2 text-center">
           Publicidade
         </p>
-        <ins
-          ref={adRef}
-          className="adsbygoogle"
-          style={{ display: 'block', width: '100%', minWidth: '250px' }}
-          data-ad-client="ca-pub-1151448515464841"
-          data-ad-slot={slot}
-          data-ad-format="vertical"
-          data-full-width-responsive="true"
-        />
+
+        {isVisible ? (
+          <ins
+            className="adsbygoogle"
+            style={{ display: 'block', width: '100%', minWidth: '250px' }}
+            data-ad-client="ca-pub-1151448515464841"
+            data-ad-slot={slot}
+            data-ad-format="vertical"
+            data-full-width-responsive="true"
+          />
+        ) : (
+          <div className="min-h-[250px] flex items-center justify-center text-gray-400">
+            Carregando...
+          </div>
+        )}
       </div>
     </div>
   )
