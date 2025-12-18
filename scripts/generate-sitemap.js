@@ -25,29 +25,61 @@ const STATIC_PAGES = [
   { loc: '/termos/', priority: 0.3, changefreq: 'yearly' },
 ]
 
+function getAllFiles(dirPath, arrayOfFiles) {
+  const files = fs.readdirSync(dirPath)
+
+  arrayOfFiles = arrayOfFiles || []
+
+  files.forEach(function(file) {
+    if (fs.statSync(path.join(dirPath, file)).isDirectory()) {
+      arrayOfFiles = getAllFiles(path.join(dirPath, file), arrayOfFiles)
+    } else {
+      arrayOfFiles.push(path.join(dirPath, file))
+    }
+  })
+
+  return arrayOfFiles
+}
+
 function getArticles() {
   const articles = []
-  const files = fs.readdirSync(ARTICLES_DIR)
 
-  for (const file of files) {
-    if (!file.endsWith('.md')) continue
+  // Suporte a estrutura antiga (raiz) e nova (pastas de idiomas)
+  try {
+    const allFiles = getAllFiles(ARTICLES_DIR)
 
-    try {
-      const filePath = path.join(ARTICLES_DIR, file)
-      const content = fs.readFileSync(filePath, 'utf-8')
-      const { data } = matter(content)
+    for (const filePath of allFiles) {
+      if (!filePath.endsWith('.md')) continue
 
-      if (data.slug && data.publishedAt) {
-        articles.push({
-          loc: `/artigo/${data.slug}/`,
-          lastmod: data.updatedAt || data.publishedAt,
-          priority: 0.7,
-          changefreq: 'weekly'
-        })
+      try {
+        const content = fs.readFileSync(filePath, 'utf-8')
+        const { data } = matter(content)
+
+        // Determinar idioma e prefixo URL baseada na pasta
+        const relativePath = path.relative(ARTICLES_DIR, filePath)
+        let urlPrefix = '/artigo/' // Padrão (pt-BR na raiz ou subpasta explicita)
+
+        if (relativePath.includes('en\\') || relativePath.includes('en/')) {
+          urlPrefix = '/en/article/'
+        } else if (relativePath.includes('es\\') || relativePath.includes('es/')) {
+          urlPrefix = '/es/article/'
+        }
+
+        // Ignorar se não tiver publicado
+        if (data.slug && data.publishedAt) {
+          articles.push({
+            loc: `${urlPrefix}${data.slug}/`, // Trailing slash é importante para SEO
+            lastmod: data.updatedAt || data.publishedAt,
+            priority: 0.7,
+            changefreq: 'weekly'
+          })
+        }
+      } catch (error) {
+        console.error(`❌ Erro ao processar ${filePath}:`, error.message)
       }
-    } catch (error) {
-      console.error(`❌ Erro ao processar ${file}:`, error.message)
     }
+  } catch(e) {
+    console.log('Erro ao ler diretório de artigos:', e.message)
   }
 
   return articles
