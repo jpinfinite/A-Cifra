@@ -1,0 +1,44 @@
+{
+  "slug": "como-declarar-bitcoin-imposto-renda-2025",
+  "title": "Bitcoin no Imposto de Renda 2025: Evite Multas! O Passo a Passo Essencial",
+  "subtitle": "Descubra como preencher corretamente sua declaração de criptomoedas, entenda as obrigações da Receita Federal e garanta sua tranquilidade fiscal para o próximo ano.",
+  "lcpImage": "/images/articles/declarar-bitcoin-ir-2025.webp",
+  "intro": "A era digital trouxe novas complexidades para a declaração do Imposto de Renda. Se você possui Bitcoin ou outras criptomoedas, entender as regras para 2025 é crucial. Este guia prático desvenda o caminho para declarar seus ativos digitais corretamente, evitando dores de cabeça com o Fisco.",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "O universo das criptomoedas, liderado pelo Bitcoin, se consolidou como uma nova fronteira de investimentos. Com essa popularização, a Receita Federal tem intensificado a fiscalização sobre esses ativos digitais. Entender como declará-los é mais do que uma obrigação, é uma estratégia para evitar surpresas desagradáveis.\n\nPara o Imposto de Renda 2025 (ano-base 2024), as diretrizes gerais para criptoativos permanecem, mas a atenção aos detalhes é fundamental. A omissão ou declaração incorreta pode resultar em multas pesadas e outras sanções fiscais."
+    },
+    {
+      "type": "text",
+      "content": "### Quem Precisa Declarar Bitcoin?\n\nA primeira pergunta é: quem realmente precisa declarar Bitcoin e outras criptomoedas? A regra é clara: se o valor de aquisição de seus criptoativos *totaliza* mais de R$ 5.000,00 em 31 de dezembro do ano-base, a declaração é obrigatória.\n\nIsso inclui Bitcoin, Ethereum, NFTs e qualquer outro ativo digital que possa ser equiparado a um bem ou direito. Não confunda o valor de mercado com o valor de aquisição; o que importa para a obrigatoriedade é este último."
+    },
+    {
+      "type": "text",
+      "content": "### Onde Declarar na Ficha 'Bens e Direitos'\n\nDentro do programa da Receita Federal, você deverá ir à ficha 'Bens e Direitos'. Lá, escolha o **Grupo '08 – Criptoativos'**. As opções mais comuns são:\n\n*   **Código 01**: Bitcoin (BTC)\n*   **Código 10**: Outros Criptoativos (altcoins, tokens)\n*   **Código 88**: Outros Criptoativos (caso não se encaixe nos anteriores, ou para NFTs)\n\nNo campo 'Discriminação', seja detalhista. Informe a quantidade de criptomoedas, a corretora (exchange) utilizada ou a carteira (wallet) onde estão custodiadas. Se comprou em mais de uma plataforma, especifique cada uma."
+    },
+    {
+      "type": "text",
+      "content": "### Valores a Serem Informados: Custo de Aquisição\n\nNos campos 'Situação em 31/12/2023' e 'Situação em 31/12/2024' (para o IR 2025), informe o *custo de aquisição* de seus criptoativos.\n\nIsso significa o valor em reais que você pagou para comprá-los, incluindo taxas e comissões. Não é o valor de mercado no último dia do ano. O custo de aquisição é essencial para calcular futuros ganhos de capital.\n\nSe você adquiriu criptos em diferentes momentos e por preços variados, utilize o 'custo médio ponderado' para a apuração. É fundamental manter registros detalhados de todas as suas transações."
+    },
+    {
+      "type": "ad",
+      "slot": "article-middle"
+    },
+    {
+      "type": "text",
+      "content": "### Ganhos de Capital: Onde Mora o Perigo\n\nAlém da posse, a venda de criptoativos gera uma obrigação ainda mais importante: o cálculo e recolhimento do Imposto de Renda sobre o 'ganho de capital'.\n\nSe o total de vendas de criptoativos (somando Bitcoin, Ethereum, etc.) em um mês *ultrapassar R$ 35.000,00*, o lucro obtido na venda é tributável. A alíquota varia de 15% a 22,5%, dependendo do valor do ganho.\n\nO mais crucial: o imposto sobre esse ganho deve ser recolhido até o último dia útil do mês seguinte à venda, através de um DARF (Documento de Arrecadação de Receitas Federais) com código 6899. Não é preciso esperar a declaração anual!"
+    },
+    {
+      "type": "text",
+      "content": "### Vendas Abaixo de R$ 35 Mil Mensais\n\nE se minhas vendas mensais forem menores que R$ 35.000,00? Nesse caso, o ganho de capital é *isento* de Imposto de Renda. Uma ótima notícia para pequenos investidores!\n\nMesmo isento, é importante registrar essas operações na ficha 'Rendimentos Isentos e Não Tributáveis' da sua declaração anual, informando o valor do ganho obtido. Isso mostra transparência à Receita."
+    },
+    {
+      "type": "text",
+      "content": "### Atenção às Novidades (ou Reforços) para 2025\n\nEmbora as regras gerais se mantenham, a Receita Federal está cada vez mais atenta à interoperabilidade de dados. Corretoras nacionais já reportam suas movimentações. Há um olhar mais aguçado para operações em exchanges estrangeiras ou P2P (peer-to-peer).\n\nA instrução normativa que obriga exchanges a reportar operações (IN 1888) fortalece a fiscalização. Ignorar essas movimentações é um risco. Mantenha sempre um registro completo e organizado de suas compras e vendas."
+    }
+  ],
+  "conclusion": "Declarar Bitcoin no Imposto de Renda 2025 pode parecer complexo, mas com as informações corretas e organização, é um processo tranquilo. Manter registros precisos e entender as regras de ganho de capital são seus maiores aliados. Fique em dia com o Leão e evite surpresas indesejadas!",
+  "publishedAt": "2025-12-18T18:04:13.226Z",
+  "category": "criptomoedas"
+}
