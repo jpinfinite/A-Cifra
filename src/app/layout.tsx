@@ -139,10 +139,9 @@ export default function RootLayout({
         {/* Google Reader Revenue Manager - Assinaturas */}
         <Script
           src="https://news.google.com/swg/js/v1/swg-basic.js"
-          strategy="afterInteractive"
-          async
+          strategy="lazyOnload"
         />
-        <Script id="reader-revenue-manager" strategy="afterInteractive">
+        <Script id="reader-revenue-manager" strategy="lazyOnload">
           {`
             (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
               basicSubscriptions.init({
@@ -161,9 +160,9 @@ export default function RootLayout({
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-TFBC1HD2BR"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
