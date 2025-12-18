@@ -42,89 +42,102 @@ interface ArticleFromFile {
 }
 
 export function getArticlesByLanguage(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): ArticleFromFile[] {
-  let articlesDirectory = path.join(process.cwd(), 'content/articles')
+  const rootDir = path.join(process.cwd(), 'content/articles')
+  const dirsToRead: string[] = []
+
   if (language === 'en') {
-    articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+    dirsToRead.push(path.join(rootDir, 'en'))
   } else if (language === 'es') {
-    articlesDirectory = path.join(process.cwd(), 'content/articles/es')
+    dirsToRead.push(path.join(rootDir, 'es'))
+  } else {
+    // pt-BR: Lê raiz (legado) E pasta pt-BR (novo padrão)
+    dirsToRead.push(rootDir)
+    dirsToRead.push(path.join(rootDir, 'pt-BR'))
   }
 
-  if (!fs.existsSync(articlesDirectory)) {
-    return []
-  }
+  const allArticles: ArticleFromFile[] = []
+  const processedSlugs = new Set<string>()
 
-  const fileNames = fs.readdirSync(articlesDirectory)
-  const articles = fileNames
-    .filter(fileName => fileName.endsWith('.md'))
-    .map(fileName => {
+  for (const dir of dirsToRead) {
+    if (!fs.existsSync(dir)) continue
+
+    const fileNames = fs.readdirSync(dir)
+    fileNames.forEach(fileName => {
+      if (!fileName.endsWith('.md')) return
+
       const slug = fileName.replace(/\.md$/, '')
-      const fullPath = path.join(articlesDirectory, fileName)
-      const fileContents = fs.readFileSync(fullPath, 'utf8')
-      const { data, content } = matter(fileContents)
+      if (processedSlugs.has(slug)) return // Evita duplicatas se houver mesmo slug na raiz e pt-BR (prioriza o primeiro que ler - raiz neste caso)
 
-      // Extração automática de FAQs do conteúdo Markdown
-      // Procura por seção ## FAQ ou ## Perguntas Frequentes
-      // E extrai pares de H3 (Pergunta) + Parágrafos (Resposta)
-      let extractedFaq = data.faq as { question: string, answer: string }[] | undefined
+      try {
+        const fullPath = path.join(dir, fileName)
+        const fileContents = fs.readFileSync(fullPath, 'utf8')
+        const { data, content } = matter(fileContents)
 
-      if (!extractedFaq) {
-        const faqRegex = /##\s*(?:FAQ|Perguntas Frequentes)([\s\S]*?)(?:##|$)/i
-        const faqMatch = content.match(faqRegex)
-
-        if (faqMatch && faqMatch[1]) {
-           const faqSection = faqMatch[1]
-           // Procura por perguntas (### Pergunta) e respostas (texto subsequente)
-           const qaRegex = /###\s+(.*?)\n+([\s\S]*?)(?=(?:###|$))/g
-           const matches = Array.from(faqSection.matchAll(qaRegex))
-
-           if (matches.length > 0) {
-             extractedFaq = matches.map(match => ({
-               question: match[1].trim(),
-               answer: match[2].trim()
-             }))
-           }
+        // Extração automática de FAQs
+        let extractedFaq = data.faq as { question: string, answer: string }[] | undefined
+        if (!extractedFaq) {
+          const faqRegex = /##\s*(?:FAQ|Perguntas Frequentes)([\s\S]*?)(?:##|$)/i
+          const faqMatch = content.match(faqRegex)
+          if (faqMatch && faqMatch[1]) {
+             const faqSection = faqMatch[1]
+             const qaRegex = /###\s+(.*?)\n+([\s\S]*?)(?=(?:###|$))/g
+             const matches = Array.from(faqSection.matchAll(qaRegex))
+             if (matches.length > 0) {
+               extractedFaq = matches.map(match => ({
+                 question: match[1].trim(),
+                 answer: match[2].trim()
+               }))
+             }
+          }
         }
+
+        allArticles.push({
+          ...data,
+          content,
+          faq: extractedFaq,
+          slug,
+          language
+        } as ArticleFromFile)
+
+        processedSlugs.add(slug)
+      } catch (e) {
+        console.error(`Error reading article ${fileName}:`, e)
       }
-
-      return {
-        ...data,
-        content,
-        faq: extractedFaq,
-        slug,
-        language
-      } as ArticleFromFile
     })
-    .sort((a, b) => {
-      return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-    })
+  }
 
-  return articles
+  return allArticles.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
 }
 
 export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): ArticleFromFile | null {
   try {
-    let articlesDirectory = path.join(process.cwd(), 'content/articles')
+    const rootDir = path.join(process.cwd(), 'content/articles')
+    const possiblePaths: string[] = []
+
     if (language === 'en') {
-      articlesDirectory = path.join(process.cwd(), 'content/articles/en')
+      possiblePaths.push(path.join(rootDir, 'en', `${slug}.md`))
     } else if (language === 'es') {
-      articlesDirectory = path.join(process.cwd(), 'content/articles/es')
+      possiblePaths.push(path.join(rootDir, 'es', `${slug}.md`))
+    } else {
+      // pt-BR: tenta raiz e subpasta
+      possiblePaths.push(path.join(rootDir, `${slug}.md`))        // Legado
+      possiblePaths.push(path.join(rootDir, 'pt-BR', `${slug}.md`)) // Novo
     }
 
-    const fullPath = path.join(articlesDirectory, `${slug}.md`)
-
-    if (!fs.existsSync(fullPath)) {
-      return null
+    for (const fullPath of possiblePaths) {
+      if (fs.existsSync(fullPath)) {
+        const fileContents = fs.readFileSync(fullPath, 'utf8')
+        const { data, content } = matter(fileContents)
+        return {
+          ...data,
+          content,
+          slug,
+          language
+        } as ArticleFromFile
+      }
     }
 
-    const fileContents = fs.readFileSync(fullPath, 'utf8')
-    const { data, content } = matter(fileContents)
-
-    return {
-      ...data,
-      content,
-      slug,
-      language
-    } as ArticleFromFile
+    return null
   } catch (error) {
     if (process.env.NODE_ENV === 'development') {
       console.error(`Error loading article ${slug}:`, error)
@@ -135,29 +148,15 @@ export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' =
 
 export function getAllArticleSlugs(language?: 'pt-BR' | 'en' | 'es'): string[] {
   if (language) {
-    let articlesDirectory = path.join(process.cwd(), 'content/articles')
-    if (language === 'en') {
-      articlesDirectory = path.join(process.cwd(), 'content/articles/en')
-    } else if (language === 'es') {
-      articlesDirectory = path.join(process.cwd(), 'content/articles/es')
-    }
-
-    if (!fs.existsSync(articlesDirectory)) {
-      return []
-    }
-
-    return fs.readdirSync(articlesDirectory)
-      .filter(fileName => fileName.endsWith('.md'))
-      .map(fileName => fileName.replace(/\.md$/, ''))
+    const articles = getArticlesByLanguage(language)
+    return articles.map(a => a.slug)
   }
 
-  // Get slugs from all languages
   const ptSlugs = getAllArticleSlugs('pt-BR')
   const enSlugs = getAllArticleSlugs('en')
   const esSlugs = getAllArticleSlugs('es')
 
-  const allSlugs = [...ptSlugs, ...enSlugs, ...esSlugs]
-  return Array.from(new Set(allSlugs))
+  return Array.from(new Set([...ptSlugs, ...enSlugs, ...esSlugs]))
 }
 
 // Aliases para compatibilidade com código existente - retornam Article[]
