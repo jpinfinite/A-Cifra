@@ -265,7 +265,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
     const publicPath = path.join(process.cwd(), 'public', imageSrc)
     if (!fs.existsSync(publicPath)) {
         // If file doesn't exist, trigger fallback
-        imageSrc = null
+        imageSrc = undefined
     }
   }
 
