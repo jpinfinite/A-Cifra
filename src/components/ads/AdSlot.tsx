@@ -34,7 +34,7 @@ export function AdSlot({
           if (!pushedRef.current) {
             pushedRef.current = true
             try {
-              // @ts-ignore
+
               (window.adsbygoogle = window.adsbygoogle || []).push({})
             } catch (e) {
               console.error('AdSense push error:', e)

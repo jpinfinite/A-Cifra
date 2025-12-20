@@ -16,36 +16,26 @@ export function CryptoConverter() {
   }, [])
 
   useEffect(() => {
+    function calculate() {
+      if (!rates) return
+
+      const val = parseFloat(amount)
+      if (isNaN(val)) {
+        setResult(null)
+        return
+      }
+
+      // Logic: simple price gives price of ID in Currency.
+      // e.g. bitcoin: { brl: 500000 }
+
+      // If converting From Crypto -> Fiat
+      if (rates[fromCurrency] && rates[fromCurrency][toCurrency]) {
+        setResult(val * rates[fromCurrency][toCurrency])
+      }
+    }
+
     calculate()
   }, [amount, fromCurrency, toCurrency, rates])
-
-  async function fetchRates() {
-    try {
-      const response = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,tether&vs_currencies=brl,usd,eur')
-      const data = await response.json()
-      setRates(data)
-    } catch (e) {
-      console.error("Failed to fetch rates", e)
-    }
-  }
-
-  function calculate() {
-    if (!rates) return
-
-    const val = parseFloat(amount)
-    if (isNaN(val)) {
-      setResult(null)
-      return
-    }
-
-    // Logic: simple price gives price of ID in Currency.
-    // e.g. bitcoin: { brl: 500000 }
-
-    // If converting From Crypto -> Fiat
-    if (rates[fromCurrency] && rates[fromCurrency][toCurrency]) {
-      setResult(val * rates[fromCurrency][toCurrency])
-    }
-  }
 
   return (
     <div className="bg-white rounded-xl shadow-lg p-6 border border-gray-100">
