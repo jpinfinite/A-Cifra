@@ -13,398 +13,225 @@ export interface ImageMapping {
 /**
  * Catálogo completo de imagens disponíveis
  * Organizado por categoria e palavras-chave
+ * Atualizado com imagens reais de Dezembro 2025
  */
 export const imagesCatalog: ImageMapping[] = [
   // Bitcoin
   {
-    src: '/images/bitcoin-guide-2025.jpg',
-    alt: 'Bitcoin - Guia completo para iniciantes 2025',
+    src: '/images/bitcoin/2025-12/bitcoin-200k-institucional.webp',
+    alt: 'Bitcoin em alta adoção institucional',
     category: 'bitcoin',
-    keywords: ['bitcoin', 'btc', 'guia', 'iniciantes', 'investimento']
+    keywords: ['bitcoin', 'institucional', '200k', 'investimento', 'banco']
   },
   {
-    src: '/images/bitcoin-coin-stack.jpg',
-    alt: 'Pilha de moedas Bitcoin representando acumulação e investimento',
+    src: '/images/bitcoin/2025-12/bitcoin-halving-2028.webp',
+    alt: 'Bitcoin Halving e Ciclos de Mercado',
     category: 'bitcoin',
-    keywords: ['bitcoin', 'moedas', 'investimento', 'acumulação', 'stack']
+    keywords: ['bitcoin', 'halving', '2028', 'ciclo', 'mineração']
   },
   {
-    src: '/images/cripto-bitcoin.jpg',
-    alt: 'Bitcoin e criptomoedas - Análise de mercado',
+    src: '/images/bitcoin/2025-12/bitcoin-layer-2-stacks-ordinals.webp',
+    alt: 'Bitcoin Layer 2 Stacks e Ordinals',
     category: 'bitcoin',
-    keywords: ['bitcoin', 'cripto', 'mercado', 'análise', 'trading']
+    keywords: ['bitcoin', 'layer 2', 'stacks', 'ordinals', 'defi']
   },
   {
-    src: '/images/bitcoin-renascimento-optimized.webp',
-    alt: 'Renascimento do Bitcoin - Nova era das criptomoedas',
+    src: '/images/bitcoin/2025-12/bitcoin-previsao-2026-analise.webp',
+    alt: 'Análise de Previsão Bitcoin 2026',
     category: 'bitcoin',
-    keywords: ['bitcoin', 'renascimento', 'bull market', 'alta', 'otimismo']
+    keywords: ['bitcoin', 'previsão', '2026', 'análise', 'preço']
   },
   {
-    src: '/images/#bitcoin.jpg',
-    alt: 'Bitcoin - Símbolo da revolução financeira digital',
+    src: '/images/bitcoin/2025-12/bitcoin-queda-ciclos.webp',
+    alt: 'Análise de Ciclos de Queda do Bitcoin',
     category: 'bitcoin',
-    keywords: ['bitcoin', 'revolução', 'digital', 'descentralização']
+    keywords: ['bitcoin', 'queda', 'ciclo', 'urso', 'correção']
   },
   {
-    src: '/images/#bitcoin (1).jpg',
-    alt: 'Bitcoin - Moeda digital descentralizada',
+    src: '/images/bitcoin/2025-12/lightning-network-2026.webp',
+    alt: 'Lightning Network e Pagamentos Bitcoin',
     category: 'bitcoin',
-    keywords: ['bitcoin', 'moeda', 'digital', 'blockchain']
+    keywords: ['bitcoin', 'lightning', 'pagamentos', 'escalabilidade']
+  },
+  {
+    src: '/images/bitcoin/2025-12/etfs-de-bitcoin-spot-options.webp',
+    alt: 'ETFs de Bitcoin e Opções',
+    category: 'bitcoin',
+    keywords: ['bitcoin', 'etf', 'opções', 'mercado financeiro']
   },
 
   // Ethereum
   {
-    src: '/images/ethereum-blockchain.jpg',
-    alt: 'Ethereum blockchain - Smart contracts e DeFi',
+    src: '/images/ethereum/2025-12/ethereum-danksharding.webp',
+    alt: 'Ethereum Danksharding e Escalabilidade',
     category: 'ethereum',
-    keywords: ['ethereum', 'blockchain', 'smart contracts', 'defi', 'eth']
+    keywords: ['ethereum', 'danksharding', 'sharding', 'escalabilidade']
   },
   {
-    src: '/images/ethereum-analysis.jpg',
-    alt: 'Análise técnica do Ethereum - Gráficos e tendências',
+    src: '/images/ethereum/2025-12/ethereum-staking-lquido.webp',
+    alt: 'Ethereum Staking Líquido',
     category: 'ethereum',
-    keywords: ['ethereum', 'análise', 'técnica', 'gráfico', 'trading']
+    keywords: ['ethereum', 'staking', 'líquido', 'lido', 'rocket pool']
+  },
+  {
+    src: '/images/ethereum/2025-12/restaking-ethereum-2026.webp',
+    alt: 'Restaking Ethereum e EigenLayer',
+    category: 'ethereum',
+    keywords: ['ethereum', 'restaking', 'eigenlayer', 'rendimento']
+  },
+  {
+    src: '/images/ethereum/2025-12/zk-rollups-privacy.webp',
+    alt: 'ZK-Rollups e Privacidade Ethereum',
+    category: 'ethereum',
+    keywords: ['ethereum', 'zk-rollup', 'privacidade', 'layer 2']
   },
 
   // DeFi
   {
-    src: '/images/defi-revolution.jpg',
-    alt: 'Revolução DeFi - Finanças descentralizadas transformando o mundo',
+    src: '/images/defi/2025-12/defi-20-real-yield.webp',
+    alt: 'DeFi 2.0 e Real Yield',
     category: 'defi',
-    keywords: ['defi', 'finanças', 'descentralizadas', 'revolução', 'blockchain']
+    keywords: ['defi', 'real yield', 'rendimento', 'sustentabilidade']
   },
   {
-    src: '/images/pools-liquidez-defi.webp',
-    alt: 'Pools de liquidez DeFi - AMM e yield farming',
+    src: '/images/defi/2025-12/dex-vs-cex-2026.webp',
+    alt: 'DEX vs CEX: Comparativo 2026',
     category: 'defi',
-    keywords: ['defi', 'liquidez', 'pools', 'amm', 'yield farming']
-  },
-
-  // NFTs
-  {
-    src: '/images/nft-digital-art.jpg',
-    alt: 'NFTs e arte digital - Tokens não fungíveis',
-    category: 'nfts',
-    keywords: ['nft', 'arte digital', 'tokens', 'colecionáveis', 'blockchain']
+    keywords: ['dex', 'cex', 'exchange', 'descentralizada']
   },
   {
-    src: '/images/nfts-arte-colecionaveis.webp',
-    alt: 'NFTs - Arte e colecionáveis digitais',
-    category: 'nfts',
-    keywords: ['nft', 'arte', 'colecionáveis', 'digital', 'marketplace']
+    src: '/images/defi/2025-12/rwa-depin-convergence.webp',
+    alt: 'Convergência RWA e DePIN',
+    category: 'defi',
+    keywords: ['rwa', 'depin', 'ativos reais', 'infraestrutura']
   },
   {
-    src: '/images/nfts-use-cases.jpg',
-    alt: 'Casos de uso de NFTs além da arte',
-    category: 'nfts',
-    keywords: ['nft', 'casos de uso', 'utilidade', 'aplicações', 'web3']
+    src: '/images/defi/2025-12/tokenizao-ttulos-pblicos.webp',
+    alt: 'Tokenização de Títulos Públicos',
+    category: 'defi',
+    keywords: ['tokenização', 'títulos', 'governo', 'rwa']
+  },
+  {
+    src: '/images/defi/2025-12/yield-farming-seguro.webp',
+    alt: 'Yield Farming Seguro',
+    category: 'defi',
+    keywords: ['yield farming', 'segurança', 'farming', 'renda passiva']
+  },
+  {
+    src: '/images/defi/2025-12/stablecoins-algortmicas-seguras.webp',
+    alt: 'Stablecoins Algorítmicas Seguras',
+    category: 'defi',
+    keywords: ['stablecoins', 'algorítmica', 'dolar', 'peg']
   },
 
   // Altcoins
   {
-    src: '/images/altcoins-2025.jpg',
-    alt: 'Principais altcoins para investir em 2025',
+    src: '/images/altcoins/2025-12/arbitrum-vs-optimism-2026.webp',
+    alt: 'Arbitrum vs Optimism Batalha L2',
     category: 'altcoins',
-    keywords: ['altcoins', 'investimento', '2025', 'criptomoedas', 'oportunidades']
+    keywords: ['arbitrum', 'optimism', 'layer 2', 'rollup', 'batalha']
   },
   {
-    src: '/images/solana-etf-ascensao.webp',
-    alt: 'Solana em ascensão - ETF e crescimento',
+    src: '/images/altcoins/2025-12/base-chain-coinbase.webp',
+    alt: 'Base Chain da Coinbase',
     category: 'altcoins',
-    keywords: ['solana', 'sol', 'etf', 'ascensão', 'crescimento']
-  },
-
-  // Análises e Trading
-  {
-    src: '/images/crypto-analysis-charts.jpg',
-    alt: 'Análise de mercado cripto - Gráficos e indicadores',
-    category: 'analises',
-    keywords: ['análise', 'mercado', 'gráficos', 'trading', 'indicadores']
+    keywords: ['base', 'coinbase', 'layer 2', 'ethereum']
   },
   {
-    src: '/images/crypto-trading-desk.jpg',
-    alt: 'Mesa de trading de criptomoedas - Análise profissional',
-    category: 'analises',
-    keywords: ['trading', 'desk', 'profissional', 'análise', 'mercado']
-  },
-  {
-    src: '/images/stock-market-6695482_1280.jpg',
-    alt: 'Mercado financeiro e criptomoedas - Análise integrada',
-    category: 'analises',
-    keywords: ['mercado', 'financeiro', 'análise', 'investimento', 'trading']
-  },
-
-  // Segurança e Carteiras
-  {
-    src: '/images/wallet.png',
-    alt: 'Carteira de criptomoedas - Segurança e armazenamento',
-    category: 'seguranca',
-    keywords: ['carteira', 'wallet', 'segurança', 'armazenamento', 'cripto']
-  },
-  {
-    src: '/images/crypto-wallet.jpg',
-    alt: 'Carteira cripto segura - Proteção de ativos digitais',
-    category: 'seguranca',
-    keywords: ['carteira', 'segurança', 'proteção', 'ativos', 'digital']
-  },
-  {
-    src: '/images/crypto-wallet-security.jpg',
-    alt: 'Segurança de carteiras cripto - Melhores práticas',
-    category: 'seguranca',
-    keywords: ['segurança', 'carteira', 'proteção', 'práticas', 'wallet']
-  },
-  {
-    src: '/images/metamask.jpg',
-    alt: 'MetaMask - Carteira Web3 mais popular',
-    category: 'seguranca',
-    keywords: ['metamask', 'web3', 'carteira', 'ethereum', 'dapp']
-  },
-
-  // Exchanges
-  {
-    src: '/images/crypto-exchange.jpg',
-    alt: 'Exchanges de criptomoedas - Plataformas de trading',
-    category: 'educacao',
-    keywords: ['exchange', 'trading', 'plataforma', 'compra', 'venda']
-  },
-
-  // Tecnologia e Blockchain
-  {
-    src: '/images/blockchain-technology.jpg',
-    alt: 'Tecnologia blockchain - Fundamentos e aplicações',
-    category: 'educacao',
-    keywords: ['blockchain', 'tecnologia', 'fundamentos', 'aplicações', 'descentralização']
-  },
-  {
-    src: '/images/centralizacao-vs-descentralizacao.webp',
-    alt: 'Centralização vs Descentralização - Comparativo visual',
-    category: 'educacao',
-    keywords: ['centralização', 'descentralização', 'comparativo', 'blockchain', 'redes']
-  },
-
-  // GameFi
-  {
-    src: '/images/gamefi-revolucao-jogos.webp',
-    alt: 'GameFi - Revolução dos jogos blockchain',
-    category: 'nfts',
-    keywords: ['gamefi', 'jogos', 'blockchain', 'play to earn', 'nft']
-  },
-  {
-    src: '/images/web3-gaming-cover.png',
-    alt: 'Web3 Gaming - O Futuro dos Jogos Descentralizados',
-    category: 'nfts',
-    keywords: ['web3', 'gaming', 'jogos', 'gamefi', 'play to earn', 'metaverso']
-  },
-
-  // Mining
-  {
-    src: '/images/crypto-mining.jpg',
-    alt: 'Mineração de criptomoedas - Hardware e processo',
-    category: 'educacao',
-    keywords: ['mineração', 'mining', 'hardware', 'pow', 'bitcoin']
-  },
-
-  // Staking
-  {
-    src: '/images/Staking.png',
-    alt: 'Staking de criptomoedas - Ganhe recompensas passivas',
-    category: 'defi',
-    keywords: ['staking', 'recompensas', 'passivo', 'pos', 'yield']
-  },
-
-  // Layer 2
-  {
-    src: '/images/layer2.png',
-    alt: 'Soluções Layer 2 - Escalabilidade blockchain',
-    category: 'ethereum',
-    keywords: ['layer 2', 'escalabilidade', 'rollups', 'ethereum', 'l2']
-  },
-
-  // Perspectivas e Tendências
-  {
-    src: '/images/2026.png',
-    alt: 'Perspectivas do mercado cripto para 2026',
-    category: 'analises',
-    keywords: ['2026', 'perspectivas', 'tendências', 'futuro', 'previsões']
-  },
-  {
-    src: '/images/fimdeano.png',
-    alt: 'Análise de fim de ano do mercado cripto',
-    category: 'analises',
-    keywords: ['fim de ano', 'balanço', 'análise', 'retrospectiva', 'mercado']
-  },
-  {
-    src: '/images/analisar.png',
-    alt: 'Como analisar criptomoedas - Guia completo',
-    category: 'educacao',
-    keywords: ['analisar', 'análise', 'guia', 'indicadores', 'fundamentalista']
-  },
-
-  // Análises e Mercado
-  {
-    src: '/images/stock-market-6695482_1280.jpg',
-    alt: 'Análise de mercado financeiro e criptomoedas',
-    category: 'analises',
-    keywords: ['mercado', 'análise', 'gráficos', 'trading', 'investimento']
-  },
-  {
-    src: '/images/crypto-mercado-geral.jpg',
-    alt: 'Mercado de criptomoedas - Visão geral',
-    category: 'geral',
-    keywords: ['criptomoedas', 'mercado', 'trading', 'investimento']
-  },
-  {
-    src: '/images/criptomoedas-geral.jpg',
-    alt: 'Criptomoedas diversas - Mercado digital',
-    category: 'geral',
-    keywords: ['criptomoedas', 'bitcoin', 'ethereum', 'altcoins', 'mercado']
-  },
-  {
-    src: '/images/digital-currencies-global.jpg',
-    alt: 'Moedas digitais globais - Futuro das finanças',
-    category: 'geral',
-    keywords: ['moedas digitais', 'global', 'futuro', 'finanças', 'blockchain']
-  },
-
-  // Educação e Tutoriais
-  {
-    src: '/images/transformacao-digital.jpg',
-    alt: 'Transformação digital e blockchain',
-    category: 'educacao',
-    keywords: ['transformação', 'digital', 'blockchain', 'tecnologia', 'inovação']
-  },
-  {
-    src: '/images/what-is-blockchain-and-why-it-matters-in.jpg',
-    alt: 'O que é blockchain e por que importa',
-    category: 'educacao',
-    keywords: ['blockchain', 'educação', 'tecnologia', 'descentralização']
-  },
-
-  // Genéricas de alta qualidade
-  {
-    src: '/images/pinterest-bitcoin-gold.jpg',
-    alt: 'Bitcoin dourado - Símbolo de valor digital',
-    category: 'bitcoin',
-    keywords: ['bitcoin', 'ouro', 'valor', 'digital', 'investimento']
-  },
-  {
-    src: '/images/pinterest-crypto-coins.jpg',
-    alt: 'Moedas de criptomoedas variadas',
-    category: 'geral',
-    keywords: ['moedas', 'criptomoedas', 'diversificação', 'portfólio', 'investimento']
-  },
-
-  // Novas imagens premium adicionadas
-  {
-    src: '/images/crypto-futuristic-scene.jpg',
-    alt: 'Cena futurística com Bitcoin, Ethereum e criptomoedas',
-    category: 'geral',
-    keywords: ['futurístico', 'bitcoin', 'ethereum', 'tecnologia', 'inovação']
-  },
-  {
-    src: '/images/bitcoin-digital-circle.jpg',
-    alt: 'Bitcoin em círculo digital azul tecnológico',
-    category: 'bitcoin',
-    keywords: ['bitcoin', 'digital', 'círculo', 'tecnológico', 'azul']
-  },
-  {
-    src: '/images/crypto-education-scene.jpg',
-    alt: 'Educação em criptomoedas - Cena futurística de aprendizado',
-    category: 'educacao',
-    keywords: ['educação', 'aprendizado', 'cripto', 'futurístico', 'ensino']
-  },
-  {
-    src: '/images/bitcoin-wallet-network.jpg',
-    alt: 'Carteira Bitcoin com rede de conexões',
-    category: 'seguranca',
-    keywords: ['carteira', 'bitcoin', 'rede', 'conexões', 'segurança']
-  },
-  {
-    src: '/images/digital-wallet-security.jpg',
-    alt: 'Carteira digital segura com blockchain',
-    category: 'seguranca',
-    keywords: ['carteira', 'digital', 'segurança', 'blockchain', 'proteção']
-  },
-  {
-    src: '/images/crypto-coins-collection.jpg',
-    alt: 'Coleção diversa de moedas de criptomoedas',
+    src: '/images/altcoins/2025-12/cripto-ia-2026.webp',
+    alt: 'Criptomoedas e Inteligência Artificial',
     category: 'altcoins',
-    keywords: ['moedas', 'coleção', 'diversas', 'altcoins', 'criptomoedas']
+    keywords: ['ia', 'artificial', 'inteligência', 'ai', 'crypto']
   },
   {
-    src: '/images/ethereum-layer2-concept.jpg',
-    alt: 'Conceito Ethereum Layer 2 com elementos técnicos',
-    category: 'ethereum',
-    keywords: ['ethereum', 'layer 2', 'conceito', 'técnico', 'escalabilidade']
+    src: '/images/altcoins/2025-12/render-network-gpu.webp',
+    alt: 'Render Network e GPU Computing',
+    category: 'altcoins',
+    keywords: ['render', 'rndr', 'gpu', 'computação', 'ia']
   },
   {
-    src: '/images/crypto-market-analysis.jpg',
-    alt: 'Análise de mercado cripto - Touro vs Urso',
-    category: 'analises',
-    keywords: ['análise', 'mercado', 'touro', 'urso', 'trading']
+    src: '/images/altcoins/2025-12/solana-2026-previsao.webp',
+    alt: 'Previsão Solana 2026',
+    category: 'altcoins',
+    keywords: ['solana', 'sol', 'previsão', '2026', 'alta']
   },
   {
-    src: '/images/crypto-trading-setup.jpg',
-    alt: 'Setup profissional de trading de criptomoedas',
-    category: 'analises',
-    keywords: ['trading', 'setup', 'profissional', 'monitores', 'análise']
+    src: '/images/altcoins/2025-12/solana-firedancer.webp',
+    alt: 'Solana Firedancer Upgrade',
+    category: 'altcoins',
+    keywords: ['solana', 'firedancer', 'upgrade', 'performance']
   },
   {
-    src: '/images/bitcoin-global-network.jpg',
-    alt: 'Bitcoin conectado globalmente com rede mundial',
-    category: 'bitcoin',
-    keywords: ['bitcoin', 'global', 'rede', 'mundial', 'conexões']
+    src: '/images/altcoins/2025-12/fetchai-e-ocean-protocol.webp',
+    alt: 'Fetch.ai e Ocean Protocol',
+    category: 'altcoins',
+    keywords: ['fetch.ai', 'ocean', 'ia', 'dados', 'protocolo']
   },
 
-  // Mais imagens disponíveis
+  // Análises
   {
-    src: '/images/close-up-bitcoin-concept.jpg',
-    alt: 'Close-up conceito Bitcoin',
-    category: 'bitcoin',
-    keywords: ['bitcoin', 'close-up', 'conceito', 'moeda', 'digital']
-  },
-  {
-    src: '/images/cryptocurrency-concept-with-bitcoin.jpg',
-    alt: 'Conceito de criptomoedas com Bitcoin',
-    category: 'bitcoin',
-    keywords: ['bitcoin', 'conceito', 'criptomoedas', 'digital', 'tecnologia']
-  },
-  {
-    src: '/images/cryptocurrency-concept-with-smartphone-close-up.jpg',
-    alt: 'Conceito de criptomoedas com smartphone',
-    category: 'geral',
-    keywords: ['smartphone', 'criptomoedas', 'mobile', 'tecnologia', 'digital']
-  },
-  {
-    src: '/images/futuristic-digital-user-interface.jpg',
-    alt: 'Interface digital futurística',
-    category: 'geral',
-    keywords: ['futurístico', 'digital', 'interface', 'tecnologia', 'inovação']
-  },
-  {
-    src: '/images/this-striking-image-visually-represents-a.jpg',
-    alt: 'Representação visual impressionante de tecnologia',
-    category: 'geral',
-    keywords: ['visual', 'tecnologia', 'impressionante', 'digital', 'inovação']
-  },
-  {
-    src: '/images/trading-criptomoedas.jpg',
-    alt: 'Trading de criptomoedas',
+    src: '/images/analises/2025-12/agentes-de-ia-em-crypto-guia-completo-2026.webp',
+    alt: 'Agentes de IA em Cripto',
     category: 'analises',
-    keywords: ['trading', 'criptomoedas', 'análise', 'mercado', 'investimento']
+    keywords: ['ia', 'agentes', 'bot', 'automação', 'trading']
   },
   {
-    src: '/images/renda-passiva-estrategia-investimento.jpg',
-    alt: 'Estratégias de renda passiva e investimento',
+    src: '/images/analises/2025-12/solana-vs-ethereum-2026-guerra-das-l1s-guia-completo-2026.webp',
+    alt: 'Solana vs Ethereum Guerra das L1s',
+    category: 'analises',
+    keywords: ['solana', 'ethereum', 'guerra', 'layer 1', 'comparativo']
+  },
+
+  // Educação
+  {
+    src: '/images/educacao/2025-12/como-comprar-criptomoedas-tutorial-passo-a-passo-para-iniciantes.webp',
+    alt: 'Como Comprar Criptomoedas Tutorial',
     category: 'educacao',
-    keywords: ['renda passiva', 'estratégia', 'investimento', 'finanças', 'educação']
+    keywords: ['comprar', 'tutorial', 'iniciante', 'passo a passo']
   },
   {
-    src: '/images/mercado-criptomoedas.jpg',
-    alt: 'Mercado de criptomoedas',
-    category: 'analises',
-    keywords: ['mercado', 'criptomoedas', 'análise', 'trading', 'investimento']
+    src: '/images/educacao/2025-12/impostos-cripto-guia.webp',
+    alt: 'Guia de Impostos Cripto',
+    category: 'educacao',
+    keywords: ['impostos', 'receita', 'declaração', 'taxas', 'guia']
+  },
+  {
+    src: '/images/educacao/2025-12/web3-banking-carto-cripto-2026.webp',
+    alt: 'Web3 Banking e Cartões Cripto',
+    category: 'educacao',
+    keywords: ['web3', 'banco', 'cartão', 'pagamentos', 'visa', 'mastercard']
+  },
+  {
+    src: '/images/educacao/2025-12/herana-de-criptomoedas.webp',
+    alt: 'Herança de Criptomoedas e Planejamento',
+    category: 'educacao',
+    keywords: ['herança', 'sucessão', 'planejamento', 'futuro']
+  },
+  {
+    src: '/images/educacao/2025-12/carteira-multisig-tutorial.webp',
+    alt: 'Tutorial Carteira Multisig',
+    category: 'educacao',
+    keywords: ['multisig', 'carteira', 'segurança', 'tutorial']
+  },
+
+  // Segurança
+  {
+    src: '/images/seguranca/2025-12/hardware-wallets-2026.webp',
+    alt: 'Hardware Wallets 2026',
+    category: 'seguranca',
+    keywords: ['hardware wallet', 'ledger', 'trezor', 'segurança', 'cold wallet']
+  },
+  {
+    src: '/images/seguranca/2025-12/ledger-trezor-review.webp',
+    alt: 'Review Ledger vs Trezor',
+    category: 'seguranca',
+    keywords: ['ledger', 'trezor', 'review', 'comparativo', 'segurança']
+  },
+  {
+    src: '/images/seguranca/2025-12/ciberseguranca-crypto.webp',
+    alt: 'Cibersegurança em Cripto',
+    category: 'seguranca',
+    keywords: ['cibersegurança', 'hacker', 'proteção', 'dados']
   }
 ]
 
@@ -428,7 +255,7 @@ export function findBestImage(
   const categorySlug = category.toLowerCase()
   const searchKeywords = keywords.map(k => k.toLowerCase())
 
-  // Filtrar imagens disponíveis (não usadas e não excluídas)
+  // Filtrar imagens disponíveis (não usadas e não excluídas) e que realmente existem no catálogo
   const availableImages = imagesCatalog.filter(
     img => !usedImages.has(img.src) && !excludeImages.includes(img.src)
   )
@@ -451,9 +278,9 @@ export function findBestImage(
     )
   }
 
-  // 3. Se ainda não encontrou, usar imagens genéricas
+  // 3. Se ainda não encontrou, usar imagens genéricas ou de outras categorias
   if (matches.length === 0) {
-    matches = availableImages.filter(img => img.category === 'geral')
+    matches = availableImages.filter(img => img.category === 'geral' || img.category === 'altcoins')
   }
 
   // 4. Se ainda não encontrou, usar qualquer disponível

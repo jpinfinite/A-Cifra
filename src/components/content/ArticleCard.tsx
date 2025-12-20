@@ -32,7 +32,7 @@ export function ArticleCard({ article, featured = false, className }: ArticleCar
     ? article.coverImage
     : findBestImage(article.category.slug, article.tags)
 
-  const imageSrc = imageData?.src || '/images/general/placeholder.svg'
+  const imageSrc = imageData?.src || '/images/general/cifra-principal.png'
   const imageAlt = imageData?.alt || article.title
 
   return (
