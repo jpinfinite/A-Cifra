@@ -160,7 +160,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
       </div>
 
       {/* Article Content with Related Links */}
-      <ArticleContent content={article.content} relatedArticles={relatedArticles} />
+      <ArticleContent content={article.content} />
 
       {/* Related Articles Inline - Aumenta pageviews e monetização */}
       {relatedArticles.length > 0 && (
