@@ -256,8 +256,14 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
     category = categories.find(cat => cat.slug === 'bitcoin') || categories[0]
   }
 
-  // Determinar imagem de capa: prioriza coverImage objeto, depois image string, depois fallback
-  const imageSrc = fileArticle.coverImage?.src || fileArticle.image || '/images/default.jpg'
+  // Determine cover image: prioritize object, then string, then category fallback
+  let imageSrc = fileArticle.coverImage?.src || fileArticle.image
+
+  if (!imageSrc) {
+    // Rule: Fallback automatically by category
+    const catSlug = category?.slug || 'default'
+    imageSrc = `/images/fallback/${catSlug}.webp`
+  }
 
   return {
     id: fileArticle.id,
