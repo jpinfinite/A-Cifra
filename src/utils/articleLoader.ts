@@ -259,6 +259,16 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
   // Determine cover image: prioritize object, then string, then category fallback
   let imageSrc = fileArticle.coverImage?.src || fileArticle.image
 
+  // Validate if image exists in public folder
+  // Only check local images, ignore external URLs
+  if (imageSrc && imageSrc.startsWith('/')) {
+    const publicPath = path.join(process.cwd(), 'public', imageSrc)
+    if (!fs.existsSync(publicPath)) {
+        // If file doesn't exist, trigger fallback
+        imageSrc = null
+    }
+  }
+
   if (!imageSrc) {
     // Rule: Fallback automatically by category
     const catSlug = category?.slug || 'default'
