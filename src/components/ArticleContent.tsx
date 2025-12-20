@@ -16,7 +16,7 @@ interface ArticleBlock {
 interface ArticleContentProps {
   content: string
   blocks?: ArticleBlock[]
-  relatedArticles?: Article[]
+
 }
 
 const markdownComponents = {
@@ -145,7 +145,7 @@ const markdownComponents = {
   ),
 }
 
-export default function ArticleContent({ content, blocks, relatedArticles = [] }: ArticleContentProps) {
+export default function ArticleContent({ content, blocks }: ArticleContentProps) {
   // Se houver blocos estruturados (JSON), renderiza diretamente
   if (blocks && blocks.length > 0) {
     return (
