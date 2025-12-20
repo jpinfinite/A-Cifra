@@ -21,6 +21,11 @@ export interface Article {
     question: string
     answer: string
   }[]
+  blocks?: {
+    type: 'text' | 'ad'
+    content?: string
+    slot?: string
+  }[]
 }
 
 export interface ImageData {

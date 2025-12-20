@@ -49,11 +49,25 @@ function getArticles() {
     const allFiles = getAllFiles(ARTICLES_DIR)
 
     for (const filePath of allFiles) {
-      if (!filePath.endsWith('.md')) continue
+      // Suporte para .md e .json
+      if (!filePath.endsWith('.md') && !filePath.endsWith('.json')) continue
 
       try {
         const content = fs.readFileSync(filePath, 'utf-8')
-        const { data } = matter(content)
+        let data = {}
+
+        if (filePath.endsWith('.json')) {
+            const jsonData = JSON.parse(content)
+            data = {
+                slug: jsonData.slug,
+                publishedAt: jsonData.publishedAt || new Date().toISOString(), // Fallback
+                updatedAt: jsonData.updatedAt,
+                // Prefix logic helper if needed inside JSON? usually assumed pt-BR for root json
+            }
+        } else {
+            const parsed = matter(content)
+            data = parsed.data
+        }
 
         // Determinar idioma e prefixo URL baseada na pasta
         const relativePath = path.relative(ARTICLES_DIR, filePath)
@@ -65,8 +79,8 @@ function getArticles() {
           urlPrefix = '/es/article/'
         }
 
-        // Ignorar se não tiver publicado
-        if (data.slug && data.publishedAt) {
+        // Ignorar se não tiver slug
+        if (data.slug) {
           articles.push({
             loc: `${urlPrefix}${data.slug}/`, // Trailing slash é importante para SEO
             lastmod: data.updatedAt || data.publishedAt,

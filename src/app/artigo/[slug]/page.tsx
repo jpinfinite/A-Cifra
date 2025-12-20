@@ -6,7 +6,7 @@ import { Container } from '@/components/ui'
 import { RelatedArticles, Comments } from '@/components/article'
 import { CryptoWidget } from '@/components/crypto/CryptoWidget'
 import { NewsletterCTA } from '@/components/newsletter'
-import { SidebarAd } from '@/components/ads/SidebarAd'
+import { AdSlot } from '@/components/ads/AdSlot'
 import { LanguageToggle } from '@/components/ui/LanguageToggle'
 import { ArticleSchema, FAQSchema } from '@/components/seo'
 import { getArticleBySlug, getAllArticles } from '@/data/articles'
@@ -124,10 +124,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             {/* Anúncio Superior Sidebar Artigo */}
             <div className="sticky top-24 space-y-8">
               <CryptoWidget />
-              <SidebarAd
+              <AdSlot
                 slot="4860266399"
-                sticky={false}
-                className="min-h-[600px]"
+                format="vertical"
+                minHeight="600px"
               />
 
               {/* Newsletter Sidebar */}

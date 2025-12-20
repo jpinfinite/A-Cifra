@@ -9,9 +9,16 @@ interface ArticleFromFile {
   id: string
   title: string
   slug: string
+  subtitle?: string
   excerpt: string
   content: string
+  blocks?: {
+    type: 'text' | 'ad'
+    content?: string
+    slot?: string
+  }[]
   image?: string // Campo vindo do frontmatter (string simples)
+  lcpImage?: string // Campo JSON
   coverImage?: {
     src: string
     alt: string
@@ -39,6 +46,8 @@ interface ArticleFromFile {
     question: string
     answer: string
   }[]
+  intro?: string // JSON intro
+  conclusion?: string // JSON conclusion
 }
 
 export function getArticlesByLanguage(language: 'pt-BR' | 'en' | 'es' = 'pt-BR'): ArticleFromFile[] {
@@ -63,42 +72,73 @@ export function getArticlesByLanguage(language: 'pt-BR' | 'en' | 'es' = 'pt-BR')
 
     const fileNames = fs.readdirSync(dir)
     fileNames.forEach(fileName => {
-      if (!fileName.endsWith('.md')) return
+      // Support .md and .json
+      if (!fileName.endsWith('.md') && !fileName.endsWith('.json')) return
 
-      const slug = fileName.replace(/\.md$/, '')
-      if (processedSlugs.has(slug)) return // Evita duplicatas se houver mesmo slug na raiz e pt-BR (prioriza o primeiro que ler - raiz neste caso)
+      const slug = fileName.replace(/\.(md|json)$/, '')
+      if (processedSlugs.has(slug)) return
 
       try {
         const fullPath = path.join(dir, fileName)
         const fileContents = fs.readFileSync(fullPath, 'utf8')
-        const { data, content } = matter(fileContents)
 
-        // Extração automática de FAQs
-        let extractedFaq = data.faq as { question: string, answer: string }[] | undefined
-        if (!extractedFaq) {
-          const faqRegex = /##\s*(?:FAQ|Perguntas Frequentes)([\s\S]*?)(?:##|$)/i
-          const faqMatch = content.match(faqRegex)
-          if (faqMatch && faqMatch[1]) {
-             const faqSection = faqMatch[1]
-             const qaRegex = /###\s+(.*?)\n+([\s\S]*?)(?=(?:###|$))/g
-             const matches = Array.from(faqSection.matchAll(qaRegex))
-             if (matches.length > 0) {
-               extractedFaq = matches.map(match => ({
-                 question: match[1].trim(),
-                 answer: match[2].trim()
-               }))
-             }
-          }
+        let articleData: ArticleFromFile
+
+        if (fileName.endsWith('.json')) {
+            const jsonData = JSON.parse(fileContents)
+            // Map JSON structure to ArticleFromFile
+            // JSON format: { slug, title, subtitle, lcpImage, intro, blocks, conclusion }
+            // Needs mapping to required fields like id, excerpt, publishedAt etc.
+            articleData = {
+                id: jsonData.slug,
+                title: jsonData.title,
+                slug: jsonData.slug,
+                subtitle: jsonData.subtitle,
+                excerpt: jsonData.intro || jsonData.subtitle || '',
+                content: '', // No markdown content
+                blocks: jsonData.blocks,
+                image: jsonData.lcpImage,
+                coverImage: {
+                    src: jsonData.lcpImage,
+                    alt: jsonData.title
+                },
+                publishedAt: new Date().toISOString(), // Fallback if not present
+                // Try to infer or default others
+                categorySlug: 'criptomoedas', // Default
+                tags: [],
+                intro: jsonData.intro,
+                conclusion: jsonData.conclusion,
+                language
+            }
+        } else {
+            const { data, content } = matter(fileContents)
+            // Extração automática de FAQs (existente)
+            let extractedFaq = data.faq as { question: string, answer: string }[] | undefined
+            if (!extractedFaq) {
+              const faqRegex = /##\s*(?:FAQ|Perguntas Frequentes)([\s\S]*?)(?:##|$)/i
+              const faqMatch = content.match(faqRegex)
+              if (faqMatch && faqMatch[1]) {
+                 const faqSection = faqMatch[1]
+                 const qaRegex = /###\s+(.*?)\n+([\s\S]*?)(?=(?:###|$))/g
+                 const matches = Array.from(faqSection.matchAll(qaRegex))
+                 if (matches.length > 0) {
+                   extractedFaq = matches.map(match => ({
+                     question: match[1].trim(),
+                     answer: match[2].trim()
+                   }))
+                 }
+              }
+            }
+            articleData = {
+                ...data,
+                content,
+                faq: extractedFaq,
+                slug,
+                language
+            } as ArticleFromFile
         }
 
-        allArticles.push({
-          ...data,
-          content,
-          faq: extractedFaq,
-          slug,
-          language
-        } as ArticleFromFile)
-
+        allArticles.push(articleData)
         processedSlugs.add(slug)
       } catch (e) {
         console.error(`Error reading article ${fileName}:`, e)
@@ -114,26 +154,56 @@ export function getArticleBySlug(slug: string, language: 'pt-BR' | 'en' | 'es' =
     const rootDir = path.join(process.cwd(), 'content/articles')
     const possiblePaths: string[] = []
 
+    // Paths for JSON and MD
     if (language === 'en') {
+      possiblePaths.push(path.join(rootDir, 'en', `${slug}.json`))
       possiblePaths.push(path.join(rootDir, 'en', `${slug}.md`))
     } else if (language === 'es') {
+      possiblePaths.push(path.join(rootDir, 'es', `${slug}.json`))
       possiblePaths.push(path.join(rootDir, 'es', `${slug}.md`))
     } else {
-      // pt-BR: tenta raiz e subpasta
-      possiblePaths.push(path.join(rootDir, `${slug}.md`))        // Legado
-      possiblePaths.push(path.join(rootDir, 'pt-BR', `${slug}.md`)) // Novo
+      // pt-BR
+      possiblePaths.push(path.join(rootDir, `${slug}.json`))
+      possiblePaths.push(path.join(rootDir, `${slug}.md`))
+      possiblePaths.push(path.join(rootDir, 'pt-BR', `${slug}.json`))
+      possiblePaths.push(path.join(rootDir, 'pt-BR', `${slug}.md`))
     }
 
     for (const fullPath of possiblePaths) {
       if (fs.existsSync(fullPath)) {
         const fileContents = fs.readFileSync(fullPath, 'utf8')
-        const { data, content } = matter(fileContents)
-        return {
-          ...data,
-          content,
-          slug,
-          language
-        } as ArticleFromFile
+
+        if (fullPath.endsWith('.json')) {
+            const jsonData = JSON.parse(fileContents)
+             return {
+                id: jsonData.slug,
+                title: jsonData.title,
+                slug: jsonData.slug,
+                subtitle: jsonData.subtitle,
+                excerpt: jsonData.intro || jsonData.subtitle || '',
+                content: '',
+                blocks: jsonData.blocks,
+                image: jsonData.lcpImage,
+                coverImage: {
+                    src: jsonData.lcpImage,
+                    alt: jsonData.title
+                },
+                publishedAt: jsonData.publishedAt || new Date().toISOString(),
+                categorySlug: jsonData.category || 'criptomoedas',
+                tags: jsonData.tags || [],
+                intro: jsonData.intro,
+                conclusion: jsonData.conclusion,
+                language
+            } as ArticleFromFile
+        } else {
+            const { data, content } = matter(fileContents)
+            return {
+              ...data,
+              content,
+              slug,
+              language
+            } as ArticleFromFile
+        }
       }
     }
 
@@ -180,7 +250,8 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
 
   if (!category) {
     if (process.env.NODE_ENV === 'development') {
-      console.warn(`Category not found for article: ${fileArticle.title}, slug: ${fileArticle.categorySlug || (fileArticle as any).category}, using 'bitcoin' as fallback`)
+        // Suppress warning if it's just a newly generated article without strict category
+       // console.warn(...)
     }
     category = categories.find(cat => cat.slug === 'bitcoin') || categories[0]
   }
@@ -194,6 +265,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
     slug: fileArticle.slug,
     excerpt: fileArticle.excerpt,
     content: fileArticle.content,
+    blocks: fileArticle.blocks, // Pass blocks through
     coverImage: {
       src: imageSrc,
       alt: fileArticle.coverImage?.alt || fileArticle.title,
@@ -217,7 +289,7 @@ function convertToArticle(fileArticle: ArticleFromFile): Article {
       ? fileArticle.language
       : undefined,
     alternateLanguages: fileArticle.alternateLanguages,
-    readingTime: Math.ceil(fileArticle.content.split(/\s+/).length / 200),
+    readingTime: Math.ceil((fileArticle.content.length + (JSON.stringify(fileArticle.blocks || []).length)) / 1000), // Estimate
     faq: fileArticle.faq
   }
 }

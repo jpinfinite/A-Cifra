@@ -1,21 +1,25 @@
 const { GoogleGenerativeAI } = require('@google/generative-ai');
-const dotenv = require('dotenv');
-dotenv.config({ path: '.env.local' });
+require('dotenv').config({ path: '.env.local' });
 
-async function listModels() {
-  const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+async function test() {
+  const key = process.env.GEMINI_API_KEY;
+  console.log('Key length:', key ? key.length : 0);
+  console.log('Key start:', key ? key.substring(0, 5) : 'NONE');
+
+  if (!key) return;
+
+  const genAI = new GoogleGenerativeAI(key);
+  const model = genAI.getGenerativeModel({ model: 'gemini-pro' }); // Tentar gemini-pro que é standard
+
   try {
-     // A lib oficial não expõe listModels diretamente na classe principal v0.1?
-     // Vamos tentar uma chamada manual com fetch se falhar.
-     // Mas a documentação diz que podemos instanciar e tentar gerar.
-
-     console.log('Tentando gemini-1.5-flash-latest...');
-     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
-     const res = await model.generateContent("Test");
-     console.log('Sucesso com gemini-1.5-flash-latest!');
+    const result = await model.generateContent('Say hello');
+    console.log('Response:', result.response.text());
   } catch (e) {
-    console.log('Erro ao testar modelo:', e.message);
+    console.error('Error:', e.message);
+    if (e.response) {
+        console.error('API Error details:', JSON.stringify(e.response, null, 2));
+    }
   }
 }
 
-listModels();
+test();

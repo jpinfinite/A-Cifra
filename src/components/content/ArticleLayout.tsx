@@ -6,6 +6,7 @@ import { cn } from '@/utils/cn'
 import ArticleContent from '@/components/ArticleContent'
 import { ShareButtons } from '@/components/article'
 import RelatedArticlesInline from './RelatedArticlesInline'
+import { AdSlot } from '@/components/ads/AdSlot'
 // Anúncios agora são gerenciados dentro do ArticleContent
 
 interface ArticleLayoutProps {
@@ -136,7 +137,7 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
 
         {/* Share Buttons */}
         <div className="pb-6 border-b border-gray-200">
-           <ShareButtons url={finalUrl} title={article.title} />
+          <ShareButtons url={finalUrl} title={article.title} />
         </div>
       </header>
 
@@ -150,6 +151,12 @@ export function ArticleLayout({ article, breadcrumbs = [], relatedArticles = [],
           priority
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
         />
+      </div>
+
+      {/* Anúncio 1 - Topo (Abaixo da Imagem LCP) - Alta Visibilidade */}
+      <div className="mb-8">
+        <AdSlot slot="5064156814" format="rectangle" minHeight="280px" />
+        <div className="text-center text-xs text-gray-400 mt-1">Publicidade</div>
       </div>
 
       {/* Article Content with Related Links */}

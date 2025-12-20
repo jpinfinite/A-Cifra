@@ -1,17 +1,21 @@
-'use client'
-
-import { useMemo } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 
 import { Article } from '@/types'
-// import { addInlineLinks } from '@/utils/relatedArticles' // TEMPORARIAMENTE DESABILITADO
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
-import { AdSenseInArticle, AdSenseInArticle2, AdSenseInArticle3, AdSenseMultiplex } from '@/components/ads'
+import { AdSlot } from '@/components/ads/AdSlot'
+import { ArticleImage } from '@/components/content/ArticleImage'
+
+interface ArticleBlock {
+  type: 'text' | 'ad'
+  content?: string
+  slot?: string
+}
 
 interface ArticleContentProps {
   content: string
+  blocks?: ArticleBlock[]
   relatedArticles?: Article[]
 }
 
@@ -60,7 +64,7 @@ const markdownComponents = {
   blockquote: ({ children }: any) => (
     <blockquote className="border-l-4 border-brand-gold bg-amber-50 pl-6 pr-6 py-4 my-8 italic text-gray-800 rounded-r-lg shadow-sm">
       <div className="flex items-start">
-        <svg className="w-8 h-8 text-brand-gold mr-4 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 24 24">
+        <svg className="w-8 text-brand-gold mr-4 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 24 24">
           <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
         </svg>
         <div className="flex-1">{children}</div>
@@ -83,42 +87,7 @@ const markdownComponents = {
       {children}
     </pre>
   ),
-  img: ({ src, alt }: any) => {
-    // Helper logic for WebP
-    const isLocal = src?.startsWith('/')
-    // Assume se for local e terminar em extensão de imagem comum, tem versão webp
-    const webpSrc = isLocal && /\.(jpg|jpeg|png)$/i.test(src)
-      ? src.replace(/\.(jpg|jpeg|png)$/i, '.webp')
-      : null
-
-    return (
-      <figure className="my-10">
-        <picture>
-          {webpSrc && <source srcSet={webpSrc} type="image/webp" />}
-          <img
-            src={src || ''}
-            alt={alt || ''}
-            className="rounded-2xl w-full shadow-xl hover:shadow-2xl transition-shadow duration-300"
-            loading="lazy"
-            decoding="async"
-            onError={(e) => {
-              const target = e.currentTarget
-              // Verificação de segurança para evitar loop infinito
-              if (target.src.indexOf('cifra-principal.png') === -1) {
-                target.src = '/images/general/cifra-principal.png'
-                target.classList.add('grayscale')
-              }
-            }}
-          />
-        </picture>
-        {alt && (
-          <figcaption className="text-center text-sm text-gray-600 mt-3 italic">
-            {alt}
-          </figcaption>
-        )}
-      </figure>
-    )
-  },
+  img: (props: any) => <ArticleImage {...props} />,
   a: ({ href, children }: any) => (
     <a
       href={href}
@@ -176,66 +145,102 @@ const markdownComponents = {
   ),
 }
 
-export default function ArticleContent({ content, relatedArticles = [] }: ArticleContentProps) {
-  // Processa o conteúdo e divide em partes
-  const { firstPart, secondPart, thirdPart, fourthPart } = useMemo(() => {
-    let processedContent = content
+export default function ArticleContent({ content, blocks, relatedArticles = [] }: ArticleContentProps) {
+  // Se houver blocos estruturados (JSON), renderiza diretamente
+  if (blocks && blocks.length > 0) {
+    return (
+      <div className="prose prose-xl max-w-none article-content">
+        {blocks.map((block, index) => {
+          if (block.type === 'ad') {
+            return <AdSlot key={index} slot={block.slot || '2401624018'} format="rectangle" />
+          }
+          if (block.type === 'text' && block.content) {
+            return (
+              <ReactMarkdown
+                key={index}
+                remarkPlugins={[remarkGfm]}
+                rehypePlugins={[rehypeRaw]}
+                components={markdownComponents}
+              >
+                {block.content}
+              </ReactMarkdown>
+            )
+          }
+          return null
+        })}
+        {/* Affiliate Links at the end */}
+        <ExchangeAffiliateLinks />
+        <AdSlot slot="2742082553" format="autorelaxed" />
+        <style jsx global>{`
+          .article-content {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.8;
+            color: #1f2937;
+          }
+          /* Additional Global Styles can be here */
+        `}</style>
+      </div>
+    )
+  }
 
-    if (relatedArticles.length > 0) {
-      // TEMPORARIAMENTE DESABILITADO - Pode estar causando Links aninhados
-      // processedContent = addInlineLinks(processedContent, relatedArticles)
+  // Fallback para lógica Markdown tradicional
+  let processedContent = content
+
+  // Substitui componentes customizados por placeholders HTML
+  processedContent = processedContent
+    .replace(/<InlineAffiliateCTA\s+([^>]+)\/>/g, '<div data-component="InlineAffiliateCTA" $1></div>')
+    .replace(/<UrgencyCTA\s+([^>]+)\/>/g, '<div data-component="UrgencyCTA" $1></div>')
+    .replace(/<ExchangeAffiliateLinks\s+([^>]+)\/>/g, '<div data-component="ExchangeAffiliateLinks" $1></div>')
+
+  // Divide o conteúdo em partes baseadas em cabeçalhos (H2, H3 ou Bold no início da linha)
+  const sectionRegex = /(?=\n(?:##|###|\*\*) )/
+  const sections = processedContent.split(sectionRegex)
+  const totalSections = sections.length
+
+  let parts = {
+    firstPart: '',
+    secondPart: '',
+    thirdPart: '',
+    fourthPart: ''
+  }
+
+  if (totalSections <= 5) {
+    // Conteúdo curto/médio - apenas 1 anúncio no meio
+    parts = {
+      firstPart: sections.slice(0, Math.ceil(totalSections / 2)).join(''),
+      secondPart: sections.slice(Math.ceil(totalSections / 2)).join(''),
+      thirdPart: '',
+      fourthPart: ''
     }
+  } else if (totalSections <= 12) {
+    // Conteúdo longo - 2 anúncios (40% e 80% do conteúdo)
+    const firstBreak = Math.floor(totalSections * 0.4)
+    const secondBreak = Math.floor(totalSections * 0.8)
 
-    // Substitui componentes customizados por placeholders HTML
-    processedContent = processedContent
-      .replace(/<InlineAffiliateCTA\s+([^>]+)\/>/g, '<div data-component="InlineAffiliateCTA" $1></div>')
-      .replace(/<UrgencyCTA\s+([^>]+)\/>/g, '<div data-component="UrgencyCTA" $1></div>')
-      .replace(/<ExchangeAffiliateLinks\s+([^>]+)\/>/g, '<div data-component="ExchangeAffiliateLinks" $1></div>')
-
-    // Divide o conteúdo em partes baseadas em cabeçalhos (H2, H3 ou Bold no início da linha)
-    // Usa regex com lookahead para manter o delimitador na parte seguinte
-    const sectionRegex = /(?=\n(?:##|###|\*\*) )/
-    const sections = processedContent.split(sectionRegex)
-    const totalSections = sections.length
-
-    if (totalSections <= 5) {
-      // Conteúdo curto/médio - apenas 1 anúncio no meio
-      return {
-        firstPart: sections.slice(0, Math.ceil(totalSections / 2)).join(''),
-        secondPart: sections.slice(Math.ceil(totalSections / 2)).join(''),
-        thirdPart: '',
-        fourthPart: ''
-      }
+    parts = {
+      firstPart: sections.slice(0, firstBreak).join(''),
+      secondPart: sections.slice(firstBreak, secondBreak).join(''),
+      thirdPart: sections.slice(secondBreak).join(''),
+      fourthPart: ''
     }
-
-    if (totalSections <= 12) {
-      // Conteúdo longo - 2 anúncios (40% e 80% do conteúdo)
-      const firstBreak = Math.floor(totalSections * 0.4)
-      const secondBreak = Math.floor(totalSections * 0.8)
-
-      return {
-        firstPart: sections.slice(0, firstBreak).join(''),
-        secondPart: sections.slice(firstBreak, secondBreak).join(''),
-        thirdPart: sections.slice(secondBreak).join(''),
-        fourthPart: ''
-      }
-    }
-
+  } else {
     // Conteúdo muito longo (>12 seções) - 3 anúncios (distribuídos uniformemente)
     const break1 = Math.floor(totalSections * 0.25)
     const break2 = Math.floor(totalSections * 0.5)
     const break3 = Math.floor(totalSections * 0.75)
 
-    return {
+    parts = {
       firstPart: sections.slice(0, break1).join(''),
       secondPart: sections.slice(break1, break2).join(''),
       thirdPart: sections.slice(break2, break3).join(''),
       fourthPart: sections.slice(break3).join('')
     }
-  }, [content, relatedArticles])
+  }
+
+  const { firstPart, secondPart, thirdPart, fourthPart } = parts
 
   return (
-    <div className="prose prose-xl max-w-none article-content" suppressHydrationWarning>
+    <div className="prose prose-xl max-w-none article-content">
       {/* Primeira parte do conteúdo */}
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
@@ -246,7 +251,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       </ReactMarkdown>
 
       {/* Anúncio In-Article 1 */}
-      <AdSenseInArticle />
+      <AdSlot slot="2401624018" format="rectangle" />
 
       {/* Segunda parte */}
       <ReactMarkdown
@@ -261,7 +266,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       <ExchangeAffiliateLinks />
 
       {/* Anúncio In-Article 2 */}
-      {thirdPart && <AdSenseInArticle2 />}
+      {thirdPart && <AdSlot slot="3416033223" format="rectangle" />}
 
       {/* Terceira parte */}
       {thirdPart && (
@@ -275,7 +280,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       )}
 
       {/* Anúncio In-Article 3 (apenas textos muito longos) */}
-      {fourthPart && <AdSenseInArticle3 />}
+      {fourthPart && <AdSlot slot="5028497790" format="rectangle" />}
 
       {/* Quarta parte (final) */}
       {fourthPart && (
@@ -289,7 +294,7 @@ export default function ArticleContent({ content, relatedArticles = [] }: Articl
       )}
 
       {/* Anúncio Multiplex - Final do artigo */}
-      <AdSenseMultiplex />
+      <AdSlot slot="2742082553" format="autorelaxed" />
 
       <style jsx global>{`
         .article-content {
