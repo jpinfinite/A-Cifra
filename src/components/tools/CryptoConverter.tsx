@@ -11,6 +11,15 @@ export function CryptoConverter() {
   const [rates, setRates] = useState<any>(null)
 
   useEffect(() => {
+    async function fetchRates() {
+      try {
+        const response = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,tether&vs_currencies=brl,usd,eur')
+        const data = await response.json()
+        setRates(data)
+      } catch (e) {
+        console.error("Failed to fetch rates", e)
+      }
+    }
     // Busca inicial de taxas
     fetchRates()
   }, [])
