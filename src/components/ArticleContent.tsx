@@ -2,7 +2,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 
-import { Article } from '@/types'
+
 import { ExchangeAffiliateLinks } from '@/components/content/ExchangeAffiliateLinks'
 import { AdSlot } from '@/components/ads/AdSlot'
 import { ArticleImage } from '@/components/content/ArticleImage'
