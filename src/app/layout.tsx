@@ -48,11 +48,6 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/',
   },
-  manifest: '/manifest.json',
-  icons: {
-    icon: '/images/logos/favcoin.png',
-    apple: '/images/logos/favcoin.png',
-  },
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
