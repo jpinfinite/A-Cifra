@@ -5,7 +5,7 @@ import { Inter, Poppins } from 'next/font/google'
 import '@/styles/globals.css'
 
 import { StructuredData } from '@/components/ui/StructuredData'
-import { AdSenseLoader } from '@/components/ads/AdSenseLoader'
+
 import { generateWebsiteStructuredData } from '@/utils/seo'
 
 
@@ -128,7 +128,13 @@ export default function RootLayout({
       <body className="min-h-screen flex flex-col font-sans antialiased text-gray-900 bg-white" suppressHydrationWarning>
         {/* Google AdSense - Script principal com auto ads habilitado (Lazy Load para performance) */}
         {/* Google AdSense - Script principal carregado via Interação (Melhora TBT/INP) */}
-        <AdSenseLoader />
+        {/* Google AdSense - Script Padrão (Carregamento Otimizado pelo Next.js) */}
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1151448515464841"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
 
 
         {/* Google Reader Revenue Manager - Assinaturas */}
