@@ -1,0 +1,87 @@
+{
+  "cookies": [
+    {
+      "name": "datr",
+      "value": "RztGaeg2-ZuB4JgW3QghlCTb",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1800770374.645439,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fr",
+      "value": "0zIE2mUD3oienbsdb..BpRjtH..AAA.0.0.BpRjtH.AWeQhGGVufiWDVaExuoKToBLTU4",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1773986374.645439,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sb",
+      "value": "RztGaR6mNOxx-prnhHG5vJFQ",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1800770374.645439,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wd",
+      "value": "1280x720",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1766815183,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "checkpoint",
+      "value": "%7B%22u%22%3A100071098444724%2C%22t%22%3A1766210378%2C%22step%22%3A0%2C%22n%22%3A%2265VgqEG4sWM%3D%22%2C%22inst%22%3A884005770646030%2C%22f%22%3A193593390684083%2C%22st%22%3A%22c%22%2C%22aid%22%3Anull%2C%22ca%22%3Anull%2C%22la%22%3A%22%22%2C%22ta%22%3A%221766210381.ch.s%3Apw.9zBGAiEA2RIC0K3pp5o3IRP4_X2DURXICwf8D-3NQPTXxwjC-PMCIQCg0umA7eK8j9wks1Pi6KDukYdglOZ8flYs2GpoouqeWg%22%2C%22tfvaid%22%3Anull%2C%22tfvasec%22%3Anull%2C%22sat%22%3Anull%2C%22idg%22%3Afalse%2C%22cidue%22%3A%22%22%2C%22tfuln%22%3Anull%2C%22tfvri%22%3Anull%2C%22ct%22%3Anull%2C%22s%22%3A%22AWUNkjJIbNxPLvxr1fw%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "locale",
+      "value": "pt_BR",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1766815182.322439,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.facebook.com",
+      "localStorage": [
+        {
+          "name": "signal_flush_timestamp",
+          "value": "1766210375988"
+        },
+        {
+          "name": "Session",
+          "value": "7w7r99:1766210418280"
+        },
+        {
+          "name": "hb_timestamp",
+          "value": "1766210375947"
+        },
+        {
+          "name": "banzai:last_storage_flush",
+          "value": "1766210377008.4"
+        }
+      ]
+    }
+  ]
+}

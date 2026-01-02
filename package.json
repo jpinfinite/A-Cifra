@@ -33,7 +33,9 @@
     "prepare": "npm run lint",
     "twitter:test": "node scripts/test-twitter.js",
     "twitter:post": "node scripts/postar-twitter.js --latest",
-    "twitter:generate": "node scripts/gerar-tweet.js"
+    "twitter:generate": "node scripts/gerar-tweet.js",
+    "social:ingest": "node social-system/ingest/addArticleToQueue.js",
+    "social:run": "node social-system/scheduler/runQueue.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
@@ -46,7 +48,8 @@
     "gray-matter": "^4.0.3",
     "lucide-react": "latest",
     "next": "^14.0.0",
-    "openai": "^6.14.0",
+    "openai": "^6.15.0",
+    "playwright": "^1.57.0",
     "puppeteer": "^24.32.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -84,5 +87,22 @@
     "tailwindcss": "^3.0.0",
     "typescript": "^5.0.0",
     "wrangler": "^4.54.0"
-  }
+  },
+  "description": "<div align=\"center\">",
+  "main": "analyze_categories.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpinfinite/A-Cifra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jpinfinite/A-Cifra/issues"
+  },
+  "homepage": "https://github.com/jpinfinite/A-Cifra#readme"
 }

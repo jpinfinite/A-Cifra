@@ -103,6 +103,7 @@ export const metadata: Metadata = {
     'theme-color': '#155C8B',
     'msapplication-TileColor': '#155C8B',
     'referrer': 'origin',
+    'mobile-web-app-capable': 'yes',
   },
 }
 

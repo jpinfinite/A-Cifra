@@ -98,3 +98,9 @@ Please retry in 54.119117345s. [{"@type":"type.googleapis.com/google.rpc.Help","
 [2025-12-20T02:42:01.676Z] === INICIANDO AUTO-PUBLISHER (GEMINI + POLLINATIONS) ===
 [2025-12-20T02:42:01.690Z] ❌ ERRO: GEMINI_API_KEY não encontrada no .env. Configure-a para continuar.
 [2025-12-20T02:42:01.691Z] Obtenha em: https://aistudio.google.com/app/apikey
+[2025-12-20T05:42:01.413Z] === INICIANDO AUTO-PUBLISHER (GEMINI + POLLINATIONS) ===
+[2025-12-20T05:42:01.416Z] ❌ ERRO: GEMINI_API_KEY não encontrada no .env. Configure-a para continuar.
+[2025-12-20T05:42:01.420Z] Obtenha em: https://aistudio.google.com/app/apikey
+[2025-12-20T08:42:00.961Z] === INICIANDO AUTO-PUBLISHER (GEMINI + POLLINATIONS) ===
+[2025-12-20T08:42:00.963Z] ❌ ERRO: GEMINI_API_KEY não encontrada no .env. Configure-a para continuar.
+[2025-12-20T08:42:00.968Z] Obtenha em: https://aistudio.google.com/app/apikey
